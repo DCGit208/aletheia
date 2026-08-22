@@ -2,15 +2,18 @@
 
 import Link from "next/link";
 import { useParams } from "next/navigation";
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { DeniedState, EmptyState } from "@/components/content/query-state";
-import { Button, buttonVariants } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
+import { buttonVariants } from "@/components/ui/button";
+import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet";
 import { canAccessContent } from "@/lib/access/entitlements";
 import { getBook, listChapters } from "@/lib/data/repository";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
 import { cn } from "@/lib/utils";
+
+const fieldClass =
+  "h-8 w-full rounded-lg border border-input bg-transparent px-2.5 text-sm outline-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50";
 
 export default function ReaderPage() {
   const { bookId } = useParams<{ bookId: string }>();
@@ -23,6 +26,7 @@ export default function ReaderPage() {
   const [query, setQuery] = useState("");
   const [fontSize, setFontSize] = useState(1.15);
   const [tocOpen, setTocOpen] = useState(false);
+  const savedKey = useRef("");
 
   const chapter = chapters.find((item) => item.id === chapterId) ?? chapters[0];
   const index = chapters.findIndex((item) => item.id === chapter?.id);
@@ -37,10 +41,11 @@ export default function ReaderPage() {
     : false;
 
   useEffect(() => {
-    if (book && chapter && allowed) {
-      const percent = Math.round(((index + 1) / chapters.length) * 100);
-      setReadingProgress(book.id, chapter.id, percent);
-    }
+    if (!book || !chapter || !allowed) return;
+    const key = `${book.id}:${chapter.id}`;
+    if (savedKey.current === key) return;
+    savedKey.current = key;
+    setReadingProgress(book.id, chapter.id, Math.round(((index + 1) / chapters.length) * 100));
   }, [allowed, book, chapter, chapters.length, index, setReadingProgress]);
 
   const highlighted = useMemo(() => {
@@ -66,45 +71,69 @@ export default function ReaderPage() {
               {t("reader.progress")}: {Math.round(((index + 1) / chapters.length) * 100)}%
             </p>
           </div>
-          <Button variant="outline" size="sm" onClick={() => setTocOpen((open) => !open)}>
+          <button
+            type="button"
+            className={cn(buttonVariants({ variant: "outline", size: "sm" }))}
+            aria-expanded={tocOpen}
+            onClick={() => setTocOpen(true)}
+          >
             {t("reader.contents")}
-          </Button>
-          <Button variant="ghost" size="sm" onClick={() => setFontSize((size) => Math.min(1.5, size + 0.1))} aria-label="Increase type">
+          </button>
+          <button
+            type="button"
+            className={cn(buttonVariants({ variant: "ghost", size: "sm" }))}
+            onClick={() => setFontSize((size) => Math.min(1.5, size + 0.1))}
+            aria-label="Increase type"
+          >
             A+
-          </Button>
-          <Button variant="ghost" size="sm" onClick={() => setFontSize((size) => Math.max(0.95, size - 0.1))} aria-label="Decrease type">
+          </button>
+          <button
+            type="button"
+            className={cn(buttonVariants({ variant: "ghost", size: "sm" }))}
+            onClick={() => setFontSize((size) => Math.max(0.95, size - 0.1))}
+            aria-label="Decrease type"
+          >
             A-
-          </Button>
+          </button>
         </div>
       </header>
 
-      {tocOpen ? (
-        <nav className="mx-auto max-w-3xl px-4 py-4" aria-label="Table of contents">
-          <ol className="space-y-2">
-            {chapters.map((item) => (
-              <li key={item.id}>
-                <button
-                  type="button"
-                  className={cn("text-left hover:underline", item.id === chapter.id && "font-medium")}
-                  onClick={() => {
-                    setChapterId(item.id);
-                    setTocOpen(false);
-                  }}
-                >
-                  {item.number}. {item.title}
-                </button>
-              </li>
-            ))}
-          </ol>
-        </nav>
-      ) : null}
+      <Sheet open={tocOpen} onOpenChange={setTocOpen}>
+        <SheetContent side="left" className="p-0">
+          <SheetHeader>
+            <SheetTitle>{t("reader.contents")}</SheetTitle>
+          </SheetHeader>
+          <nav aria-label="Table of contents" className="px-4 pb-6">
+            <ol className="space-y-2">
+              {chapters.map((item) => (
+                <li key={item.id}>
+                  <button
+                    type="button"
+                    className={cn(
+                      "w-full rounded-md px-2 py-2 text-left hover:bg-muted",
+                      item.id === chapter.id && "bg-secondary font-medium",
+                    )}
+                    onClick={() => {
+                      setChapterId(item.id);
+                      setTocOpen(false);
+                    }}
+                  >
+                    {item.number}. {item.title}
+                  </button>
+                </li>
+              ))}
+            </ol>
+          </nav>
+        </SheetContent>
+      </Sheet>
 
       <div className="mx-auto max-w-3xl px-4 py-4">
         <label className="sr-only" htmlFor="book-search">
           {t("reader.search")}
         </label>
-        <Input
+        <input
           id="book-search"
+          className={fieldClass}
           value={query}
           onChange={(event) => setQuery(event.target.value)}
           placeholder={t("reader.search")}
@@ -132,14 +161,20 @@ export default function ReaderPage() {
 
       <footer className="mx-auto flex max-w-3xl justify-between gap-3 px-4 pt-4 pb-10">
         {chapters[index - 1] ? (
-          <Button variant="outline" onClick={() => setChapterId(chapters[index - 1].id)}>
+          <button
+            type="button"
+            className={cn(buttonVariants({ variant: "outline" }))}
+            onClick={() => setChapterId(chapters[index - 1].id)}
+          >
             {t("reader.previous")}
-          </Button>
+          </button>
         ) : (
           <span />
         )}
         {chapters[index + 1] ? (
-          <Button onClick={() => setChapterId(chapters[index + 1].id)}>{t("reader.next")}</Button>
+          <button type="button" className={cn(buttonVariants())} onClick={() => setChapterId(chapters[index + 1].id)}>
+            {t("reader.next")}
+          </button>
         ) : (
           <Link href={`/learn/books/${book.id}`} className={buttonVariants({ variant: "outline" })}>
             {book.title}

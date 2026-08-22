@@ -14,11 +14,14 @@ export function BrandMark({ compact = false, className }: { compact?: boolean; c
         <span className="font-heading text-[1.05rem] font-medium tracking-[0.14em] text-foreground">
           {BRAND.platform}
         </span>
-        {!compact ? (
-          <span className="mt-1 text-[0.62rem] tracking-[0.22em] text-muted-foreground uppercase">
-            {BRAND.positioning}
-          </span>
-        ) : null}
+        <span
+          className={cn(
+            "mt-1 text-[0.62rem] tracking-[0.22em] text-muted-foreground uppercase",
+            compact && "hidden sm:block",
+          )}
+        >
+          {BRAND.positioning}
+        </span>
       </span>
     </span>
   );

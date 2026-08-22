@@ -7,7 +7,6 @@ import { SectionHeader } from "@/components/content/section-header";
 import { buttonVariants } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { useAuth } from "@/lib/auth/provider";
-import { BRAND } from "@/lib/brand";
 import {
   getBook,
   getCourse,
@@ -33,7 +32,7 @@ export default function HomePage() {
   return (
     <div>
       <PageIntro
-        kicker={BRAND.master}
+        kicker={t("brand.positioning")}
         title={user ? `${user.displayName}` : t("home.guestTitle")}
         lead={user ? t("home.guestLead") : t("home.guestLead")}
       />
