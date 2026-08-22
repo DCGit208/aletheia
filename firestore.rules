@@ -1,0 +1,359 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // ===============================================================
+    // Assumed Data Model
+    // ===============================================================
+    //
+    // profiles/{uid}
+    //   displayName: string (1-80), photoUrl?: string <= 500, bio?: string <= 2000,
+    //   locale: 'en'|'fr'
+    //
+    // usersPrivate/{uid}
+    //   email: string, createdAt: timestamp
+    //   NO public read. Owner read only.
+    //
+    // usersPrivate/{uid}/entitlements/{id}
+    //   userId, contentKind, contentId, source, grantedAt
+    //   Client cannot create purchase/subscription grants. Client may create
+    //   enrollment grants for free/public courses only.
+    //
+    // usersPrivate/{uid}/enrollments/{id}
+    //   userId, courseId, startedAt, completedLessonIds: list<string> <= 200
+    //
+    // usersPrivate/{uid}/readingProgress/{bookId}
+    //   userId, bookId, chapterId, percent: 0-100, updatedAt
+    //
+    // usersPrivate/{uid}/bookmarks/{id}
+    //   userId, kind, targetId, label <= 200, createdAt
+    //
+    // usersPrivate/{uid}/orders/{id}
+    //   Client create denied. Written by trusted backend after payment verify.
+    //
+    // books, courses, learningPaths, journals, journalIssues, articles,
+    // communities, boards, topics, products, announcements, authors
+    //   status: draft|review|published|archived
+    //   Privileged writes: administrator claim only.
+    //
+    // bookChapters/{id}: bookId, number, title, body <= 200000
+    // lessons/{id}: courseId, moduleId, number, title, body <= 20000
+    // posts/{id}: topicId, authorUid, authorName <= 80, body <= 8000, createdAt
+    // reports/{id}: reporterUid, targetPath, reason <= 500, createdAt
+    // auditLogs/{id}: admin only
+    //
+    // ===============================================================
+
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+
+    function role() {
+      return isAuthenticated() && 'aletheiaRole' in request.auth.token
+        ? request.auth.token.aletheiaRole
+        : 'guest';
+    }
+
+    function isAdmin() {
+      return role() == 'administrator';
+    }
+
+    function isModerator() {
+      return role() == 'moderator' || isAdmin();
+    }
+
+    function isMemberLike() {
+      return role() in ['member', 'student', 'author', 'contributor', 'moderator', 'administrator'];
+    }
+
+    function hasOnlyAllowedFields(fields) {
+      return request.resource.data.keys().hasOnly(fields);
+    }
+
+    function validString(field, minLen, maxLen) {
+      return field in request.resource.data
+        && request.resource.data[field] is string
+        && request.resource.data[field].size() >= minLen
+        && request.resource.data[field].size() <= maxLen;
+    }
+
+    function optionalString(field, minLen, maxLen) {
+      return !(field in request.resource.data)
+        || (request.resource.data[field] is string
+          && request.resource.data[field].size() >= minLen
+          && request.resource.data[field].size() <= maxLen);
+    }
+
+    function publishedPublic() {
+      return resource.data.status == 'published'
+        && resource.data.accessLevel in ['public', 'free'];
+    }
+
+    function publishedOnly() {
+      return resource.data.status == 'published';
+    }
+
+    function isValidProfile(data) {
+      return hasOnlyAllowedFields(['displayName', 'photoUrl', 'bio', 'locale'])
+        && data.displayName is string
+        && data.displayName.size() >= 1
+        && data.displayName.size() <= 80
+        && optionalString('photoUrl', 0, 500)
+        && optionalString('bio', 0, 2000)
+        && data.locale in ['en', 'fr'];
+    }
+
+    function isValidEnrollment(data, userId) {
+      return hasOnlyAllowedFields(['userId', 'courseId', 'startedAt', 'completedLessonIds'])
+        && data.userId == userId
+        && data.courseId is string
+        && data.courseId.size() > 0
+        && data.courseId.size() < 80
+        && data.startedAt is timestamp
+        && data.completedLessonIds is list
+        && data.completedLessonIds.size() <= 200;
+    }
+
+    function isValidBookmark(data, userId) {
+      return hasOnlyAllowedFields(['userId', 'kind', 'targetId', 'label', 'createdAt'])
+        && data.userId == userId
+        && data.kind in ['course', 'path', 'book', 'journal', 'article', 'community', 'topic', 'product']
+        && data.targetId is string
+        && data.targetId.size() < 80
+        && data.label is string
+        && data.label.size() <= 200
+        && data.createdAt is timestamp;
+    }
+
+    function isValidProgress(data, userId, bookId) {
+      return hasOnlyAllowedFields(['userId', 'bookId', 'chapterId', 'percent', 'updatedAt'])
+        && data.userId == userId
+        && data.bookId == bookId
+        && data.chapterId is string
+        && data.chapterId.size() < 80
+        && data.percent is number
+        && data.percent >= 0
+        && data.percent <= 100
+        && data.updatedAt is timestamp;
+    }
+
+    function isValidPost(data) {
+      return hasOnlyAllowedFields(['topicId', 'authorUid', 'authorName', 'body', 'createdAt'])
+        && data.topicId is string
+        && data.authorUid == request.auth.uid
+        && data.authorName is string
+        && data.authorName.size() > 0
+        && data.authorName.size() <= 80
+        && data.body is string
+        && data.body.size() >= 1
+        && data.body.size() <= 8000
+        && data.createdAt is timestamp;
+    }
+
+    function isValidReport(data) {
+      return hasOnlyAllowedFields(['reporterUid', 'targetPath', 'reason', 'createdAt', 'status'])
+        && data.reporterUid == request.auth.uid
+        && data.targetPath is string
+        && data.targetPath.size() <= 300
+        && data.reason is string
+        && data.reason.size() >= 3
+        && data.reason.size() <= 500
+        && data.createdAt is timestamp
+        && data.status == 'open';
+    }
+
+    match /profiles/{userId} {
+      allow read: if true;
+      allow create: if isOwner(userId) && isValidProfile(request.resource.data);
+      allow update: if isOwner(userId) && isValidProfile(request.resource.data)
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['displayName', 'photoUrl', 'bio', 'locale']);
+      allow delete: if isAdmin();
+    }
+
+    match /usersPrivate/{userId} {
+      allow read: if isOwner(userId) || isAdmin();
+      allow create: if isOwner(userId)
+        && hasOnlyAllowedFields(['email', 'createdAt'])
+        && request.resource.data.email == request.auth.token.email
+        && request.resource.data.createdAt is timestamp;
+      allow update, delete: if isAdmin();
+
+      match /entitlements/{id} {
+        allow read: if isOwner(userId) || isAdmin();
+        allow create: if isAdmin()
+          || (isOwner(userId)
+            && request.resource.data.userId == userId
+            && request.resource.data.source == 'enrollment'
+            && request.resource.data.contentKind == 'course'
+            && request.resource.data.contentId is string
+            && exists(/databases/$(database)/documents/courses/$(request.resource.data.contentId))
+            && get(/databases/$(database)/documents/courses/$(request.resource.data.contentId)).data.accessLevel in ['public', 'free']
+            && get(/databases/$(database)/documents/courses/$(request.resource.data.contentId)).data.status == 'published');
+        allow update, delete: if isAdmin();
+      }
+
+      match /enrollments/{id} {
+        allow read: if isOwner(userId) || isAdmin();
+        allow create, update: if isOwner(userId) && isValidEnrollment(request.resource.data, userId);
+        allow delete: if isAdmin();
+      }
+
+      match /readingProgress/{bookId} {
+        allow read: if isOwner(userId) || isAdmin();
+        allow create, update: if isOwner(userId) && isValidProgress(request.resource.data, userId, bookId);
+        allow delete: if isOwner(userId) || isAdmin();
+      }
+
+      match /bookmarks/{id} {
+        allow read: if isOwner(userId) || isAdmin();
+        allow create, update: if isOwner(userId) && isValidBookmark(request.resource.data, userId);
+        allow delete: if isOwner(userId);
+      }
+
+      match /orders/{id} {
+        allow read: if isOwner(userId) || isAdmin();
+        allow create, update, delete: if isAdmin();
+      }
+
+      match /notifications/{id} {
+        allow read, update: if isOwner(userId);
+        allow create, delete: if isAdmin();
+      }
+    }
+
+    match /authors/{id} {
+      allow read: if publishedOnly() || isAdmin();
+      allow write: if isAdmin();
+    }
+
+    match /books/{id} {
+      allow read: if publishedOnly() || isAdmin();
+      allow write: if isAdmin();
+    }
+
+    match /bookChapters/{id} {
+      allow read: if isAdmin()
+        || (exists(/databases/$(database)/documents/books/$(resource.data.bookId))
+          && get(/databases/$(database)/documents/books/$(resource.data.bookId)).data.status == 'published'
+          && (
+            get(/databases/$(database)/documents/books/$(resource.data.bookId)).data.accessLevel in ['public', 'free']
+            || resource.id in get(/databases/$(database)/documents/books/$(resource.data.bookId)).data.previewChapterIds
+            || (isAuthenticated()
+              && exists(/databases/$(database)/documents/usersPrivate/$(request.auth.uid)/entitlements/$(request.auth.uid + ':book:' + resource.data.bookId)))
+          ));
+      allow write: if isAdmin();
+    }
+
+    match /courses/{id} {
+      allow read: if publishedOnly() || isAdmin();
+      allow write: if isAdmin();
+    }
+
+    match /learningPaths/{id} {
+      allow read: if publishedOnly() || isAdmin();
+      allow write: if isAdmin();
+    }
+
+    match /modules/{id} {
+      allow read: if isAdmin()
+        || (exists(/databases/$(database)/documents/courses/$(resource.data.courseId))
+          && get(/databases/$(database)/documents/courses/$(resource.data.courseId)).data.status == 'published');
+      allow write: if isAdmin();
+    }
+
+    match /lessons/{id} {
+      allow read: if isAdmin()
+        || (exists(/databases/$(database)/documents/courses/$(resource.data.courseId))
+          && get(/databases/$(database)/documents/courses/$(resource.data.courseId)).data.status == 'published'
+          && (
+            get(/databases/$(database)/documents/courses/$(resource.data.courseId)).data.accessLevel in ['public', 'free']
+            || (isAuthenticated()
+              && exists(/databases/$(database)/documents/usersPrivate/$(request.auth.uid)/entitlements/$(request.auth.uid + ':course:' + resource.data.courseId)))
+          ));
+      allow write: if isAdmin();
+    }
+
+    match /journals/{id} {
+      allow read: if publishedPublic() || isAdmin();
+      allow write: if isAdmin();
+    }
+
+    match /journalIssues/{id} {
+      allow read: if publishedPublic() || isAdmin();
+      allow write: if isAdmin();
+    }
+
+    match /articles/{id} {
+      allow read: if publishedPublic() || isAdmin();
+      allow write: if isAdmin();
+    }
+
+    match /communities/{id} {
+      allow read: if publishedOnly() || isAdmin();
+      allow write: if isAdmin();
+    }
+
+    match /boards/{id} {
+      allow read: if publishedOnly() || isAdmin();
+      allow write: if isAdmin();
+    }
+
+    match /topics/{id} {
+      allow read: if publishedOnly() || isAdmin();
+      allow create: if isAdmin();
+      allow update, delete: if isModerator();
+    }
+
+    match /posts/{id} {
+      allow read: if isModerator()
+        || resource.data.authorUid == request.auth.uid
+        || (exists(/databases/$(database)/documents/topics/$(resource.data.topicId))
+          && get(/databases/$(database)/documents/topics/$(resource.data.topicId)).data.status == 'published');
+      allow create: if isMemberLike() && isValidPost(request.resource.data);
+      allow update, delete: if isModerator()
+        || (isOwner(resource.data.authorUid) && isValidPost(request.resource.data)
+          && request.resource.data.authorUid == resource.data.authorUid
+          && request.resource.data.createdAt == resource.data.createdAt
+          && request.resource.data.topicId == resource.data.topicId);
+    }
+
+    match /products/{id} {
+      allow read: if publishedOnly() || isAdmin();
+      allow write: if isAdmin();
+    }
+
+    match /announcements/{id} {
+      allow read: if publishedOnly() || isAdmin();
+      allow write: if isAdmin();
+    }
+
+    match /home/{id} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /searchIndex/{id} {
+      allow read: if resource.data.status == 'published';
+      allow write: if isAdmin();
+    }
+
+    match /reports/{id} {
+      allow create: if isAuthenticated() && isValidReport(request.resource.data);
+      allow read, update: if isModerator();
+      allow delete: if isAdmin();
+    }
+
+    match /auditLogs/{id} {
+      allow read: if isAdmin();
+      allow write: if false;
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

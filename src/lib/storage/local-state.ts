@@ -1,0 +1,65 @@
+import type { Bookmark, Enrollment, Entitlement, Order, ReadingProgress } from "@/lib/data/types";
+
+const prefix = "aletheia";
+
+function read<T>(key: string, fallback: T): T {
+  if (typeof window === "undefined") return fallback;
+  try {
+    const raw = window.localStorage.getItem(`${prefix}.${key}`);
+    return raw ? (JSON.parse(raw) as T) : fallback;
+  } catch {
+    return fallback;
+  }
+}
+
+function write<T>(key: string, value: T) {
+  window.localStorage.setItem(`${prefix}.${key}`, JSON.stringify(value));
+}
+
+export function loadEntitlements(userId: string): Entitlement[] {
+  return read<Entitlement[]>(`entitlements.${userId}`, []);
+}
+
+export function saveEntitlements(userId: string, items: Entitlement[]) {
+  write(`entitlements.${userId}`, items);
+}
+
+export function loadEnrollments(userId: string): Enrollment[] {
+  return read<Enrollment[]>(`enrollments.${userId}`, []);
+}
+
+export function saveEnrollments(userId: string, items: Enrollment[]) {
+  write(`enrollments.${userId}`, items);
+}
+
+export function loadOrders(userId: string): Order[] {
+  return read<Order[]>(`orders.${userId}`, []);
+}
+
+export function saveOrders(userId: string, items: Order[]) {
+  write(`orders.${userId}`, items);
+}
+
+export function loadBookmarks(userId: string): Bookmark[] {
+  return read<Bookmark[]>(`bookmarks.${userId}`, []);
+}
+
+export function saveBookmarks(userId: string, items: Bookmark[]) {
+  write(`bookmarks.${userId}`, items);
+}
+
+export function loadProgress(userId: string): ReadingProgress[] {
+  return read<ReadingProgress[]>(`progress.${userId}`, []);
+}
+
+export function saveProgress(userId: string, items: ReadingProgress[]) {
+  write(`progress.${userId}`, items);
+}
+
+export function loadCart(): string[] {
+  return read<string[]>("cart", []);
+}
+
+export function saveCart(productIds: string[]) {
+  write("cart", productIds);
+}

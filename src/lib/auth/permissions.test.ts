@@ -1,0 +1,58 @@
+import { describe, it } from "node:test";
+import assert from "node:assert/strict";
+import { hasPermission } from "./permissions";
+import { canAccessContent } from "../access/entitlements";
+
+describe("permissions", () => {
+  it("does not grant admin from membership", () => {
+    assert.equal(hasPermission("member", "admin.access"), false);
+    assert.equal(hasPermission("administrator", "admin.access"), true);
+  });
+
+  it("does not let guests create communities", () => {
+    assert.equal(hasPermission("guest", "community.create"), false);
+    assert.equal(hasPermission("member", "community.create"), false);
+    assert.equal(hasPermission("administrator", "community.create"), true);
+  });
+});
+
+describe("entitlements", () => {
+  it("allows public content without a grant", () => {
+    assert.equal(
+      canAccessContent({
+        accessLevel: "public",
+        preview: false,
+        entitlements: [],
+        contentKind: "book",
+        contentId: "book-unveiling",
+      }),
+      true,
+    );
+  });
+
+  it("blocks entitled content without a matching grant", () => {
+    assert.equal(
+      canAccessContent({
+        accessLevel: "entitled",
+        preview: false,
+        entitlements: [],
+        contentKind: "book",
+        contentId: "book-named",
+      }),
+      false,
+    );
+  });
+
+  it("allows a preview chapter without treating paid as true", () => {
+    assert.equal(
+      canAccessContent({
+        accessLevel: "entitled",
+        preview: true,
+        entitlements: [],
+        contentKind: "book",
+        contentId: "book-named",
+      }),
+      true,
+    );
+  });
+});
