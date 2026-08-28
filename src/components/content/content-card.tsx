@@ -8,6 +8,8 @@ export function ContentCard({
   subtitle,
   meta,
   tone,
+  image,
+  imageFit,
   badge,
   layout = "poster",
 }: {
@@ -16,6 +18,8 @@ export function ContentCard({
   subtitle?: string;
   meta?: string;
   tone?: string;
+  image?: string;
+  imageFit?: "contain" | "cover";
   badge?: string;
   layout?: "poster" | "tile";
 }) {
@@ -27,7 +31,15 @@ export function ContentCard({
         layout === "poster" ? "w-[42vw] max-w-[168px] min-w-[132px]" : "w-full",
       )}
     >
-      <Cover title={title} subtitle={badge} tone={tone} compact className="shadow-[0_10px_28px_oklch(0_0_0_/_0.35)]" />
+      <Cover
+        title={title}
+        subtitle={badge}
+        tone={tone}
+        image={image}
+        fit={imageFit}
+        compact
+        className="shadow-[0_10px_28px_oklch(0_0_0_/_0.35)]"
+      />
       <div className="mt-2.5 space-y-0.5">
         <h3 className="line-clamp-2 font-heading text-[0.95rem] leading-snug">{title}</h3>
         {subtitle ? <p className="line-clamp-1 text-xs text-muted-foreground">{subtitle}</p> : null}

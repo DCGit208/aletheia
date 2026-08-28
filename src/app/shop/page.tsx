@@ -72,6 +72,8 @@ export default function ShopPage() {
             title={product.title}
             subtitle={product.priceCents === 0 ? "Free" : `$${(product.priceCents / 100).toFixed(2)}`}
             tone={product.coverTone}
+            image={product.coverImage}
+            imageFit={product.kind === "bundle" ? "cover" : "contain"}
             badge={product.kind}
           />
         ))}

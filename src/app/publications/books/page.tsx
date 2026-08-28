@@ -19,6 +19,7 @@ export default function PublicationBooksPage() {
             title={book.title}
             subtitle={book.subtitle}
             tone={book.coverTone}
+            image={book.coverImage}
             meta={book.authors.map((author) => author.displayName).join(", ")}
           />
         ))}

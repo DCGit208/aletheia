@@ -72,6 +72,7 @@ export interface Book {
   categories: string[];
   tags: string[];
   coverTone: string;
+  coverImage?: string;
   status: ContentStatus;
   accessLevel: AccessLevel;
   previewChapterIds: string[];
@@ -97,6 +98,7 @@ export interface Course {
   difficulty: Difficulty;
   durationMinutes: number;
   coverTone: string;
+  coverImage?: string;
   status: ContentStatus;
   accessLevel: AccessLevel;
   productId?: string;
@@ -218,10 +220,13 @@ export interface Product {
   description: string;
   kind: ProductKind;
   contentId?: string;
+  includedContentIds?: string[];
   priceCents: number;
+  compareAtCents?: number;
   currency: "USD";
   status: ContentStatus;
   coverTone: string;
+  coverImage?: string;
 }
 
 export interface Announcement {

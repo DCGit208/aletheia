@@ -1,33 +1,35 @@
 import { BRAND } from "@/lib/brand";
 import type { CatalogSnapshot } from "@/lib/data/types";
 
-const miriam = { id: "author-okoro", displayName: "Miriam Okoro" };
-const samuel = { id: "author-adeyemi", displayName: "Samuel Adeyemi" };
+const achu = { id: "author-achu", displayName: "Dr. Coach Achu Gustave" };
 const faculty = { id: "author-faculty", displayName: "Aletheia Faculty" };
 
 export const catalog: CatalogSnapshot = {
   authors: [
     {
-      id: miriam.id,
-      displayName: miriam.displayName,
-      title: "Theologian and educator",
+      id: achu.id,
+      displayName: achu.displayName,
+      title: "Author and publisher",
       biography:
-        "Miriam Okoro writes on truth-telling, formation, and the moral life of institutions. She teaches across the Aletheia learning paths.",
-      publicationIds: ["book-unveiling", "article-unveiled-speech"],
-      bookIds: ["book-unveiling"],
-      articleIds: ["article-unveiled-speech"],
-      courseIds: ["course-truth"],
-    },
-    {
-      id: samuel.id,
-      displayName: samuel.displayName,
-      title: "Writer and pastor-teacher",
-      biography:
-        "Samuel Adeyemi works at the intersection of identity, calling, and public life. His books and courses treat naming as a moral act.",
-      publicationIds: ["book-named", "book-steward"],
-      bookIds: ["book-named", "book-steward"],
-      articleIds: ["article-steward-city"],
-      courseIds: ["course-identity", "course-dominion"],
+        "Dr. Coach Achu Gustave writes and publishes under Aletheia Publications. The work is ordered toward truth, identity, and dominion — a higher humanity, not a louder feed.",
+      publicationIds: [
+        "book-beyond-ai-man",
+        "book-doctrine-of-man",
+        "book-real-man-ai",
+        "book-parables-hidden-treasure",
+        "book-great-deception",
+        "article-unveiled-speech",
+        "article-steward-city",
+      ],
+      bookIds: [
+        "book-beyond-ai-man",
+        "book-doctrine-of-man",
+        "book-real-man-ai",
+        "book-parables-hidden-treasure",
+        "book-great-deception",
+      ],
+      articleIds: ["article-unveiled-speech", "article-steward-city"],
+      courseIds: ["course-truth", "course-identity", "course-dominion"],
     },
     {
       id: faculty.id,
@@ -42,193 +44,181 @@ export const catalog: CatalogSnapshot = {
   ],
   books: [
     {
-      id: "book-unveiling",
-      title: "The Unveiling",
-      subtitle: "Truth as a way of seeing",
+      id: "book-beyond-ai-man",
+      title: "Beyond AI — Man",
+      subtitle: "Eternal Answers",
       description:
-        "A meditation on aletheia — not information collected, but reality disclosed. Okoro argues that truth is received before it is deployed, and that learning begins with the courage to be addressed.",
-      authors: [miriam],
+        "AI is the creation; man is the creator by design. Genesis 1:27–28. Truth | Identity | Dominion. The in-app manuscript is being prepared; the published cover and thesis are here now.",
+      authors: [achu],
       contributors: [],
       publisher: BRAND.publications,
-      publishedAt: "2025-09-01",
-      isbn: "978-0-000000-01-1",
+      publishedAt: "2026-01-01",
+      language: "en",
+      edition: "First",
+      categories: ["Identity", "Dominion"],
+      tags: ["ai", "man", "genesis", "dominion"],
+      coverTone: "ink",
+      coverImage: "/covers/beyond-ai-man.jpg",
+      status: "published",
+      accessLevel: "entitled",
+      previewChapterIds: ["ch-beyond-1"],
+      productId: "product-beyond-ai-man",
+      chapterCount: 1,
+    },
+    {
+      id: "book-doctrine-of-man",
+      title: "The Doctrine of Man",
+      subtitle: "Identity. Nature. Purpose. Dominion.",
+      description:
+        "A biblical foundation for a redefined generation. Created in His image. Restored in His glory. Called to dominion. Cover and thesis are live; full chapters follow.",
+      authors: [achu],
+      contributors: [],
+      publisher: BRAND.publications,
+      publishedAt: "2026-01-01",
+      language: "en",
+      edition: "First",
+      categories: ["Identity", "Truth"],
+      tags: ["doctrine", "identity", "image", "dominion"],
+      coverTone: "gold",
+      coverImage: "/covers/doctrine-of-man.jpg",
+      status: "published",
+      accessLevel: "entitled",
+      previewChapterIds: ["ch-doctrine-1"],
+      productId: "product-doctrine-of-man",
+      chapterCount: 1,
+    },
+    {
+      id: "book-real-man-ai",
+      title: "The Real Man in the Age of AI",
+      subtitle: "Created in the Image of God, Restored in Christ, Called to Dominion",
+      description:
+        "The future is not about how powerful AI becomes. It is about how well we understand who man really is. Created for purpose. Redeemed by Christ. Restored to identity. Called to dominion.",
+      authors: [achu],
+      contributors: [],
+      publisher: BRAND.publications,
+      publishedAt: "2026-01-01",
+      language: "en",
+      edition: "First",
+      categories: ["Identity", "Dominion"],
+      tags: ["man", "ai", "christ", "dominion"],
+      coverTone: "earth",
+      coverImage: "/covers/real-man-age-of-ai.jpg",
+      status: "published",
+      accessLevel: "entitled",
+      previewChapterIds: ["ch-real-man-1"],
+      productId: "product-real-man-ai",
+      chapterCount: 1,
+    },
+    {
+      id: "book-parables-hidden-treasure",
+      title: "The Parables of the Hidden Treasure",
+      subtitle: "Discover the Kingdom. Value the Treasure. Live the Truth.",
+      description:
+        "Matthew 13:44. A volume on finding, valuing, and living the kingdom. Cover mockup is published; the reader text is being prepared.",
+      authors: [achu],
+      contributors: [],
+      publisher: BRAND.publications,
+      publishedAt: "2026-01-01",
       language: "en",
       edition: "First",
       categories: ["Truth", "Formation"],
-      tags: ["aletheia", "discernment", "foundations"],
-      coverTone: "ink",
+      tags: ["parables", "kingdom", "matthew"],
+      coverTone: "gold",
+      coverImage: "/covers/parables-hidden-treasure.jpg",
       status: "published",
-      accessLevel: "public",
-      previewChapterIds: ["ch-unveiling-1"],
-      productId: "product-unveiling",
-      chapterCount: 3,
+      accessLevel: "entitled",
+      previewChapterIds: ["ch-parables-1"],
+      productId: "product-parables-hidden-treasure",
+      chapterCount: 1,
     },
     {
-      id: "book-named",
-      title: "Named and Known",
-      subtitle: "Identity without performance",
+      id: "book-great-deception",
+      title: "The Great Deception",
+      subtitle: "When Truth Is Rejected, Lies Become Believable",
       description:
-        "Identity is not a brand we assemble. Adeyemi traces how people are named, received, and formed — and how a truth-centered life resists the market of self-invention.",
-      authors: [samuel],
+        "A study of 2 Thessalonians 2:3–12. When truth is refused, a lie does not have to shout. It only has to become familiar. Cover is live; full study text follows.",
+      authors: [achu],
       contributors: [],
       publisher: BRAND.publications,
-      publishedAt: "2026-01-15",
-      isbn: "978-0-000000-02-8",
+      publishedAt: "2026-01-01",
       language: "en",
       edition: "First",
-      categories: ["Identity", "Formation"],
-      tags: ["identity", "calling", "personhood"],
-      coverTone: "gold",
+      categories: ["Truth"],
+      tags: ["deception", "thessalonians", "truth"],
+      coverTone: "ink",
+      coverImage: "/covers/great-deception.jpg",
       status: "published",
       accessLevel: "entitled",
-      previewChapterIds: ["ch-named-1"],
-      productId: "product-named",
-      chapterCount: 3,
-    },
-    {
-      id: "book-steward",
-      title: "The Steward's Charge",
-      subtitle: "Dominion as faithful responsibility",
-      description:
-        "Dominion, in this account, is not conquest. It is the charge to keep, cultivate, and answer for a place, a people, and a trust. A book for those who lead without needing to own.",
-      authors: [samuel],
-      contributors: [miriam],
-      publisher: BRAND.publications,
-      publishedAt: "2026-06-01",
-      isbn: "978-0-000000-03-5",
-      language: "en",
-      edition: "First",
-      categories: ["Dominion", "Ethics"],
-      tags: ["stewardship", "leadership", "responsibility"],
-      coverTone: "earth",
-      status: "published",
-      accessLevel: "entitled",
-      previewChapterIds: ["ch-steward-1"],
-      productId: "product-steward",
-      chapterCount: 3,
+      previewChapterIds: ["ch-deception-1"],
+      productId: "product-great-deception",
+      chapterCount: 1,
     },
   ],
   chapters: [
     {
-      id: "ch-unveiling-1",
-      bookId: "book-unveiling",
+      id: "ch-beyond-1",
+      bookId: "book-beyond-ai-man",
       number: 1,
-      title: "What is disclosed",
-      body: `Aletheia is an old word for a simple, costly act: the covering is taken away.
+      title: "Thesis",
+      body: `AI is the creation. Man is the creator by design.
 
-We often treat truth as a possession — a set of statements we can store, brand, and defend. That habit makes us noisy and unwise. A statement can be correct and still be used to hide. A person can win an argument and remain unaddressed by what is real.
+Genesis 1:27–28 is not a caption added after the machine. It is the ground the machine stands on. This volume asks a generation to recover that order before it asks what artificial intelligence can do.
 
-This book begins elsewhere. Truth is first something that happens to us. Reality shows itself. We are not its authors. We are its witnesses, and then, if we are faithful, its servants.
+Truth. Identity. Dominion.
 
-The work of learning, then, is not the accumulation of opinions. It is apprenticeship to what is there. That apprenticeship requires attention, patience, and a willingness to be corrected. It also requires a community that will not reward the clever disguise.
-
-Aletheia World exists because this work is too large for a single classroom and too important to leave to the market. The platform you are reading on is one room in that house: a place to study, to publish, to converse, and to keep what we have been given.`,
+The full manuscript is being prepared for this reader. What you hold here is the published thesis and the cover as it stands in the world.`,
     },
     {
-      id: "ch-unveiling-2",
-      bookId: "book-unveiling",
-      number: 2,
-      title: "The discipline of attention",
-      body: `Attention is the first moral act of the mind.
-
-Without it, we do not meet the world; we meet our haste. Screens reward the skim. Institutions reward the summary. A truth-centered life requires the opposite motion: staying long enough for a thing to become itself in our sight.
-
-This is why Aletheia treats reading as a first-class practice, not a leftover from print culture. A chapter is not a feed item. It asks for time. It forms the person who gives that time.
-
-The discipline is ordinary. Close the extra door. Read aloud when the mind slips. Return tomorrow to the same page. Refuse the flattering lie that you already know.
-
-In later courses we will speak of method, sources, and argument. None of that substitutes for this: a person who can remain present to what is in front of them.`,
-    },
-    {
-      id: "ch-unveiling-3",
-      bookId: "book-unveiling",
-      number: 3,
-      title: "Truth in common",
-      body: `No one unveils the world alone.
-
-Private insight has its hour, but a people needs shared language, shared tests, and shared repair when we have been wrong. That is why this platform holds learning, publication, and community in one house. A book without conversation becomes a relic. A conversation without books becomes weather.
-
-The test of a community is not how loudly it agrees. It is whether it can receive correction without humiliation, and whether it can keep the weak from being used as evidence.
-
-If you continue from this chapter into the learning path, you will find courses that treat truth as formation, identity as gift, and dominion as a charge. They belong together. Separated, each becomes a slogan.
-
-Read on. Then talk. Then live as if you were witnessed.`,
-    },
-    {
-      id: "ch-named-1",
-      bookId: "book-named",
+      id: "ch-doctrine-1",
+      bookId: "book-doctrine-of-man",
       number: 1,
-      title: "Before the market of the self",
-      body: `The present age trains us to assemble an identity the way a shop assembles a window: select, arrange, refresh, defend.
+      title: "Thesis",
+      body: `A biblical foundation for a redefined generation.
 
-That training is not neutral. It makes the person into a product and the neighbor into an audience. Exhaustion follows, then contempt.
+Identity. Nature. Purpose. Dominion.
 
-This book refuses the shop window as a model of the soul. You were named before you performed. You were known before you were useful. Identity, in the older sense, is received — from God, from a people, from the long work of being addressed and answering.
+Created in His image. Restored in His glory. Called to dominion.
 
-The first chapter is therefore a clearing. We will not begin with branding advice. We will begin with the fact that someone else had to speak you into a story.`,
+This book treats man as a doctrine, not a trend. The cover is the work as it is printed. The remaining chapters will enter this reader as they are prepared.`,
     },
     {
-      id: "ch-named-2",
-      bookId: "book-named",
-      number: 2,
-      title: "Name, vocation, and limit",
-      body: `A name is not a mood. It is a location.
-
-To be named is to be placed: in a family, a language, a history, a set of duties that do not vanish when they become inconvenient. Vocation grows from that placement. It is not the same as ambition, and it is not the same as preference.
-
-Limit is part of the gift. The person who can do anything in theory often does nothing in particular. The person who knows their charge can become faithful in a small place.
-
-Aletheia's learning path treats this as curriculum, not decoration. Identity studies that never arrive at duty are entertainment. Duty that never remembers the name becomes machinery.`,
-    },
-    {
-      id: "ch-named-3",
-      bookId: "book-named",
-      number: 3,
-      title: "Being known without display",
-      body: `There is a kind of visibility that heals, and a kind that consumes.
-
-To be known by a wise friend, a teacher, a congregation, a household — this is shelter. To be displayed without remainder is exposure. The difference is not always obvious on a platform. It must be practiced.
-
-This chapter is an invitation to rebuild practices of being known: confession without spectacle, achievement without self-advertisement, disagreement without exile.
-
-If you have purchased this book, you have not bought a personality. You have bought time with an argument. Take the time. Let it argue with you.`,
-    },
-    {
-      id: "ch-steward-1",
-      bookId: "book-steward",
+      id: "ch-real-man-1",
+      bookId: "book-real-man-ai",
       number: 1,
-      title: "The word we misused",
-      body: `Dominion is a damaged word. In too many mouths it has meant taking, exhausting, and calling the ruin success.
+      title: "Thesis",
+      body: `Created in the image of God. Restored in Christ. Called to dominion in the age of AI.
 
-Scripture and the older moral vocabulary meant something else: a charge. The garden is given, and the gardener will answer for it. Rule, in this sense, is measured by the flourishing of what is not you.
+The future is not about how powerful AI becomes. It is about how well we understand who man really is.
 
-This book recovers that charge for households, schools, enterprises, and public trust. It is not a manifesto for seizing institutions. It is a school for keeping them.`,
+Created for purpose. Redeemed by Christ. Restored to identity. Called to dominion.
+
+Full chapters will follow this published cover into the app.`,
     },
     {
-      id: "ch-steward-2",
-      bookId: "book-steward",
-      number: 2,
-      title: "Keep, cultivate, answer",
-      body: `Three verbs will carry us.
+      id: "ch-parables-1",
+      bookId: "book-parables-hidden-treasure",
+      number: 1,
+      title: "Thesis",
+      body: `Discover the kingdom. Value the treasure. Live the truth.
 
-Keep: refuse the casual loss of what was entrusted. Cultivate: improve without erasing. Answer: live as one who will be asked.
+Matthew 13:44.
 
-These verbs scale. They fit a child with a garden bed and a minister with a city. They do not fit the person who wants the title without the audit.
+A man finds what was hidden, sells what he had, and buys the field. This volume reads that parable as a charge: see the worth, pay the cost, live inside the find.
 
-In the accompanying course we will apply them to teaching, publishing, and community moderation — the actual work of Aletheia, not an abstract kingdom.`,
+The printed cover is here. The complete text is being prepared for this reader.`,
     },
     {
-      id: "ch-steward-3",
-      bookId: "book-steward",
-      number: 3,
-      title: "Power that can be audited",
-      body: `A platform that speaks of dominion must submit its own power to the same charge.
+      id: "ch-deception-1",
+      bookId: "book-great-deception",
+      number: 1,
+      title: "Thesis",
+      body: `When truth is rejected, lies become believable.
 
-That is why Aletheia separates content from product, product from order, and order from entitlement. Access is not a rumor the browser tells itself. It is a record that can be granted, reviewed, and revoked.
+A study of 2 Thessalonians 2:3–12.
 
-It is also why community roles are assigned, not assumed, and why administration is a protected room rather than a hidden button.
+A people that will not receive the truth does not become empty. It becomes occupied. This book is a study, not a slogan: how refusal prepares the ground for a lie that feels like home.
 
-If this architecture feels slower than a campaign site, that is the point. Stewards move at the speed of answerability.`,
+The cover is published. The full study will enter this reader next.`,
     },
   ],
   courses: [
@@ -237,12 +227,13 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
       title: "Foundations of Truth",
       subtitle: "Seeing, testing, and speaking",
       description:
-        "A first course in the Aletheia path. Students practice attention, source discipline, and truthful speech — then write a short public argument.",
-      instructor: miriam,
+        "A first course in the Aletheia path, read beside The Great Deception. Students practice attention, source discipline, and truthful speech.",
+      instructor: achu,
       category: "Truth",
       difficulty: "introductory",
       durationMinutes: 240,
       coverTone: "ink",
+      coverImage: "/covers/great-deception.jpg",
       status: "published",
       accessLevel: "free",
       learningPathIds: ["path-aletheia"],
@@ -256,12 +247,13 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
       title: "Identity Formed",
       subtitle: "Name, story, and vocation",
       description:
-        "How a person is named and made. Readings from Named and Known, with exercises in biography, limit, and calling.",
-      instructor: samuel,
+        "How a person is named and made. Readings from The Doctrine of Man, with exercises in identity, nature, purpose, and dominion.",
+      instructor: achu,
       category: "Identity",
       difficulty: "intermediate",
       durationMinutes: 300,
       coverTone: "gold",
+      coverImage: "/covers/doctrine-of-man.jpg",
       status: "published",
       accessLevel: "free",
       learningPathIds: ["path-aletheia"],
@@ -275,12 +267,13 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
       title: "Dominion as Stewardship",
       subtitle: "The charge to keep a place",
       description:
-        "A course on responsible rule: households, institutions, and public trust. Paired with The Steward's Charge.",
-      instructor: samuel,
+        "A course on responsible rule in the age of machines. Paired with The Real Man in the Age of AI and Beyond AI — Man.",
+      instructor: achu,
       category: "Dominion",
       difficulty: "intermediate",
       durationMinutes: 280,
       coverTone: "earth",
+      coverImage: "/covers/real-man-age-of-ai.jpg",
       status: "published",
       accessLevel: "entitled",
       productId: "product-course-dominion",
@@ -319,8 +312,8 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
       number: 1,
       title: "Aletheia as unveiling",
       durationMinutes: 25,
-      resourceIds: ["book-unveiling"],
-      body: "Read chapter one of The Unveiling. Then write six sentences describing one thing you have been skimming — a person, a text, or a place — and what it would cost to give it attention.",
+      resourceIds: ["book-great-deception"],
+      body: "Read the thesis of The Great Deception. Then write six sentences describing one claim you have repeated without a source — and what it would cost to test it.",
     },
     {
       id: "les-truth-2",
@@ -329,7 +322,7 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
       number: 2,
       title: "Practicing attention",
       durationMinutes: 30,
-      resourceIds: ["book-unveiling"],
+      resourceIds: ["book-great-deception"],
       body: "Spend twenty uninterrupted minutes with a single page. Note every time you reach for a second screen. The lesson is the noticing, not the score.",
     },
     {
@@ -359,8 +352,8 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
       number: 1,
       title: "The shop window",
       durationMinutes: 30,
-      resourceIds: ["book-named"],
-      body: "Read the opening of Named and Known. List three ways you have treated your own name as a product this month. Do not share the list unless you choose to.",
+      resourceIds: ["book-doctrine-of-man"],
+      body: "Read the thesis of The Doctrine of Man. List three ways you have treated your own name as a product this month. Do not share the list unless you choose to.",
     },
     {
       id: "les-id-2",
@@ -369,7 +362,7 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
       number: 2,
       title: "Received names",
       durationMinutes: 35,
-      resourceIds: ["book-named"],
+      resourceIds: ["book-doctrine-of-man"],
       body: "Write the story of your name as you received it — family, language, faith, or place. Stay with facts before interpretation.",
     },
     {
@@ -379,7 +372,7 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
       number: 3,
       title: "Vocation and limit",
       durationMinutes: 40,
-      resourceIds: ["book-named"],
+      resourceIds: ["book-doctrine-of-man"],
       body: "Name one charge that is actually yours this year, and one ambition that is not. The course asks for the first to become a practice.",
     },
     {
@@ -389,8 +382,8 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
       number: 1,
       title: "A damaged word",
       durationMinutes: 30,
-      resourceIds: ["book-steward"],
-      body: "Read The Steward's Charge, chapter one. Replace 'dominion' in one sentence of your public life with 'charge I will answer for.' Does the sentence still hold?",
+      resourceIds: ["book-real-man-ai"],
+      body: "Read the thesis of The Real Man in the Age of AI. Replace 'dominion' in one sentence of your public life with 'charge I will answer for.' Does the sentence still hold?",
     },
     {
       id: "les-dom-2",
@@ -399,7 +392,7 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
       number: 2,
       title: "Keep, cultivate, answer",
       durationMinutes: 35,
-      resourceIds: ["book-steward"],
+      resourceIds: ["book-beyond-ai-man"],
       body: "Apply the three verbs to one concrete trust: a classroom, a budget, a household, a forum. Write the audit you would accept.",
     },
     {
@@ -409,7 +402,7 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
       number: 3,
       title: "Auditable power",
       durationMinutes: 40,
-      resourceIds: ["book-steward"],
+      resourceIds: ["book-beyond-ai-man"],
       body: "Study how Aletheia separates content, product, order, and entitlement. Design the same separation for one ministry or enterprise you know.",
     },
   ],
@@ -419,7 +412,7 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
       title: "Aletheia Journal",
       description:
         "A reviewed journal for studies in truth, formation, and public responsibility. Issues, not a loose pile of articles.",
-      editor: miriam,
+      editor: achu,
       frequency: "Twice yearly",
       coverTone: "ink",
       status: "published",
@@ -447,7 +440,7 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
       title: "Unveiled Speech",
       abstract: "On testimony, rhetoric, and the difference between winning and witnessing.",
       body: "Public speech can be accurate and still be a covering. This article distinguishes testimony from performance and proposes editorial tests for Aletheia Publications: source, limit, and the presence of the person spoken about.",
-      authors: [miriam],
+      authors: [achu],
       categories: ["Truth", "Rhetoric"],
       tags: ["speech", "ethics"],
       status: "published",
@@ -461,7 +454,7 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
       title: "The Steward and the City",
       abstract: "Dominion language in civic life, recovered as answerable charge.",
       body: "Cities are not trophies. This study reads stewardship against extraction and sketches practices for schools, congregations, and municipal trust — including why platforms that teach dominion must themselves be auditable.",
-      authors: [samuel],
+      authors: [achu],
       categories: ["Dominion", "Public life"],
       tags: ["city", "stewardship"],
       status: "published",
@@ -503,7 +496,7 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
       boardId: "board-studies",
       title: "Attention as a first assignment",
       excerpt: "Students of Foundations of Truth are posting their source work here.",
-      authorName: "Miriam Okoro",
+      authorName: "Dr. Coach Achu Gustave",
       replyCount: 2,
       pinned: false,
       locked: false,
@@ -516,7 +509,7 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
       boardId: "board-studies",
       title: "Stories of a received name",
       excerpt: "Optional sharing from the Identity Formed course.",
-      authorName: "Samuel Adeyemi",
+      authorName: "Dr. Coach Achu Gustave",
       replyCount: 1,
       pinned: false,
       locked: false,
@@ -548,7 +541,7 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
     {
       id: "post-attention-1",
       topicId: "topic-attention",
-      authorName: "Miriam Okoro",
+      authorName: "Dr. Coach Achu Gustave",
       createdAt: "2026-08-12",
       body: "Bring a source, not a slogan. If you cannot locate the claim, say so. That sentence is already a form of truth-telling.",
     },
@@ -562,7 +555,7 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
     {
       id: "post-name-1",
       topicId: "topic-name",
-      authorName: "Samuel Adeyemi",
+      authorName: "Dr. Coach Achu Gustave",
       createdAt: "2026-08-18",
       body: "Share only what you can stand behind without performing. The exercise is formation, not content.",
     },
@@ -576,37 +569,78 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
   ],
   products: [
     {
-      id: "product-unveiling",
-      title: "The Unveiling",
-      description: "Digital edition. Preview is open; full text is granted on purchase or promotional entitlement.",
-      kind: "book",
-      contentId: "book-unveiling",
-      priceCents: 0,
-      currency: "USD",
-      status: "published",
-      coverTone: "ink",
-    },
-    {
-      id: "product-named",
-      title: "Named and Known",
-      description: "Digital edition of the identity volume.",
-      kind: "book",
-      contentId: "book-named",
-      priceCents: 1800,
+      id: "product-foundations-bundle",
+      title: "Three Foundational Books",
+      description:
+        "Beyond AI — Man, The Doctrine of Man, and The Real Man in the Age of AI. Three books, one mission. Regular value $300. Bundle $150.",
+      kind: "bundle",
+      includedContentIds: ["book-beyond-ai-man", "book-doctrine-of-man", "book-real-man-ai"],
+      priceCents: 15000,
+      compareAtCents: 30000,
       currency: "USD",
       status: "published",
       coverTone: "gold",
+      coverImage: "/covers/foundations-bundle.jpg",
     },
     {
-      id: "product-steward",
-      title: "The Steward's Charge",
-      description: "Digital edition of the dominion volume.",
+      id: "product-beyond-ai-man",
+      title: "Beyond AI — Man",
+      description: "Digital edition. Cover and thesis are open to preview; full manuscript follows.",
       kind: "book",
-      contentId: "book-steward",
-      priceCents: 1800,
+      contentId: "book-beyond-ai-man",
+      priceCents: 10000,
+      currency: "USD",
+      status: "published",
+      coverTone: "ink",
+      coverImage: "/covers/beyond-ai-man.jpg",
+    },
+    {
+      id: "product-doctrine-of-man",
+      title: "The Doctrine of Man",
+      description: "Digital edition of the identity volume.",
+      kind: "book",
+      contentId: "book-doctrine-of-man",
+      priceCents: 10000,
+      currency: "USD",
+      status: "published",
+      coverTone: "gold",
+      coverImage: "/covers/doctrine-of-man.jpg",
+    },
+    {
+      id: "product-real-man-ai",
+      title: "The Real Man in the Age of AI",
+      description: "Digital edition on man, Christ, and dominion in the age of AI.",
+      kind: "book",
+      contentId: "book-real-man-ai",
+      priceCents: 10000,
       currency: "USD",
       status: "published",
       coverTone: "earth",
+      coverImage: "/covers/real-man-age-of-ai.jpg",
+    },
+    {
+      id: "product-parables-hidden-treasure",
+      title: "The Parables of the Hidden Treasure",
+      description: "Digital edition. Matthew 13:44.",
+      kind: "book",
+      contentId: "book-parables-hidden-treasure",
+      priceCents: 10000,
+      currency: "USD",
+      status: "published",
+      coverTone: "gold",
+      coverImage: "/covers/parables-hidden-treasure.jpg",
+    },
+    {
+      id: "product-great-deception",
+      title: "The Great Deception",
+      description: "Digital edition. A study of 2 Thessalonians 2:3–12.",
+      kind: "book",
+      contentId: "book-great-deception",
+      priceCents: 10000,
+      currency: "USD",
+      status: "published",
+      coverTone: "ink",
+      coverImage: "/covers/great-deception.jpg",
     },
     {
       id: "product-course-dominion",
@@ -618,32 +652,39 @@ If this architecture feels slower than a campaign site, that is the point. Stewa
       currency: "USD",
       status: "published",
       coverTone: "earth",
+      coverImage: "/covers/real-man-age-of-ai.jpg",
     },
   ],
   announcements: [
     {
       id: "ann-foundation",
-      title: "Aletheia foundation is open",
-      body: "The platform now holds Home, Learn, Publications, Community, Shop, and Account as one application. Firebase connection is the next operational step, not a second product.",
-      publishedAt: "2026-08-22",
+      title: "The books are in the house",
+      body: "Beyond AI — Man, The Doctrine of Man, The Real Man in the Age of AI, The Parables of the Hidden Treasure, and The Great Deception are now in Publications and Shop with their published covers. Full manuscripts enter the reader next.",
+      publishedAt: "2026-08-28",
       status: "published",
       important: true,
     },
     {
       id: "ann-journal",
       title: "Aletheia Journal, Issue 1",
-      body: "Unveiling is available under Publications. Articles remain attached to their issue.",
+      body: "Issue 1 remains available under Publications. Articles stay attached to their issue.",
       publishedAt: "2026-03-01",
       status: "published",
       important: false,
     },
   ],
   home: {
-    featuredCourseIds: ["course-truth", "course-identity"],
-    featuredBookIds: ["book-unveiling", "book-named"],
+    featuredCourseIds: ["course-truth", "course-identity", "course-dominion"],
+    featuredBookIds: [
+      "book-doctrine-of-man",
+      "book-real-man-ai",
+      "book-beyond-ai-man",
+      "book-parables-hidden-treasure",
+      "book-great-deception",
+    ],
     featuredJournalIds: ["journal-aletheia"],
     announcementIds: ["ann-foundation", "ann-journal"],
-    featuredProductIds: ["product-named", "product-course-dominion"],
+    featuredProductIds: ["product-foundations-bundle", "product-doctrine-of-man", "product-real-man-ai"],
     featuredTopicIds: ["topic-attention", "topic-city"],
   },
 };

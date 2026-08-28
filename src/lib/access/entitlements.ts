@@ -1,4 +1,4 @@
-import type { AccessLevel, Entitlement, EntitlementSource } from "@/lib/data/types";
+import type { AccessLevel, Entitlement, EntitlementSource, Product } from "@/lib/data/types";
 
 export function canAccessContent(options: {
   accessLevel: AccessLevel;
@@ -33,4 +33,13 @@ export function makeEntitlement(
     source,
     grantedAt: new Date().toISOString(),
   };
+}
+
+export function grantTargetsForProduct(product: Product): { contentKind: Entitlement["contentKind"]; contentId: string }[] {
+  if (product.kind === "bundle") {
+    return (product.includedContentIds ?? []).map((contentId) => ({ contentKind: "book" as const, contentId }));
+  }
+  if (!product.contentId) return [];
+  if (product.kind === "course") return [{ contentKind: "course", contentId: product.contentId }];
+  return [{ contentKind: "book", contentId: product.contentId }];
 }

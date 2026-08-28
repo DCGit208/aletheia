@@ -35,7 +35,7 @@ export default function CourseDetailPage() {
 
   return (
     <article className="grid gap-8 md:grid-cols-[220px_1fr]">
-      <Cover title={course.title} subtitle={course.subtitle} tone={course.coverTone} />
+      <Cover title={course.title} subtitle={course.subtitle} tone={course.coverTone} image={course.coverImage} />
       <div>
         <p className="text-[0.7rem] tracking-[0.2em] text-muted-foreground uppercase">{course.category}</p>
         <h1 className="mt-2 font-heading text-3xl tracking-wide">{course.title}</h1>

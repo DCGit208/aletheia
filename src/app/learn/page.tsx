@@ -40,6 +40,7 @@ export default function LearnPage() {
             title={course.title}
             subtitle={course.subtitle}
             tone={course.coverTone}
+            image={course.coverImage}
             badge={course.difficulty}
           />
         ))}
@@ -54,7 +55,7 @@ export default function LearnPage() {
       </section>
       <Rail title={t("learn.library")} href="/learn/library" actionLabel={t("action.viewAll")}>
         {books.map((book) => (
-          <ContentCard key={book.id} href={`/learn/books/${book.id}`} title={book.title} subtitle={book.subtitle} tone={book.coverTone} />
+          <ContentCard key={book.id} href={`/learn/books/${book.id}`} title={book.title} subtitle={book.subtitle} tone={book.coverTone} image={book.coverImage} />
         ))}
       </Rail>
       {journals.map((journal) => (

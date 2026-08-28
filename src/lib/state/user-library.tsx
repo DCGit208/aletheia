@@ -2,7 +2,7 @@
 
 import { createContext, useContext, useMemo, useSyncExternalStore, type ReactNode } from "react";
 import { useAuth } from "@/lib/auth/provider";
-import { makeEntitlement } from "@/lib/access/entitlements";
+import { makeEntitlement, grantTargetsForProduct } from "@/lib/access/entitlements";
 import { getProduct } from "@/lib/data/repository";
 import type { Bookmark, ContentKind, Enrollment, Entitlement, Order, ReadingProgress } from "@/lib/data/types";
 import {
@@ -141,10 +141,11 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
         setOrders([order, ...orders]);
         const granted = [...entitlements];
         for (const product of products) {
-          if (!product?.contentId) continue;
-          const kind = product.kind === "course" ? "course" : "book";
-          if (!granted.some((item) => item.contentId === product.contentId)) {
-            granted.push(makeEntitlement(user.uid, kind, product.contentId, "purchase"));
+          if (!product) continue;
+          for (const target of grantTargetsForProduct(product)) {
+            if (!granted.some((item) => item.contentKind === target.contentKind && item.contentId === target.contentId)) {
+              granted.push(makeEntitlement(user.uid, target.contentKind, target.contentId, "purchase"));
+            }
           }
         }
         setEntitlements(granted);

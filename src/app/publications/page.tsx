@@ -31,6 +31,7 @@ export default function PublicationsPage() {
             title={book.title}
             subtitle={book.authors.map((author) => author.displayName).join(", ")}
             tone={book.coverTone}
+            image={book.coverImage}
           />
         ))}
       </Rail>

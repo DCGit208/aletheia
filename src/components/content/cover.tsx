@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { cn } from "@/lib/utils";
 
 const tones: Record<string, string> = {
@@ -10,15 +11,33 @@ export function Cover({
   title,
   subtitle,
   tone = "ink",
+  image,
+  fit = "contain",
   className,
   compact = false,
 }: {
   title: string;
   subtitle?: string;
   tone?: string;
+  image?: string;
+  fit?: "contain" | "cover";
   className?: string;
   compact?: boolean;
 }) {
+  if (image) {
+    return (
+      <div className={cn("relative aspect-[3/4] overflow-hidden rounded-2xl bg-[#0c0a08]", className)}>
+        <Image
+          src={image}
+          alt={title}
+          fill
+          sizes="(max-width: 560px) 50vw, 220px"
+          className={fit === "cover" ? "object-cover object-center" : "object-contain object-center"}
+        />
+      </div>
+    );
+  }
+
   return (
     <div
       className={cn(

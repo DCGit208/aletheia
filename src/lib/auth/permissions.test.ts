@@ -24,7 +24,7 @@ describe("entitlements", () => {
         preview: false,
         entitlements: [],
         contentKind: "book",
-        contentId: "book-unveiling",
+        contentId: "book-great-deception",
       }),
       true,
     );
@@ -37,7 +37,7 @@ describe("entitlements", () => {
         preview: false,
         entitlements: [],
         contentKind: "book",
-        contentId: "book-named",
+        contentId: "book-doctrine-of-man",
       }),
       false,
     );
@@ -50,7 +50,7 @@ describe("entitlements", () => {
         preview: true,
         entitlements: [],
         contentKind: "book",
-        contentId: "book-named",
+        contentId: "book-doctrine-of-man",
       }),
       true,
     );

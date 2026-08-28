@@ -96,6 +96,7 @@ export default function HomePage() {
               title={course.title}
               subtitle={course.subtitle}
               tone={course.coverTone}
+              image={course.coverImage}
               meta={course.instructor.displayName}
             />
           );
@@ -113,6 +114,7 @@ export default function HomePage() {
               title={book.title}
               subtitle={book.authors.map((author) => author.displayName).join(", ")}
               tone={book.coverTone}
+              image={book.coverImage}
             />
           );
         })}
@@ -164,6 +166,8 @@ export default function HomePage() {
               title={product.title}
               subtitle={product.priceCents === 0 ? "Free" : `$${(product.priceCents / 100).toFixed(2)}`}
               tone={product.coverTone}
+              image={product.coverImage}
+              imageFit={product.kind === "bundle" ? "cover" : "contain"}
             />
           );
         })}

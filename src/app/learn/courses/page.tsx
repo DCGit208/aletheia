@@ -25,6 +25,7 @@ export default function CoursesPage() {
               title={course.title}
               subtitle={course.subtitle}
               tone={course.coverTone}
+              image={course.coverImage}
               meta={`${course.durationMinutes} min · ${course.difficulty}`}
               badge={course.accessLevel}
             />

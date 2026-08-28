@@ -25,7 +25,7 @@ assert.equal(
     preview: false,
     entitlements: [],
     contentKind: "book",
-    contentId: "book-named",
+    contentId: "book-doctrine-of-man",
   }),
   false,
 );
@@ -35,7 +35,7 @@ assert.equal(
     preview: true,
     entitlements: [],
     contentKind: "book",
-    contentId: "book-named",
+    contentId: "book-doctrine-of-man",
   }),
   true,
 );
