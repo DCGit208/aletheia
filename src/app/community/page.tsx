@@ -1,8 +1,8 @@
 "use client";
 
-import Link from "next/link";
+import { ListRow } from "@/components/content/list-row";
 import { PageIntro } from "@/components/content/page-intro";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { SectionHeader } from "@/components/content/section-header";
 import { listBoards, listCommunities } from "@/lib/data/repository";
 import { useI18n } from "@/lib/i18n/provider";
 
@@ -12,34 +12,24 @@ export default function CommunityPage() {
 
   return (
     <div>
-      <PageIntro title={t("community.title")} lead={t("community.lead")} />
-      <div className="space-y-6">
-        {communities.map((community) => (
-          <section key={community.id}>
-            <Card>
-              <CardHeader>
-                <CardTitle>
-                  <Link href={`/community/${community.id}`}>{community.title}</Link>
-                </CardTitle>
-              </CardHeader>
-              <CardContent className="text-muted-foreground">{community.description}</CardContent>
-            </Card>
-            <ul className="mt-3 space-y-2">
-              {listBoards(community.id).map((board) => (
-                <li key={board.id}>
-                  <Link
-                    href={`/community/${community.id}/${board.id}`}
-                    className="block rounded-xl px-4 py-3 ring-1 ring-foreground/10 hover:bg-card"
-                  >
-                    <p className="font-medium">{board.title}</p>
-                    <p className="text-sm text-muted-foreground">{board.description}</p>
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </section>
-        ))}
-      </div>
+      <PageIntro kicker="Live" title={t("community.title")} lead={t("community.lead")} />
+      {communities.map((community) => (
+        <section key={community.id} className="mb-8">
+          <SectionHeader title={community.title} href={`/community/${community.id}`} actionLabel={t("action.open")} />
+          <p className="mb-3 text-sm text-muted-foreground">{community.description}</p>
+          <div className="overflow-hidden rounded-2xl bg-card">
+            {listBoards(community.id).map((board) => (
+              <ListRow
+                key={board.id}
+                href={`/community/${community.id}/${board.id}`}
+                title={board.title}
+                subtitle={board.description}
+                meta={`${board.topicCount}`}
+              />
+            ))}
+          </div>
+        </section>
+      ))}
     </div>
   );
 }

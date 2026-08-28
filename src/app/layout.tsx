@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import type { ReactNode } from "react";
 import { Fraunces, Geist_Mono, Source_Sans_3 } from "next/font/google";
 import { Providers } from "@/components/providers";
 import { BRAND } from "@/lib/brand";
@@ -33,7 +34,7 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     title: BRAND.platform,
-    statusBarStyle: "default",
+    statusBarStyle: "black-translucent",
   },
   icons: {
     icon: [{ url: "/icons/icon.svg", type: "image/svg+xml" }],
@@ -42,16 +43,17 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#6b5428",
+  themeColor: "#100e0b",
   width: "device-width",
   initialScale: 1,
+  viewportFit: "cover",
 };
 
-export default function RootLayout({ children }: LayoutProps<"/">) {
+export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html
       lang="en"
-      className={`${sourceSans.variable} ${fraunces.variable} ${geistMono.variable} h-full`}
+      className={`${sourceSans.variable} ${fraunces.variable} ${geistMono.variable} dark h-full`}
     >
       <body className="min-h-full">
         <Providers>{children}</Providers>

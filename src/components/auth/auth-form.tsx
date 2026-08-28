@@ -9,7 +9,7 @@ import { useI18n } from "@/lib/i18n/provider";
 import { cn } from "@/lib/utils";
 
 const fieldClass =
-  "h-8 w-full min-w-0 rounded-lg border border-input bg-transparent px-2.5 py-1 text-sm outline-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50";
+  "h-11 w-full min-w-0 rounded-full border border-input bg-white/4 px-4 text-sm outline-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50";
 
 export function AuthForm({ mode }: { mode: "sign-in" | "sign-up" }) {
   const { t } = useI18n();
@@ -84,7 +84,7 @@ export function AuthForm({ mode }: { mode: "sign-in" | "sign-up" }) {
         />
       </div>
       {error ? <p className="text-sm text-destructive">{error}</p> : null}
-      <button type="submit" className={cn(buttonVariants())} disabled={pending}>
+      <button type="submit" className={cn(buttonVariants({ size: "lg" }), "h-11 w-full justify-center rounded-full")} disabled={pending}>
         {t("auth.submit")}
       </button>
     </form>

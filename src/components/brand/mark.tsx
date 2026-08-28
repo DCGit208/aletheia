@@ -6,22 +6,19 @@ export function BrandMark({ compact = false, className }: { compact?: boolean; c
     <span className={cn("flex items-center gap-2.5", className)}>
       <span
         aria-hidden
-        className="grid size-8 place-items-center rounded-sm border border-primary/30 bg-primary text-[0.95rem] font-heading font-medium tracking-[0.12em] text-primary-foreground"
+        className="grid size-8 place-items-center rounded-full border border-primary/40 bg-primary/10 text-[0.95rem] font-heading tracking-[0.08em] text-primary"
       >
         Α
       </span>
       <span className="flex min-w-0 flex-col leading-none">
-        <span className="font-heading text-[1.05rem] font-medium tracking-[0.14em] text-foreground">
+        <span className="font-heading text-[1.05rem] tracking-[0.18em] text-foreground">
           {BRAND.platform}
         </span>
-        <span
-          className={cn(
-            "mt-1 text-[0.62rem] tracking-[0.22em] text-muted-foreground uppercase",
-            compact && "hidden sm:block",
-          )}
-        >
-          {BRAND.positioning}
-        </span>
+        {compact ? null : (
+          <span className="mt-1 text-[0.58rem] tracking-[0.22em] text-muted-foreground uppercase">
+            {BRAND.positioning}
+          </span>
+        )}
       </span>
     </span>
   );

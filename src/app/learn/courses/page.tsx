@@ -16,10 +16,11 @@ export default function CoursesPage() {
       {items.length === 0 ? (
         <EmptyState />
       ) : (
-        <div className="grid grid-cols-2 gap-4 md:grid-cols-3">
+        <div className="grid grid-cols-2 gap-4">
           {items.map((course) => (
             <ContentCard
               key={course.id}
+              layout="tile"
               href={`/learn/courses/${course.id}`}
               title={course.title}
               subtitle={course.subtitle}

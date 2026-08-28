@@ -59,8 +59,8 @@ export default function ReaderPage() {
   if (!allowed) return <DeniedState />;
 
   return (
-    <div className="min-h-dvh bg-[oklch(0.97_0.01_88)] text-foreground">
-      <header className="sticky top-0 z-30 border-b border-border/70 bg-[oklch(0.97_0.01_88)]/95 backdrop-blur">
+    <div className="min-h-dvh bg-[#f3eee4] text-[#1a1712]">
+      <header className="sticky top-0 z-30 border-b border-[#1a1712]/10 bg-[#f3eee4]/95 backdrop-blur" style={{ paddingTop: "env(safe-area-inset-top)" }}>
         <div className="mx-auto flex max-w-3xl items-center gap-2 px-4 py-2">
           <Link href={`/learn/books/${book.id}`} className={cn(buttonVariants({ variant: "ghost", size: "sm" }))}>
             Close

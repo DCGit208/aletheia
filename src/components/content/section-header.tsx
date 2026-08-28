@@ -1,21 +1,26 @@
 import Link from "next/link";
-import { buttonVariants } from "@/components/ui/button";
-import { cn } from "@/lib/utils";
 
 export function SectionHeader({
+  kicker,
   title,
   href,
   actionLabel,
 }: {
+  kicker?: string;
   title: string;
   href?: string;
   actionLabel?: string;
 }) {
   return (
-    <div className="mb-4 flex items-end justify-between gap-3">
-      <h2 className="font-heading text-xl tracking-wide md:text-2xl">{title}</h2>
+    <div className="mb-3 flex items-end justify-between gap-3">
+      <div>
+        {kicker ? (
+          <p className="mb-1 text-[0.62rem] tracking-[0.22em] text-primary uppercase">{kicker}</p>
+        ) : null}
+        <h2 className="font-heading text-[1.35rem] leading-none">{title}</h2>
+      </div>
       {href ? (
-        <Link href={href} className={cn(buttonVariants({ variant: "link", size: "sm" }), "px-0")}>
+        <Link href={href} className="text-xs tracking-wide text-muted-foreground uppercase">
           {actionLabel}
         </Link>
       ) : null}

@@ -8,12 +8,12 @@ export function PageIntro({
   lead?: string;
 }) {
   return (
-    <header className="mb-8 max-w-2xl">
+    <header className="mb-6">
       {kicker ? (
-        <p className="mb-2 text-[0.7rem] tracking-[0.24em] text-muted-foreground uppercase">{kicker}</p>
+        <p className="mb-2 text-[0.62rem] tracking-[0.24em] text-primary uppercase">{kicker}</p>
       ) : null}
-      <h1 className="font-heading text-3xl tracking-wide md:text-4xl">{title}</h1>
-      {lead ? <p className="mt-3 text-base leading-relaxed text-muted-foreground">{lead}</p> : null}
+      <h1 className="font-heading text-[1.85rem] leading-[1.05]">{title}</h1>
+      {lead ? <p className="mt-2 text-sm leading-relaxed text-muted-foreground">{lead}</p> : null}
     </header>
   );
 }

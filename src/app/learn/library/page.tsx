@@ -27,10 +27,11 @@ export default function LibraryPage() {
       {accessible.length === 0 ? (
         <EmptyState body="Purchase or receive an entitlement to add titles here." />
       ) : (
-        <div className="grid grid-cols-2 gap-4 md:grid-cols-3">
+        <div className="grid grid-cols-2 gap-4">
           {accessible.map((book) => (
             <ContentCard
               key={book.id}
+              layout="tile"
               href={`/learn/books/${book.id}`}
               title={book.title}
               subtitle={book.subtitle}

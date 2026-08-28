@@ -10,10 +10,11 @@ export default function PublicationBooksPage() {
   return (
     <div>
       <PageIntro title={t("publications.books")} />
-      <div className="grid grid-cols-2 gap-4 md:grid-cols-3">
+      <div className="grid grid-cols-2 gap-4">
         {listBooks().items.map((book) => (
           <ContentCard
             key={book.id}
+            layout="tile"
             href={`/publications/books/${book.id}`}
             title={book.title}
             subtitle={book.subtitle}

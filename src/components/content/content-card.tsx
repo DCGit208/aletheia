@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { Cover } from "@/components/content/cover";
-import { Badge } from "@/components/ui/badge";
-import { Card, CardContent } from "@/components/ui/card";
+import { cn } from "@/lib/utils";
 
 export function ContentCard({
   href,
@@ -10,6 +9,7 @@ export function ContentCard({
   meta,
   tone,
   badge,
+  layout = "poster",
 }: {
   href: string;
   title: string;
@@ -17,20 +17,22 @@ export function ContentCard({
   meta?: string;
   tone?: string;
   badge?: string;
+  layout?: "poster" | "tile";
 }) {
   return (
-    <Link href={href} className="group block focus-visible:outline-none">
-      <Card className="overflow-hidden py-0 transition-colors group-hover:bg-card/80 group-focus-visible:ring-3 group-focus-visible:ring-ring/50">
-        <Cover title={title} subtitle={subtitle} tone={tone} className="rounded-none" />
-        <CardContent className="space-y-2 px-4 py-4">
-          <div className="flex items-start justify-between gap-2">
-            <h3 className="font-heading text-base leading-snug tracking-wide">{title}</h3>
-            {badge ? <Badge variant="secondary">{badge}</Badge> : null}
-          </div>
-          {subtitle ? <p className="text-sm text-muted-foreground">{subtitle}</p> : null}
-          {meta ? <p className="text-xs tracking-wide text-muted-foreground uppercase">{meta}</p> : null}
-        </CardContent>
-      </Card>
+    <Link
+      href={href}
+      className={cn(
+        "group block shrink-0 snap-start focus-visible:outline-none",
+        layout === "poster" ? "w-[42vw] max-w-[168px] min-w-[132px]" : "w-full",
+      )}
+    >
+      <Cover title={title} subtitle={badge} tone={tone} compact className="shadow-[0_10px_28px_oklch(0_0_0_/_0.35)]" />
+      <div className="mt-2.5 space-y-0.5">
+        <h3 className="line-clamp-2 font-heading text-[0.95rem] leading-snug">{title}</h3>
+        {subtitle ? <p className="line-clamp-1 text-xs text-muted-foreground">{subtitle}</p> : null}
+        {meta ? <p className="text-[0.65rem] tracking-[0.14em] text-muted-foreground uppercase">{meta}</p> : null}
+      </div>
     </Link>
   );
 }

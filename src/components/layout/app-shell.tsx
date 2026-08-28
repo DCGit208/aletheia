@@ -12,8 +12,6 @@ import {
   Users,
 } from "lucide-react";
 import { BrandMark } from "@/components/brand/mark";
-import { buttonVariants } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
 import { useAuth } from "@/lib/auth/provider";
 import { hasPermission } from "@/lib/auth/permissions";
 import { isFirebaseConfigured } from "@/lib/firebase/config";
@@ -21,7 +19,6 @@ import { useI18n } from "@/lib/i18n/provider";
 import { PRIMARY_NAV, resolvePrimaryNav } from "@/lib/navigation";
 import { cn } from "@/lib/utils";
 import type { MessageKey } from "@/lib/i18n/messages";
-import { Alert, AlertDescription } from "@/components/ui/alert";
 
 const icons = {
   home: Home,
@@ -42,120 +39,102 @@ export function AppShell({ children }: { children: React.ReactNode }) {
   const localMode = !isFirebaseConfigured();
 
   if (immersive) {
-    return <div className="min-h-dvh bg-background">{children}</div>;
+    return <div className="app-theater">{children}</div>;
   }
 
   return (
-    <div className="flex min-h-dvh flex-col bg-background">
-      <a
-        href="#main"
-        className="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:bg-primary focus:px-3 focus:py-2 focus:text-primary-foreground"
-      >
-        Skip to content
-      </a>
-      <header className="sticky top-0 z-40 border-b border-border/80 bg-background/90 backdrop-blur-md">
-        <div className="mx-auto flex h-14 w-full max-w-6xl items-center gap-3 px-4">
-          <Link href="/" aria-label={t("brand.platform")} className="shrink-0">
-            <BrandMark compact />
-          </Link>
-          <nav className="hidden items-center gap-1 md:flex" aria-label="Primary">
-            {PRIMARY_NAV.map((item) => {
-              const current = active === item.id;
-              return (
-                <Link
-                  key={item.id}
-                  href={item.href}
-                  aria-current={current ? "page" : undefined}
-                  className={cn(
-                    "rounded-md px-2.5 py-1.5 text-sm tracking-wide transition-colors",
-                    current ? "bg-secondary text-foreground" : "text-muted-foreground hover:text-foreground",
-                  )}
-                >
-                  {t(item.messageKey as MessageKey)}
-                </Link>
-              );
-            })}
-          </nav>
-          <form
-            className="ml-auto hidden min-w-0 flex-1 md:block md:max-w-xs"
-            onSubmit={(event) => {
-              event.preventDefault();
-              const data = new FormData(event.currentTarget);
-              const q = String(data.get("q") ?? "").trim();
-              router.push(q ? `/search?q=${encodeURIComponent(q)}` : "/search");
-            }}
-          >
-            <label className="sr-only" htmlFor="global-search">
-              {t("nav.search")}
-            </label>
-            <div className="relative">
-              <Search className="pointer-events-none absolute top-1/2 left-2.5 size-4 -translate-y-1/2 text-muted-foreground" />
-              <Input
-                id="global-search"
-                name="q"
-                placeholder={t("search.placeholder")}
-                className="h-8 pl-8"
-              />
+    <div className="app-theater">
+      <div className="app-stage flex min-h-dvh flex-col">
+        <a
+          href="#main"
+          className="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:bg-primary focus:px-3 focus:py-2 focus:text-primary-foreground"
+        >
+          Skip to content
+        </a>
+
+        <header
+          className="sticky top-0 z-40 border-b border-white/5 bg-[oklch(0.145_0.012_62_/_0.86)] backdrop-blur-xl"
+          style={{ paddingTop: "env(safe-area-inset-top)" }}
+        >
+          <div className="flex h-12 items-center gap-3 px-4">
+            <Link href="/" aria-label={t("brand.platform")} className="min-w-0">
+              <BrandMark compact />
+            </Link>
+            <div className="ml-auto flex items-center gap-1">
+              {localMode ? (
+                <span className="mr-1 hidden text-[0.62rem] tracking-[0.14em] text-muted-foreground uppercase sm:inline">
+                  Local
+                </span>
+              ) : null}
+              <button
+                type="button"
+                className="grid size-9 place-items-center rounded-full text-muted-foreground hover:bg-white/5 hover:text-foreground"
+                aria-label={t("nav.search")}
+                onClick={() => router.push("/search")}
+              >
+                <Search className="size-5" />
+              </button>
+              <Link
+                href={user ? "/account" : "/sign-in"}
+                className="grid size-9 place-items-center rounded-full bg-white/6 text-sm font-medium"
+                aria-label={user ? user.displayName : t("nav.signIn")}
+              >
+                {user ? user.displayName.slice(0, 1).toUpperCase() : <UserRound className="size-4" />}
+              </Link>
             </div>
-          </form>
-          <Link href="/search" className={cn(buttonVariants({ variant: "ghost", size: "icon" }), "md:hidden")} aria-label={t("nav.search")}>
-            <Search />
-          </Link>
-          {user ? (
-            <Link href="/account" className={cn(buttonVariants({ variant: "outline", size: "sm" }), "hidden sm:inline-flex")}>
-              {user.displayName}
-            </Link>
-          ) : (
-            <Link href="/sign-in" className={cn(buttonVariants({ size: "sm" }), "hidden sm:inline-flex")}>
-              {t("nav.signIn")}
-            </Link>
-          )}
-        </div>
-      </header>
+          </div>
+        </header>
 
-      <main id="main" className="mx-auto w-full max-w-6xl flex-1 px-4 pt-6 pb-24 md:pb-10">
-        {localMode ? (
-          <Alert className="mb-6">
-            <AlertDescription>{t("state.localMode")}</AlertDescription>
-          </Alert>
-        ) : null}
-        {children}
-      </main>
+        <main
+          id="main"
+          className="flex-1 px-5 pt-5"
+          style={{ paddingBottom: "calc(5.75rem + env(safe-area-inset-bottom))" }}
+        >
+          {children}
+        </main>
 
-      {hasPermission(user?.role, "admin.access") ? (
-        <div className="mx-auto hidden w-full max-w-6xl px-4 pb-6 md:block">
-          <Link href="/admin" className={cn(buttonVariants({ variant: "link" }), "px-0 text-muted-foreground")}>
+        {hasPermission(user?.role, "admin.access") ? (
+          <Link
+            href="/admin"
+            className="sr-only focus:not-sr-only focus:absolute focus:top-16 focus:right-4 focus:z-50 focus:rounded-md focus:bg-card focus:px-3 focus:py-2"
+          >
             {t("nav.admin")}
           </Link>
-        </div>
-      ) : null}
+        ) : null}
 
-      <nav
-        className="fixed right-0 bottom-0 left-0 z-40 border-t border-border/80 bg-background/95 backdrop-blur-md md:hidden"
-        aria-label="Primary"
-      >
-        <ul className="mx-auto grid max-w-lg grid-cols-6">
-          {PRIMARY_NAV.map((item) => {
-            const Icon = icons[item.id];
-            const current = active === item.id;
-            return (
-              <li key={item.id}>
-                <Link
-                  href={item.href}
-                  aria-current={current ? "page" : undefined}
-                  className={cn(
-                    "flex flex-col items-center gap-1 px-1 py-2.5 text-[0.65rem] tracking-wide",
-                    current ? "text-foreground" : "text-muted-foreground",
-                  )}
-                >
-                  <Icon className="size-5" aria-hidden />
-                  {t(item.messageKey as MessageKey)}
-                </Link>
-              </li>
-            );
-          })}
-        </ul>
-      </nav>
+        <nav
+          className="fixed z-50"
+          style={{
+            left: "50%",
+            bottom: "max(0.7rem, env(safe-area-inset-bottom))",
+            transform: "translateX(-50%)",
+            width: "min(calc(100% - 1.5rem), 536px)",
+          }}
+          aria-label="Primary"
+        >
+          <ul className="grid grid-cols-6 rounded-2xl border border-white/10 bg-[oklch(0.12_0.01_62_/_0.88)] p-1 shadow-[0_12px_40px_oklch(0_0_0_/_0.45)] backdrop-blur-xl">
+            {PRIMARY_NAV.map((item) => {
+              const Icon = icons[item.id];
+              const current = active === item.id;
+              return (
+                <li key={item.id}>
+                  <Link
+                    href={item.href}
+                    aria-current={current ? "page" : undefined}
+                    className={cn(
+                      "flex flex-col items-center gap-0.5 rounded-xl px-0.5 py-2 text-[0.62rem] tracking-[0.04em] transition-colors",
+                      current ? "bg-white/8 text-primary" : "text-muted-foreground",
+                    )}
+                  >
+                    <Icon className="size-[1.15rem]" strokeWidth={current ? 2.2 : 1.8} aria-hidden />
+                    {t(item.messageKey as MessageKey)}
+                  </Link>
+                </li>
+              );
+            })}
+          </ul>
+        </nav>
+      </div>
     </div>
   );
 }

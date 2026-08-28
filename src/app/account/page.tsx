@@ -1,9 +1,9 @@
 "use client";
 
 import Link from "next/link";
+import { ListRow } from "@/components/content/list-row";
 import { PageIntro } from "@/components/content/page-intro";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { buttonVariants } from "@/components/ui/button";
 import { Label } from "@/components/ui/label";
 import { hasPermission } from "@/lib/auth/permissions";
 import { useAuth } from "@/lib/auth/provider";
@@ -11,6 +11,7 @@ import { getBook, getCourse } from "@/lib/data/repository";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
 import type { Locale } from "@/lib/data/types";
+import { cn } from "@/lib/utils";
 
 const rooms = [
   { href: "/account/profile", key: "account.profile" as const },
@@ -28,7 +29,7 @@ export default function AccountPage() {
     return (
       <div>
         <PageIntro title={t("account.title")} lead={t("state.signedOut")} />
-        <Link href="/sign-in" className="underline">
+        <Link href="/sign-in" className={cn(buttonVariants({ size: "lg" }), "h-11 w-full justify-center rounded-full")}>
           {t("nav.signIn")}
         </Link>
       </div>
@@ -37,76 +38,68 @@ export default function AccountPage() {
 
   return (
     <div>
-      <PageIntro title={t("account.title")} lead={`${user.displayName} · ${user.role}`} />
-      <div className="mb-8 grid grid-cols-2 gap-3">
+      <PageIntro kicker={user.role} title={user.displayName} lead={user.email} />
+      <div className="mb-8 overflow-hidden rounded-2xl bg-card">
         {rooms.map((room) => (
-          <Link key={room.href} href={room.href} className="rounded-xl bg-card px-4 py-4 ring-1 ring-foreground/10">
-            {t(room.key)}
-          </Link>
+          <ListRow key={room.href} href={room.href} title={t(room.key)} />
         ))}
+        {hasPermission(user.role, "admin.access") ? <ListRow href="/admin" title={t("nav.admin")} /> : null}
       </div>
 
-      <Card className="mb-6">
-        <CardHeader>
-          <CardTitle>{t("account.settings")}</CardTitle>
-        </CardHeader>
-        <CardContent className="space-y-3">
+      <section className="mb-8 rounded-2xl bg-card px-4 py-4">
+        <h2 className="font-heading text-xl">{t("account.settings")}</h2>
+        <div className="mt-3 space-y-3">
           <Label htmlFor="locale">{t("account.language")}</Label>
           <select
             id="locale"
-            className="h-8 w-40 rounded-lg border border-input bg-transparent px-2 text-sm"
+            className="h-10 w-full rounded-xl border border-input bg-transparent px-3 text-sm"
             value={locale}
             onChange={(event) => setLocale(event.target.value as Locale)}
           >
             <option value="en">English</option>
             <option value="fr">Français</option>
           </select>
-          <div>
-            <Button variant="outline" onClick={() => void signOut()}>
-              {t("nav.signOut")}
-            </Button>
-          </div>
-          {hasPermission(user.role, "admin.access") ? (
-            <Link href="/admin" className="block text-sm underline">
-              {t("nav.admin")}
-            </Link>
-          ) : null}
-        </CardContent>
-      </Card>
+          <button type="button" className={cn(buttonVariants({ variant: "outline", size: "lg" }), "h-11 w-full justify-center rounded-full")} onClick={() => void signOut()}>
+            {t("nav.signOut")}
+          </button>
+        </div>
+      </section>
 
-      <section className="mb-6">
+      <section className="mb-8">
         <h2 className="mb-3 font-heading text-xl">{t("account.bookmarks")}</h2>
         {bookmarks.length === 0 ? (
           <p className="text-sm text-muted-foreground">{t("state.empty")}</p>
         ) : (
-          <ul className="space-y-2">
+          <div className="overflow-hidden rounded-2xl bg-card">
             {bookmarks.map((item) => (
-              <li key={item.id}>{item.label}</li>
+              <p key={item.id} className="border-b border-white/6 px-4 py-3 last:border-0">
+                {item.label}
+              </p>
             ))}
-          </ul>
+          </div>
         )}
       </section>
 
       <section>
         <h2 className="mb-3 font-heading text-xl">{t("learn.progress")}</h2>
-        <ul className="space-y-2 text-sm">
+        <div className="overflow-hidden rounded-2xl bg-card">
           {enrollments.map((item) => {
             const course = getCourse(item.courseId);
             return (
-              <li key={item.id}>
+              <p key={item.id} className="border-b border-white/6 px-4 py-3 text-sm last:border-0">
                 {course?.title}: {item.completedLessonIds.length} lessons
-              </li>
+              </p>
             );
           })}
           {progress.map((item) => {
             const book = getBook(item.bookId);
             return (
-              <li key={`${item.bookId}-${item.chapterId}`}>
+              <p key={`${item.bookId}-${item.chapterId}`} className="border-b border-white/6 px-4 py-3 text-sm last:border-0">
                 {book?.title}: {item.percent}%
-              </li>
+              </p>
             );
           })}
-        </ul>
+        </div>
       </section>
     </div>
   );
