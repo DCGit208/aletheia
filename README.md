@@ -29,7 +29,8 @@ Copy `.env.example` to `.env.local` when you have a Firebase web config. See `FI
 
 ## Documentation
 
-- `FOUNDATION_SCHOOL.md` — consultant brief for Foundation School (school, six courses, textbook, companion books, pricing). Share this file for review.
+- `FOUNDATION_SCHOOL.md` — consultant brief for Foundation School (school, six courses, textbook, companion books, pricing)
+- `study/` — end-to-end study of Aletheia Libraries 1 (source map, Scripture matrix, chronology, lesson map). Not the written textbook.
 - `IMPLEMENTATION_ASSESSMENT.md` — empty-repo inspection and sequence
 - `ARCHITECTURE.md` — locked product and technical decisions
 - `DATA_MODEL.md` — Firestore map

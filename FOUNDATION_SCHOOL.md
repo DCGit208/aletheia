@@ -8,7 +8,7 @@ Author of the source teaching: **Dr. Coach Achu Gustave**
 Imprint of the textbook: **Aletheia Publications**  
 Platform: **Aletheia** (the PWA of Aletheia World)
 
-**Status:** awaiting consultant feedback. Do **not** write the full curriculum into the app until this brief is signed off.
+**Status:** pre-curriculum study of Aletheia Libraries 1 is in `study/`. Do **not** write the full curriculum into the app until the owner answers `study/10_OWNER_QUESTIONS.md`.
 
 **How to reply:** mark **Approve / Amend / Reject** on each item in [§13](#13-consultant-sign-off). Add notes under any Amend or Reject. Reply on this document (or a copy). Curriculum writing follows sign-off.
 
@@ -232,7 +232,7 @@ Compressed source: spiritual vs material resurrection; new birth only in this li
 
 **Exhaust:** Ephesians 2:1–6; 1 Corinthians 15:19; Ecclesiastes 11:1; Hebrews 9:27; John 5:28–29; Daniel 12; Revelation 20; Job 19:25–27; Isaiah 26:14–19; Matthew 9:25 vs 1 Corinthians 15:1–23; Matthew 27:52–53; each of the five companies with its texts; tribulation / rapture 2 / second advent **as the leaflet orders them**.
 
-**Open question for consultants:** keep the leaflet’s sequencing of tribulation, rapture, and second advent, or supply a corrected teaching order.
+**Chronology (studied, not reopened):** rapture 2 is not the second advent; tribulation is seven years after rapture 2; second advent is Christ with the saints after tribulation, ushering the Millennium. Five companies complete the first resurrection. See `study/05_CHRONOLOGY_MAP.md`.
 
 **Companion book:** *Millennium*
 
@@ -378,6 +378,8 @@ The thin course shells already in Learn are **placeholders**. They are not the e
 
 ---
 
+Pre-curriculum study of the 2015 leaflet (source map, Scripture matrix, chronology, proposed 95 lessons, owner questions) is in **`study/`**. Curriculum writing follows answers in `study/10_OWNER_QUESTIONS.md`.
+
 ## 12. Implementation sequence (after this review)
 
 1. Catalog the textbook with the supplied cover; replace the leaflet stub as the school’s primary Book.
@@ -402,7 +404,7 @@ Please mark **Approve / Amend / Reject** on each item. Add a short note under an
 | 4 | Prices (owner-approved): $100 book / $100 course / $400 school. Year and Intensive same price. | |
 | 5 | School purchase = six courses + textbook only. Companion library is not included. | |
 | 6 | First-wave companions in §9C. *Spirit Witness* is its own book. *Why We’re Beyond* is its own book, not *Fearfully Made*. | |
-| 7 | Course 5: keep the leaflet’s order of tribulation, rapture, and second advent — or supply a corrected teaching order. | |
+| 7 | Course 5 chronology as mapped in `study/05_CHRONOLOGY_MAP.md` (system, not “which comes first?”). | |
 | 8 | End of each principle: written charge only, or a formal examination in addition. | |
 | 9 | Week split 9 / 9 / 8 / 8 / 9 / 9 across the six courses. | |
 | 10 | Academic Year (~3 h) and Intensive (~8 h) share one curriculum; Intensive is more labour, not different doctrine. | |
@@ -411,4 +413,4 @@ Please mark **Approve / Amend / Reject** on each item. Add a short note under an
 **Date**  
 **Overall: proceed / proceed with amendments / hold**
 
-Curriculum writing into the app follows sign-off on this document.
+Curriculum writing into the app follows sign-off on this document and the owner answers in `study/10_OWNER_QUESTIONS.md`.
