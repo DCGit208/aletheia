@@ -1,10 +1,12 @@
 import { baptismsLessons, baptismsModules } from "@/lib/content/course-baptisms";
 import { faithLessons, faithModules } from "@/lib/content/course-faith";
+import { handsLessons, handsModules } from "@/lib/content/course-hands";
 import { repentanceLessons, repentanceModules } from "@/lib/content/course-repentance";
 import { textbookChapter1Body, textbookChapter1Title } from "@/lib/content/textbook-ch1";
 import { textbookChapter2Body, textbookChapter2Title } from "@/lib/content/textbook-ch2";
 import { textbookChapter3Body, textbookChapter3Title } from "@/lib/content/textbook-ch3";
 import { textbookChapter4Body, textbookChapter4Title } from "@/lib/content/textbook-ch4";
+import { textbookChapter5Body, textbookChapter5Title } from "@/lib/content/textbook-ch5";
 import type { Book, BookChapter, Course, CourseModule, Lesson, Program, School } from "@/lib/data/types";
 
 const achu = { id: "author-achu", displayName: "Dr. Coach Achu Gustave" };
@@ -45,7 +47,10 @@ function course(
     learningPathIds: [],
     prerequisiteCourseIds: [],
     certificateEligible:
-      id === "course-fs-repentance" || id === "course-fs-faith" || id === "course-fs-baptisms",
+      id === "course-fs-repentance" ||
+      id === "course-fs-faith" ||
+      id === "course-fs-baptisms" ||
+      id === "course-fs-hands",
     moduleCount,
     lessonCount,
   };
@@ -105,7 +110,7 @@ export const foundationBooks: Book[] = [
     title: "The Principles of the Doctrine of Christ",
     subtitle: "Foundations for Christian Understanding & Maturity",
     description:
-      "The Foundation School textbook. Chapters 1–4 are written: the oracles, repentance, faith toward God, and the doctrine of baptisms. Chapters 5–7 follow with Courses 4–6. Aletheia Publications. Truth · Knowledge · Maturity.",
+      "The Foundation School textbook. Chapters 1–5 are written. Chapters 6–7 follow with Courses 5–6. Aletheia Publications. Truth · Knowledge · Maturity.",
     authors: [achu],
     contributors: [],
     publisher: "Aletheia Publications",
@@ -118,7 +123,7 @@ export const foundationBooks: Book[] = [
     coverImage: "/covers/principles-doctrine-christ.jpg",
     status: "published",
     accessLevel: "free",
-    previewChapterIds: ["ch-pdc-1", "ch-pdc-2", "ch-pdc-3", "ch-pdc-4"],
+    previewChapterIds: ["ch-pdc-1", "ch-pdc-2", "ch-pdc-3", "ch-pdc-4", "ch-pdc-5"],
     productId: "product-principles-doctrine-christ",
     chapterCount: 7,
   },
@@ -181,7 +186,13 @@ export const foundationChapters: BookChapter[] = [
     title: textbookChapter4Title,
     body: textbookChapter4Body,
   },
-  forthcoming(5, "Laying on of Hands", "Course 4"),
+  {
+    id: "ch-pdc-5",
+    bookId: textbook,
+    number: 5,
+    title: textbookChapter5Title,
+    body: textbookChapter5Body,
+  },
   forthcoming(6, "Resurrection of the Dead", "Course 5"),
   forthcoming(7, "Eternal Judgment", "Course 6"),
   {
@@ -320,9 +331,11 @@ export const foundationCourses: Course[] = [
   course(
     "course-fs-hands",
     "Laying on of Hands",
-    "Hebrews 6:2",
-    "Blessing, ordaining, healing, gifts — resultant, not a substitute for the foundation.",
-    2,
+    "Hebrews 6:2 · 8 weeks · 12 lessons",
+    "Nine biblical occasions. Resultant, not a substitute for the foundation. Read Chapter 5, then walk the twelve lessons.",
+    12,
+    3,
+    560,
   ),
   course(
     "course-fs-resurrection",
@@ -344,8 +357,9 @@ export const foundationModules: CourseModule[] = [
   ...repentanceModules,
   ...faithModules,
   ...baptismsModules,
-  ...principleIds.slice(3).map((courseId, index) => ({
-    id: `mod-fs-${index + 4}`,
+  ...handsModules,
+  ...principleIds.slice(4).map((courseId, index) => ({
+    id: `mod-fs-${index + 5}`,
     courseId,
     number: 1,
     title: "Study",
@@ -354,12 +368,6 @@ export const foundationModules: CourseModule[] = [
 ];
 
 const lessonPairs: { courseId: (typeof principleIds)[number]; chapterId: string; read: string; write: string }[] = [
-  {
-    courseId: "course-fs-hands",
-    chapterId: "ch-lib1-hands",
-    read: "List the biblical occasions of laying on of hands. Which of them depend on the earlier principles already being laid?",
-    write: "Name one resultant practice you will not treat as a foundation.",
-  },
   {
     courseId: "course-fs-resurrection",
     chapterId: "ch-lib1-resurrection",
@@ -375,10 +383,10 @@ const lessonPairs: { courseId: (typeof principleIds)[number]; chapterId: string;
 ];
 
 const laterLessons: Lesson[] = lessonPairs.flatMap((pair, index) => {
-  const moduleId = `mod-fs-${index + 4}`;
+  const moduleId = `mod-fs-${index + 5}`;
   return [
     {
-      id: `les-fs-${index + 4}a`,
+      id: `les-fs-${index + 5}a`,
       courseId: pair.courseId,
       moduleId,
       number: 1,
@@ -388,7 +396,7 @@ const laterLessons: Lesson[] = lessonPairs.flatMap((pair, index) => {
       body: pair.read,
     },
     {
-      id: `les-fs-${index + 4}b`,
+      id: `les-fs-${index + 5}b`,
       courseId: pair.courseId,
       moduleId,
       number: 2,
@@ -404,5 +412,6 @@ export const foundationLessons: Lesson[] = [
   ...repentanceLessons,
   ...faithLessons,
   ...baptismsLessons,
+  ...handsLessons,
   ...laterLessons,
 ];
