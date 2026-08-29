@@ -67,14 +67,18 @@ export default function SchoolPage() {
         return (
           <div key={id} className="mt-8">
             <Link href={`/learn/books/${book.id}`} className="block rounded-2xl bg-card px-4 py-4">
-              <p className="text-[0.62rem] tracking-[0.2em] text-primary uppercase">Aletheia Libraries</p>
+              <p className="text-[0.62rem] tracking-[0.2em] text-primary uppercase">
+                {book.publisher === "Aletheia Publications" ? "Textbook" : "Source leaflet"}
+              </p>
               <p className="mt-1 font-heading text-xl">{book.title}</p>
               <p className="mt-1 text-sm text-muted-foreground">{book.subtitle}</p>
               <p className="mt-3 text-xs tracking-wide text-primary uppercase">Open in the reader</p>
             </Link>
-            <a href="/resources/aletheia-libraries-1.pdf" className="mt-2 block px-1 text-sm text-muted-foreground">
-              Original leaflet (PDF)
-            </a>
+            {book.id === "book-aletheia-libraries-1" ? (
+              <a href="/resources/aletheia-libraries-1.pdf" className="mt-2 block px-1 text-sm text-muted-foreground">
+                Original leaflet (PDF)
+              </a>
+            ) : null}
           </div>
         );
       })}

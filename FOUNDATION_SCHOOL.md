@@ -8,7 +8,7 @@ Author of the source teaching: **Dr. Coach Achu Gustave**
 Imprint of the textbook: **Aletheia Publications**  
 Platform: **Aletheia** (the PWA of Aletheia World)
 
-**Status:** pre-curriculum study is in `study/`. Owner decisions are in `study/11_OWNER_DECISIONS.md`. A few yes/no items remain there. Do **not** write the full curriculum until those are closed.
+**Status:** Chapters 1–2 of the textbook and Course 1 (17 lessons) are in the app. Courses 2–6 remain placeholders. Owner decisions: `study/11_OWNER_DECISIONS.md`.
 
 **How to reply:** mark **Approve / Amend / Reject** on each item in [§13](#13-consultant-sign-off). Add notes under any Amend or Reject. Reply on this document (or a copy). Curriculum writing follows sign-off.
 

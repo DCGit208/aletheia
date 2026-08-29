@@ -5,7 +5,7 @@ import { useParams } from "next/navigation";
 import { DeniedState, EmptyState } from "@/components/content/query-state";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { canAccessContent } from "@/lib/access/entitlements";
-import { getCourse, getLesson, listLessons } from "@/lib/data/repository";
+import { getBook, getCourse, getLesson, listLessons } from "@/lib/data/repository";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
 
@@ -40,6 +40,20 @@ export default function LessonPage() {
       </p>
       <h1 className="mt-3 font-heading text-3xl tracking-wide">{lesson.title}</h1>
       <p className="reader-prose mt-8 whitespace-pre-line">{lesson.body}</p>
+      {lesson.resourceIds.length ? (
+        <div className="mt-8 space-y-2">
+          <p className="text-xs tracking-[0.16em] text-muted-foreground uppercase">Reading</p>
+          {lesson.resourceIds.map((id) => {
+            const book = getBook(id);
+            if (!book) return null;
+            return (
+              <Link key={id} href={`/learn/read/${book.id}`} className="block text-sm text-primary hover:underline">
+                Open {book.title}
+              </Link>
+            );
+          })}
+        </div>
+      ) : null}
       <div className="mt-10 flex flex-wrap gap-2">
         <Button
           onClick={() => {

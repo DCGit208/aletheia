@@ -1,8 +1,12 @@
+import { repentanceLessons, repentanceModules } from "@/lib/content/course-repentance";
+import { textbookChapter1Body, textbookChapter1Title } from "@/lib/content/textbook-ch1";
+import { textbookChapter2Body, textbookChapter2Title } from "@/lib/content/textbook-ch2";
 import type { Book, BookChapter, Course, CourseModule, Lesson, Program, School } from "@/lib/data/types";
 
 const achu = { id: "author-achu", displayName: "Dr. Coach Achu Gustave" };
 
 const leaflet = "book-aletheia-libraries-1";
+const textbook = "book-principles-doctrine-christ";
 
 const principleIds = [
   "course-fs-repentance",
@@ -19,6 +23,8 @@ function course(
   subtitle: string,
   description: string,
   lessonCount: number,
+  moduleCount = 1,
+  durationMinutes = 180,
 ): Course {
   return {
     id,
@@ -28,14 +34,14 @@ function course(
     instructor: achu,
     category: "Foundation",
     difficulty: "introductory",
-    durationMinutes: 180,
+    durationMinutes,
     coverTone: "ink",
     status: "published",
     accessLevel: "free",
     learningPathIds: [],
     prerequisiteCourseIds: [],
-    certificateEligible: false,
-    moduleCount: 1,
+    certificateEligible: id === "course-fs-repentance",
+    moduleCount,
     lessonCount,
   };
 }
@@ -51,7 +57,7 @@ export const foundationSchools: School[] = [
     status: "published",
     courseIds: [...principleIds],
     programIds: ["program-foundation-year", "program-foundation-intensive"],
-    resourceBookIds: [leaflet],
+    resourceBookIds: [textbook, leaflet],
   },
 ];
 
@@ -90,6 +96,28 @@ export const foundationPrograms: Program[] = [
 
 export const foundationBooks: Book[] = [
   {
+    id: textbook,
+    title: "The Principles of the Doctrine of Christ",
+    subtitle: "Foundations for Christian Understanding & Maturity",
+    description:
+      "The Foundation School textbook. Chapters 1–2 are written: the oracles of God, and repentance from dead works. Chapters 3–7 follow with Courses 2–6. Aletheia Publications. Truth · Knowledge · Maturity.",
+    authors: [achu],
+    contributors: [],
+    publisher: "Aletheia Publications",
+    publishedAt: "2026-08-29",
+    language: "en",
+    edition: "First — in progress",
+    categories: ["Truth", "Formation"],
+    tags: ["hebrews", "foundation", "first-principles", "textbook"],
+    coverTone: "ink",
+    coverImage: "/covers/principles-doctrine-christ.jpg",
+    status: "published",
+    accessLevel: "free",
+    previewChapterIds: ["ch-pdc-1", "ch-pdc-2"],
+    productId: "product-principles-doctrine-christ",
+    chapterCount: 7,
+  },
+  {
     id: leaflet,
     title: "Principles of the Doctrine of Christ",
     subtitle: "Aletheia Libraries 1 — Foundation School leaflet",
@@ -111,7 +139,34 @@ export const foundationBooks: Book[] = [
   },
 ];
 
+const forthcoming = (number: number, title: string, courseName: string): BookChapter => ({
+  id: `ch-pdc-${number}`,
+  bookId: textbook,
+  number,
+  title,
+  body: `${title} will be written with ${courseName}. The six principles stay in Hebrews’ order. This chapter is not yet the expanded teaching.`,
+});
+
 export const foundationChapters: BookChapter[] = [
+  {
+    id: "ch-pdc-1",
+    bookId: textbook,
+    number: 1,
+    title: textbookChapter1Title,
+    body: textbookChapter1Body,
+  },
+  {
+    id: "ch-pdc-2",
+    bookId: textbook,
+    number: 2,
+    title: textbookChapter2Title,
+    body: textbookChapter2Body,
+  },
+  forthcoming(3, "Faith toward God", "Course 2"),
+  forthcoming(4, "The Doctrine of Baptisms", "Course 3"),
+  forthcoming(5, "Laying on of Hands", "Course 4"),
+  forthcoming(6, "Resurrection of the Dead", "Course 5"),
+  forthcoming(7, "Eternal Judgment", "Course 6"),
   {
     id: "ch-lib1-intro",
     bookId: leaflet,
@@ -221,9 +276,11 @@ export const foundationCourses: Course[] = [
   course(
     "course-fs-repentance",
     "Repentance from Dead Works",
-    "Hebrews 6:1",
-    "Metanoia: a change of mind over sin and its cause, not only its consequence. Christ is the way out of dead works.",
-    2,
+    "Hebrews 6:1 · 9 weeks · 17 lessons",
+    "Metanoia: a change of mind over sin and its cause, not only its consequence. Christ is the way out of dead works. Read Chapters 1–2, then walk the seventeen lessons.",
+    17,
+    3,
+    800,
   ),
   course(
     "course-fs-faith",
@@ -262,21 +319,18 @@ export const foundationCourses: Course[] = [
   ),
 ];
 
-export const foundationModules: CourseModule[] = principleIds.map((courseId, index) => ({
-  id: `mod-fs-${index + 1}`,
-  courseId,
-  number: 1,
-  title: "Study",
-  description: "Read the leaflet. Then write what you will practice.",
-}));
+export const foundationModules: CourseModule[] = [
+  ...repentanceModules,
+  ...principleIds.slice(1).map((courseId, index) => ({
+    id: `mod-fs-${index + 2}`,
+    courseId,
+    number: 1,
+    title: "Study",
+    description: "Read the leaflet chapter. Then write what you will practice. Full lessons follow when that course is written.",
+  })),
+];
 
 const lessonPairs: { courseId: (typeof principleIds)[number]; chapterId: string; read: string; write: string }[] = [
-  {
-    courseId: "course-fs-repentance",
-    chapterId: "ch-lib1-repentance",
-    read: "Read the leaflet chapter on repentance from dead works. Name the two “old things” that must pass, and why consequence alone is not repentance.",
-    write: "Write one page: where have you treated regret as if it were metanoia? What would reformation look like this week?",
-  },
   {
     courseId: "course-fs-faith",
     chapterId: "ch-lib1-faith",
@@ -309,28 +363,30 @@ const lessonPairs: { courseId: (typeof principleIds)[number]; chapterId: string;
   },
 ];
 
-export const foundationLessons: Lesson[] = lessonPairs.flatMap((pair, index) => {
-  const moduleId = `mod-fs-${index + 1}`;
+const laterLessons: Lesson[] = lessonPairs.flatMap((pair, index) => {
+  const moduleId = `mod-fs-${index + 2}`;
   return [
     {
-      id: `les-fs-${index + 1}a`,
+      id: `les-fs-${index + 2}a`,
       courseId: pair.courseId,
       moduleId,
       number: 1,
       title: "Read",
       durationMinutes: 40,
-      resourceIds: [leaflet],
+      resourceIds: [leaflet, textbook],
       body: pair.read,
     },
     {
-      id: `les-fs-${index + 1}b`,
+      id: `les-fs-${index + 2}b`,
       courseId: pair.courseId,
       moduleId,
       number: 2,
       title: "Write",
       durationMinutes: 35,
-      resourceIds: [leaflet],
+      resourceIds: [leaflet, textbook],
       body: pair.write,
     },
   ];
 });
+
+export const foundationLessons: Lesson[] = [...repentanceLessons, ...laterLessons];
