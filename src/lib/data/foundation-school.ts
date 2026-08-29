@@ -1,6 +1,8 @@
+import { faithLessons, faithModules } from "@/lib/content/course-faith";
 import { repentanceLessons, repentanceModules } from "@/lib/content/course-repentance";
 import { textbookChapter1Body, textbookChapter1Title } from "@/lib/content/textbook-ch1";
 import { textbookChapter2Body, textbookChapter2Title } from "@/lib/content/textbook-ch2";
+import { textbookChapter3Body, textbookChapter3Title } from "@/lib/content/textbook-ch3";
 import type { Book, BookChapter, Course, CourseModule, Lesson, Program, School } from "@/lib/data/types";
 
 const achu = { id: "author-achu", displayName: "Dr. Coach Achu Gustave" };
@@ -40,7 +42,7 @@ function course(
     accessLevel: "free",
     learningPathIds: [],
     prerequisiteCourseIds: [],
-    certificateEligible: id === "course-fs-repentance",
+    certificateEligible: id === "course-fs-repentance" || id === "course-fs-faith",
     moduleCount,
     lessonCount,
   };
@@ -100,7 +102,7 @@ export const foundationBooks: Book[] = [
     title: "The Principles of the Doctrine of Christ",
     subtitle: "Foundations for Christian Understanding & Maturity",
     description:
-      "The Foundation School textbook. Chapters 1–2 are written: the oracles of God, and repentance from dead works. Chapters 3–7 follow with Courses 2–6. Aletheia Publications. Truth · Knowledge · Maturity.",
+      "The Foundation School textbook. Chapters 1–3 are written: the oracles of God, repentance from dead works, and faith toward God. Chapters 4–7 follow with Courses 3–6. Aletheia Publications. Truth · Knowledge · Maturity.",
     authors: [achu],
     contributors: [],
     publisher: "Aletheia Publications",
@@ -113,7 +115,7 @@ export const foundationBooks: Book[] = [
     coverImage: "/covers/principles-doctrine-christ.jpg",
     status: "published",
     accessLevel: "free",
-    previewChapterIds: ["ch-pdc-1", "ch-pdc-2"],
+    previewChapterIds: ["ch-pdc-1", "ch-pdc-2", "ch-pdc-3"],
     productId: "product-principles-doctrine-christ",
     chapterCount: 7,
   },
@@ -162,7 +164,13 @@ export const foundationChapters: BookChapter[] = [
     title: textbookChapter2Title,
     body: textbookChapter2Body,
   },
-  forthcoming(3, "Faith toward God", "Course 2"),
+  {
+    id: "ch-pdc-3",
+    bookId: textbook,
+    number: 3,
+    title: textbookChapter3Title,
+    body: textbookChapter3Body,
+  },
   forthcoming(4, "The Doctrine of Baptisms", "Course 3"),
   forthcoming(5, "Laying on of Hands", "Course 4"),
   forthcoming(6, "Resurrection of the Dead", "Course 5"),
@@ -285,9 +293,11 @@ export const foundationCourses: Course[] = [
   course(
     "course-fs-faith",
     "Faith Toward God",
-    "Hebrews 6:1",
-    "Pistis as sonship. Image, likeness, justification, and the heir.",
-    2,
+    "Hebrews 6:1 · 9 weeks · 17 lessons",
+    "Pistis as credence that defines sons. Image, likeness, free justification, and the heir. Read Chapter 3, then walk the seventeen lessons.",
+    17,
+    3,
+    800,
   ),
   course(
     "course-fs-baptisms",
@@ -321,8 +331,9 @@ export const foundationCourses: Course[] = [
 
 export const foundationModules: CourseModule[] = [
   ...repentanceModules,
-  ...principleIds.slice(1).map((courseId, index) => ({
-    id: `mod-fs-${index + 2}`,
+  ...faithModules,
+  ...principleIds.slice(2).map((courseId, index) => ({
+    id: `mod-fs-${index + 3}`,
     courseId,
     number: 1,
     title: "Study",
@@ -331,12 +342,6 @@ export const foundationModules: CourseModule[] = [
 ];
 
 const lessonPairs: { courseId: (typeof principleIds)[number]; chapterId: string; read: string; write: string }[] = [
-  {
-    courseId: "course-fs-faith",
-    chapterId: "ch-lib1-faith",
-    read: "Read faith toward God. How does Genesis 1:26–27 govern Romans 3:23–24?",
-    write: "Write six sentences on sonship that you could stand behind without performance.",
-  },
   {
     courseId: "course-fs-baptisms",
     chapterId: "ch-lib1-baptisms",
@@ -364,10 +369,10 @@ const lessonPairs: { courseId: (typeof principleIds)[number]; chapterId: string;
 ];
 
 const laterLessons: Lesson[] = lessonPairs.flatMap((pair, index) => {
-  const moduleId = `mod-fs-${index + 2}`;
+  const moduleId = `mod-fs-${index + 3}`;
   return [
     {
-      id: `les-fs-${index + 2}a`,
+      id: `les-fs-${index + 3}a`,
       courseId: pair.courseId,
       moduleId,
       number: 1,
@@ -377,7 +382,7 @@ const laterLessons: Lesson[] = lessonPairs.flatMap((pair, index) => {
       body: pair.read,
     },
     {
-      id: `les-fs-${index + 2}b`,
+      id: `les-fs-${index + 3}b`,
       courseId: pair.courseId,
       moduleId,
       number: 2,
@@ -389,4 +394,4 @@ const laterLessons: Lesson[] = lessonPairs.flatMap((pair, index) => {
   ];
 });
 
-export const foundationLessons: Lesson[] = [...repentanceLessons, ...laterLessons];
+export const foundationLessons: Lesson[] = [...repentanceLessons, ...faithLessons, ...laterLessons];
