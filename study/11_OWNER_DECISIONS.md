@@ -11,28 +11,35 @@ Locked from the owner’s answers. These supersede printed typos and earlier “
 | **A1** | Printed `Mt.16:19-31` was an error. | **Luke 16:19-31** (rich man and Lazarus) for Hell as consequence. With Revelation 20:10-15 as the final lake. Do not teach Matthew 16 as that narrative. |
 | **A2** | Drop Ecclesiastes 11:1 from the “new birth only in this life” cluster. | **Hebrews 9:27** and **Revelation 22:11** only for that claim. |
 | **A3** | Printed `Rev. 7:18` is 7:1-8. | **Revelation 7:1-8** for the 144,000 (Company 3). |
-| **A4** | Owner asked for clarity. Recommendation below. | **Pending yes/no** on the recommendation in this file. |
+| **A4** | Locked. The PDF’s `Rev. 10:4-6, 11-15` is a bad print. The two bodily resurrections are in **Revelation chapter 20**. | Teach **Revelation 20:4-6** (first resurrection; 1000 years) and **Revelation 20:11-15** (rest of the dead; great white throne; lake of fire), with Daniel 12 and John 5:28-29. Do not teach Revelation **chapter 10** as the resurrection passage. Chapter 10 is the seven thunders and the little book. |
 | **A5** | Not James 2:9. | Fear and dread: **Genesis 9:2** and **Deuteronomy 11:25**. Also Romans 8:17; Genesis 1:26-28; Psalm 139:14 (owner C2). |
-| **A6** | Owner sent the Gehenna / lake-of-fire file (not the abyss verse call). | **Lock the Gehenna teaching** (below). **Abyss address still pending:** recommend **Revelation 11:7** (beast from the bottomless pit), not 11:17. |
+| **A6** | Owner already gave the abyss texts inside the Gehenna file, and the Gehenna file itself. | **Abyss:** Luke 8:31; Revelation 9; Revelation 20:3 (as the owner wrote). Also the leaflet’s Rom 10:7; Rev 17:8; 20:1-10. Stop asking 11:7 vs 11:17. **Gehenna:** locked as sent. |
 
-### A4 — what I was asking (needs your yes or a correction)
+### A4 — locked (what that question actually was)
 
-Page 4 of the leaflet, in one breath:
+This was never “which books of Revelation teach resurrection.” Revelation is **one book**. It has **22 chapters**.
 
-> …the righteous to life before the Millennium and the wicked to damnation after the Millennium. (**Daniel 12:3, Jn. 5:28-29, Rev. 10:4-6, 11-15**) 1000 years between the two, **Rev. 20:4-6**.
+The leaflet page 4 printed `Rev. 10:4-6, 11-15` next to the two bodily resurrections, then said “1000 years between the two, **Rev. 20:4-6**.”
 
-- Revelation **chapter 10 has only 11 verses**. There is no 10:12–15.
-- Revelation **10:4-6** is the seven thunders sealed and the angel who swears that there should be **time no longer**.
-- Revelation **20:4-6** is the first resurrection and the thousand years.
-- Revelation **20:11-15** is the great white throne and the second issue (the dead, the book of life, the lake of fire).
+Revelation **chapter 10** has only 11 verses. So `10:4-6, 11-15` is not a real range. The Bible passage that actually states the first resurrection, the thousand years, the rest of the dead, and the great white throne is **Revelation chapter 20**, verses **4–6** and **11–15**.
 
-So the printed `Rev. 10:4-6, 11-15` cannot be read as a real range. The same sentence already names **Rev. 20:4-6** as the thousand years.
+**Locked:** teach those two stretches in chapter 20. That is all A4 was.
 
-**My recommendation (say yes or correct it):** treat the print as **Revelation 20:4-6 and 20:11-15**. Teach the two bodily issues from **Daniel 12, John 5:28-29, and Revelation 20**. Do not build the two-resurrection doctrine out of Revelation 10. Revelation 10:4-6 may be noted only as a “time / delay” text if you want it kept at all.
+### Where Revelation itself speaks of resurrection (for the school)
 
-### A6 abyss (one line) vs A6 Gehenna (locked)
+| Passage | What it is in this school |
+| --- | --- |
+| **Revelation 20:4-6** | First resurrection. They lived and reigned with Christ a thousand years. The rest of the dead lived not again until the thousand years were finished. |
+| **Revelation 20:11-15** | The rest of the dead; great white throne; book of life; lake of fire (second death). |
+| **Revelation 11:7-12** | The two witnesses are killed and called up — Company 5; the first resurrection **ends** here in the leaflet. |
+| **Revelation 7:1-8** | The 144,000 (Company 3). Not the resurrection chapter; a company in the first resurrection. |
+| **Revelation 19:11-21** | Second advent with the saints. Not itself the raising of the dead. |
 
-I asked which verse belongs in the **abyss** list (`Rev. 11:17` as printed). You answered with the **gehenna / lake of fire** file. I have taken that file as Course 6, prison 5. I still need: for the **abyss / bottomless pit**, is the two-witness verse **Revelation 11:7** (beast that ascendeth out of the bottomless pit)? That is my recommendation.
+Outside Revelation the leaflet already uses **John 5:28-29**, **Daniel 12**, and **1 Corinthians 15** for the body. **1 Corinthians 15:19** stays with bodily hope (C3). “New birth only in this life” stays on **Hebrews 9:27** and **Revelation 22:11** (A2).
+
+### A6 abyss — locked from the owner’s own quote
+
+You already wrote: the wicked in Tartarus, **the abyss (Luke 8:31; Revelation 9; 20:3)**, and Sheol/Hades will be put into gehenna. That is the abyss file. I will not ask again which number in chapter 11.
 
 **Gehenna locked as you sent it:**
 
@@ -61,7 +68,7 @@ I asked which verse belongs in the **abyss** list (`Rev. 11:17` as printed). You
 
 ### B1. Words for repent (owner list)
 
-The leaflet said “eight.” You listed **seven**. These seven are now the school list. If there is an eighth, send it; until then we teach these seven and do not invent an eighth.
+**Closed.** You listed **seven** words. That is the school list. The 2015 leaflet said “one of the eight original words.” That was a count on the page. You did not send an eighth, so there is no eighth. I will not invent one and I will not ask again.
 
 | # | Word | Address | Source use |
 | --- | --- | --- | --- |
@@ -170,14 +177,13 @@ After the hardcover *The Principles of the Doctrine of Christ* exists, do studen
 
 ---
 
-## Still needed (short yes/no)
+## Still needed (not these three)
 
-1. **A4** — Yes: teach Rev **20**:4-6 and 20:11-15 (not Rev 10 as the two-resurrection chapter)?  
-2. **A6 abyss** — Yes: **Revelation 11:7** for the beast / bottomless pit?  
-3. **B1 count** — You listed seven; the leaflet said eight. Is there an eighth word, or teach these seven?  
-4. **B3** — Yes: short Chapter 1 section on Hebrews 6:3?  
-5. **B4/B5** — Any companion book titles for hands or judgment, or none?  
-6. **D3** — Yes: directed sections required, not whole companions?  
-7. **D4** — Yes: hardcover is the student book; leaflet is source/archive?
+A4, A6, and B1 are **closed**. Do not re-ask.
 
-C1–C2, C4–C6, D1–D2, D5, A1–A3, A5, B1 list, B2, and Gehenna are locked. Do not reopen them.
+Left only if you want to answer later (I will use the defaults in this file):
+
+- **B3** — short Chapter 1 note on Hebrews 6:3 (default: yes, short)
+- **B4/B5** — companion book for hands or judgment (default: none)
+- **D3** — directed sections of companions, not whole books (default: yes)
+- **D4** — hardcover for students; leaflet as source/archive (default: yes)
