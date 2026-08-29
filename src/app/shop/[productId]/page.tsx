@@ -69,7 +69,7 @@ export default function ProductPage() {
       />
       <div>
         <p className="text-[0.7rem] tracking-[0.2em] text-muted-foreground uppercase">
-          {product.kind === "program" ? "The year" : product.kind}
+          {product.kind === "program" ? "Foundation School" : product.kind}
         </p>
         <h1 className="mt-2 font-heading text-3xl tracking-wide">{product.title}</h1>
         <p className="mt-4 leading-relaxed">{product.description}</p>

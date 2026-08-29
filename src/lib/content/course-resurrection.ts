@@ -89,7 +89,7 @@ Two main kinds. Spiritual: Ephesians 2:1-6. Material: John 5:28-29. Write both. 
 The leaflet’s words are two main kinds of resurrection: Spiritual and Material. Spiritual resurrection is the new birth: being quickened (revived) from dead in trespasses and sins, renewed in the glorious likeness of God. Material resurrection is the resurrection of the body, not spirit. Hold both sentences. A teacher who can name five companies and cannot name two kinds has inverted the file. A student who can recite John 5 and has never been quickened has the second kind in his mouth and not the first in his life. Course 5 begins here, or it does not begin.
 
 Labour
-The Year — one tight page. Write the two kinds with one governing text each. What does spiritual raise, and when? What does material raise? Word drill: two kinds / quickened / graves / not one slogan.
+The Walk — one tight page. Write the two kinds with one governing text each. What does spiritual raise, and when? What does material raise? Word drill: two kinds / quickened / graves / not one slogan.
 
 Intensive — three pages on the same cluster. Page 1: write Hebrews 6:1-2, Ephesians 2:1-6, and John 5:28-29 in full; mark two kinds. Page 2: spiritual is new birth now — not the graves. Page 3: material is the body — not a second conversion; write the flatten you will refuse. Same doctrine.
 
@@ -141,7 +141,7 @@ Write Ephesians 2:1-6. Mark dead, quickened, together with Christ, raised, sit, 
 By grace ye are saved sits in the same breath as quickened together with Christ. Do not treat grace as a later feeling and quickened as a later grave. The man who walks according to the course of this world, according to the prince of the power of the air, is dead until God quickens him. Children of wrath, even as others — then mercy, love, quickened, raised, sit. That is the new birth named as resurrection. It is not Company 2. It is not the firstfruits of 1 Corinthians 15:20 as if your conversion were Christ’s empty tomb. Christ rose bodily. You were dead in sins and were quickened. Two kinds. Today teach the second sentence as G1.
 
 Labour
-The Year — one tight page. Write Ephesians 2:1-6. What was the state? What did God do? Why is this not John 5:28-29? Word drill: dead in trespasses / quickened / together with Christ / heavenly places.
+The Walk — one tight page. Write Ephesians 2:1-6. What was the state? What did God do? Why is this not John 5:28-29? Word drill: dead in trespasses / quickened / together with Christ / heavenly places.
 
 Intensive — three pages on the same cluster. Page 1: write Ephesians 2:1-6 in full; mark every verb of death and of life. Page 2: this is new birth now — not the graves, not a future conversion. Page 3: write the sentence you will not preach if G1 has spoken; hold 5:25 as present hearing without stealing 5:28-29. Same doctrine.
 
@@ -195,7 +195,7 @@ Write the three texts. What is put off? The old man, corrupt according to the de
 Course 2 taught image and likeness as written. G2 files the same likeness as what spiritual resurrection restores: new man after God; renewed in knowledge after the image of Him that created him. Do not treat 1 John 3:9 as a dare you answer with a slogan and then live as the old man. His seed remaineth in him. Put off the former conversation. Put on the new man. This cluster is still only in this life. A grave will not put the new man on a man who died in the old one.
 
 Labour
-The Year — one tight page. Write Ephesians 4:21-24, Colossians 3:10, and 1 John 3:9. What is put off? What is put on? What does born of God force you to say? Word drill: new man / after God / after the image / His seed remaineth.
+The Walk — one tight page. Write Ephesians 4:21-24, Colossians 3:10, and 1 John 3:9. What is put off? What is put on? What does born of God force you to say? Word drill: new man / after God / after the image / His seed remaineth.
 
 Intensive — three pages on the same cluster. Page 1: write the three texts in full; mark old man, renewed, new man, image, born of God. Page 2: likeness restored in new birth — tie to Course 2 without inventing a second nature. Page 3: this is still this life; not the graves; not immortality stolen from 1 Corinthians 15. Same doctrine.
 
@@ -249,7 +249,7 @@ Write Hebrews 9:27 and Revelation 22:11. Why can new birth not be postponed past
 Read it here only to refuse it as G3. Paul has just said: if the dead rise not, Christ is not raised; preaching vain; faith vain; ye are yet in your sins; they which are fallen asleep in Christ are perished. Miserable is the man whose hope never includes a raised body. That is H1. It is the opposite of “new birth is only available in this life.” Do not invert him. Do not restore the dropped print to make G3 look like the leaflet’s parenthesis. Two verses lock the window. After this the judgment. Still. No new birth after death.
 
 Labour
-The Year — one tight page. Write Hebrews 9:27 and Revelation 22:11. Why can new birth not be postponed past death? Name the two texts that are not this lock. Word drill: once to die / after this the judgment / still / forfeited.
+The Walk — one tight page. Write Hebrews 9:27 and Revelation 22:11. Why can new birth not be postponed past death? Name the two texts that are not this lock. Word drill: once to die / after this the judgment / still / forfeited.
 
 Intensive — three pages on the same cluster. Page 1: write Hebrews 9:27 and Revelation 22:11 in full; reason appointment, judgment, still. Page 2: 1 Corinthians 15:19 is bodily hope — write Paul’s argument in 15:12-19 so you will not steal 15:19 into G3. Page 3: no Ecclesiastes 11:1; write the offer of new birth after death you will refuse. Same doctrine.
 
@@ -301,7 +301,7 @@ Write John 5:28-29. Who comes forth? All that are in the graves. To what two res
 The Father raiseth up the dead and quickeneth them. The Son quickeneth whom He will. Marvel not — the hour is coming when all that are in the graves shall hear His voice. The leaflet’s sentence is material resurrection: the resurrection of the body, not spirit. Do not preach a spirit-resurrection of the body, as if come forth meant a ghost. Do not preach a second new birth in the dust. They that have done good, unto the resurrection of life — first issue, before the Millennium, when Revelation 20 is opened. They that have done evil, unto the resurrection of damnation — second issue, after the thousand years. John 5 names the two. It does not clock the thousand years. Lesson 5-06 will. Today who comes forth? All. To what two? Life and damnation. What is raised? The body.
 
 Labour
-The Year — one tight page. Write John 5:28-29. Who comes forth? To what two resurrections? Why is 5:25 not this verse? Word drill: graves / come forth / life / damnation / body not spirit.
+The Walk — one tight page. Write John 5:28-29. Who comes forth? To what two resurrections? Why is 5:25 not this verse? Word drill: graves / come forth / life / damnation / body not spirit.
 
 Intensive — three pages on the same cluster. Page 1: write John 5:25 and 5:28-29 in full; two columns — now is / the graves. Page 2: material is the body; all come forth; two destinies, not a second new birth. Page 3: do not time the thousand years here; do not raise the wicked early; write the flatten you will refuse. Same doctrine.
 
@@ -347,7 +347,7 @@ The rest of the dead lived not again until the thousand years were finished. Do 
 The five companies will later fill the first resurrection. Do not flatten those five into this lesson as if Revelation 20 named only one rapture. Today G5 is two issues and a thousand years. The Millennium will be defined in the next lesson from the leaflet’s own sentence. Place both issues on the map: life before; damnation after.
 
 Labour
-The Year — one tight page. Write Revelation 20:4-6 and 20:11-15. Place both issues on the chronology: who, when, destiny. Why is Revelation 10 not this chapter? Word drill: first resurrection / rest of the dead / thousand years / great white throne.
+The Walk — one tight page. Write Revelation 20:4-6 and 20:11-15. Place both issues on the chronology: who, when, destiny. Why is Revelation 10 not this chapter? Word drill: first resurrection / rest of the dead / thousand years / great white throne.
 
 Intensive — three pages on the same cluster. Page 1: write Revelation 20:4-6, 20:11-15, Daniel 12:2-3, and John 5:28-29 in full. Page 2: two issues, a thousand years — do not raise the wicked early; do not teach chapter 10 as the resurrection passage. Page 3: who is not in the first resurrection; write the general-rising flatten you will refuse. Same doctrine.
 
@@ -397,7 +397,7 @@ Write the spine from memory. What is the Millennium? One thousand years after th
 Parse the spine as four clauses, not one blur. (1) The Millennium is the one thousand years period after the tribulation. (2) The tribulation is 7 years after rapture 2. (3) Rapture 2 is not Second Advent. (4) 2nd advent — coming of Christ with the saints — is after Tribulation, ushering the Millennium: Rev. 6–19. Drop a clause and the five companies lose their map. Number a single “the rapture” and clause 3 has nothing to deny. Make advent equal rapture 2 and clause 4 is a repeat. Start the thousand years at the escape and clause 1 is false. This lesson quotes the leaflet’s own sentence so later lessons hang on it, not on another school.
 
 Labour
-The Year — one tight page. Write the leaflet spine in full. Then write four short answers: Millennium; tribulation’s seven years; rapture 2 is not; advent ushers. Word drill: after the tribulation / 7 years after rapture 2 / not Second Advent / with the saints.
+The Walk — one tight page. Write the leaflet spine in full. Then write four short answers: Millennium; tribulation’s seven years; rapture 2 is not; advent ushers. Word drill: after the tribulation / 7 years after rapture 2 / not Second Advent / with the saints.
 
 Intensive — three pages on the same cluster. Page 1: write the spine and Revelation 20:4-6 in full; mark thousand years, rest of the dead, first resurrection. Page 2: order — rapture 2, seven years, advent with the saints, Millennium; refuse “rapture or tribulation first?” as the only question. Page 3: the Millennium is not the last judgment and not a seventh course; write the collapse you will refuse. Same doctrine.
 
@@ -445,7 +445,7 @@ If rapture 2 were the advent, Company 4 could not be saved after rapture 2 and s
 State the difference from the source’s own sentence: rapture 2 is not Second Advent; 2nd advent (coming of Christ with the saints) is after Tribulation. Write H4 beside H8 until you cannot preach them as one coming. Do not flatten five into one. Do not start the Millennium at the escape. Do not raise the wicked at rapture 2.
 
 Labour
-The Year — one tight page. State the difference from the leaflet’s own sentence. Write John 14:3 and Luke 21:36 beside “with the saints.” Word drill: receive you unto Myself / escape / at His coming / not Second Advent.
+The Walk — one tight page. State the difference from the leaflet’s own sentence. Write John 14:3 and Luke 21:36 beside “with the saints.” Word drill: receive you unto Myself / escape / at His coming / not Second Advent.
 
 Intensive — three pages on the same cluster. Page 1: write 1 Corinthians 15:23, 51-54; John 14:1-3; Luke 21:34-36; 2 Corinthians 5:1-8 in full. Page 2: rapture 2 before tribulation — receive, escape, changed; not Revelation 19. Page 3: write the merge you will refuse; why Company 4 requires the distinction. Same doctrine.
 
@@ -487,7 +487,7 @@ Revelation 19:11-21 is not itself the raising of the dead. The leaflet files it 
 Write Revelation 19:11-21. Who comes? Faithful and True, the Word of God. With whom? The armies in heaven. After what? Tribulation. Unto what? The Millennium. What is this not? Rapture 2. Receive you unto Myself remains John 14. Escape remains Luke 21. With the saints remains this chapter.
 
 Labour
-The Year — one tight page. Write Revelation 19:11-16. Who comes, with whom, after what, unto what? What is this not? Word drill: heaven opened / armies which were in heaven / with the saints / ushering the Millennium.
+The Walk — one tight page. Write Revelation 19:11-16. Who comes, with whom, after what, unto what? What is this not? Word drill: heaven opened / armies which were in heaven / with the saints / ushering the Millennium.
 
 Intensive — three pages on the same cluster. Page 1: write Revelation 19:11-21 in full; mark horse, Word, armies, KING OF KINGS, beast, false prophet, remnant. Page 2: after tribulation, ushers the Millennium — not rapture 2, not the great white throne. Page 3: Company 4 returns here; write why the merge with H4 destroys the map. Same doctrine.
 
@@ -549,7 +549,7 @@ Redeemer liveth. In my flesh shall I see God. Thy dead men shall live; together 
 A facts-file, not one proof text. Write Job, Isaiah, Psalm 16, the appearances, Romans, 1 Corinthians 15:12-23. Ground of hope. Do not flatten the file into a slogan.
 
 Labour
-The Year — one tight page. Write Job 19:25-27, Psalm 16:10, and 1 Corinthians 15:19-23. Why does 15:19 belong here and not in G3? Word drill: in my flesh / Holy One / handle Me / firstfruits / bodily hope.
+The Walk — one tight page. Write Job 19:25-27, Psalm 16:10, and 1 Corinthians 15:19-23. Why does 15:19 belong here and not in G3? Word drill: in my flesh / Holy One / handle Me / firstfruits / bodily hope.
 
 Intensive — three pages on the same cluster. Page 1: write Job 19:25-27, Isaiah 26:14, 26:19, Psalm 16:10, Acts 2:27, 31, Romans 1:4, 6:5, 1 Peter 1:3, and 1 Corinthians 15:12-23 in full. Page 2: John 20:27 and 21:12-13 — bodily appearances; 15:19 as bodily hope, not G3. Page 3: the file is many texts; write the one-verse flatten you will refuse. Same doctrine.
 
@@ -599,7 +599,7 @@ Write Matthew 9:25 beside 1 Corinthians 15:20-23. Why are they not the same? Too
 The leaflet’s examples of resurrection are Temporary (Matthew 9:25) and Permanent: raised to immortality to live forever in their bodies, Christ the first fruits of all permanent resurrections (1 Corinthians 15:1-23) and the many saints right now in heaven with their bodies after His resurrection (Matthew 27:52-53). H2 holds the contrast. Q35 will ask why the maid is not 15:20-23. Answer from the cluster: she arose; she is not firstfruits of them that slept; she is not afterward they that are Christ’s at His coming. Do not mix temporary raisings into the five companies. The five are permanent first-resurrection companies. Christ died, was buried, rose the third day, was seen — that gospel is the permanent ground.
 
 Labour
-The Year — one tight page. Write Matthew 9:25 and 1 Corinthians 15:20-23. Why is the maid not the firstfruits harvest? Word drill: the maid arose / firstfruits / them that slept / own order / temporary vs permanent.
+The Walk — one tight page. Write Matthew 9:25 and 1 Corinthians 15:20-23. Why is the maid not the firstfruits harvest? Word drill: the maid arose / firstfruits / them that slept / own order / temporary vs permanent.
 
 Intensive — three pages on the same cluster. Page 1: write Matthew 9:25 and 1 Corinthians 15:1-8, 20-23 in full. Page 2: temporary raising ≠ immortal body; do not file Gospel raisings as companies. Page 3: Christ firstfruits of all permanent resurrections; preview Matthew 27 as permanent without finishing Company 1. Same doctrine.
 
@@ -649,7 +649,7 @@ The leaflet’s own words: the many saints right now in heaven with their bodies
 Appeared unto many is written so you will not call the rising a private vision. Bodies were seen in the holy city after His resurrection. Right now in heaven with their bodies is the leaflet’s present tense. Permanent, not temporary. C4 is locked. There is not another Foundation School teaching.
 
 Labour
-The Year — one tight page. Write Matthew 27:52-53. What arose? When? Where are they now, as the leaflet states? Word drill: many bodies / after his resurrection / holy city / now in heaven with their bodies.
+The Walk — one tight page. Write Matthew 27:52-53. What arose? When? Where are they now, as the leaflet states? Word drill: many bodies / after his resurrection / holy city / now in heaven with their bodies.
 
 Intensive — three pages on the same cluster. Page 1: write Matthew 27:50-53, 1 Corinthians 15:20, and Ephesians 4:8-10 in full. Page 2: permanent, not Jairus; now in heaven with bodies — not Company 2. Page 3: write the hedge you will refuse; there is not another Foundation School teaching. Same doctrine.
 
@@ -703,7 +703,7 @@ The leaflet: there are 5 raptures in the first resurrection: 1. Christ and the M
 Christ the firstfruits; the many saints after Him; now in heaven with their bodies. That is Company 1, past. Afterward remains afterward. The two witnesses remain the end. Do not raise the wicked here. Do not offer new birth after death to swell this company.
 
 Labour
-The Year — one tight page. Name Company 1: who, when, and the texts. What begins here? What is this not? Word drill: firstfruits / many saints / first resurrection begins / own order / past.
+The Walk — one tight page. Name Company 1: who, when, and the texts. What begins here? What is this not? Word drill: firstfruits / many saints / first resurrection begins / own order / past.
 
 Intensive — three pages on the same cluster. Page 1: write 1 Corinthians 15:20, 23; Matthew 27:52-53; Ephesians 4:8-10 in full. Page 2: the first resurrection begins — past; not rapture 2; not five flattened. Page 3: write the merge you will refuse; the wicked are not this company. Same doctrine.
 
@@ -755,7 +755,7 @@ Do not offer new birth after this coming to the man who died without G1. The win
 Write the company: who, when, texts. State again: rapture 2 is not second advent. Do not merge 2 and the advent. Do not flatten five into this one coming.
 
 Labour
-The Year — one tight page. Name Company 2: who, when, texts. Why is this not the advent, and not Company 1? Word drill: at His coming / rapture 2 / receive / escape / not the advent.
+The Walk — one tight page. Name Company 2: who, when, texts. Why is this not the advent, and not Company 1? Word drill: at His coming / rapture 2 / receive / escape / not the advent.
 
 Intensive — three pages on the same cluster. Page 1: write the four H4 passages in full. Page 2: before tribulation; seven years after this the tribulation; not Revelation 19. Page 3: five remain five; write the flatten that ends the first resurrection here. Same doctrine.
 
@@ -801,7 +801,7 @@ Write Revelation 7:1-8. Name Company 3: who, when, texts. Why not 7:18? Why not 
 The leaflet printed the 144,000 Jews, saved in the first half of the Tribulation (Rev. 7:18). Owner lock: that print is 7:1-8. This school will not cite a verse that is not in the chapter. Four angels, four winds, seal of the living God, servants in their foreheads, 144,000 of all the tribes of the children of Israel — Juda, Reuben, Gad, Aser, Nepthalim, Manasses, Simeon, Levi, Issachar, Zabulon, Joseph, Benjamin — twelve thousand each. First half. After rapture 2. Not the advent. Still first resurrection. Do not rename the tribes a Gentile slogan to flatten Company 3 into Company 2. Do not take 7:9’s multitude as if it were this seal.
 
 Labour
-The Year — one tight page. Write the number, the tribes, and the time. Why is the address 7:1-8 and not 7:18? Word drill: 144,000 / sealed / first half / tribes of Israel / not 7:18.
+The Walk — one tight page. Write the number, the tribes, and the time. Why is the address 7:1-8 and not 7:18? Word drill: 144,000 / sealed / first half / tribes of Israel / not 7:18.
 
 Intensive — three pages on the same cluster. Page 1: write Revelation 7:1-8 in full; mark winds, seal, number, each tribe. Page 2: first half of tribulation; still first resurrection; not rapture 2; not 7:9-17. Page 3: the print 7:18 is refused; write the flatten you will not teach. Same doctrine.
 
@@ -849,7 +849,7 @@ Write Company 4: who, when, texts. Why must they be after rapture 2? Why must th
 The leaflet: the great multitude of tribulation saints after rapture 2 (Revelation 6:1–19:21) all in time to come back with Christ for the Millennium (Revelation 19:11-21). After this I beheld a great multitude which no man could number. These are they which came out of great tribulation. Heaven opened; the armies which were in heaven followed Him. Company 4 is why H8 can say with the saints without making H4 the advent. Keep 4 after 2. Keep 4 distinct from 3. Keep 4 this side of the two witnesses’ end. The first resurrection is still open until Company 5.
 
 Labour
-The Year — one tight page. Name Company 4: who, when, texts. Why does “with the saints” require this company after rapture 2? Word drill: after rapture 2 / great tribulation / come back with Christ / not the 144,000.
+The Walk — one tight page. Name Company 4: who, when, texts. Why does “with the saints” require this company after rapture 2? Word drill: after rapture 2 / great tribulation / come back with Christ / not the 144,000.
 
 Intensive — three pages on the same cluster. Page 1: write Revelation 7:9-10, 13-14 and 19:11, 14, 19-21 in full. Page 2: after rapture 2, in time to return; still first resurrection. Page 3: not Company 2, 3, or 5; write the flatten you will refuse. Same doctrine.
 
@@ -895,7 +895,7 @@ Write Revelation 11:7-12. Name Company 5: who, when, texts. What began with Chri
 The leaflet: Rapture of the Two witnesses, ending the first resurrection which began with the resurrection of Christ (Revelation 11:7-12). Began — Company 1. Ends — Company 5. The beast that ascendeth out of the bottomless pit kills them after they finish their testimony. Three days and an half their dead bodies lie. Spirit of life from God entered into them. They stood upon their feet. Come up hither. They ascended up to heaven in a cloud. Late tribulation. Not John 14. Not Matthew 9:25. Not the rest of the dead. When this company is caught up, the first resurrection’s five are complete. The advent with the saints still follows the tribulation’s close. The thousand years still follow the advent. The wicked still wait.
 
 Labour
-The Year — one tight page. Write Revelation 11:7-12. Name Company 5: who, when. What ends here that began with Christ? Word drill: two witnesses / Come up hither / three days and an half / first resurrection ends.
+The Walk — one tight page. Write Revelation 11:7-12. Name Company 5: who, when. What ends here that began with Christ? Word drill: two witnesses / Come up hither / three days and an half / first resurrection ends.
 
 Intensive — three pages on the same cluster. Page 1: write Revelation 11:7-12 in full; mark testimony, beast, bodies, Spirit of life, Come up hither, cloud. Page 2: ends the first resurrection — not rapture 2, not the advent. Page 3: five remain five; write the flatten you will refuse. Same doctrine.
 
@@ -951,7 +951,7 @@ Recite the map: Company 1 past; Company 2 before tribulation; seven years; Compa
 Do not flatten five into one rapture. Do not make advent equal rapture 2. Do not raise the wicked before the Millennium. Do not offer new birth after death. Completing activities is not mastery. The file is two kinds, two issues, five companies, the spine.
 
 Labour
-The Year — write Q29–Q36 as eight tight paragraphs, then the spine from memory. Same doctrine. Word drill: two kinds / this life only / thousand years / five companies / not the advent.
+The Walk — write Q29–Q36 as eight tight paragraphs, then the spine from memory. Same doctrine. Word drill: two kinds / this life only / thousand years / five companies / not the advent.
 
 Intensive — three pages on the same cluster, then the eight charges. Page 1: two kinds, G3 lock, John 5, Revelation 20 — not chapter 10. Page 2: the spine; rapture 2 is not the advent; facts-file; temporary vs permanent; Matthew 27 now in heaven with bodies. Page 3: five companies — who, when, texts; who is not in the first resurrection; *Millennium* directed, not a seventh course. Same doctrine. Do not invent a seventh company to fill a page.
 

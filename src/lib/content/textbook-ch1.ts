@@ -284,9 +284,9 @@ D. Three hours and eight
 
 If you will walk this year at three hours a week or at eight, the difference is not a second doctrine. The difference is how much labour you put on the same oracles.
 
-The Year: about three hours a week, fifty-two weeks, the same six courses. Intensive: about eight hours a week, fifty-two weeks, the same six courses. Same examinations. Same certificate when a certificate is issued. No second curriculum.
+The Walk: about three hours a week, fifty-two weeks, the same six courses. Intensive: about eight hours a week, fifty-two weeks, the same six courses. Same examinations. Same certificate when a certificate is issued. No second curriculum.
 
-Three hours will not excuse you from spoudazō. Eight hours will not create a different gospel. The Intensive student writes longer, drills more, and sits longer with the same cluster. The Year student writes tighter on the same cluster. Both must reason. Neither may hide in quotation.
+Three hours will not excuse you from spoudazō. Eight hours will not create a different gospel. The Intensive student writes longer, drills more, and sits longer with the same cluster. The Walk student writes tighter on the same cluster. Both must reason. Neither may hide in quotation.
 
 E. Charge — word drill on the verse
 
@@ -429,7 +429,7 @@ Do not teach Chapter 7 in Chapter 1. Do not teach Chapter 2 as if it were all si
 
 D. The year
 
-Fifty-two weeks. The Year about three hours a week. Intensive about eight. Same six. Course 1, nine weeks. Course 2, nine. Course 3, eight. Course 4, eight. Course 5, nine. Course 6, nine.
+Fifty-two weeks. The Walk about three hours a week. Intensive about eight. Same six. Course 1, nine weeks. Course 2, nine. Course 3, eight. Course 4, eight. Course 5, nine. Course 6, nine.
 
 A certificate, when issued, is for completing a program, not for buying a book, not for clicking a lesson, not for owning the leaflet. Written charges, an examination per course, a week-52 final: that is the labour the school will ask. Mid-year and capstone demonstrations, if they come later, will not replace this foundation.
 
@@ -477,7 +477,7 @@ A. The verse you will write
 
 Write Hebrews 5:12 in full, by hand, from the KJV, until you can do it without looking. Then write 2 Timothy 2:15 the same way. Then write John 8:31-32 the same way.
 
-If you walk The Year, that is the week’s writing of verses, with the reasoning below in tight paragraphs. If you walk The Intensive, write also Hebrews 5:11-14 and 6:1-3 as one stretch, and expand every reasoning sentence into a paragraph a babe could follow.
+If you are on The Walk, that is the week’s writing of verses, with the reasoning below in tight paragraphs. If you are on The Intensive, write also Hebrews 5:11-14 and 6:1-3 as one stretch, and expand every reasoning sentence into a paragraph a babe could follow.
 
 B. Reason the words
 
@@ -525,11 +525,11 @@ It will not treat Hebrews 6:3 as a seventh principle.
 
 It will not give you a second doctrine for the intensive clock.
 
-XIII. LABOUR FOR THE YEAR AND THE INTENSIVE
+XIII. LABOUR FOR THE WALK AND THE INTENSIVE
 
 Same doctrine. Same six. Same chapter. Different hours.
 
-The Year — about three hours a week. Read this chapter in two sittings. Write the charges in sections I, III, V, VI, and VIII as five tight paragraphs. Write Hebrews 5:12 and 2 Timothy 2:15 by hand. Name the six. Name the two marks of babes. That is enough writing for the gate if the writing is honest.
+The Walk — about three hours a week. Read this chapter in two sittings. Write the charges in sections I, III, V, VI, and VIII as five tight paragraphs. Write Hebrews 5:12 and 2 Timothy 2:15 by hand. Name the six. Name the two marks of babes. That is enough writing for the gate if the writing is honest.
 
 Intensive — about eight hours a week. Read this chapter until you can teach it. Write the charges in every section. Write Hebrews 5:11-14 and 6:1-3 by hand. Write John 8:31-36 by hand. Write one page on graphē versus religiousism. Write one page on apeiros and nēpios without using the word “basically.” Write the 2 Timothy 2:15 drill in six sentences that reason, not six sentences that repeat. Sit with a babe and teach 5:12 until he can say “ought,” “again,” and “become.”
 

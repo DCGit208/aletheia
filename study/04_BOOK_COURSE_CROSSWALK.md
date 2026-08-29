@@ -50,9 +50,9 @@ Does **not** grant the companion library. Book purchase does **not** grant a cou
 
 ---
 
-## Intensive vs The Year (same book, same lessons)
+## Intensive vs The Walk (same book, same lessons)
 
-| | The Year ~3 h/week | Intensive ~8 h/week |
+| | The Walk ~3 h/week | Intensive ~8 h/week |
 | --- | --- | --- |
 | Lesson list | The map in `09_LESSON_MAP.md` | **The same list** |
 | Reading | Textbook section + assigned cluster | Textbook + fuller cluster + companion pages when present |

@@ -90,9 +90,9 @@ Acceptance, as the leaflet uses it with pistis, is true nature. Espousal is adop
 This course will not walk Hebrews 11 as a pep talk. The principle is not “heroes of faith” as a mood. The principle is faith toward God as Hebrews 6:1 names it, opened by this adoption cluster. Write what “toward God” does that a definition without an object cannot do. Write what pistis credits that a mood cannot credit.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine. The hours differ. The oracles do not.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine. The hours differ. The oracles do not.
 
-The Year — one page. Write, in your own words, what “toward God” does to the word faith that a definition without an object cannot do. Then write what pistis credits that a mood cannot credit. Quote Hebrews 6:1 and Galatians 4:7.
+The Walk — one page. Write, in your own words, what “toward God” does to the word faith that a definition without an object cannot do. Then write what pistis credits that a mood cannot credit. Quote Hebrews 6:1 and Galatians 4:7.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Galatians 4:5-7, Romans 8:15, and Ephesians 1:5 in full. Sit adoption, Abba, no more a servant, son, heir in one stretch. Do not open the heir lesson’s full charge here. Page 3: teach pistis as credence that defines sons, as you would stand behind it before a teacher. Refuse faith as a feeling you manufacture.
 
@@ -140,9 +140,9 @@ Fulness of the time. God sent forth His Son, made of a woman, made under the law
 Ephesians 1:5 is the Father’s will, not your climb: predestinated unto the adoption of children by Jesus Christ to Himself, according to the good pleasure of His will. Adoption is not a religious nickname you earn. Write Galatians 4:7. Write what you must stop calling yourself if son is the name.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Write Galatians 4:7. Then write what you must stop calling yourself if son is the name and servant is not.
+The Walk — one page. Write Galatians 4:7. Then write what you must stop calling yourself if son is the name and servant is not.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Galatians 4:4-7 and Romans 8:15-17 in full. Sit fulness of time, sent forth, redeem, adoption, Abba, no more a servant, children, heirs, joint-heirs. Keep “heir” named but not exhausted. Page 3: write Ephesians 1:5. Teach adoption as the Father’s doing, as you would stand behind it before a teacher.
 
@@ -194,9 +194,9 @@ Genesis 1:27-28 remain and will be opened next. Do not skip 1:26 to make the mak
 Acceptance or approval, as Chapter 3 opens it, is on the basis of this true nature from creation with respect to God. Pistis credits what ’ĕlōhîm said, not what a safer room would rather He had said. If you flatten “Let us make” into a figure, you have already begun to flatten image, likeness, and dominion. The next lesson will keep 1:26-28 as written and mark the TLB as a gloss. This lesson will not move. Who speaks. What is made. In whose image. Dominion in the same breath.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Write Genesis 1:26. Name Who speaks, what is made, and in whose image. Do not write a safer verse in its place.
+The Walk — one page. Write Genesis 1:26. Name Who speaks, what is made, and in whose image. Do not write a safer verse in its place.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Genesis 1:26-28 in full. Keep the making as written. Do not hedge image, likeness, or dominion. Page 3: teach ’ĕlōhîm as the leaflet reads it — plural, Trinity, God speaking as God — as you would stand behind it before a teacher. Refuse a committee of angels.
 
@@ -248,9 +248,9 @@ Genesis 1:28 is blessing and charge in one breath: be fruitful, multiply, replen
 John 14:12 — he that believeth on me, the works that I do shall he do also, and greater works, because I go unto my Father. 1 John 4:17 — as he is, so are we in this world. Hold those with the making, not against it. Romans 8:17 — heirs of God, joint-heirs with Christ — will be opened as heir. Psalm 82:6 and John 17 will have their lessons. Do not detach them. Do not exhaust them here. Teach the cluster as written.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. What does Genesis 1:26 actually say, and what does it not say? Write the verse. Write the TLB as a gloss, marked TLB. Then write one sentence from John 14:12 or 1 John 4:17 that you will hold with the making, not against it.
+The Walk — one page. What does Genesis 1:26 actually say, and what does it not say? Write the verse. Write the TLB as a gloss, marked TLB. Then write one sentence from John 14:12 or 1 John 4:17 that you will hold with the making, not against it.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Genesis 1:26-28 in full. Sit image, likeness, male and female, fruitful, multiply, replenish, subdue, dominion. Page 3: write John 14:12, 1 John 4:17, and Romans 8:17. Teach the cluster as written, as you would stand behind it before a teacher. Do not empty Genesis. Do not detach the later verses.
 
@@ -298,9 +298,9 @@ Dikaiosynē will later be equity: impartiality to and conformity with the nature
 Write 2 Peter 1:4. Write what “back on course” forbids you to call a new invention. Partaker is not a tourist of divinity.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Write 2 Peter 1:4. Then write what “back on course” forces you to stop calling a new invention.
+The Walk — one page. Write 2 Peter 1:4. Then write what “back on course” forces you to stop calling a new invention.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write 2 Peter 1:3-7 in full. Sit given, promises, partakers, escaped, and the adding that begins with faith. Page 3: teach partaker of the divine nature versus inventing another nature God did not make, as you would stand behind it before a teacher. Hold Genesis as the nature named.
 
@@ -350,9 +350,9 @@ Course 1 already taught John 10:35 as graphē: the scripture cannot be broken. T
 The Lord pillows in the writing. Course 1 taught that as graphē. Here the writing He will not let them break is this psalm, including the verse that says they shall die like men. A school that empties 82:6 to make it safe has already decided the Lord should not have appealed to it. A school that detaches 82:6 from 82:7 has already made a slogan. Keep both. Keep His use. Write what you must not say.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Write Psalm 82:6-7 and John 10:34-35 as one cluster. Then write what you must not say if you keep both verses and the Lord’s use of them.
+The Walk — one page. Write Psalm 82:6-7 and John 10:34-35 as one cluster. Then write what you must not say if you keep both verses and the Lord’s use of them.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Psalm 82:6-7 and John 10:34-36 in full. Sit the charge of blasphemy, the appeal, “unto whom the word of God came,” and “die like men.” Page 3: teach the verse as the Lord used it, as you would stand behind it before a teacher. Refuse a slogan detached from the Word. Refuse a verse so emptied that the Lord could not have appealed to it.
 
@@ -398,9 +398,9 @@ Why did Jesus come? Because that glory was come short. He did not come to invent
 All have sinned. There is no difference. The image-bearer came short. Justification is already in the same sentence as the shortcoming: freely, by grace, through the redemption that is in Christ Jesus. Do not answer “Why did Jesus come?” with a sentence that never names that glory and never names that free justification. He came because the glory was come short. He came that the man made in the image might be set back on course. The next lesson will put 1 Corinthians 11:7 on that glory. Hold the question until the clause can sit with Romans 3:23.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Why did Jesus come? Answer in terms of glory and true nature, not a slogan. Write Romans 3:23-24 and reason it.
+The Walk — one page. Why did Jesus come? Answer in terms of glory and true nature, not a slogan. Write Romans 3:23-24 and reason it.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Romans 3:23-26 in full. Sit all have sinned, come short, justified freely, grace, redemption, propitiation, faith in His blood, just and justifier. Page 3: teach why He came, as you would stand behind it before a teacher. Glory as true nature, not as a religious atmosphere. Hold 1 Corinthians 11:7 for the next lesson; name that it is coming.
 
@@ -450,9 +450,9 @@ The chapter is contested in many rooms. This school will not skip the clause bec
 Avoiding the verse because the chapter is argued is not this school. Teaching the identity clause is. Man is the image and glory of God. That glory was come short. Jesus came because of that shortcoming. Hold the clause with Romans 3:23-24 until you can teach both as one stretch.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Write 1 Corinthians 11:7 with Romans 3:23 as one paragraph. What glory was come short? Do not answer with a word you cannot put back on the verse.
+The Walk — one page. Write 1 Corinthians 11:7 with Romans 3:23 as one paragraph. What glory was come short? Do not answer with a word you cannot put back on the verse.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write 1 Corinthians 11:7 and Romans 3:23-24 in full. Sit the clause in its chapter without skipping it, and sit the clause as the glory Romans names. Page 3: teach the identity clause the leaflet uses, as you would stand behind it before a teacher. Refuse avoiding the verse because the chapter is argued.
 
@@ -502,9 +502,9 @@ Has man been justified? Yes. And freely. That is the leaflet’s answer, not a m
 Write Romans 3:24-26. Name dikaioō as render just or innocent. Name freely, grace, redemption, propitiation, blood, just and justifier. If you add a remainder, you have not heard the source’s answer.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Has man been justified? Write the source’s answer. Then write what you must stop adding to “freely.”
+The Walk — one page. Has man been justified? Write the source’s answer. Then write what you must stop adding to “freely.”
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Romans 3:23-26 in full. Define dikaioō as the leaflet uses it: render just or innocent, free from evil or guilt. Page 3: teach freely, by grace, through redemption, as you would stand behind it before a teacher. Labour belongs to study. Innocence before God is free in Christ.
 
@@ -552,9 +552,9 @@ You are not being offered a new species. You are being set on the line from whic
 Equity is impartiality to the nature of God and conformity with it. A costume is not impartiality. A score is not conformity. The righteousness of God is manifested without the law, witnessed by the law and the prophets, by faith of Jesus Christ unto all and upon all them that believe. Back on course is the leaflet’s original for that conformity: returned to the line Genesis named, in Christ, having escaped the corruption. Write the two questions from the verses.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Write what “back on course” means from dikaiosynē and 2 Peter 1:4 together. What course? Whose nature?
+The Walk — one page. Write what “back on course” means from dikaiosynē and 2 Peter 1:4 together. What course? Whose nature?
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Romans 3:21-26 in full. Sit righteousness of God without the law, by faith of Jesus Christ, unto all and upon all that believe, declared, just and justifier. Page 3: write 2 Peter 1:4 again with the equity sentences. Teach dikaiosynē as conformity with God’s nature, as you would stand behind it before a teacher.
 
@@ -604,9 +604,9 @@ Ransom in full means there is no unpaid remainder. You cannot add a second payme
 Through the redemption that is in Christ Jesus — that is where apolutrōsis sits. Ransom in full. Propitiation through faith in His blood. No unpaid remainder. A second price, however religious, is not this verse. Hold Hebrews 9:14 with Romans 3:24: the blood purges; the ransom is full. Do not preach a justification you must finish. Has man been justified? Yes. And freely. Through a ransom that is not partial.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Show apolutrōsis in Romans 3:24. Write the verse. Then write one sentence you will not say again if the ransom is in full.
+The Walk — one page. Show apolutrōsis in Romans 3:24. Write the verse. Then write one sentence you will not say again if the ransom is in full.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Romans 3:24-26 in full. Sit freely, grace, redemption, propitiation, blood, just and justifier. Page 3: hold Hebrews 9:14 with this ransom. Teach ransom in full versus a redemption that still leaves you to complete the price, as you would stand behind it before a teacher.
 
@@ -654,9 +654,9 @@ He knew no sin. He was made sin for us. That we might be made the righteousness 
 Present tense is the leaflet’s stand. So right now, you are the dikaiosynē of God in Christ. A future costume is not this verse. A good-day visit is not this verse. The new creature Course 1 laid is the man of whom 5:21 speaks. Write what “right now” forbids you to say if you are in Him.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Write 2 Corinthians 5:21. Then write what “right now” forbids you to say about yourself if you are in Him.
+The Walk — one page. Write 2 Corinthians 5:21. Then write what “right now” forbids you to say about yourself if you are in Him.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write 2 Corinthians 5:17 and 5:21 together. Sit new creature and righteousness of God in Him. Add Romans 3:24. Page 3: teach present righteousness in Christ versus righteousness as a future costume, as you would stand behind it before a teacher. Do not invent the Hebrews 1:8 title here. Name that the next lesson will ask the question.
 
@@ -700,9 +700,9 @@ Hebrews 1 will not let you start at verse 8 as a slogan. God hath spoken by His 
 You are the dikaiosynē of God in Christ (2 Corinthians 5:21). The sceptre of that kingdom is righteousness. The Father addresses the Son as God. The Son is the express image. The Son is heir of all things. The leaflet asks what that makes you. It does not print the answer. This school will not invent a title the source does not grant. Reason from those lines. Write only what they force. Do not print a name the leaflet never printed. Do not write what a slogan wants. The distinction is reasoning from the cluster versus inventing a name.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. You’re the dikaiosynē of God in Christ. According to Hebrews 1:8, what does that make you? Write the cluster. Write only what the cluster forces.
+The Walk — one page. You’re the dikaiosynē of God in Christ. According to Hebrews 1:8, what does that make you? Write the cluster. Write only what the cluster forces.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Hebrews 1:1-8 in full and 2 Corinthians 5:21. Sit spoken by His Son, heir of all things, brightness, express image, purged our sins, Thy throne O God, sceptre of righteousness. Page 3: reason from the cluster as you would stand behind it before a teacher. Do not invent a title. Name what you refused to invent.
 
@@ -752,9 +752,9 @@ The owner’s charge stays with the image: heir (Romans 8:17), made after the im
 If children, then heirs. If a son, then an heir of God through Christ. Joint-heirs with Christ. The father’s estate belongs by sonship. A hired man hopes for a wage. You will not treat sonship as a polite nickname and then work as a hireling for what already belongs to the son. Psalm 139:14 stays with the image: fearfully and wonderfully made. Genesis 1:26-28 stays: made after the image. Do not soften the heir.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Who is heir of God? What is the meaning of heir? Write Galatians 4:7 and Romans 8:17. Then write what you must stop treating as a wage.
+The Walk — one page. Who is heir of God? What is the meaning of heir? Write Galatians 4:7 and Romans 8:17. Then write what you must stop treating as a wage.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Galatians 4:4-7 and Romans 8:15-17 in full. Sit son, heir, joint-heirs, suffer with him, glorified together. Page 3: hold Romans 8:17 with Genesis 1:26-28 and Psalm 139:14 as the owner’s charge. Teach heir by sonship versus hireling by performance, as you would stand behind it before a teacher.
 
@@ -800,9 +800,9 @@ A unity-event is not that measure. A merger of organizations is not that measure
 Liken. The leaflet asks that verb. You will write the likeness from “as thou, Father, art in me, and I in thee,” from glory given, from I in them and thou in me, from made perfect in one, from loved them as thou hast loved me. You will not submit a unity slogan. You will not submit a merger. The world is to believe and to know that the Father sent the Son. That is in the prayer. Keep it in the likeness.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. How would you liken the prayer of oneness in John 17:20-23? Write the likeness from the words. Do not submit a unity slogan.
+The Walk — one page. How would you liken the prayer of oneness in John 17:20-23? Write the likeness from the words. Do not submit a unity slogan.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write John 17:20-23 in full. Sit “these alone,” “them also,” “as thou, Father,” “glory… I have given,” “I in them,” “thou in me,” “perfect in one,” “loved them, as.” Page 3: hold the prayer with Genesis 1:26-28. Teach oneness as the Father and the Son are one, as you would stand behind it before a teacher. Refuse a unity-event. Refuse a merger of organizations.
 
@@ -848,9 +848,9 @@ Christ is the image of God. The glory of God is known in His face. Faith toward 
 The same God who said “Let there be light” has shined in our hearts. The face is Jesus Christ’s. The image is His. The gospel hid is hid to them that are lost. Blindness here is not a small inconvenience. It is the old opposition to the image Course 1 named in the old-man file. Faith toward God is credence of this light — sonship, free justification, the image in His face — not a leap into an unseen of your own invention.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Write 2 Corinthians 4:4 and 4:6. Then write what the god of this world is opposing when he blinds minds — and what pistis credits when the light shines.
+The Walk — one page. Write 2 Corinthians 4:4 and 4:6. Then write what the god of this world is opposing when he blinds minds — and what pistis credits when the light shines.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write 2 Corinthians 4:3-6 in full. Sit hid, lost, blinded, light of the glorious gospel, image of God, preach not ourselves, commanded the light, shined in our hearts, face of Jesus Christ. Page 3: teach faith toward God as credence of this light, as you would stand behind it before a teacher. Refuse a leap into an unseen of your own invention.
 
@@ -908,12 +908,12 @@ The leaflet’s own questions are the examination. Why did Jesus come? Glory / t
 
 Companions are directed, not whole books as this course: The Doctrine of Man (already in the house); Why Men Die; True Nature of God; Who’s Jesus to You? True Nature of God, as the leaflet places it, will say: if you know God’s nature, then you are as Him, unlimited, because you are made in His image (Genesis 1:26). That sentence does not reopen Genesis as a hedge. Assigned sections when the volumes are in your hand. Completing this course does not require finishing every page of the library.
 
-Write the twelve. The Year: twelve tight paragraphs. Intensive: twelve full pages. Same doctrine. Then the principle as you would teach it to a babe, and as you would stand behind it before a teacher. The second stone is laid when a man credits sonship, image, free justification, and the heir — toward God, not toward a system. The next principle is baptisms: the son this course named is baptized into Christ, then in water as a sign, then in the Spirit as witness.
+Write the twelve. The Walk: twelve tight paragraphs. Intensive: twelve full pages. Same doctrine. Then the principle as you would teach it to a babe, and as you would stand behind it before a teacher. The second stone is laid when a man credits sonship, image, free justification, and the heir — toward God, not toward a system. The next principle is baptisms: the son this course named is baptized into Christ, then in water as a sign, then in the Spirit as witness.
 
 Labour
-The Year: write the twelve as twelve tight paragraphs. Intensive: write the full page on each of the twelve. Same doctrine. The hours differ. The twelve do not.
+The Walk: write the twelve as twelve tight paragraphs. Intensive: write the full page on each of the twelve. Same doctrine. The hours differ. The twelve do not.
 
-The Year — twelve tight paragraphs, one for each head above, each paragraph quoting the governing verse and stating the distinction. Then answer the leaflet’s own questions in a thirteenth short movement: Why did Jesus come? Has man been justified? Who is heir? What does heir mean? How do you liken John 17:20-23? What does Genesis 1:26 actually say, and what does it not say?
+The Walk — twelve tight paragraphs, one for each head above, each paragraph quoting the governing verse and stating the distinction. Then answer the leaflet’s own questions in a thirteenth short movement: Why did Jesus come? Has man been justified? Who is heir? What does heir mean? How do you liken John 17:20-23? What does Genesis 1:26 actually say, and what does it not say?
 
 Intensive — twelve full pages, one for each head, then a thirteenth page: the principle as you would teach it to a babe, and as you would stand behind it before a teacher, answering those same questions from the cluster. Do not submit a feeling in the place of the cluster. Do not treat the companion volumes as this course.
 

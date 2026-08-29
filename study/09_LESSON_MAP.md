@@ -2,7 +2,7 @@
 
 This is a **content map**, not written lessons. 52 weeks is the cadence. Lessons are the intellectual content. A week may hold one major lesson plus reading, cluster study, discussion, and a charge.
 
-**The Year and The Intensive use this same list.** Intensive assigns more pages, more drill, and a longer charge.
+**The Walk and The Intensive use this same list.** Intensive assigns more pages, more drill, and a longer charge.
 
 Target: 12–18 lessons per course, ~80–100 for the year. This map: **95**.
 

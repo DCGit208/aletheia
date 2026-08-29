@@ -30,7 +30,7 @@ Course hierarchy: Learning path → Course → Module → Lesson → Resource �
 
 A **School** is a house of study (Foundation School, later others). It is not a second app, not a membership, and not a new user role.
 
-A **Program** is what a person enrols in. It is a cadence over a shared curriculum: The Year and The Intensive are two programs of one school, not two copies of the teaching.
+A **Program** is what a person enrols in. It is a cadence over a shared curriculum: The Walk and The Intensive are two programs of one school, not two copies of the teaching.
 
 A **Learning path** remains the lighter sequence (for example Truth · Identity · Dominion). Paths are not year-bearing schools.
 
@@ -59,13 +59,13 @@ Do not add Schools to the six-tab bar. They live under Learn.
 | Entity | Meaning | Enrol? |
 | --- | --- | --- |
 | School | Named house (Foundation School). Holds one ordered curriculum. | No |
-| Program | A year-bearing offering of that curriculum (The Year or The Intensive). | Yes |
+| Program | A year-bearing offering of that curriculum (The Walk or The Intensive). | Yes |
 | Course | A reusable unit (one first principle, or a standalone course). | Yes, also via program |
 | Path | A short sequence of courses. Not a school year. | No (courses inside it) |
 
 One curriculum, two cadences:
 
-- **The Year** — 52 weeks, the six principles divided across the year (~8–9 weeks each), about three hours a week.
+- **The Walk** — 52 weeks, the six principles divided across the year (~8–9 weeks each), about three hours a week.
 - **The Intensive** — the same 52 weeks and the same six courses, about eight hours a week. Not a second syllabus.
 
 A leaflet or book (Aletheia Libraries 1) is a **Book** resource attached to lessons. It is not a third copy of the school.

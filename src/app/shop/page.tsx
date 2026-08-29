@@ -74,7 +74,13 @@ export default function ShopPage() {
             tone={product.coverTone}
             image={product.coverImage}
             imageFit={product.kind === "bundle" ? "cover" : "contain"}
-            badge={product.kind === "program" ? "Year" : product.kind}
+            badge={
+              product.id === "product-foundation-year"
+                ? "Walk"
+                : product.id === "product-foundation-intensive"
+                  ? "Intensive"
+                  : product.kind
+            }
           />
         ))}
       </div>

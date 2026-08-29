@@ -77,10 +77,10 @@ export const foundationPrograms: Program[] = [
   {
     id: "program-foundation-year",
     schoolId: "school-foundation",
-    title: "The Year",
-    subtitle: "Six principles. About three hours a week.",
+    title: "The Walk",
+    subtitle: "The three-hour walk of the year.",
     description:
-      "Fifty-two weeks on the first principles. Same teaching as The Intensive — a different labour. About three hours each week. The $400 year grants the six courses and the textbook. It does not grant the companion library.",
+      "The ordinary cadence of Foundation School: about three hours each week, fifty-two weeks, the six first principles in order. Same teaching as The Intensive — a different labour. The $400 purchase grants the six courses and the textbook. It does not grant the companion library.",
     kind: "year",
     durationWeeks: 52,
     hoursPerWeek: 3,
@@ -94,9 +94,9 @@ export const foundationPrograms: Program[] = [
     id: "program-foundation-intensive",
     schoolId: "school-foundation",
     title: "The Intensive",
-    subtitle: "The same year. About eight hours a week.",
+    subtitle: "The same walk. About eight hours a week.",
     description:
-      "The same six principles and the same fifty-two weeks, with about eight hours each week. Not a second syllabus. A fuller load. The $400 year grants the six courses and the textbook. It does not grant the companion library.",
+      "The same six principles and the same fifty-two weeks, with about eight hours each week. Not a second syllabus. A fuller load on the same walk. The $400 purchase grants the six courses and the textbook. It does not grant the companion library.",
     kind: "intensive",
     durationWeeks: 52,
     hoursPerWeek: 8,

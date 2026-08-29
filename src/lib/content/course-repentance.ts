@@ -89,11 +89,11 @@ The premiere convention is first principles, then maturity. Hebrews 5:12 already
 Write this week as a man under the writing. Name the likeness you have used as if it were Scripture. Name the verse you will continue in. Do not name a verse you will not open.
 
 Labour
-This is the page-work. The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine. The hours differ. The oracles do not.
+This is the page-work. The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine. The hours differ. The oracles do not.
 
-The Year — one page. Quote John 10:34-36 in full. Name what charge the Lord was answering. Name what writing He appealed to (Psalm 82:6). Then write, in your own hand, what “the scripture cannot be broken” forbids you to do to a likeness of the faith.
+The Walk — one page. Quote John 10:34-36 in full. Name what charge the Lord was answering. Name what writing He appealed to (Psalm 82:6). Then write, in your own hand, what “the scripture cannot be broken” forbids you to do to a likeness of the faith.
 
-Intensive — three pages on that same cluster. Page 1 is The Year page. Page 2: sit John 10:34-36 in its chapter — the Jews take up stones; they say He, being a man, maketh Himself God; He answers from the writing. Do not import Course 2’s later use of Psalm 82:7 here. Page 3: teach the premiere convention as you would stand behind it before a teacher: first principles, then maturity; graphē over religiousism; this book as the convention for hearing, not a second Bible.
+Intensive — three pages on that same cluster. Page 1 is The Walk page. Page 2: sit John 10:34-36 in its chapter — the Jews take up stones; they say He, being a man, maketh Himself God; He answers from the writing. Do not import Course 2’s later use of Psalm 82:7 here. Page 3: teach the premiere convention as you would stand behind it before a teacher: first principles, then maturity; graphē over religiousism; this book as the convention for hearing, not a second Bible.
 
 Write in your own hand. Quote the governing verses in full. Name graphē as this school uses it. Draw the distinction: writing versus religiousism. The page is not a journal of feelings.
 
@@ -143,9 +143,9 @@ Hebrews 6:1-2 will not let you merge the six. Repentance from dead works is not 
 Hebrews 6:3 remains the hinge: “And this will we do, if God permit.” Permission is not fatalism. It is dependence. You labour. You ask. You do not enrol God. If you cannot yet teach this first principle from the Scriptures, you are still in 5:12 — needing to be taught again — and you will not pretend you have left the principles.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Write Hebrews 5:12 in your own hand. Reason “ought to be teachers,” “teach you again,” “become,” and “milk” in that one verse. Name the time you have already had under the word. Do not write a general confession.
+The Walk — one page. Write Hebrews 5:12 in your own hand. Reason “ought to be teachers,” “teach you again,” “become,” and “milk” in that one verse. Name the time you have already had under the word. Do not write a general confession.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Hebrews 5:11-14 in full, then Hebrews 6:1-3 in full. Show how “leaving” in 6:1 is not forgetting, and how 6:3 is dependence, not a seventh principle. Page 3: teach the cluster as you would stand behind it before a teacher — dull hearing, recession, the six named, if God permit.
 
@@ -197,9 +197,9 @@ Soft copy or hard copy is not the issue. A man with a phone full of Bibles can b
 Name the hour. Name the text. If you cannot, you are not yet a workman, however present you have been.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Write Hebrews 5:13. Define apeiros as the source uses it: inexperienced, ignorant, unskilful — in the word of righteousness. Then name your actual study labour this week: the hour and the text. If you cannot name it, you are not yet a workman. Do not name a meeting in the place of labour.
+The Walk — one page. Write Hebrews 5:13. Define apeiros as the source uses it: inexperienced, ignorant, unskilful — in the word of righteousness. Then name your actual study labour this week: the hour and the text. If you cannot name it, you are not yet a workman. Do not name a meeting in the place of labour.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Hebrews 5:12-14 in full. Show how “milk,” “unskilful,” “babe,” and “senses exercised” sit in one stretch. Reason why a crowded room can still be apeiros. Page 3: teach what the leaflet blames — failure to know the Scriptures and to align — and what it will not accept as a cure. Write the teaching as you would stand behind it before a teacher.
 
@@ -254,9 +254,9 @@ Hebrews 5:14 is the other man in the same stretch: strong meat belongs to them t
 Name your dullness. Name the place of your unskill. Write the place, not a general confession. The diagnosis is useless if you will not locate it.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Write the two marks as the source sets them, each with its verse. Name your dullness of hearing. Name where you are apeiros in the word of righteousness. Do not write a general confession. Write the place.
+The Walk — one page. Write the two marks as the source sets them, each with its verse. Name your dullness of hearing. Name where you are apeiros in the word of righteousness. Do not write a general confession. Write the place.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Hebrews 5:11-14 in full. Define nēpios as the source uses it. Show why “babe” is a diagnosis and not an endearment. Page 3: teach babe versus the man of full age whose senses are exercised. Write the teaching as you would stand behind it before a teacher.
 
@@ -295,18 +295,18 @@ Read the verse in its stretch. 2 Timothy 2:3-4 — “Thou therefore endure hard
 
 Then 2:15. Approval before God in this verse is the approval of a workman. The work is the word of truth, rightly divided. Shame here is the shame of a workman who cannot divide the word. 2 Timothy 2:16 follows: “But shun profane and vain babblings: for they will increase unto more ungodliness.” Right division is not a hobby of phrases. It is the labour that refuses babbling.
 
-If you will walk this year at three hours a week or at eight, the difference is not a second doctrine. The difference is how much labour you put on the same oracles. The Year and The Intensive are the same teaching. The hours differ. The oracles do not.
+If you will walk this year at three hours a week or at eight, the difference is not a second doctrine. The difference is how much labour you put on the same oracles. The Walk and The Intensive are the same teaching. The hours differ. The oracles do not.
 
 2 Timothy 2:15 does not sit in a vacuum of study tips. The man addressed is to endure hardness as a good soldier. He is not to entangle himself with the affairs of this life, that he may please him who hath chosen him to be a soldier. He is to remember Jesus Christ of the seed of David, raised from the dead. The word of God is not bound though the apostle is in bonds. He is to charge them that they strive not about words to no profit, to the subverting of the hearers. Then: study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.
 
 Spoudazō, as the leaflet uses it, is speed, effort, promptness, earnestness; diligence, endeavour, labour, study — intellectually. Speed is earnestness that will not postpone. It is not haste that skips context and calls the skip “faith.” Approval is a workman’s approval. Shame is a workman’s shame — the man who cannot divide the word. Rightly dividing is the work. Profane and vain babblings increase unto more ungodliness (2 Timothy 2:16). Collecting quotations you cannot reason is nearer babbling than labour.
 
-The Year is about three hours a week. Intensive is about eight. Same oracles. Same doctrine. Same 2 Timothy 2:15. The difference is hours on the same work. You will not invent a second teaching for the longer week. You will put more labour on this verse until “approved,” “workman,” and “rightly dividing” can be reasoned without a slogan.
+The Walk is about three hours a week. Intensive is about eight. Same oracles. Same doctrine. Same 2 Timothy 2:15. The difference is hours on the same work. You will not invent a second teaching for the longer week. You will put more labour on this verse until “approved,” “workman,” and “rightly dividing” can be reasoned without a slogan.
 
 Labour
-The Year: write one tight page — a word drill. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page — a word drill. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Do a word drill on 2 Timothy 2:15 until you can reason “study,” “approved,” “workman,” “ashamed,” and “rightly dividing” without a slogan. Write the verse. Then write six sentences, one for each of those five words and one for the soldier-context that sits before the verse.
+The Walk — one page. Do a word drill on 2 Timothy 2:15 until you can reason “study,” “approved,” “workman,” “ashamed,” and “rightly dividing” without a slogan. Write the verse. Then write six sentences, one for each of those five words and one for the soldier-context that sits before the verse.
 
 Intensive — three pages. Page 1 is that word-drill page. Page 2: write 2 Timothy 2:3-15 as a stretch. Show how the soldier, the bonds, the charge not to strive about words to no profit, and the workman sit together. Page 3: teach spoudazō as the leaflet uses it — speed, effort, promptness, earnestness, diligence, labour, study, intellectually — and teach what speed is not. Write the teaching as you would stand behind it before a teacher.
 
@@ -316,7 +316,7 @@ Distinction
 Study as labour vs study as collecting quotations.
 
 Charge
-Write what you will teach: spoudazō is labour; approval is a workman’s approval; right division is the work; The Year and The Intensive share one doctrine. Then write the page the Labour named. Do not submit a list of books you have not opened.`,
+Write what you will teach: spoudazō is labour; approval is a workman’s approval; right division is the work; The Walk and The Intensive share one doctrine. Then write the page the Labour named. Do not submit a list of books you have not opened.`,
   ),
   lesson(
     "les-fs-1-06",
@@ -354,9 +354,9 @@ Hebrews 5:12 is the drill because it contains the indictment and the direction i
 2 Timothy 2:15 remains: a workman, rightly dividing. Right division is this reasoning under the text. The questions the source asks are charges. You will not decorate a page with them and then refuse to answer. Word exercise, word drill — that is the practice. A man may quote and still be a babe. Do the drill until you can reason Hebrews 5:12, not only recite it.
 
 Labour
-The Year: write one tight page — the word drill on Hebrews 5:12. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page — the word drill on Hebrews 5:12. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Write Hebrews 5:12. Then three short movements on that one verse: perceive (what it says, in order); learn (write it again without looking, then check); reason (why “ought,” “again,” and “become” sit together). Do not add a second verse until that page is done.
+The Walk — one page. Write Hebrews 5:12. Then three short movements on that one verse: perceive (what it says, in order); learn (write it again without looking, then check); reason (why “ought,” “again,” and “become” sit together). Do not add a second verse until that page is done.
 
 Intensive — three pages. Page 1 is that drill on Hebrews 5:12. Page 2: write Hebrews 5:13-14 and 2 Timothy 2:15. Show how perception, learning, and reasoning are the mental result the leaflet names, and how “senses exercised” and “rightly dividing” are the same labour under two addresses. Page 3: teach knowledge versus information collected. Write the teaching as you would stand behind it before a teacher.
 
@@ -402,9 +402,9 @@ They answered from Abraham and from a claimed freedom: “We be Abraham’s seed
 The graphē of lesson 1 is the word you continue in here. You do not continue in a likeness. You do not continue in a heading. Name one word of His you will continue in this week, and continue in it. Free from what, in John 8? From being the servant of sin — if the Son make you free, and if you continue in His word. Write that from the cluster, not from a political or emotional cry.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Write John 8:31-36 in full. Answer from the cluster: free from what, if you continue in His word? Then name one word of His you will continue in this week. Do not answer with a political or emotional cry.
+The Walk — one page. Write John 8:31-36 in full. Answer from the cluster: free from what, if you continue in His word? Then name one word of His you will continue in this week. Do not answer with a political or emotional cry.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: hold John 8:31-36 with Hebrews 5:11-14. Show why dull hearing and unskill cannot produce the freedom the Lord named. Page 3: teach the cluster as you would stand behind it before a teacher — continue, know, free; servant of sin; the Son abides; free indeed.
 
@@ -464,9 +464,9 @@ Matthew 3:8 — “Bring forth therefore fruits meet for repentance.” Matthew 
 Hold 6 and 7 until you can teach them in your sleep. Judas saw the condemnation and “repented himself.” He brought the silver. He said he had sinned. He hanged himself. That is metamellomai. Luke 13:3 will not let you treat another man’s ruin as your change of mind. Except ye repent, ye shall all likewise perish. If you treat Judas’s remorse as the foundation, you have laid a feeling.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Write the seven words with one verse each, as the school lists them. Then write ten lines: where have you treated regret as if it were metanoia? Hold metamellomai and metanoia until the difference can be taught without a slogan.
+The Walk — one page. Write the seven words with one verse each, as the school lists them. Then write ten lines: where have you treated regret as if it were metanoia? Hold metamellomai and metanoia until the difference can be taught without a slogan.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Matthew 27:3-5 and Luke 13:3 and Matthew 3:8 in full. Reason Judas’s metamellomai against metanoeō and metanoia. Do not add an eighth word. Page 3: teach the seven as you would stand behind them before a teacher — each word as the source uses it, then the distinction between 6 and 7.
 
@@ -512,9 +512,9 @@ Abraham’s refusal is the point this lesson will not let you skip. The rich man
 You may fear Hell and love the cause of your death. That fear can fill a testimony and leave the old man unnamed. That fear can fill a prayer and leave outward sin unlisted. Course 6 will open the lake, the book of life, and the prisons. Here you will not turn Luke 16 into that chapter. Here you will say: Hell is a consequence. Metanoia is toward sin and its cause. The 2015 print of Matthew 16:19-31 was an error. Matthew 16 is not this narrative. Luke 16:19-31 is.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Write Luke 16:27-31 in your own words after you have written the stretch. What did Abraham refuse? Then answer: where have you treated Hell-avoidance as if it were metanoia?
+The Walk — one page. Write Luke 16:27-31 in your own words after you have written the stretch. What did Abraham refuse? Then answer: where have you treated Hell-avoidance as if it were metanoia?
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Luke 16:19-31 in full. Keep the print error named: not Matthew 16. Sit the rich man, the gulf, Moses and the prophets, and the refusal. Page 3: write Revelation 20:10-15 in full. Teach consequence versus cause. Do not open Chapter 7’s prisons here. Write the teaching as you would stand behind it before a teacher.
 
@@ -558,9 +558,9 @@ Hebrews 9:14 will later say: “How much more shall the blood of Christ, who thr
 A work that bored you is not therefore a dead work. A work that filled a room is not therefore a living work. The test is the man — old or new — and the nature that produced it. If any man be in Christ, he is a new creature; old things are passed away. The two old things will be split in the next lessons. This lesson names the pile they belong to: nekros ergon, the works you repent from. Do not call a dull habit “dead” while the old nature goes unnamed. Do not call the old nature a theory while the works go unrepented.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Write Hebrews 6:1, Ephesians 2:1-2, and 2 Corinthians 5:17. Define dead works as the source defines them. Then name one work you have called “dead” because it bored you, and one the Scripture would call a dead work because it is of the old man. Do not confuse them.
+The Walk — one page. Write Hebrews 6:1, Ephesians 2:1-2, and 2 Corinthians 5:17. Define dead works as the source defines them. Then name one work you have called “dead” because it bored you, and one the Scripture would call a dead work because it is of the old man. Do not confuse them.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Ephesians 4:22 and Romans 6:23 with the verses already on page 1. Show the line from old man to dead works to wages. Page 3: teach nekros ergon as you would stand behind it before a teacher, and show why Hebrews 9:14 will later name blood as the purge — without turning this lesson into the blood lesson.
 
@@ -616,9 +616,9 @@ Put the cluster in order and keep it severe. Ye are of your father the devil, an
 The old man is corrupt according to the deceitful lusts. Put him off. He is nothing more nor less than the spirit and nature of the devil working in men of disobedience. A bad habit can be broken and the old man remain. A personality can be managed and the old man remain. This school will not let you teach John 8:44, Ephesians 2:2, and 1 John 3:8-9 as a temperament file. In Christ this old thing is passed away. Outward sin is the other old thing. Both must pass. They are not one pile.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Teach John 8:44, Ephesians 2:2, and 1 John 3:8-9 as one cluster without calling the old man “a bad habit.” Write the three verses. Write the teaching.
+The Walk — one page. Teach John 8:44, Ephesians 2:2, and 1 John 3:8-9 as one cluster without calling the old man “a bad habit.” Write the three verses. Write the teaching.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: add Ephesians 4:22, 2 Corinthians 4:4, and 1 John 5:18 in full. Keep old thing 1 as old thing 1. Do not walk Galatians 5 here. Page 3: teach the old man as you would stand behind it before a teacher — spirit and nature of the devil in the disobedient; put off; born of God; the wicked one toucheth him not.
 
@@ -668,9 +668,9 @@ Walk Romans 1:18-32. Do not skip it because it is long. “For the wrath of God 
 That is outward sin named. Galatians 5:19-21 is outward sin named. Mark 7:20-23 is what proceeds from the heart and defiles. 1 John 3:4 is the definition: sin is the transgression of the law. James 1:13-15 is the conception: lust, sin, death. You cannot hide these acts behind a theory of the old man. You cannot hide the old man behind these acts. Write the lists without calling them “the old man.” Then state what must pass besides the list.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Walk Galatians 5:19-21 and Mark 7:20-23 without calling them “the old man.” Write both lists. Then state what must pass besides the list — old thing 1, already taught.
+The Walk — one page. Walk Galatians 5:19-21 and Mark 7:20-23 without calling them “the old man.” Write both lists. Then state what must pass besides the list — old thing 1, already taught.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write 1 John 3:4, Romans 4:15, and James 1:13-15 in full. Show transgression, lust conceiving, sin finished, death. Page 3: write Romans 1:18-32 in full. Teach outward sin as you would stand behind it before a teacher. Keep the two old things as two.
 
@@ -714,9 +714,9 @@ Yield is the verb Romans 6 will not let you skip. To whom ye yield yourselves se
 Wage versus gift is not a slogan for a card. The wage is earned by the service of sin. The gift is eternal life through Jesus Christ our Lord. You do not earn the gift. You do not talk the wage down into a metaphor so shallow that Course 6 will have nothing to open. Three kinds of death wait for that course. Here you refuse a repentance that wants to keep the cause — sin, the old things — and escape the wage. Salvation from sin is exclusively the only salvation you need, sin being the cause of all death and depravity. What other “salvation” have you put in that place? Name it and put it down.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Write Romans 6:23, then write the verse that names the gift. Then answer: what other “salvation” have you put in the place of salvation from sin?
+The Walk — one page. Write Romans 6:23, then write the verse that names the gift. Then answer: what other “salvation” have you put in the place of salvation from sin?
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Romans 6:16-23 in full. Show servants of sin, servants of righteousness, fruit unto death, fruit unto holiness, wage, gift. Page 3: teach wage versus gift and cause versus consequence as you would stand behind them before a teacher. Name that three kinds of death wait for Course 6. Do not open that course here.
 
@@ -760,9 +760,9 @@ The comparison in Hebrews 9 is blood for blood. The blood of bulls and of goats,
 Ephesians 2 will not let you start as a man who was only tired. You were dead in trespasses and sins. You walked according to the course of this world, according to the prince of the power of the air. You were by nature the children of wrath. But God, who is rich in mercy, for His great love wherewith He loved us, even when we were dead in sins, hath quickened us together with Christ — by grace ye are saved. The only way out of sin unto true repentance is Christ Jesus. The new creature is in Him. Answer from Hebrews 9:14 in a paragraph a babe could follow: how does blood purge the conscience from dead works? Do not answer with a rite. Do not answer with a course.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Answer from Hebrews 9:14 in a paragraph a babe could follow: how does blood purge the conscience from dead works? Write the verse. Write the paragraph.
+The Walk — one page. Answer from Hebrews 9:14 in a paragraph a babe could follow: how does blood purge the conscience from dead works? Write the verse. Write the paragraph.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Hebrews 9:11-14 in full. Sit “his own blood,” “once,” “eternal redemption,” and “dead works” in one stretch. Page 3: write Ephesians 2:1-5 and 2 Corinthians 5:17. Teach Christ the way versus self-reformation as you would stand behind it before a teacher.
 
@@ -808,9 +808,9 @@ Acts 4:7 is the examination: “By what power, or by what name, have ye done thi
 Peter is standing before rulers and elders. The man made whole is standing there. The name that made him whole is the name whereby we must be saved. You will not divide those two uses of the name — one for a body, one for the soul — as if Acts 4:12 were a smaller word than Acts 4:10. The stone set at nought is become the head of the corner. There is none other. Course 3 will open water as figure after one is saved. This stone is not the font. This stone is Jesus Christ of Nazareth, crucified, whom God raised.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Write Acts 4:12. Then write one sentence you will not say again if it puts another name in that place. Name the stone. Name what the font is not.
+The Walk — one page. Write Acts 4:12. Then write one sentence you will not say again if it puts another name in that place. Name the stone. Name what the font is not.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Acts 4:8-12 in full. Sit the examination, the name, the crucifixion, the resurrection, the stone, and “none other.” Page 3: teach the name that saves versus signs that follow, as you would stand behind it before a teacher. Keep water for Course 3. Do not open that course here.
 
@@ -854,9 +854,9 @@ John 1:1-4 has already named the Word: in the beginning, with God, was God; all 
 Romans 10:6-7 forbids a hunt that would bring Christ down or bring Him up from the dead, as if the word were far. The word is nigh thee, in thy mouth and in thy heart — the word of faith. Confess with thy mouth the Lord Jesus. Believe in thine heart that God hath raised Him from the dead. Thou shalt be saved. With the heart man believeth unto righteousness; with the mouth confession is made unto salvation. That is the confession the text asks. Sonship language begins here. Course 2 will open the heir. Course 3 will open the Spirit’s witness. You do not wait. Have you received Him? Write the confession. If you have, write John 1:12-13 without a slogan. The leaflet’s charge stands: Receive Him today.
 
 Labour
-The Year: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Year — one page. Have you received Him? Write the confession Romans 10:9 actually asks. If you have, write what “power to become the sons of God” means from John 1:12-13, not from a slogan. If you have not, write the confession and do not hide in the course.
+The Walk — one page. Have you received Him? Write the confession Romans 10:9 actually asks. If you have, write what “power to become the sons of God” means from John 1:12-13, not from a slogan. If you have not, write the confession and do not hide in the course.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write John 1:11-13 in full. Reason “received him not,” “received him,” “power to become,” “believe on his name,” and “born… of God.” Page 3: write Romans 10:6-10 in full. Teach receiving Him versus enrolling in a course, as you would stand behind it before a teacher.
 
@@ -915,9 +915,9 @@ Write the eight as teaching, not as headings you remember. Graphē: John 10:34-3
 The Power of Salvation, when that volume is in your hand, is directed reading — assigned sections only. It is a companion, not a seventh course, and not a substitute for this chapter. Completion of activities is not mastery. Write the principle as you would teach it to a babe, then as you would stand behind it before a teacher. The first stone is laid when a man has changed his mind over sin and its cause, and has received the One whose blood purges the conscience from dead works.
 
 Labour
-The Year: write one tight page on each of the eight — eight tight paragraphs if you must keep it to one sitting, but the eight must be written. Intensive: write the full page on each of the eight. Same doctrine. The hours differ. The eight do not.
+The Walk: write one tight page on each of the eight — eight tight paragraphs if you must keep it to one sitting, but the eight must be written. Intensive: write the full page on each of the eight. Same doctrine. The hours differ. The eight do not.
 
-The Year — eight tight paragraphs, one for each head above, each paragraph quoting the governing verse and stating the distinction. Then one further paragraph: the principle as you would teach it to a babe.
+The Walk — eight tight paragraphs, one for each head above, each paragraph quoting the governing verse and stating the distinction. Then one further paragraph: the principle as you would teach it to a babe.
 
 Intensive — eight full pages, one for each head, then a ninth page: the principle as you would teach it to a babe, and as you would stand behind it before a teacher. Do not submit a feeling in the place of the cluster. Do not treat The Power of Salvation as this course.
 

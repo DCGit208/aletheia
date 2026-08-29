@@ -158,7 +158,7 @@ The leaflet printed 15:19 next to “spiritual resurrection takes place only in 
 | # | Decision |
 | --- | --- |
 | **D1** | Owner: recommendations are good. **Certificate v1:** written charges + one examination per course + week-52 final. Mid-year, capstone, teaching demonstration later. |
-| **D2** | Owner asked for the recommendation. **I will use this:** same 95 lessons; Intensive = more hours, fuller cluster work, longer charges, more discussion; The Year = the same lessons, shorter writing. Same exams. Same certificate. No second curriculum. |
+| **D2** | Owner asked for the recommendation. **I will use this:** same 95 lessons; Intensive = more hours, fuller cluster work, longer charges, more discussion; The Walk = the same lessons, shorter writing. Same exams. Same certificate. No second curriculum. |
 | **D3** | Owner asked for clarity. See below. **Pending yes/no.** |
 | **D4** | Owner asked for clarity. See below. **Pending yes/no.** |
 | **D5** | French textbook / leaflet translation later. Not this pass. UI may stay ready for EN/FR. |

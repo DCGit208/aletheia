@@ -730,7 +730,7 @@ The leaflet marked further reading: Millennium.
 
 Millennium is a companion volume, not a seventh course, not a seventh principle, not a substitute for Hebrews 6:2. Directed sections when the book is in your hand — the thousand years, the reign, the binding that Course 6 will name as the abyss — not an assignment to finish every page of a library before you may close this chapter. Completing this stone does not require purchasing the whole first wave. Completing this stone does require the spine, the two kinds, the two issues, and the five companies without flattening.
 
-An Intensive student writes longer. A Year student writes the same doctrine shorter. The chronology does not change with the clock.
+An Intensive student writes longer. A Walk student writes the same doctrine shorter. The chronology does not change with the clock.
 
 The next chapter opens eternal judgment: eternal punishment, the book of life, three deaths, five prisons, none identical with the grave. This chapter will not steal that file.
 

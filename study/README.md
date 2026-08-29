@@ -47,4 +47,4 @@ Greek and Hebrew are studied as the leaflet uses them, plus the owner-supplied l
 - Merge *Why We’re Beyond* into *Fearfully Made*
 - Collapse several raptures into one event
 - Collapse second advent into rapture 2
-- Treat The Year and The Intensive as two doctrines
+- Treat The Walk and The Intensive as two doctrines

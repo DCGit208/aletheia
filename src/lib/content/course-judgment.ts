@@ -91,7 +91,7 @@ Leaving the first principles is not forgetting them. Resurrection was Course 5: 
 Everlasting fire. Everlasting punishment. Life eternal. For ever and ever. Worm shall not die. Fire not quenched. Write those as duration. If you submit a metaphor in the place of the verses, you have left J1. The principle is among the six. It closes the foundation. It does not invent a seventh doctrine to make the year feel finished.
 
 Labour
-The Year — one tight page. Write Matthew 25:46. What does “everlasting” force you to say that a metaphor will not let you say? Word drill: eternal punishment / life eternal / for ever and ever / worm shall not die.
+The Walk — one tight page. Write Matthew 25:46. What does “everlasting” force you to say that a metaphor will not let you say? Word drill: eternal punishment / life eternal / for ever and ever / worm shall not die.
 
 Intensive — three pages on the same cluster. Page 1: write Matthew 25:41, 46; Revelation 14:9-11; and Isaiah 66:22-24 in full. Page 2: duration — not annihilation; not a slogan that keeps life eternal and thins punishment. Page 3: no required companion; Luke 16 is not Matthew 16 and is not this lesson’s file. Same doctrine.
 
@@ -139,7 +139,7 @@ The sea gave up the dead. Death and hell delivered up the dead which were in the
 Course 1 named this lake as the end of the consequence, not the definition of metanoia. Hold that. Do not turn this lesson into Hell-avoidance as repentance. The book is real. The throne is after the Millennium. Whosoever refuses to exempt. Write Revelation 20:15 beside Acts 10:34. Whom does “whosoever” refuse to exempt? Name the class you have been treating as already safe. If the class is “already written and cannot be blotted,” wait for J3. Today the sentence is whosoever. No respecter. Second death.
 
 Labour
-The Year — one tight page. Write Revelation 20:15 and Acts 10:34. Whom does “whosoever” refuse to exempt? Word drill: book of life / no respecter of persons / small and great / second death.
+The Walk — one tight page. Write Revelation 20:15 and Acts 10:34. Whom does “whosoever” refuse to exempt? Word drill: book of life / no respecter of persons / small and great / second death.
 
 Intensive — three pages on the same cluster. Page 1: write Revelation 20:11-15 and Acts 10:34-35 in full; mark throne, books, book of life, works, death and hell, second death, whosoever. Page 2: after the Millennium — hell emptied; bodies; no respected class. Page 3: not a slogan that nothing can be lost; not Course 1’s metanoia replaced by fear of the throne. Same doctrine.
 
@@ -187,7 +187,7 @@ Do not treat the book as a list that cannot lose a name. Do not treat blotting a
 Whosoever hath sinned against Me, him will I blot out of My book. Let them be blotted out of the book of the living, and not be written with the righteous. I will not blot out his name out of the book of life. God shall take away his part out of the book of life. That is J3. One file. Not two religions — one of safety-slogans and one of terror-slogans. The same book. Names written. Names blotted. Names not blotted. Parts taken away.
 
 Labour
-The Year — one tight page. Teach Exodus 32:32-33, Psalm 69:28, and Revelation 3:5 as one file. Who is blotted? Who is not? Why is Judas in the cluster? Word drill: blot / book of the living / I will not blot / take away his part.
+The Walk — one tight page. Teach Exodus 32:32-33, Psalm 69:28, and Revelation 3:5 as one file. Who is blotted? Who is not? Why is Judas in the cluster? Word drill: blot / book of the living / I will not blot / take away his part.
 
 Intensive — three pages on the same cluster. Page 1: write Exodus 32:32-33, Psalm 69:20-28, John 3:36, Revelation 3:5, and Revelation 22:18-19 in full. Page 2: one file — Moses refused as substitute; Judas predicted; overcome not blotted; refuse new birth; take away the words. Page 3: not a slogan of unconditional listing; not a second Course 1. Same doctrine.
 
@@ -239,7 +239,7 @@ What does Genesis 1:26 actually say, and what does it not say? It says Let us ma
 Write the making as written. Write death as cutting off from that purpose. Do not hedge image until the purpose is too small to be cut off from. Do not invent a seventh nature to die from. The purpose is Genesis 1:26-28. Dead is cut off from realizing it.
 
 Labour
-The Year — one tight page. Define death without using only “stopped breathing.” Write Genesis 1:26-28 as written. Word drill: image / likeness / dominion / cutting off / purpose.
+The Walk — one tight page. Define death without using only “stopped breathing.” Write Genesis 1:26-28 as written. Word drill: image / likeness / dominion / cutting off / purpose.
 
 Intensive — three pages on the same cluster. Page 1: write Genesis 1:26-28 in full; mark image, likeness, male and female, fruitful, multiply, replenish, subdue, dominion. Mark the TLB as TLB. Page 2: death as cutting off from that purpose — not lungs only; not a hedged man. Page 3: name the three deaths you will not collapse into one slang; do not steal Lessons 5–8. Same doctrine.
 
@@ -287,7 +287,7 @@ The grave is where the body is. The underworld is not the grave. Heaven is not t
 Faith without works is dead also is James’s comparison. This course takes the fact the comparison stands on. Do not turn Foundation School week 46 into a second justification debate. The body without the spirit is dead. That sentence is enough for the kind. Keep it enough. Do not add a doctrine of soul-sleep to fill the hour. Soul-sleep would kill Lesson 8 before it is taught. The inner man separates. The body lies. That is physical death.
 
 Labour
-The Year — one tight page. Write James 2:26. What is separated from what? Give this as the text for physical death. Word drill: body without the spirit / inner man / outer man / not the grave of the soul.
+The Walk — one tight page. Write James 2:26. What is separated from what? Give this as the text for physical death. Word drill: body without the spirit / inner man / outer man / not the grave of the soul.
 
 Intensive — three pages on the same cluster. Page 1: write James 2:26 in full; mark body, spirit, dead. Page 2: physical death only — not 1 Timothy 5:6, not Revelation 20:14; the grave holds a body, not a prison. Page 3: write the flatten you will refuse when someone says the whole man is the corpse. Same doctrine.
 
@@ -337,7 +337,7 @@ Quickened together with Him is the answer to being dead in sins. That quickening
 Write the three texts. What is a man separated from? God. Because of what? Sin. Can he be dead while he liveth? Yes — 1 Timothy 5:6. Can the dead bury the dead? Yes — Matthew 8:22. What does Colossians 2:14 force you to say that the other two do not say? The handwriting blotted; nailing it to His cross; you who were dead in sins quickened. Three texts. One kind. Not physical. Not the second death.
 
 Labour
-The Year — one tight page. Write Matthew 8:22, Colossians 2:14, and 1 Timothy 5:6. What is a man separated from, and because of what? Word drill: dead while she liveth / let the dead bury / dead in your sins / quickened.
+The Walk — one tight page. Write Matthew 8:22, Colossians 2:14, and 1 Timothy 5:6. What is a man separated from, and because of what? Word drill: dead while she liveth / let the dead bury / dead in your sins / quickened.
 
 Intensive — three pages on the same cluster. Page 1: write Matthew 8:22, Colossians 2:13-15, and 1 Timothy 5:6 in full. Page 2: spiritual death only — not James 2:26, not the lake; blot of ordinances is not blot of the book. Page 3: Course 5’s quickening answers this death in this life only; write the flatten you will refuse. Same doctrine.
 
@@ -389,7 +389,7 @@ The fearful, unbelieving, abominable, murderers, whoremongers, sorcerers, idolat
 This principle closes the three kinds. Physical — James 2:26. Spiritual — Matthew 8:22; Colossians 2:14; 1 Timothy 5:6. Second — Revelation 20:14 and parallels. Keep them three. If you have one word “dead” for all three, you have left J4. Lesson 8 will add what does not die: soul and spirit. Bodies rise. The second death still receives bodies after the judgment. Lesson 14 will lock that. Today: the name and the four texts.
 
 Labour
-The Year — one tight page. Write Revelation 20:14, 2:11, 20:6, and 21:8. Why is this death called second? Who is not hurt of it? Word drill: second death / lake of fire / no power / not hurt.
+The Walk — one tight page. Write Revelation 20:14, 2:11, 20:6, and 21:8. Why is this death called second? Who is not hurt of it? Word drill: second death / lake of fire / no power / not hurt.
 
 Intensive — three pages on the same cluster. Page 1: write the four texts in full. Page 2: not physical, not spiritual-in-this-life; hell cast in is not hell as the lake. Page 3: first resurrection — no power; write the collapse you will refuse. Same doctrine.
 
@@ -439,7 +439,7 @@ Do not say the spiritual body is a spirit. There is a natural body, and there is
 Write Daniel 12:2. What sleeps in the dust? What awakes? What then is raised from the dust? The body. Not the soul. Not the spirit. All resurrection Scriptures, without exception, refer to bodies. That is the leaflet’s sentence. Hold it. Do not invent a resurrection of spirits to make the grave feel fuller.
 
 Labour
-The Year — one tight page. What then is raised from the dust? Write Daniel 12:2 and John 5:28-29. Word drill: immortal / dust / graves / natural body / spiritual body.
+The Walk — one tight page. What then is raised from the dust? Write Daniel 12:2 and John 5:28-29. Word drill: immortal / dust / graves / natural body / spiritual body.
 
 Intensive — three pages on the same cluster. Page 1: write Daniel 12:2, John 5:28-29, 1 Corinthians 15:20-23 and 42-44, and 1 Thessalonians 4:16-17 in full. Page 2: soul and spirit immortal; body from the dust; spiritual body is still a body. Page 3: two issues timed by Revelation 20, not chapter 10; 15:19 stays with bodily hope. Same doctrine.
 
@@ -489,7 +489,7 @@ The Millennium sits on this file. Satan is in the abyss for the thousand years. 
 Write the five with one sentence each: who is there, who is not, and why the grave is not that prison. If you added a sixth prison, strike it. If you merged two, name the merge and put it down. The leaflet said five distinct prisons; not one is the same as the grave. That is the overview. Q42 will ask the full file at the year charge. Today you learn the five names without a sixth and without a tomb. The grave is dust. The prisons are not dust.
 
 Labour
-The Year — one tight page. Write the five with one sentence each: who is there, who is not, why not the grave. Word drill: five / not the grave / not one room / underworld.
+The Walk — one tight page. Write the five with one sentence each: who is there, who is not, why not the grave. Word drill: five / not the grave / not one room / underworld.
 
 Intensive — three pages on the same cluster. Page 1: write the five names with the key text for each as this lesson listed them. Page 2: the grave versus each prison — body in dust; inner man not in the tomb. Page 3: strike a sixth; strike a merge; Luke 16 is not Matthew 16. Same doctrine.
 
@@ -535,7 +535,7 @@ No humans. No demons. Write that twice. A sermon that sends a man to Tartarus ha
 From the flood unto the judgment of those angels. They are reserved. Delivered into chains of darkness, to be reserved unto judgment. Everlasting chains under darkness unto the judgment of the great day. They are not the lake yet. Lesson 14 will say Tartarus empties into gehenna. The owner file: all the wicked in Tartarus, the abyss, and Sheol/Hades will be put into gehenna. Do not make Tartarus the lake today. Do not make it the grave. Angels are not buried in dust. Bodies of men rise from dust. These are spirits in prison. Christ preached unto the spirits in prison — put to death in the flesh, quickened by the Spirit. Teach the three texts. Stop. No tenth prison. No human in this one. No demon in this one. Reserved unto judgment — not yet the lake, not ever the grave.
 
 Labour
-The Year — one tight page. Write 2 Peter 2:4 and Jude 6. Who is there? Who is not? Why is the English “hell” not the hell of Luke 16? Word drill: tartarōsas / spirits in prison / days of Noah / no humans / no demons.
+The Walk — one tight page. Write 2 Peter 2:4 and Jude 6. Who is there? Who is not? Why is the English “hell” not the hell of Luke 16? Word drill: tartarōsas / spirits in prison / days of Noah / no humans / no demons.
 
 Intensive — three pages on the same cluster. Page 1: write 1 Peter 3:18-20, 2 Peter 2:4, and Jude 6-7 in full. Page 2: angels before the flood — chains, reserved, first estate; Sodom is example, not inmates. Page 3: not the grave, not men’s hell, not the abyss, not the lake yet. Same doctrine.
 
@@ -583,7 +583,7 @@ The rich man in hell is Lesson 12. The gulf fixed is in the account so you will 
 Write Luke 23:43 beside Ephesians 4:8. Then write now. Now empty. Heaven at death. Held against their will until He conquered. Delivered from the fear of death. Captivity captive. That is J6. There is not another Foundation School teaching.
 
 Labour
-The Year — one tight page. Where do the righteous go at death now, and why? Write Luke 23:43 and Ephesians 4:8. Name the print: Luke 16, not Matthew 16. Word drill: now empty / captivity captive / heaven at death / Abraham’s bosom then.
+The Walk — one tight page. Where do the righteous go at death now, and why? Write Luke 23:43 and Ephesians 4:8. Name the print: Luke 16, not Matthew 16. Word drill: now empty / captivity captive / heaven at death / Abraham’s bosom then.
 
 Intensive — three pages on the same cluster. Page 1: write Luke 16:19-31, Luke 23:43, Ephesians 4:8-10, and Hebrews 2:14-15 in full. Page 2: then and now — held; conquered; empty; heaven. Page 3: not Matthew 16; not the present bosom; not the grave. Same doctrine.
 
@@ -627,7 +627,7 @@ Course 1 used this narrative as consequence, not metanoia. Hold that. Do not pre
 Write Luke 16:23 beside Revelation 20:13. In hell he lift up his eyes. Death and hell delivered up the dead. Until the Millennium’s end. Then bodies. Then the lake. Not Tartarus. Not the abyss. Not gehenna yet. Not the grave. Sheol-hades. Torment. Gulf fixed. That is J7.
 
 Labour
-The Year — one tight page. Write Luke 16:23 and Revelation 20:13. Who is in hell? Until when? What happens when it empties? Word drill: sheol-hades / lift up his eyes / until the Millennium’s end / delivered up.
+The Walk — one tight page. Write Luke 16:23 and Revelation 20:13. Who is in hell? Until when? What happens when it empties? Word drill: sheol-hades / lift up his eyes / until the Millennium’s end / delivered up.
 
 Intensive — three pages on the same cluster. Page 1: write Luke 16:22-31 and Revelation 20:11-15 in full; Luke, not Matthew. Page 2: wicked until the Millennium’s end; not the lake yet; not the grave. Page 3: not Tartarus, not the abyss; not an early raising of the wicked. Same doctrine.
 
@@ -683,7 +683,7 @@ The beast that ascendeth out of the bottomless pit makes war against the two wit
 Revelation 20:1-3 is the Millennium lock: Satan bound in the bottomless pit a thousand years. Then loosed a little season. Then the lake — 20:10. The abyss is not the lake. Satan’s prison in the thousand years is not Tartarus and not sheol-hades of men. Who is there? Demons. Some angelic beings. Satan for the thousand years. Who is not? The righteous. Wicked men in hell. Pre-flood angels in Tartarus. Bodies in graves.
 
 Labour
-The Year — one tight page. Write Luke 8:31, Revelation 9:11, and Revelation 20:3. Who is in the abyss? Who is not? What is Revelation 11:7, and what is 11:17? Word drill: deep / Abaddon / bottomless pit / bound a thousand years.
+The Walk — one tight page. Write Luke 8:31, Revelation 9:11, and Revelation 20:3. Who is in the abyss? Who is not? What is Revelation 11:7, and what is 11:17? Word drill: deep / Abaddon / bottomless pit / bound a thousand years.
 
 Intensive — three pages on the same cluster. Page 1: write Luke 8:31, Romans 10:7, Revelation 9:1-3, 11, 11:7, 11:17, 17:8, 20:1-3, and Psalm 88:11 in full. Page 2: demons and some angels; Satan in the Millennium; Abaddon as destruction, not the grave. Page 3: 11:7 beast and two witnesses; 11:17 elders; do not reopen the number. Same doctrine.
 
@@ -739,7 +739,7 @@ The owner file is locked. Do not reopen it as a debate. Do not make gehenna the 
 This is not a seventh prison. This is the fifth. Write G1067. Write not the grave. Write body and soul. Write after the judgment. Write the others empty into it. Write eternal. Write alive — Revelation 19:20. That is J9.
 
 Labour
-The Year — one tight page. Write Luke 12:5, Matthew 10:28, and Revelation 19:20. Why is gehenna not the grave? What goes there, and when? Word drill: G1067 / not the grave / body and soul / alive / other prisons empty into it.
+The Walk — one tight page. Write Luke 12:5, Matthew 10:28, and Revelation 19:20. Why is gehenna not the grave? What goes there, and when? Word drill: G1067 / not the grave / body and soul / alive / other prisons empty into it.
 
 Intensive — three pages on the same cluster. Page 1: write Luke 12:5, Matthew 10:28, Matthew 25:41, 46, Revelation 19:20, 20:10, 20:14-15, and 21:8 in full. Page 2: owner lock — not grave; body and soul; after judgment; alive; eternal; Tartarus, abyss, sheol-hades into it. Page 3: not the rich man’s hell as already the lake; not a sixth prison. Same doctrine.
 
@@ -804,7 +804,7 @@ Genesis 1:26-28. And God said, Let us make man in our image, after our likeness:
 Do not submit a feeling in the place of the cluster. Do not submit a seventh doctrine. Do not invent a companion the leaflet did not name. Do not teach Matthew 16 as the rich man. Do not teach Revelation chapter 10 as the two resurrections. Do not reopen 11:7 versus 11:17. Do not make the five prisons the grave. Do not make rapture 2 the second advent. Leaving the first principles is not forgetting them. It is not laying them again once they are laid. Go on unto perfection if God permit. The foundation is six. Week 52 recites them. It does not add a seventh.
 
 Labour
-The Year — write the six principles as six tight paragraphs, then the chronology in one, then the five prisons in five sentences, then Q37–Q43 from the cluster. Same doctrine. Word drill: six / not a seventh / five prisons / who is where / week 52.
+The Walk — write the six principles as six tight paragraphs, then the chronology in one, then the five prisons in five sentences, then Q37–Q43 from the cluster. Same doctrine. Word drill: six / not a seventh / five prisons / who is where / week 52.
 
 Intensive — write the six as six full pages, the chronology as one page, the five prisons as five pages, then the seven charges. Same cluster. Same doctrine. Do not invent a seventh-principle page. On the charge pages: whosoever; the blot file; death without lungs only; three deaths; dust is the body; who is where; heaven now. No companion. Same doctrine.
 
