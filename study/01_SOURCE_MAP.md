@@ -49,10 +49,10 @@ The six principles begin. Hebrews **6:3** (“And this will we do, if God permit
 
 - Heading: **Gr. Metanoia from nekros ergon**.
 - Hebrews 6:1 quoted: “not laying again the foundation of repentance from dead works…”
-- **Metanoia** is **one of the eight original words for repentance**. The other seven are **not listed**.
+- **Metanoia** is named in the leaflet as one of the original words for repentance. The owner has supplied the **seven** words (see `11_OWNER_DECISIONS.md` B1). The leaflet said “eight”; we teach the seven until an eighth is given.
 - Metanoia specifies **compunction (remorse) for guilt including reformation**: regeneration, quickening, recreation — “New Creature” (**2 Corinthians 5:17**).
 - Real change of mind and attitude over **sin and the cause**, not merely the **consequence**.
-- Consequence named: **Hell**. Printed cluster: **Mt.16:19-31, Rev. 20:1015**. “Also by implication: reversal (of [another’s] decision).”
+- Consequence named: **Hell**. Printed `Mt.16:19-31` is an error. **Owner: Luke 16:19-31** and Revelation 20:10-15. “Also by implication: reversal (of [another’s] decision).”
 - **Nekros ergon (negra erga)** = works of the old man: spirit and nature of the devil (**Ephesians 4:22**); old things (**2 Corinthians 5:17**); old nature (**Ephesians 2:1** — trespasses = deviation from moral equity, and sins). Wages: death (**Romans 6:23**).
 - Two kinds of “Old things” that **decease / pass away** (2 Corinthians 5:17):
   1. The spirit, nature, and power of sin — the old man — **nothing more nor less than the spirit and nature of the devil** (sentence continues on page 2).
@@ -84,7 +84,7 @@ Cluster: **Galatians 5:19-21; 1 John 3:4; Romans 4:15; James 1:13-15; Mark 7:19-
 - Faith **defines our state as children of God**.
 - **Pistis** = credence; in effect, acceptance (true nature) and **espousal / adoption as Sons**. Cluster: **Galatians 4:5-7; Romans 8:15; Ephesians 1:5**.
 - Oneness with God: Hebrew **’ĕlōhîm** — plural: **Trinity** — **Genesis 1:26**.
-- Acceptance/approval is on the basis of **true nature from creation**. Genesis 1:26 quoted (image, likeness). Genesis 1:27 given as “So God made man like his Maker” (Life Application) / “male and female created he them” (KJV).
+- Acceptance/approval is on the basis of **true nature from creation**. Genesis 1:26 quoted (image, likeness). Genesis 1:27 given as KJV plus **The Living Bible (TLB)** gloss: “So God made man like his Maker. Like God did God make man; Man and maid did he make them.”
 - Man’s true nature: **2 Peter 1:4**; the glory he came short of through sin; **Psalm 82:6**.
 - Further reading at this knot: **1. DOCTRINE OF MAN | 2. WHY MEN DIE**.
 
@@ -149,7 +149,7 @@ Cluster: **Galatians 5:19-21; 1 John 3:4; Romans 4:15; James 1:13-15; Mark 7:19-
 - **Galatians 4:6-7** quoted: because ye are sons, God sent forth the Spirit of His Son into your hearts, crying Abba, Father.
 - **Prerequisite:** becoming God’s son — new birth / salvation.
 - The Holy Spirit **witnesses (informant)** a Father–Son relationship (**ensuant**) as a consequence of sonship / heir, **not slaves**.
-- Not timidity: **not possible for you to fear**; you rather **are the fear and dread of the world** (thieves, wickedness, demons, Satan). Cluster: **Genesis 9:2 / Deuteronomy 11:25 / Jas.2:9**. Further reading: **Why We’re Beyond**.
+- Not timidity: **not possible for you to fear**; you rather **are the fear and dread of the world** (thieves, wickedness, demons, Satan). Cluster: **Genesis 9:2; Deuteronomy 11:25** (owner: not James 2:9). Further reading: **Why We’re Beyond**. Also Romans 8:17; Genesis 1:26-28; Psalm 139:14.
 - Instead: power, love, and a sound mind (**2 Timothy 1:7**).
 - **John 16:13-14** quoted. **Anangellō** (“shall shew”) = announce in detail; declare, rehearse, report, show, speak, tell.
 - “Mine” = the express image of God, announced unto you: express image and likeness of Me (**Genesis 1:26-28**).
@@ -189,7 +189,7 @@ Hebrews 6:2. “When?”
 
 - It takes place **only in this life** (**1 Corinthians 15:19**).
 - When you leave this life / world, all possibilities of new-birth salvation or spiritual resurrection **have passed and are forfeited** if you are not yet born again.
-- Cluster: **Ecclesiastes 11:1; Hebrews 9:27; Revelation 22:11**.
+- **Owner:** **Hebrews 9:27** and **Revelation 22:11** only. Do not use Ecclesiastes 11:1 for this claim.
 
 ### S20. Material resurrection — the body, two issues
 
@@ -226,7 +226,7 @@ The first **material** resurrection covers **various companies of the redeemed**
 | --- | --- | --- | --- |
 | 1 | Christ and the many saints resurrected after Him | 1 Corinthians 15:20, 23; Matthew 27:52-53; Ephesians 4:8-10 | Already past. Begins the first resurrection. |
 | 2 | They that are Christ’s at His coming | 1 Corinthians 15:23, 51-54; John 14:1-3; Luke 21:34-36; 2 Corinthians 5:1-8 | **Rapture 2.** Before the 7-year tribulation. **Not** the second advent. |
-| 3 | The 144,000 Jews, saved in the **first half of the Tribulation** | Printed `Rev. 7:18` | During tribulation, first half. Still first resurrection. |
+| 3 | The 144,000 Jews, saved in the **first half of the Tribulation** | **Revelation 7:1-8** (printed `Rev. 7:18`) | During tribulation, first half. Still first resurrection. |
 | 4 | The great multitude of tribulation saints **after rapture 2** | Revelation 6:1–19:21; return with Christ: 19:11-21 | During tribulation, in time to come back with Christ for the Millennium. |
 | 5 | The two witnesses | Revelation 11:7-12 | **Ends** the first resurrection, which **began** with the resurrection of Christ. |
 

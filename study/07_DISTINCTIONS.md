@@ -13,26 +13,28 @@ These are **structure**, not colour. If a lesson flattens one of them, it has le
 ## Repentance
 
 6. Change over **sin and its cause** vs change over **consequence** (Hell) alone.
-7. Metanoia includes **reformation / new creature**, not remorse only.
-8. Two old things: **old man** (devil’s spirit and nature in the disobedient) vs **outward sin**.
-9. Christ the only way vs any other name or rite.
-10. Salvation from **sin** as the salvation needed vs other “salvations” treated as the main thing.
+7. **Metanoia** (G3341) vs **metamellomai** (G3338): real change toward sin and its cause vs regret of consequences only (Judas).
+8. Metanoia includes **reformation / new creature**, not remorse only.
+9. Two old things: **old man** (devil’s spirit and nature in the disobedient) vs **outward sin**.
+10. Christ the only way vs any other name or rite.
+11. Salvation from **sin** as the salvation needed vs other “salvations” treated as the main thing.
 
 ## Faith
 
-11. Pistis as **state / sonship / adoption** vs faith as a mood.
-12. Image and likeness (true nature) vs the glory come short through sin.
-13. Justification **free** and **present** (ransom in full) vs innocence earned later.
-14. Heir / son vs servant / slave (carries into Course 3).
+12. Pistis as **state / sonship / adoption** vs faith as a mood.
+13. Image and likeness (true nature) vs the glory come short through sin. Teach Genesis 1:26-28 as written.
+14. Justification **free** and **present** (ransom in full) vs innocence earned later.
+15. Heir / son vs servant / slave (carries into Course 3).
 
 ## Baptisms
 
-15. **Seven mentioned** in Scripture vs **three essential** for believers. Do not invent the unnamed four; do not pretend there are only three in the Bible.
-16. Baptism **into Christ** (saves the soul; “one baptism”) vs **water** (sign after salvation) vs **Spirit** (witness of sonship).
-17. Sign vs object. Water points; it does not save.
-18. Preaching of the cross as power vs water as power.
-19. Spirit **without measure** / fullness vs a stingy “second blessing” slogan that ignores the source’s sonship-prerequisite.
-20. Son (Abba, heir, informant Spirit) vs slave (timidity). You are not given a spirit of fear.
+16. **Seven in Scripture** (owner B2) vs **three for believers**. Do not add an eighth baptism. Do not pretend there are only three in the Bible.
+17. Baptism **into Christ** (saves the soul; “one baptism”) vs **water** (sign after salvation) vs **Spirit** (sonship witness **and** enduement of power).
+18. Three agents: Spirit into Christ; Christ in the Spirit; minister in water.
+19. Sign vs object. Water points; it does not save.
+20. Preaching of the cross as power vs water as power.
+21. Spirit **without measure** / fullness vs a stingy “second blessing” slogan that ignores the source’s sonship-prerequisite.
+22. Son (Abba, heir, informant Spirit) vs slave (timidity). You are not given a spirit of fear. The heir is the fear and dread (Genesis 9:2; Deuteronomy 11:25).
 
 ## Hands
 

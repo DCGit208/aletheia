@@ -21,7 +21,7 @@ IDs match later courseware (`L-1.01` = Course 1, lesson 1).
 | L-1.05 | 2 | Spoudazō and 2 Timothy 2:15 — study as labour | A4 | Ch.1 |
 | L-1.06 | 3 | Knowledge: perception, learning, reasoning — word drill | A4 | Ch.1 |
 | L-1.07 | 3 | John 8:32 — truth makes free (in His word) | A5 | Ch.1 |
-| L-1.08 | 4 | Metanoia — remorse including reformation; new creature | B1, B2 | Ch.2 |
+| L-1.08 | 4 | Seven words for repent; metanoia vs metamellomai; new creature | B1, B2 | Ch.2 |
 | L-1.09 | 4 | Cause, not consequence — Hell named and limited | B3 | Ch.2 |
 | L-1.10 | 5 | Nekros ergon — dead works of the old nature | B4, B5, B6 | Ch.2 |
 | L-1.11 | 5 | Old thing 1 — old man, spirit and nature of the devil | B7 | Ch.2 |
@@ -64,7 +64,7 @@ IDs match later courseware (`L-1.01` = Course 1, lesson 1).
 | --- | --- | --- | --- | --- |
 | L-3.01 | 19 | Baptismos — washing; ablution | E1 | Ch.4 |
 | L-3.02 | 19 | Agency of the Word — Ephesians 5:26; 1 Peter 1:23; John 3:5 | E1 | Ch.4 |
-| L-3.03 | 20 | Seven mentioned, three essential — name only what the source names | E1 | Ch.4 |
+| L-3.03 | 20 | Seven in Scripture; three for believers; three agents | E1, B2 | Ch.4 |
 | L-3.04 | 20 | Baptism into Christ and His body — one baptism; the only one that saves | E2 | Ch.4 |
 | L-3.05 | 21 | Baptizō — whelmed; Galatians 3:27 put on Christ | E2 | Ch.4 |
 | L-3.06 | 21 | Romans 6:3-7; Colossians 2:12; 1 Corinthians 12:13 | E2 | Ch.4 |

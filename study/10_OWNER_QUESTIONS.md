@@ -1,6 +1,8 @@
 # 10 — Questions requiring owner decision
 
-This study does **not** settle these. Do not let a writer or a consultant silently settle them either.
+**Most items are now answered.** Locked decisions are in `11_OWNER_DECISIONS.md`. Remaining yes/no items are at the end of that file.
+
+This file is the original question list. Do not re-ask settled items.
 
 Already decided (do not reopen): six courses; week split 9/9/8/8/9/9; two cadences, one curriculum, same $400; textbook title/subtitle/author/imprint; school grants six courses + textbook only; *Spirit Witness* and *Why We’re Beyond* are their own books; chronology is studied as the leaflet’s system, not as “rapture or tribulation first?”; no seventh nav tab.
 

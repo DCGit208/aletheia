@@ -21,7 +21,7 @@ Holy Scripture is the biblical authority. The leaflet is the school’s source m
 4. Preserve the source’s sequences. Do not replace them with another tradition.
 5. Where a printed citation is compressed (`Rev. 20:1015`) or does not verse-match the claim when read in isolation, **record the print**, study the cluster, and send the ambiguity to `10_OWNER_QUESTIONS.md`. Do not silently “fix” the theology.
 
-Greek and Hebrew are studied **only as the leaflet uses them**. The eight original words for repentance are **not** listed in the source; they are not invented here. Four of the “seven baptisms mentioned in the scriptures” are **not** named; they are not invented here.
+Greek and Hebrew are studied as the leaflet uses them, plus the owner-supplied lists in `11_OWNER_DECISIONS.md` (seven words for repent; seven baptisms and three agents). Printed citation errors the owner corrected (Luke 16:19-31, not Matthew 16; Revelation 7:1-8; Genesis 9:2 and Deuteronomy 11:25 for dread) are taught as corrected. See `11_OWNER_DECISIONS.md`.
 
 ## How to read
 
@@ -36,7 +36,8 @@ Greek and Hebrew are studied **only as the leaflet uses them**. The eight origin
 | `07_DISTINCTIONS.md` | Distinctions that must not be flattened |
 | `08_STUDENT_CHARGES.md` | Questions the source itself asks |
 | `09_LESSON_MAP.md` | Proposed ~95 lessons (content map, not written lessons) |
-| `10_OWNER_QUESTIONS.md` | Decisions this study will not settle |
+| `10_OWNER_QUESTIONS.md` | Original question list (mostly answered) |
+| `11_OWNER_DECISIONS.md` | Locked owner answers and remaining yes/no |
 
 ## What this study will not do
 

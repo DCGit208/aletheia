@@ -8,7 +8,7 @@ Author of the source teaching: **Dr. Coach Achu Gustave**
 Imprint of the textbook: **Aletheia Publications**  
 Platform: **Aletheia** (the PWA of Aletheia World)
 
-**Status:** pre-curriculum study of Aletheia Libraries 1 is in `study/`. Do **not** write the full curriculum into the app until the owner answers `study/10_OWNER_QUESTIONS.md`.
+**Status:** pre-curriculum study is in `study/`. Owner decisions are in `study/11_OWNER_DECISIONS.md`. A few yes/no items remain there. Do **not** write the full curriculum until those are closed.
 
 **How to reply:** mark **Approve / Amend / Reject** on each item in [§13](#13-consultant-sign-off). Add notes under any Amend or Reject. Reply on this document (or a copy). Curriculum writing follows sign-off.
 
@@ -175,7 +175,7 @@ Rules:
 
 **Hebrews 6:1 · 9 weeks · $100**
 
-Compressed source: *metanoia* from *nekros ergon*; eight original words for repentance (treat what the manuscript specifies); reformation, not consequence-only; two “old things” (old man / outward sin); Christ the only way; Receive Him (John 1:12; Romans 10:8–9).
+Compressed source: *metanoia* from *nekros ergon*; seven original words for repent (owner list in `study/11_OWNER_DECISIONS.md`); reformation, not consequence-only; two “old things” (old man / outward sin); Christ the only way; Receive Him (John 1:12; Romans 10:8–9).
 
 **Exhaust:** Hebrews 5:11–14 (ought to be teachers; milk/meat); *apeiros* and *nēpios*; two marks of babes; *spoudazō* and 2 Timothy 2:15; word drill; cause vs Hell-as-consequence; each scripture list for old man and for outward sin; 2 Corinthians 5:17; Acts 4:12; Hebrews 9:14; the further-reading volume *The Power of Salvation*.
 
@@ -230,7 +230,7 @@ Compressed source: nine biblical occasions (blessing men, offerings, ordaining, 
 
 Compressed source: spiritual vs material resurrection; new birth only in this life; two material resurrections (life / damnation); Millennium as the leaflet defines it; temporary vs permanent; firstfruits; five companies / raptures in the first resurrection.
 
-**Exhaust:** Ephesians 2:1–6; 1 Corinthians 15:19; Ecclesiastes 11:1; Hebrews 9:27; John 5:28–29; Daniel 12; Revelation 20; Job 19:25–27; Isaiah 26:14–19; Matthew 9:25 vs 1 Corinthians 15:1–23; Matthew 27:52–53; each of the five companies with its texts; tribulation / rapture 2 / second advent **as the leaflet orders them**.
+**Exhaust:** Ephesians 2:1–6; Hebrews 9:27 and Revelation 22:11 (new birth only in this life); 1 Corinthians 15:19 with bodily hope, not as that proof-text; John 5:28–29; Daniel 12; Revelation 20; Job 19:25–27; Isaiah 26:14–19; Matthew 9:25 vs 1 Corinthians 15:1–23; Matthew 27:52–53; each of the five companies with its texts; tribulation / rapture 2 / second advent **as the leaflet orders them**.
 
 **Chronology (studied, not reopened):** rapture 2 is not the second advent; tribulation is seven years after rapture 2; second advent is Christ with the saints after tribulation, ushering the Millennium. Five companies complete the first resurrection. See `study/05_CHRONOLOGY_MAP.md`.
 

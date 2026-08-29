@@ -15,7 +15,7 @@ The school’s movement (Hebrews 5:11–6:3): first principles → knowledge →
 - Graphē is the imprimatur (John 10:35). The school begins here because babes are unskilled in the word of righteousness.
 - Hebrews 5:11-14: ought to be teachers; milk / meat; apeiros; nēpios; two marks of babes (dull of hearing; unskilled in the Word).
 - Spoudazō / 2 Timothy 2:15: study is labour. Knowledge = perception + learning + reasoning (word drill).
-- Metanoia is one of eight original words for repentance. **Only this one is defined in the source.**
+- Seven original words for repent (owner B1). Exhaust **metanoia** vs **metamellomai** (cause vs consequence). The leaflet said “eight”; we teach the seven until an eighth is given.
 - Nekros ergon / nekra erga: works of the old man.
 - Two old things that must pass (2 Corinthians 5:17): (1) spirit, nature, and power of sin — the old man = spirit and nature of the devil in the disobedient; (2) outward sin.
 - Wages: death (Romans 6:23). Sin is the cause of all death and depravity.
@@ -76,19 +76,20 @@ The school’s movement (Hebrews 5:11–6:3): first principles → knowledge →
 
 **Must know**
 
-- Baptismos (washing); baptizō (whelmed).
+- Baptismos (washing); baptizō from baptō (owner B2).
+- The seven baptisms in Scripture (owner list). Three for believers.
 - Agency of the Word at new birth (Ephesians 5:26; 1 Peter 1:23; John 3:5).
-- Baptism 1: into Christ and His body at repentance and new birth — “one baptism” (Ephesians 4:5); Galatians 3:27; Romans 6:3-7; Colossians 2:12; 1 Corinthians 12:13.
-- Baptism 2: water after salvation; figure of death, burial, resurrection (1 Peter 3:21); 1 Corinthians 1:17-24; Galatians 3:26.
-- Baptism 3: Holy Spirit; Galatians 4:6-7; John 7:38; John 3:34 as the source uses “not by measure unto you”; fullness cluster; John 16:13-14; anangellō; Genesis 1:26-28 as “Mine.”
-- Prerequisite of Spirit baptism: new birth.
-- Not slaves; power, love, sound mind (2 Timothy 1:7); fear and dread cluster with *Why We’re Beyond*.
+- Baptism 1: into Christ and His body at repentance and new birth — “one baptism” (Ephesians 4:5); Galatians 3:27; Romans 6:3-7; Colossians 2:12; 1 Corinthians 12:13. Agent: the Holy Spirit (1 Corinthians 12:13).
+- Baptism 2: water after salvation; figure of death, burial, resurrection (1 Peter 3:21); 1 Corinthians 1:17-24; Galatians 3:26. Agent: the minister (Matthew 28:19).
+- Baptism 3: Holy Spirit — witness of sonship **and** enduement of power for service; may be before or after water. Agent: Christ (Matthew 3:11; John 1:31-33). Galatians 4:6-7; John 7:38; John 3:34 as the source uses “not by measure unto you”; fullness cluster; John 16:13-14; anangellō; Genesis 1:26-28 as “Mine.”
+- Prerequisite of Spirit baptism: new birth (leaflet).
+- Not slaves; power, love, sound mind (2 Timothy 1:7); fear and dread: Genesis 9:2; Deuteronomy 11:25; *Why We’re Beyond*.
 
 **Must distinguish**
 
 - Saving baptism vs water sign vs Spirit witness.
 - Sign vs object.
-- Seven mentioned vs three essential (do not invent the unnamed four).
+- Seven in Scripture vs three for believers (owner list). Three agents: Spirit into Christ; Christ in the Spirit; minister in water.
 
 **Must answer (source question)**
 

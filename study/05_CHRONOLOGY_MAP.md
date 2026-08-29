@@ -35,7 +35,7 @@ Company 2 — They that are Christ’s at His coming
 TRIBULATION  (Rev 6–19 in the source’s range)
    │
    ├── Company 3 — 144,000 Jews, saved in the FIRST HALF
-   │               (printed Rev. 7:18 → study Rev 7:1-8)
+   │               Revelation 7:1-8 (printed 7:18)
    │
    ├── Company 4 — great multitude of tribulation saints AFTER rapture 2
    │               Rev 6:1–19:21

@@ -12,7 +12,13 @@ Definitions follow **the leaflet’s use**. Where a lexicon would add a seminary
 | spoudazō | Gk. | Diligence, speed, effort, labour, **study intellectually** (2 Timothy 2:15). |
 | knowledge | — | Mental result of perception, learning, and **reasoning**. Word exercise / word drill. |
 | maturity / perfection | — | Second movement after first principles. Banner of the leaflet. |
-| metanoia | Gk. | One of eight original words for repentance (others not listed). Compunction for guilt **including reformation**: regeneration, quickening, recreation, new creature. Change of mind over sin **and the cause**. Also: reversal of another’s decision. |
+| nacham (H5162) | Heb. | To sigh, breathe strongly, to be sorry (Gen 6:6; Ex 13:17; Job 42:6; Jonah 3:10). Owner B1. |
+| shuwb (H7725) | Heb. | To turn back (1 Ki 8:47; Ezek 14:6). Owner B1. |
+| nocham (H5164) | Heb. | Regret (Hos 13:14). Owner B1. |
+| nichuwm (H5150) | Heb. | Compassion (Hos 11:8). Owner B1. |
+| metanoeō (G3340) | Gk. | To change the mind for the better morally; change the attitude toward sin (Lk 13:3). Owner B1. |
+| metamellomai (G3338) | Gk. | To regret **consequences** of sin, not the cause (Mt 27:3; 2 Cor 7:8). Not metanoia. Owner B1. |
+| metanoia (G3341) | Gk. | A real change of mind and attitude toward sin **and its cause**, not merely the consequences (Mt 3:8, 11; 9:13; Lk 24:47). Leaflet: reformation, new creature. Also: reversal of another’s decision. |
 | nekros ergon / nekra erga | Gk. | Dead works. Works of the old man — spirit and nature of the devil; old nature (trespasses and sins). Printed also `negra erga`. |
 | trespasses | — | Deviation from moral equity (source gloss on Ephesians 2:1). |
 | old man | — | Spirit, nature, and power of sin; **nothing more nor less than** the spirit and nature of the devil working in the disobedient. |
@@ -25,8 +31,9 @@ Definitions follow **the leaflet’s use**. Where a lexicon would add a seminary
 | dikaioō | Gk. | Justify: render just or innocent (free from evil or guilt). Done **freely**. |
 | apolutrōsis | Gk. | Redemption: ransom **in full**. |
 | heir | — | Source asks the meaning; points to Galatians 4:5-7 (son, not servant; heir of God through Christ). |
+| baptō (G911) | Gk. | To dip (Lk 16:24; Rev 19:13; Jn 13:26). Root of baptizō. Owner B2. |
 | baptismos | Gk. | Ablution: ritual washing. The Word’s washing at new birth. |
-| baptizō | Gk. | To make whelmed — fully wet, overpowered, submerged. Used of into-Christ, water, and (by implication) Spirit without measure. |
+| baptizō (G907) | Gk. | To dip; to overwhelm with suffering (Mt 20:22-23; Lk 12:50); to bury into (Rom 6:3-7; Col 2:12), regardless of the element. Leaflet: whelmed, submerged. |
 | one baptism | — | Ephesians 4:5. Baptism into Christ and His body. **Only this saves the soul.** |
 | water baptism | — | After one is saved. Figure/sign of death, burial, resurrection. Does not save. |
 | Spirit baptism | — | Witness (informant) of sonship; hereditary; without measure; fullness. Prerequisite: new birth. |
@@ -52,7 +59,7 @@ Definitions follow **the leaflet’s use**. Where a lexicon would add a seminary
 | Paradise | — | Former abode of the righteous at death. **Now empty** of the righteous. They go to heaven since Christ’s ascension. |
 | Hell / sheol-hades | — | Torment compartment for the wicked until the end of the Millennium; then emptied into the lake. |
 | abyss / bottomless pit / Abaddon | — | Abode of demons and some angelic beings. Abaddon = destruction. Satan bound here 1000 years. |
-| lake of fire / gehenna | — | Final, eternal hell of devil, angels, demons, wicked men. |
+| lake of fire / gehenna (G1067) | Gk. | Place of future and eternal torment. Twelve times, always “hell.” Same as the lake of fire (Rev 19:20; 20:10-15; 21:8). Not the grave. Body and soul; after the judgment; only the wicked; eternal fire and brimstone. Tartarus, the abyss, and Sheol/Hades empty into it (Rev 20:10-15). Owner Gehenna file. |
 | FTH RD AV | — | Further reading available. In-body titles are first-wave companions; the back page is the wider list. |
 
-**Not in this glossary (not supplied by the source):** the other seven “original words” for repentance; the unnamed four of seven baptisms; a systematic lexicon of every NT word for faith or baptism.
+**Owner-supplied lists** (B1, B2, Gehenna) live in `11_OWNER_DECISIONS.md`. Do not add an eighth repent-word or extra baptisms beyond those lists.
