@@ -1,5 +1,7 @@
 import type { NextConfig } from "next";
 
+const hosting = process.env.FIREBASE_HOSTING === "1";
+
 const nextConfig: NextConfig = {
   reactStrictMode: true,
   poweredByHeader: false,
@@ -13,6 +15,13 @@ const nextConfig: NextConfig = {
     "*.ngrok-free.app",
     "*.ngrok.app",
   ],
+  ...(hosting
+    ? {
+        output: "export" as const,
+        trailingSlash: true,
+        images: { unoptimized: true },
+      }
+    : {}),
 };
 
 export default nextConfig;

@@ -36,7 +36,17 @@ Public Firebase values may live in the client. Service-account keys, payment sec
 
 ## Hosting
 
-`firebase.json` is prepared for a static export to `out/` with SPA rewrites. For this Next.js app, Firebase App Hosting is the better production path if SSR is needed. Do not stand up a second codebase for the branded domain.
+`aletheia.web.app` is the default Classic Hosting URL for project id `aletheia`. **Site Not Found** there means the project exists and nothing has been uploaded yet — not a broken domain.
+
+Deploy the app:
+
+```bash
+npm run deploy:hosting
+```
+
+That builds a static export into `out/` (`FIREBASE_HOSTING=1`) and deploys Classic Hosting. The CLI must be signed in as an owner or editor of project `aletheia`.
+
+Firebase App Hosting remains the later path if a server is required. Do not stand up a second codebase for the branded domain.
 
 ## Emulators (optional)
 
