@@ -70,7 +70,7 @@ One curriculum, two cadences:
 
 A leaflet or book (Aletheia Libraries 1) is a **Book** resource attached to lessons. It is not a third copy of the school.
 
-A **Product** may later point at a Program. Access remains an Entitlement. Tuition is not a flag on the school record.
+A **Product** points at a program, a course, or a book. Foundation School pricing and the textbook plan are in `FOUNDATION_SCHOOL.md` (consultant review). Tuition is not a flag on the school record.
 
 A school may later have a Community board, created by an administrator, still under Community — not a new tab.
 
