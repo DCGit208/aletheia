@@ -1,8 +1,10 @@
+import { baptismsLessons, baptismsModules } from "@/lib/content/course-baptisms";
 import { faithLessons, faithModules } from "@/lib/content/course-faith";
 import { repentanceLessons, repentanceModules } from "@/lib/content/course-repentance";
 import { textbookChapter1Body, textbookChapter1Title } from "@/lib/content/textbook-ch1";
 import { textbookChapter2Body, textbookChapter2Title } from "@/lib/content/textbook-ch2";
 import { textbookChapter3Body, textbookChapter3Title } from "@/lib/content/textbook-ch3";
+import { textbookChapter4Body, textbookChapter4Title } from "@/lib/content/textbook-ch4";
 import type { Book, BookChapter, Course, CourseModule, Lesson, Program, School } from "@/lib/data/types";
 
 const achu = { id: "author-achu", displayName: "Dr. Coach Achu Gustave" };
@@ -42,7 +44,8 @@ function course(
     accessLevel: "free",
     learningPathIds: [],
     prerequisiteCourseIds: [],
-    certificateEligible: id === "course-fs-repentance" || id === "course-fs-faith",
+    certificateEligible:
+      id === "course-fs-repentance" || id === "course-fs-faith" || id === "course-fs-baptisms",
     moduleCount,
     lessonCount,
   };
@@ -102,7 +105,7 @@ export const foundationBooks: Book[] = [
     title: "The Principles of the Doctrine of Christ",
     subtitle: "Foundations for Christian Understanding & Maturity",
     description:
-      "The Foundation School textbook. Chapters 1–3 are written: the oracles of God, repentance from dead works, and faith toward God. Chapters 4–7 follow with Courses 3–6. Aletheia Publications. Truth · Knowledge · Maturity.",
+      "The Foundation School textbook. Chapters 1–4 are written: the oracles, repentance, faith toward God, and the doctrine of baptisms. Chapters 5–7 follow with Courses 4–6. Aletheia Publications. Truth · Knowledge · Maturity.",
     authors: [achu],
     contributors: [],
     publisher: "Aletheia Publications",
@@ -115,7 +118,7 @@ export const foundationBooks: Book[] = [
     coverImage: "/covers/principles-doctrine-christ.jpg",
     status: "published",
     accessLevel: "free",
-    previewChapterIds: ["ch-pdc-1", "ch-pdc-2", "ch-pdc-3"],
+    previewChapterIds: ["ch-pdc-1", "ch-pdc-2", "ch-pdc-3", "ch-pdc-4"],
     productId: "product-principles-doctrine-christ",
     chapterCount: 7,
   },
@@ -171,7 +174,13 @@ export const foundationChapters: BookChapter[] = [
     title: textbookChapter3Title,
     body: textbookChapter3Body,
   },
-  forthcoming(4, "The Doctrine of Baptisms", "Course 3"),
+  {
+    id: "ch-pdc-4",
+    bookId: textbook,
+    number: 4,
+    title: textbookChapter4Title,
+    body: textbookChapter4Body,
+  },
   forthcoming(5, "Laying on of Hands", "Course 4"),
   forthcoming(6, "Resurrection of the Dead", "Course 5"),
   forthcoming(7, "Eternal Judgment", "Course 6"),
@@ -302,9 +311,11 @@ export const foundationCourses: Course[] = [
   course(
     "course-fs-baptisms",
     "The Doctrine of Baptisms",
-    "Hebrews 6:2",
-    "Into Christ, in water as sign, and in the Spirit as witness of sonship.",
-    2,
+    "Hebrews 6:2 · 8 weeks · 16 lessons",
+    "Three essential baptisms among seven in Scripture. Only baptism into Christ saves the soul. Water is the figure after salvation. The Spirit is witness of the son. Read Chapter 4, then walk the sixteen lessons.",
+    16,
+    3,
+    750,
   ),
   course(
     "course-fs-hands",
@@ -332,8 +343,9 @@ export const foundationCourses: Course[] = [
 export const foundationModules: CourseModule[] = [
   ...repentanceModules,
   ...faithModules,
-  ...principleIds.slice(2).map((courseId, index) => ({
-    id: `mod-fs-${index + 3}`,
+  ...baptismsModules,
+  ...principleIds.slice(3).map((courseId, index) => ({
+    id: `mod-fs-${index + 4}`,
     courseId,
     number: 1,
     title: "Study",
@@ -342,12 +354,6 @@ export const foundationModules: CourseModule[] = [
 ];
 
 const lessonPairs: { courseId: (typeof principleIds)[number]; chapterId: string; read: string; write: string }[] = [
-  {
-    courseId: "course-fs-baptisms",
-    chapterId: "ch-lib1-baptisms",
-    read: "Distinguish the three baptisms. Which one saves the soul, and why is water a sign rather than the power?",
-    write: "State, in your own words, why Galatians 3:26–27 and 1 Corinthians 1:17–18 must be held together.",
-  },
   {
     courseId: "course-fs-hands",
     chapterId: "ch-lib1-hands",
@@ -369,10 +375,10 @@ const lessonPairs: { courseId: (typeof principleIds)[number]; chapterId: string;
 ];
 
 const laterLessons: Lesson[] = lessonPairs.flatMap((pair, index) => {
-  const moduleId = `mod-fs-${index + 3}`;
+  const moduleId = `mod-fs-${index + 4}`;
   return [
     {
-      id: `les-fs-${index + 3}a`,
+      id: `les-fs-${index + 4}a`,
       courseId: pair.courseId,
       moduleId,
       number: 1,
@@ -382,7 +388,7 @@ const laterLessons: Lesson[] = lessonPairs.flatMap((pair, index) => {
       body: pair.read,
     },
     {
-      id: `les-fs-${index + 3}b`,
+      id: `les-fs-${index + 4}b`,
       courseId: pair.courseId,
       moduleId,
       number: 2,
@@ -394,4 +400,9 @@ const laterLessons: Lesson[] = lessonPairs.flatMap((pair, index) => {
   ];
 });
 
-export const foundationLessons: Lesson[] = [...repentanceLessons, ...faithLessons, ...laterLessons];
+export const foundationLessons: Lesson[] = [
+  ...repentanceLessons,
+  ...faithLessons,
+  ...baptismsLessons,
+  ...laterLessons,
+];

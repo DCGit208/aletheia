@@ -31,7 +31,7 @@ Copy `.env.example` to `.env.local` when you have a Firebase web config. See `FI
 
 - `FOUNDATION_SCHOOL.md` — consultant brief for Foundation School (school, six courses, textbook, companion books, pricing)
 - `study/` — end-to-end study of Aletheia Libraries 1 (source map, Scripture matrix, chronology, lesson map)
-- Textbook Chapters 1–3 and Courses 1–2 (17 lessons each) are in the app: Learn → Schools → Foundation School
+- Textbook Chapters 1–4 and Courses 1–3 are in the app: Learn → Schools → Foundation School
 - `IMPLEMENTATION_ASSESSMENT.md` — empty-repo inspection and sequence
 - `ARCHITECTURE.md` — locked product and technical decisions
 - `DATA_MODEL.md` — Firestore map
