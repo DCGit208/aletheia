@@ -171,6 +171,10 @@ export function listProducts(page = 0): PageResult<Product> {
   return { items: items.slice(start, start + PAGE), hasMore: start + PAGE < items.length };
 }
 
+export function listAllProducts() {
+  return published(catalog.products);
+}
+
 export function getProduct(id: string) {
   return published(catalog.products).find((item) => item.id === id) ?? null;
 }

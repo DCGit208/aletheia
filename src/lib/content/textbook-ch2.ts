@@ -290,7 +290,7 @@ The former conversation is not a list of quirks. It is the walk of the old man. 
 
 Cluster held: John 8:44; Ephesians 2:2; 2 Corinthians 4:4; 1 John 3:8-9; 1 John 5:18; Ephesians 4:22. One old thing. Spirit, nature, and power of sin. Nothing more nor less than the spirit and nature of the devil working in men of disobedience.
 
-Charge on old thing 1: can you teach John 8:44, Ephesians 2:2, and 1 John 3:8-9 as one cluster without calling the old man “a bad habit”? Write the teaching in one page. If you are Academic Year, one tight page. If you are Intensive, one page that walks each verse and then the cluster.
+Charge on old thing 1: can you teach John 8:44, Ephesians 2:2, and 1 John 3:8-9 as one cluster without calling the old man “a bad habit”? Write the teaching in one page. If you walk The Year, one tight page. If you walk The Intensive, one page that walks each verse and then the cluster.
 
 B. Old thing 2 — outward sin
 
@@ -546,11 +546,11 @@ If you cannot reason those words without a slogan, you have recited this chapter
 
 Seven words. Not eight. Luke 16. Not Matthew 16. Two old things. Not one pile. Christ the only way. Receive Him today.
 
-XI. LABOUR FOR ACADEMIC YEAR AND INTENSIVE
+XI. LABOUR FOR THE YEAR AND THE INTENSIVE
 
 Same doctrine. Same first stone. Different hours. Course 1 occupies nine of the fifty-two weeks. This chapter is the weight of those weeks, with Chapter 1 as the gate.
 
-Academic Year — about three hours a week. Read this chapter in sittings you can finish without skimming the lists. Write the seven words with one verse each. Write ten lines on metanoia versus metamellomai. Name the two old things. Write Romans 6:23 and Acts 4:12 and Romans 10:9. Confess the Lord Jesus if you have not. Write the eight examination points below as eight tight paragraphs.
+The Year — about three hours a week. Read this chapter in sittings you can finish without skimming the lists. Write the seven words with one verse each. Write ten lines on metanoia versus metamellomai. Name the two old things. Write Romans 6:23 and Acts 4:12 and Romans 10:9. Confess the Lord Jesus if you have not. Write the eight examination points below as eight tight paragraphs.
 
 Intensive — about eight hours a week. Read until you can teach. Write the seven words with their full verses and a sentence of context each. Write a full page on Judas that does not treat his remorse as the stone. Write Luke 16:27-31 and say what Abraham refused. Write one page on the old-man cluster without the word “basically.” Walk Galatians 5 and Mark 7 without calling them the old man. Write Hebrews 9:14 as a paragraph a babe could follow. Write the eight examination points as eight full pages.
 

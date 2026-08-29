@@ -102,7 +102,7 @@ A charge is finished when the student can answer **from the Scripture cluster**,
 
 These charges can serve as:
 
-- Weekly written work (Academic Year: shorter; Intensive: longer)
+- Weekly written work (The Year: shorter; Intensive: longer)
 - The spine of a **course examination** (one principle)
 - Part of a **final** at week 52 (all six, with the chronology map and the five prisons)
 

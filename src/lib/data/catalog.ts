@@ -8,6 +8,7 @@ import {
   foundationModules,
   foundationPrograms,
   foundationSchools,
+  foundationYearGrantIds,
 } from "@/lib/data/foundation-school";
 
 const achu = { id: "author-achu", displayName: "Dr. Coach Achu Gustave" };
@@ -597,6 +598,36 @@ The cover is published. The full study will enter this reader next.`,
   ],
   products: [
     {
+      id: "product-foundation-year",
+      title: "Foundation School — The Year",
+      description:
+        "Fifty-two weeks. About three hours a week. Six first principles plus the textbook. Same doctrine as The Intensive — a different labour. $400 instead of $700 à la carte. Does not include the companion library.",
+      kind: "program",
+      contentId: "program-foundation-year",
+      includedContentIds: ["program-foundation-year", ...foundationYearGrantIds],
+      priceCents: 40000,
+      compareAtCents: 70000,
+      currency: "USD",
+      status: "published",
+      coverTone: "ink",
+      coverImage: "/covers/principles-doctrine-christ.jpg",
+    },
+    {
+      id: "product-foundation-intensive",
+      title: "Foundation School — The Intensive",
+      description:
+        "Fifty-two weeks. About eight hours a week. The same six first principles and the same textbook. Not a second syllabus. A fuller load. $400 instead of $700 à la carte. Does not include the companion library.",
+      kind: "program",
+      contentId: "program-foundation-intensive",
+      includedContentIds: ["program-foundation-intensive", ...foundationYearGrantIds],
+      priceCents: 40000,
+      compareAtCents: 70000,
+      currency: "USD",
+      status: "published",
+      coverTone: "ink",
+      coverImage: "/covers/principles-doctrine-christ.jpg",
+    },
+    {
       id: "product-foundations-bundle",
       title: "Three Foundational Books",
       description:
@@ -768,7 +799,7 @@ The cover is published. The full study will enter this reader next.`,
     {
       id: "ann-foundation",
       title: "Foundation School is open",
-      body: "Foundation School Year 1 is written: seven textbook chapters, ninety-five lessons, a written examination per course, and the week-52 final. Enrol in the Academic Year or the One-Year Intensive.",
+      body: "Foundation School Year 1 is written: seven textbook chapters, ninety-five lessons, a written examination per course, and the week-52 final. Enter The Year or The Intensive. Same year. Different labour. $400.",
       publishedAt: "2026-08-28",
       status: "published",
       important: true,
@@ -793,7 +824,7 @@ The cover is published. The full study will enter this reader next.`,
     ],
     featuredJournalIds: ["journal-aletheia"],
     announcementIds: ["ann-foundation", "ann-journal"],
-    featuredProductIds: ["product-foundations-bundle", "product-doctrine-of-man", "product-real-man-ai"],
+    featuredProductIds: ["product-foundation-year", "product-foundation-intensive", "product-foundations-bundle"],
     featuredTopicIds: ["topic-attention", "topic-city"],
     featuredSchoolIds: ["school-foundation"],
   },

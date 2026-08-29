@@ -13,7 +13,7 @@ export interface WrittenExam {
 }
 
 const labour =
-  "Write from the Scripture cluster, not from a heading. Academic Year: one tight page per question. Intensive: three pages per question. Same doctrine. A certificate later will ask more than a click.";
+  "Write from the Scripture cluster, not from a heading. The Year: one tight page per question. Intensive: three pages per question. Same doctrine. A certificate later will ask more than a click.";
 
 export const courseExams: WrittenExam[] = [
   {
@@ -116,7 +116,7 @@ export const yearFinal: WrittenExam = {
   title: "Week 52 final",
   subtitle: "Foundation School — the six stones",
   instructions:
-    "This is the integration of the year, not a seventh doctrine. Write from the clusters. Academic Year: one tight page per question. Intensive: three pages per question. Recite the chronology map and the five prisons without flattening either file.",
+    "This is the integration of the year, not a seventh doctrine. Write from the clusters. The Year: one tight page per question. Intensive: three pages per question. Recite the chronology map and the five prisons without flattening either file.",
   questions: [
     { id: "f1", prompt: "Name the six first principles in Hebrews’ order. What does “leaving” them mean, and what does it not mean?" },
     { id: "f2", prompt: "Metanoia versus metamellomai. The two old things. Christ the only way. Receive Him." },

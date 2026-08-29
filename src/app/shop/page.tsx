@@ -4,7 +4,7 @@ import Link from "next/link";
 import { ContentCard } from "@/components/content/content-card";
 import { PageIntro } from "@/components/content/page-intro";
 import { buttonVariants } from "@/components/ui/button";
-import { getProduct, listProducts } from "@/lib/data/repository";
+import { getProduct, listAllProducts } from "@/lib/data/repository";
 import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
@@ -15,7 +15,7 @@ export default function ShopPage() {
   const { t } = useI18n();
   const { user } = useAuth();
   const { cart, checkout, removeFromCart } = useUserLibrary();
-  const products = listProducts().items;
+  const products = listAllProducts();
 
   return (
     <div>
@@ -74,7 +74,7 @@ export default function ShopPage() {
             tone={product.coverTone}
             image={product.coverImage}
             imageFit={product.kind === "bundle" ? "cover" : "contain"}
-            badge={product.kind}
+            badge={product.kind === "program" ? "Year" : product.kind}
           />
         ))}
       </div>

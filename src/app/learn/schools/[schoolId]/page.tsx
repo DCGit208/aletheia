@@ -5,7 +5,7 @@ import { useParams } from "next/navigation";
 import { ListRow } from "@/components/content/list-row";
 import { EmptyState } from "@/components/content/query-state";
 import { SectionHeader } from "@/components/content/section-header";
-import { getBook, getSchool, listPrograms, listSchoolCourses } from "@/lib/data/repository";
+import { getBook, getProduct, getSchool, listPrograms, listSchoolCourses } from "@/lib/data/repository";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
 
@@ -34,15 +34,19 @@ export default function SchoolPage() {
       <section className="mt-8">
         <SectionHeader title="Programs" />
         <div className="overflow-hidden rounded-2xl bg-card">
-          {programs.map((program) => (
-            <ListRow
-              key={program.id}
-              href={`/learn/programs/${program.id}`}
-              title={program.title}
-              subtitle={program.subtitle}
-              meta={`${program.durationWeeks} wk · ${program.hoursPerWeek}h/wk`}
-            />
-          ))}
+          {programs.map((program) => {
+            const product = program.productId ? getProduct(program.productId) : null;
+            const price = product ? `$${(product.priceCents / 100).toFixed(0)}` : null;
+            return (
+              <ListRow
+                key={program.id}
+                href={`/learn/programs/${program.id}`}
+                title={program.title}
+                subtitle={program.subtitle}
+                meta={`${program.durationWeeks} wk · ${program.hoursPerWeek}h/wk${price ? ` · ${price}` : ""}`}
+              />
+            );
+          })}
         </div>
       </section>
 

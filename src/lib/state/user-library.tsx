@@ -2,7 +2,7 @@
 
 import { createContext, useContext, useMemo, useSyncExternalStore, type ReactNode } from "react";
 import { useAuth } from "@/lib/auth/provider";
-import { makeEntitlement, grantTargetsForProduct } from "@/lib/access/entitlements";
+import { makeEntitlement, grantTargetsForProduct, holdsEntitlement } from "@/lib/access/entitlements";
 import { getProduct, getProgram, getSchool } from "@/lib/data/repository";
 import type { Bookmark, ContentKind, Enrollment, Entitlement, Order, ProgramEnrollment, ReadingProgress } from "@/lib/data/types";
 import {
@@ -129,6 +129,7 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
         const program = getProgram(programId);
         const school = program ? getSchool(program.schoolId) : null;
         if (!program || !school) return;
+        if (program.accessLevel === "entitled" && !holdsEntitlement(entitlements, "program", program.id)) return;
         if (programEnrollments.some((item) => item.schoolId === school.id)) return;
         setProgramEnrollments([
           ...programEnrollments,
@@ -185,6 +186,7 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
         };
         setOrders([order, ...orders]);
         const granted = [...entitlements];
+        let nextProgramEnrollments = [...programEnrollments];
         for (const product of products) {
           if (!product) continue;
           for (const target of grantTargetsForProduct(product)) {
@@ -192,8 +194,32 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
               granted.push(makeEntitlement(user.uid, target.contentKind, target.contentId, "purchase"));
             }
           }
+          if (product.kind === "program" && product.contentId) {
+            const program = getProgram(product.contentId);
+            const school = program ? getSchool(program.schoolId) : null;
+            if (
+              program &&
+              school &&
+              !nextProgramEnrollments.some((item) => item.schoolId === school.id)
+            ) {
+              nextProgramEnrollments = [
+                ...nextProgramEnrollments,
+                {
+                  id: `${user.uid}:${program.id}`,
+                  userId: user.uid,
+                  schoolId: school.id,
+                  programId: program.id,
+                  startedAt: new Date().toISOString(),
+                },
+              ];
+              if (!granted.some((item) => item.contentKind === "program" && item.contentId === program.id)) {
+                granted.push(makeEntitlement(user.uid, "program", program.id, "purchase"));
+              }
+            }
+          }
         }
         setEntitlements(granted);
+        setProgramEnrollments(nextProgramEnrollments);
         setCart([]);
         track({ name: "order_placed", orderId: order.id });
         return order;

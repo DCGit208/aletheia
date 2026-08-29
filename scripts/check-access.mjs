@@ -40,4 +40,58 @@ assert.equal(
   true,
 );
 
+function contentKindForId(contentId) {
+  if (contentId.startsWith("course-")) return "course";
+  if (contentId.startsWith("program-")) return "program";
+  if (contentId.startsWith("article-")) return "article";
+  if (contentId.startsWith("journal-")) return "journal";
+  return "book";
+}
+
+function grantTargetsForProduct(product) {
+  if (product.includedContentIds?.length) {
+    const ids = [...product.includedContentIds];
+    if (product.contentId && !ids.includes(product.contentId)) ids.unshift(product.contentId);
+    const seen = new Set();
+    return ids
+      .map((contentId) => ({ contentKind: contentKindForId(contentId), contentId }))
+      .filter((target) => {
+        const key = `${target.contentKind}:${target.contentId}`;
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      });
+  }
+  if (!product.contentId) return [];
+  if (product.kind === "course") return [{ contentKind: "course", contentId: product.contentId }];
+  if (product.kind === "program") return [{ contentKind: "program", contentId: product.contentId }];
+  return [{ contentKind: "book", contentId: product.contentId }];
+}
+
+const yearTargets = grantTargetsForProduct({
+  kind: "program",
+  contentId: "program-foundation-year",
+  includedContentIds: [
+    "program-foundation-year",
+    "book-principles-doctrine-christ",
+    "course-fs-repentance",
+    "course-fs-faith",
+    "course-fs-baptisms",
+    "course-fs-hands",
+    "course-fs-resurrection",
+    "course-fs-judgment",
+  ],
+});
+assert.equal(yearTargets.length, 8);
+assert.equal(yearTargets.filter((item) => item.contentKind === "course").length, 6);
+assert.equal(yearTargets.filter((item) => item.contentKind === "book").length, 1);
+assert.equal(yearTargets.filter((item) => item.contentKind === "program").length, 1);
+assert.deepEqual(
+  grantTargetsForProduct({
+    kind: "bundle",
+    includedContentIds: ["book-beyond-ai-man", "book-doctrine-of-man"],
+  }).map((item) => item.contentKind),
+  ["book", "book"],
+);
+
 console.log("access checks passed");

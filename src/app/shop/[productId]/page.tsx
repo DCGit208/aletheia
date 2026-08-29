@@ -6,10 +6,37 @@ import { Cover } from "@/components/content/cover";
 import { EmptyState } from "@/components/content/query-state";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { grantTargetsForProduct } from "@/lib/access/entitlements";
-import { getBook, getCourse, getProduct } from "@/lib/data/repository";
+import { getBook, getCourse, getProduct, getProgram } from "@/lib/data/repository";
 import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
+
+function includedRows(productId: string, ids: string[]) {
+  return ids
+    .filter((id) => id !== productId)
+    .map((id) => {
+      if (id.startsWith("course-")) {
+        const course = getCourse(id);
+        return course
+          ? { id, href: `/learn/courses/${course.id}`, title: course.title, meta: "Course" }
+          : null;
+      }
+      if (id.startsWith("book-")) {
+        const book = getBook(id);
+        return book
+          ? { id, href: `/publications/books/${book.id}`, title: book.title, meta: "Textbook" }
+          : null;
+      }
+      if (id.startsWith("program-")) {
+        const program = getProgram(id);
+        return program
+          ? { id, href: `/learn/programs/${program.id}`, title: program.title, meta: "Program" }
+          : null;
+      }
+      return null;
+    })
+    .filter(Boolean);
+}
 
 export default function ProductPage() {
   const { productId } = useParams<{ productId: string }>();
@@ -26,10 +53,11 @@ export default function ProductPage() {
     );
   const book = product.kind === "book" && product.contentId ? getBook(product.contentId) : null;
   const course = product.kind === "course" && product.contentId ? getCourse(product.contentId) : null;
-  const bundleBooks =
-    product.kind === "bundle"
-      ? (product.includedContentIds ?? []).map((id) => getBook(id)).filter(Boolean)
-      : [];
+  const program = product.kind === "program" && product.contentId ? getProgram(product.contentId) : null;
+  const included = includedRows(
+    product.contentId ?? product.id,
+    product.includedContentIds ?? [],
+  );
 
   return (
     <article className="grid gap-8 md:grid-cols-[220px_1fr]">
@@ -40,7 +68,9 @@ export default function ProductPage() {
         fit={product.kind === "bundle" ? "cover" : "contain"}
       />
       <div>
-        <p className="text-[0.7rem] tracking-[0.2em] text-muted-foreground uppercase">{product.kind}</p>
+        <p className="text-[0.7rem] tracking-[0.2em] text-muted-foreground uppercase">
+          {product.kind === "program" ? "The year" : product.kind}
+        </p>
         <h1 className="mt-2 font-heading text-3xl tracking-wide">{product.title}</h1>
         <p className="mt-4 leading-relaxed">{product.description}</p>
         <p className="mt-4 font-heading text-2xl">
@@ -51,12 +81,15 @@ export default function ProductPage() {
           ) : null}
           {product.priceCents === 0 ? "Free" : `$${(product.priceCents / 100).toFixed(2)}`}
         </p>
-        {bundleBooks.length > 0 ? (
+        {included.length > 0 ? (
           <ul className="mt-4 space-y-2 text-sm">
-            {bundleBooks.map((item) =>
+            {included.map((item) =>
               item ? (
                 <li key={item.id}>
-                  <Link href={`/publications/books/${item.id}`} className="text-primary">
+                  <span className="mr-2 text-[0.62rem] tracking-[0.16em] text-muted-foreground uppercase">
+                    {item.meta}
+                  </span>
+                  <Link href={item.href} className="text-primary">
                     {item.title}
                   </Link>
                 </li>
@@ -85,6 +118,11 @@ export default function ProductPage() {
           {course ? (
             <Link href={`/learn/courses/${course.id}`} className={buttonVariants({ variant: "link" })}>
               {course.title}
+            </Link>
+          ) : null}
+          {program ? (
+            <Link href={`/learn/programs/${program.id}`} className={buttonVariants({ variant: "link" })}>
+              {program.title}
             </Link>
           ) : null}
         </div>

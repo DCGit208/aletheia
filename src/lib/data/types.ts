@@ -38,7 +38,7 @@ export type EntitlementSource = (typeof ENTITLEMENT_SOURCES)[number];
 export const PRODUCT_KINDS = ["book", "course", "publication", "resource", "bundle", "program"] as const;
 export type ProductKind = (typeof PRODUCT_KINDS)[number];
 
-export const PROGRAM_KINDS = ["academic_year", "intensive"] as const;
+export const PROGRAM_KINDS = ["year", "intensive"] as const;
 export type ProgramKind = (typeof PROGRAM_KINDS)[number];
 
 export type ContentKind = "course" | "path" | "book" | "journal" | "article" | "community" | "topic" | "product" | "school" | "program";

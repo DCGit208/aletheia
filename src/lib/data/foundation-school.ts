@@ -71,35 +71,39 @@ export const foundationSchools: School[] = [
   },
 ];
 
+export const foundationYearGrantIds = [textbook, ...principleIds] as const;
+
 export const foundationPrograms: Program[] = [
   {
     id: "program-foundation-year",
     schoolId: "school-foundation",
-    title: "Academic Year",
-    subtitle: "Six principles across fifty-two weeks",
+    title: "The Year",
+    subtitle: "Six principles. About three hours a week.",
     description:
-      "The Foundation School year. Each first principle occupies about eight to nine weeks. About three hours of study each week. Same teaching as the intensive — a different pace.",
-    kind: "academic_year",
+      "Fifty-two weeks on the first principles. Same teaching as The Intensive — a different labour. About three hours each week. The $400 year grants the six courses and the textbook. It does not grant the companion library.",
+    kind: "year",
     durationWeeks: 52,
     hoursPerWeek: 3,
     unitWeeks: [9, 9, 8, 8, 9, 9],
-    accessLevel: "free",
+    accessLevel: "entitled",
     status: "published",
+    productId: "product-foundation-year",
     certificateEligible: true,
   },
   {
     id: "program-foundation-intensive",
     schoolId: "school-foundation",
-    title: "One-Year Intensive",
-    subtitle: "The same year, denser labour",
+    title: "The Intensive",
+    subtitle: "The same year. About eight hours a week.",
     description:
-      "The same six principles and the same fifty-two weeks, with about eight hours of study each week. Not a second syllabus. A fuller load for those who will treat the year as a charge.",
+      "The same six principles and the same fifty-two weeks, with about eight hours each week. Not a second syllabus. A fuller load. The $400 year grants the six courses and the textbook. It does not grant the companion library.",
     kind: "intensive",
     durationWeeks: 52,
     hoursPerWeek: 8,
     unitWeeks: [9, 9, 8, 8, 9, 9],
-    accessLevel: "free",
+    accessLevel: "entitled",
     status: "published",
+    productId: "product-foundation-intensive",
     certificateEligible: true,
   },
 ];

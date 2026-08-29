@@ -26,7 +26,7 @@ The source of truth is the 2015 **Aletheia Libraries 1** leaflet. That leaflet i
 | Textbook | *The Principles of the Doctrine of Christ* — *Foundations for Christian Understanding & Maturity* |
 | Cover line (this book only) | Truth · Knowledge · Maturity |
 | Platform line (the app) | Truth · Identity · Dominion |
-| Programs | Academic Year (~3 h/week) and One-Year Intensive (~8 h/week). Both **52 weeks**. Same six courses. |
+| Programs | The Year (~3 h/week) and The Intensive (~8 h/week). Both **52 weeks**. Same six courses. |
 | Courses | 1. Repentance from Dead Works · 2. Faith Toward God · 3. The Doctrine of Baptisms · 4. Laying on of Hands · 5. Resurrection of the Dead · 6. Eternal Judgment |
 | Prices (owner-approved) | Textbook **$100** · each course **$100** · school program **$400** |
 | School purchase grants | All six courses **plus** the textbook **only** |
@@ -70,7 +70,7 @@ Schools live **under Learn**, not as a seventh tab.
 | Entity | Meaning | What a person buys / enrols in |
 | --- | --- | --- |
 | **School** | The house: Foundation School | Nothing. A school is not a SKU. |
-| **Program** | A year-bearing cadence of the same six courses | **Yes.** Academic Year or One-Year Intensive. |
+| **Program** | A year-bearing cadence of the same six courses | **Yes.** The Year or The Intensive. |
 | **Course** | One first principle, reusable | **Yes**, à la carte in Shop, and inside the school. |
 | **Book** | One publication record | **Yes**, separately. A book is not a course. |
 | **Product** | The commercial offer | Points at a program, a course, or a book. |
@@ -87,8 +87,8 @@ Both programs last **52 weeks** and teach the **same six courses**. Intensive is
 
 | Program | Calendar | Weekly labour | Curriculum |
 | --- | --- | --- | --- |
-| Academic Year | 52 weeks | ~3 hours | Six principles, ~8–9 weeks each |
-| One-Year Intensive | 52 weeks | ~8 hours | Same six courses; more drill and longer writing |
+| The Year | 52 weeks | ~3 hours | Six principles, ~8–9 weeks each |
+| The Intensive | 52 weeks | ~8 hours | Same six courses; more drill and longer writing |
 
 Week allocation:
 
@@ -114,7 +114,7 @@ Aligned with the current Publications line ($100 a volume; three-book bundle $15
 | --- | --- | --- |
 | Textbook: *The Principles of the Doctrine of Christ* | **$100** | The book only |
 | Each of the six courses | **$100** each | That course only |
-| School program (Academic Year **or** Intensive) | **$400** | All six courses **plus** the textbook |
+| School program (The Year **or** The Intensive) | **$400** | All six courses **plus** the textbook |
 
 Year and Intensive: **same $400**. Same teaching; different hours.
 
@@ -165,7 +165,7 @@ Rules:
 - Do not import another network’s course template, pricing, or roles.
 - Questions the leaflet itself asks (What is an heir? How would you liken John 17:20–23?) become student charges, not slogans.
 
-**Planned scale:** about **12–18 lessons per course**, **~80–100 lessons** for the year. Academic Year uses the same lesson list at ~3 hours/week; Intensive assigns more pages, more drill, and a longer charge on the same lessons.
+**Planned scale:** about **12–18 lessons per course**, **~80–100 lessons** for the year. The Year uses the same lesson list at ~3 hours/week; Intensive assigns more pages, more drill, and a longer charge on the same lessons.
 
 ---
 
@@ -345,7 +345,7 @@ The Holy Writ is the authority the leaflet names (John 10:35). It is not sold as
 
 **Learn → Schools → Foundation School**
 
-- Two programs (Academic Year, One-Year Intensive)
+- Two programs (The Year, The Intensive)
 - Ordered list of six courses
 - Textbook and (later) companion books as resources
 
@@ -387,7 +387,7 @@ Pre-curriculum study of the 2015 leaflet (source map, Scripture matrix, chronolo
 3. Write the expanded textbook chapters from the leaflet.
 4. Write each course to the density in §6–§8, linking books as resources.
 5. Wire Shop products: 6×$100 courses, $100 book, $400 school (grants six courses + textbook).
-6. Keep Academic Year and Intensive as two enrolable cadences of that school product family.
+6. Keep The Year and The Intensive as two enrolable cadences of that school product family.
 7. Back-list titles as Shop/Publications records when ready; do not block Year 1 on their full text.
 
 ---
@@ -407,7 +407,7 @@ Please mark **Approve / Amend / Reject** on each item. Add a short note under an
 | 7 | Course 5 chronology as mapped in `study/05_CHRONOLOGY_MAP.md` (system, not “which comes first?”). | |
 | 8 | End of each principle: written charge only, or a formal examination in addition. | |
 | 9 | Week split 9 / 9 / 8 / 8 / 9 / 9 across the six courses. | |
-| 10 | Academic Year (~3 h) and Intensive (~8 h) share one curriculum; Intensive is more labour, not different doctrine. | |
+| 10 | The Year (~3 h) and Intensive (~8 h) share one curriculum; Intensive is more labour, not different doctrine. | |
 
 **Name of reviewer**  
 **Date**  

@@ -5,8 +5,9 @@ import { useParams } from "next/navigation";
 import { ListRow } from "@/components/content/list-row";
 import { EmptyState } from "@/components/content/query-state";
 import { Button, buttonVariants } from "@/components/ui/button";
+import { holdsEntitlement } from "@/lib/access/entitlements";
 import { currentUnitIndex, weekInYear } from "@/lib/learn/pacing";
-import { getCourse, getProgram, getSchool } from "@/lib/data/repository";
+import { getCourse, getProduct, getProgram, getSchool } from "@/lib/data/repository";
 import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
@@ -16,15 +17,19 @@ export default function ProgramPage() {
   const { programId } = useParams<{ programId: string }>();
   const { t } = useI18n();
   const { user } = useAuth();
-  const { enrollInProgram, programEnrollments } = useUserLibrary();
+  const { enrollInProgram, entitlements, programEnrollments } = useUserLibrary();
   const program = getProgram(programId);
   const school = program ? getSchool(program.schoolId) : null;
   if (!program || !school) return <EmptyState title="Program not found." />;
 
+  const product = program.productId ? getProduct(program.productId) : null;
   const enrolment = programEnrollments.find((item) => item.programId === program.id);
   const schoolEnrolment = programEnrollments.find((item) => item.schoolId === school.id);
+  const entitled =
+    program.accessLevel !== "entitled" || holdsEntitlement(entitlements, "program", program.id);
   const currentIndex = enrolment ? currentUnitIndex(enrolment.startedAt, program.unitWeeks) : 0;
   const week = enrolment ? weekInYear(enrolment.startedAt, program.durationWeeks) : null;
+  const price = product ? `$${(product.priceCents / 100).toFixed(0)}` : null;
 
   return (
     <article>
@@ -35,6 +40,7 @@ export default function ProgramPage() {
       <p className="mt-4 text-sm text-muted-foreground">
         {program.durationWeeks} weeks · {program.hoursPerWeek} hours each week · {school.courseIds.length}{" "}
         principles
+        {price ? ` · ${price}` : null}
       </p>
       {week ? (
         <p className="mt-2 text-sm text-primary">
@@ -43,8 +49,13 @@ export default function ProgramPage() {
       ) : null}
 
       <div className="mt-6 flex flex-wrap gap-2">
-        {user && !schoolEnrolment ? (
+        {user && entitled && !schoolEnrolment ? (
           <Button onClick={() => enrollInProgram(program.id)}>{t("action.enrollProgram")}</Button>
+        ) : null}
+        {user && !entitled && product ? (
+          <Link href={`/shop/${product.id}`} className={cn(buttonVariants())}>
+            Enter {program.title} — {price}
+          </Link>
         ) : null}
         {enrolment ? <p className="self-center text-sm text-muted-foreground">You are enrolled.</p> : null}
         {schoolEnrolment && !enrolment ? (
@@ -53,9 +64,16 @@ export default function ProgramPage() {
           </p>
         ) : null}
         {!user ? (
-          <Link href="/sign-in" className={cn(buttonVariants())}>
-            {t("nav.signIn")}
-          </Link>
+          <>
+            <Link href="/sign-in" className={cn(buttonVariants())}>
+              {t("nav.signIn")}
+            </Link>
+            {product ? (
+              <Link href={`/shop/${product.id}`} className={buttonVariants({ variant: "outline" })}>
+                {program.title} — {price}
+              </Link>
+            ) : null}
+          </>
         ) : null}
         <Link href={`/learn/schools/${school.id}`} className={buttonVariants({ variant: "ghost" })}>
           {school.title}
