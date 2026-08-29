@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { EmptyState } from "@/components/content/query-state";
 import { PageIntro } from "@/components/content/page-intro";
-import { getCourse, listLessons } from "@/lib/data/repository";
+import { getCourse, getProgram, getSchool, listLessons } from "@/lib/data/repository";
 import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
@@ -11,16 +11,28 @@ import { useUserLibrary } from "@/lib/state/user-library";
 export default function MyLearningPage() {
   const { t } = useI18n();
   const { user } = useAuth();
-  const { enrollments } = useUserLibrary();
+  const { enrollments, programEnrollments } = useUserLibrary();
   if (!user) return <EmptyState title={t("state.signedOut")} />;
 
   return (
     <div>
       <PageIntro title={t("account.learning")} />
-      {enrollments.length === 0 ? (
-        <EmptyState body="Begin a course from Learn." />
+      {enrollments.length === 0 && programEnrollments.length === 0 ? (
+        <EmptyState body="Enrol in Foundation School or begin a course from Learn." />
       ) : (
         <ul className="space-y-3">
+          {programEnrollments.map((item) => {
+            const program = getProgram(item.programId);
+            const school = getSchool(item.schoolId);
+            return (
+              <li key={item.id} className="rounded-xl px-4 py-3 ring-1 ring-foreground/10">
+                <Link href={`/learn/programs/${item.programId}`} className="font-medium hover:underline">
+                  {school?.title ?? "School"} · {program?.title ?? item.programId}
+                </Link>
+                <p className="text-sm text-muted-foreground">Program enrolment</p>
+              </li>
+            );
+          })}
           {enrollments.map((item) => {
             const course = getCourse(item.courseId);
             const total = listLessons(item.courseId).length;

@@ -3,20 +3,22 @@
 import { createContext, useContext, useMemo, useSyncExternalStore, type ReactNode } from "react";
 import { useAuth } from "@/lib/auth/provider";
 import { makeEntitlement, grantTargetsForProduct } from "@/lib/access/entitlements";
-import { getProduct } from "@/lib/data/repository";
-import type { Bookmark, ContentKind, Enrollment, Entitlement, Order, ReadingProgress } from "@/lib/data/types";
+import { getProduct, getProgram, getSchool } from "@/lib/data/repository";
+import type { Bookmark, ContentKind, Enrollment, Entitlement, Order, ProgramEnrollment, ReadingProgress } from "@/lib/data/types";
 import {
   loadBookmarks,
   loadCart,
   loadEnrollments,
   loadEntitlements,
   loadOrders,
+  loadProgramEnrollments,
   loadProgress,
   saveBookmarks,
   saveCart,
   saveEnrollments,
   saveEntitlements,
   saveOrders,
+  saveProgramEnrollments,
   saveProgress,
 } from "@/lib/storage/local-state";
 import { createClientStore } from "@/lib/storage/client-store";
@@ -26,11 +28,13 @@ import { saveOfflineProgress } from "@/lib/reader/offline-db";
 interface UserLibraryValue {
   entitlements: Entitlement[];
   enrollments: Enrollment[];
+  programEnrollments: ProgramEnrollment[];
   orders: Order[];
   bookmarks: Bookmark[];
   progress: ReadingProgress[];
   cart: string[];
   enroll: (courseId: string) => void;
+  enrollInProgram: (programId: string) => void;
   completeLesson: (courseId: string, lessonId: string) => void;
   addToCart: (productId: string) => void;
   removeFromCart: (productId: string) => void;
@@ -43,6 +47,7 @@ const UserLibraryContext = createContext<UserLibraryValue | null>(null);
 
 const EMPTY_ENTITLEMENTS: Entitlement[] = [];
 const EMPTY_ENROLLMENTS: Enrollment[] = [];
+const EMPTY_PROGRAM_ENROLLMENTS: ProgramEnrollment[] = [];
 const EMPTY_ORDERS: Order[] = [];
 const EMPTY_BOOKMARKS: Bookmark[] = [];
 const EMPTY_PROGRESS: ReadingProgress[] = [];
@@ -62,6 +67,11 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
   const writeEntitlements = useMemo(() => (value: Entitlement[]) => saveEntitlements(userId, value), [userId]);
   const readEnrollments = useMemo(() => () => loadEnrollments(userId), [userId]);
   const writeEnrollments = useMemo(() => (value: Enrollment[]) => saveEnrollments(userId, value), [userId]);
+  const readProgramEnrollments = useMemo(() => () => loadProgramEnrollments(userId), [userId]);
+  const writeProgramEnrollments = useMemo(
+    () => (value: ProgramEnrollment[]) => saveProgramEnrollments(userId, value),
+    [userId],
+  );
   const readOrders = useMemo(() => () => loadOrders(userId), [userId]);
   const writeOrders = useMemo(() => (value: Order[]) => saveOrders(userId, value), [userId]);
   const readBookmarks = useMemo(() => () => loadBookmarks(userId), [userId]);
@@ -81,6 +91,12 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
     writeEnrollments,
     EMPTY_ENROLLMENTS,
   );
+  const [programEnrollments, setProgramEnrollments] = usePersisted(
+    `programEnrollments.${userId}`,
+    readProgramEnrollments,
+    writeProgramEnrollments,
+    EMPTY_PROGRAM_ENROLLMENTS,
+  );
   const [orders, setOrders] = usePersisted(`orders.${userId}`, readOrders, writeOrders, EMPTY_ORDERS);
   const [bookmarks, setBookmarks] = usePersisted(`bookmarks.${userId}`, readBookmarks, writeBookmarks, EMPTY_BOOKMARKS);
   const [progress, setProgress] = usePersisted(`progress.${userId}`, readProgress, writeProgress, EMPTY_PROGRESS);
@@ -90,6 +106,7 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
     () => ({
       entitlements,
       enrollments,
+      programEnrollments,
       orders,
       bookmarks,
       progress,
@@ -106,6 +123,34 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
         const granted = [...entitlements, makeEntitlement(user.uid, "course", courseId, "enrollment")];
         setEntitlements(granted);
         track({ name: "course_enroll", courseId });
+      },
+      enrollInProgram(programId) {
+        if (!user) return;
+        const program = getProgram(programId);
+        const school = program ? getSchool(program.schoolId) : null;
+        if (!program || !school) return;
+        if (programEnrollments.some((item) => item.schoolId === school.id)) return;
+        setProgramEnrollments([
+          ...programEnrollments,
+          {
+            id: `${user.uid}:${program.id}`,
+            userId: user.uid,
+            schoolId: school.id,
+            programId: program.id,
+            startedAt: new Date().toISOString(),
+          },
+        ]);
+        const granted = [...entitlements];
+        if (!granted.some((item) => item.contentKind === "program" && item.contentId === program.id)) {
+          granted.push(makeEntitlement(user.uid, "program", program.id, "enrollment"));
+        }
+        for (const courseId of school.courseIds) {
+          if (!granted.some((item) => item.contentKind === "course" && item.contentId === courseId)) {
+            granted.push(makeEntitlement(user.uid, "course", courseId, "enrollment"));
+          }
+        }
+        setEntitlements(granted);
+        track({ name: "program_enroll", programId: program.id });
       },
       completeLesson(courseId, lessonId) {
         if (!user) return;
@@ -192,12 +237,14 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
       enrollments,
       entitlements,
       orders,
+      programEnrollments,
       progress,
       setBookmarks,
       setCart,
       setEnrollments,
       setEntitlements,
       setOrders,
+      setProgramEnrollments,
       setProgress,
       user,
     ],

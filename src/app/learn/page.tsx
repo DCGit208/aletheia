@@ -6,10 +6,11 @@ import { ListRow } from "@/components/content/list-row";
 import { PageIntro } from "@/components/content/page-intro";
 import { Rail } from "@/components/content/rail";
 import { SectionHeader } from "@/components/content/section-header";
-import { listBooks, listCourses, listJournals, listPaths } from "@/lib/data/repository";
+import { listBooks, listCourses, listJournals, listPaths, listSchools } from "@/lib/data/repository";
 import { useI18n } from "@/lib/i18n/provider";
 
 const rooms = [
+  { href: "/learn/schools", key: "learn.schools" as const, meta: "Houses" },
   { href: "/learn/courses", key: "learn.courses" as const, meta: "Curriculum" },
   { href: "/learn/paths", key: "learn.paths" as const, meta: "Sequence" },
   { href: "/learn/library", key: "learn.library" as const, meta: "Reading" },
@@ -19,7 +20,7 @@ const rooms = [
 
 export default function LearnPage() {
   const { t } = useI18n();
-  const courses = listCourses().items;
+  const courses = listCourses().items.filter((course) => course.category !== "Foundation");
   const books = listBooks().items;
   const paths = listPaths();
   const journals = listJournals();
@@ -32,6 +33,20 @@ export default function LearnPage() {
           <ListRow key={room.href} href={room.href} title={t(room.key)} meta={room.meta} />
         ))}
       </div>
+      <section className="mb-8">
+        <SectionHeader title={t("learn.schools")} href="/learn/schools" actionLabel={t("action.viewAll")} />
+        <div className="overflow-hidden rounded-2xl bg-card">
+          {listSchools().map((school) => (
+            <ListRow
+              key={school.id}
+              href={`/learn/schools/${school.id}`}
+              title={school.title}
+              subtitle={school.subtitle}
+              meta="Year"
+            />
+          ))}
+        </div>
+      </section>
       <Rail title={t("learn.courses")} href="/learn/courses" actionLabel={t("action.viewAll")}>
         {courses.map((course) => (
           <ContentCard

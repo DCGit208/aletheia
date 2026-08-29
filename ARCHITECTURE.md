@@ -26,6 +26,14 @@ A **Product** is a commercial offer pointing at content. An **Order** is a trans
 
 Course hierarchy: Learning path → Course → Module → Lesson → Resource → Assessment → Completion.
 
+**School hierarchy (Learn only, not a seventh tab):** School → Program → the same Course records.
+
+A **School** is a house of study (Foundation School, later others). It is not a second app, not a membership, and not a new user role.
+
+A **Program** is what a person enrols in. It is a cadence over a shared curriculum: Academic Year and One-Year Intensive are two programs of one school, not two copies of the teaching.
+
+A **Learning path** remains the lighter sequence (for example Truth · Identity · Dominion). Paths are not year-bearing schools.
+
 Journal hierarchy: Journal → Issue → Article.
 
 Community hierarchy: Community → Board → Topic → Post → Reply.
@@ -37,11 +45,34 @@ Community hierarchy: Community → Board → Topic → Post → Reply.
 - Local catalog (`src/lib/data/catalog.ts`) and local sessions when Firebase is not configured
 - UI strings in `src/lib/i18n/messages.ts` (English, French). Content language is a field on records
 - Roles come from the Firebase custom claim `aletheiaRole`, never from a client-writable document field
+- Enrolment in a school program does not mint a new platform role. `student` may be assigned by an administrator; the enrolment record is the fact of study.
 - PWA: web app manifest + production service worker. IndexedDB holds reader progress and optional offline books
 
 ## Routing
 
-Matches the locked information architecture: `/`, `/learn`, `/learn/courses/:courseId`, `/learn/read/:bookId`, `/publications`, `/community`, `/shop`, `/account`, `/admin`.
+Matches the locked information architecture: `/`, `/learn`, `/learn/schools/:schoolId`, `/learn/programs/:programId`, `/learn/courses/:courseId`, `/learn/read/:bookId`, `/publications`, `/community`, `/shop`, `/account`, `/admin`.
+
+## Schools and programs
+
+Do not add Schools to the six-tab bar. They live under Learn.
+
+| Entity | Meaning | Enrol? |
+| --- | --- | --- |
+| School | Named house (Foundation School). Holds one ordered curriculum. | No |
+| Program | A year-bearing offering of that curriculum (Academic Year or Intensive). | Yes |
+| Course | A reusable unit (one first principle, or a standalone course). | Yes, also via program |
+| Path | A short sequence of courses. Not a school year. | No (courses inside it) |
+
+One curriculum, two cadences:
+
+- **Academic Year** — 52 weeks, the six principles divided across the year (~8–9 weeks each), modest weekly hours.
+- **One-Year Intensive** — the same 52 weeks and the same six courses, denser weekly labour. Not a second syllabus.
+
+A leaflet or book (Aletheia Libraries 1) is a **Book** resource attached to lessons. It is not a third copy of the school.
+
+A **Product** may later point at a Program. Access remains an Entitlement. Tuition is not a flag on the school record.
+
+A school may later have a Community board, created by an administrator, still under Community — not a new tab.
 
 ## Phasing
 

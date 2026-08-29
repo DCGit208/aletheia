@@ -1,5 +1,14 @@
 import { BRAND } from "@/lib/brand";
 import type { CatalogSnapshot } from "@/lib/data/types";
+import {
+  foundationBooks,
+  foundationChapters,
+  foundationCourses,
+  foundationLessons,
+  foundationModules,
+  foundationPrograms,
+  foundationSchools,
+} from "@/lib/data/foundation-school";
 
 const achu = { id: "author-achu", displayName: "Dr. Coach Achu Gustave" };
 const faculty = { id: "author-faculty", displayName: "Aletheia Faculty" };
@@ -18,6 +27,7 @@ export const catalog: CatalogSnapshot = {
         "book-real-man-ai",
         "book-parables-hidden-treasure",
         "book-great-deception",
+        "book-aletheia-libraries-1",
         "article-unveiled-speech",
         "article-steward-city",
       ],
@@ -27,9 +37,20 @@ export const catalog: CatalogSnapshot = {
         "book-real-man-ai",
         "book-parables-hidden-treasure",
         "book-great-deception",
+        "book-aletheia-libraries-1",
       ],
       articleIds: ["article-unveiled-speech", "article-steward-city"],
-      courseIds: ["course-truth", "course-identity", "course-dominion"],
+      courseIds: [
+        "course-truth",
+        "course-identity",
+        "course-dominion",
+        "course-fs-repentance",
+        "course-fs-faith",
+        "course-fs-baptisms",
+        "course-fs-hands",
+        "course-fs-resurrection",
+        "course-fs-judgment",
+      ],
     },
     {
       id: faculty.id,
@@ -153,6 +174,7 @@ export const catalog: CatalogSnapshot = {
       productId: "product-great-deception",
       chapterCount: 1,
     },
+    ...foundationBooks,
   ],
   chapters: [
     {
@@ -220,6 +242,7 @@ A people that will not receive the truth does not become empty. It becomes occup
 
 The cover is published. The full study will enter this reader next.`,
     },
+    ...foundationChapters,
   ],
   courses: [
     {
@@ -283,6 +306,7 @@ The cover is published. The full study will enter this reader next.`,
       moduleCount: 2,
       lessonCount: 3,
     },
+    ...foundationCourses,
   ],
   paths: [
     {
@@ -303,6 +327,7 @@ The cover is published. The full study will enter this reader next.`,
     { id: "mod-id-2", courseId: "course-identity", number: 2, title: "Called", description: "Vocation without display." },
     { id: "mod-dom-1", courseId: "course-dominion", number: 1, title: "Charge", description: "Keep, cultivate, answer." },
     { id: "mod-dom-2", courseId: "course-dominion", number: 2, title: "Audit", description: "Power that can be reviewed." },
+    ...foundationModules,
   ],
   lessons: [
     {
@@ -405,6 +430,7 @@ The cover is published. The full study will enter this reader next.`,
       resourceIds: ["book-beyond-ai-man"],
       body: "Study how Aletheia separates content, product, order, and entitlement. Design the same separation for one ministry or enterprise you know.",
     },
+    ...foundationLessons,
   ],
   journals: [
     {
@@ -655,11 +681,13 @@ The cover is published. The full study will enter this reader next.`,
       coverImage: "/covers/real-man-age-of-ai.jpg",
     },
   ],
+  schools: foundationSchools,
+  programs: foundationPrograms,
   announcements: [
     {
       id: "ann-foundation",
-      title: "The books are in the house",
-      body: "Beyond AI — Man, The Doctrine of Man, The Real Man in the Age of AI, The Parables of the Hidden Treasure, and The Great Deception are now in Publications and Shop with their published covers. Full manuscripts enter the reader next.",
+      title: "Foundation School is open",
+      body: "Principles of the Doctrine of Christ — Aletheia Libraries 1 — now occupies a year in Learn. Enrol in the Academic Year or the One-Year Intensive. The six first principles are one curriculum, two cadences.",
       publishedAt: "2026-08-28",
       status: "published",
       important: true,
@@ -686,5 +714,6 @@ The cover is published. The full study will enter this reader next.`,
     announcementIds: ["ann-foundation", "ann-journal"],
     featuredProductIds: ["product-foundations-bundle", "product-doctrine-of-man", "product-real-man-ai"],
     featuredTopicIds: ["topic-attention", "topic-city"],
+    featuredSchoolIds: ["school-foundation"],
   },
 };

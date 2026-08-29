@@ -13,6 +13,8 @@ import type {
   LearningPath,
   Lesson,
   Product,
+  Program,
+  School,
   SearchResult,
   Topic,
 } from "@/lib/data/types";
@@ -55,6 +57,28 @@ export function listPaths(): LearningPath[] {
 
 export function getPath(id: string) {
   return published(catalog.paths).find((item) => item.id === id) ?? null;
+}
+
+export function listSchools(): School[] {
+  return published(catalog.schools);
+}
+
+export function getSchool(id: string) {
+  return published(catalog.schools).find((item) => item.id === id) ?? null;
+}
+
+export function listPrograms(schoolId?: string): Program[] {
+  return published(catalog.programs).filter((item) => !schoolId || item.schoolId === schoolId);
+}
+
+export function getProgram(id: string) {
+  return published(catalog.programs).find((item) => item.id === id) ?? null;
+}
+
+export function listSchoolCourses(schoolId: string): Course[] {
+  const school = getSchool(schoolId);
+  if (!school) return [];
+  return school.courseIds.map((id) => getCourse(id)).filter((item): item is Course => Boolean(item));
 }
 
 export function listModules(courseId: string): CourseModule[] {
@@ -171,6 +195,16 @@ export function searchCatalog(term: string, kind?: ContentKind): SearchResult[] 
   for (const course of published(catalog.courses)) {
     if (`${course.title} ${course.subtitle ?? ""} ${course.description}`.toLowerCase().includes(q)) {
       push({ id: course.id, kind: "course", title: course.title, subtitle: course.subtitle, href: `/learn/courses/${course.id}` });
+    }
+  }
+  for (const school of published(catalog.schools)) {
+    if (`${school.title} ${school.subtitle ?? ""} ${school.description}`.toLowerCase().includes(q)) {
+      push({ id: school.id, kind: "school", title: school.title, subtitle: school.subtitle, href: `/learn/schools/${school.id}` });
+    }
+  }
+  for (const program of published(catalog.programs)) {
+    if (`${program.title} ${program.subtitle ?? ""} ${program.description}`.toLowerCase().includes(q)) {
+      push({ id: program.id, kind: "program", title: program.title, subtitle: program.subtitle, href: `/learn/programs/${program.id}` });
     }
   }
   for (const path of published(catalog.paths)) {

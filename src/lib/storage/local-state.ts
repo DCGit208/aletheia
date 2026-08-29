@@ -1,4 +1,4 @@
-import type { Bookmark, Enrollment, Entitlement, Order, ReadingProgress } from "@/lib/data/types";
+import type { Bookmark, Enrollment, Entitlement, Order, ProgramEnrollment, ReadingProgress } from "@/lib/data/types";
 
 const prefix = "aletheia";
 
@@ -30,6 +30,14 @@ export function loadEnrollments(userId: string): Enrollment[] {
 
 export function saveEnrollments(userId: string, items: Enrollment[]) {
   write(`enrollments.${userId}`, items);
+}
+
+export function loadProgramEnrollments(userId: string): ProgramEnrollment[] {
+  return read<ProgramEnrollment[]>(`programEnrollments.${userId}`, []);
+}
+
+export function saveProgramEnrollments(userId: string, items: ProgramEnrollment[]) {
+  write(`programEnrollments.${userId}`, items);
 }
 
 export function loadOrders(userId: string): Order[] {

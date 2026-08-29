@@ -35,10 +35,13 @@ export const ENTITLEMENT_SOURCES = [
 ] as const;
 export type EntitlementSource = (typeof ENTITLEMENT_SOURCES)[number];
 
-export const PRODUCT_KINDS = ["book", "course", "publication", "resource", "bundle"] as const;
+export const PRODUCT_KINDS = ["book", "course", "publication", "resource", "bundle", "program"] as const;
 export type ProductKind = (typeof PRODUCT_KINDS)[number];
 
-export type ContentKind = "course" | "path" | "book" | "journal" | "article" | "community" | "topic" | "product";
+export const PROGRAM_KINDS = ["academic_year", "intensive"] as const;
+export type ProgramKind = (typeof PROGRAM_KINDS)[number];
+
+export type ContentKind = "course" | "path" | "book" | "journal" | "article" | "community" | "topic" | "product" | "school" | "program";
 
 export interface AuthorRef {
   id: string;
@@ -117,6 +120,35 @@ export interface LearningPath {
   coverTone: string;
   status: ContentStatus;
   estimatedHours: number;
+}
+
+export interface School {
+  id: string;
+  title: string;
+  subtitle?: string;
+  description: string;
+  coverTone: string;
+  coverImage?: string;
+  status: ContentStatus;
+  courseIds: string[];
+  programIds: string[];
+  resourceBookIds: string[];
+}
+
+export interface Program {
+  id: string;
+  schoolId: string;
+  title: string;
+  subtitle?: string;
+  description: string;
+  kind: ProgramKind;
+  durationWeeks: number;
+  hoursPerWeek: number;
+  unitWeeks: number[];
+  accessLevel: AccessLevel;
+  status: ContentStatus;
+  productId?: string;
+  certificateEligible: boolean;
 }
 
 export interface CourseModule {
@@ -241,7 +273,7 @@ export interface Announcement {
 export interface Entitlement {
   id: string;
   userId: string;
-  contentKind: "book" | "course" | "journal" | "article";
+  contentKind: "book" | "course" | "journal" | "article" | "program";
   contentId: string;
   source: EntitlementSource;
   grantedAt: string;
@@ -253,6 +285,14 @@ export interface Enrollment {
   courseId: string;
   startedAt: string;
   completedLessonIds: string[];
+}
+
+export interface ProgramEnrollment {
+  id: string;
+  userId: string;
+  schoolId: string;
+  programId: string;
+  startedAt: string;
 }
 
 export interface ReadingProgress {
@@ -289,6 +329,7 @@ export interface HomeComposition {
   announcementIds: string[];
   featuredProductIds: string[];
   featuredTopicIds: string[];
+  featuredSchoolIds: string[];
 }
 
 export interface SearchResult {
@@ -315,6 +356,8 @@ export interface CatalogSnapshot {
   topics: Topic[];
   posts: Post[];
   products: Product[];
+  schools: School[];
+  programs: Program[];
   announcements: Announcement[];
   home: HomeComposition;
 }

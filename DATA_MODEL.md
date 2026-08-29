@@ -12,7 +12,9 @@ Conceptual entities are not all top-level collections. The live map:
 | `books` | Unified book entity |
 | `bookChapters` | Chapter bodies, keyed independently for pagination |
 | `courses` | Course metadata |
-| `learningPaths` | Ordered course lists |
+| `learningPaths` | Ordered course lists (light sequences) |
+| `schools` | Houses of study inside Learn |
+| `programs` | Enrolable cadences of a school's curriculum |
 | `modules` | Course modules |
 | `lessons` | Lesson bodies |
 | `journals` | Journal metadata |
@@ -31,9 +33,9 @@ Conceptual entities are not all top-level collections. The live map:
 
 ## User subcollections (`usersPrivate/{uid}/…`)
 
-`entitlements`, `enrollments`, `readingProgress`, `bookmarks`, `orders`, `notifications`
+`entitlements`, `enrollments`, `programEnrollments`, `readingProgress`, `bookmarks`, `orders`, `notifications`
 
-Orders and purchase entitlements are written by trusted backend after verification. Clients may create **enrollment** entitlements only for published public/free courses.
+Orders and purchase entitlements are written by trusted backend after verification. Clients may create **enrollment** entitlements only for published public/free courses **or programs**.
 
 ## Content lifecycle
 

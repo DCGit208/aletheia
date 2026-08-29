@@ -31,7 +31,7 @@ service cloud.firestore {
     // usersPrivate/{uid}/orders/{id}
     //   Client create denied. Written by trusted backend after payment verify.
     //
-    // books, courses, learningPaths, journals, journalIssues, articles,
+    // books, courses, learningPaths, schools, programs, journals, journalIssues, articles,
     // communities, boards, topics, products, announcements, authors
     //   status: draft|review|published|archived
     //   Privileged writes: administrator claim only.
@@ -188,11 +188,18 @@ service cloud.firestore {
           || (isOwner(userId)
             && request.resource.data.userId == userId
             && request.resource.data.source == 'enrollment'
-            && request.resource.data.contentKind == 'course'
+            && request.resource.data.contentKind in ['course', 'program']
             && request.resource.data.contentId is string
-            && exists(/databases/$(database)/documents/courses/$(request.resource.data.contentId))
-            && get(/databases/$(database)/documents/courses/$(request.resource.data.contentId)).data.accessLevel in ['public', 'free']
-            && get(/databases/$(database)/documents/courses/$(request.resource.data.contentId)).data.status == 'published');
+            && (
+              (request.resource.data.contentKind == 'course'
+                && exists(/databases/$(database)/documents/courses/$(request.resource.data.contentId))
+                && get(/databases/$(database)/documents/courses/$(request.resource.data.contentId)).data.accessLevel in ['public', 'free']
+                && get(/databases/$(database)/documents/courses/$(request.resource.data.contentId)).data.status == 'published')
+              || (request.resource.data.contentKind == 'program'
+                && exists(/databases/$(database)/documents/programs/$(request.resource.data.contentId))
+                && get(/databases/$(database)/documents/programs/$(request.resource.data.contentId)).data.accessLevel in ['public', 'free']
+                && get(/databases/$(database)/documents/programs/$(request.resource.data.contentId)).data.status == 'published')
+            ));
         allow update, delete: if isAdmin();
       }
 
@@ -200,6 +207,18 @@ service cloud.firestore {
         allow read: if isOwner(userId) || isAdmin();
         allow create, update: if isOwner(userId) && isValidEnrollment(request.resource.data, userId);
         allow delete: if isAdmin();
+      }
+
+      match /programEnrollments/{id} {
+        allow read: if isOwner(userId) || isAdmin();
+        allow create: if isOwner(userId)
+          && request.resource.data.userId == userId
+          && request.resource.data.programId is string
+          && request.resource.data.schoolId is string
+          && exists(/databases/$(database)/documents/programs/$(request.resource.data.programId))
+          && get(/databases/$(database)/documents/programs/$(request.resource.data.programId)).data.status == 'published'
+          && get(/databases/$(database)/documents/programs/$(request.resource.data.programId)).data.accessLevel in ['public', 'free'];
+        allow update, delete: if isAdmin();
       }
 
       match /readingProgress/{bookId} {
@@ -254,6 +273,16 @@ service cloud.firestore {
     }
 
     match /learningPaths/{id} {
+      allow read: if publishedOnly() || isAdmin();
+      allow write: if isAdmin();
+    }
+
+    match /schools/{id} {
+      allow read: if publishedOnly() || isAdmin();
+      allow write: if isAdmin();
+    }
+
+    match /programs/{id} {
       allow read: if publishedOnly() || isAdmin();
       allow write: if isAdmin();
     }

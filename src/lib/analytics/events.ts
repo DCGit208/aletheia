@@ -1,5 +1,6 @@
 export type AnalyticsEvent =
   | { name: "course_enroll"; courseId: string }
+  | { name: "program_enroll"; programId: string }
   | { name: "lesson_complete"; lessonId: string; courseId: string }
   | { name: "book_open"; bookId: string }
   | { name: "reading_progress"; bookId: string; percent: number }
