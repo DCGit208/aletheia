@@ -2,20 +2,24 @@
 
 ## Current status
 
-The CLI in this environment is **not authenticated** and no live project is attached. The app therefore boots in **local foundation mode**: structured catalog data and local sessions. This is a fallback, not a second product.
+Signed-in deploy account: the Google account used with the Firebase CLI.
 
-Intended project host: `aletheia.web.app` (same app as `app.aletheiaworld.org`).
+| Host | Project | Status |
+| --- | --- | --- |
+| [aletheia-world.web.app](https://aletheia-world.web.app) | `aletheia-world` | This is the project we can deploy. Classic Hosting. |
+| [aletheia.web.app](https://aletheia.web.app) | `aletheia` | Project exists. This Google account is **not a member**, so we cannot upload there. |
 
-`.firebaserc` defaults to project id `aletheia`. Confirm or replace that id before deploy.
+`.firebaserc` defaults to `aletheia-world`. To put the same app on `aletheia.web.app`, add this Google account as Owner on project `aletheia` in the Firebase console, then switch the default project id.
 
-## Connect a live project
+Without the public web config the app boots in **local foundation mode**: structured catalog and device-local sessions.
 
-1. Provide an existing Firebase project id (preferred) or create one.
-2. Register a Web app. Copy the public config into `.env.local` using `.env.example`.
-3. Enable Email/Password authentication.
-4. Create a Firestore Standard database and Cloud Storage bucket.
-5. Deploy rules: `npx -y firebase-tools@latest deploy --only firestore:rules,storage`
-6. Set the first administrator with a custom claim — never a hidden UI flag:
+## Connect Auth / Firestore (later)
+
+1. Enable Email/Password authentication on `aletheia-world`.
+2. Create a Firestore Standard database and Cloud Storage bucket.
+3. Copy the public web config into `.env.local` from `.env.example`.
+4. Deploy rules: `npx -y firebase-tools@latest deploy --only firestore:rules,storage`
+5. Set the first administrator with a custom claim — never a hidden UI flag:
 
 ```js
 await admin.auth().setCustomUserClaims(uid, { aletheiaRole: "administrator" });
@@ -36,15 +40,11 @@ Public Firebase values may live in the client. Service-account keys, payment sec
 
 ## Hosting
 
-`aletheia.web.app` is the default Classic Hosting URL for project id `aletheia`. **Site Not Found** there means the project exists and nothing has been uploaded yet — not a broken domain.
-
-Deploy the app:
-
 ```bash
 npm run deploy:hosting
 ```
 
-That builds a static export into `out/` (`FIREBASE_HOSTING=1`) and deploys Classic Hosting. The CLI must be signed in as an owner or editor of project `aletheia`.
+That builds a static export into `out/` (`FIREBASE_HOSTING=1`) and deploys Classic Hosting to the active project.
 
 Firebase App Hosting remains the later path if a server is required. Do not stand up a second codebase for the branded domain.
 

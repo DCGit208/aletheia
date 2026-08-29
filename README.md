@@ -5,7 +5,8 @@ Aletheia is the digital platform of **Aletheia World**.
 It is one Progressive Web Application for learning, publication, reading, community, and commerce — not a set of disconnected sites.
 
 - Master brand: Aletheia World — [aletheiaworld.org](https://aletheiaworld.org)
-- Platform hosts: [aletheia.web.app](https://aletheia.web.app) and later [app.aletheiaworld.org](https://app.aletheiaworld.org) (same app)
+- Live host: [aletheia-world.web.app](https://aletheia-world.web.app)
+- Intended hosts: [aletheia.web.app](https://aletheia.web.app) and later [app.aletheiaworld.org](https://app.aletheiaworld.org) (same app; `aletheia.web.app` needs access to project `aletheia`)
 - Imprint: Aletheia Publications
 - Positioning: Truth · Identity · Dominion
 
