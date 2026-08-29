@@ -326,7 +326,7 @@ export const foundationCourses: Course[] = [
     "Three essential baptisms among seven in Scripture. Only baptism into Christ saves the soul. Water is the figure after salvation. The Spirit is witness of the son. Read Chapter 4, then walk the sixteen lessons.",
     16,
     3,
-    750,
+    1215,
   ),
   course(
     "course-fs-hands",
@@ -335,7 +335,7 @@ export const foundationCourses: Course[] = [
     "Nine biblical occasions. Resultant, not a substitute for the foundation. Read Chapter 5, then walk the twelve lessons.",
     12,
     3,
-    560,
+    915,
   ),
   course(
     "course-fs-resurrection",
