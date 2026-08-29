@@ -46,6 +46,14 @@ export default function SchoolPage() {
         </div>
       </section>
 
+      {school.id === "school-foundation" ? (
+        <p className="mt-6">
+          <Link href="/learn/exams/exam-fs-final" className="text-sm text-primary hover:underline">
+            Week 52 final — the six stones
+          </Link>
+        </p>
+      ) : null}
+
       <section className="mt-8">
         <SectionHeader title="Curriculum" />
         <ol className="overflow-hidden rounded-2xl bg-card">

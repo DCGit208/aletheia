@@ -1,12 +1,16 @@
 import { baptismsLessons, baptismsModules } from "@/lib/content/course-baptisms";
 import { faithLessons, faithModules } from "@/lib/content/course-faith";
 import { handsLessons, handsModules } from "@/lib/content/course-hands";
+import { judgmentLessons, judgmentModules } from "@/lib/content/course-judgment";
 import { repentanceLessons, repentanceModules } from "@/lib/content/course-repentance";
+import { resurrectionLessons, resurrectionModules } from "@/lib/content/course-resurrection";
 import { textbookChapter1Body, textbookChapter1Title } from "@/lib/content/textbook-ch1";
 import { textbookChapter2Body, textbookChapter2Title } from "@/lib/content/textbook-ch2";
 import { textbookChapter3Body, textbookChapter3Title } from "@/lib/content/textbook-ch3";
 import { textbookChapter4Body, textbookChapter4Title } from "@/lib/content/textbook-ch4";
 import { textbookChapter5Body, textbookChapter5Title } from "@/lib/content/textbook-ch5";
+import { textbookChapter6Body, textbookChapter6Title } from "@/lib/content/textbook-ch6";
+import { textbookChapter7Body, textbookChapter7Title } from "@/lib/content/textbook-ch7";
 import type { Book, BookChapter, Course, CourseModule, Lesson, Program, School } from "@/lib/data/types";
 
 const achu = { id: "author-achu", displayName: "Dr. Coach Achu Gustave" };
@@ -46,11 +50,7 @@ function course(
     accessLevel: "free",
     learningPathIds: [],
     prerequisiteCourseIds: [],
-    certificateEligible:
-      id === "course-fs-repentance" ||
-      id === "course-fs-faith" ||
-      id === "course-fs-baptisms" ||
-      id === "course-fs-hands",
+    certificateEligible: true,
     moduleCount,
     lessonCount,
   };
@@ -110,20 +110,20 @@ export const foundationBooks: Book[] = [
     title: "The Principles of the Doctrine of Christ",
     subtitle: "Foundations for Christian Understanding & Maturity",
     description:
-      "The Foundation School textbook. Chapters 1–5 are written. Chapters 6–7 follow with Courses 5–6. Aletheia Publications. Truth · Knowledge · Maturity.",
+      "The Foundation School textbook. Seven chapters: the oracles, the six first principles, chronology, and eternal judgment. Aletheia Publications. Truth · Knowledge · Maturity.",
     authors: [achu],
     contributors: [],
     publisher: "Aletheia Publications",
     publishedAt: "2026-08-29",
     language: "en",
-    edition: "First — in progress",
+    edition: "First",
     categories: ["Truth", "Formation"],
     tags: ["hebrews", "foundation", "first-principles", "textbook"],
     coverTone: "ink",
     coverImage: "/covers/principles-doctrine-christ.jpg",
     status: "published",
     accessLevel: "free",
-    previewChapterIds: ["ch-pdc-1", "ch-pdc-2", "ch-pdc-3", "ch-pdc-4", "ch-pdc-5"],
+    previewChapterIds: ["ch-pdc-1", "ch-pdc-2", "ch-pdc-3", "ch-pdc-4", "ch-pdc-5", "ch-pdc-6", "ch-pdc-7"],
     productId: "product-principles-doctrine-christ",
     chapterCount: 7,
   },
@@ -148,14 +148,6 @@ export const foundationBooks: Book[] = [
     chapterCount: 7,
   },
 ];
-
-const forthcoming = (number: number, title: string, courseName: string): BookChapter => ({
-  id: `ch-pdc-${number}`,
-  bookId: textbook,
-  number,
-  title,
-  body: `${title} will be written with ${courseName}. The six principles stay in Hebrews’ order. This chapter is not yet the expanded teaching.`,
-});
 
 export const foundationChapters: BookChapter[] = [
   {
@@ -193,8 +185,20 @@ export const foundationChapters: BookChapter[] = [
     title: textbookChapter5Title,
     body: textbookChapter5Body,
   },
-  forthcoming(6, "Resurrection of the Dead", "Course 5"),
-  forthcoming(7, "Eternal Judgment", "Course 6"),
+  {
+    id: "ch-pdc-6",
+    bookId: textbook,
+    number: 6,
+    title: textbookChapter6Title,
+    body: textbookChapter6Body,
+  },
+  {
+    id: "ch-pdc-7",
+    bookId: textbook,
+    number: 7,
+    title: textbookChapter7Title,
+    body: textbookChapter7Body,
+  },
   {
     id: "ch-lib1-intro",
     bookId: leaflet,
@@ -340,16 +344,20 @@ export const foundationCourses: Course[] = [
   course(
     "course-fs-resurrection",
     "Resurrection of the Dead",
-    "Hebrews 6:2",
-    "Spiritual resurrection now; material resurrection of the body. Christ the firstfruits.",
-    2,
+    "Hebrews 6:2 · 9 weeks · 18 lessons",
+    "Two kinds. Two bodily issues a thousand years apart. Five companies in the first resurrection. Rapture 2 is not the second advent. Read Chapter 6, then walk the eighteen lessons.",
+    18,
+    3,
+    1365,
   ),
   course(
     "course-fs-judgment",
     "Eternal Judgment",
-    "Hebrews 6:2",
-    "The book of life, kinds of death, and the prisons of the underworld — studied, not sloganized.",
-    2,
+    "Hebrews 6:2 · 9 weeks · 15 lessons",
+    "Eternal punishment, the book of life, three deaths, and five prisons — none of them the grave. Read Chapter 7, then walk the fifteen lessons. Week 52 integrates the year.",
+    15,
+    3,
+    1140,
   ),
 ];
 
@@ -358,60 +366,15 @@ export const foundationModules: CourseModule[] = [
   ...faithModules,
   ...baptismsModules,
   ...handsModules,
-  ...principleIds.slice(4).map((courseId, index) => ({
-    id: `mod-fs-${index + 5}`,
-    courseId,
-    number: 1,
-    title: "Study",
-    description: "Read the leaflet chapter. Then write what you will practice. Full lessons follow when that course is written.",
-  })),
+  ...resurrectionModules,
+  ...judgmentModules,
 ];
-
-const lessonPairs: { courseId: (typeof principleIds)[number]; chapterId: string; read: string; write: string }[] = [
-  {
-    courseId: "course-fs-resurrection",
-    chapterId: "ch-lib1-resurrection",
-    read: "Separate spiritual resurrection from material resurrection. Why can new birth not be postponed past this life?",
-    write: "Write a short public paragraph on 1 Corinthians 15:20–23 that a babe could follow.",
-  },
-  {
-    courseId: "course-fs-judgment",
-    chapterId: "ch-lib1-judgment",
-    read: "Read eternal judgment. Distinguish the three deaths and the five prisons named in the leaflet.",
-    write: "What would it cost you to speak of judgment without spectacle and without denial?",
-  },
-];
-
-const laterLessons: Lesson[] = lessonPairs.flatMap((pair, index) => {
-  const moduleId = `mod-fs-${index + 5}`;
-  return [
-    {
-      id: `les-fs-${index + 5}a`,
-      courseId: pair.courseId,
-      moduleId,
-      number: 1,
-      title: "Read",
-      durationMinutes: 40,
-      resourceIds: [leaflet, textbook],
-      body: pair.read,
-    },
-    {
-      id: `les-fs-${index + 5}b`,
-      courseId: pair.courseId,
-      moduleId,
-      number: 2,
-      title: "Write",
-      durationMinutes: 35,
-      resourceIds: [leaflet, textbook],
-      body: pair.write,
-    },
-  ];
-});
 
 export const foundationLessons: Lesson[] = [
   ...repentanceLessons,
   ...faithLessons,
   ...baptismsLessons,
   ...handsLessons,
-  ...laterLessons,
+  ...resurrectionLessons,
+  ...judgmentLessons,
 ];

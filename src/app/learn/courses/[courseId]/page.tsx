@@ -7,6 +7,7 @@ import { EmptyState } from "@/components/content/query-state";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { canAccessContent } from "@/lib/access/entitlements";
+import { getExamForCourse } from "@/lib/content/exams";
 import { getCourse, getProductForContent, listLessons, listModules } from "@/lib/data/repository";
 import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";
@@ -25,6 +26,7 @@ export default function CourseDetailPage() {
   const lessons = listLessons(course.id);
   const enrollment = enrollments.find((item) => item.courseId === course.id);
   const product = getProductForContent(course.id);
+  const exam = getExamForCourse(course.id);
   const allowed = canAccessContent({
     accessLevel: course.accessLevel,
     preview: false,
@@ -95,6 +97,13 @@ export default function CourseDetailPage() {
             </li>
           ))}
         </ol>
+        {exam ? (
+          <p className="mt-10">
+            <Link href={`/learn/exams/${exam.id}`} className="text-sm text-primary hover:underline">
+              Course examination — written charges
+            </Link>
+          </p>
+        ) : null}
       </div>
     </article>
   );

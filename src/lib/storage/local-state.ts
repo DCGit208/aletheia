@@ -71,3 +71,11 @@ export function loadCart(): string[] {
 export function saveCart(productIds: string[]) {
   write("cart", productIds);
 }
+
+export function loadExamAnswers(userId: string, examId: string): Record<string, string> {
+  return read<Record<string, string>>(`exam.${userId}.${examId}`, {});
+}
+
+export function saveExamAnswers(userId: string, examId: string, answers: Record<string, string>) {
+  write(`exam.${userId}.${examId}`, answers);
+}
