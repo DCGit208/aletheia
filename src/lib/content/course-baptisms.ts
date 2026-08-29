@@ -538,7 +538,7 @@ What you must not let 3:27 mean if 3:26 is true: that water is the saviour of th
 
 Definitively, faith in Christ Jesus saves the soul, not water baptism. That is the leaflet’s line, and 3:26 is the verse it prints for that line. 1 Corinthians 1:17-24 has already named the cross as power. 1 Peter 3:21 has already refused the filth of the flesh as the saving. This lesson is the lock: children by faith; baptized into Christ; put on Christ. One paragraph. One life.
 
-Course 2 forbade two gospels. A gospel of faith-without-putting-on is another gospel than this cluster. A gospel of 3:27-as-font is another gospel than this cluster. Ye are all the children of God by faith in Christ Jesus — that name is not earned at a tank. As many of you as have been baptized into Christ have put on Christ — that putting-on is not optional decoration on a faith that never received Him. Hold both. A babe can follow if you will not split them.
+Course 2 forbade two gospels. Faith without putting-on is not this cluster. 3:27 as a font that saves is not this cluster. Ye are all the children of God by faith in Christ Jesus — that name is not earned at a tank. As many of you as have been baptized into Christ have put on Christ — that putting-on is not optional decoration on a faith that never received Him. Hold both. A babe can follow if you will not split them.
 
 E4 with E2: the cross is power; children by faith; baptized into Christ. The font is not the saviour of 3:27. The figure remains after one is saved. Write one paragraph a babe can follow. Then write what you must not let 3:27 mean if 3:26 is true. Then write what you must not let 3:26 mean if 3:27 is true.
 

@@ -308,7 +308,7 @@ export const foundationCourses: Course[] = [
     "Metanoia: a change of mind over sin and its cause, not only its consequence. Christ is the way out of dead works. Read Chapters 1–2, then walk the seventeen lessons.",
     17,
     3,
-    800,
+    1290,
   ),
   course(
     "course-fs-faith",
@@ -317,7 +317,7 @@ export const foundationCourses: Course[] = [
     "Pistis as credence that defines sons. Image, likeness, free justification, and the heir. Read Chapter 3, then walk the seventeen lessons.",
     17,
     3,
-    800,
+    1290,
   ),
   course(
     "course-fs-baptisms",
