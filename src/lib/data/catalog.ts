@@ -1,3 +1,5 @@
+import { genesis1Body, genesis1Verses } from "@/lib/content/genesis-1";
+import { MAKER_BIBLE_CHAPTER_ID, MAKER_BIBLE_ID, MAKER_BIBLE_POSITIONING, MAKER_BIBLE_PRODUCT_ID } from "@/lib/content/maker-bible";
 import { BRAND } from "@/lib/brand";
 import type { CatalogSnapshot } from "@/lib/data/types";
 import {
@@ -23,6 +25,7 @@ export const catalog: CatalogSnapshot = {
       biography:
         "Dr. Coach Achu Gustave writes and publishes under Aletheia Publications. The work is ordered toward truth, identity, and dominion — a higher humanity, not a louder feed.",
       publicationIds: [
+        "book-maker-bible",
         "book-beyond-ai-man",
         "book-doctrine-of-man",
         "book-real-man-ai",
@@ -34,6 +37,7 @@ export const catalog: CatalogSnapshot = {
         "article-steward-city",
       ],
       bookIds: [
+        "book-maker-bible",
         "book-beyond-ai-man",
         "book-doctrine-of-man",
         "book-real-man-ai",
@@ -67,6 +71,27 @@ export const catalog: CatalogSnapshot = {
     },
   ],
   books: [
+    {
+      id: MAKER_BIBLE_ID,
+      title: "MAKER BIBLE",
+      subtitle: "Lordship Edition",
+      description: MAKER_BIBLE_POSITIONING,
+      authors: [achu],
+      contributors: [],
+      publisher: BRAND.publications,
+      publishedAt: "2026-09-01",
+      language: "en",
+      edition: "Lordship",
+      categories: ["Truth", "Dominion"],
+      tags: ["bible", "kjv", "maker", "genesis", "lordship", "dominion"],
+      coverTone: "gold",
+      coverImage: "/covers/maker-bible-lordship.jpg",
+      status: "published",
+      accessLevel: "entitled",
+      previewChapterIds: [MAKER_BIBLE_CHAPTER_ID],
+      productId: MAKER_BIBLE_PRODUCT_ID,
+      chapterCount: 1,
+    },
     {
       id: "book-beyond-ai-man",
       title: "Beyond AI — Man",
@@ -180,6 +205,14 @@ export const catalog: CatalogSnapshot = {
     ...foundationBooks,
   ],
   chapters: [
+    {
+      id: MAKER_BIBLE_CHAPTER_ID,
+      bookId: MAKER_BIBLE_ID,
+      number: 1,
+      title: "Genesis 1",
+      body: genesis1Body,
+      verses: genesis1Verses,
+    },
     {
       id: "ch-beyond-1",
       bookId: "book-beyond-ai-man",
@@ -598,6 +631,18 @@ The cover is published. The full study will enter this reader next.`,
   ],
   products: [
     {
+      id: MAKER_BIBLE_PRODUCT_ID,
+      title: "MAKER BIBLE — Lordship Edition",
+      description: MAKER_BIBLE_POSITIONING,
+      kind: "book",
+      contentId: MAKER_BIBLE_ID,
+      priceCents: 10000,
+      currency: "USD",
+      status: "published",
+      coverTone: "gold",
+      coverImage: "/covers/maker-bible-lordship.jpg",
+    },
+    {
       id: "product-foundation-year",
       title: "Foundation School — The Walk",
       description:
@@ -816,6 +861,7 @@ The cover is published. The full study will enter this reader next.`,
   home: {
     featuredCourseIds: ["course-truth", "course-identity", "course-dominion"],
     featuredBookIds: [
+      "book-maker-bible",
       "book-doctrine-of-man",
       "book-real-man-ai",
       "book-beyond-ai-man",
@@ -824,7 +870,12 @@ The cover is published. The full study will enter this reader next.`,
     ],
     featuredJournalIds: ["journal-aletheia"],
     announcementIds: ["ann-foundation", "ann-journal"],
-    featuredProductIds: ["product-foundation-year", "product-foundation-intensive", "product-foundations-bundle"],
+    featuredProductIds: [
+      "product-maker-bible",
+      "product-foundation-year",
+      "product-foundation-intensive",
+      "product-foundations-bundle",
+    ],
     featuredTopicIds: ["topic-attention", "topic-city"],
     featuredSchoolIds: ["school-foundation"],
   },

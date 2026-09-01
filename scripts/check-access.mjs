@@ -94,4 +94,24 @@ assert.deepEqual(
   ["book", "book"],
 );
 
+const makerTargets = grantTargetsForProduct({
+  kind: "book",
+  contentId: "book-maker-bible",
+});
+assert.deepEqual(makerTargets, [{ contentKind: "book", contentId: "book-maker-bible" }]);
+assert.equal(
+  yearTargets.some((item) => item.contentId === "book-maker-bible"),
+  false,
+);
+assert.equal(
+  canAccessContent({
+    accessLevel: "entitled",
+    preview: true,
+    entitlements: [],
+    contentKind: "book",
+    contentId: "book-maker-bible",
+  }),
+  true,
+);
+
 console.log("access checks passed");

@@ -83,12 +83,19 @@ export interface Book {
   chapterCount: number;
 }
 
+export interface ScriptureVerse {
+  n: number;
+  text: string;
+  commentary?: string;
+}
+
 export interface BookChapter {
   id: string;
   bookId: string;
   number: number;
   title: string;
   body: string;
+  verses?: ScriptureVerse[];
 }
 
 export interface Course {

@@ -141,22 +141,56 @@ export default function ReaderPage() {
       </div>
 
       <article className="mx-auto px-4 py-6">
-        <h1 className="mx-auto mb-8 max-w-[38rem] font-heading text-3xl tracking-wide">{chapter.title}</h1>
-        <div className="reader-prose mx-auto whitespace-pre-line" style={{ ["--reader-size" as string]: `${fontSize}rem` }}>
-          {highlighted.split("\n").map((paragraph, paragraphIndex) => (
-            <p key={paragraphIndex}>
-              {paragraph.split(/(\[\[.*?\]\])/g).map((part, partIndex) =>
-                part.startsWith("[[") ? (
-                  <mark key={partIndex} className="bg-accent">
-                    {part.slice(2, -2)}
-                  </mark>
-                ) : (
-                  <span key={partIndex}>{part}</span>
-                ),
-              )}
-            </p>
-          ))}
-        </div>
+        <h1 className="mx-auto mb-4 max-w-[38rem] font-heading text-3xl tracking-wide">{chapter.title}</h1>
+          {chapter.verses?.length ? (
+            <>
+              <p className="mx-auto mb-8 max-w-[38rem] text-sm tracking-[0.16em] text-[#6a542c] uppercase">
+                King James Version
+              </p>
+              <ol className="reader-prose mx-auto max-w-[38rem] list-none p-0" style={{ ["--reader-size" as string]: `${fontSize}rem` }}>
+                {chapter.verses
+                  .filter(
+                    (verse) =>
+                      !query.trim() ||
+                      `${verse.n} ${verse.text} ${verse.commentary ?? ""}`.toLowerCase().includes(query.trim().toLowerCase()),
+                  )
+                  .map((verse) => (
+                    <li key={verse.n} id={`v${verse.n}`} className="mb-6 scroll-mt-24">
+                      <p>
+                        <sup className="mr-2 font-heading text-sm text-[#6a542c]">{verse.n}</sup>
+                        {verse.text}
+                      </p>
+                      {verse.commentary ? (
+                        <p className="mt-2 border-l-2 border-[#6a542c]/50 pl-3 text-[0.92em] leading-relaxed text-[#4a4033]">
+                          <span className="mr-2 text-[0.62rem] tracking-[0.16em] uppercase">Commentary</span>
+                          {verse.commentary}
+                        </p>
+                      ) : null}
+                    </li>
+                  ))}
+              </ol>
+              <p className="mx-auto mt-12 max-w-[38rem] text-sm leading-relaxed text-[#4a4033]">
+                Genesis 1 is the open sample of MAKER BIBLE — Lordship Edition. The biblical text is Scripture. Notes
+                marked Commentary are editorial, not the text.
+              </p>
+            </>
+          ) : (
+            <div className="reader-prose mx-auto whitespace-pre-line" style={{ ["--reader-size" as string]: `${fontSize}rem` }}>
+              {highlighted.split("\n").map((paragraph, paragraphIndex) => (
+                <p key={paragraphIndex}>
+                  {paragraph.split(/(\[\[.*?\]\])/g).map((part, partIndex) =>
+                    part.startsWith("[[") ? (
+                      <mark key={partIndex} className="bg-accent">
+                        {part.slice(2, -2)}
+                      </mark>
+                    ) : (
+                      <span key={partIndex}>{part}</span>
+                    ),
+                  )}
+                </p>
+              ))}
+            </div>
+          )}
       </article>
 
       <footer className="mx-auto flex max-w-3xl justify-between gap-3 px-4 pt-4 pb-10">

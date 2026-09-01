@@ -75,11 +75,13 @@ export default function ShopPage() {
             image={product.coverImage}
             imageFit={product.kind === "bundle" ? "cover" : "contain"}
             badge={
-              product.id === "product-foundation-year"
-                ? "Walk"
-                : product.id === "product-foundation-intensive"
-                  ? "Intensive"
-                  : product.kind
+              product.id === "product-maker-bible"
+                ? "Bible"
+                : product.id === "product-foundation-year"
+                  ? "Walk"
+                  : product.id === "product-foundation-intensive"
+                    ? "Intensive"
+                    : product.kind
             }
           />
         ))}

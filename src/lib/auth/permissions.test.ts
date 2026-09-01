@@ -1,7 +1,7 @@
 import { describe, it } from "node:test";
 import assert from "node:assert/strict";
 import { hasPermission } from "./permissions";
-import { canAccessContent } from "../access/entitlements";
+import { canAccessContent, grantTargetsForProduct } from "../access/entitlements";
 
 describe("permissions", () => {
   it("does not grant admin from membership", () => {
@@ -53,6 +53,23 @@ describe("entitlements", () => {
         contentId: "book-doctrine-of-man",
       }),
       true,
+    );
+  });
+
+  it("grants only the Maker Bible book from its product", () => {
+    assert.deepEqual(
+      grantTargetsForProduct({
+        id: "product-maker-bible",
+        title: "MAKER BIBLE — Lordship Edition",
+        description: "",
+        kind: "book",
+        contentId: "book-maker-bible",
+        priceCents: 10000,
+        currency: "USD",
+        status: "published",
+        coverTone: "gold",
+      }),
+      [{ contentKind: "book", contentId: "book-maker-bible" }],
     );
   });
 });

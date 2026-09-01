@@ -37,7 +37,7 @@ export function BookDetail({ book, context }: { book: Book; context: "learn" | "
         <h1 className="mt-2 font-heading text-3xl tracking-wide">{book.title}</h1>
         <p className="mt-2 text-muted-foreground">{book.subtitle}</p>
         <p className="mt-4 leading-relaxed">{book.description}</p>
-        {chapters.every((chapter) => chapter.body.trim().length < 2500) ? (
+        {chapters.every((chapter) => !chapter.verses?.length && chapter.body.trim().length < 2500) ? (
           <p className="mt-3 text-sm text-muted-foreground">
             The published cover is shown here. Full chapter text is being prepared for the reader; the thesis is
             open as a preview.

@@ -3,6 +3,8 @@
 import Link from "next/link";
 import { useParams } from "next/navigation";
 import { Cover } from "@/components/content/cover";
+import { MakerBiblePage } from "@/components/maker-bible/maker-bible-page";
+import { MAKER_BIBLE_PRODUCT_ID } from "@/lib/content/maker-bible";
 import { EmptyState } from "@/components/content/query-state";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { grantTargetsForProduct } from "@/lib/access/entitlements";
@@ -45,6 +47,7 @@ export default function ProductPage() {
   const { addToCart, entitlements } = useUserLibrary();
   const product = getProduct(productId);
   if (!product) return <EmptyState title="Product not found." />;
+  if (product.id === MAKER_BIBLE_PRODUCT_ID) return <MakerBiblePage />;
   const targets = grantTargetsForProduct(product);
   const owned =
     targets.length > 0 &&
