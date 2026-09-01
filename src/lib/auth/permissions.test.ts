@@ -64,7 +64,7 @@ describe("entitlements", () => {
         description: "",
         kind: "book",
         contentId: "book-maker-bible",
-        priceCents: 10000,
+        priceCents: 15000,
         currency: "USD",
         status: "published",
         coverTone: "gold",

@@ -15,7 +15,7 @@ Canonical lock for the first ship. Do not paraphrase the central proposition. Do
 - Imprint: Aletheia Publications
 - Author / editorial voice: Dr. Coach Achu Gustave
 - Translation: King James Version
-- SKU: $100 digital. Grants the book record only — not Foundation School, not the companion library.
+- SKU: $150 digital. Grants the book record only — not Foundation School, not the companion library.
 
 ## Positioning (exact)
 
