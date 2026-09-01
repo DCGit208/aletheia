@@ -1,9 +1,13 @@
 "use client";
 
-import { createContext, useContext, useMemo, useSyncExternalStore, type ReactNode } from "react";
+import { createContext, useContext, useEffect, useMemo, useSyncExternalStore, type ReactNode } from "react";
+import { collection, onSnapshot } from "firebase/firestore";
 import { useAuth } from "@/lib/auth/provider";
 import { makeEntitlement, grantTargetsForProduct, holdsEntitlement } from "@/lib/access/entitlements";
-import { getProduct, getProgram, getSchool } from "@/lib/data/repository";
+import { isStripeCheckout } from "@/lib/commerce/mode";
+import { redirectToStripeCheckout } from "@/lib/commerce/stripe-client";
+import { getCourse, getProduct, getProgram, getSchool } from "@/lib/data/repository";
+import { getFirebaseDb } from "@/lib/firebase/client";
 import type { Bookmark, ContentKind, Enrollment, Entitlement, Order, ProgramEnrollment, ReadingProgress } from "@/lib/data/types";
 import {
   loadBookmarks,
@@ -38,7 +42,9 @@ interface UserLibraryValue {
   completeLesson: (courseId: string, lessonId: string) => void;
   addToCart: (productId: string) => void;
   removeFromCart: (productId: string) => void;
+  clearCart: () => void;
   checkout: () => Order | null;
+  pay: () => Promise<Order | null>;
   toggleBookmark: (kind: ContentKind, targetId: string, label: string) => void;
   setReadingProgress: (bookId: string, chapterId: string, percent: number) => void;
 }
@@ -102,6 +108,16 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
   const [progress, setProgress] = usePersisted(`progress.${userId}`, readProgress, writeProgress, EMPTY_PROGRESS);
   const [cart, setCart] = usePersisted("cart", loadCart, saveCart, EMPTY_CART);
 
+  useEffect(() => {
+    if (!user || user.source !== "firebase" || !isStripeCheckout()) return;
+    const db = getFirebaseDb();
+    if (!db) return;
+    const unsubscribe = onSnapshot(collection(db, "usersPrivate", user.uid, "entitlements"), (snap) => {
+      setEntitlements(snap.docs.map((item) => item.data() as Entitlement));
+    });
+    return unsubscribe;
+  }, [setEntitlements, user]);
+
   const value = useMemo<UserLibraryValue>(
     () => ({
       entitlements,
@@ -113,6 +129,10 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
       cart,
       enroll(courseId) {
         if (!user) return;
+        const course = getCourse(courseId);
+        if (!course) return;
+        const paid = course.accessLevel === "entitled" || course.accessLevel === "private";
+        if (paid && !holdsEntitlement(entitlements, "course", courseId)) return;
         const existing = enrollments.find((item) => item.courseId === courseId);
         if (existing) return;
         const next = [
@@ -120,8 +140,9 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
           { id: `${user.uid}:${courseId}`, userId: user.uid, courseId, startedAt: new Date().toISOString(), completedLessonIds: [] },
         ];
         setEnrollments(next);
-        const granted = [...entitlements, makeEntitlement(user.uid, "course", courseId, "enrollment")];
-        setEntitlements(granted);
+        if (!paid && !holdsEntitlement(entitlements, "course", courseId)) {
+          setEntitlements([...entitlements, makeEntitlement(user.uid, "course", courseId, "enrollment")]);
+        }
         track({ name: "course_enroll", courseId });
       },
       enrollInProgram(programId) {
@@ -141,16 +162,6 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
             startedAt: new Date().toISOString(),
           },
         ]);
-        const granted = [...entitlements];
-        if (!granted.some((item) => item.contentKind === "program" && item.contentId === program.id)) {
-          granted.push(makeEntitlement(user.uid, "program", program.id, "enrollment"));
-        }
-        for (const courseId of school.courseIds) {
-          if (!granted.some((item) => item.contentKind === "course" && item.contentId === courseId)) {
-            granted.push(makeEntitlement(user.uid, "course", courseId, "enrollment"));
-          }
-        }
-        setEntitlements(granted);
         track({ name: "program_enroll", programId: program.id });
       },
       completeLesson(courseId, lessonId) {
@@ -170,6 +181,9 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
       },
       removeFromCart(productId) {
         setCart(cart.filter((id) => id !== productId));
+      },
+      clearCart() {
+        setCart([]);
       },
       checkout() {
         if (!user || cart.length === 0) return null;
@@ -223,6 +237,17 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
         setCart([]);
         track({ name: "order_placed", orderId: order.id });
         return order;
+      },
+      async pay() {
+        if (!user || cart.length === 0) return null;
+        if (isStripeCheckout()) {
+          if (user.source !== "firebase") {
+            throw new Error("Card payment requires an Aletheia account created with email, not a local demo session.");
+          }
+          await redirectToStripeCheckout(cart, window.location.origin);
+          return null;
+        }
+        return this.checkout();
       },
       toggleBookmark(kind, targetId, label) {
         if (!user) return;

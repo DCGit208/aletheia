@@ -1,6 +1,7 @@
 import { initializeApp, getApps, type FirebaseApp } from "firebase/app";
 import { getAuth, type Auth } from "firebase/auth";
 import { getFirestore, type Firestore } from "firebase/firestore";
+import { getFunctions, type Functions } from "firebase/functions";
 import { getStorage, type FirebaseStorage } from "firebase/storage";
 import { readFirebaseConfig } from "@/lib/firebase/config";
 
@@ -8,6 +9,7 @@ let app: FirebaseApp | null = null;
 let auth: Auth | null = null;
 let db: Firestore | null = null;
 let storage: FirebaseStorage | null = null;
+let functions: Functions | null = null;
 
 export function getFirebaseApp(): FirebaseApp | null {
   const config = readFirebaseConfig();
@@ -17,6 +19,7 @@ export function getFirebaseApp(): FirebaseApp | null {
     auth = getAuth(app);
     db = getFirestore(app);
     storage = getStorage(app);
+    functions = getFunctions(app, "us-central1");
   }
   return app;
 }
@@ -34,4 +37,9 @@ export function getFirebaseDb(): Firestore | null {
 export function getFirebaseStorage(): FirebaseStorage | null {
   getFirebaseApp();
   return storage;
+}
+
+export function getFirebaseFunctions(): Functions | null {
+  getFirebaseApp();
+  return functions;
 }

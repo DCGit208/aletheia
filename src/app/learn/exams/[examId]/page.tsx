@@ -3,16 +3,20 @@
 import Link from "next/link";
 import { useParams } from "next/navigation";
 import { useMemo, useState } from "react";
-import { EmptyState } from "@/components/content/query-state";
+import { DeniedState, EmptyState } from "@/components/content/query-state";
 import { Button } from "@/components/ui/button";
 import { Textarea } from "@/components/ui/textarea";
+import { canAccessContent, holdsEntitlement } from "@/lib/access/entitlements";
 import { getExam } from "@/lib/content/exams";
+import { getCourse } from "@/lib/data/repository";
 import { useAuth } from "@/lib/auth/provider";
 import { loadExamAnswers, saveExamAnswers } from "@/lib/storage/local-state";
+import { useUserLibrary } from "@/lib/state/user-library";
 
 export default function ExamPage() {
   const { examId } = useParams<{ examId: string }>();
   const { user } = useAuth();
+  const { entitlements } = useUserLibrary();
   const exam = getExam(examId);
   const userId = user?.uid ?? "guest";
 
@@ -21,6 +25,20 @@ export default function ExamPage() {
   const [saved, setSaved] = useState(false);
 
   if (!exam) return <EmptyState title="Examination not found." />;
+
+  const course = exam.courseId ? getCourse(exam.courseId) : null;
+  const allowed = exam.courseId
+    ? canAccessContent({
+        accessLevel: course?.accessLevel ?? "entitled",
+        preview: false,
+        entitlements,
+        contentKind: "course",
+        contentId: exam.courseId,
+      })
+    : holdsEntitlement(entitlements, "program", "program-foundation-year") ||
+      holdsEntitlement(entitlements, "program", "program-foundation-intensive");
+
+  if (!allowed) return <DeniedState />;
 
   return (
     <article className="mx-auto max-w-2xl">

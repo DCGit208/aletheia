@@ -8,7 +8,8 @@ import {
   signOut as firebaseSignOut,
   updateProfile,
 } from "firebase/auth";
-import { getFirebaseAuth } from "@/lib/firebase/client";
+import { doc, getDoc, serverTimestamp, setDoc } from "firebase/firestore";
+import { getFirebaseAuth, getFirebaseDb } from "@/lib/firebase/client";
 import { isFirebaseConfigured } from "@/lib/firebase/config";
 import {
   authenticateLocal,
@@ -57,6 +58,29 @@ if (typeof window !== "undefined" && isFirebaseConfigured()) {
           source: "firebase",
         },
       });
+      void ensurePrivateUser(
+        firebaseUser.uid,
+        firebaseUser.email ?? "",
+        firebaseUser.displayName ?? firebaseUser.email ?? "Member",
+      );
+    });
+  }
+}
+
+async function ensurePrivateUser(uid: string, email: string, displayName: string) {
+  const db = getFirebaseDb();
+  if (!db) return;
+  const privateRef = doc(db, "usersPrivate", uid);
+  const existing = await getDoc(privateRef);
+  if (!existing.exists()) {
+    await setDoc(privateRef, { email, createdAt: serverTimestamp() });
+  }
+  const profileRef = doc(db, "profiles", uid);
+  const profile = await getDoc(profileRef);
+  if (!profile.exists()) {
+    await setDoc(profileRef, {
+      displayName: displayName.slice(0, 80) || "Member",
+      locale: "en",
     });
   }
 }

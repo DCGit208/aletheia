@@ -13,13 +13,14 @@ Signed-in deploy account: the Google account used with the Firebase CLI.
 
 Without the public web config the app boots in **local foundation mode**: structured catalog and device-local sessions.
 
-## Connect Auth / Firestore (later)
+## Connect Auth / Firestore
 
 1. Enable Email/Password authentication on `aletheia-world`.
 2. Create a Firestore Standard database and Cloud Storage bucket.
 3. Copy the public web config into `.env.local` from `.env.example`.
 4. Deploy rules: `npx -y firebase-tools@latest deploy --only firestore:rules,storage`
-5. Set the first administrator with a custom claim — never a hidden UI flag:
+5. For live payments, enable Blaze billing and follow `PAYMENTS.md`.
+6. Set the first administrator with a custom claim — never a hidden UI flag:
 
 ```js
 await admin.auth().setCustomUserClaims(uid, { aletheiaRole: "administrator" });
@@ -35,7 +36,7 @@ Public Firebase values may live in the client. Service-account keys, payment sec
 | Cloud Firestore | Catalog, profiles, private user data, entitlements |
 | Storage | Covers, avatars, private user files |
 | Hosting | Classic Hosting from `out/` after a static export, or App Hosting for Next.js |
-| Cloud Functions (later) | Custom claims, payment verification, search index, FCM |
+| Cloud Functions | Stripe Checkout session + webhook; later custom claims, search, FCM |
 | Cloud Messaging (later) | Push. VAPID key is reserved in env |
 
 ## Hosting

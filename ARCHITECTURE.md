@@ -78,4 +78,6 @@ A school may later have a Community board, created by an administrator, still un
 
 Phase 1 (this commit): foundation + a coherent discovery/learning/reading/commerce slice.
 
-Later: CMS writes, payment verification functions, FCM, remote search index, hardening audits.
+Later: CMS writes, FCM, remote search index, hardening audits.
+
+Payments: Stripe Checkout is implemented in Cloud Functions (`functions/`). Live charges require Blaze on `aletheia-world`, Stripe secrets, and `NEXT_PUBLIC_CHECKOUT_MODE=stripe`. Until then Shop uses device-local checkout.

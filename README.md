@@ -7,7 +7,8 @@ It is one Progressive Web Application for learning, publication, reading, commun
 - Master brand: Aletheia World — [aletheiaworld.org](https://aletheiaworld.org)
 - Live host: [aletheia-world.web.app](https://aletheia-world.web.app)
 - Later host: [app.aletheiaworld.org](https://app.aletheiaworld.org) (same app)
-- `MAKER_BIBLE.md` — Lordship Edition product lock (KJV; product page + Genesis 1 sample)
+- `MAKER_BIBLE.md` — Lordship Edition product lock (KJV; product page + Genesis 1 sample; $150)
+- `PAYMENTS.md` — Stripe on the existing account; webhook and entitlements
 - Imprint: Aletheia Publications
 - Positioning: Truth · Identity · Dominion
 
@@ -32,7 +33,8 @@ Copy `.env.example` to `.env.local` when you have a Firebase web config. See `FI
 ## Documentation
 
 - `FOUNDATION_SCHOOL.md` — consultant brief for Foundation School (school, six courses, textbook, companion books, pricing)
-- `MAKER_BIBLE.md` — Maker Bible first ship
+- `MAKER_BIBLE.md` — Maker Bible first ship ($150)
+- `PAYMENTS.md` — Stripe (same account as SBD Network; separate Aletheia webhook)
 - `study/` — end-to-end study of Aletheia Libraries 1 (source map, Scripture matrix, chronology, lesson map)
 - Foundation School Year 1 is in the app: seven textbook chapters, six courses (95 lessons), a written exam per course, and the week-52 final. Learn → Schools → Foundation School. The Walk writes one page per lesson; The Intensive writes three on the same cluster.
 - `IMPLEMENTATION_ASSESSMENT.md` — empty-repo inspection and sequence

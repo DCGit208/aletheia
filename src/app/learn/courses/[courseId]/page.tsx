@@ -97,7 +97,7 @@ export default function CourseDetailPage() {
             </li>
           ))}
         </ol>
-        {exam ? (
+        {exam && allowed ? (
           <p className="mt-10">
             <Link href={`/learn/exams/${exam.id}`} className="text-sm text-primary hover:underline">
               Course examination — written charges

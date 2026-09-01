@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import { readFileSync } from "node:fs";
 
 const permissions = {
   "admin.access": ["administrator"],
@@ -113,5 +114,31 @@ assert.equal(
   }),
   true,
 );
+assert.equal(
+  canAccessContent({
+    accessLevel: "entitled",
+    preview: false,
+    entitlements: [],
+    contentKind: "course",
+    contentId: "course-fs-repentance",
+  }),
+  false,
+);
+assert.equal(
+  canAccessContent({
+    accessLevel: "entitled",
+    preview: true,
+    entitlements: [],
+    contentKind: "book",
+    contentId: "book-principles-doctrine-christ",
+  }),
+  true,
+);
+
+const offerings = readFileSync(new URL("../src/lib/commerce/offerings.ts", import.meta.url), "utf8");
+const functionsOfferings = readFileSync(new URL("../functions/src/offerings.ts", import.meta.url), "utf8");
+assert.equal(offerings, functionsOfferings);
+assert.match(offerings, /"product-maker-bible"[\s\S]*15000/);
+assert.match(offerings, /"product-foundation-year"[\s\S]*40000/);
 
 console.log("access checks passed");

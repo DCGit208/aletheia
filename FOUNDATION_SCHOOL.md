@@ -28,7 +28,7 @@ The source of truth is the 2015 **Aletheia Libraries 1** leaflet. That leaflet i
 | Platform line (the app) | Truth · Identity · Dominion |
 | Programs | The Walk (~3 h/week) and The Intensive (~8 h/week). Both **52 weeks**. Same six courses. |
 | Courses | 1. Repentance from Dead Works · 2. Faith Toward God · 3. The Doctrine of Baptisms · 4. Laying on of Hands · 5. Resurrection of the Dead · 6. Eternal Judgment |
-| Prices (owner-approved) | Textbook **$100** · each course **$100** · school program **$400** |
+| Prices (owner-approved) | Textbook **$100** · each course **$100** · school program **$400**. Lessons, remaining textbook chapters, and exams require that purchase (or the matching à la carte SKU). Chapter 1 of the textbook remains a preview. |
 | School purchase grants | All six courses **plus** the textbook **only** |
 | Companion books | Bought separately. *Spirit Witness* is its own book. *Why We’re Beyond* is its own book, not *Fearfully Made*. |
 

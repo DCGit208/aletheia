@@ -1,0 +1,19 @@
+{
+  "name": "aletheia-functions",
+  "private": true,
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "cp ../src/lib/commerce/offerings.ts src/offerings.ts && tsc"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "firebase-admin": "^13.5.0",
+    "firebase-functions": "^6.4.0",
+    "stripe": "^18.5.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}

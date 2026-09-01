@@ -36,6 +36,9 @@ yarn-error.log*
 .env.*.local
 !.env.example
 
+/functions/node_modules
+/functions/lib
+
 # local working notes
 .firestore-rules-analysis.md
 /agent-tools
