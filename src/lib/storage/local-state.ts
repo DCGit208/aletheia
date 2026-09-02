@@ -13,7 +13,12 @@ function read<T>(key: string, fallback: T): T {
 }
 
 function write<T>(key: string, value: T) {
-  window.localStorage.setItem(`${prefix}.${key}`, JSON.stringify(value));
+  if (typeof window === "undefined") return;
+  try {
+    window.localStorage.setItem(`${prefix}.${key}`, JSON.stringify(value));
+  } catch {
+    // Private browsing and quota errors must not swallow the in-memory cart.
+  }
 }
 
 export function loadEntitlements(userId: string): Entitlement[] {

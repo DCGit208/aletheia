@@ -17,6 +17,7 @@ import { hasPermission } from "@/lib/auth/permissions";
 import { isFirebaseConfigured } from "@/lib/firebase/config";
 import { useI18n } from "@/lib/i18n/provider";
 import { PRIMARY_NAV, resolvePrimaryNav } from "@/lib/navigation";
+import { useUserLibrary } from "@/lib/state/user-library";
 import { cn } from "@/lib/utils";
 import type { MessageKey } from "@/lib/i18n/messages";
 
@@ -34,6 +35,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
   const router = useRouter();
   const { t } = useI18n();
   const { user } = useAuth();
+  const { cart } = useUserLibrary();
   const active = resolvePrimaryNav(pathname);
   const immersive = pathname.startsWith("/learn/read/");
   const localMode = !isFirebaseConfigured();
@@ -126,7 +128,14 @@ export function AppShell({ children }: { children: React.ReactNode }) {
                       current ? "bg-white/8 text-primary" : "text-muted-foreground",
                     )}
                   >
-                    <Icon className="size-[1.15rem]" strokeWidth={current ? 2.2 : 1.8} aria-hidden />
+                    <span className="relative">
+                      <Icon className="size-[1.15rem]" strokeWidth={current ? 2.2 : 1.8} aria-hidden />
+                      {item.id === "shop" && cart.length > 0 ? (
+                        <span className="absolute -top-1.5 -right-2 grid h-4 min-w-4 place-items-center rounded-full bg-primary px-1 text-[0.55rem] font-medium text-primary-foreground">
+                          {cart.length > 9 ? "9+" : cart.length}
+                        </span>
+                      ) : null}
+                    </span>
                     {t(item.messageKey as MessageKey)}
                   </Link>
                 </li>

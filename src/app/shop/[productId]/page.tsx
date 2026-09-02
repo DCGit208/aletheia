@@ -6,7 +6,8 @@ import { Cover } from "@/components/content/cover";
 import { MakerBiblePage } from "@/components/maker-bible/maker-bible-page";
 import { MAKER_BIBLE_PRODUCT_ID } from "@/lib/content/maker-bible";
 import { EmptyState } from "@/components/content/query-state";
-import { Button, buttonVariants } from "@/components/ui/button";
+import { AddToCartButton } from "@/components/shop/add-to-cart-button";
+import { buttonVariants } from "@/components/ui/button";
 import { grantTargetsForProduct } from "@/lib/access/entitlements";
 import { getBook, getCourse, getProduct, getProgram } from "@/lib/data/repository";
 import { useAuth } from "@/lib/auth/provider";
@@ -44,7 +45,7 @@ export default function ProductPage() {
   const { productId } = useParams<{ productId: string }>();
   const { t } = useI18n();
   const { user } = useAuth();
-  const { addToCart, entitlements } = useUserLibrary();
+  const { entitlements } = useUserLibrary();
   const product = getProduct(productId);
   if (!product) return <EmptyState title="Product not found." />;
   if (product.id === MAKER_BIBLE_PRODUCT_ID) return <MakerBiblePage />;
@@ -104,9 +105,7 @@ export default function ProductPage() {
           {owned ? (
             <p className="text-sm text-muted-foreground">You already hold an entitlement for this content.</p>
           ) : (
-            <Button onClick={() => addToCart(product.id)} disabled={!user}>
-              {t("action.addToCart")}
-            </Button>
+            <AddToCartButton productId={product.id} />
           )}
           {!user ? (
             <Link href="/sign-in" className={buttonVariants({ variant: "outline" })}>

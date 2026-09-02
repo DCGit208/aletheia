@@ -2,7 +2,8 @@
 
 import Link from "next/link";
 import { Cover } from "@/components/content/cover";
-import { Button, buttonVariants } from "@/components/ui/button";
+import { AddToCartButton } from "@/components/shop/add-to-cart-button";
+import { buttonVariants } from "@/components/ui/button";
 import { grantTargetsForProduct, holdsEntitlement } from "@/lib/access/entitlements";
 import {
   MAKER_BIBLE_CENTRAL_PROPOSITION,
@@ -28,7 +29,7 @@ const related = [
 export function MakerBiblePage() {
   const { t } = useI18n();
   const { user } = useAuth();
-  const { addToCart, entitlements } = useUserLibrary();
+  const { entitlements } = useUserLibrary();
   const book = getBook(MAKER_BIBLE_ID);
   const product = getProduct(MAKER_BIBLE_PRODUCT_ID);
   if (!book || !product) return null;
@@ -56,9 +57,7 @@ export function MakerBiblePage() {
             {owned ? (
               <p className="self-center text-sm text-muted-foreground">You already hold this book.</p>
             ) : (
-              <Button onClick={() => addToCart(product.id)} disabled={!user}>
-                {t("action.addToCart")}
-              </Button>
+              <AddToCartButton productId={product.id} />
             )}
             {!user ? (
               <Link href="/sign-in" className={buttonVariants({ variant: "outline" })}>

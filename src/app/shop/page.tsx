@@ -45,26 +45,34 @@ export default function ShopPage() {
           </ul>
         )}
         {cart.length > 0 ? (
-          <button
-            type="button"
-            className={cn(buttonVariants({ size: "lg" }), "mt-4 h-11 w-full justify-center rounded-full")}
-            onClick={() => {
-              if (!user) return;
-              setPending(true);
-              void pay()
-                .then((order) => {
-                  if (order) toast.success(t("shop.orderPlaced"));
-                  else if (stripe) toast.message(t("shop.redirecting"));
-                })
-                .catch((error) => {
-                  toast.error(error instanceof Error ? error.message : t("shop.payFailed"));
-                })
-                .finally(() => setPending(false));
-            }}
-            disabled={!user || pending}
-          >
-            {user ? (stripe ? t("action.payCard") : t("action.checkout")) : t("nav.signIn")}
-          </button>
+          user ? (
+            <button
+              type="button"
+              className={cn(buttonVariants({ size: "lg" }), "mt-4 h-11 w-full justify-center rounded-full")}
+              onClick={() => {
+                setPending(true);
+                void pay()
+                  .then((order) => {
+                    if (order) toast.success(t("shop.orderPlaced"));
+                    else if (stripe) toast.message(t("shop.redirecting"));
+                  })
+                  .catch((error) => {
+                    toast.error(error instanceof Error ? error.message : t("shop.payFailed"));
+                  })
+                  .finally(() => setPending(false));
+              }}
+              disabled={pending}
+            >
+              {stripe ? t("action.payCard") : t("action.checkout")}
+            </button>
+          ) : (
+            <Link
+              href="/sign-in"
+              className={cn(buttonVariants({ size: "lg" }), "mt-4 h-11 w-full justify-center rounded-full")}
+            >
+              {t("shop.signInToPay")}
+            </Link>
+          )
         ) : null}
         {!user ? (
           <p className="mt-3 text-sm text-muted-foreground">

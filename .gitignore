@@ -43,6 +43,9 @@ yarn-error.log*
 .firestore-rules-analysis.md
 /agent-tools
 
+# firebase CLI cache
+.firebase/
+
 # vercel
 .vercel
 
