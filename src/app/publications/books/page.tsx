@@ -21,13 +21,7 @@ export default function PublicationBooksPage() {
             tone={book.coverTone}
             image={book.coverImage}
             meta={book.authors.map((author) => author.displayName).join(", ")}
-            badge={
-              book.id === "book-aletheia-libraries-1"
-                ? "Leaflet"
-                : book.id === "book-principles-doctrine-christ"
-                  ? "Textbook"
-                  : book.edition
-            }
+            badge={book.id === "book-principles-doctrine-christ" ? "Textbook" : book.edition}
           />
         ))}
       </div>

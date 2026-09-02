@@ -1,10 +1,10 @@
 export const textbookChapter1Title = "The First Principles of the Oracles of God";
 
-export const textbookChapter1Body = `This book is not a second Bible. Holy Scripture is the authority. What follows opens the teaching already gathered in Aletheia Libraries 1 (2015): the first principles of the oracles of God, unto maturity.
+export const textbookChapter1Body = `This book is not a second Bible. Holy Scripture is the authority. What follows opens the first principles of the oracles of God, unto maturity.
 
 The cover of this volume may say Truth · Knowledge · Maturity. That line belongs to this book. The house that holds the book is Aletheia: Truth · Identity · Dominion. Do not confuse the two.
 
-You have opened a textbook, not a leaflet. The 2015 page was a compressed manuscript. It named terms, cited verses, and drew distinctions in a space too small to teach. This chapter does not invent a seventh course. It does not add a seminary word-list the leaflet did not use. It opens what was already there until a student can sit with it.
+This chapter does not invent a seventh course. It does not add a seminary word-list. It opens the first principles until a student can sit with them.
 
 A student at three hours a week must have something to sit with. An intensive student uses the same text with longer writing. The doctrine does not change with the clock.
 
@@ -14,9 +14,9 @@ A. The design of God
 
 Over the ages the design of God for a Christian experience — following the teachings, or manifesting the qualities or spirit, of Jesus Christ — has rested in conformity with the unleavened sincerity and truth of the graphē: Holy Writ, the Bible, Scripture.
 
-The 2015 leaflet called that experience naturalistic. The word is not a concession to nature-worship. It names an experience that follows the teachings of Jesus Christ, or manifests His qualities or His spirit, and does so in conformity with the graphē. The experience pillows in the writing. It does not invent a likeness and then hunt a verse to bless the likeness.
+This school calls that experience naturalistic. The word is not a concession to nature-worship. It names an experience that follows the teachings of Jesus Christ, or manifests His qualities or His spirit, and does so in conformity with the graphē. The experience pillows in the writing. It does not invent a likeness and then hunt a verse to bless the likeness.
 
-Graphē, as the leaflet uses it, is Holy Writ: the Bible, Scripture. It is writings or sayings of unchallenged, unquestionable authority. That is the term. Keep it there. Do not turn it into a theory of inspiration you were not asked to invent.
+Graphē is Holy Writ: the Bible, Scripture. It is writings or sayings of unchallenged, unquestionable authority. That is the term. Keep it there. Do not turn it into a theory of inspiration you were not asked to invent.
 
 B. John 10:34-36 with Psalm 82:6
 
@@ -40,13 +40,13 @@ C. The imprimatur
 
 Holy Writ is writings or sayings of unchallenged, unquestionable authority. That imprimatur governs persons, organizations, governments, and nations.
 
-Imprimatur, as the leaflet uses the weight of the word, is not a church stamp on a dust jacket. It is the authority of the writing itself. Persons are under it. Organizations that appear Christianized are under it. Governments are under it. Nations are under it. Age does not exempt. Size does not exempt. A meeting that calls itself a school does not exempt.
+Imprimatur is not a church stamp on a dust jacket. It is the authority of the writing itself. Persons are under it. Organizations that appear Christianized are under it. Governments are under it. Nations are under it. Age does not exempt. Size does not exempt. A meeting that calls itself a school does not exempt.
 
 If you will hear from God in this year, you will hear Him where He has spoken. You will not be asked to invent a more convenient Bible.
 
 D. Ersatz analogical, nonliteral religiousisms
 
-There is another thing that calls itself Christian experience and is not. The leaflet names it ersatz analogical, nonliteral religiousisms: a likeness of the faith that will not sit down under the text.
+There is another thing that calls itself Christian experience and is not. This teaching names it ersatz analogical, nonliteral religiousisms: a likeness of the faith that will not sit down under the text.
 
 Ersatz: a substitute. Analogical: a likeness, a comparison that will not bear the weight of the thing itself. Nonliteral: a refusal to let the words mean what they say. Religiousisms: the -ism that remains when the graphē is no longer the pillow.
 
@@ -58,7 +58,7 @@ E. Principle, reasoning, application, charge
 
 Principle: the Christian experience this school will teach pillows in the graphē. The writing cannot be broken. The imprimatur governs you.
 
-Reasoning: if the Lord answers a charge of blasphemy from the writing, you do not rise above the writing to answer a charge of dullness. If the writing governs nations, it governs your week. If a likeness will not sit down under the text, it is not the experience the leaflet named.
+Reasoning: if the Lord answers a charge of blasphemy from the writing, you do not rise above the writing to answer a charge of dullness. If the writing governs nations, it governs your week. If a likeness will not sit down under the text, it is not the experience this school names.
 
 Application: you will read this year with the text open. You will not treat a slogan, a house line, or a cover line as if it were Scripture. You will not treat this textbook as a second Bible. When a verse is taught, you will have the verse.
 
@@ -68,13 +68,13 @@ II. THE PREMIERE CONVENTION
 
 A. The essential cornerstone
 
-This leaflet, and now this book, is a straight issue on the essential cornerstone of Christianity: the first principles of the oracles of God.
+This book is a straight issue on the essential cornerstone of Christianity: the first principles of the oracles of God.
 
 Hebrews 5:12 — “For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.”
 
-The verse will be opened in section III. Hear first what the leaflet does with it. The first principles of the oracles of God are the cornerstone. A cornerstone is not an ornament. It is what the house is set on. If it is not laid, the house is not the house the writer of Hebrews is building.
+The verse will be opened in section III. The first principles of the oracles of God are the cornerstone. A cornerstone is not an ornament. It is what the house is set on. If it is not laid, the house is not the house the writer of Hebrews is building.
 
-Oracles of God, as the leaflet uses the phrase, are not private impressions. They are the speaking of God already bound in the graphē, and the first principles of that speaking are named in Hebrews 6:1-2. This chapter is the gate into those six. It is not itself a seventh.
+Oracles of God are not private impressions. They are the speaking of God already bound in the graphē, and the first principles of that speaking are named in Hebrews 6:1-2. This chapter is the gate into those six. It is not itself a seventh.
 
 B. Two movements, not one slogan
 
@@ -91,7 +91,7 @@ Hebrews 6:1 — “Therefore leaving the principles of the doctrine of Christ, l
 
 Leaving them does not mean forgetting them. It means they are laid, and you go on. A man who has never laid them is not “leaving” them. He is skipping them. A man who lays them every year as a habit of indecision is not going on. He is relaying what ought already to bear weight.
 
-Perfection, as the leaflet uses it, is maturity: the second movement. It is not a claim that you have finished God. It is the writer’s word for going on once the foundation is down. Hebrews 6:3 will bind that going-on to permission. Do not treat maturity as a human schedule you can force.
+Perfection is maturity: the second movement. It is not a claim that you have finished God. It is the writer’s word for going on once the foundation is down. Hebrews 6:3 will bind that going-on to permission. Do not treat maturity as a human schedule you can force.
 
 C. Hearing from God
 
@@ -155,7 +155,7 @@ A. The verse and the term
 
 Hebrews 5:13 — “For every one that useth milk is unskilful in the word of righteousness: for he is a babe.”
 
-Unskilful is Greek apeiros: inexperienced, that is, ignorant — unskilful. The leaflet keeps the word there. The inexperience is not in crowding a meeting. It is in the word of righteousness.
+Unskilful is Greek apeiros: inexperienced, that is, ignorant — unskilful. This teaching keeps the word there. The inexperience is not in crowding a meeting. It is in the word of righteousness.
 
 Apeiros is not a personality type. It is not shyness. It is not lack of a platform. It is lack of experience in the word that names righteousness — the writing in which a man is shown what is right before God and what is not. A man may be experienced in rooms and apeiros in that word.
 
@@ -165,23 +165,23 @@ Hebrews 5:14 — “But strong meat belongeth to them that are of full age, even
 
 Hold 5:13 and 5:14. The milk-user is apeiros and a babe. The one of full age has senses exercised by reason of use. Use is not attendance. Use is the labour that trains hearing to discern.
 
-Discern both good and evil. The babe is not merely under-informed. He cannot yet distinguish. That is why unskilfulness produces, in the leaflet’s severity, damnable accepted heresies called doctrines. A people who cannot discern will baptize error and call it teaching.
+Discern both good and evil. The babe is not merely under-informed. He cannot yet distinguish. That is why unskilfulness produces, in this severity, damnable accepted heresies called doctrines. A people who cannot discern will baptize error and call it teaching.
 
 C. Aridity and tergiversation
 
-The leaflet is plain: the absence of reasonability (sound judgment) and the presence of unskilfulness produce aridity and tergiversation among persons, and even among age-old organizations that appear Christianized. What follows is damnable accepted heresies called doctrines.
+This teaching is plain: the absence of reasonability (sound judgment) and the presence of unskilfulness produce aridity and tergiversation among persons, and even among age-old organizations that appear Christianized. What follows is damnable accepted heresies called doctrines.
 
-Reasonability, as the source names it, is sound judgment. It is not a polite temperament. It is the capacity to hold the writing and judge. Absence of that judgment, plus apeiros, dries a people. Aridity is not a dry room. It is a people who no longer yield what the oracles planted.
+Reasonability is sound judgment. It is not a polite temperament. It is the capacity to hold the writing and judge. Absence of that judgment, plus apeiros, dries a people. Aridity is not a dry room. It is a people who no longer yield what the oracles planted.
 
 Tergiversation is desertion of a position: turning, shifting, refusing to stay under what was said. A person can do it. An age-old organization that appears Christianized can do it. Appearance is not skill. Years on a signboard are not senses exercised.
 
-What follows that dryness and that turning is not a harmless confusion. The leaflet names the fruit: damnable accepted heresies called doctrines. Accepted means the heresy has become the house diet. Called doctrines means the name “doctrine” has been put on what the graphē will not bear. This school will not soften that sentence.
+What follows that dryness and that turning is not a harmless confusion. This teaching names the fruit: damnable accepted heresies called doctrines. Accepted means the heresy has become the house diet. Called doctrines means the name “doctrine” has been put on what the graphē will not bear. This school will not soften that sentence.
 
 D. The scholarly impetus of the Scripture
 
 That lack of skill is blamed on failure to realize the scholarly impetus of the Scripture and to align accordingly: failure to know the Scriptures, whether in soft copy or hard.
 
-Scholarly impetus, as the leaflet uses it, is not a degree. It is the push the writing itself gives toward knowing — toward labour in the text. Soft copy or hard copy does not matter if there is no labour. A glowing screen can hide apeiros as easily as a closed book.
+Scholarly impetus is not a degree. It is the push the writing itself gives toward knowing — toward labour in the text. Soft copy or hard copy does not matter if there is no labour. A glowing screen can hide apeiros as easily as a closed book.
 
 The cure is not a louder room. The cure is labour in the word. Section VI will name that labour spoudazō. Do not wait for section VI to begin it. If you cannot name the hour and the text of this week, you are already answering Hebrews 5:13.
 
@@ -191,7 +191,7 @@ Distinction: skill in the word of righteousness versus performance in a crowded 
 
 Principle: every one that useth milk is apeiros in the word of righteousness. The inexperience is in the writing. Organizations can be apeiros. The cure is to know the Scriptures and align.
 
-Reasoning: if unskilfulness were lack of activity, busy houses would be mature. The leaflet watches age-old organizations dry up. If the copy format were the issue, the hard book would have saved the last century. The issue is failure to know and to align.
+Reasoning: if unskilfulness were lack of activity, busy houses would be mature. This teaching watches age-old organizations dry up. If the copy format were the issue, the hard book would have saved the last century. The issue is failure to know and to align.
 
 Application: what is your actual study labour this week? Name the hour. Name the text. If you cannot name it, you are not yet a workman. You may be a hearer. Hebrews has already told you what a hearer can become after time.
 
@@ -203,11 +203,11 @@ A. The term
 
 The same verse names the milk-user a babe: Greek nēpios — implying negation; figuratively a simple-minded person, an immature Christian: babe, child.
 
-The leaflet will not let you take “babe” as a term of endearment here. It is a diagnosis. A babe may be sincere and still be apeiros. An organization may be old and still be nēpios. Anyone — person or organization — unskilled in the word of righteousness is a nēpios.
+This teaching will not let you take “babe” as a term of endearment here. It is a diagnosis. A babe may be sincere and still be apeiros. An organization may be old and still be nēpios. Anyone — person or organization — unskilled in the word of righteousness is a nēpios.
 
-Simple-minded, in the leaflet’s use, is not an insult to the poor in spirit. It is the mind that has not been exercised to discern. Immature Christian is not “young in years.” It is behind the time you ought to have been a teacher.
+Simple-minded, here, is not an insult to the poor in spirit. It is the mind that has not been exercised to discern. Immature Christian is not “young in years.” It is behind the time you ought to have been a teacher.
 
-B. Two characteristics, as the source sets them
+B. Two characteristics
 
 Two characteristics of babes:
 
@@ -218,7 +218,7 @@ The first mark is the ear. The second is the skill. They are not one mark said t
 
 The Word is the basis for salvation. If you are unskilled there, you are unskilled at the root. This is not a side comment about study habits. Salvation itself sits on that Word. Unskill in the word of righteousness is unskill at the place a man is saved, kept, and grown.
 
-Do not invent a third mark to make the list feel complete. The source sets two. Dull of hearing. Unskilled in the Word. Hold them until you can name them in your sleep and apply them to a person and to a house without cruelty and without flattery.
+Do not invent a third mark to make the list feel complete. There are two. Dull of hearing. Unskilled in the Word. Hold them until you can name them in your sleep and apply them to a person and to a house without cruelty and without flattery.
 
 C. Babe versus teacher
 
@@ -230,7 +230,7 @@ A babe may love God and still be nēpios. Love does not cancel the diagnosis. An
 
 D. Why this piece was written
 
-The leaflet states the aim of the piece: that you may experience productive living, be in control, and experience godliness in all capacities — not by a slogan, but by skill in the word of righteousness.
+This teaching states the aim of the piece: that you may experience productive living, be in control, and experience godliness in all capacities — not by a slogan, but by skill in the word of righteousness.
 
 Productive living is not a prosperity motto. It is a life that yields what the oracles planted. In control is not a technique for managing rooms. It is a man no longer driven by the dullness and the unskill that produce aridity. Godliness in all capacities is not a brand of manners. It is the life the graphē governs in every capacity you actually have — person, house, labour, nation as the imprimatur already named.
 
@@ -256,13 +256,13 @@ Who writes? Paul. To whom? Timothy, a man already entrusted with the word, told 
 
 Hold the cluster. Study sits in a letter about hardness, shame, and a word that is not bound. Spoudazō is not a hobby for quiet evenings. It is labour in a war where the word must be divided rightly and the workman must not blush before God.
 
-B. The term as the leaflet uses it
+B. The term
 
-The Greek behind that study, as the leaflet uses it, is spoudazō: to use speed, to make effort, be prompt or earnest; do diligence, be diligent, endeavour, labour, study — intellectually.
+The Greek behind that study is spoudazō: to use speed, to make effort, be prompt or earnest; do diligence, be diligent, endeavour, labour, study — intellectually.
 
-Speed here is not haste that skips context. It is earnestness that will not postpone the labour. Effort is not noise. Promptness is not a calendar app. Earnestness is the refusal to treat the oracles as optional once the week fills. Diligence, endeavour, labour, study: the leaflet stacks the English so you cannot reduce the word to “read a verse if you feel like it.”
+Speed here is not haste that skips context. It is earnestness that will not postpone the labour. Effort is not noise. Promptness is not a calendar app. Earnestness is the refusal to treat the oracles as optional once the week fills. Diligence, endeavour, labour, study: the English is stacked so you cannot reduce the word to “read a verse if you feel like it.”
 
-Intellectually is part of the leaflet’s definition. This school will not despise the mind as if reasoning were unbelief. Knowledge, in the next section, is perception and learning and reasoning. Spoudazō is the labour that makes that knowledge possible.
+Intellectually is part of the definition. This school will not despise the mind as if reasoning were unbelief. Knowledge, in the next section, is perception and learning and reasoning. Spoudazō is the labour that makes that knowledge possible.
 
 C. Approved, workman, rightly dividing
 
@@ -306,9 +306,9 @@ VII. KNOWLEDGE — PERCEPTION, LEARNING, REASONING
 
 A. The definition
 
-The leaflet defines knowledge as a mental result of perception and learning and reasoning. The practice is named: word exercise, word drill.
+Knowledge is a mental result of perception, learning, and reasoning. The practice is named: word exercise, word drill.
 
-Knowledge, here, is not a pile of information. A man may quote a verse and still be a babe. Quotation without reasoning is not skill. Information collected is not the mental result the leaflet named.
+Knowledge, here, is not a pile of information. A man may quote a verse and still be a babe. Quotation without reasoning is not skill. Information collected is not that mental result.
 
 Three parts, one result.
 
@@ -322,9 +322,9 @@ B. Word exercise, word drill
 
 The practice is not optional colour. It is how this school makes knowledge. Word exercise: you use the word, as Hebrews 5:14 said “by reason of use.” Word drill: you put the verse through perception, learning, and reasoning until you can teach it.
 
-A drill is repetition with attention. You write the verse. You name the terms as the leaflet uses them. You set the context. You hold the cluster. You draw the distinction. You state the principle. You reason. You apply. You take the charge. That is the method of this book. It is not a blog outline. It is not a sermon skeleton. It is labour.
+A drill is repetition with attention. You write the verse. You name the terms as they are used here. You set the context. You hold the cluster. You draw the distinction. You state the principle. You reason. You apply. You take the charge. That is the method of this book. It is not a blog outline. It is not a sermon skeleton. It is labour.
 
-This school will ask you to reason. The questions the source itself asks are not decorations. They are charges. “Ye ought to be teachers” is a charge. “Study” is a charge. “Ye shall know the truth” is a charge. Later chapters will ask questions the leaflet printed as questions. You will not be allowed to treat them as rhetoric.
+This school will ask you to reason. The questions this school asks are not decorations. They are charges. “Ye ought to be teachers” is a charge. “Study” is a charge. “Ye shall know the truth” is a charge. Later chapters will ask questions that must be answered, not waved past. You will not be allowed to treat them as rhetoric.
 
 C. Distinction and principle
 
@@ -332,7 +332,7 @@ Distinction: knowledge as perception plus learning plus reasoning versus informa
 
 Principle: you do not know a verse until you can perceive it, keep it, and reason it in its cluster.
 
-Reasoning: if quotation were knowledge, the Hebrews readers would not have needed to be taught again. They had heard. If familiarity were learning, time would have made them teachers. Time had passed. If slogans were reasoning, this chapter could have been a list of headings. The leaflet was already a list of headings. It was too thin to teach. You are holding the opening of that page.
+Reasoning: if quotation were knowledge, the Hebrews readers would not have needed to be taught again. They had heard. If familiarity were learning, time would have made them teachers. Time had passed. If slogans were reasoning, this chapter could have been a list of headings. This teaching was already a list of headings. It was too thin to teach. You are holding the opening of that page.
 
 Application: take Hebrews 5:12. Perceive it — what it says, not a summary. Learn it — write it. Reason it — why “ought to be teachers” and “become” belong in one verse, and what “again” does to a man who thought he had finished the beginning.
 
@@ -431,7 +431,7 @@ D. The year
 
 Fifty-two weeks. The Walk about three hours a week. Intensive about eight. Same six. Course 1, nine weeks. Course 2, nine. Course 3, eight. Course 4, eight. Course 5, nine. Course 6, nine.
 
-A certificate, when issued, is for completing a program, not for buying a book, not for clicking a lesson, not for owning the leaflet. Written charges, an examination per course, a week-52 final: that is the labour the school will ask. Mid-year and capstone demonstrations, if they come later, will not replace this foundation.
+A certificate, when issued, is for completing a program, not for buying a book, not for clicking a lesson. Written charges, an examination per course, a week-52 final: that is the labour the school will ask. Mid-year and capstone demonstrations, if they come later, will not replace this foundation.
 
 Enrolment in the school program grants the six courses and this textbook. It does not grant the companion library. Companions named in later chapters are books, not Year-1 courses. The Power of Salvation will be named in Chapter 2 as directed reading, not as a seventh course.
 
@@ -445,7 +445,7 @@ A. The hinge
 
 Hebrews 6:3 — “And this will we do, if God permit.”
 
-The banner of the 2015 leaflet runs from Hebrews 5:11 to 6:3. Verse 3 is the hinge after the six are named. We will go on to perfection — if God permit.
+The banner of runs from Hebrews 5:11 to 6:3. Verse 3 is the hinge after the six are named. We will go on to perfection — if God permit.
 
 This is not a seventh principle. It is not a seventh course. It is the writer’s dependence after he has named the work. The six are in 6:1-2. Verse 3 is the sentence that binds the going-on to God.
 
@@ -493,7 +493,7 @@ On John 8:31-36, reason continue, disciples indeed, know, truth, free, servant o
 
 C. The method, once more
 
-Scripture in full. Term as the leaflet uses it. Context: who, to whom, why. Cluster held together. Distinction. Principle. Reasoning. Application. Charge.
+Scripture in full. Term as defined here. Context: who, to whom, why. Cluster held together. Distinction. Principle. Reasoning. Application. Charge.
 
 That is how you will read every chapter. That is how you will write. A student at three hours a week can do this on one cluster and be honest. A student at eight hours can do this on the whole chapter and be honest. Neither may replace the method with a summary.
 

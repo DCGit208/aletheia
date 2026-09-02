@@ -10,39 +10,39 @@ A student at three hours a week must have something to sit with. An intensive st
 
 I. METANOIA FROM NEKROS ERGON
 
-A. The heading as the leaflet set it
+A. The heading
 
-The leaflet heads this principle: Greek metanoia from nekros ergon.
+This principle is headed: Greek metanoia from nekros ergon.
 
-Hebrews 6:1 has already named the foundation: repentance from dead works. The Greek the source puts on that heading is metanoia from nekros ergon. Metanoia is the change. Nekros ergon are the works. You will not flatten either term into a mood.
+Hebrews 6:1 has already named the foundation: repentance from dead works. The Greek on that heading is metanoia from nekros ergon. Metanoia is the change. Nekros ergon are the works. You will not flatten either term into a mood.
 
 Metanoia (G3341) is a real change of mind and attitude toward sin and its cause, not merely the consequences of it. The verses the owner list assigns to that definition are Matthew 3:8, Matthew 3:11, Matthew 9:13, and Luke 24:47. They will be quoted in full in section II. Hear the definition first, then the verses, then the distinction from metamellomai.
 
-The 2015 page says metanoia specifies compunction (remorse) for guilt including reformation: regeneration, quickening, recreation — “new creature.” A real change of mind and attitude over sin and the cause. All things are become new.
+Metanoia specifies compunction (remorse) for guilt including reformation: regeneration, quickening, recreation — “new creature.” A real change of mind and attitude over sin and the cause. All things are become new.
 
-It is not a mood. It is not a tear without a turn. It includes reformation because the man in Christ is a new creature. Compunction without reformation is not the metanoia the leaflet named. Reformation without blood is still a dead work; section VI will not let you make self-reformation the way. Hold both.
+It is not a mood. It is not a tear without a turn. It includes reformation because the man in Christ is a new creature. Compunction without reformation is not the metanoia named here. Reformation without blood is still a dead work; section VI will not let you make self-reformation the way. Hold both.
 
 2 Corinthians 5:17 — “Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.”
 
-Who writes? Paul. To whom? The church at Corinth, a people he must still reason with about ministry and reconciliation. Why here? Because the leaflet uses this verse four ways in one principle: new creature, change, old things deceased, in-Christ location. If any man be in Christ — the location is Christ, not a course enrolment. He is a new creature — recreation, not a repaired mood. Old things are passed away — section IV will name two kinds. Behold, all things are become new — the leaflet’s “all things are become new” is not a slogan for a new year. It is the state of the man in Christ.
+Who writes? Paul. To whom? The church at Corinth, a people he must still reason with about ministry and reconciliation. Why here? This verse is used four ways in one principle: new creature, change, old things deceased, in-Christ location. If any man be in Christ — the location is Christ, not a course enrolment. He is a new creature — recreation, not a repaired mood. Old things are passed away — section IV will name two kinds. Behold, all things are become new — “all things are become new” is not a slogan for a new year. It is the state of the man in Christ.
 
 B. Nekros ergon
 
 Nekros ergon — dead works — are the works of the old man: the spirit and nature of the devil (Ephesians 4:22); old things (2 Corinthians 5:17); the old nature (Ephesians 2:1 — trespasses, a deviation from moral equity, and sins). The wages thereof is death (Romans 6:23).
 
-The leaflet also printed negra erga. That is a compressed print of the same phrase, not an eighth word and not a second doctrine. Dead works. Works of the old man. Works of the old nature.
+This teaching also printed negra erga. That is a compressed print of the same phrase, not an eighth word and not a second doctrine. Dead works. Works of the old man. Works of the old nature.
 
 Ephesians 4:22 — “That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;”
 
 Ephesians 2:1 — “And you hath he quickened, who were dead in trespasses and sins;”
 
-Trespasses, as the source glosses Ephesians 2:1, are deviation from moral equity, and sins. Dead works are not “things I did that felt empty.” A man may call a boring task a dead work because it bored him. Scripture calls a work dead because it is of the old man and the old nature. Do not confuse them.
+Trespasses, in Ephesians 2:1, are deviation from moral equity, and sins. Dead works are not “things I did that felt empty.” A man may call a boring task a dead work because it bored him. Scripture calls a work dead because it is of the old man and the old nature. Do not confuse them.
 
 Romans 6:23 will be opened in section V. Hear its clause now so the wage is not a surprise: the wages of sin is death. Dead works earn that wage. The conscience is later purged from them by blood (Hebrews 9:14). That purge is not this heading. This heading is the change of mind over the works and over the cause that produced them.
 
 C. Reversal of another’s decision
 
-By implication the word also carries reversal of another’s decision. Do not flatten that into a technique. Keep it where the source puts it: repentance is not less than a change of mind. A change of mind can reverse what a man had decided, and what he had followed in another’s decision. It is still a change of mind over sin and its cause. It is not a method for managing rooms.
+By implication the word also carries reversal of another’s decision. Do not flatten that into a technique. Keep this: repentance is not less than a change of mind. A change of mind can reverse what a man had decided, and what he had followed in another’s decision. It is still a change of mind over sin and its cause. It is not a method for managing rooms.
 
 D. Distinction, principle, charge
 
@@ -50,7 +50,7 @@ Distinction: metanoia as real change of mind and attitude toward sin and its cau
 
 Principle: the first stone is metanoia from nekros ergon. The man in Christ is a new creature. Old things pass. The wage of the old things is death.
 
-Reasoning: if metanoia were a feeling, 2 Corinthians 5:17 would be a feeling. If dead works were boredom, Hebrews 9:14 would purge boredom. If reformation could be detached from the new creature, the leaflet would not have named regeneration, quickening, recreation in one breath with “new creature.”
+Reasoning: if metanoia were a feeling, 2 Corinthians 5:17 would be a feeling. If dead works were boredom, Hebrews 9:14 would purge boredom. If reformation could be detached from the new creature, this school would not name regeneration, quickening, recreation in one breath with “new creature.”
 
 Application: name one work you have called “dead” because it bored you, and one the Scripture would call a dead work because it is of the old man. Do not submit the first as if it were the second.
 
@@ -58,7 +58,7 @@ Charge: write Hebrews 6:1 and 2 Corinthians 5:17. Then write ten lines: what met
 
 II. SEVEN ORIGINAL WORDS FOR REPENT
 
-The leaflet said metanoia is one of the original words for repentance, and the 2015 page said “eight.” The authorized list for this school is seven. We will not invent an eighth. We will not pad the list with a seminary word the house did not send.
+Metanoia is one of the original words for repentance. The authorized list for this school is seven. We will not invent an eighth. We will not pad the list with a seminary word the house did not send.
 
 Hold each word as the list uses it. Quote the verse. Set the context. Do not merge 6 and 7.
 
@@ -180,7 +180,7 @@ III. CAUSE, NOT CONSEQUENCE
 
 Hell is a consequence. It is not the definition of repentance.
 
-The 2015 PDF printed Matthew 16:19-31 here. That print was an error. Matthew 16 is not this narrative. This school teaches Luke 16:19-31. With Revelation 20:10-15 as the final lake. Do not teach Matthew 16 as the rich man and Lazarus. Do not teach Matthew 16 as the lake of fire.
+Matthew 16 is not this narrative. This school teaches Luke 16:19-31. With Revelation 20:10-15 as the final lake. Do not teach Matthew 16 as the rich man and Lazarus. Do not teach Matthew 16 as the lake of fire.
 
 A. Luke 16:19-31 — the narrative of the consequence
 
@@ -256,7 +256,7 @@ A. Old thing 1 — the old man
 
 The spirit, nature, and power of sin — the old man: nothing more nor less than the spirit and nature of the devil working in men of disobedience.
 
-Do not reduce the old man to a bad habit. The source will not let you. The old man is the spirit and nature of the devil in the disobedient. Nothing more nor less. That sentence is the leaflet’s sentence. Do not soften it into a personality type.
+Do not reduce the old man to a bad habit. This teaching will not let you. The old man is the spirit and nature of the devil in the disobedient. Nothing more nor less. That sentence stands. Do not soften it into a personality type.
 
 John 8:44 — “Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.”
 
@@ -274,7 +274,7 @@ Chapter 3 will open image. Here the verse sits in the old-man cluster: a blindin
 
 1 John 3:9 — “Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.”
 
-Hold 3:8 and 3:9. Do not soften this cluster. Do not invent a third nature the leaflet did not name. The old man is of the devil. The born of God is another creature. That is why old things pass.
+Hold 3:8 and 3:9. Do not soften this cluster. Do not invent a third nature this school does not name. The old man is of the devil. The born of God is another creature. That is why old things pass.
 
 1 John 5:18 — “We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not.”
 
@@ -328,7 +328,7 @@ Mark 7:22 — “Thefts, covetousness, wickedness, deceit, lasciviousness, an ev
 
 Mark 7:23 — “All these evil things come from within, and defile the man.”
 
-The leaflet printed Mark 7:19-21. The account you must teach is 7:20-23. Outward sin is not a stain that fell on a clean man from a dirty world. It proceeds. It defiles.
+This teaching printed Mark 7:19-21. The account you must teach is 7:20-23. Outward sin is not a stain that fell on a clean man from a dirty world. It proceeds. It defiles.
 
 Romans 1:18 — “For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;”
 
@@ -360,7 +360,7 @@ Romans 1:31 — “Without understanding, covenantbreakers, without natural affe
 
 Romans 1:32 — “Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them.”
 
-The catalogue is not a curiosity. It is outward sin named. Without excuse. Given up. Given over. Worthy of death. The leaflet cited 1:18-32. This school teaches 1:18-32.
+The catalogue is not a curiosity. It is outward sin named. Without excuse. Given up. Given over. Worthy of death. This teaching cited 1:18-32. This school teaches 1:18-32.
 
 C. Both, not one pile
 
@@ -396,7 +396,7 @@ Romans 6:23 — “For the wages of sin is death; but the gift of God is eternal
 
 They yield to a master. The old master pays death. God gives eternal life through Jesus Christ our Lord. Wage versus gift. Do not build a repentance that wants to keep the cause and escape the wage.
 
-The leaflet repeats the line: salvation from sin is exclusively the only salvation you need, sin being the cause of all death and depravity. Not salvation from boredom. Not salvation from a small life. Not salvation from other people’s opinions. Salvation from sin. Sin is the cause of all death and depravity. If you have put another “salvation” in that place, you have moved the stone.
+Hold the line: salvation from sin is exclusively the only salvation you need, sin being the cause of all death and depravity. Not salvation from boredom. Not salvation from a small life. Not salvation from other people’s opinions. Salvation from sin. Sin is the cause of all death and depravity. If you have put another “salvation” in that place, you have moved the stone.
 
 Death in this book is not only the stopping of breath. Chapter 7 will open three kinds of death. Here it is enough to refuse a repentance that wants to keep the cause and escape the wage.
 
@@ -412,7 +412,7 @@ A. Blood and the conscience
 
 Hebrews 9:14 — “How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?”
 
-The phrase is the leaflet’s own phrase in Hebrews: dead works. The conscience is purged from them by blood, to serve the living God. Self-reformation without that blood is still a dead work.
+The phrase is Hebrews’ own phrase: dead works. The conscience is purged from them by blood, to serve the living God. Self-reformation without that blood is still a dead work.
 
 Hebrews 9:13 — “For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh:”
 
@@ -458,7 +458,7 @@ Charge: how does blood purge the conscience from dead works? Answer from Hebrews
 
 VII. RECEIVE HIM
 
-The leaflet’s charge is not a later illustration. Receive Him today.
+The charge is not a later illustration. Receive Him today.
 
 A. Power to become the sons of God
 
@@ -482,7 +482,7 @@ Romans 10:10 — “For with the heart man believeth unto righteousness; and wit
 
 The word is nigh. You do not fetch Christ down. You confess the Lord Jesus. You believe God raised Him. You shall be saved.
 
-Have you received Him? Write the confession Romans 10:9 actually asks. The Lord Jesus. Raised from the dead. Mouth and heart. If you have, write what “power to become the sons of God” means from John 1:12-13, not from a slogan. If you have not, the leaflet’s charge stands: Receive Him today. A course enrolment is not the new creature.
+Have you received Him? Write the confession Romans 10:9 actually asks. The Lord Jesus. Raised from the dead. Mouth and heart. If you have, write what “power to become the sons of God” means from John 1:12-13, not from a slogan. If you have not, the charge stands: Receive Him today. A course enrolment is not the new creature.
 
 C. Distinction, principle, charge
 

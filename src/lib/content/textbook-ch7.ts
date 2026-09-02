@@ -24,7 +24,7 @@ The fire was prepared for the devil and his angels. Men who stand with that rebe
 
 Matthew 25:46 — “And these shall go away into everlasting punishment: but the righteous into life eternal.”
 
-Punishment. Not a pause. Not a wiping out of the person. The leaflet’s translation is eternal punishment. You will not turn aionios into “age-long until they vanish.” You will not turn punishment into “they simply cease.” Cease is not punishment that goes on. Annihilation is not this verse.
+Punishment. Not a pause. Not a wiping out of the person. translation is eternal punishment. You will not turn aionios into “age-long until they vanish.” You will not turn punishment into “they simply cease.” Cease is not punishment that goes on. Annihilation is not this verse.
 
 Revelation 14:9-11 — “And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive his mark in his forehead, or in his hand, The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb: And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name.”
 
@@ -84,7 +84,7 @@ Whosoever again. God is no respecter of persons in writing or in blotting.
 
 Psalm 69:20-21 — “Reproach hath broken my heart; and I am full of heaviness: and I looked for some to take pity, but there was none; and for comforters, but I found none. They gave me also gall for my meat; and in my thirst they gave me vinegar to drink.”
 
-The source says this blotting was predicted of Judas. Gall and vinegar sit in the psalm. The Gospels will show you the cup.
+This blotting was predicted of Judas. Gall and vinegar sit in the psalm. The Gospels will show you the cup.
 
 Psalm 69:22-28 — “Let their table become a snare before them: and that which should have been for their welfare, let it become a trap. Let their eyes be darkened, that they see not; and make their loins continually to shake. Pour out thine indignation upon them, and let thy wrathful anger take hold of them. Let their habitation be desolate; and let none dwell in their tents. For they persecute him whom thou hast smitten; and they talk to the grief of those whom thou hast wounded. Add iniquity unto their iniquity: and let them not come into thy righteousness. Let them be blotted out of the book of the living, and not be written with the righteous.”
 
@@ -100,7 +100,7 @@ The promise not to blot is spoken to the overcomer. The verse is not a charm you
 
 Revelation 22:18-19 — “For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book: And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.”
 
-The 2015 page printed 22:1819. The verses are 22:18-19. Teach the two verses. Do not invent a third address to explain the print. Take away the words, and the part in the book is taken away.
+The verses are Revelation 22:18-19. Teach the two verses. Do not invent a third address. Take away the words, and the part in the book is taken away.
 
 Hold the file as one. Exodus 32:32-33 — God blots the sinner, not Moses in his place. Psalm 69:20-28 — predicted of Judas. John 3:36 — refuse the Son. Revelation 3:5 — the overcomer is not blotted. Revelation 22:18-19 — take away the words, and the part is taken.
 
@@ -176,11 +176,11 @@ Spiritual death is the separation of man from God because of sin. The man may wa
 
 Matthew 8:21-22 — “And another of his disciples said unto him, Lord, suffer me first to go and bury my father. But Jesus said unto him, Follow me; and let the dead bury their dead.”
 
-Follow Me. Let the dead bury their dead. The buriers are dead while they walk. The buried are dead in the body. The Lord will not let you hear only one death in that sentence. The leaflet sets Matthew 8:22 under spiritual death. Men cut off from God because of sin are burying men whose spirit has left the body. Both are dead. Not the same death.
+Follow Me. Let the dead bury their dead. The buriers are dead while they walk. The buried are dead in the body. The Lord will not let you hear only one death in that sentence. This teaching sets Matthew 8:22 under spiritual death. Men cut off from God because of sin are burying men whose spirit has left the body. Both are dead. Not the same death.
 
 Colossians 2:13-14 — “And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses; Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;”
 
-You, being dead in your sins. That is spiritual death. He quickened. Course 5 already named spiritual resurrection: new birth, in this life only. The leaflet lists Colossians 2:14 here.
+You, being dead in your sins. That is spiritual death. He quickened. Course 5 already named spiritual resurrection: new birth, in this life only. This teaching lists Colossians 2:14 here.
 
 Hear the two blottings and do not merge them. Exodus 32: God blots the sinner out of His book. Colossians 2: He blots out the handwriting that was against us. One is a name removed. One is a debt removed.
 
@@ -310,15 +310,15 @@ Charge of this section. Write 1 Peter 3:19-20, 2 Peter 2:4, and Jude 6-7. What i
 
 XI. PARADISE — NOW EMPTY OF THE RIGHTEOUS
 
-Teach this as the leaflet states it. Paradise held the righteous until Christ. It is now empty of the righteous. The righteous go to heaven at death. There is not another Foundation School teaching.
+Teach this as this school teaches it. Paradise held the righteous until Christ. It is now empty of the righteous. The righteous go to heaven at death. There is not another Foundation School teaching.
 
 Luke 16:19-22 — “There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day: And there was a certain beggar named Lazarus, which was laid at his gate, full of sores, And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores. And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried;”
 
-Luke 16:22 is in the leaflet’s Paradise file. That was the righteous abode at physical death. Not the grave. The rich man is buried. Lazarus is carried.
+Luke 16:22 is in Paradise file. That was the righteous abode at physical death. Not the grave. The rich man is buried. Lazarus is carried.
 
 Luke 16:23-26 — “And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom. And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame. But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented. And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence.”
 
-Abraham’s bosom — comfort. Hell — torments, flame. A great gulf fixed. Course 1 used this narrative as Hell the consequence, and used Luke 16, not Matthew 16. The 2015 PDF printed Matthew 16:19-31 in error. You will not repeat it. Luke 16:27-31 remains Abraham’s refusal: Moses and the prophets already enough.
+Abraham’s bosom — comfort. Hell — torments, flame. A great gulf fixed. Course 1 used this narrative as Hell the consequence, and used Luke 16, not Matthew 16. You will not teach Matthew 16 as this narrative. Luke 16:27-31 remains Abraham’s refusal: Moses and the prophets already enough.
 
 Luke 23:42-43 — “And he said unto Jesus, Lord, remember me when thou comest into thy kingdom. And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.”
 
@@ -362,7 +362,7 @@ XIII. THE ABYSS / ABADDON
 
 The abyss is the bottomless pit. Abaddon. Destruction. Abode of demons and some angelic beings. Not the grave. Not Tartarus. Not men’s hell. Not the lake yet.
 
-Owner texts: Luke 8:31; Revelation 9; Revelation 20:3. Also the leaflet: Romans 10:7; Revelation 17:8; 20:1-10; Psalm 88:11, destruction.
+Owner texts: Luke 8:31; Revelation 9; Revelation 20:3. Also Romans 10:7; Revelation 17:8; 20:1-10; Psalm 88:11, destruction.
 
 The page printed 11:17 in the abyss list. You will not reopen 11:7 versus 11:17 as a question. Teach both addresses as the files already assigned them. The beast from the pit is Revelation 11:7 — Course 5, the two witnesses. Revelation 11:17 is the elders’ thanksgiving. Both stand. Neither is a riddle for this school to reopen.
 
@@ -372,7 +372,7 @@ The deep is abyssos. The man had abode in the tombs — Luke 8:27. The tombs are
 
 Romans 10:6-7 — “But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down from above:) Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)”
 
-The leaflet keeps Romans 10:7 in this file. You will not turn it into a claim that Christ is still in the pit. He is raised. You do not descend to fetch Him.
+This teaching keeps Romans 10:7 in this file. You will not turn it into a claim that Christ is still in the pit. He is raised. You do not descend to fetch Him.
 
 Revelation 9:1-2 — “And the fifth angel sounded, and I saw a star fall from heaven unto the earth: and to him was given the key of the bottomless pit. And he opened the bottomless pit; and there arose a smoke out of the pit, as the smoke of a great furnace; and the sun and the air were darkened by reason of the smoke of the pit.”
 
@@ -406,7 +406,7 @@ Revelation 20:7 — “And when the thousand years are expired, Satan shall be l
 
 Revelation 20:10 — “And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever.”
 
-The prison was the pit. Then the lake, where the beast and the false prophet already are — cast alive at the advent, Revelation 19:20. The abyss is not the last room. Gehenna is. The leaflet’s range is 20:1-10. Teach the loosing and the lake. Do not invent a sixth prison for Gog and Magog.
+The prison was the pit. Then the lake, where the beast and the false prophet already are — cast alive at the advent, Revelation 19:20. The abyss is not the last room. Gehenna is. range is 20:1-10. Teach the loosing and the lake. Do not invent a sixth prison for Gog and Magog.
 
 Who is here? Demons. Some angelic beings. Satan for the thousand years. The beast in the sense of ascending from the pit. Who is not? The righteous. The wicked dead of sheol-hades as their ordinary abode. The pre-flood angels of Tartarus. Bodies in graves.
 
@@ -482,13 +482,13 @@ XVI. THE CHARGE OF THE YEAR — BACK-LIST IS NOT A COURSE
 
 This principle closes the foundation. It is not laid to produce fear as a product. It is laid so that a people will not treat judgment as a rumour.
 
-No required companion is named in the leaflet body for this course. Completing this chapter does not wait on a volume the source did not title at the point of teaching. Course 4 was the same: a further-reading mark with no title. Course 5 named Millennium. Course 6 names none. This school will not invent a book to fill a silence.
+No required companion is named for this course. Completing this chapter does not wait on a volume this school does not name at the point of teaching. Course 4 was the same: a further-reading mark with no title. Course 5 named Millennium. Course 6 names none. This school will not invent a book to fill a silence.
 
 Page 5 printed a back-list. FTH. RD.AV. Those titles are not Year-1 courses. You will not promote a back-list title into a seventh principle. You will not make the year a shop of volumes. Directed reading later, if a volume is in your hand and a section is assigned. The $400 school does not grant those books as if they were Hebrews 6:1-2.
 
 Fearfully Made is its own book. It is not Why We’re Beyond. Why We’re Beyond was named at baptisms / sonship. Fearfully Made sits on the back-list. Proximity on a page is bibliographic, not a merger.
 
-Presence of Sons 1–4 is its own series. It is not Spirit Witness. Spirit Witness was named at baptisms. If a catalogue once set the titles near each other, that proximity is not a series assignment. You will not call Volume 5 of Presence of Sons a witness the leaflet gave another title.
+Presence of Sons 1–4 is its own series. It is not Spirit Witness. Spirit Witness was named at baptisms. If a catalogue once set the titles near each other, that proximity is not a series assignment. You will not call Volume 5 of Presence of Sons a witness this teaching gave another title.
 
 The printed back-list, as the page had it, includes Knowing (1 and 2), Makers, Thinking Eternity, He Hath Abounded Toward Us, Fearfully Made, Presence of Sons 1–4, Mind of Christ 1–3, Your Fellowship Your Meditation, The Christ, It Is Finished, The Noetic Church, Doctrine of Faith (Compendium), Doctrine of Man, All Things Are Become New. Also marked available on audio and online PDF. Historic contact lines on the page are not Shop SKUs.
 

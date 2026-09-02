@@ -18,7 +18,7 @@ Platform: **Aletheia** (the PWA of Aletheia World)
 
 Foundation School is the first house of study inside **Learn** on Aletheia. It teaches the six first principles named in **Hebrews 5:11–6:3**. It is not a second website, a seventh app tab, or a membership.
 
-The source of truth is the 2015 **Aletheia Libraries 1** leaflet. That leaflet is a **compressed manuscript**, not a finished textbook and not a finished course. The school **exhausts** every principle, quote, word study, scripture cluster, and distinction in that leaflet. It does not add a seventh Year 1 course, and it does not invent doctrines the manuscript does not teach.
+The 2015 **Aletheia Libraries 1** leaflet is a **compressed manuscript** used to write Year 1 and the courses. It is **not a product**. It is not listed in Shop, Publications, Learn, or Account. Student copy **defines** terms and teaches the Scripture clusters; it does not quote the manuscript (“the leaflet says…”, “the leaflet defines…”). The school **exhausts** every principle, word study, scripture cluster, and distinction the manuscript carried. It does not add a seventh Year 1 course, and it does not invent doctrines the manuscript does not teach.
 
 | Piece | Decision |
 | --- | --- |

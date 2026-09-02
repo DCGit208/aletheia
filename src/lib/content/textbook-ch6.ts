@@ -2,35 +2,35 @@ export const textbookChapter6Title = "Resurrection of the Dead";
 
 export const textbookChapter6Body = `Hebrews 6:2 — “Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.”
 
-The leaflet opens this principle with two kinds. Not one slogan. Not a mood about “going to heaven.” Two kinds. Then two material issues a thousand years apart. Then five companies inside the first of those issues. Then a spine sentence you will not flatten.
+This teaching opens this principle with two kinds. Not one slogan. Not a mood about “going to heaven.” Two kinds. Then two material issues a thousand years apart. Then five companies inside the first of those issues. Then a spine sentence you will not flatten.
 
 Hands were resultant. This stone is not a feeling after hands. It is the raising the writing already named: first the man from death in trespasses, in this life only; then the body from the grave, in its hour, in its company, in its issue.
 
 You will not be given one rapture that swallows five. You will not be given a second advent that is rapture 2. You will not be given a Millennium that is the last judgment. You will not raise the wicked before the thousand years. You will not offer new birth after death.
 
-Sit under the page. The 2015 leaf compressed a chronology. This chapter opens that chronology until you can recite it without rewriting it into another school.
+Sit under this chapter. The chronology is dense. This chapter opens it until you can recite it without rewriting it into another school.
 
 I. TWO KINDS
 
 There are two main kinds of resurrection: spiritual and material.
 
-That is the leaflet’s first sentence under the heading. Kind is not a decoration. Kind is the first cut. If you mix the kinds, every later hour will lie.
+Kind is the first sentence under the heading. Kind is not a decoration. Kind is the first cut. If you mix the kinds, every later hour will lie.
 
-Spiritual resurrection, as the leaflet uses the term, is the new birth: being quickened — revived — from dead in trespasses and sins, renewed in the glorious likeness of God. It is now. It is this life. It is the man, not the corpse.
+Spiritual resurrection is the new birth: being quickened — revived — from dead in trespasses and sins, renewed in the glorious likeness of God. It is now. It is this life. It is the man, not the corpse.
 
-Material resurrection, as the leaflet uses the term, is the resurrection of the body, not spirit. The graves. The voice. Two issues. A thousand years between them.
+Material resurrection is the resurrection of the body, not spirit. The graves. The voice. Two issues. A thousand years between them.
 
 Hold the cluster already. Ephesians 2:1-6; Ephesians 4:21-24; Colossians 3:10; 1 John 3:9 name the spiritual kind. John 5:28-29 names the material kind. Revelation 20 times the two material issues. Daniel 12 stands with them. The facts-file grounds the hope of the flesh. The five companies fill the first material rising. The spine sentence keeps the hours from collapsing.
 
 Distinction. Spiritual is not a poetic name for the body’s rising. Material is not a late name for new birth. A man may be quickened now and still wait for the grave to give his body. A corpse may be raised later who was never quickened here. The kinds do not trade places.
 
-Principle. Hebrews 6:2 names resurrection of the dead among the first principles. The leaflet will not let you treat that name as one event. Two kinds first. Then, inside the material kind, two issues. Then, inside the first issue, five companies.
+Principle. Hebrews 6:2 names resurrection of the dead among the first principles. This teaching will not let you treat that name as one event. Two kinds first. Then, inside the material kind, two issues. Then, inside the first issue, five companies.
 
 Reasoning. If you call every rising “the resurrection,” you will preach new birth as if it were a future grave, and you will preach the grave as if it were another chance to be born. The writing will not carry that mixture. Course 1 already quickened you, if you have received Him. This chapter does not invent a second new birth. It names that quickening as spiritual resurrection, and then it opens the body.
 
 Application. When you hear “resurrection” this year, you will ask: which kind? If spiritual, you will stay in this life. If material, you will ask: which issue — life or damnation? If the first issue, you will ask: which company? You will not answer with a slogan.
 
-Charge of this section. Write the two kinds as the leaflet set them. Spiritual: what rises, when, which texts. Material: what rises, when the two issues fall, which texts. Do not write a third kind. Do not write one kind with two nicknames.
+Charge of this section. Write the two kinds as they are set here. Spiritual: what rises, when, which texts. Material: what rises, when the two issues fall, which texts. Do not write a third kind. Do not write one kind with two nicknames.
 
 II. SPIRITUAL — EPHESIANS 2:1-6
 
@@ -48,13 +48,13 @@ Ephesians 2:6 — “And hath raised us up together, and made us sit together in
 
 Who speaks? Paul, to saints, and to you if you are in that same Christ. To whom? Men dead in trespasses and sins — not the graves of John 5:28. Why? To name what God has already done: quickened, raised up together, seated in heavenly places in Christ Jesus.
 
-Quickened, as the leaflet uses it, is revived. The raising here is together with Him, now — not the later hour when all that are in the graves hear His voice.
+Quickened is revived. The raising here is together with Him, now — not the later hour when all that are in the graves hear His voice.
 
 Context. Course 1 already opened this cluster as the only way. The same verses return under another name. Spiritual resurrection is that new birth. It is not a second conversion invented for a later course.
 
 Cluster. Ephesians 2:1-6 with Ephesians 4:21-24, Colossians 3:10, and 1 John 3:9. This six opens the death and the quickening. The three open likeness.
 
-Distinction. Ephesians 2:6 is not John 5:28. Seated in heavenly places is not all graves coming forth. If you preach Ephesians 2 as if your body had put on immortality, you have left the leaflet. If you preach John 5 as a new attitude only, you have left it the other way.
+Distinction. Ephesians 2:6 is not John 5:28. Seated in heavenly places is not all graves coming forth. If you preach Ephesians 2 as if your body had put on immortality, you have left this teaching. If you preach John 5 as a new attitude only, you have left it the other way.
 
 Principle. Spiritual resurrection is the new birth. You hath He quickened. The verb is His.
 
@@ -66,7 +66,7 @@ Charge. Write Ephesians 2:1-6 in full. Mark the death, the quickening, the toget
 
 III. LIKENESS — EPHESIANS 4, COLOSSIANS 3, FIRST JOHN 3:9
 
-The leaflet does not leave spiritual resurrection as a rescue from wrath only. It is renewed in the glorious likeness of God.
+This teaching does not leave spiritual resurrection as a rescue from wrath only. It is renewed in the glorious likeness of God.
 
 Ephesians 4:21 — “If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:”
 
@@ -84,7 +84,7 @@ Ye have put on the new man, renewed in knowledge after the image of Him that cre
 
 1 John 3:9 — “Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.”
 
-Born of God. Seed remaineth. The leaflet sets this in the spiritual-resurrection cluster, not as a later slogan you may empty. The birth is the rising.
+Born of God. Seed remaineth. This teaching sets this in the spiritual-resurrection cluster, not as a later slogan you may empty. The birth is the rising.
 
 Cluster. Ephesians 4:21-24; Colossians 3:10; 1 John 3:9 with Ephesians 2:1-6. Quickened men put on what God created.
 
@@ -122,7 +122,7 @@ Cluster. Hebrews 9:27 and Revelation 22:11. That is the forfeiture file. Two ver
 
 Paul is not defining new birth. He is proving material resurrection. If there is no resurrection of the dead, Christ is not raised; preaching and faith are vain; the dead in Christ are perished. If hope in Christ were limited to this present life only — no bodily rising — we would be the most miserable of men.
 
-The leaflet printed 15:19 beside “only in this life” for the spiritual kind. This school will not make that print teach the opposite of Paul’s argument. Forfeiture stands on Hebrews 9:27 and Revelation 22:11. Bodily hope stands on 15:12-19. 15:19 stays there.
+This teaching printed 15:19 beside “only in this life” for the spiritual kind. This school will not make that print teach the opposite of Paul’s argument. Forfeiture stands on Hebrews 9:27 and Revelation 22:11. Bodily hope stands on 15:12-19. 15:19 stays there.
 
 Distinction. This-life window for new birth is not this-life-only hope in Christ. Do not preach 15:19 as “no new birth after death.” Do not preach Hebrews 9:27 as if it cancelled the body’s rising.
 
@@ -146,7 +146,7 @@ John 5:29 — “And shall come forth; they that have done good, unto the resurr
 
 Hear the two hours. Verse 25: the hour is coming, and now is, when the dead shall hear the voice of the Son of God, and they that hear shall live. That now is sits with the spiritual kind you have already learned — the dead in trespasses hearing and living. Verse 28: marvel not at this. Another hour is coming. All that are in the graves shall hear His voice. They shall come forth. Two issues: life, and damnation.
 
-The leaflet prints 5:28-29 as the material text. The graves. The coming forth. Body, not spirit. All. Two destinies.
+This teaching prints 5:28-29 as the material text. The graves. The coming forth. Body, not spirit. All. Two destinies.
 
 Who speaks? The Son, who has life in Himself and authority to execute judgment because He is the Son of man. The voice that quickens now will empty graves later.
 
@@ -174,7 +174,7 @@ Daniel 12:2 — “And many of them that sleep in the dust of the earth shall aw
 
 Daniel 12:3 — “And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.”
 
-Sleep in the dust. Awake. Some to everlasting life. Some to shame and everlasting contempt. The leaflet printed 12:3 with this file. 12:2 is the waking the 12:3 shining assumes. Dust is body. Awake is material. Two issues again.
+Sleep in the dust. Awake. Some to everlasting life. Some to shame and everlasting contempt. This teaching printed 12:3 with this file. 12:2 is the waking the 12:3 shining assumes. Dust is body. Awake is material. Two issues again.
 
 Revelation 20:4 — “And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years.”
 
@@ -200,7 +200,7 @@ This is the resurrection of damnation timed. The wicked are raised together afte
 
 The Millennium is not the last judgment. The last judgment in this file is the great white throne after the thousand years.
 
-Now the bad print. The 2015 page set, beside Daniel 12:3 and John 5:28-29, “Rev. 10:4-6, 11-15,” then said a thousand years between the two, Revelation 20:4-6.
+Do not place the two bodily resurrections in Revelation 10. The thousand years between them is Revelation 20:4-6, sitting with Daniel 12:3 and John 5:28-29.
 
 Revelation chapter 10 has eleven verses. There is no 10:12. There is no 10:15. “10:4-6, 11-15” is not a real range. You will not invent verses to save a typesetting. You will not move the two-resurrection doctrine into chapter 10.
 
@@ -232,15 +232,15 @@ VII. THE SPINE SENTENCE
 
 The Millennium is the one thousand years period after the tribulation: the tribulation is seven years after rapture 2, and rapture 2 is not the second advent; the second advent — coming of Christ with the saints — is after tribulation, ushering the Millennium: Revelation 6–19.
 
-That sentence is the leaflet’s spine. You will learn it as a spine, not as a slogan you may rearrange.
+That sentence is the spine of this chapter. You will learn it as a spine, not as a slogan you may rearrange.
 
-Millennium, as the leaflet uses it, is the one thousand years after the tribulation. It is not a present metaphor for a successful church. It is not the last judgment. It is the period in which they that have part in the first resurrection live and reign with Christ, as 20:4-6 already said.
+Millennium is the one thousand years after the tribulation. It is not a present metaphor for a successful church. It is not the last judgment. It is the period in which they that have part in the first resurrection live and reign with Christ, as 20:4-6 already said.
 
-Tribulation, as the leaflet uses it here, is seven years after rapture 2. The seven is the leaflet’s number. The after is the leaflet’s order. You will not invert it to make tribulation the waiting room from which rapture 2 collects the church.
+Tribulation here is seven years after rapture 2. The seven is the number. The after is the order. You will not invert it to make tribulation the waiting room from which rapture 2 collects the church.
 
 Rapture 2 is not the second advent. The page says so in the same breath. If you make them one coming, the spine snaps, Company 4 has no “come back with,” and “with the saints” becomes the same motion as “receive you unto Myself.”
 
-Second advent, as the leaflet uses it, is the coming of Christ with the saints, after tribulation, ushering the Millennium. The range the page gives for that span of judgment-and-return is Revelation 6–19. The appearing that closes the span is 19:11-21. You will open that appearing in section IX. You will not call 19:11 rapture 2.
+Second advent is the coming of Christ with the saints, after tribulation, ushering the Millennium. The range the page gives for that span of judgment-and-return is Revelation 6–19. The appearing that closes the span is 19:11-21. You will open that appearing in section IX. You will not call 19:11 rapture 2.
 
 Order, as the page builds it, not as another school prefers it:
 
@@ -262,7 +262,7 @@ They that are Christ’s at His coming — that is Company 2, and that is raptur
 
 The second advent is the coming of Christ with the saints.
 
-At His coming is not with the saints in the leaflet’s mouth. One motion receives. The other returns. Seven years sit between them. The tribulation is after the first. The Millennium is ushered by the second.
+At His coming is not with the saints in this teaching. One motion receives. The other returns. Seven years sit between them. The tribulation is after the first. The Millennium is ushered by the second.
 
 John 14:1 — “Let not your heart be troubled: ye believe in God, believe also in me.”
 
@@ -278,7 +278,7 @@ Luke 21:35 — “For as a snare shall it come on all them that dwell on the fac
 
 Luke 21:36 — “Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.”
 
-Escape all these things. The leaflet sets this with rapture 2, not with the armies that follow Him out of heaven. Escape is not return.
+Escape all these things. This teaching sets this with rapture 2, not with the armies that follow Him out of heaven. Escape is not return.
 
 1 Corinthians 15:23: Christ the firstfruits; afterward they that are Christ’s at His coming. That afterward is Company 2. It is not permission to merge every later catching-up into one hour.
 
@@ -294,7 +294,7 @@ Charge. State the difference from the spine. Write John 14:1-3 and Luke 21:34-36
 
 IX. THE ADVENT WITH THE SAINTS
 
-The second advent is the coming of Christ with the saints, after tribulation, ushering the Millennium. The leaflet’s range for that span is Revelation 6–19. The appearing that is the advent itself is 19:11-21.
+The second advent is the coming of Christ with the saints, after tribulation, ushering the Millennium. The range for that span is Revelation 6–19. The appearing that is the advent itself is 19:11-21.
 
 Revelation 6:1 — “And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see.”
 
@@ -336,7 +336,7 @@ Charge. Write Revelation 19:11-21 in full. Who follows? What is ushered in chapt
 
 X. FACTS-FILE
 
-The leaflet does not leave the body as a late surprise. It keeps a facts-file. Not one proof text. A file.
+This teaching does not leave the body as a late surprise. It keeps a facts-file. Not one proof text. A file.
 
 Job 19:25 — “For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:”
 
@@ -412,7 +412,7 @@ Romans 6:5 — “For if we have been planted together in the likeness of his de
 
 Planted in the likeness of His death; we shall be also in the likeness of His resurrection. The shall is the body’s hope as well as newness of walk. Do not steal the walk to cancel the later likeness.
 
-Now Paul’s chapter, and 15:19 in its home. 1 Corinthians 15:1-23 is the leaflet’s permanent range. The gospel, then the argument, then the firstfruits.
+Now Paul’s chapter, and 15:19 in its home. 1 Corinthians 15:1-23 is the permanent range. The gospel, then the argument, then the firstfruits.
 
 1 Corinthians 15:1 — “Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;”
 
@@ -474,7 +474,7 @@ Matthew 9:24 — “He said unto them, Give place: for the maid is not dead, but
 
 Matthew 9:25 — “But when the people were put forth, he went in, and took her by the hand, and the maid arose.”
 
-The maid arose. Jairus’s daughter. The leaflet’s temporary mark is 9:25. She lived again. She was not yet clothed with immortality. She would die again. Hands in Course 4 blessed and healed. This hand raises a child who remains in the age of death. Do not make her the firstfruits.
+The maid arose. Jairus’s daughter. The temporary mark is 9:25. She lived again. She was not yet clothed with immortality. She would die again. Hands in Course 4 blessed and healed. This hand raises a child who remains in the age of death. Do not make her the firstfruits.
 
 1 Corinthians 15:20 — “But now is Christ risen from the dead, and become the firstfruits of them that slept.”
 
@@ -486,7 +486,7 @@ The maid arose. Jairus’s daughter. The leaflet’s temporary mark is 9:25. She
 
 Firstfruits of them that slept. Every man in his own order. Christ first. Afterward they that are Christ’s at His coming. The order is the beginning of the companies. The firstfruits is the beginning of the permanent. Jairus’s child is not in this order as firstfruits. She is a sign that the voice can raise. She is not incorruption.
 
-Matthew 27:52-53 will have its own section because the leaflet’s C4 is grave enough to stand alone. Hear only this much here: those saints are not Jairus’s daughter. They belong to His resurrection. They are, this school teaches, now in heaven with their bodies.
+Matthew 27:52-53 will have its own section because this teaching is grave enough to stand alone. Hear only this much here: those saints are not Jairus’s daughter. They belong to His resurrection. They are, this school teaches, now in heaven with their bodies.
 
 Distinction. Temporary ≠ immortal body. Permanent = live forever in their bodies. Christ firstfruits of all permanent. A raising that must die again is not Company 1, 2, 3, 4, or 5. Do not mix the sign-raisings into the five raptures.
 
@@ -512,11 +512,11 @@ Graves opened. Many bodies of the saints which slept arose. Came out of the grav
 
 After His resurrection. The page will not let you raise them as a Friday curiosity detached from Sunday. They come out after He is risen. He is firstfruits. They follow in that beginning.
 
-This school teaches, as the leaflet states, that those saints are right now in heaven with their bodies. There is not another Foundation School teaching. You will not be given a second lecture that returns them to dust to wait with the rest. You will not be given a vision-only appearing that leaves the bodies in Judaea. Bodies arose. They appeared. They are now in heaven with their bodies.
+This school teaches that those saints are right now in heaven with their bodies. There is not another Foundation School teaching. You will not be given a second lecture that returns them to dust to wait with the rest. You will not be given a vision-only appearing that leaves the bodies in Judaea. Bodies arose. They appeared. They are now in heaven with their bodies.
 
 That is owner C4. It is not a consultant’s improvement. It is the page.
 
-Distinction. These are not Matthew 9:25. They do not belong to the temporary file as Jairus’s child does. They belong to His resurrection, to Company 1, to the beginning of the first resurrection, to the permanent as the leaflet sets them — now in heaven with their bodies.
+Distinction. These are not Matthew 9:25. They do not belong to the temporary file as Jairus’s child does. They belong to His resurrection, to Company 1, to the beginning of the first resurrection, to the permanent as they are set here — now in heaven with their bodies.
 
 Principle. Many saints, bodies, after His resurrection, appeared, and are now in heaven with their bodies. No other Foundation School teaching.
 
@@ -536,7 +536,7 @@ Company 1 is past. Christ and the many saints resurrected after Him. The first r
 
 1 Corinthians 15:23 — “But every man in his own order: Christ the firstfruits; afterward they that are Christ’s at his coming.”
 
-Christ the firstfruits. The afterward of 15:23 is Company 2. Company 1 is the firstfruits Himself, with the many saints the leaflet binds to Him from Matthew 27:52-53.
+Christ the firstfruits. The afterward of 15:23 is Company 2. Company 1 is the firstfruits Himself, with the many saints bound to Him from Matthew 27:52-53.
 
 Ephesians 4:8 — “Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men.”
 
@@ -544,7 +544,7 @@ Ephesians 4:9 — “(Now that he ascended, what is it but that he also descende
 
 Ephesians 4:10 — “He that descended is the same also that ascended up far above all heavens, that he might fill all things.)”
 
-He descended first into the lower parts of the earth. He ascended up on high. He led captivity captive. The leaflet sets this with Company 1. Course 6 will open Paradise emptied as its own prison-file. Here the use is the beginning: He went down, He came up, captives led, saints’ bodies with His rising, first resurrection begun.
+He descended first into the lower parts of the earth. He ascended up on high. He led captivity captive. This teaching sets this with Company 1. Course 6 will open Paradise emptied as its own prison-file. Here the use is the beginning: He went down, He came up, captives led, saints’ bodies with His rising, first resurrection begun.
 
 Past. You do not wait for Company 1. It has occurred. If you start the first resurrection at rapture 2, you have denied the beginning the page named.
 
@@ -570,7 +570,7 @@ Company 2: they that are Christ’s at His coming. Rapture 2. Before the tribula
 
 1 Corinthians 15:54 — “So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory.”
 
-This is permanent. Not Jairus’s child. Company 2 as the leaflet clusters it with 15:23.
+This is permanent. Not Jairus’s child. Company 2 as clustered with 15:23.
 
 2 Corinthians 5:1 — “For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.”
 
@@ -588,7 +588,7 @@ This is permanent. Not Jairus’s child. Company 2 as the leaflet clusters it wi
 
 2 Corinthians 5:8 — “We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord.”
 
-The leaflet sets 5:1-8 with they that are Christ’s at His coming. Not unclothed, but clothed upon. Same hope, another breath.
+This teaching sets 5:1-8 with they that are Christ’s at His coming. Not unclothed, but clothed upon. Same hope, another breath.
 
 John 14:1-3 and Luke 21:34-36 you have already in full. Receive unto Myself. Escape all these things. They stay on this side of the seven.
 
@@ -650,11 +650,11 @@ Revelation 7:13 — “And one of the elders answered, saying unto me, What are 
 
 Revelation 7:14 — “And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.”
 
-Came out of great tribulation. Washed their robes in the blood of the Lamb. All nations. No man could number. This multitude is not the 144,000. It sits in the Company 4 file as the page’s “great multitude of tribulation saints after rapture 2.” The full span the leaflet prints is 6:1–19:21 — seals, trumpets, vials, Babylon, then the return.
+Came out of great tribulation. Washed their robes in the blood of the Lamb. All nations. No man could number. This multitude is not the 144,000. It sits in the Company 4 file as the page’s “great multitude of tribulation saints after rapture 2.” The full span is 6:1–19:21 — seals, trumpets, vials, Babylon, then the return.
 
 You will not teach every plague here as if this chapter were a commentary on all of Revelation 6–18. You will know the span. You will know they are after rapture 2. You will know they return with Him.
 
-Revelation 19:14 you have: the armies which were in heaven followed Him upon white horses, clothed in fine linen, white and clean. In time to come back. That is the leaflet’s purpose-clause for this company.
+Revelation 19:14 you have: the armies which were in heaven followed Him upon white horses, clothed in fine linen, white and clean. In time to come back. That is the purpose-clause for this company.
 
 Distinction. After rapture 2 is not instead of rapture 2. During the seven is not before the seven. Return with Christ is not receive unto Myself. First resurrection still — they are not the rest of the dead. They are not raised after the Millennium to the lake.
 
@@ -726,7 +726,7 @@ Q35. Temporary versus permanent: why Matthew 9:25 is not 1 Corinthians 15:20-23.
 
 Q36. All without Christ raised after the Millennium: who is not in the first resurrection?
 
-The leaflet marked further reading: Millennium.
+This teaching marked further reading: Millennium.
 
 Millennium is a companion volume, not a seventh course, not a seventh principle, not a substitute for Hebrews 6:2. Directed sections when the book is in your hand — the thousand years, the reign, the binding that Course 6 will name as the abyss — not an assignment to finish every page of a library before you may close this chapter. Completing this stone does not require purchasing the whole first wave. Completing this stone does require the spine, the two kinds, the two issues, and the five companies without flattening.
 

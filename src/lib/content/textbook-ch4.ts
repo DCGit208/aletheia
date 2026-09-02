@@ -2,27 +2,27 @@ export const textbookChapter4Title = "The Doctrine of Baptisms";
 
 export const textbookChapter4Body = `Hebrews 6:2 — “Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.”
 
-The 2015 page printed “baptism.” The verse is baptisms. This school will not flatten the plural. There are seven in Scripture. Three are essential for believers. Only one of those three saves the soul.
+Hebrews 6:2 is baptisms, plural. This school will not flatten the plural. There are seven in Scripture. Three are essential for believers. Only one of those three saves the soul.
 
 Course 2 named the son. This chapter baptizes that son: into Christ, then in water as a sign, then in the Spirit as witness.
 
-This is the textbook of Foundation School, Aletheia Publications, under Dr. Coach Achu Gustave. Holy Scripture is the authority. The leaflet is the source manuscript. You will learn the word as the source uses it, then the seven, then the three, then the agents, then the distinctions that keep the tank from becoming a second saviour.
+This is the textbook of Foundation School, Aletheia Publications, under Dr. Coach Achu Gustave. Holy Scripture is the authority. You will learn the word, then the seven, then the three, then the agents, then the distinctions that keep the tank from becoming a second saviour.
 
 I. BAPTISMOS — WASHING
 
 Baptismos: ablution. Ritual washing of a priest’s hands or of sacred vessels.
 
-Do not make the word a font before you have heard what it washes. The leaflet opens the principle with washing, not with a tank.
+Do not make the word a font before you have heard what it washes. This teaching opens the principle with washing, not with a tank.
 
 Hebrews 6:2 names a doctrine of baptisms. The first word under that heading is washing. Hold it.
 
 Ablution is not a metaphor you may ignore. It is the sense of the word. Something is washed. Someone is washed. The question this chapter must answer is: by what agency, into what, in what element, by which agent, and to what end.
 
-If you begin at the river, you have begun late. The source begins at baptismos. Washing. Then it takes you to the Word.
+If you begin at the river, you have begun late. Begin at baptismos. Washing. Then it takes you to the Word.
 
 A priest’s hands were washed because the priest was to handle holy things. Sacred vessels were washed because they were to bear what was set apart. The washing is not the priesthood. The washing serves a holiness already named.
 
-The washing will not invent the son Course 2 named. It will not replace the new creature Course 1 received. It will be understood as the source understands it: first as the Word’s agency at new birth, then as the seven, then as the three for believers.
+The washing will not invent the son Course 2 named. It will not replace the new creature Course 1 received. It will be understood: first as the Word’s agency at new birth, then as the seven, then as the three for believers.
 
 Charge. Before you argue immersion or pouring, write the word baptismos as ablution. What is washed? You do not yet answer with a tank. You answer with washing.
 
@@ -42,7 +42,7 @@ You were not born again of a tank. You were born again of incorruptible seed, by
 
 John 3:3-5 — “Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God. Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother’s womb, and be born? Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.”
 
-Nicodemus hears “born” and thinks a womb. The Lord answers with water and the Spirit. The leaflet places John 3:5 with Ephesians 5:26 and 1 Peter 1:23: the washing signifies the agency of the Word at new birth.
+Nicodemus hears “born” and thinks a womb. The Lord answers with water and the Spirit. This teaching places John 3:5 with Ephesians 5:26 and 1 Peter 1:23: the washing signifies the agency of the Word at new birth.
 
 John 3:6-8 — “That which is born of the flesh is flesh; and that which is born of the Spirit is spirit. Marvel not that I said unto thee, Ye must be born again. The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.”
 
@@ -54,7 +54,7 @@ Charge. Write Ephesians 5:26, 1 Peter 1:23, and John 3:5 as one file. What is th
 
 III. SEVEN IN SCRIPTURE — NO EIGHTH
 
-The leaflet said seven mentioned in the Scriptures for believers, and named only three. The authorized list is seven. We will not invent an eighth. We will not pretend the Bible has only three.
+This teaching said seven mentioned in the Scriptures for believers, and named only three. The authorized list is seven. We will not invent an eighth. We will not pretend the Bible has only three.
 
 You must be able to name all seven, and which three are essential for believers, and in what doctrinal order. A man who can name three and cannot name seven has flattened the plural. A man who invents an eighth has left the file.
 
@@ -146,7 +146,7 @@ Baptō is to dip. Luke 16:24 — the rich man asks that Lazarus dip the tip of h
 
 Baptizō takes that root and names the act: to dip; to overwhelm with suffering (Matthew 20:22-23; Luke 12:50); to bury into (Romans 6:3-7; Colossians 2:12). Water, Spirit, suffering, cloud, sea — the word does not change its sense because the element changed. You are dipped, overwhelmed, buried into.
 
-The leaflet’s use of baptizō at Galatians 3:27 is: to make whelmed — fully wet; overpowered / overwhelmed; submerged / drowned. Hold that for the next section.
+Baptizō at Galatians 3:27 is: to make whelmed — fully wet; overpowered / overwhelmed; submerged / drowned. Hold that for the next section.
 
 Charge. Name the three for believers in doctrinal order. Name the three agents with one text each. Define baptizō from baptō without making the tank the word.
 
@@ -180,7 +180,7 @@ Do not move Galatians 3:27 to the font as if the minister whelmed you into Chris
 
 Galatians 3:26 will be held with 3:27 in one paragraph in section X. Do not read 3:27 yet as if 3:26 were not there. Children by faith. Baptized into Christ, put on Christ. One life.
 
-Charge. What does baptizō mean as the leaflet uses it at Galatians 3:27? What have you put on if you have been baptized into Christ? What have you not put on if you have only been wet?
+Charge. What does baptizō mean at Galatians 3:27? What have you put on if you have been baptized into Christ? What have you not put on if you have only been wet?
 
 VII. BURIED, RAISED, ONE BODY
 
@@ -221,7 +221,7 @@ Do not worship the sign as if it were the object.
 
 A man who refuses water because “I was baptized into Christ already” has told a truth and then used it to disobey the sign the Lord attached to the nations taught. A man who runs to water to get saved has made the sign the object. Both have left the file.
 
-Christian water is number 5 in the seven. It is the second of the three for believers. It is after one is saved. It is significant only for those who have received Christ. The leaflet will say that again when 1 Corinthians 1 is opened.
+Christian water is number 5 in the seven. It is the second of the three for believers. It is after one is saved. It is significant only for those who have received Christ. This teaching will say that again when 1 Corinthians 1 is opened.
 
 Charge. When is water baptizō? What does it symbolize? Who is the agent? What two errors will you refuse: refusing the sign, and worshipping the sign?
 
@@ -235,7 +235,7 @@ Christ suffered once for sins. The just for the unjust. That He might bring us t
 
 The like figure. Figure. Baptism doth also now save us — and the verse itself refuses the filth of the flesh as the saving. Not the putting away of the filth of the flesh, but the answer of a good conscience toward God, by the resurrection of Jesus Christ.
 
-The source asks: is it the water that saves us, or the thing that it is a figure or symbol of?
+The question is: is it the water that saves us, or the thing that it is a figure or symbol of?
 
 Faith in the death, burial, and resurrection of Christ saves the soul, not the sign.
 
@@ -269,7 +269,7 @@ Galatians 3:26 — “For ye are all the children of God by faith in Christ Jesu
 
 Galatians 3:27 — “For as many of you as have been baptized into Christ have put on Christ.”
 
-Hold both verses in one paragraph. Children by faith. Baptized into Christ, put on Christ. Faith in Christ Jesus saves the soul, not water baptism. That is the leaflet’s definitive line, and 3:26 is the verse it prints for that line. 3:27 is baptism into Christ, not the font as the saviour. If you read 3:26 and throw away 3:27, you have faith with no putting-on. If you read 3:27 and throw away 3:26, you have a baptism that is no longer by faith. They are one life. Course 2 already forbade two gospels. Do not make two here.
+Hold both verses in one paragraph. Children by faith. Baptized into Christ, put on Christ. Faith in Christ Jesus saves the soul, not water baptism. That is the line, and 3:26 is the verse for it. 3:27 is baptism into Christ, not the font as the saviour. If you read 3:26 and throw away 3:27, you have faith with no putting-on. If you read 3:27 and throw away 3:26, you have a baptism that is no longer by faith. They are one life. Course 2 already forbade two gospels. Do not make two here.
 
 Charge. Write Galatians 3:26 and 3:27 as one paragraph. Then write why the preaching of the cross, not water, is the power of God. Use 1 Corinthians 1:17-18 and 1:24.
 
@@ -317,13 +317,13 @@ John 3:34 — “For he whom God hath sent speaketh the words of God: for God gi
 
 The verse, in its own sentence, is unto Him — Christ. He whom God hath sent speaketh the words of God. God giveth not the Spirit by measure unto Him.
 
-The leaflet applies “the measure Christ experienced” and says: the Spirit not by measure unto you.
+This teaching applies “the measure Christ experienced” and says: the Spirit not by measure unto you.
 
-Hold the verse. Hold the source’s use. Do not empty John 3:34 to protect a stingy second-blessing slogan. Do not invent a measure the source refuses. Do not pretend the grammar of John 3:34 is about you in the first instance. It is unto Him. Then hold the leaflet: that measure, not by measure, unto you.
+Hold the verse. Hold the use given here. Do not empty John 3:34 to protect a stingy second-blessing slogan. Do not invent a measure this school refuses. Do not pretend the grammar of John 3:34 is about you in the first instance. It is unto Him. Then hold this: that measure, not by measure, unto you.
 
-Both. The sentence is Christ’s. The application is the source’s. A babe will drop one to keep the other. You will hold both.
+Both. The sentence is Christ’s. The application is given here. A babe will drop one to keep the other. You will hold both.
 
-Charge. Whose sentence is John 3:34 in its own grammar? What does the leaflet apply unto you? Why must you hold both?
+Charge. Whose sentence is John 3:34 in its own grammar? What does this school apply unto you? Why must you hold both?
 
 XIII. FULLNESS
 
@@ -407,11 +407,11 @@ The Spirit of truth does not invent another image. He shews what Course 2 alread
 
 Guide into all truth. Not into a private religion. All truth. He shall not speak of Himself. A spirit that advertises itself is not this Spirit. He takes of Mine. He announces in detail. Rehearse. Report. Show.
 
-What is Mine? The leaflet’s tie is not vague property. Mine is the express image of God, announced unto you as express image and likeness of Me. Genesis 1:26-28. The Spirit who cries Abba is the Spirit who shews the image. Sonship and image are one household.
+What is Mine? The tie is not vague property. Mine is the express image of God, announced unto you as express image and likeness of Me. Genesis 1:26-28. The Spirit who cries Abba is the Spirit who shews the image. Sonship and image are one household.
 
 Course 3 depends on Courses 1 and 2. You cannot have Spirit witness of sonship without a son. You cannot have Mine announced as image if you emptied Genesis 1:26-28. The Spirit will not shew a different man than the one God made and Christ restored.
 
-Charge. What is “Mine” in John 16:14-15 as the leaflet ties it to Genesis 1:26-28? What does anangellō mean? What will the Spirit not do: speak of Himself, or invent another image?
+Charge. What is “Mine” in John 16:14-15 as Genesis 1:26-28 holds it? What does anangellō mean? What will the Spirit not do: speak of Himself, or invent another image?
 
 XVI. FURTHER READING
 

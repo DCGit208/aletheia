@@ -4,7 +4,7 @@ export const textbookChapter3Body = `Hebrews 6:1 — “Therefore leaving the pr
 
 Repentance received you into the new creature. Faith names the state you are in. Do not treat this chapter as a mood. Treat it as the second stone.
 
-This is the textbook of Foundation School, Aletheia Publications, under Dr. Coach Achu Gustave. Holy Scripture is the authority. The 2015 leaflet is the source manuscript. What follows opens that manuscript at the second principle until you can teach it.
+This is the textbook of Foundation School, Aletheia Publications, under Dr. Coach Achu Gustave. Holy Scripture is the authority. What follows opens the second principle until you can teach it.
 
 The writer of Hebrews will not let you lay this stone again as a lifestyle. He will also not let you skip it. You leave a foundation after it is laid. You do not leave a heading you never understood.
 
@@ -54,7 +54,7 @@ This acceptance or approval is on the basis of our true nature from creation wit
 
 Genesis 1:26 — “And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.”
 
-God, in the Hebrew of this verse, is ’ĕlōhîm. The leaflet reads ’ĕlōhîm as plural: Trinity. “Let us make” is not a committee of angels inventing a lesser thing. God speaks as God. The “us” and the “our” are the speech of God concerning God. Man is made in that image, after that likeness.
+God, in the Hebrew of this verse, is ’ĕlōhîm. This teaching reads ’ĕlōhîm as plural: Trinity. “Let us make” is not a committee of angels inventing a lesser thing. God speaks as God. The “us” and the “our” are the speech of God concerning God. Man is made in that image, after that likeness.
 
 Do not send the plurality to a courtroom of created beings. The Maker is speaking. The thing made is man.
 
@@ -64,7 +64,7 @@ Genesis 1:27 — “So God created man in his own image, in the image of God cre
 
 The Living Bible (TLB) gloss, kept as a gloss beside the KJV, not as a rival Bible: “So God made man like his Maker. Like God did God make man; Man and maid did he make them.”
 
-Like his Maker. That is the leaflet’s use of the gloss. Mark it TLB. Keep the KJV as the text you teach. The gloss is there so you will not miss the sentence: God made man like his Maker.
+Like his Maker. That is the use of the gloss. Mark it TLB. Keep the KJV as the text you teach. The gloss is there so you will not miss the sentence: God made man like his Maker.
 
 Genesis 1:28 — “And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.”
 
@@ -90,7 +90,7 @@ John 17:20-23 will be opened in its own section. It belongs in this cluster now 
 
 This is the image-and-likeness file. You will not be taught a hedge that undoes Genesis 1:26-28. You will be taught the writing.
 
-If you came to this chapter hoping the school would apologize for the text, you came to the wrong house. If you came hoping the school would invent a title the source does not grant, you also came to the wrong house. The text is enough. Reason from it.
+If you came to this chapter hoping the school would apologize for the text, you came to the wrong house. If you came hoping the school would invent a title the cluster does not grant, you also came to the wrong house. The text is enough. Reason from it.
 
 Further reading at this knot, directed, not as a seventh course: The Doctrine of Man. Why Men Die.
 
@@ -134,7 +134,7 @@ Knowledge again. Course 1 defined knowledge as perception, learning, and reasoni
 
 Partakers of the divine nature. The promises are the means. Escape from the corruption that is in the world through lust is named in the same sentence. You are not being invited to invent another nature. You are being made partaker of the nature Genesis already named, having escaped the corruption.
 
-The leaflet places this verse with man’s true nature and with the glory he came short of through sin. Dikaiosynē, later in this chapter, is equity: impartiality to and conformity with the nature of God — original: back on course.
+This teaching places this verse with man’s true nature and with the glory he came short of through sin. Dikaiosynē, later in this chapter, is equity: impartiality to and conformity with the nature of God — original: back on course.
 
 Back on course. Psalm 82:5 said the foundations of the earth are out of course. Romans 3 will say all have sinned and come short of the glory of God. 2 Peter 1:4 is not a new species. It is participation in the nature from which man came short, by the promises, in escape from corruption.
 
@@ -154,13 +154,13 @@ The righteousness of God is manifested. It is witnessed by the law and the proph
 
 Romans 3:23-24 — “For all have sinned, and come short of the glory of God; Being justified freely by his grace through the redemption that is in Christ Jesus.”
 
-Why did Jesus come? The leaflet sets the question on these verses. All have sinned. All have come short of the glory of God. Being justified freely by His grace through the redemption that is in Christ Jesus.
+Why did Jesus come? This teaching sets the question on these verses. All have sinned. All have come short of the glory of God. Being justified freely by His grace through the redemption that is in Christ Jesus.
 
-The glory come short is deviation from true nature. That is the source’s own gloss. Glory here is not a vague heaven someday. Glory here is the nature Genesis named and the image 1 Corinthians 11:7 will name.
+The glory come short is deviation from true nature. That is the gloss. Glory here is not a vague heaven someday. Glory here is the nature Genesis named and the image 1 Corinthians 11:7 will name.
 
 1 Corinthians 11:7 — “For a man indeed ought not to cover his head, forasmuch as he is the image and glory of God: but the woman is the glory of the man.”
 
-The immediate context is headship and covering in the assembly. This school will not skip the clause because the chapter is contested. The leaflet cites the identity clause: man is the image and glory of God. That is the glory named in Romans 3:23.
+The immediate context is headship and covering in the assembly. This school will not skip the clause because the chapter is contested. This teaching cites the identity clause: man is the image and glory of God. That is the glory named in Romans 3:23.
 
 Teach the clause. He is the image and glory of God. Come short of the glory is come short of that. Jesus came because that glory was come short. He did not come to invent a different creature. He came that the man made in the image might be justified freely and set back on course.
 
@@ -168,13 +168,13 @@ Romans 3:25-26 — “Whom God hath set forth to be a propitiation through faith
 
 God set forth Christ to be a propitiation through faith in His blood. The declaration is His righteousness. He is just. He is the justifier of him which believeth in Jesus. The justifier does not become unjust in order to justify. The blood declares righteousness. The believer is the one justified.
 
-Charge. Answer the source question: Why did Jesus come? Answer in terms of glory and true nature from Romans 3:23-24 and 1 Corinthians 11:7. Do not answer with a slogan that never names the glory.
+Charge. Answer the question: Why did Jesus come? Answer in terms of glory and true nature from Romans 3:23-24 and 1 Corinthians 11:7. Do not answer with a slogan that never names the glory.
 
 VI. DIKAIOŌ — JUSTIFIED FREELY
 
 Justified: Greek dikaioō — render just or innocent, free from evil or guilt. It is a derivative of dikaiosynē: righteousness, justification. Equity: impartiality to and conformity with the nature of God (2 Peter 1:4). Original: back on course.
 
-Has man been justified? The source answers: Yes. And freely. Through Greek apolutrōsis — redemption; ransom in full.
+Has man been justified? Yes. And freely. Through Greek apolutrōsis — redemption; ransom in full.
 
 Romans 3:24 again: being justified freely by His grace through the redemption that is in Christ Jesus. Freely. By His grace. Through the redemption. The redemption is in Christ Jesus.
 
@@ -190,7 +190,7 @@ Boasting is excluded. The law of faith excludes it. A man is justified by faith 
 
 The distinction is sharp. Free justification is not earned innocence. Earned innocence is not this principle. A man who is still trying to buy what apolutrōsis already paid is not yet standing on this stone. He may be busy. He is not crediting the ransom.
 
-Charge. Has man been justified? Write the source’s own answer: Yes, and freely. Show apolutrōsis in Romans 3:24. Name what you will not add to a ransom in full.
+Charge. Has man been justified? Write the answer: Yes, and freely. Show apolutrōsis in Romans 3:24. Name what you will not add to a ransom in full.
 
 VII. YOU ARE THE DIKAIOSYNĒ OF GOD NOW
 
@@ -202,17 +202,17 @@ God has reconciled us to Himself by Jesus Christ. God was in Christ, reconciling
 
 2 Corinthians 5:20-21 — “Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ’s stead, be ye reconciled to God. For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.”
 
-He hath made Him to be sin for us, who knew no sin. That we might be made the righteousness of God in Him. The leaflet’s present tense stands: so right now, you are the dikaiosynē of God in Christ.
+He hath made Him to be sin for us, who knew no sin. That we might be made the righteousness of God in Him. present tense stands: so right now, you are the dikaiosynē of God in Christ.
 
 Dikaiosynē: righteousness, justification. Equity: impartiality to and conformity with the nature of God. Original: back on course. You are that, in Him, now.
 
 This is not an aspiration you visit on a good day. It is the state pistis credits. Course 1 laid the new creature. This chapter names the righteousness of that creature.
 
-Do not say “I am becoming the righteousness of God” as if 2 Corinthians 5:21 were a ladder you have not finished. The verse is not a ladder. He made Him to be sin. The purpose clause is that we might be made the righteousness of God in Him. The leaflet will not let you postpone the name.
+Do not say “I am becoming the righteousness of God” as if 2 Corinthians 5:21 were a ladder you have not finished. The verse is not a ladder. He made Him to be sin. The purpose clause is that we might be made the righteousness of God in Him. This teaching will not let you postpone the name.
 
 Do not say “I am the righteousness of God” as a swagger that has dropped “in Him.” The location is in Him. The new creature is in Christ. The dikaiosynē is in Him.
 
-Charge. Write 2 Corinthians 5:21 in full. Then write, in the present tense the source uses, what you are in Christ. Do not write a future you hope to earn. Do not write a title you invented. Write the verse.
+Charge. Write 2 Corinthians 5:21 in full. Then write, in the present tense, what you are in Christ. Do not write a future you hope to earn. Do not write a title you invented. Write the verse.
 
 VIII. HEBREWS 1:8 — WHAT DOES THAT MAKE YOU?
 
@@ -234,19 +234,19 @@ Hebrews 1:8 — “But unto the Son he saith, Thy throne, O God, is for ever and
 
 Unto the Son He saith. Thy throne, O God, is for ever and ever. A sceptre of righteousness is the sceptre of Thy kingdom. The Father addresses the Son as God. The sceptre is righteousness — dikaiosynē in the thought of this chapter.
 
-The leaflet asks, after 2 Corinthians 5:21: according to Hebrews 1:8, what does that make you? It does not print the answer.
+After 2 Corinthians 5:21, the question is: according to Hebrews 1:8, what does that make you? It does not print the answer.
 
-This school will not invent a title the source does not grant. You will reason from the cluster. You are the dikaiosynē of God in Christ. The Son is the brightness of His glory and the express image of His person. The Father addresses the Son as God. The sceptre of His kingdom is righteousness. Genesis 1:26-28 has already named image, likeness, and dominion. 1 John 4:17 has said, as He is, so are we in this world.
+This school will not invent a title the cluster does not grant. You will reason from the cluster. You are the dikaiosynē of God in Christ. The Son is the brightness of His glory and the express image of His person. The Father addresses the Son as God. The sceptre of His kingdom is righteousness. Genesis 1:26-28 has already named image, likeness, and dominion. 1 John 4:17 has said, as He is, so are we in this world.
 
-Write what the cluster forces. Do not write what a slogan wants. Do not write a name the source refused to print. The charge is the question. The labour is the reasoning.
+Write what the cluster forces. Do not write what a slogan wants. Do not write a name the cluster does not grant. The charge is the question. The labour is the reasoning.
 
 If you invent a title to sound mature, you have become a babe with a louder word. If you refuse to reason because you are afraid of the cluster, you have also become a babe. Dull of hearing is still dull when it is cautious.
 
-Charge. Answer the source question from the cluster: 2 Corinthians 5:21; Hebrews 1:3; Hebrews 1:8; Genesis 1:26-28; 1 John 4:17. Do not invent a title. Do not leave the question blank. Reason.
+Charge. Answer the question from the cluster: 2 Corinthians 5:21; Hebrews 1:3; Hebrews 1:8; Genesis 1:26-28; 1 John 4:17. Do not invent a title. Do not leave the question blank. Reason.
 
 IX. WHO IS HEIR? WHAT IS AN HEIR?
 
-The leaflet asks two questions and points you to Galatians 4:5-7. Who is heir of God? What is the meaning of “heir”?
+This teaching asks two questions and points you to Galatians 4:5-7. Who is heir of God? What is the meaning of “heir”?
 
 Galatians 4:1 already told you that the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all. The child-heir can live like a hired man. That is not because he is a hired man. It is because he is still under tutors until the time appointed.
 
@@ -260,7 +260,7 @@ Romans 8:17 again: heirs of God, and joint-heirs with Christ. Joint-heirs. Not a
 
 Do not make heir a metaphor for “someone who likes church.” Do not make heir a career in ministry. Do not make heir a feeling of belonging. Answer from the adoption cluster.
 
-The distinction is the household. A servant receives orders and a wage, if he receives anything. A son receives the name and the portion. Course 3 will return to this when the Spirit cries Abba and the source says you are not a slave. Do not wait for that chapter to refuse the hired-man gospel.
+The distinction is the household. A servant receives orders and a wage, if he receives anything. A son receives the name and the portion. Course 3 will return to this when the Spirit cries Abba and you are not a slave. Do not wait for that chapter to refuse the hired-man gospel.
 
 Application. If you pray as a servant trying to be hired, you have not credited Galatians 4:7. If you idle as if an heir had no charge, you have not credited Romans 8:17’s “if so be that we suffer with him.” The heir is not a hired man. The heir is also not a tourist.
 
@@ -278,9 +278,9 @@ As Thou hast sent Me, even so have I sent them. For their sakes He sanctifies Hi
 
 John 17:20-23 — “Neither pray I for these alone, but for them also which shall believe on me through their word; That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me. And the glory which thou gavest me I have given them; that they may be one, even as we are one: I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.”
 
-The leaflet asks: How would you liken the prayer of oneness with the Father by Jesus in John 17:20-23?
+This teaching asks: How would you liken the prayer of oneness with the Father by Jesus in John 17:20-23?
 
-Liken. The word is the source’s word. You are not asked to invent a new doctrine. You are asked to set this prayer beside what you have already been taught and to say what the words themselves force.
+Liken. The word is liken. You are not asked to invent a new doctrine. You are asked to set this prayer beside what you have already been taught and to say what the words themselves force.
 
 Do not reduce it to an organizational merger. A merger of ministries can be signed by men who are not one as the Father is in the Son. Do not empty it into a feeling of togetherness. A feeling can be warm in a room that has never heard “I in them, and thou in me.”
 
@@ -328,9 +328,9 @@ Charge. Write 2 Corinthians 4:4 and 4:6 as one file. Who is the image of God? Wh
 
 XII. THE SECOND STONE LAID — REASONING AND APPLICATION
 
-You have now walked the second principle as the source walks it. Pistis. Adoption. Image and likeness. Psalm 82 with John 10. Partakers. Glory come short. Dikaioō freely. Apolutrōsis in full. You are the dikaiosynē of God now. Hebrews 1:8 asked. Heir named. John 17 likened. The face of Christ shone.
+You have now walked the second principle. Pistis. Adoption. Image and likeness. Psalm 82 with John 10. Partakers. Glory come short. Dikaioō freely. Apolutrōsis in full. You are the dikaiosynē of God now. Hebrews 1:8 asked. Heir named. John 17 likened. The face of Christ shone.
 
-Reasoning is not optional decoration. Chapter 1 told you knowledge is perception, learning, and reasoning. This chapter has asked the questions the leaflet itself asks. A man who can recite the headings and cannot answer the questions is still a babe in the word of righteousness.
+Reasoning is not optional decoration. Chapter 1 told you knowledge is perception, learning, and reasoning. This chapter has asked the questions this school asks. A man who can recite the headings and cannot answer the questions is still a babe in the word of righteousness.
 
 Application is not a fourth gospel. It is the credence lived. If you are a son, you will not keep the servant’s name for humility’s sake. That is not humility. That is unbelief wearing manners. If you are the dikaiosynē of God in Christ, you will not postpone innocence until you have paid what the ransom already paid. If you are made in the image, after the likeness, you will not apologize for Genesis 1:26-28.
 

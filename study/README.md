@@ -6,7 +6,7 @@ It is **not** the textbook and **not** the 80–100 written lessons. Those follo
 
 ## Source
 
-- Printed leaflet: `public/resources/aletheia-libraries-1.pdf` (5 pages, ©2015 Aletheia Libraries)
+- Writer archive of the printed leaflet (not a student resource, not in Shop): `study/source/aletheia-libraries-1.pdf` and `study/source/leaflet-extracted.txt`. Do not publish the leaflet in the app.
 - Working extract of the PDF text layer: `study/source/leaflet-extracted.txt`
 - Author of the teaching: Dr. Coach Achu Gustave
 - Imprint of the later textbook: Aletheia Publications

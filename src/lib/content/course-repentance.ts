@@ -72,7 +72,7 @@ John 10:34-36 — “Jesus answered them, Is it not written in your law, I said,
 
 The writing He cites is Psalm 82:6 — “I have said, Ye are gods; and all of you are children of the most High.” Course 2 will open that psalm with verse 7 and with this same appeal. Here the point is narrower and it will stay narrower: the Lord pillows in the graphē. The school pillows where He pillowed. You do not get a private imprimatur because you are sincere. You do not get a safer Bible because an organization is old.
 
-The 2015 leaflet calls that writing Holy Writ: unchallenged authority, whether for persons, organizations, governments, or nations. Graphē is not a mood that accompanies a meeting. It is the writing. If you will hear from God in this year, you will hear Him where He has spoken.
+Holy Writ is unchallenged authority, whether for persons, organizations, governments, or nations. Graphē is not a mood that accompanies a meeting. It is the writing. If you will hear from God in this year, you will hear Him where He has spoken.
 
 A naturalistic Christian experience follows the teachings, or manifests the qualities or spirit, of Jesus Christ. It conforms to the unleavened sincerity and truth of the graphē. The other thing — ersatz analogical, nonliteral religiousisms — is a likeness of the faith that will not sit down under the text. A likeness can use the vocabulary. A likeness can fill a room. A likeness will not be judged by the writing. This school will not trade the graphē for that likeness.
 
@@ -82,7 +82,7 @@ The cover of the textbook may say Truth · Knowledge · Maturity. That line belo
 
 Sit the charge. John 10:31-33 — “Then the Jews took up stones again to stone him. Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me? The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.” He does not answer with a likeness. He answers with “Is it not written.” Graphē is the court He will stand in.
 
-Imprimatur, as this school uses it, is that unchallenged mark. Persons are under it. Organizations are under it. Governments and nations are under it. You do not outrank the writing by office. You do not outrank it by sincerity. You do not outrank it by a year of enrolment. If a teaching will not sit down under John 10:35, it is religiousism, however Christian the vocabulary.
+Imprimatur is that unchallenged mark. Persons are under it. Organizations are under it. Governments and nations are under it. You do not outrank the writing by office. You do not outrank it by sincerity. You do not outrank it by a year of enrolment. If a teaching will not sit down under John 10:35, it is religiousism, however Christian the vocabulary.
 
 The premiere convention is first principles, then maturity. Hebrews 5:12 already waits in the next lesson: the first principles of the oracles of God. This book is not a second Bible. It opens what is already written. If you treat the textbook as a more convenient Bible, you have already left the convention. If you treat the graphē as a quarry for mottoes, you have already taken up the likeness.
 
@@ -95,7 +95,7 @@ The Walk — one page. Quote John 10:34-36 in full. Name what charge the Lord wa
 
 Intensive — three pages on that same cluster. Page 1 is The Walk page. Page 2: sit John 10:34-36 in its chapter — the Jews take up stones; they say He, being a man, maketh Himself God; He answers from the writing. Do not import Course 2’s later use of Psalm 82:7 here. Page 3: teach the premiere convention as you would stand behind it before a teacher: first principles, then maturity; graphē over religiousism; this book as the convention for hearing, not a second Bible.
 
-Write in your own hand. Quote the governing verses in full. Name graphē as this school uses it. Draw the distinction: writing versus religiousism. The page is not a journal of feelings.
+Write in your own hand. Quote the governing verses in full. Name graphē: Holy Writ, the Bible, Scripture. Draw the distinction: writing versus religiousism. The page is not a journal of feelings.
 
 Distinction
 Scripture is not “religiousism.” The school does not invent a more convenient Bible.
@@ -180,7 +180,7 @@ Hebrews 5:13 — “For every one that useth milk is unskilful in the word of ri
 
 Unskilful is Greek apeiros: inexperienced, that is, ignorant — unskilful. The inexperience is not in crowding a meeting. It is in the word of righteousness. The verse will not let you hide unskill behind a calendar of services. A man may be present every week and still be apeiros. An organization may be age-old and still be apeiros.
 
-The leaflet is severe: the absence of reasonability (sound judgment) and the presence of unskilfulness produce aridity and tergiversation among persons, and even among age-old organizations that appear Christianized. What follows is damnable accepted heresies called doctrines. That sentence is not an insult to fill a page. It is a diagnosis of what unskill breeds. Aridity is dryness where there should have been the word. Tergiversation is turning, equivocating, shifting — a people who will not sit down under the text and therefore cannot stay with a doctrine.
+Hear the severity: the absence of reasonability (sound judgment) and the presence of unskilfulness produce aridity and tergiversation among persons, and even among age-old organizations that appear Christianized. What follows is damnable accepted heresies called doctrines. That sentence is not an insult to fill a page. It is a diagnosis of what unskill breeds. Aridity is dryness where there should have been the word. Tergiversation is turning, equivocating, shifting — a people who will not sit down under the text and therefore cannot stay with a doctrine.
 
 That lack of skill is blamed on failure to realize the scholarly impetus of the Scripture and to align accordingly: failure to know the Scriptures, whether in soft copy or hard. Soft copy or hard copy does not matter if there is no labour. The cure is not a louder room. The cure is labour in the word.
 
@@ -190,7 +190,7 @@ The Word is the basis for salvation. If you are unskilled there, you are unskill
 
 Hebrews 5:12 has already said they have need that one teach them again which be the first principles of the oracles of God. 5:13 names what that need is: unskilful in the word of righteousness. Apeiros is not “new to the building.” It is inexperience in that word. The word of righteousness is not a topic among topics. It is the word by which a man is aligned, or by which he is left arid.
 
-The leaflet’s chain is severe and it is exact. Absence of sound judgment plus presence of unskilfulness produces aridity and tergiversation. Aridity is a people dry of the oracles while they still speak Christian. Tergiversation is a people who will not stay with a doctrine because they never knew the Scriptures that would have held them. Damnable accepted heresies called doctrines follow that unskill. An age-old organization can wear the name and still be that chain.
+The chain is severe and it is exact. Absence of sound judgment plus presence of unskilfulness produces aridity and tergiversation. Aridity is a people dry of the oracles while they still speak Christian. Tergiversation is a people who will not stay with a doctrine because they never knew the Scriptures that would have held them. Damnable accepted heresies called doctrines follow that unskill. An age-old organization can wear the name and still be that chain.
 
 Soft copy or hard copy is not the issue. A man with a phone full of Bibles can be apeiros. A man with a worn book and no labour can be apeiros. The scholarly impetus of the Scripture is not a degree. It is knowing what is written and aligning. The cure is labour in the word. The next lessons will name that labour spoudazō and word drill. This lesson will not let you substitute a crowded room for that labour.
 
@@ -199,11 +199,11 @@ Name the hour. Name the text. If you cannot, you are not yet a workman, however 
 Labour
 The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Walk — one page. Write Hebrews 5:13. Define apeiros as the source uses it: inexperienced, ignorant, unskilful — in the word of righteousness. Then name your actual study labour this week: the hour and the text. If you cannot name it, you are not yet a workman. Do not name a meeting in the place of labour.
+The Walk — one page. Write Hebrews 5:13. Define apeiros: inexperienced, ignorant, unskilful — in the word of righteousness. Then name your actual study labour this week: the hour and the text. If you cannot name it, you are not yet a workman. Do not name a meeting in the place of labour.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write Hebrews 5:12-14 in full. Show how “milk,” “unskilful,” “babe,” and “senses exercised” sit in one stretch. Reason why a crowded room can still be apeiros. Page 3: teach what the leaflet blames — failure to know the Scriptures and to align — and what it will not accept as a cure. Write the teaching as you would stand behind it before a teacher.
+Intensive — three pages. Page 1 is that tight page. Page 2: write Hebrews 5:12-14 in full. Show how “milk,” “unskilful,” “babe,” and “senses exercised” sit in one stretch. Reason why a crowded room can still be apeiros. Page 3: teach what this school blames — failure to know the Scriptures and to align — and what it will not accept as a cure. Write the teaching as you would stand behind it before a teacher.
 
-Write in your own hand. Quote Hebrews 5:13. Define apeiros as the source uses it. The page is not a journal of feelings.
+Write in your own hand. Quote Hebrews 5:13. Define apeiros. The page is not a journal of feelings.
 
 Distinction
 Skill is not performance. A crowded room can still be apeiros.
@@ -234,7 +234,7 @@ Hebrews 5:11 — “Of whom we have many things to say, and hard to be uttered, 
 
 The same verse that names the milk-user unskilful also names him a babe: Greek nēpios — implying negation; figuratively a simple-minded person, an immature Christian: babe, child. Do not take “babe” as a term of endearment in this chapter. It is a diagnosis. A babe may be sincere and still be apeiros. An organization may be old and still be nēpios. Sincerity does not cancel the two marks. Age of an assembly does not cancel the two marks.
 
-Two characteristics of babes, as the source sets them:
+Two characteristics of babes:
 
 1. Dull of hearing (Hebrews 5:11).
 2. Unskilled in the Word, which is the basis for salvation.
@@ -247,7 +247,7 @@ This piece is written so that you may experience productive living, be in contro
 
 Hold Hebrews 5:11 and 5:13 as the two marks, not as two nicknames. Dull of hearing is the ear that cannot take what is hard to be uttered concerning the Son. Unskilled in the Word is apeiros in the word of righteousness. The Word is the basis for salvation. Unskill there is unskill at the root. You may be sincere in both marks. Sincerity does not cancel them.
 
-Nēpios, as the source uses it, implies negation: a simple-minded person, an immature Christian — babe, child. In other rooms “babe” is affection. In this chapter it is a diagnosis. An organization may be old and still be nēpios. A man may be earnest and still be nēpios. Do not take the word as endearment and then refuse the two marks.
+Nēpios implies negation: a simple-minded person, an immature Christian — babe, child. In other rooms “babe” is affection. In this chapter it is a diagnosis. An organization may be old and still be nēpios. A man may be earnest and still be nēpios. Do not take the word as endearment and then refuse the two marks.
 
 Hebrews 5:14 is the other man in the same stretch: strong meat belongs to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil. Full age is not the date of your first meeting. It is use. Senses exercised. Discernment. Babe versus that man is milk versus meat. You will not become the second by remaining pleased to be called the first.
 
@@ -256,9 +256,9 @@ Name your dullness. Name the place of your unskill. Write the place, not a gener
 Labour
 The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Walk — one page. Write the two marks as the source sets them, each with its verse. Name your dullness of hearing. Name where you are apeiros in the word of righteousness. Do not write a general confession. Write the place.
+The Walk — one page. Write the two marks, each with its verse. Name your dullness of hearing. Name where you are apeiros in the word of righteousness. Do not write a general confession. Write the place.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write Hebrews 5:11-14 in full. Define nēpios as the source uses it. Show why “babe” is a diagnosis and not an endearment. Page 3: teach babe versus the man of full age whose senses are exercised. Write the teaching as you would stand behind it before a teacher.
+Intensive — three pages. Page 1 is that tight page. Page 2: write Hebrews 5:11-14 in full. Define nēpios. Show why “babe” is a diagnosis and not an endearment. Page 3: teach babe versus the man of full age whose senses are exercised. Write the teaching as you would stand behind it before a teacher.
 
 Write in your own hand. Quote the two marks with their verses. The page is not a journal of feelings.
 
@@ -289,7 +289,7 @@ Textbook Chapter 1, section VI.
 Teaching
 2 Timothy 2:15 — “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.”
 
-The Greek behind that study, as the leaflet uses it, is spoudazō: to use speed, to make effort, be prompt or earnest; do diligence, be diligent, endeavour, labour, study — intellectually. Speed here is not haste that skips context. It is earnestness that will not postpone the labour. You do not “study” by collecting quotations you cannot reason. You study by sitting under the word of truth until you can divide it rightly.
+The Greek behind that study is spoudazō: to use speed, to make effort, be prompt or earnest; do diligence, be diligent, endeavour, labour, study — intellectually. Speed here is not haste that skips context. It is earnestness that will not postpone the labour. You do not “study” by collecting quotations you cannot reason. You study by sitting under the word of truth until you can divide it rightly.
 
 Read the verse in its stretch. 2 Timothy 2:3-4 — “Thou therefore endure hardness, as a good soldier of Jesus Christ. No man that warreth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier.” 2 Timothy 2:8-9 — “Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel: Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound.” 2 Timothy 2:13 — “If we believe not, yet he abideth faithful: he cannot deny himself.” 2 Timothy 2:14 — “Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers.”
 
@@ -299,7 +299,7 @@ If you will walk this year at three hours a week or at eight, the difference is 
 
 2 Timothy 2:15 does not sit in a vacuum of study tips. The man addressed is to endure hardness as a good soldier. He is not to entangle himself with the affairs of this life, that he may please him who hath chosen him to be a soldier. He is to remember Jesus Christ of the seed of David, raised from the dead. The word of God is not bound though the apostle is in bonds. He is to charge them that they strive not about words to no profit, to the subverting of the hearers. Then: study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.
 
-Spoudazō, as the leaflet uses it, is speed, effort, promptness, earnestness; diligence, endeavour, labour, study — intellectually. Speed is earnestness that will not postpone. It is not haste that skips context and calls the skip “faith.” Approval is a workman’s approval. Shame is a workman’s shame — the man who cannot divide the word. Rightly dividing is the work. Profane and vain babblings increase unto more ungodliness (2 Timothy 2:16). Collecting quotations you cannot reason is nearer babbling than labour.
+Spoudazō is speed, effort, promptness, earnestness; diligence, endeavour, labour, study — intellectually. Speed is earnestness that will not postpone. It is not haste that skips context and calls the skip “faith.” Approval is a workman’s approval. Shame is a workman’s shame — the man who cannot divide the word. Rightly dividing is the work. Profane and vain babblings increase unto more ungodliness (2 Timothy 2:16). Collecting quotations you cannot reason is nearer babbling than labour.
 
 The Walk is about three hours a week. Intensive is about eight. Same oracles. Same doctrine. Same 2 Timothy 2:15. The difference is hours on the same work. You will not invent a second teaching for the longer week. You will put more labour on this verse until “approved,” “workman,” and “rightly dividing” can be reasoned without a slogan.
 
@@ -308,7 +308,7 @@ The Walk: write one tight page — a word drill. Intensive: write three pages on
 
 The Walk — one page. Do a word drill on 2 Timothy 2:15 until you can reason “study,” “approved,” “workman,” “ashamed,” and “rightly dividing” without a slogan. Write the verse. Then write six sentences, one for each of those five words and one for the soldier-context that sits before the verse.
 
-Intensive — three pages. Page 1 is that word-drill page. Page 2: write 2 Timothy 2:3-15 as a stretch. Show how the soldier, the bonds, the charge not to strive about words to no profit, and the workman sit together. Page 3: teach spoudazō as the leaflet uses it — speed, effort, promptness, earnestness, diligence, labour, study, intellectually — and teach what speed is not. Write the teaching as you would stand behind it before a teacher.
+Intensive — three pages. Page 1 is that word-drill page. Page 2: write 2 Timothy 2:3-15 as a stretch. Show how the soldier, the bonds, the charge not to strive about words to no profit, and the workman sit together. Page 3: teach spoudazō — speed, effort, promptness, earnestness, diligence, labour, study, intellectually — and teach what speed is not. Write the teaching as you would stand behind it before a teacher.
 
 Write in your own hand. Quote 2 Timothy 2:15. Reason the five words. The page is not a journal of feelings.
 
@@ -337,28 +337,28 @@ Read
 Textbook Chapter 1, section VII.
 
 Teaching
-The leaflet defines knowledge as a mental result of perception and learning and reasoning. The practice is named: word exercise, word drill. That is not a seminary extra. It is how this school will ask you to know.
+Knowledge is a mental result of perception, learning, and reasoning. The practice is named: word exercise, word drill. That is not a seminary extra. It is how this school will ask you to know.
 
 Perception: you see what the text says, not what you wish it said. Learning: you take it in, and you keep it. Reasoning: you can hold a cluster of Scriptures together and draw the distinction the text itself makes.
 
 A man may quote a verse and still be a babe. Quotation without reasoning is not skill. Hebrews 5:13-14 — “For every one that useth milk is unskilful in the word of righteousness: for he is a babe. But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.” The man of full age has senses exercised by use. Use is the drill. Discernment is the fruit. You do not skip perception and call your opinion reasoning. You do not skip learning and call a memory of a heading knowledge.
 
-2 Timothy 2:15 remains in the cluster: “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.” Right division is reasoning under the text. The questions this school asks are charges, not decorations. The leaflet itself asks questions. You will answer them from the cluster, not from a remembered heading.
+2 Timothy 2:15 remains in the cluster: “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.” Right division is reasoning under the text. The questions this school asks are charges, not decorations. This school asks questions. You will answer them from the cluster, not from a remembered heading.
 
 Take Hebrews 5:12 as the drill this lesson will not let you postpone: “For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.” Perceive it — what it says. Learn it — write it. Reason it — why “ought to be teachers” and “become” belong in one verse. If you can only recite the verse, you have not yet done the drill.
 
-The leaflet will not let knowledge be a pile of headings. Perception sees what the text says. If you see what you wish it said, you have not perceived. Learning takes it in and keeps it. If you heard it and cannot write it, you have not learned it. Reasoning holds a cluster and draws the distinction the text itself makes. If you can only recite one verse and cannot hold it with its neighbours, you have not reasoned.
+This teaching will not let knowledge be a pile of headings. Perception sees what the text says. If you see what you wish it said, you have not perceived. Learning takes it in and keeps it. If you heard it and cannot write it, you have not learned it. Reasoning holds a cluster and draws the distinction the text itself makes. If you can only recite one verse and cannot hold it with its neighbours, you have not reasoned.
 
 Hebrews 5:12 is the drill because it contains the indictment and the direction in one sentence. “For the time” names what you have already had. “Ought to be teachers” names what that time required. “Teach you again” names recession. “First principles of the oracles of God” names what must be known. “Become such as have need of milk” names the direction backward. Perceive that order. Learn it by writing it. Reason why “ought” and “become” belong together: a people can have time enough to teach and still become babes.
 
-2 Timothy 2:15 remains: a workman, rightly dividing. Right division is this reasoning under the text. The questions the source asks are charges. You will not decorate a page with them and then refuse to answer. Word exercise, word drill — that is the practice. A man may quote and still be a babe. Do the drill until you can reason Hebrews 5:12, not only recite it.
+2 Timothy 2:15 remains: a workman, rightly dividing. Right division is this reasoning under the text. The questions this school asks are charges. You will not decorate a page with them and then refuse to answer. Word exercise, word drill — that is the practice. A man may quote and still be a babe. Do the drill until you can reason Hebrews 5:12, not only recite it.
 
 Labour
 The Walk: write one tight page — the word drill on Hebrews 5:12. Intensive: write three pages on the same cluster. Same doctrine.
 
 The Walk — one page. Write Hebrews 5:12. Then three short movements on that one verse: perceive (what it says, in order); learn (write it again without looking, then check); reason (why “ought,” “again,” and “become” sit together). Do not add a second verse until that page is done.
 
-Intensive — three pages. Page 1 is that drill on Hebrews 5:12. Page 2: write Hebrews 5:13-14 and 2 Timothy 2:15. Show how perception, learning, and reasoning are the mental result the leaflet names, and how “senses exercised” and “rightly dividing” are the same labour under two addresses. Page 3: teach knowledge versus information collected. Write the teaching as you would stand behind it before a teacher.
+Intensive — three pages. Page 1 is that drill on Hebrews 5:12. Page 2: write Hebrews 5:13-14 and 2 Timothy 2:15. Show how perception, learning, and reasoning are that mental result, and how “senses exercised” and “rightly dividing” are the same labour under two addresses. Page 3: teach knowledge versus information collected. Write the teaching as you would stand behind it before a teacher.
 
 Write in your own hand. Perceive, learn, reason — on the page. The page is not a journal of feelings.
 
@@ -435,9 +435,9 @@ Read
 Textbook Chapter 2, sections I–II.
 
 Teaching
-Hebrews 6:1 — “not laying again the foundation of repentance from dead works…” This is the first stone. If this stone is a slogan, the year is a slogan. The leaflet heads this principle: Greek metanoia from nekros ergon.
+Hebrews 6:1 — “not laying again the foundation of repentance from dead works…” This is the first stone. If this stone is a slogan, the year is a slogan. This principle is headed: Greek metanoia from nekros ergon.
 
-The authorized list for this school is seven. There is no eighth unless the owner later adds one. The 2015 page said “one of the eight original words.” That was a count on the page. You were not given an eighth. Do not invent one.
+The authorized list for this school is seven. There is no eighth. You were not given an eighth. Do not invent one.
 
 1. Hebrew nacham (H5162) — to sigh, breathe strongly, to be sorry (Genesis 6:6; Exodus 13:17; Job 42:6; Jonah 3:10).
 2. Hebrew shuwb (H7725) — to turn back (1 Kings 8:47; Ezekiel 14:6).
@@ -455,7 +455,7 @@ Luke 13:3 — “I tell you, Nay: but, except ye repent (metanoeō), ye shall al
 
 If you treat Judas’s remorse as if it were metanoia, you have not laid this foundation. You have laid a feeling.
 
-Walk the seven as the source uses them, not as a seminary extra list.
+Walk the seven as they are taught, not as a seminary extra list.
 
 Nacham (H5162): Genesis 6:6 — “And it repented the Lord that he had made man on the earth, and it grieved him at his heart.” Also Exodus 13:17; Job 42:6; Jonah 3:10. To sigh, breathe strongly, to be sorry. Shuwb (H7725): 1 Kings 8:47; Ezekiel 14:6 — to turn back. Nocham (H5164): Hosea 13:14 — regret. Nichuwm (H5150): Hosea 11:8 — compassion. Metanoeō (G3340): Luke 13:3 — change the mind for the better morally; change the attitude toward sin. Metamellomai (G3338): Matthew 27:3; 2 Corinthians 7:8 — regret consequences, not the cause. Metanoia (G3341): Matthew 3:8, 11; 9:13; Luke 24:47 — a real change of mind and attitude toward sin and its cause, not merely the consequences.
 
@@ -468,7 +468,7 @@ The Walk: write one tight page. Intensive: write three pages on the same cluster
 
 The Walk — one page. Write the seven words with one verse each, as the school lists them. Then write ten lines: where have you treated regret as if it were metanoia? Hold metamellomai and metanoia until the difference can be taught without a slogan.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write Matthew 27:3-5 and Luke 13:3 and Matthew 3:8 in full. Reason Judas’s metamellomai against metanoeō and metanoia. Do not add an eighth word. Page 3: teach the seven as you would stand behind them before a teacher — each word as the source uses it, then the distinction between 6 and 7.
+Intensive — three pages. Page 1 is that tight page. Page 2: write Matthew 27:3-5 and Luke 13:3 and Matthew 3:8 in full. Reason Judas’s metamellomai against metanoeō and metanoia. Do not add an eighth word. Page 3: teach the seven as you would stand behind them before a teacher — each word , then the distinction between 6 and 7.
 
 Write in your own hand. The seven words with verses. Then Judas against Luke 13:3. The page is not a journal of feelings.
 
@@ -497,7 +497,7 @@ Read
 Textbook Chapter 2, section III.
 
 Teaching
-The 2015 PDF printed Matthew 16:19-31 here. That print was an error. This school teaches Luke 16:19-31. Do not teach Matthew 16 as that narrative.
+Matthew 16 is not this narrative. This school teaches Luke 16:19-31. Do not teach Matthew 16 as that narrative.
 
 Luke 16:19-31 — “There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day: And there was a certain beggar named Lazarus, which was laid at his gate, full of sores, And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores. And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried; And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom. And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame. But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented. And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence. Then he said, I pray thee therefore, father, that thou wouldest send him to my father’s house: For I have five brethren; that he may testify unto them, lest they also come into this place of torment. Abraham saith unto him, They have Moses and the prophets; let them hear them. And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent. And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead.”
 
@@ -509,7 +509,7 @@ That is the end of the consequence. Chapter 7 will open eternal judgment at leng
 
 Abraham’s refusal is the point this lesson will not let you skip. The rich man wants a messenger from the dead. Abraham will not send one. They have Moses and the prophets. If they hear not Moses and the prophets, neither will they be persuaded though one rose from the dead. The living were already under the writing. A sign from torment will not do what the graphē was given to do. Fear of that flame, in the mouth of a man who still wants water and still wants a warning for his brothers, is not yet a change of mind over sin and its cause.
 
-You may fear Hell and love the cause of your death. That fear can fill a testimony and leave the old man unnamed. That fear can fill a prayer and leave outward sin unlisted. Course 6 will open the lake, the book of life, and the prisons. Here you will not turn Luke 16 into that chapter. Here you will say: Hell is a consequence. Metanoia is toward sin and its cause. The 2015 print of Matthew 16:19-31 was an error. Matthew 16 is not this narrative. Luke 16:19-31 is.
+You may fear Hell and love the cause of your death. That fear can fill a testimony and leave the old man unnamed. That fear can fill a prayer and leave outward sin unlisted. Course 6 will open the lake, the book of life, and the prisons. Here you will not turn Luke 16 into that chapter. Here you will say: Hell is a consequence. Metanoia is toward sin and its cause. Matthew 16 is not this narrative. Luke 16:19-31 is.
 
 Labour
 The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
@@ -545,13 +545,13 @@ Read
 Textbook Chapter 2, section I and the opening of IV.
 
 Teaching
-Hebrews 6:1 names the first stone: repentance from dead works. The phrase is Hebrews’ own phrase. You will hear it again in Hebrews 9:14, when the blood of Christ purges the conscience from dead works to serve the living God. Do not empty “dead works” into “things I did that felt empty.” The leaflet will not let you.
+Hebrews 6:1 names the first stone: repentance from dead works. The phrase is Hebrews’ own phrase. You will hear it again in Hebrews 9:14, when the blood of Christ purges the conscience from dead works to serve the living God. Do not empty “dead works” into “things I did that felt empty.” This teaching will not let you.
 
-Nekros ergon — dead works — are the works of the old man: the spirit and nature of the devil (Ephesians 4:22); old things (2 Corinthians 5:17); the old nature (Ephesians 2:1). Ephesians 2:1-2 — “And you hath he quickened, who were dead in trespasses and sins; Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience.” Trespasses, as the source glosses Ephesians 2:1, are deviation from moral equity, and sins. The wages thereof is death (Romans 6:23).
+Nekros ergon — dead works — are the works of the old man: the spirit and nature of the devil (Ephesians 4:22); old things (2 Corinthians 5:17); the old nature (Ephesians 2:1). Ephesians 2:1-2 — “And you hath he quickened, who were dead in trespasses and sins; Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience.” Trespasses, in Ephesians 2:1, are deviation from moral equity, and sins. The wages thereof is death (Romans 6:23).
 
 Ephesians 4:22 — “That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts.” 2 Corinthians 5:17 — “Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.” Dead works are the works of that old nature — the spirit and nature of the devil, and the sins that issue. They are not a boredom you renamed. A work can be crowded, admired, and still be dead if it is of the old man.
 
-By implication the word metanoia also carries reversal of another’s decision. Do not flatten that into a technique. Keep it where the source puts it: repentance is not less than a change of mind. The change is toward sin and its cause. The works that belong to the old man are the works you repent from. The next two lessons will split the two old things. This lesson will not let you call a dull religious habit “dead” while you keep the old nature unnamed.
+By implication the word metanoia also carries reversal of another’s decision. Do not flatten that into a technique. Keep this: repentance is not less than a change of mind. The change is toward sin and its cause. The works that belong to the old man are the works you repent from. The next two lessons will split the two old things. This lesson will not let you call a dull religious habit “dead” while you keep the old nature unnamed.
 
 Hebrews 9:14 will later say: “How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?” Keep that verse as the destination of this phrase. Do not empty dead works now so that blood later has nothing to purge. Dead works are the works of the old man and the old nature. They issue in death (Romans 6:23). They are the conversation you put off (Ephesians 4:22). They are the walk according to the course of this world, according to the prince of the power of the air (Ephesians 2:2).
 
@@ -560,7 +560,7 @@ A work that bored you is not therefore a dead work. A work that filled a room is
 Labour
 The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
 
-The Walk — one page. Write Hebrews 6:1, Ephesians 2:1-2, and 2 Corinthians 5:17. Define dead works as the source defines them. Then name one work you have called “dead” because it bored you, and one the Scripture would call a dead work because it is of the old man. Do not confuse them.
+The Walk — one page. Write Hebrews 6:1, Ephesians 2:1-2, and 2 Corinthians 5:17. Define dead works: the works of the old man, not a task that bored you. Then name one work you have called “dead” because it bored you, and one the Scripture would call a dead work because it is of the old man. Do not confuse them.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Ephesians 4:22 and Romans 6:23 with the verses already on page 1. Show the line from old man to dead works to wages. Page 3: teach nekros ergon as you would stand behind it before a teacher, and show why Hebrews 9:14 will later name blood as the purge — without turning this lesson into the blood lesson.
 
@@ -607,7 +607,7 @@ Ephesians 2:2 — “Wherein in time past ye walked according to the course of t
 
 1 John 5:18 — “We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not.”
 
-Do not soften this cluster. Do not turn it into a personality type. Do not reduce the old man to a bad habit. The source will not let you. The old man is the spirit and nature of the devil in the disobedient. Put off the old man. Ye are of your father the devil. The spirit now worketh in the children of disobedience. The god of this world hath blinded minds. He that committeth sin is of the devil. Whosoever is born of God doth not commit sin; the wicked one toucheth him not.
+Do not soften this cluster. Do not turn it into a personality type. Do not reduce the old man to a bad habit. This teaching will not let you. The old man is the spirit and nature of the devil in the disobedient. Put off the old man. Ye are of your father the devil. The spirit now worketh in the children of disobedience. The god of this world hath blinded minds. He that committeth sin is of the devil. Whosoever is born of God doth not commit sin; the wicked one toucheth him not.
 
 You cannot hide the old man behind a list of acts. The next lesson will open the acts. Both must pass. They are not one pile.
 
@@ -705,7 +705,7 @@ Romans 6:16-23 — “Know ye not, that to whom ye yield yourselves servants to 
 
 Read the verse in Romans 6. You were the servants of sin. You are to be the servants of righteousness. Death is the wage of the old things. Eternal life is the gift of God through Jesus Christ our Lord. Wage versus gift. Cause versus consequence. Do not build a repentance that wants to keep the cause and escape the wage.
 
-The leaflet repeats the line: salvation from sin is exclusively the only salvation you need, sin being the cause of all death and depravity. Death in this book is not only the stopping of breath. Chapter 7 will open three kinds of death. Here it is enough to refuse a shallow “death,” and to refuse a repentance that wants the gift while it keeps the service of sin.
+Hold the line: salvation from sin is exclusively the only salvation you need, sin being the cause of all death and depravity. Death in this book is not only the stopping of breath. Chapter 7 will open three kinds of death. Here it is enough to refuse a shallow “death,” and to refuse a repentance that wants the gift while it keeps the service of sin.
 
 2 Corinthians 5:17 remains in the cluster: if any man be in Christ, he is a new creature; old things are passed away; all things are become new. The wage belongs to the old things. The gift belongs to the man in Christ. You do not collect the gift as a wage you earned. You do not treat the wage as a mood you can talk down.
 
@@ -847,11 +847,11 @@ Romans 10:6-10 — “But the righteousness which is of faith speaketh on this w
 
 Born not of blood, nor of the will of the flesh, nor of the will of man, but of God. The word is nigh thee, in thy mouth and in thy heart — the word of faith. With the heart man believeth unto righteousness; with the mouth confession is made unto salvation. Sonship language begins here. Course 2 will open the heir. Course 3 will open the Spirit’s witness. You do not wait for those courses to receive Him.
 
-The leaflet’s charge stands: Receive Him today. Receiving Him is not enrolling in a course. A course can sit around an unreceived Christ and call the sitting growth. John 1:11 will not let you hide in a people who did not receive Him. John 1:12 will not let you postpone the receiving. Romans 10:9 will not let you invent a confession the text does not ask. Confess the Lord Jesus. Believe in thine heart that God hath raised Him from the dead. Thou shalt be saved.
+The charge stands: Receive Him today. Receiving Him is not enrolling in a course. A course can sit around an unreceived Christ and call the sitting growth. John 1:11 will not let you hide in a people who did not receive Him. John 1:12 will not let you postpone the receiving. Romans 10:9 will not let you invent a confession the text does not ask. Confess the Lord Jesus. Believe in thine heart that God hath raised Him from the dead. Thou shalt be saved.
 
 John 1:1-4 has already named the Word: in the beginning, with God, was God; all things were made by Him; in Him was life, and the life was the light of men. He came unto His own. His own received Him not. Reception is not a mood about a course. It is receiving Him. To them that received Him He gave power to become the sons of God, even to them that believe on His name. Born not of blood, nor of the will of the flesh, nor of the will of man, but of God. Lineage will not do it. Appetite will not do it. Another man’s will will not do it.
 
-Romans 10:6-7 forbids a hunt that would bring Christ down or bring Him up from the dead, as if the word were far. The word is nigh thee, in thy mouth and in thy heart — the word of faith. Confess with thy mouth the Lord Jesus. Believe in thine heart that God hath raised Him from the dead. Thou shalt be saved. With the heart man believeth unto righteousness; with the mouth confession is made unto salvation. That is the confession the text asks. Sonship language begins here. Course 2 will open the heir. Course 3 will open the Spirit’s witness. You do not wait. Have you received Him? Write the confession. If you have, write John 1:12-13 without a slogan. The leaflet’s charge stands: Receive Him today.
+Romans 10:6-7 forbids a hunt that would bring Christ down or bring Him up from the dead, as if the word were far. The word is nigh thee, in thy mouth and in thy heart — the word of faith. Confess with thy mouth the Lord Jesus. Believe in thine heart that God hath raised Him from the dead. Thou shalt be saved. With the heart man believeth unto righteousness; with the mouth confession is made unto salvation. That is the confession the text asks. Sonship language begins here. Course 2 will open the heir. Course 3 will open the Spirit’s witness. You do not wait. Have you received Him? Write the confession. If you have, write John 1:12-13 without a slogan. The charge stands: Receive Him today.
 
 Labour
 The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine.
@@ -866,7 +866,7 @@ Distinction
 Receiving Him vs enrolling in a course.
 
 Charge
-Write what you will teach: as many as received Him, to them gave He power to become the sons of God; born of God, not of blood or will; confess the Lord Jesus; believe God raised Him. Then write the page the Labour named. The leaflet’s charge stands: Receive Him today.`,
+Write what you will teach: as many as received Him, to them gave He power to become the sons of God; born of God, not of blood or will; confess the Lord Jesus; believe God raised Him. Then write the page the Labour named. The charge stands: Receive Him today.`,
   ),
   lesson(
     "les-fs-1-17",

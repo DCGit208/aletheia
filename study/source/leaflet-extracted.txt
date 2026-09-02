@@ -1,5 +1,5 @@
 Aletheia Libraries 1 (2015) — working extract for Foundation School study.
-Source file: public/resources/aletheia-libraries-1.pdf
+Source file: study/source/aletheia-libraries-1.pdf
 Printed citations are kept as they appear in the PDF text layer.
 
 ========================================================================

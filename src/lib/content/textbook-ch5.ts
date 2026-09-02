@@ -4,16 +4,16 @@ export const textbookChapter5Body = `Hebrews 6:2 — “Of the doctrine of bapti
 
 When?
 
-The leaflet answers with nine occasions. Not a tenth. Not a vague practice called “immissions.” Nine accounts. Each its own text.
+This teaching answers with nine occasions. Not a tenth. Not a vague practice called “immissions.” Nine accounts. Each its own text.
 
-This principle is among the first principles. It is also the one the source will not let you treat as the foundation. It is viable only as you actualize the more grounding fundaments — repentance, faith toward God, the doctrine of baptisms. It plays a more resultant role, not substantively to the believer.
+This principle is among the first principles. It is also the one this school will not let you treat as the foundation. It is viable only as you actualize the more grounding fundaments — repentance, faith toward God, the doctrine of baptisms. It plays a more resultant role, not substantively to the believer.
 
 Do not skip the nine because they are resultant.
 Do not make the nine a substitute for the three stones already laid.
 
-This is the textbook of Foundation School, Aletheia Publications, under Dr. Coach Achu Gustave. Holy Scripture is the authority. The 2015 leaflet is the source manuscript. The printed line is “When?” and then nine occasions with their texts. You will learn each occasion as itself. You will not invent a tenth to make the file feel complete. The nine are complete.
+This is the textbook of Foundation School, Aletheia Publications, under Dr. Coach Achu Gustave. Holy Scripture is the authority. The heading is “When?” and then nine occasions with their texts. You will learn each occasion as itself. You will not invent a tenth to make the file feel complete. The nine are complete.
 
-The 2015 page printed a further-reading mark with no title. This school names no required companion here. Directed reading later, if a volume is assigned. Completing this chapter does not wait on a book the leaflet did not name.
+This school names no required companion here. Directed reading later, if a volume is assigned. Completing this chapter does not wait on a book this school does not name.
 
 I. RESULTANT — NOT THE FOUNDATION
 
@@ -32,7 +32,7 @@ Resultant means what follows from what is already true. A result is not a root. 
 
 Viable only as you actualize the more grounding things. Actualize is not a slogan. Course 1: metanoia from dead works; the new creature; Christ the only way. Course 2: pistis; son; heir; image; free justification. Course 3: into Christ; water as sign; Spirit as witness and enduement. Then hands.
 
-The source says it plays a more resultant role, not substantively to the believer. Substantively is the three stones. Resultant is this file. Both are in Hebrews 6:2. One is not the other.
+It plays a more resultant role, not substantively to the believer. Substantively is the three stones. Resultant is this file. Both are in Hebrews 6:2. One is not the other.
 
 When? After the grounding things are actualized. That is not a date on a calendar. It is an order in the man.
 
@@ -76,7 +76,7 @@ Numbers 8:9-11 — “And thou shalt bring the Levites before the tabernacle of 
 
 Bring the Levites before the tabernacle. Gather the whole assembly. Bring the Levites before the LORD. The children of Israel shall put their hands upon the Levites. Aaron shall offer the Levites before the LORD for an offering of the children of Israel, that they may execute the service of the LORD.
 
-Numbers 8:10 is the leaflet’s verse: “And thou shalt bring the Levites before the LORD: and the children of Israel shall put their hands upon the Levites.”
+Numbers 8:10: “And thou shalt bring the Levites before the LORD: and the children of Israel shall put their hands upon the Levites.”
 
 The congregation put their hands upon them. This is making offerings — identification and presentation — not a private ritual invented in a meeting. The hands of Israel on the Levites say: these are our offering before the LORD. Aaron offers them. They execute the service of the LORD.
 
@@ -142,7 +142,7 @@ VI. BLESSING CHILDREN — MATTHEW 19:13-15
 
 Matthew 19:13-15 — “Then were there brought unto him little children, that he should put his hands on them, and pray: and the disciples rebuked them. But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven. And he laid his hands on them, and departed thence.”
 
-The leaflet printed Matthew 19:15. The account is 13-15. Then were there brought unto Him little children, that He should put His hands on them, and pray. The disciples rebuked them. Jesus said, Suffer little children, and forbid them not, to come unto Me: for of such is the kingdom of heaven. And He laid His hands on them, and departed thence.
+Matthew 19:15 is the printed verse. The account is 13-15. Then were there brought unto Him little children, that He should put His hands on them, and pray. The disciples rebuked them. Jesus said, Suffer little children, and forbid them not, to come unto Me: for of such is the kingdom of heaven. And He laid His hands on them, and departed thence.
 
 They were brought that He should put His hands on them, and pray. Hands and prayer. The disciples rebuked the bringing. The Lord would not. Suffer. Forbid them not. Of such is the kingdom of heaven. He laid His hands on them. He departed.
 
@@ -180,7 +180,7 @@ The risen Lord’s word to those who believe includes laying hands on the sick. 
 
 Acts 5:12-16 — “And by the hands of the apostles were many signs and wonders wrought among the people; (and they were all with one accord in Solomon’s porch. And of the rest durst no man join himself to them: but the people magnified them. And believers were the more added to the Lord, multitudes both of men and women.) Insomuch that they brought forth the sick into the streets, and laid them on beds and couches, that at the least the shadow of Peter passing by might overshadow some of them. There came also a multitude out of the cities round about unto Jerusalem, bringing sick folks, and them which were vexed with unclean spirits: and they were healed every one.”
 
-By the hands of the apostles were many signs and wonders wrought among the people. Believers were added to the Lord. The sick were brought. They were healed every one. The occasion the leaflet names is healing — Mark 6:2, 5; 16:18; Acts 5:12. The shadow in Acts 5:15 is in the narrative. It is not a tenth occasion. The file says healing, and it names the hands texts.
+By the hands of the apostles were many signs and wonders wrought among the people. Believers were added to the Lord. The sick were brought. They were healed every one. The occasion this school names is healing — Mark 6:2, 5; 16:18; Acts 5:12. The shadow in Acts 5:15 is in the narrative. It is not a tenth occasion. The file says healing, and it names the hands texts.
 
 This is not a substitute for repentance, faith, or baptism into Christ. It is an occasion in the file. Teach the texts. Do not invent a tenth healing system beside them.
 
@@ -198,13 +198,13 @@ Acts 19:11-12 — “And God wrought special miracles by the hands of Paul: So t
 
 God wrought special miracles by the hands of Paul. God wrought. By the hands of Paul. The next verse tells of cloths from his body; the diseases departed; the evil spirits went out.
 
-The occasion the leaflet names is performing miracles — by the hands. Acts 19:11.
+The occasion this school names is performing miracles — by the hands. Acts 19:11.
 
 Do not make Paul the source. God wrought. Do not make the cloth a tenth occasion. The file says miracles, Acts 19:11. The cloths are in verse 12. They are how, in that narrative, the sick were reached. They are not a tenth item in the When? list.
 
 Acts 19:13-17 will show men who treat the Name as a technique without the Lord. The seven sons of Sceva. The evil spirit answers. Jesus I know, and Paul I know; but who are ye? The man leaps on them. The Name is magnified. That narrative is a warning, not a tenth occasion. Hands and miracles in this file remain God’s work by Paul’s hands.
 
-Distinction. Miracles in Acts 19:11 are not the healing file flattened. The leaflet separated F6 and F7. Healing has its texts. Miracles has Acts 19:11. God wrought. By the hands of Paul. No tenth from the cloth.
+Distinction. Miracles in Acts 19:11 are not the healing file flattened. This teaching separated F6 and F7. Healing has its texts. Miracles has Acts 19:11. God wrought. By the hands of Paul. No tenth from the cloth.
 
 Charge. Who wrought the special miracles? By whose hands? Why is the cloth not a tenth occasion? What happens if you make Paul the source?
 
@@ -222,7 +222,7 @@ Unfeigned faith first — grandmother, mother, and Timothy. Then: stir up the gi
 
 Course 3 already taught 2 Timothy 1:7 with the fear-and-dread cluster. Here the verse sits next to the gift in him by the putting on of hands. Do not drop power, love, and a sound mind when you teach the gift. Do not drop the gift when you teach the spirit God has given.
 
-Hebrews 6:2 names laying on of hands among the first principles, and the leaflet cites that same verse again under this occasion. The principle and the gift-occasion are not two religions. One file.
+Hebrews 6:2 names laying on of hands among the first principles, and that same verse is cited again under this occasion. The principle and the gift-occasion are not two religions. One file.
 
 The gift is not to be neglected. It is to be stirred. Hands of the presbytery. Hands of Paul. Prophecy with the laying on.
 
@@ -317,7 +317,7 @@ Do not make the cloth a tenth.
 Do not replace new birth with hands on a child.
 Do not cancel Christ as Spirit-baptizer.
 
-No required companion is named. The leaflet printed a further-reading mark with no title. This school will not invent a book to fill the mark. Completing this chapter does not wait on a volume the source did not title.
+No required companion is named. No required companion is named here. This school will not invent a book to fill the mark. Completing this chapter does not wait on a volume this school does not name.
 
 The next chapter opens resurrection of the dead: spiritual and material — two kinds, not one slogan. Spiritual resurrection is the new birth you already received, in this life only. Material resurrection is the body. You will not flatten them. You will not postpone new birth past death. You will learn the two issues, the thousand years, and the companies in their time.
 

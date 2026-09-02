@@ -87,7 +87,7 @@ export const courseExams: WrittenExam[] = [
       { id: "q2", prompt: "Why can new birth not be postponed past death? Use Hebrews 9:27 and Revelation 22:11 only. Do not use 1 Corinthians 15:19 or Ecclesiastes 11:1 as this lock." },
       { id: "q3", prompt: "Who comes forth in John 5:28-29, and to what two resurrections?" },
       { id: "q4", prompt: "Place both material issues on the chronology map. A thousand years between them. Which texts carry the doctrine (not Revelation 10)?" },
-      { id: "q5", prompt: "Rapture 2 is not the second advent. State the difference from the leaflet’s own sentence: tribulation seven years after rapture 2; advent with the saints after tribulation, ushering the Millennium." },
+      { id: "q5", prompt: "Rapture 2 is not the second advent. State the difference in this sentence: tribulation seven years after rapture 2; advent with the saints after tribulation, ushering the Millennium." },
       { id: "q6", prompt: "Name the five companies: who, when, texts. Do not merge Company 2 and the advent. 144,000 is Revelation 7:1-8." },
       { id: "q7", prompt: "Why is Matthew 9:25 not the same as 1 Corinthians 15:20-23? Where are the Matthew 27 saints now, according to this school?" },
       { id: "q8", prompt: "Who is not in the first resurrection? When are they raised?" },

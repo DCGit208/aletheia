@@ -68,7 +68,7 @@ One curriculum, two cadences:
 - **The Walk** — 52 weeks, the six principles divided across the year (~8–9 weeks each), about three hours a week.
 - **The Intensive** — the same 52 weeks and the same six courses, about eight hours a week. Not a second syllabus.
 
-A leaflet or book (Aletheia Libraries 1) is a **Book** resource attached to lessons. It is not a third copy of the school.
+The 2015 Aletheia Libraries 1 leaflet is a writer manuscript, not a student Book, not a Shop product, and not a resource attached to lessons. Students study the textbook and the six courses. Student copy defines terms; it does not cite the manuscript.
 
 A **Product** points at a program, a course, or a book. Foundation School pricing and the textbook plan are in `FOUNDATION_SCHOOL.md` (consultant review). Tuition is not a flag on the school record.
 
