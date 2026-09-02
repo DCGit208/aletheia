@@ -118,8 +118,70 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
     return unsubscribe;
   }, [setEntitlements, user]);
 
-  const value = useMemo<UserLibraryValue>(
-    () => ({
+  const value = useMemo<UserLibraryValue>(() => {
+    const checkout = (): Order | null => {
+      if (!user || cart.length === 0) return null;
+      const products = cart.map((id) => getProduct(id)).filter(Boolean);
+      const totalCents = products.reduce((sum, product) => sum + (product?.priceCents ?? 0), 0);
+      const order: Order = {
+        id: crypto.randomUUID(),
+        userId: user.uid,
+        productIds: cart,
+        totalCents,
+        currency: "USD",
+        status: "paid",
+        createdAt: new Date().toISOString(),
+      };
+      setOrders([order, ...orders]);
+      const granted = [...entitlements];
+      let nextProgramEnrollments = [...programEnrollments];
+      for (const product of products) {
+        if (!product) continue;
+        for (const target of grantTargetsForProduct(product)) {
+          if (!granted.some((item) => item.contentKind === target.contentKind && item.contentId === target.contentId)) {
+            granted.push(makeEntitlement(user.uid, target.contentKind, target.contentId, "purchase"));
+          }
+        }
+        if (product.kind === "program" && product.contentId) {
+          const program = getProgram(product.contentId);
+          const school = program ? getSchool(program.schoolId) : null;
+          if (program && school && !nextProgramEnrollments.some((item) => item.schoolId === school.id)) {
+            nextProgramEnrollments = [
+              ...nextProgramEnrollments,
+              {
+                id: `${user.uid}:${program.id}`,
+                userId: user.uid,
+                schoolId: school.id,
+                programId: program.id,
+                startedAt: new Date().toISOString(),
+              },
+            ];
+            if (!granted.some((item) => item.contentKind === "program" && item.contentId === program.id)) {
+              granted.push(makeEntitlement(user.uid, "program", program.id, "purchase"));
+            }
+          }
+        }
+      }
+      setEntitlements(granted);
+      setProgramEnrollments(nextProgramEnrollments);
+      setCart([]);
+      track({ name: "order_placed", orderId: order.id });
+      return order;
+    };
+
+    const pay = async (): Promise<Order | null> => {
+      if (!user || cart.length === 0) return null;
+      if (isStripeCheckout()) {
+        if (user.source !== "firebase") {
+          throw new Error("Card payment requires an Aletheia account created with email, not a local demo session.");
+        }
+        await redirectToStripeCheckout(cart, window.location.origin);
+        return null;
+      }
+      return checkout();
+    };
+
+    return {
       entitlements,
       enrollments,
       programEnrollments,
@@ -185,70 +247,8 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
       clearCart() {
         setCart([]);
       },
-      checkout() {
-        if (!user || cart.length === 0) return null;
-        const products = cart.map((id) => getProduct(id)).filter(Boolean);
-        const totalCents = products.reduce((sum, product) => sum + (product?.priceCents ?? 0), 0);
-        const order: Order = {
-          id: crypto.randomUUID(),
-          userId: user.uid,
-          productIds: cart,
-          totalCents,
-          currency: "USD",
-          status: "paid",
-          createdAt: new Date().toISOString(),
-        };
-        setOrders([order, ...orders]);
-        const granted = [...entitlements];
-        let nextProgramEnrollments = [...programEnrollments];
-        for (const product of products) {
-          if (!product) continue;
-          for (const target of grantTargetsForProduct(product)) {
-            if (!granted.some((item) => item.contentKind === target.contentKind && item.contentId === target.contentId)) {
-              granted.push(makeEntitlement(user.uid, target.contentKind, target.contentId, "purchase"));
-            }
-          }
-          if (product.kind === "program" && product.contentId) {
-            const program = getProgram(product.contentId);
-            const school = program ? getSchool(program.schoolId) : null;
-            if (
-              program &&
-              school &&
-              !nextProgramEnrollments.some((item) => item.schoolId === school.id)
-            ) {
-              nextProgramEnrollments = [
-                ...nextProgramEnrollments,
-                {
-                  id: `${user.uid}:${program.id}`,
-                  userId: user.uid,
-                  schoolId: school.id,
-                  programId: program.id,
-                  startedAt: new Date().toISOString(),
-                },
-              ];
-              if (!granted.some((item) => item.contentKind === "program" && item.contentId === program.id)) {
-                granted.push(makeEntitlement(user.uid, "program", program.id, "purchase"));
-              }
-            }
-          }
-        }
-        setEntitlements(granted);
-        setProgramEnrollments(nextProgramEnrollments);
-        setCart([]);
-        track({ name: "order_placed", orderId: order.id });
-        return order;
-      },
-      async pay() {
-        if (!user || cart.length === 0) return null;
-        if (isStripeCheckout()) {
-          if (user.source !== "firebase") {
-            throw new Error("Card payment requires an Aletheia account created with email, not a local demo session.");
-          }
-          await redirectToStripeCheckout(cart, window.location.origin);
-          return null;
-        }
-        return this.checkout();
-      },
+      checkout,
+      pay,
       toggleBookmark(kind, targetId, label) {
         if (!user) return;
         const existing = bookmarks.find((item) => item.targetId === targetId && item.kind === kind);
@@ -281,7 +281,8 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
         void saveOfflineProgress(record);
         track({ name: "reading_progress", bookId, percent });
       },
-    }),
+    };
+  },
     [
       bookmarks,
       cart,
