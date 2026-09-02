@@ -30,30 +30,12 @@ The server never trusts a price sent from the browser. Amounts come from `src/li
 
 **Local / no Firebase web config:** Shop “Place order” records an order on this device so the UX can be exercised. That grant does not follow the person to another phone and is not a real charge. If Firebase is connected, Shop always opens Stripe instead of granting access in the browser.
 
-## Enable live card payments
+## Live card payments
 
-1. Same Stripe account. Developers → API keys. Use **test** keys first.
-2. Firebase project `aletheia-world` needs **Blaze** billing (Cloud Functions). This is Google Cloud billing, not a second Stripe account. It can share the same Google billing account as other Firebase projects.
-3. Set secrets (never in the Next.js client):
+**Locked.** Aletheia Cloud Functions on `aletheia-world` use the live Stripe secret and a live webhook at `https://aletheia-world.web.app/api/stripe/webhook` (`checkout.session.completed` only). A real card for The Walk, The Intensive, or a course is a real charge. Test cards such as `4242` will fail.
 
-```bash
-npx -y firebase-tools@latest functions:secrets:set STRIPE_SECRET_KEY --project aletheia-world
-npx -y firebase-tools@latest functions:secrets:set STRIPE_WEBHOOK_SECRET --project aletheia-world
-```
+The bank statement descriptor is the Stripe account’s legal name (BTH Education Group). That is the same account, not a second Stripe business.
 
-4. Deploy functions, then add a webhook in Stripe:
+Do not paste live keys into the app, git, or Hosting env. They live only in Firebase secret manager (`STRIPE_SECRET_KEY`, `STRIPE_WEBHOOK_SECRET`). After rotating a secret, redeploy functions.
 
-- Endpoint: `https://aletheia-world.web.app/api/stripe/webhook`
-- Event: `checkout.session.completed`
-- Copy the signing secret into `STRIPE_WEBHOOK_SECRET`
-
-5. Public web config in `.env.local` / Hosting env:
-
-```
-NEXT_PUBLIC_CHECKOUT_MODE=stripe
-NEXT_PUBLIC_FIREBASE_*   # existing Firebase web config
-```
-
-6. Enable Email/Password in Firebase Authentication on `aletheia-world`. Authorized domain: `aletheia-world.web.app`.
-
-Until those are set, the app stays in local foundation mode: sign-up on the device, mock checkout, Foundation School and Maker Bible (beyond Genesis 1) gated by that device entitlement.
+If Firebase web config is missing, Shop falls back to device-local mock checkout. That path does not charge a card.
