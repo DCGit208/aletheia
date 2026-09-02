@@ -171,7 +171,7 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
 
     const pay = async (): Promise<Order | null> => {
       if (!user || cart.length === 0) return null;
-      if (isStripeCheckout()) {
+      if (isStripeCheckout() || user.source === "firebase") {
         if (user.source !== "firebase") {
           throw new Error("Card payment requires an Aletheia account created with email, not a local demo session.");
         }

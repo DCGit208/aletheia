@@ -28,7 +28,7 @@ The server never trusts a price sent from the browser. Amounts come from `src/li
 6. The function writes `usersPrivate/{uid}/orders/{sessionId}` and purchase entitlements. The browser does not grant access.
 7. The member stays signed in. Library and reader follow the entitlement.
 
-**Local / until Stripe + Firebase Functions are live:** Shop “Place order” still records an order on this device so the UX can be exercised. That grant does not follow the person to another phone and is not a real charge.
+**Local / no Firebase web config:** Shop “Place order” records an order on this device so the UX can be exercised. That grant does not follow the person to another phone and is not a real charge. If Firebase is connected, Shop always opens Stripe instead of granting access in the browser.
 
 ## Enable live card payments
 

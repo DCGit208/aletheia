@@ -40,6 +40,6 @@ Storage rules allow public cover/avatar reads, owner avatar writes, and deny eve
 
 ## Payments
 
-Local checkout records an order and entitlement **on this device** so the commerce UX can be exercised when Stripe is not configured.
+Local checkout records an order and entitlement **on this device** only when Firebase is not connected. A signed-in Firebase account always opens Stripe; the browser must not grant access.
 
 Live card charges: Stripe Checkout → Cloud Function webhook → order → entitlement. The browser must not grant access. Same Stripe account as sbd-network.web.app; a **new webhook** for Aletheia. See `PAYMENTS.md`.

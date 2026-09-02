@@ -2,9 +2,13 @@ import { isFirebaseConfigured } from "@/lib/firebase/config";
 
 export type CheckoutMode = "stripe" | "local";
 
-/** Stripe Checkout when Firebase Auth is connected and the public flag is set. Otherwise device-local mock. */
+/**
+ * Stripe Checkout whenever Firebase Auth is connected.
+ * Device-local mock only when Firebase is absent, or when MODE is forced to local.
+ */
 export function checkoutMode(): CheckoutMode {
-  if (process.env.NEXT_PUBLIC_CHECKOUT_MODE === "stripe" && isFirebaseConfigured()) return "stripe";
+  if (process.env.NEXT_PUBLIC_CHECKOUT_MODE === "local") return "local";
+  if (isFirebaseConfigured()) return "stripe";
   return "local";
 }
 
