@@ -6,7 +6,7 @@
     "build": "cp ../src/lib/commerce/offerings.ts src/offerings.ts && tsc"
   },
   "engines": {
-    "node": ">=20"
+    "node": "20"
   },
   "dependencies": {
     "firebase-admin": "^13.5.0",
