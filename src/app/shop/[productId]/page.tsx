@@ -9,6 +9,7 @@ import { EmptyState } from "@/components/content/query-state";
 import { AddToCartButton } from "@/components/shop/add-to-cart-button";
 import { buttonVariants } from "@/components/ui/button";
 import { grantTargetsForProduct } from "@/lib/access/entitlements";
+import { getOffer } from "@/lib/commerce/offerings";
 import { getBook, getCourse, getProduct, getProgram } from "@/lib/data/repository";
 import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";
@@ -27,7 +28,12 @@ function includedRows(productId: string, ids: string[]) {
       if (id.startsWith("book-")) {
         const book = getBook(id);
         return book
-          ? { id, href: `/publications/books/${book.id}`, title: book.title, meta: "Textbook" }
+          ? {
+              id,
+              href: `/publications/books/${book.id}`,
+              title: book.title,
+              meta: book.id === "book-principles-doctrine-christ" ? "Textbook" : "Book",
+            }
           : null;
       }
       if (id.startsWith("program-")) {
@@ -49,6 +55,7 @@ export default function ProductPage() {
   const product = getProduct(productId);
   if (!product) return <EmptyState title="Product not found." />;
   if (product.id === MAKER_BIBLE_PRODUCT_ID) return <MakerBiblePage />;
+  const offer = getOffer(product.id);
   const targets = grantTargetsForProduct(product);
   const owned =
     targets.length > 0 &&
@@ -73,7 +80,7 @@ export default function ProductPage() {
       />
       <div>
         <p className="text-[0.7rem] tracking-[0.2em] text-muted-foreground uppercase">
-          {product.kind === "program" ? "Foundation School" : product.kind}
+          {offer?.kicker ?? (product.kind === "program" ? "Foundation School" : product.kind)}
         </p>
         <h1 className="mt-2 font-heading text-3xl tracking-wide">{product.title}</h1>
         <p className="mt-4 leading-relaxed">{product.description}</p>

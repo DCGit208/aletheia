@@ -35,6 +35,7 @@ function course(
   lessonCount: number,
   moduleCount = 1,
   durationMinutes = 180,
+  productId?: string,
 ): Course {
   return {
     id,
@@ -48,6 +49,7 @@ function course(
     coverTone: "ink",
     status: "published",
     accessLevel: "entitled",
+    productId,
     learningPathIds: [],
     prerequisiteCourseIds: [],
     certificateEligible: true,
@@ -133,8 +135,8 @@ export const foundationBooks: Book[] = [
   },
   {
     id: leaflet,
-    title: "Principles of the Doctrine of Christ",
-    subtitle: "Aletheia Libraries 1 — Foundation School leaflet",
+    title: "Aletheia Libraries 1",
+    subtitle: "Principles of the Doctrine of Christ — Foundation School leaflet",
     description:
       "A concise definition for true Christian experience. Hebrews 5:11–6:3: repentance from dead works, faith toward God, the doctrine of baptisms, laying on of hands, resurrection of the dead, and eternal judgment. The study leaflet of Foundation School.",
     authors: [achu],
@@ -317,6 +319,7 @@ export const foundationCourses: Course[] = [
     17,
     3,
     1290,
+    "product-course-repentance",
   ),
   course(
     "course-fs-faith",
@@ -326,6 +329,7 @@ export const foundationCourses: Course[] = [
     17,
     3,
     1290,
+    "product-course-faith",
   ),
   course(
     "course-fs-baptisms",
@@ -335,6 +339,7 @@ export const foundationCourses: Course[] = [
     16,
     3,
     1215,
+    "product-course-baptisms",
   ),
   course(
     "course-fs-hands",
@@ -344,6 +349,7 @@ export const foundationCourses: Course[] = [
     12,
     3,
     915,
+    "product-course-hands",
   ),
   course(
     "course-fs-resurrection",
@@ -353,6 +359,7 @@ export const foundationCourses: Course[] = [
     18,
     3,
     1365,
+    "product-course-resurrection",
   ),
   course(
     "course-fs-judgment",
@@ -362,6 +369,7 @@ export const foundationCourses: Course[] = [
     15,
     3,
     1140,
+    "product-course-judgment",
   ),
 ];
 

@@ -4,14 +4,25 @@ import Link from "next/link";
 import { useState } from "react";
 import { ContentCard } from "@/components/content/content-card";
 import { PageIntro } from "@/components/content/page-intro";
+import { SectionHeader } from "@/components/content/section-header";
 import { buttonVariants } from "@/components/ui/button";
 import { isStripeCheckout } from "@/lib/commerce/mode";
+import { SHOP_GROUP_ORDER, getOffer, type ShopGroupId } from "@/lib/commerce/offerings";
 import { getProduct, listAllProducts } from "@/lib/data/repository";
 import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";
+import type { MessageKey } from "@/lib/i18n/messages";
 import { useUserLibrary } from "@/lib/state/user-library";
 import { toast } from "sonner";
 import { cn } from "@/lib/utils";
+
+const GROUP_COPY: Record<ShopGroupId, MessageKey> = {
+  year: "shop.groupYear",
+  textbook: "shop.groupTextbook",
+  courses: "shop.groupCourses",
+  publications: "shop.groupPublications",
+  other: "shop.groupOther",
+};
 
 export default function ShopPage() {
   const { t } = useI18n();
@@ -32,10 +43,16 @@ export default function ShopPage() {
           <ul className="mt-3 space-y-3">
             {cart.map((id) => {
               const product = getProduct(id);
+              const offer = getOffer(id);
               if (!product) return null;
               return (
                 <li key={id} className="flex items-center justify-between gap-3">
-                  <span>{product.title}</span>
+                  <span>
+                    <span className="mr-2 text-[0.62rem] tracking-[0.14em] text-muted-foreground uppercase">
+                      {offer?.badge ?? product.kind}
+                    </span>
+                    {product.title}
+                  </span>
                   <button type="button" className="text-xs tracking-wide text-muted-foreground uppercase" onClick={() => removeFromCart(id)}>
                     Remove
                   </button>
@@ -91,29 +108,33 @@ export default function ShopPage() {
           </p>
         ) : null}
       </section>
-      <div className="grid grid-cols-2 gap-4">
-        {products.map((product) => (
-          <ContentCard
-            key={product.id}
-            layout="tile"
-            href={`/shop/${product.id}`}
-            title={product.title}
-            subtitle={product.priceCents === 0 ? "Free" : `$${(product.priceCents / 100).toFixed(2)}`}
-            tone={product.coverTone}
-            image={product.coverImage}
-            imageFit={product.kind === "bundle" ? "cover" : "contain"}
-            badge={
-              product.id === "product-maker-bible"
-                ? "Bible"
-                : product.id === "product-foundation-year"
-                  ? "Walk"
-                  : product.id === "product-foundation-intensive"
-                    ? "Intensive"
-                    : product.kind
-            }
-          />
-        ))}
-      </div>
+      {SHOP_GROUP_ORDER.map((group) => {
+        const items = products.filter((product) => getOffer(product.id)?.shopGroup === group);
+        if (items.length === 0) return null;
+        return (
+          <section key={group} className="mb-10">
+            <SectionHeader title={t(GROUP_COPY[group])} />
+            <div className="grid grid-cols-2 gap-4">
+              {items.map((product) => {
+                const offer = getOffer(product.id);
+                return (
+                  <ContentCard
+                    key={product.id}
+                    layout="tile"
+                    href={`/shop/${product.id}`}
+                    title={product.title}
+                    subtitle={product.priceCents === 0 ? "Free" : `$${(product.priceCents / 100).toFixed(0)}`}
+                    tone={product.coverTone}
+                    image={product.coverImage}
+                    imageFit={product.kind === "bundle" ? "cover" : "contain"}
+                    badge={offer?.badge ?? product.kind}
+                  />
+                );
+              })}
+            </div>
+          </section>
+        );
+      })}
     </div>
   );
 }

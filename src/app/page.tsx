@@ -7,6 +7,7 @@ import { Rail } from "@/components/content/rail";
 import { SectionHeader } from "@/components/content/section-header";
 import { buttonVariants } from "@/components/ui/button";
 import { useAuth } from "@/lib/auth/provider";
+import { getOffer } from "@/lib/commerce/offerings";
 import {
   getBook,
   getCourse,
@@ -159,15 +160,17 @@ export default function HomePage() {
         {home.featuredProductIds.map((id) => {
           const product = getProduct(id);
           if (!product) return null;
+          const offer = getOffer(product.id);
           return (
             <ContentCard
               key={product.id}
               href={`/shop/${product.id}`}
               title={product.title}
-              subtitle={product.priceCents === 0 ? "Free" : `$${(product.priceCents / 100).toFixed(2)}`}
+              subtitle={product.priceCents === 0 ? "Free" : `$${(product.priceCents / 100).toFixed(0)}`}
               tone={product.coverTone}
               image={product.coverImage}
               imageFit={product.kind === "bundle" ? "cover" : "contain"}
+              badge={offer?.badge}
             />
           );
         })}

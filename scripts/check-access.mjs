@@ -140,5 +140,14 @@ const functionsOfferings = readFileSync(new URL("../functions/src/offerings.ts",
 assert.equal(offerings, functionsOfferings);
 assert.match(offerings, /"product-maker-bible"[\s\S]*15000/);
 assert.match(offerings, /"product-foundation-year"[\s\S]*40000/);
+assert.match(offerings, /Course 1 of 6 — Repentance from Dead Works/);
+assert.match(offerings, /The Principles of the Doctrine of Christ — textbook/);
+assert.match(offerings, /Foundation School — The Walk/);
+const yearBlock = offerings.slice(
+  offerings.indexOf('"product-foundation-year"'),
+  offerings.indexOf('"product-principles-doctrine-christ"'),
+);
+assert.equal(yearBlock.includes("principles-doctrine-christ.jpg"), false);
+assert.equal(yearBlock.includes("Course 1 of 6"), false);
 
 console.log("access checks passed");

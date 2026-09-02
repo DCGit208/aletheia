@@ -5,7 +5,8 @@ import { Cover } from "@/components/content/cover";
 import { Badge } from "@/components/ui/badge";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { canAccessContent } from "@/lib/access/entitlements";
-import { getAuthor, getProductForContent, listChapters } from "@/lib/data/repository";
+import { getOffer } from "@/lib/commerce/offerings";
+import { getAuthor, getProduct, getProductForContent, listChapters } from "@/lib/data/repository";
 import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
@@ -19,6 +20,8 @@ export function BookDetail({ book, context }: { book: Book; context: "learn" | "
   const { entitlements, bookmarks, toggleBookmark, progress } = useUserLibrary();
   const chapters = listChapters(book.id);
   const product = getProductForContent(book.id);
+  const offer = product ? getOffer(product.id) : null;
+  const yearProduct = book.id === "book-principles-doctrine-christ" ? getProduct("product-foundation-year") : null;
   const reading = progress.find((item) => item.bookId === book.id);
   const bookmarked = bookmarks.some((item) => item.targetId === book.id && item.kind === "book");
   const fullAccess = canAccessContent({
@@ -33,7 +36,9 @@ export function BookDetail({ book, context }: { book: Book; context: "learn" | "
     <article className="grid gap-8 md:grid-cols-[220px_1fr]">
       <Cover title={book.title} subtitle={book.subtitle} tone={book.coverTone} image={book.coverImage} />
       <div>
-        <p className="text-[0.7rem] tracking-[0.2em] text-muted-foreground uppercase">{book.publisher}</p>
+        <p className="text-[0.7rem] tracking-[0.2em] text-muted-foreground uppercase">
+          {offer?.kicker ?? book.publisher}
+        </p>
         <h1 className="mt-2 font-heading text-3xl tracking-wide">{book.title}</h1>
         <p className="mt-2 text-muted-foreground">{book.subtitle}</p>
         <p className="mt-4 leading-relaxed">{book.description}</p>
@@ -64,7 +69,14 @@ export function BookDetail({ book, context }: { book: Book; context: "learn" | "
           </Link>
           {product && !fullAccess ? (
             <Link href={`/shop/${product.id}`} className={buttonVariants({ variant: "outline" })}>
-              {t("action.purchase")}
+              {offer?.shopGroup === "textbook"
+                ? `Buy the textbook — $${(product.priceCents / 100).toFixed(0)}`
+                : t("action.purchase")}
+            </Link>
+          ) : null}
+          {yearProduct && !fullAccess ? (
+            <Link href={`/shop/${yearProduct.id}`} className={buttonVariants({ variant: "ghost" })}>
+              Or the year — ${(yearProduct.priceCents / 100).toFixed(0)}
             </Link>
           ) : null}
           {user ? (

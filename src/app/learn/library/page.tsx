@@ -38,6 +38,13 @@ export default function LibraryPage() {
               tone={book.coverTone}
               image={book.coverImage}
               meta={book.authors.map((author) => author.displayName).join(", ")}
+              badge={
+                book.id === "book-aletheia-libraries-1"
+                  ? "Leaflet"
+                  : book.id === "book-principles-doctrine-christ"
+                    ? "Textbook"
+                    : undefined
+              }
             />
           ))}
         </div>
