@@ -34,6 +34,7 @@ export const catalog: CatalogSnapshot = {
         "book-doctrine-of-faith",
         "book-doctrine-of-baptism",
         "book-doctrine-of-laying-on-of-hands",
+        "book-doctrine-of-resurrection",
         "book-principles-doctrine-christ",
         "article-unveiled-speech",
         "article-steward-city",
@@ -48,6 +49,7 @@ export const catalog: CatalogSnapshot = {
         "book-doctrine-of-faith",
         "book-doctrine-of-baptism",
         "book-doctrine-of-laying-on-of-hands",
+        "book-doctrine-of-resurrection",
         "book-principles-doctrine-christ",
       ],
       articleIds: ["article-unveiled-speech", "article-steward-city"],
@@ -262,6 +264,33 @@ export const catalog: CatalogSnapshot = {
       chapterCount: 1,
     },
     {
+      id: "book-doctrine-of-resurrection",
+      title: "Doctrine of Resurrection of the Dead",
+      subtitle: "Hebrews 6:2",
+      description:
+        "Two kinds. Two bodily issues a thousand years apart. Five companies in the first resurrection. The companion volume for Course 5 — Resurrection of the Dead.",
+      authors: [achu],
+      contributors: [],
+      publisher: BRAND.publications,
+      publishedAt: "2026-09-03",
+      language: "en",
+      edition: "First",
+      categories: ["Formation", "Truth"],
+      tags: ["resurrection", "hebrews", "tomb", "foundation"],
+      coverTone: "earth",
+      coverImage: "/covers/doctrine-of-resurrection-stone.png",
+      coverArtworks: [
+        { id: "stone", label: "Stone", image: "/covers/doctrine-of-resurrection-stone.png" },
+        { id: "linen", label: "Linen", image: "/covers/doctrine-of-resurrection-linen.png" },
+        { id: "crosses", label: "Crosses", image: "/covers/doctrine-of-resurrection-crosses.png" },
+      ],
+      status: "published",
+      accessLevel: "entitled",
+      previewChapterIds: ["ch-resurrection-1"],
+      productId: "product-doctrine-of-resurrection",
+      chapterCount: 1,
+    },
+    {
       id: "book-great-deception",
       title: "The Great Deception",
       subtitle: "When Truth Is Rejected, Lies Become Believable",
@@ -392,6 +421,19 @@ This is the fourth first principle of the doctrine of Christ. It is resultant: i
 Nine biblical occasions will open in the full teaching. The printed cover and thesis are here now. Full chapters will enter this reader as they are prepared.
 
 This volume is the companion reading for Course 4 — Laying on of Hands.`,
+    },
+    {
+      id: "ch-resurrection-1",
+      bookId: "book-doctrine-of-resurrection",
+      number: 1,
+      title: "Thesis",
+      body: `Hebrews 6:2 — the resurrection of the dead.
+
+The tomb is empty. The stone is rolled away. The linen remains.
+
+This is the fifth first principle of the doctrine of Christ. Two kinds of resurrection. Two bodily issues a thousand years apart. Five companies in the first resurrection. Rapture 2 is not the second advent.
+
+This volume is the companion reading for Course 5 — Resurrection of the Dead. The printed cover and thesis are here now. Full chapters will enter this reader as they are prepared.`,
     },
     {
       id: "ch-deception-1",
@@ -811,6 +853,7 @@ The cover is published. The full study will enter this reader next.`,
       "book-doctrine-of-faith",
       "book-doctrine-of-baptism",
       "book-doctrine-of-laying-on-of-hands",
+      "book-doctrine-of-resurrection",
     ],
     featuredJournalIds: ["journal-aletheia"],
     announcementIds: ["ann-foundation", "ann-journal"],

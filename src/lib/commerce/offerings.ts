@@ -311,6 +311,20 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
       coverImage: "/covers/doctrine-of-laying-on-of-hands.png",
     },
   ),
+  "product-doctrine-of-resurrection": bookOffer(
+    "product-doctrine-of-resurrection",
+    "Doctrine of Resurrection of the Dead",
+    "Companion book for Course 5 — Resurrection of the Dead. Hebrews 6:2. Two kinds. Two bodily issues. Five companies in the first resurrection.",
+    "book-doctrine-of-resurrection",
+    10000,
+    {
+      shopGroup: "publications",
+      badge: "Book",
+      kicker: "Companion book · $100",
+      coverTone: "earth",
+      coverImage: "/covers/doctrine-of-resurrection-stone.png",
+    },
+  ),
   "product-great-deception": bookOffer(
     "product-great-deception",
     "The Great Deception",
