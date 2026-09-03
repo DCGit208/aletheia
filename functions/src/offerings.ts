@@ -325,6 +325,20 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
       coverImage: "/covers/doctrine-of-resurrection-stone.png",
     },
   ),
+  "product-doctrine-of-eternal-judgment": bookOffer(
+    "product-doctrine-of-eternal-judgment",
+    "Doctrine of Eternal Judgment",
+    "Companion book for Course 6 — Eternal Judgment. Hebrews 6:2. Once to die, after this the judgment. Eternal punishment, the book of life, three deaths, five prisons.",
+    "book-doctrine-of-eternal-judgment",
+    10000,
+    {
+      shopGroup: "publications",
+      badge: "Book",
+      kicker: "Companion book · $100",
+      coverTone: "ink",
+      coverImage: "/covers/doctrine-of-eternal-judgment-seal.png",
+    },
+  ),
   "product-great-deception": bookOffer(
     "product-great-deception",
     "The Great Deception",

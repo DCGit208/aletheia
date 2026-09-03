@@ -35,6 +35,7 @@ export const catalog: CatalogSnapshot = {
         "book-doctrine-of-baptism",
         "book-doctrine-of-laying-on-of-hands",
         "book-doctrine-of-resurrection",
+        "book-doctrine-of-eternal-judgment",
         "book-principles-doctrine-christ",
         "article-unveiled-speech",
         "article-steward-city",
@@ -50,6 +51,7 @@ export const catalog: CatalogSnapshot = {
         "book-doctrine-of-baptism",
         "book-doctrine-of-laying-on-of-hands",
         "book-doctrine-of-resurrection",
+        "book-doctrine-of-eternal-judgment",
         "book-principles-doctrine-christ",
       ],
       articleIds: ["article-unveiled-speech", "article-steward-city"],
@@ -291,6 +293,33 @@ export const catalog: CatalogSnapshot = {
       chapterCount: 1,
     },
     {
+      id: "book-doctrine-of-eternal-judgment",
+      title: "Doctrine of Eternal Judgment",
+      subtitle: "Hebrews 6:2",
+      description:
+        "It is appointed unto men once to die, but after this the judgment. The companion volume for Course 6 — Eternal Judgment. Eternal punishment, the book of life, three deaths, and five prisons.",
+      authors: [achu],
+      contributors: [],
+      publisher: BRAND.publications,
+      publishedAt: "2026-09-03",
+      language: "en",
+      edition: "First",
+      categories: ["Formation", "Truth"],
+      tags: ["judgment", "hebrews", "eternal", "foundation"],
+      coverTone: "ink",
+      coverImage: "/covers/doctrine-of-eternal-judgment-seal.png",
+      coverArtworks: [
+        { id: "seal", label: "Seal", image: "/covers/doctrine-of-eternal-judgment-seal.png" },
+        { id: "visage", label: "Visage", image: "/covers/doctrine-of-eternal-judgment-visage.png" },
+        { id: "hourglass", label: "Hourglass", image: "/covers/doctrine-of-eternal-judgment-hourglass.png" },
+      ],
+      status: "published",
+      accessLevel: "entitled",
+      previewChapterIds: ["ch-judgment-1"],
+      productId: "product-doctrine-of-eternal-judgment",
+      chapterCount: 1,
+    },
+    {
       id: "book-great-deception",
       title: "The Great Deception",
       subtitle: "When Truth Is Rejected, Lies Become Believable",
@@ -434,6 +463,19 @@ The tomb is empty. The stone is rolled away. The linen remains.
 This is the fifth first principle of the doctrine of Christ. Two kinds of resurrection. Two bodily issues a thousand years apart. Five companies in the first resurrection. Rapture 2 is not the second advent.
 
 This volume is the companion reading for Course 5 — Resurrection of the Dead. The printed cover and thesis are here now. Full chapters will enter this reader as they are prepared.`,
+    },
+    {
+      id: "ch-judgment-1",
+      bookId: "book-doctrine-of-eternal-judgment",
+      number: 1,
+      title: "Thesis",
+      body: `Hebrews 6:2 — eternal judgment.
+
+It is appointed unto men once to die, but after this the judgment.
+
+This is the sixth first principle of the doctrine of Christ. Eternal punishment. The book of life. Three deaths. Five prisons — none of them the grave.
+
+This volume is the companion reading for Course 6 — Eternal Judgment. The printed cover and thesis are here now. Full chapters will enter this reader as they are prepared.`,
     },
     {
       id: "ch-deception-1",
@@ -854,6 +896,7 @@ The cover is published. The full study will enter this reader next.`,
       "book-doctrine-of-baptism",
       "book-doctrine-of-laying-on-of-hands",
       "book-doctrine-of-resurrection",
+      "book-doctrine-of-eternal-judgment",
     ],
     featuredJournalIds: ["journal-aletheia"],
     announcementIds: ["ann-foundation", "ann-journal"],
