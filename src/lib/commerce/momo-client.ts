@@ -65,3 +65,9 @@ export async function confirmManualMomoPayment(paymentId: string): Promise<{ suc
   const result = await confirm({ paymentId });
   return result.data;
 }
+
+export async function rejectManualMomoPayment(paymentId: string): Promise<{ success: true }> {
+  const reject = httpsCallable<{ paymentId: string }, { success: true }>(functionsOrThrow(), "rejectManualPayment");
+  const result = await reject({ paymentId });
+  return result.data;
+}

@@ -7,15 +7,9 @@ import { Rail } from "@/components/content/rail";
 import { SectionHeader } from "@/components/content/section-header";
 import { buttonVariants } from "@/components/ui/button";
 import { useAuth } from "@/lib/auth/provider";
+import { HomeAnnouncements } from "@/components/content/home-announcements";
 import { getOffer } from "@/lib/commerce/offerings";
-import {
-  getBook,
-  getCourse,
-  getJournal,
-  getProduct,
-  getTopic,
-  listAnnouncements,
-} from "@/lib/data/repository";
+import { getBook, getCourse, getJournal, getProduct, getTopic } from "@/lib/data/repository";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
 import { catalog } from "@/lib/data/catalog";
@@ -26,7 +20,6 @@ export default function HomePage() {
   const { user } = useAuth();
   const { enrollments, progress } = useUserLibrary();
   const home = catalog.home;
-  const announcements = listAnnouncements();
   const continueCourse = enrollments[0] ? getCourse(enrollments[0].courseId) : null;
   const continueBook = progress[0] ? getBook(progress[0].bookId) : null;
 
@@ -134,14 +127,7 @@ export default function HomePage() {
 
       <section className="mb-8">
         <SectionHeader title={t("home.announcements")} />
-        <div className="space-y-2">
-          {announcements.map((item) => (
-            <article key={item.id} className="rounded-2xl bg-card px-4 py-4">
-              <p className="font-heading text-lg leading-snug">{item.title}</p>
-              <p className="mt-1 text-sm text-muted-foreground">{item.body}</p>
-            </article>
-          ))}
-        </div>
+        <HomeAnnouncements />
       </section>
 
       {home.featuredJournalIds.map((id) => {

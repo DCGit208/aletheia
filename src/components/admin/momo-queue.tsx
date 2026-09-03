@@ -8,6 +8,7 @@ import { formatMomoXaf } from "@/lib/commerce/offerings";
 import {
   confirmManualMomoPayment,
   listPendingManualPayments,
+  rejectManualMomoPayment,
   type ManualPaymentRow,
 } from "@/lib/commerce/momo-client";
 import { useI18n } from "@/lib/i18n/provider";
@@ -64,6 +65,7 @@ export function MomoQueue() {
                   {payment.createdAt ? (
                     <p className="text-muted-foreground">{new Date(payment.createdAt).toLocaleString()}</p>
                   ) : null}
+                  <div className="flex flex-wrap gap-2">
                   <Button
                     type="button"
                     className="mt-2"
@@ -72,6 +74,27 @@ export function MomoQueue() {
                   >
                     {t("admin.momoConfirm")}
                   </Button>
+                  <Button
+                    type="button"
+                    variant="outline"
+                    className="mt-2"
+                    disabled={busyId === payment.id}
+                    onClick={() => {
+                      setBusyId(payment.id);
+                      void rejectManualMomoPayment(payment.id)
+                        .then(() => {
+                          toast.success(t("admin.momoRejected"));
+                          setPayments((current) => (current ?? []).filter((item) => item.id !== payment.id));
+                        })
+                        .catch((error) => {
+                          toast.error(error instanceof Error ? error.message : t("state.error"));
+                        })
+                        .finally(() => setBusyId(null));
+                    }}
+                  >
+                    {t("admin.momoReject")}
+                  </Button>
+                  </div>
                 </CardContent>
               </Card>
             </li>

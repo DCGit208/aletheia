@@ -20,11 +20,7 @@ Without the public web config the app boots in **local foundation mode**: struct
 3. Copy the public web config into `.env.local` from `.env.example`.
 4. Deploy rules: `npx -y firebase-tools@latest deploy --only firestore:rules,storage`
 5. For live payments, enable Blaze billing and follow `PAYMENTS.md`.
-6. Set the first administrator with a custom claim — never a hidden UI flag:
-
-```js
-await admin.auth().setCustomUserClaims(uid, { aletheiaRole: "administrator" });
-```
+6. The founding administrator is `dr.coachachu@btheducationgroup.org`. The custom claim `aletheiaRole: administrator` is set on that Auth user. Sign out and in (or open Administration) to refresh the token. Further role changes go through Administration → People.
 
 Public Firebase values may live in the client. Service-account keys, payment secrets, and Admin SDK credentials must not.
 

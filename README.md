@@ -14,6 +14,8 @@ It is one Progressive Web Application for learning, publication, reading, commun
 
 Primary navigation (locked): **Home · Learn · Publications · Community · Shop · Account**
 
+Administration is a protected route at `/admin` (Account → Administration), not a seventh tab. The founding administrator is `dr.coachachu@btheducationgroup.org`.
+
 ## Run locally
 
 ```bash

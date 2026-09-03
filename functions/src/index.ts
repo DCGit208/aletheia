@@ -14,6 +14,8 @@ import {
   type MomoNetwork,
 } from "./offerings.js";
 
+export * from "./admin.js";
+
 initializeApp();
 
 const stripeSecret = defineSecret("STRIPE_SECRET_KEY");
@@ -377,4 +379,36 @@ export const confirmManualPayment = onCall({ region: REGION, cors: true }, async
   });
 
   return { success: true as const, already: result === "already-granted" };
+});
+
+export const rejectManualPayment = onCall({ region: REGION, cors: true }, async (request) => {
+  if (!isReviewer(request.auth)) {
+    throw new HttpsError("permission-denied", "Not allowed to review Mobile Money.");
+  }
+  const paymentId = typeof request.data?.paymentId === "string" ? request.data.paymentId : "";
+  if (!paymentId) throw new HttpsError("invalid-argument", "Missing payment.");
+  const db = getFirestore();
+  const paymentRef = db.doc(`manualPayments/${paymentId}`);
+  const snap = await paymentRef.get();
+  if (!snap.exists) throw new HttpsError("not-found", "Payment not found.");
+  const data = snap.data() ?? {};
+  if (data.status !== "pending") {
+    throw new HttpsError("failed-precondition", "This payment is not waiting for confirmation.");
+  }
+  const uid = typeof data.uid === "string" ? data.uid : "";
+  const batch = db.batch();
+  batch.update(paymentRef, {
+    status: "rejected",
+    rejectedAt: FieldValue.serverTimestamp(),
+    rejectedBy: request.auth?.uid ?? "",
+  });
+  if (uid) {
+    batch.set(
+      db.doc(`usersPrivate/${uid}/orders/${paymentId}`),
+      { status: "failed" },
+      { merge: true },
+    );
+  }
+  await batch.commit();
+  return { success: true as const };
 });

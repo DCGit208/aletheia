@@ -5,6 +5,8 @@
 - Never trust a client-provided role
 - Never trust a client-provided payment status
 - Privileged work is authorized by the Firebase custom claim `aletheiaRole`
+- Founding administrator: `dr.coachachu@btheducationgroup.org` (`aletheiaRole: administrator`)
+- Administration at `/admin` calls Cloud Functions. The browser does not write roles or purchase entitlements
 - PII (email) lives in `usersPrivate` and is owner-readable only
 - Public `profiles` contain display fields only
 - Admin is a protected route **and** a rules/functions check. The link is not security

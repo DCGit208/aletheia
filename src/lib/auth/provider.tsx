@@ -28,6 +28,7 @@ interface AuthContextValue {
   signIn: (email: string, password: string) => Promise<void>;
   signUp: (input: { email: string; password: string; displayName: string }) => Promise<void>;
   signOut: () => Promise<void>;
+  refreshSession: () => Promise<void>;
 }
 
 const AuthContext = createContext<AuthContextValue | null>(null);
@@ -47,24 +48,28 @@ if (typeof window !== "undefined" && isFirebaseConfigured()) {
         firebaseUserStore.set({ user: null, loading: false });
         return;
       }
-      const token = await firebaseUser.getIdTokenResult();
-      firebaseUserStore.set({
-        loading: false,
-        user: {
-          uid: firebaseUser.uid,
-          email: firebaseUser.email ?? "",
-          displayName: firebaseUser.displayName ?? firebaseUser.email ?? "Member",
-          role: roleFromClaims(token.claims),
-          source: "firebase",
-        },
-      });
-      void ensurePrivateUser(
-        firebaseUser.uid,
-        firebaseUser.email ?? "",
-        firebaseUser.displayName ?? firebaseUser.email ?? "Member",
-      );
+      await applyFirebaseUser(firebaseUser);
     });
   }
+}
+
+async function applyFirebaseUser(firebaseUser: import("firebase/auth").User, forceRefresh = false) {
+  const token = await firebaseUser.getIdTokenResult(forceRefresh);
+  firebaseUserStore.set({
+    loading: false,
+    user: {
+      uid: firebaseUser.uid,
+      email: firebaseUser.email ?? "",
+      displayName: firebaseUser.displayName ?? firebaseUser.email ?? "Member",
+      role: roleFromClaims(token.claims),
+      source: "firebase",
+    },
+  });
+  void ensurePrivateUser(
+    firebaseUser.uid,
+    firebaseUser.email ?? "",
+    firebaseUser.displayName ?? firebaseUser.email ?? "Member",
+  );
 }
 
 async function ensurePrivateUser(uid: string, email: string, displayName: string) {
@@ -100,6 +105,11 @@ function roleFromClaims(claims: Record<string, unknown> | undefined): UserRole {
   return "member";
 }
 
+async function refreshSession() {
+  const auth = getFirebaseAuth();
+  if (auth?.currentUser) await applyFirebaseUser(auth.currentUser, true);
+}
+
 export function AuthProvider({ children }: { children: ReactNode }) {
   const configured = isFirebaseConfigured();
   const localUser = useSyncExternalStore(
@@ -129,6 +139,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         const auth = getFirebaseAuth();
         if (!auth) throw new Error("Firebase Auth is not available.");
         await signInWithEmailAndPassword(auth, email, password);
+        if (auth.currentUser) await applyFirebaseUser(auth.currentUser, true);
       },
       async signUp(input) {
         if (!configured) {
@@ -148,6 +159,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         const auth = getFirebaseAuth();
         if (auth) await firebaseSignOut(auth);
       },
+      refreshSession,
     }),
     [configured, loading, user],
   );

@@ -40,6 +40,8 @@ Orders and purchase entitlements are written by trusted backend after verificati
 
 A Mobile Money submit creates `manualPayments/{id}` and a **pending** order. Confirming that payment writes the same purchase entitlements as Stripe. The submit path must never grant.
 
+Privileged admin actions (roles, grants, announcement publish, report resolve) append to `auditLogs`. Client write remains denied.
+
 ## Content lifecycle
 
 `draft` → `review` → `published` → `archived`
