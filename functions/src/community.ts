@@ -1,6 +1,6 @@
 import { FieldValue, getFirestore, Timestamp } from "firebase-admin/firestore";
 import { HttpsError, onCall } from "firebase-functions/v2/https";
-import { onDocumentCreated } from "firebase-functions/v2/firestore";
+import { logger } from "firebase-functions";
 import { ensureVapid, listBoardWatcherUids, notifyUsers, vapidPrivateKey } from "./notify.js";
 
 const REGION = "us-central1";
@@ -107,7 +107,36 @@ async function ensureTopicDoc(topicId: string) {
   return ref.get();
 }
 
-export const createDiscussion = onCall({ region: REGION, cors: true }, async (request) => {
+async function notifyBoardWatchers(input: {
+  boardId: string;
+  authorUid: string;
+  topicId: string;
+  title: string;
+  authorName: string;
+  body: string;
+}) {
+  if (!input.boardId) return;
+  try {
+    ensureVapid(vapidPrivateKey.value());
+    const watchers = (await listBoardWatcherUids(input.boardId)).filter((uid) => uid !== input.authorUid);
+    if (watchers.length === 0) return;
+    await notifyUsers(watchers, {
+      title: input.title,
+      body: `${input.authorName}: ${input.body.slice(0, 160)}`,
+      href: topicPath(input.topicId),
+      kind: "board_post",
+    });
+  } catch (error) {
+    logger.warn("board watcher notify failed", {
+      boardId: input.boardId,
+      message: error instanceof Error ? error.message : String(error),
+    });
+  }
+}
+
+export const createDiscussion = onCall(
+  { region: REGION, cors: true, secrets: [vapidPrivateKey] },
+  async (request) => {
   const auth = requireMember(request);
   const title = typeof request.data?.title === "string" ? request.data.title.trim() : "";
   const body = typeof request.data?.body === "string" ? request.data.body.trim() : "";
@@ -162,10 +191,20 @@ export const createDiscussion = onCall({ region: REGION, cors: true }, async (re
     createdAt: Timestamp.now(),
   });
   await batch.commit();
+  await notifyBoardWatchers({
+    boardId,
+    authorUid: auth.uid,
+    topicId,
+    title,
+    authorName,
+    body,
+  });
   return { success: true as const, topicId, href: topicPath(topicId), already: false as const };
 });
 
-export const postToTopic = onCall({ region: REGION, cors: true }, async (request) => {
+export const postToTopic = onCall(
+  { region: REGION, cors: true, secrets: [vapidPrivateKey] },
+  async (request) => {
   const auth = requireMember(request);
   const topicId = typeof request.data?.topicId === "string" ? request.data.topicId.trim() : "";
   const body = typeof request.data?.body === "string" ? request.data.body.trim() : "";
@@ -195,6 +234,14 @@ export const postToTopic = onCall({ region: REGION, cors: true }, async (request
     replyCount: FieldValue.increment(1),
     updatedAt: FieldValue.serverTimestamp(),
   });
+  await notifyBoardWatchers({
+    boardId: typeof topic.boardId === "string" ? topic.boardId : "",
+    authorUid: auth.uid,
+    topicId,
+    title: typeof topic.title === "string" && topic.title.length > 0 ? topic.title : "New post",
+    authorName: displayNameOf(auth),
+    body,
+  });
   return { success: true as const, postId: postRef.id };
 });
 
@@ -215,38 +262,3 @@ export const watchBoard = onCall({ region: REGION, cors: true }, async (request)
   }
   return { success: true as const, watch };
 });
-
-export const onCommunityPostCreated = onDocumentCreated(
-  {
-    document: "posts/{postId}",
-    region: REGION,
-    secrets: [vapidPrivateKey],
-  },
-  async (event) => {
-    const post = event.data?.data();
-    if (!post) return;
-    const topicId = typeof post.topicId === "string" ? post.topicId : "";
-    const authorUid = typeof post.authorUid === "string" ? post.authorUid : "";
-    if (!topicId) return;
-
-    ensureVapid(vapidPrivateKey.value());
-    const db = getFirestore();
-    const topicSnap = await db.doc(`topics/${topicId}`).get();
-    const topic = topicSnap.data() ?? {};
-    const boardId = typeof topic.boardId === "string" ? topic.boardId : typeof post.boardId === "string" ? post.boardId : "";
-    if (!boardId) return;
-
-    const watchers = (await listBoardWatcherUids(boardId)).filter((uid) => uid !== authorUid);
-    if (watchers.length === 0) return;
-
-    const title = typeof topic.title === "string" && topic.title.length > 0 ? topic.title : "New post";
-    const authorName = typeof post.authorName === "string" ? post.authorName : "Member";
-    const body = typeof post.body === "string" ? post.body : "";
-    await notifyUsers(watchers, {
-      title,
-      body: `${authorName}: ${body.slice(0, 160)}`,
-      href: topicPath(topicId),
-      kind: "board_post",
-    });
-  },
-);

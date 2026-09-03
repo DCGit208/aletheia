@@ -57,9 +57,13 @@ export function TopicThread({ topicId }: { topicId: string }) {
       setLivePosts([]);
       return;
     }
-    const unsubTopic = onSnapshot(doc(db, "topics", topicId), (snap) => {
-      setLiveTopic(snap.exists() ? topicFromData(snap.id, snap.data() as Record<string, unknown>) : null);
-    });
+    const unsubTopic = onSnapshot(
+      doc(db, "topics", topicId),
+      (snap) => {
+        setLiveTopic(snap.exists() ? topicFromData(snap.id, snap.data() as Record<string, unknown>) : null);
+      },
+      () => setLiveTopic(null),
+    );
     const q = query(collection(db, "posts"), where("topicId", "==", topicId), orderBy("createdAt", "asc"));
     const unsubPosts = onSnapshot(
       q,

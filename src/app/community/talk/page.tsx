@@ -1,7 +1,7 @@
 "use client";
 
-import { Suspense, useEffect, useMemo, useState } from "react";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useEffect, useState } from "react";
+import { useRouter } from "next/navigation";
 import { doc, onSnapshot } from "firebase/firestore";
 import { toast } from "sonner";
 import { TopicThread } from "@/components/community/topic-thread";
@@ -15,27 +15,36 @@ import { getFirebaseDb } from "@/lib/firebase/client";
 import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";
 
+function readTalkQuery() {
+  if (typeof window === "undefined") return { id: "", product: "" };
+  const search = new URLSearchParams(window.location.search);
+  return {
+    id: (search.get("id") ?? "").trim(),
+    product: (search.get("product") ?? "").trim(),
+  };
+}
+
 function ProductTalk({ productId }: { productId: string }) {
   const { t } = useI18n();
   const { user } = useAuth();
   const router = useRouter();
   const topicId = productTopicId(productId);
   const product = getProduct(productId);
-  const [exists, setExists] = useState<boolean | null>(null);
+  const [exists, setExists] = useState(false);
   const [title, setTitle] = useState(product ? `${t("community.discuss")}: ${product.title}` : "");
   const [body, setBody] = useState("");
   const [busy, setBusy] = useState(false);
 
   useEffect(() => {
     const db = getFirebaseDb();
-    if (!db) {
-      setExists(false);
-      return;
-    }
-    return onSnapshot(doc(db, "topics", topicId), (snap) => setExists(snap.exists()));
+    if (!db) return;
+    return onSnapshot(
+      doc(db, "topics", topicId),
+      (snap) => setExists(snap.exists()),
+      () => setExists(false),
+    );
   }, [topicId]);
 
-  if (exists === null) return <p className="text-sm text-muted-foreground">{t("state.loading")}</p>;
   if (exists) return <TopicThread topicId={topicId} />;
 
   return (
@@ -78,23 +87,17 @@ function ProductTalk({ productId }: { productId: string }) {
   );
 }
 
-function TalkInner() {
-  const { t } = useI18n();
-  const search = useSearchParams();
-  const id = search.get("id")?.trim() ?? "";
-  const productId = search.get("product")?.trim() ?? "";
-  const topicId = useMemo(() => id || (productId ? productTopicId(productId) : ""), [id, productId]);
-
-  if (productId && !id) return <ProductTalk productId={productId} />;
-  if (!topicId) return <EmptyState title={t("community.missingTopic")} />;
-  return <TopicThread topicId={topicId} />;
-}
-
 export default function TalkPage() {
   const { t } = useI18n();
-  return (
-    <Suspense fallback={<p>{t("state.loading")}</p>}>
-      <TalkInner />
-    </Suspense>
-  );
+  const [query, setQuery] = useState<{ id: string; product: string } | null>(null);
+
+  useEffect(() => {
+    setQuery(readTalkQuery());
+  }, []);
+
+  if (!query) return <p className="text-sm text-muted-foreground">{t("state.loading")}</p>;
+  if (query.product && !query.id) return <ProductTalk productId={query.product} />;
+  const topicId = query.id || (query.product ? productTopicId(query.product) : "");
+  if (!topicId) return <EmptyState title={t("community.missingTopic")} />;
+  return <TopicThread topicId={topicId} />;
 }
