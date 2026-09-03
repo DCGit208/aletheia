@@ -147,8 +147,8 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
       shopGroup: "textbook",
       badge: "Textbook",
       kicker: "Textbook only · not the year",
-      coverTone: "ink",
-      coverImage: "/covers/principles-doctrine-christ.jpg",
+      coverTone: "earth",
+      coverImage: "/covers/repentance-from-death-works.png",
     },
   ),
   "product-course-repentance": courseOffer(
