@@ -18,6 +18,7 @@ const rooms = [
   { href: "/account/learning", key: "account.learning" as const },
   { href: "/account/library", key: "account.library" as const },
   { href: "/account/orders", key: "account.orders" as const },
+  { href: "/account/notifications", key: "account.notifications" as const },
 ];
 
 export default function AccountPage() {

@@ -239,8 +239,20 @@ service cloud.firestore {
       }
 
       match /notifications/{id} {
-        allow read, update: if isOwner(userId);
+        allow read: if isOwner(userId);
+        allow update: if isOwner(userId)
+          && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['read']);
         allow create, delete: if isAdmin();
+      }
+
+      match /pushSubscriptions/{id} {
+        allow read: if isOwner(userId);
+        allow create, update: if isOwner(userId)
+          && request.resource.data.endpoint is string
+          && request.resource.data.endpoint.size() > 0
+          && request.resource.data.endpoint.size() <= 2000
+          && request.resource.data.keys is map;
+        allow delete: if isOwner(userId);
       }
     }
 
@@ -327,21 +339,25 @@ service cloud.firestore {
     }
 
     match /boards/{id} {
-      allow read: if publishedOnly() || isAdmin();
+      allow read: if isAdmin() || isMemberLike() || publishedOnly();
       allow write: if isAdmin();
+
+      match /watchers/{uid} {
+        allow read: if isOwner(uid) || isAdmin();
+        allow create: if isOwner(uid)
+          && request.resource.data.uid == uid;
+        allow delete: if isOwner(uid);
+      }
     }
 
     match /topics/{id} {
-      allow read: if publishedOnly() || isAdmin();
+      allow read: if publishedOnly() || isAdmin() || isMemberLike();
       allow create: if isAdmin();
       allow update, delete: if isModerator();
     }
 
     match /posts/{id} {
-      allow read: if isModerator()
-        || resource.data.authorUid == request.auth.uid
-        || (exists(/databases/$(database)/documents/topics/$(resource.data.topicId))
-          && get(/databases/$(database)/documents/topics/$(resource.data.topicId)).data.status == 'published');
+      allow read: if isAuthenticated();
       allow create: if isMemberLike() && isValidPost(request.resource.data);
       allow update, delete: if isModerator()
         || (isOwner(resource.data.authorUid) && isValidPost(request.resource.data)

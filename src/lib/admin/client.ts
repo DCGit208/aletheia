@@ -136,3 +136,26 @@ export async function createCommunity(title: string, description: string) {
     description,
   });
 }
+
+export interface AdminOverview {
+  memberCount: number;
+  paidOrderCount: number;
+  pendingMomoCount: number;
+  revenueUsdCents: number;
+}
+
+export async function getAdminOverview(): Promise<AdminOverview> {
+  const result = await call<Record<string, never>, AdminOverview>("getAdminOverview")({});
+  return result.data;
+}
+
+export async function broadcastUpdate(input: {
+  title: string;
+  body: string;
+  important: boolean;
+  kind: string;
+  notify: boolean;
+  href?: string;
+}) {
+  await call<typeof input, { success: true }>("broadcastUpdate")(input);
+}

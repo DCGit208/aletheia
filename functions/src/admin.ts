@@ -1,7 +1,9 @@
 import { getAuth } from "firebase-admin/auth";
 import { FieldValue, getFirestore } from "firebase-admin/firestore";
 import { HttpsError, onCall } from "firebase-functions/v2/https";
+import { logger } from "firebase-functions";
 import { getOffer, isMomoYearProduct, uniqueGrants, type GrantKind } from "./offerings.js";
+import { ensureVapid, listMemberUids, notifyUsers, vapidPrivateKey } from "./notify.js";
 
 const REGION = "us-central1";
 const FOUNDING_ADMIN_EMAIL = "dr.coachachu@btheducationgroup.org";
@@ -448,6 +450,7 @@ export const createCommunity = onCall({ region: REGION, cors: true }, async (req
     title: "General",
     description: "Opening board.",
     topicCount: 0,
+    status: "published",
   });
   await batch.commit();
   await writeAudit({
@@ -459,3 +462,100 @@ export const createCommunity = onCall({ region: REGION, cors: true }, async (req
   });
   return { success: true as const, id: communityRef.id };
 });
+
+const UPDATE_KINDS = ["notice", "book", "course", "program", "project"] as const;
+type UpdateKind = (typeof UPDATE_KINDS)[number];
+
+function defaultUpdateHref(kind: UpdateKind) {
+  switch (kind) {
+    case "book":
+      return "/publications/books";
+    case "course":
+      return "/learn/courses";
+    case "program":
+      return "/learn/schools/school-foundation";
+    case "project":
+      return "/community/commons/board-projects";
+    default:
+      return "/";
+  }
+}
+
+export const getAdminOverview = onCall({ region: REGION, cors: true }, async (request) => {
+  requireAdmin(request);
+  const users = await getAuth().listUsers(100);
+  const db = getFirestore();
+  let paidOrderCount = 0;
+  let revenueUsdCents = 0;
+  for (const user of users.users) {
+    const snap = await db.collection(`usersPrivate/${user.uid}/orders`).get();
+    for (const doc of snap.docs) {
+      const data = doc.data();
+      if (data.status !== "paid") continue;
+      paidOrderCount += 1;
+      if (data.currency === "XAF") continue;
+      revenueUsdCents += typeof data.totalCents === "number" ? data.totalCents : 0;
+    }
+  }
+  const pendingMomo = await db.collection("manualPayments").where("status", "==", "pending").get();
+  return {
+    memberCount: users.users.length,
+    paidOrderCount,
+    pendingMomoCount: pendingMomo.size,
+    revenueUsdCents,
+  };
+});
+
+export const broadcastUpdate = onCall(
+  { region: REGION, cors: true, secrets: [vapidPrivateKey], timeoutSeconds: 120 },
+  async (request) => {
+    const actor = requireAdmin(request);
+    const title = typeof request.data?.title === "string" ? request.data.title.trim() : "";
+    const body = typeof request.data?.body === "string" ? request.data.body.trim() : "";
+    const important = request.data?.important === true;
+    const notify = request.data?.notify !== false;
+    const kindRaw = typeof request.data?.kind === "string" ? request.data.kind : "notice";
+    const kind = (UPDATE_KINDS as readonly string[]).includes(kindRaw) ? (kindRaw as UpdateKind) : "notice";
+    const hrefRaw = typeof request.data?.href === "string" ? request.data.href.trim() : "";
+    const href = hrefRaw.startsWith("/") ? hrefRaw : defaultUpdateHref(kind);
+    if (title.length < 3 || title.length > 120) throw new HttpsError("invalid-argument", "Title is required.");
+    if (body.length < 3 || body.length > 2000) throw new HttpsError("invalid-argument", "Body is required.");
+
+    const ref = getFirestore().collection("announcements").doc();
+    await ref.set({
+      id: ref.id,
+      title,
+      body,
+      important,
+      kind,
+      href,
+      status: "published",
+      publishedAt: FieldValue.serverTimestamp(),
+      createdBy: actor.uid,
+    });
+    await writeAudit({
+      actorUid: actor.uid,
+      actorEmail: actorEmail(actor),
+      action: "update.broadcast",
+      target: ref.id,
+      detail: `${kind}:${title}`,
+    });
+
+    if (notify) {
+      try {
+        ensureVapid(vapidPrivateKey.value());
+        const uids = await listMemberUids();
+        await notifyUsers(uids, {
+          title,
+          body: body.slice(0, 180),
+          href,
+          kind: `update_${kind}`,
+        });
+      } catch (error) {
+        logger.warn("broadcast notify failed", { message: error instanceof Error ? error.message : String(error) });
+      }
+    }
+
+    return { success: true as const, id: ref.id };
+  },
+);

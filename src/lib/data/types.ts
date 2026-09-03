@@ -243,6 +243,7 @@ export interface Topic {
   locked: boolean;
   status: ContentStatus;
   updatedAt: string;
+  productId?: string;
 }
 
 export interface Post {
@@ -251,6 +252,7 @@ export interface Post {
   authorName: string;
   body: string;
   createdAt: string;
+  authorUid?: string;
 }
 
 export interface Product {
@@ -275,6 +277,8 @@ export interface Announcement {
   publishedAt: string;
   status: ContentStatus;
   important: boolean;
+  href?: string;
+  kind?: string;
 }
 
 export interface Entitlement {

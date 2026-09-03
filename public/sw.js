@@ -1,4 +1,4 @@
-const VERSION = "aletheia-shell-v1";
+const VERSION = "aletheia-shell-v2";
 const SHELL = ["/", "/offline", "/manifest.webmanifest", "/icons/icon.svg"];
 
 self.addEventListener("install", (event) => {
@@ -25,13 +25,7 @@ self.addEventListener("fetch", (event) => {
 
   if (request.mode === "navigate") {
     event.respondWith(
-      fetch(request)
-        .then((response) => {
-          const copy = response.clone();
-          caches.open(VERSION).then((cache) => cache.put(request, copy));
-          return response;
-        })
-        .catch(async () => (await caches.match(request)) || caches.match("/offline")),
+      fetch(request).catch(async () => (await caches.match(request)) || caches.match("/offline")),
     );
     return;
   }
@@ -45,6 +39,45 @@ self.addEventListener("fetch", (event) => {
       })),
     );
   }
+});
+
+self.addEventListener("push", (event) => {
+  let data = { title: "Aletheia", body: "", href: "/" };
+  try {
+    if (event.data) data = { ...data, ...event.data.json() };
+  } catch {
+    try {
+      if (event.data) data = { ...data, body: event.data.text() };
+    } catch {
+      /* ignore */
+    }
+  }
+  event.waitUntil(
+    self.registration.showNotification(data.title || "Aletheia", {
+      body: data.body || "",
+      data: { href: data.href || "/" },
+      icon: "/icons/icon.svg",
+      badge: "/icons/icon.svg",
+    }),
+  );
+});
+
+self.addEventListener("notificationclick", (event) => {
+  event.notification.close();
+  const href = event.notification.data?.href || "/";
+  const url = new URL(href, self.location.origin).href;
+  event.waitUntil(
+    self.clients.matchAll({ type: "window", includeUncontrolled: true }).then((clientList) => {
+      for (const client of clientList) {
+        if ("focus" in client) {
+          client.focus();
+          if ("navigate" in client) client.navigate(url);
+          return;
+        }
+      }
+      return self.clients.openWindow(url);
+    }),
+  );
 });
 
 self.addEventListener("message", (event) => {

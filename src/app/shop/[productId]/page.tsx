@@ -122,6 +122,12 @@ export default function ProductPage() {
               {t("nav.signIn")}
             </Link>
           ) : null}
+          <Link
+            href={`/community/talk?product=${encodeURIComponent(product.id)}`}
+            className={buttonVariants({ variant: "outline" })}
+          >
+            {t("community.discuss")}
+          </Link>
           {book ? (
             <Link href={`/publications/books/${book.id}`} className={buttonVariants({ variant: "link" })}>
               {book.title}

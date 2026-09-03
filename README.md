@@ -16,6 +16,12 @@ Primary navigation (locked): **Home · Learn · Publications · Community · Sho
 
 Administration is a protected route at `/admin` (Account → Administration), not a seventh tab. The founding administrator is `dr.coachachu@btheducationgroup.org`.
 
+`/admin` sections: People, Analytics, Purchases, Commerce (Mobile Money), Notices (broadcasts), Reports, Audit.
+
+Community is boards inside Commons — including **Projects**. Members watch a board to be notified of new posts. There is no Chat tab and no private messenger.
+
+Account → Notifications holds the in-app inbox. After installing the PWA on a home screen, **Enable home-screen alerts** registers Web Push on that device.
+
 ## Run locally
 
 ```bash

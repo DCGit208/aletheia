@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useEffect, useState } from "react";
 import { collection, onSnapshot, query, where } from "firebase/firestore";
 import { listAnnouncements } from "@/lib/data/repository";
@@ -28,6 +29,8 @@ export function HomeAnnouncements() {
           publishedAt: publishedAt instanceof Date ? publishedAt.toISOString() : new Date().toISOString(),
           status: "published" as const,
           important: data.important === true,
+          href: typeof data.href === "string" && data.href.startsWith("/") ? data.href : undefined,
+          kind: typeof data.kind === "string" ? data.kind : undefined,
         };
       });
       const seen = new Set(live.map((item) => item.id));
@@ -43,6 +46,11 @@ export function HomeAnnouncements() {
         <article key={item.id} className="rounded-2xl bg-card px-4 py-4">
           <p className="font-heading text-lg leading-snug">{item.title}</p>
           <p className="mt-1 text-sm text-muted-foreground">{item.body}</p>
+          {item.href ? (
+            <Link href={item.href} className="mt-2 inline-block text-sm text-primary">
+              Open
+            </Link>
+          ) : null}
         </article>
       ))}
     </div>

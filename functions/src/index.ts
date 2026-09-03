@@ -2,6 +2,7 @@ import { initializeApp } from "firebase-admin/app";
 import { FieldValue, getFirestore } from "firebase-admin/firestore";
 import { HttpsError, onCall, onRequest } from "firebase-functions/v2/https";
 import { defineSecret } from "firebase-functions/params";
+import { logger } from "firebase-functions";
 import Stripe from "stripe";
 import {
   getOffer,
@@ -13,8 +14,10 @@ import {
   uniqueGrants,
   type MomoNetwork,
 } from "./offerings.js";
+import { ensureVapid, notifyAdministrators, notifyQuietly, vapidPrivateKey } from "./notify.js";
 
 export * from "./admin.js";
+export * from "./community.js";
 
 initializeApp();
 
@@ -170,7 +173,7 @@ export const createCheckoutSession = onCall(
 );
 
 export const stripeWebhook = onRequest(
-  { region: REGION, secrets: [stripeSecret, webhookSecret], cors: false, invoker: "public" },
+  { region: REGION, secrets: [stripeSecret, webhookSecret, vapidPrivateKey], cors: false, invoker: "public" },
   async (req, res) => {
     if (req.method !== "POST") {
       res.status(405).send("Method not allowed");
@@ -222,6 +225,20 @@ export const stripeWebhook = onRequest(
         totalCents: session.amount_total ?? 0,
         currency: "USD",
       });
+      if (result === "granted") {
+        try {
+          ensureVapid(vapidPrivateKey.value());
+          const names = productIds.map((id) => getOffer(id)?.title ?? id).join(", ");
+          await notifyQuietly([uid], {
+            title: "Purchase confirmed",
+            body: names,
+            href: "/account/orders",
+            kind: "purchase",
+          });
+        } catch (error) {
+          logger.warn("purchase notify failed", { message: error instanceof Error ? error.message : String(error) });
+        }
+      }
       res.status(200).send(result);
     } catch (error) {
       res.status(400).send(error instanceof Error ? error.message : "Grant failed");
@@ -229,7 +246,9 @@ export const stripeWebhook = onRequest(
   },
 );
 
-export const createManualPayment = onCall({ region: REGION, cors: true }, async (request) => {
+export const createManualPayment = onCall(
+  { region: REGION, cors: true, secrets: [vapidPrivateKey] },
+  async (request) => {
   const auth = requireAuth(request);
   const productId = typeof request.data?.productId === "string" ? request.data.productId : "";
   const networkRaw = typeof request.data?.momo_network === "string" ? request.data.momo_network : "";
@@ -303,6 +322,18 @@ export const createManualPayment = onCall({ region: REGION, cors: true }, async 
   });
   await batch.commit();
 
+  try {
+    ensureVapid(vapidPrivateKey.value());
+    await notifyAdministrators({
+      title: "Mobile Money to confirm",
+      body: `${record.email || "A member"} sent ${offer.title} · ${reference}`,
+      href: "/admin",
+      kind: "momo_pending",
+    });
+  } catch (error) {
+    logger.warn("admin momo notify failed", { message: error instanceof Error ? error.message : String(error) });
+  }
+
   return { success: true as const, paymentId: paymentRef.id, reference, alreadyOpen: false as const };
 });
 
@@ -333,7 +364,9 @@ export const listManualPayments = onCall({ region: REGION, cors: true }, async (
   return { payments };
 });
 
-export const confirmManualPayment = onCall({ region: REGION, cors: true }, async (request) => {
+export const confirmManualPayment = onCall(
+  { region: REGION, cors: true, secrets: [vapidPrivateKey] },
+  async (request) => {
   if (!isReviewer(request.auth)) {
     throw new HttpsError("permission-denied", "Not allowed to confirm Mobile Money.");
   }
@@ -378,10 +411,26 @@ export const confirmManualPayment = onCall({ region: REGION, cors: true }, async
     confirmedBy: request.auth?.uid ?? "",
   });
 
+  if (result === "granted") {
+    try {
+      ensureVapid(vapidPrivateKey.value());
+      await notifyQuietly([uid], {
+        title: "Payment confirmed",
+        body: `${typeof data.productTitle === "string" ? data.productTitle : "Your year"} is now on your account.`,
+        href: "/account/library",
+        kind: "purchase",
+      });
+    } catch (error) {
+      logger.warn("momo confirm notify failed", { message: error instanceof Error ? error.message : String(error) });
+    }
+  }
+
   return { success: true as const, already: result === "already-granted" };
 });
 
-export const rejectManualPayment = onCall({ region: REGION, cors: true }, async (request) => {
+export const rejectManualPayment = onCall(
+  { region: REGION, cors: true, secrets: [vapidPrivateKey] },
+  async (request) => {
   if (!isReviewer(request.auth)) {
     throw new HttpsError("permission-denied", "Not allowed to review Mobile Money.");
   }
@@ -410,5 +459,21 @@ export const rejectManualPayment = onCall({ region: REGION, cors: true }, async 
     );
   }
   await batch.commit();
+  if (uid) {
+    try {
+      ensureVapid(vapidPrivateKey.value());
+      await notifyQuietly([uid], {
+        title: "Transfer not confirmed",
+        body:
+          typeof data.productTitle === "string"
+            ? `The Mobile Money for ${data.productTitle} was not approved.`
+            : "The Mobile Money transfer was not approved.",
+        href: "/account/orders",
+        kind: "momo_rejected",
+      });
+    } catch (error) {
+      logger.warn("momo reject notify failed", { message: error instanceof Error ? error.message : String(error) });
+    }
+  }
   return { success: true as const };
 });

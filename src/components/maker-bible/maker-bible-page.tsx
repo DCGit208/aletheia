@@ -64,6 +64,12 @@ export function MakerBiblePage() {
                 {t("nav.signIn")}
               </Link>
             ) : null}
+            <Link
+              href={`/community/talk?product=${encodeURIComponent(product.id)}`}
+              className={buttonVariants({ variant: "outline" })}
+            >
+              {t("community.discuss")}
+            </Link>
           </div>
         </div>
       </header>

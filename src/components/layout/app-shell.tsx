@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import {
+  Bell,
   BookOpen,
   Home,
   Library,
@@ -76,6 +77,15 @@ export function AppShell({ children }: { children: React.ReactNode }) {
               >
                 <Search className="size-5" />
               </button>
+              {user ? (
+                <Link
+                  href="/account/notifications"
+                  className="grid size-9 place-items-center rounded-full text-muted-foreground hover:bg-white/5 hover:text-foreground"
+                  aria-label={t("account.notifications")}
+                >
+                  <Bell className="size-5" />
+                </Link>
+              ) : null}
               <Link
                 href={user ? "/account" : "/sign-in"}
                 className="grid size-9 place-items-center rounded-full bg-white/6 text-sm font-medium"
