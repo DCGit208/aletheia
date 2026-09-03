@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { Cover } from "@/components/content/cover";
+import { CoverArtworkPicker } from "@/components/content/cover-artwork-picker";
 import { Badge } from "@/components/ui/badge";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { canAccessContent } from "@/lib/access/entitlements";
@@ -34,7 +35,11 @@ export function BookDetail({ book, context }: { book: Book; context: "learn" | "
 
   return (
     <article className="grid gap-8 md:grid-cols-[220px_1fr]">
-      <Cover title={book.title} subtitle={book.subtitle} tone={book.coverTone} image={book.coverImage} />
+      {book.coverArtworks && book.coverArtworks.length > 1 ? (
+        <CoverArtworkPicker artworks={book.coverArtworks} defaultImage={book.coverImage} title={book.title} />
+      ) : (
+        <Cover title={book.title} subtitle={book.subtitle} tone={book.coverTone} image={book.coverImage} />
+      )}
       <div>
         <p className="text-[0.7rem] tracking-[0.2em] text-muted-foreground uppercase">
           {offer?.kicker ?? book.publisher}
@@ -84,6 +89,12 @@ export function BookDetail({ book, context }: { book: Book; context: "learn" | "
               {bookmarked ? t("action.bookmarked") : t("action.bookmark")}
             </Button>
           ) : null}
+          <Link
+            href={`/community/talk?product=${encodeURIComponent(product?.id ?? book.productId ?? book.id)}`}
+            className={buttonVariants({ variant: "outline" })}
+          >
+            {t("community.discuss")}
+          </Link>
           {context === "learn" ? (
             <Link href={`/publications/books/${book.id}`} className={buttonVariants({ variant: "link" })}>
               {t("nav.publications")}

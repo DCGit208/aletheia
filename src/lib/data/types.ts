@@ -76,11 +76,18 @@ export interface Book {
   tags: string[];
   coverTone: string;
   coverImage?: string;
+  coverArtworks?: CoverArtwork[];
   status: ContentStatus;
   accessLevel: AccessLevel;
   previewChapterIds: string[];
   productId?: string;
   chapterCount: number;
+}
+
+export interface CoverArtwork {
+  id: string;
+  label: string;
+  image: string;
 }
 
 export interface ScriptureVerse {

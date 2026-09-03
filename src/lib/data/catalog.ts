@@ -31,6 +31,7 @@ export const catalog: CatalogSnapshot = {
         "book-real-man-ai",
         "book-parables-hidden-treasure",
         "book-great-deception",
+        "book-doctrine-of-faith",
         "book-principles-doctrine-christ",
         "article-unveiled-speech",
         "article-steward-city",
@@ -42,6 +43,7 @@ export const catalog: CatalogSnapshot = {
         "book-real-man-ai",
         "book-parables-hidden-treasure",
         "book-great-deception",
+        "book-doctrine-of-faith",
         "book-principles-doctrine-christ",
       ],
       articleIds: ["article-unveiled-speech", "article-steward-city"],
@@ -179,6 +181,34 @@ export const catalog: CatalogSnapshot = {
       chapterCount: 1,
     },
     {
+      id: "book-doctrine-of-faith",
+      title: "Doctrine of Faith",
+      subtitle: "The Gospel That Restores Our True Nature",
+      description:
+        "Faith · Sonship · Justification · Redemption · Oneness · Identity · Inheritance. You are the righteousness of God in Christ. 2 Corinthians 5:21. The companion volume for Course 2 — Faith Toward God.",
+      authors: [achu],
+      contributors: [],
+      publisher: BRAND.publications,
+      publishedAt: "2026-09-03",
+      language: "en",
+      edition: "First",
+      categories: ["Faith", "Formation"],
+      tags: ["faith", "sonship", "justification", "redemption", "identity", "hebrews"],
+      coverTone: "earth",
+      coverImage: "/covers/doctrine-of-faith-seal.png",
+      coverArtworks: [
+        { id: "seal", label: "Seal", image: "/covers/doctrine-of-faith-seal.png" },
+        { id: "arch", label: "Arch", image: "/covers/doctrine-of-faith-arch.png" },
+        { id: "stone", label: "Stone", image: "/covers/doctrine-of-faith-stone.png" },
+        { id: "gate", label: "Gate", image: "/covers/doctrine-of-faith-gate.png" },
+      ],
+      status: "published",
+      accessLevel: "entitled",
+      previewChapterIds: ["ch-faith-1"],
+      productId: "product-doctrine-of-faith",
+      chapterCount: 1,
+    },
+    {
       id: "book-great-deception",
       title: "The Great Deception",
       subtitle: "When Truth Is Rejected, Lies Become Believable",
@@ -262,6 +292,23 @@ Matthew 13:44.
 A man finds what was hidden, sells what he had, and buys the field. This volume reads that parable as a charge: see the worth, pay the cost, live inside the find.
 
 The printed cover is here. The complete text is being prepared for this reader.`,
+    },
+    {
+      id: "ch-faith-1",
+      bookId: "book-doctrine-of-faith",
+      number: 1,
+      title: "Thesis",
+      body: `Faith · Sonship · Justification · Redemption · Oneness · Identity · Inheritance.
+
+You are the righteousness of God in Christ. 2 Corinthians 5:21.
+
+We were made in His image. We are restored by His grace. We are one in Him.
+
+This volume is the companion reading for Course 2 — Faith Toward God. Hebrews 6:1 names faith toward God as the second stone of the foundation. The printed cover and thesis are here now. Full chapters will enter this reader as they are prepared.
+
+Genesis 1:26–27. Romans 3:23–24. Galatians 4:5–7. Romans 8:15. Ephesians 1:5. 2 Corinthians 5:21. Hebrews 1:8. John 17:20–23.
+
+Justified freely by His grace through the redemption that is in Christ Jesus. Romans 3:24.`,
     },
     {
       id: "ch-deception-1",
@@ -678,6 +725,7 @@ The cover is published. The full study will enter this reader next.`,
       "book-beyond-ai-man",
       "book-parables-hidden-treasure",
       "book-great-deception",
+      "book-doctrine-of-faith",
     ],
     featuredJournalIds: ["journal-aletheia"],
     announcementIds: ["ann-foundation", "ann-journal"],

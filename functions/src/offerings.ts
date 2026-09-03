@@ -269,6 +269,20 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
       coverImage: "/covers/parables-hidden-treasure.jpg",
     },
   ),
+  "product-doctrine-of-faith": bookOffer(
+    "product-doctrine-of-faith",
+    "Doctrine of Faith",
+    "Companion book for Course 2 — Faith Toward God. Faith · Sonship · Justification · Redemption · Oneness · Identity · Inheritance.",
+    "book-doctrine-of-faith",
+    10000,
+    {
+      shopGroup: "publications",
+      badge: "Book",
+      kicker: "Companion book · $100",
+      coverTone: "earth",
+      coverImage: "/covers/doctrine-of-faith-seal.png",
+    },
+  ),
   "product-great-deception": bookOffer(
     "product-great-deception",
     "The Great Deception",
