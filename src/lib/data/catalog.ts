@@ -32,6 +32,7 @@ export const catalog: CatalogSnapshot = {
         "book-parables-hidden-treasure",
         "book-great-deception",
         "book-doctrine-of-faith",
+        "book-doctrine-of-baptism",
         "book-principles-doctrine-christ",
         "article-unveiled-speech",
         "article-steward-city",
@@ -44,6 +45,7 @@ export const catalog: CatalogSnapshot = {
         "book-parables-hidden-treasure",
         "book-great-deception",
         "book-doctrine-of-faith",
+        "book-doctrine-of-baptism",
         "book-principles-doctrine-christ",
       ],
       articleIds: ["article-unveiled-speech", "article-steward-city"],
@@ -209,6 +211,33 @@ export const catalog: CatalogSnapshot = {
       chapterCount: 1,
     },
     {
+      id: "book-doctrine-of-baptism",
+      title: "Doctrine of Baptism",
+      subtitle: "Immersion in the Divine. One in Nature. Complete in Christ.",
+      description:
+        "Born of the Word. Baptized into Christ. Baptized in the Holy Spirit. United with Christ — one in nature. The companion volume for Course 3 — The Doctrine of Baptisms.",
+      authors: [achu],
+      contributors: [],
+      publisher: BRAND.publications,
+      publishedAt: "2026-09-03",
+      language: "en",
+      edition: "First",
+      categories: ["Formation", "Truth"],
+      tags: ["baptism", "christ", "spirit", "word", "hebrews", "sonship"],
+      coverTone: "ink",
+      coverImage: "/covers/doctrine-of-baptism-triquetra.png",
+      coverArtworks: [
+        { id: "triquetra", label: "Triquetra", image: "/covers/doctrine-of-baptism-triquetra.png" },
+        { id: "immersion", label: "Immersion", image: "/covers/doctrine-of-baptism-immersion.png" },
+        { id: "dove", label: "Dove", image: "/covers/doctrine-of-baptism-dove.png" },
+      ],
+      status: "published",
+      accessLevel: "entitled",
+      previewChapterIds: ["ch-baptism-1"],
+      productId: "product-doctrine-of-baptism",
+      chapterCount: 1,
+    },
+    {
       id: "book-great-deception",
       title: "The Great Deception",
       subtitle: "When Truth Is Rejected, Lies Become Believable",
@@ -309,6 +338,23 @@ This volume is the companion reading for Course 2 — Faith Toward God. Hebrews 
 Genesis 1:26–27. Romans 3:23–24. Galatians 4:5–7. Romans 8:15. Ephesians 1:5. 2 Corinthians 5:21. Hebrews 1:8. John 17:20–23.
 
 Justified freely by His grace through the redemption that is in Christ Jesus. Romans 3:24.`,
+    },
+    {
+      id: "ch-baptism-1",
+      bookId: "book-doctrine-of-baptism",
+      number: 1,
+      title: "Thesis",
+      body: `Immersion in the Divine. One in nature. Complete in Christ.
+
+United with Christ — one in nature.
+
+Born of the Word — Ephesians 5:26; 1 Peter 1:23.
+Baptized into Christ — Galatians 3:26–27; Colossians 2:10.
+Baptized in the Holy Spirit — Spirit without measure; John 3:34.
+
+This volume is the companion reading for Course 3 — The Doctrine of Baptisms. Hebrews 6:2 names the doctrine of baptisms among the first principles. The printed cover and thesis are here now. Full chapters will enter this reader as they are prepared.
+
+The Word. Into Christ. Water baptism. In the Spirit. Sonship and fullness.`,
     },
     {
       id: "ch-deception-1",
@@ -726,6 +772,7 @@ The cover is published. The full study will enter this reader next.`,
       "book-parables-hidden-treasure",
       "book-great-deception",
       "book-doctrine-of-faith",
+      "book-doctrine-of-baptism",
     ],
     featuredJournalIds: ["journal-aletheia"],
     announcementIds: ["ann-foundation", "ann-journal"],

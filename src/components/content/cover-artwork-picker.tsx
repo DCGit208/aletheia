@@ -45,7 +45,13 @@ export function CoverArtworkPicker({
               artwork.id === selected ? "ring-primary" : "ring-transparent opacity-60 hover:opacity-100",
             )}
           >
-            <Image src={artwork.image} alt={artwork.label} fill sizes="64px" className="object-cover object-center" />
+            <Image
+              src={artwork.image}
+              alt={artwork.label}
+              fill
+              sizes="64px"
+              className="pointer-events-none object-cover object-center"
+            />
           </button>
         ))}
       </div>

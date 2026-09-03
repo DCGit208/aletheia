@@ -283,6 +283,20 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
       coverImage: "/covers/doctrine-of-faith-seal.png",
     },
   ),
+  "product-doctrine-of-baptism": bookOffer(
+    "product-doctrine-of-baptism",
+    "Doctrine of Baptism",
+    "Companion book for Course 3 — The Doctrine of Baptisms. Born of the Word. Baptized into Christ. Baptized in the Holy Spirit.",
+    "book-doctrine-of-baptism",
+    10000,
+    {
+      shopGroup: "publications",
+      badge: "Book",
+      kicker: "Companion book · $100",
+      coverTone: "ink",
+      coverImage: "/covers/doctrine-of-baptism-triquetra.png",
+    },
+  ),
   "product-great-deception": bookOffer(
     "product-great-deception",
     "The Great Deception",
