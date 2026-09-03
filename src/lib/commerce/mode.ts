@@ -15,3 +15,8 @@ export function checkoutMode(): CheckoutMode {
 export function isStripeCheckout(): boolean {
   return checkoutMode() === "stripe";
 }
+
+/** Card and Mobile Money. A signed-in Firebase member is live even if checkout mode was left on local. */
+export function isLiveCheckout(user?: { source?: string } | null): boolean {
+  return user?.source === "firebase" || isStripeCheckout();
+}

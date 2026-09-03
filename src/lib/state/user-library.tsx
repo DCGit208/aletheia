@@ -4,7 +4,7 @@ import { createContext, useContext, useEffect, useMemo, useSyncExternalStore, ty
 import { collection, onSnapshot } from "firebase/firestore";
 import { useAuth } from "@/lib/auth/provider";
 import { makeEntitlement, grantTargetsForProduct, holdsEntitlement } from "@/lib/access/entitlements";
-import { isStripeCheckout } from "@/lib/commerce/mode";
+import { isLiveCheckout } from "@/lib/commerce/mode";
 import { redirectToStripeCheckout } from "@/lib/commerce/stripe-client";
 import { getCourse, getProduct, getProgram, getSchool } from "@/lib/data/repository";
 import { getFirebaseDb } from "@/lib/firebase/client";
@@ -109,7 +109,7 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
   const [cart, setCart] = usePersisted("cart", loadCart, saveCart, EMPTY_CART);
 
   useEffect(() => {
-    if (!user || user.source !== "firebase" || !isStripeCheckout()) return;
+    if (!user || user.source !== "firebase") return;
     const db = getFirebaseDb();
     if (!db) return;
     const unsubscribe = onSnapshot(collection(db, "usersPrivate", user.uid, "entitlements"), (snap) => {
@@ -182,7 +182,7 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
 
     const pay = async (): Promise<Order | null> => {
       if (!user || cart.length === 0) return null;
-      if (isStripeCheckout() || user.source === "firebase") {
+      if (isLiveCheckout(user)) {
         if (user.source !== "firebase") {
           throw new Error("Card payment requires an Aletheia account created with email, not a local demo session.");
         }

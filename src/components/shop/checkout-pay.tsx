@@ -5,7 +5,7 @@ import { toast } from "sonner";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
-import { isStripeCheckout } from "@/lib/commerce/mode";
+import { isLiveCheckout } from "@/lib/commerce/mode";
 import {
   formatMomoXaf,
   isMomoEligibleCart,
@@ -13,15 +13,17 @@ import {
   type MomoNetwork,
 } from "@/lib/commerce/offerings";
 import { submitManualMomoPayment } from "@/lib/commerce/momo-client";
+import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
 import { cn } from "@/lib/utils";
 
 export function CheckoutPay() {
   const { t } = useI18n();
+  const { user } = useAuth();
   const { cart, pay, clearCart } = useUserLibrary();
-  const stripe = isStripeCheckout();
-  const momoOk = stripe && isMomoEligibleCart(cart);
+  const live = isLiveCheckout(user);
+  const momoOk = live && isMomoEligibleCart(cart);
   const [method, setMethod] = useState<"card" | "momo">("card");
   const [network, setNetwork] = useState<MomoNetwork>("mtn");
   const [phone, setPhone] = useState("");
@@ -34,7 +36,7 @@ export function CheckoutPay() {
     void pay()
       .then((order) => {
         if (order) toast.success(t("shop.orderPlaced"));
-        else if (stripe) toast.message(t("shop.redirecting"));
+        else if (live) toast.message(t("shop.redirecting"));
       })
       .catch((error) => {
         toast.error(error instanceof Error ? error.message : t("shop.payFailed"));
@@ -163,11 +165,11 @@ export function CheckoutPay() {
             disabled={pending}
             onClick={payCard}
           >
-            {stripe ? t("action.payCard") : t("action.checkout")}
+            {live ? t("action.payCard") : t("action.checkout")}
           </Button>
-          {stripe ? <p className="mt-3 text-sm text-muted-foreground">{t("shop.payCardHint")}</p> : null}
-          {!stripe ? <p className="mt-3 text-sm text-muted-foreground">{t("shop.payLocalHint")}</p> : null}
-          {stripe && !momoOk && cart.some((id) => id.startsWith("product-foundation-")) ? (
+          {live ? <p className="mt-3 text-sm text-muted-foreground">{t("shop.payCardHint")}</p> : null}
+          {!live ? <p className="mt-3 text-sm text-muted-foreground">{t("shop.payLocalHint")}</p> : null}
+          {live && !momoOk && cart.some((id) => id.startsWith("product-foundation-")) ? (
             <p className="mt-2 text-sm text-muted-foreground">{t("shop.momoOnlyYear")}</p>
           ) : null}
         </>
