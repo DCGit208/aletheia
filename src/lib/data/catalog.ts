@@ -33,6 +33,7 @@ export const catalog: CatalogSnapshot = {
         "book-great-deception",
         "book-doctrine-of-faith",
         "book-doctrine-of-baptism",
+        "book-doctrine-of-laying-on-of-hands",
         "book-principles-doctrine-christ",
         "article-unveiled-speech",
         "article-steward-city",
@@ -46,6 +47,7 @@ export const catalog: CatalogSnapshot = {
         "book-great-deception",
         "book-doctrine-of-faith",
         "book-doctrine-of-baptism",
+        "book-doctrine-of-laying-on-of-hands",
         "book-principles-doctrine-christ",
       ],
       articleIds: ["article-unveiled-speech", "article-steward-city"],
@@ -238,6 +240,28 @@ export const catalog: CatalogSnapshot = {
       chapterCount: 1,
     },
     {
+      id: "book-doctrine-of-laying-on-of-hands",
+      title: "Doctrine of Laying on of Hands",
+      subtitle: "Hebrews 6:2",
+      description:
+        "The fourth first principle. Resultant ministry, not a substitute for the foundation. The companion volume for Course 4 — Laying on of Hands.",
+      authors: [achu],
+      contributors: [],
+      publisher: BRAND.publications,
+      publishedAt: "2026-09-03",
+      language: "en",
+      edition: "First",
+      categories: ["Formation", "Truth"],
+      tags: ["laying-on-of-hands", "hebrews", "ministry", "foundation"],
+      coverTone: "earth",
+      coverImage: "/covers/doctrine-of-laying-on-of-hands.png",
+      status: "published",
+      accessLevel: "entitled",
+      previewChapterIds: ["ch-hands-1"],
+      productId: "product-doctrine-of-laying-on-of-hands",
+      chapterCount: 1,
+    },
+    {
       id: "book-great-deception",
       title: "The Great Deception",
       subtitle: "When Truth Is Rejected, Lies Become Believable",
@@ -355,6 +379,19 @@ Baptized in the Holy Spirit — Spirit without measure; John 3:34.
 This volume is the companion reading for Course 3 — The Doctrine of Baptisms. Hebrews 6:2 names the doctrine of baptisms among the first principles. The printed cover and thesis are here now. Full chapters will enter this reader as they are prepared.
 
 The Word. Into Christ. Water baptism. In the Spirit. Sonship and fullness.`,
+    },
+    {
+      id: "ch-hands-1",
+      bookId: "book-doctrine-of-laying-on-of-hands",
+      number: 1,
+      title: "Thesis",
+      body: `Hebrews 6:2 — the doctrine of laying on of hands.
+
+This is the fourth first principle of the doctrine of Christ. It is resultant: it follows repentance, faith, and baptisms. It is not a substitute for the foundation already laid.
+
+Nine biblical occasions will open in the full teaching. The printed cover and thesis are here now. Full chapters will enter this reader as they are prepared.
+
+This volume is the companion reading for Course 4 — Laying on of Hands.`,
     },
     {
       id: "ch-deception-1",
@@ -773,6 +810,7 @@ The cover is published. The full study will enter this reader next.`,
       "book-great-deception",
       "book-doctrine-of-faith",
       "book-doctrine-of-baptism",
+      "book-doctrine-of-laying-on-of-hands",
     ],
     featuredJournalIds: ["journal-aletheia"],
     announcementIds: ["ann-foundation", "ann-journal"],

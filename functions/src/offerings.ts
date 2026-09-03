@@ -297,6 +297,20 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
       coverImage: "/covers/doctrine-of-baptism-triquetra.png",
     },
   ),
+  "product-doctrine-of-laying-on-of-hands": bookOffer(
+    "product-doctrine-of-laying-on-of-hands",
+    "Doctrine of Laying on of Hands",
+    "Companion book for Course 4 — Laying on of Hands. Hebrews 6:2. Resultant ministry, not a substitute for the foundation.",
+    "book-doctrine-of-laying-on-of-hands",
+    10000,
+    {
+      shopGroup: "publications",
+      badge: "Book",
+      kicker: "Companion book · $100",
+      coverTone: "earth",
+      coverImage: "/covers/doctrine-of-laying-on-of-hands.png",
+    },
+  ),
   "product-great-deception": bookOffer(
     "product-great-deception",
     "The Great Deception",
