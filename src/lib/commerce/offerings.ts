@@ -344,3 +344,36 @@ export function uniqueGrants(productIds: string[]): GrantTarget[] {
   }
   return grants;
 }
+
+/** Year SKUs only — courses, textbook, and publications stay card-only. */
+export const MOMO_YEAR_PRODUCT_IDS = ["product-foundation-year", "product-foundation-intensive"] as const;
+
+export type MomoYearProductId = (typeof MOMO_YEAR_PRODUCT_IDS)[number];
+
+/** $400 at 600 XAF. Not another product’s yearly FCFA figure. */
+export const MOMO_YEAR_XAF = 240_000;
+
+export const MOMO_PAYEES = {
+  mtn: { number: "237 677 604 100", name: "Achu Gustave Mokom", ussd: "*126#" },
+  orange: { number: "237 699 651 555", name: "Achu Gustave Mokom", ussd: "#150#" },
+} as const;
+
+export type MomoNetwork = keyof typeof MOMO_PAYEES;
+
+export const MOMO_REVIEWER_EMAILS = [
+  "bthedugrp@gmail.com",
+  "house_justice@yahoo.com",
+  "dr.coachachu@btheducationgroup.org",
+] as const;
+
+export function isMomoYearProduct(productId: string): productId is MomoYearProductId {
+  return (MOMO_YEAR_PRODUCT_IDS as readonly string[]).includes(productId);
+}
+
+export function isMomoEligibleCart(productIds: string[]): boolean {
+  return productIds.length === 1 && isMomoYearProduct(productIds[0]);
+}
+
+export function formatMomoXaf(amount = MOMO_YEAR_XAF): string {
+  return `${amount.toString().replace(/\B(?=(\d{3})+(?!\d))/g, "\u00a0")} FCFA`;
+}

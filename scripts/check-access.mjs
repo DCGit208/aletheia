@@ -150,4 +150,17 @@ const yearBlock = offerings.slice(
 assert.equal(yearBlock.includes("principles-doctrine-christ.jpg"), false);
 assert.equal(yearBlock.includes("Course 1 of 6"), false);
 
+function isMomoEligibleCart(ids) {
+  return ids.length === 1 && ["product-foundation-year", "product-foundation-intensive"].includes(ids[0]);
+}
+assert.equal(isMomoEligibleCart(["product-foundation-year"]), true);
+assert.equal(isMomoEligibleCart(["product-foundation-intensive"]), true);
+assert.equal(isMomoEligibleCart(["product-maker-bible"]), false);
+assert.equal(isMomoEligibleCart(["product-course-repentance"]), false);
+assert.equal(isMomoEligibleCart(["product-foundation-year", "product-maker-bible"]), false);
+assert.match(offerings, /MOMO_YEAR_XAF = 240_000/);
+assert.match(offerings, /237 677 604 100/);
+assert.match(offerings, /237 699 651 555/);
+assert.equal(offerings.includes("SBD"), false);
+
 console.log("access checks passed");

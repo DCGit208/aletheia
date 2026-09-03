@@ -13,7 +13,7 @@ import {
 } from "lucide-react";
 import { BrandMark } from "@/components/brand/mark";
 import { useAuth } from "@/lib/auth/provider";
-import { hasPermission } from "@/lib/auth/permissions";
+import { canReviewManualPayments } from "@/lib/auth/permissions";
 import { isFirebaseConfigured } from "@/lib/firebase/config";
 import { useI18n } from "@/lib/i18n/provider";
 import { PRIMARY_NAV, resolvePrimaryNav } from "@/lib/navigation";
@@ -95,7 +95,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
           {children}
         </main>
 
-        {hasPermission(user?.role, "admin.access") ? (
+        {canReviewManualPayments(user) ? (
           <Link
             href="/admin"
             className="sr-only focus:not-sr-only focus:absolute focus:top-16 focus:right-4 focus:z-50 focus:rounded-md focus:bg-card focus:px-3 focus:py-2"

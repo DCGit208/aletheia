@@ -2,6 +2,7 @@
 
 import { EmptyState } from "@/components/content/query-state";
 import { PageIntro } from "@/components/content/page-intro";
+import { formatMomoXaf } from "@/lib/commerce/offerings";
 import { getProduct } from "@/lib/data/repository";
 import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";
@@ -23,10 +24,15 @@ export default function OrdersPage() {
           {orders.map((order) => (
             <li key={order.id} className="rounded-xl px-4 py-3 ring-1 ring-foreground/10">
               <p className="font-medium">
-                {order.status} · ${(order.totalCents / 100).toFixed(2)}
+                {order.status}
+                {" · "}
+                {order.currency === "XAF"
+                  ? formatMomoXaf(order.amountXaf)
+                  : `$${(order.totalCents / 100).toFixed(2)}`}
               </p>
               <p className="text-sm text-muted-foreground">
                 {order.productIds.map((id) => getProduct(id)?.title ?? id).join(", ")}
+                {order.reference ? ` · ${order.reference}` : ""}
               </p>
             </li>
           ))}

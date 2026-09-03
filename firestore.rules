@@ -381,6 +381,12 @@ service cloud.firestore {
       allow write: if false;
     }
 
+    // Written only by Cloud Functions (Admin SDK). Confirming does not happen on the client.
+    match /manualPayments/{id} {
+      allow read: if isAdmin();
+      allow write: if false;
+    }
+
     match /{document=**} {
       allow read, write: if false;
     }

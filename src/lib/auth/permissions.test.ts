@@ -1,6 +1,6 @@
 import { describe, it } from "node:test";
 import assert from "node:assert/strict";
-import { hasPermission } from "./permissions";
+import { canReviewManualPayments, hasPermission } from "./permissions";
 import { canAccessContent, grantTargetsForProduct } from "../access/entitlements";
 
 describe("permissions", () => {
@@ -13,6 +13,12 @@ describe("permissions", () => {
     assert.equal(hasPermission("guest", "community.create"), false);
     assert.equal(hasPermission("member", "community.create"), false);
     assert.equal(hasPermission("administrator", "community.create"), true);
+  });
+
+  it("lets allowlisted emails review Mobile Money without a platform admin role", () => {
+    assert.equal(canReviewManualPayments({ role: "member", email: "house_justice@yahoo.com" }), true);
+    assert.equal(canReviewManualPayments({ role: "member", email: "student@example.com" }), false);
+    assert.equal(canReviewManualPayments({ role: "administrator", email: "anyone@example.com" }), true);
   });
 });
 

@@ -324,9 +324,13 @@ export interface Order {
   userId: string;
   productIds: string[];
   totalCents: number;
-  currency: "USD";
+  currency: "USD" | "XAF";
   status: "pending" | "paid" | "failed" | "refunded";
   createdAt: string;
+  source?: "stripe" | "momo" | "local";
+  amountXaf?: number;
+  reference?: string;
+  network?: "mtn" | "orange";
 }
 
 export interface HomeComposition {

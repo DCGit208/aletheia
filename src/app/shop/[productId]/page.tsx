@@ -9,7 +9,7 @@ import { EmptyState } from "@/components/content/query-state";
 import { AddToCartButton } from "@/components/shop/add-to-cart-button";
 import { buttonVariants } from "@/components/ui/button";
 import { grantTargetsForProduct } from "@/lib/access/entitlements";
-import { getOffer } from "@/lib/commerce/offerings";
+import { getOffer, isMomoYearProduct } from "@/lib/commerce/offerings";
 import { getBook, getCourse, getProduct, getProgram } from "@/lib/data/repository";
 import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";
@@ -84,6 +84,9 @@ export default function ProductPage() {
         </p>
         <h1 className="mt-2 font-heading text-3xl tracking-wide">{product.title}</h1>
         <p className="mt-4 leading-relaxed">{product.description}</p>
+        {isMomoYearProduct(product.id) ? (
+          <p className="mt-3 text-sm text-muted-foreground">{t("shop.momoProductNote")}</p>
+        ) : null}
         <p className="mt-4 font-heading text-2xl">
           {product.compareAtCents ? (
             <span className="mr-2 text-base font-sans text-muted-foreground line-through">

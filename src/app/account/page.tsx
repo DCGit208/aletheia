@@ -5,7 +5,7 @@ import { ListRow } from "@/components/content/list-row";
 import { PageIntro } from "@/components/content/page-intro";
 import { buttonVariants } from "@/components/ui/button";
 import { Label } from "@/components/ui/label";
-import { hasPermission } from "@/lib/auth/permissions";
+import { canReviewManualPayments } from "@/lib/auth/permissions";
 import { useAuth } from "@/lib/auth/provider";
 import { getBook, getCourse } from "@/lib/data/repository";
 import { useI18n } from "@/lib/i18n/provider";
@@ -43,7 +43,7 @@ export default function AccountPage() {
         {rooms.map((room) => (
           <ListRow key={room.href} href={room.href} title={t(room.key)} />
         ))}
-        {hasPermission(user.role, "admin.access") ? <ListRow href="/admin" title={t("nav.admin")} /> : null}
+        {canReviewManualPayments(user) ? <ListRow href="/admin" title={t("nav.admin")} /> : null}
       </div>
 
       <section className="mb-8 rounded-2xl bg-card px-4 py-4">

@@ -30,12 +30,15 @@ Conceptual entities are not all top-level collections. The live map:
 | `searchIndex` | Token documents written by backend jobs |
 | `reports` | User reports |
 | `auditLogs` | Privileged-action log. Client write denied |
+| `manualPayments` | Pending Mobile Money for the year SKUs. Client write denied. Grants happen only after `confirmManualPayment` |
 
 ## User subcollections (`usersPrivate/{uid}/…`)
 
 `entitlements`, `enrollments`, `programEnrollments`, `readingProgress`, `bookmarks`, `orders`, `notifications`
 
 Orders and purchase entitlements are written by trusted backend after verification. Clients may create **enrollment** entitlements only for published public/free courses **or programs**.
+
+A Mobile Money submit creates `manualPayments/{id}` and a **pending** order. Confirming that payment writes the same purchase entitlements as Stripe. The submit path must never grant.
 
 ## Content lifecycle
 

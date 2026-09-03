@@ -118,6 +118,16 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
     return unsubscribe;
   }, [setEntitlements, user]);
 
+  useEffect(() => {
+    if (!user || user.source !== "firebase") return;
+    const db = getFirebaseDb();
+    if (!db) return;
+    const unsubscribe = onSnapshot(collection(db, "usersPrivate", user.uid, "orders"), (snap) => {
+      setOrders(snap.docs.map((item) => orderFromFirestore(item.id, item.data(), user.uid)));
+    });
+    return unsubscribe;
+  }, [setOrders, user]);
+
   const value = useMemo<UserLibraryValue>(() => {
     const checkout = (): Order | null => {
       if (!user || cart.length === 0) return null;
@@ -130,6 +140,7 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
         totalCents,
         currency: "USD",
         status: "paid",
+        source: "local",
         createdAt: new Date().toISOString(),
       };
       setOrders([order, ...orders]);
@@ -309,4 +320,32 @@ export function useUserLibrary() {
   const ctx = useContext(UserLibraryContext);
   if (!ctx) throw new Error("useUserLibrary must be used within UserLibraryProvider");
   return ctx;
+}
+
+function orderFromFirestore(id: string, data: Record<string, unknown>, userId: string): Order {
+  const createdAt = data.createdAt as { toDate?: () => Date } | string | undefined;
+  let created = new Date().toISOString();
+  if (typeof createdAt === "string") created = createdAt;
+  else if (createdAt && typeof createdAt.toDate === "function") created = createdAt.toDate().toISOString();
+  const network = data.network === "orange" ? "orange" : data.network === "mtn" ? "mtn" : undefined;
+  const source = data.source === "momo" || data.source === "stripe" || data.source === "local" ? data.source : undefined;
+  const status =
+    data.status === "paid" || data.status === "failed" || data.status === "refunded" || data.status === "pending"
+      ? data.status
+      : "pending";
+  return {
+    id: typeof data.id === "string" ? data.id : id,
+    userId: typeof data.userId === "string" ? data.userId : userId,
+    productIds: Array.isArray(data.productIds)
+      ? data.productIds.filter((item): item is string => typeof item === "string")
+      : [],
+    totalCents: typeof data.totalCents === "number" ? data.totalCents : 0,
+    currency: data.currency === "XAF" ? "XAF" : "USD",
+    status,
+    createdAt: created,
+    source,
+    amountXaf: typeof data.amountXaf === "number" ? data.amountXaf : undefined,
+    reference: typeof data.reference === "string" ? data.reference : undefined,
+    network,
+  };
 }
