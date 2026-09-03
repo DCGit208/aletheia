@@ -18,6 +18,7 @@ import { canReviewManualPayments } from "@/lib/auth/permissions";
 import { isFirebaseConfigured } from "@/lib/firebase/config";
 import { useI18n } from "@/lib/i18n/provider";
 import { PRIMARY_NAV, resolvePrimaryNav } from "@/lib/navigation";
+import { useInbox } from "@/lib/notify/inbox";
 import { useUserLibrary } from "@/lib/state/user-library";
 import { cn } from "@/lib/utils";
 import type { MessageKey } from "@/lib/i18n/messages";
@@ -37,6 +38,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
   const { t } = useI18n();
   const { user } = useAuth();
   const { cart } = useUserLibrary();
+  const { unread } = useInbox();
   const active = resolvePrimaryNav(pathname);
   const immersive = pathname.startsWith("/learn/read/");
   const localMode = !isFirebaseConfigured();
@@ -80,10 +82,15 @@ export function AppShell({ children }: { children: React.ReactNode }) {
               {user ? (
                 <Link
                   href="/account/notifications"
-                  className="grid size-9 place-items-center rounded-full text-muted-foreground hover:bg-white/5 hover:text-foreground"
-                  aria-label={t("account.notifications")}
+                  className="relative grid size-9 place-items-center rounded-full text-muted-foreground hover:bg-white/5 hover:text-foreground"
+                  aria-label={
+                    unread > 0 ? `${t("account.notifications")} (${unread})` : t("account.notifications")
+                  }
                 >
                   <Bell className="size-5" />
+                  {unread > 0 ? (
+                    <span className="absolute top-1.5 right-1.5 size-2 rounded-full bg-primary" />
+                  ) : null}
                 </Link>
               ) : null}
               <Link

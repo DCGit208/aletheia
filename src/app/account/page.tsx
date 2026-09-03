@@ -5,6 +5,7 @@ import { ListRow } from "@/components/content/list-row";
 import { PageIntro } from "@/components/content/page-intro";
 import { buttonVariants } from "@/components/ui/button";
 import { Label } from "@/components/ui/label";
+import { InstallCard } from "@/components/pwa/install-card";
 import { canReviewManualPayments } from "@/lib/auth/permissions";
 import { useAuth } from "@/lib/auth/provider";
 import { getBook, getCourse } from "@/lib/data/repository";
@@ -65,6 +66,10 @@ export default function AccountPage() {
           </button>
         </div>
       </section>
+
+      <div className="mb-8">
+        <InstallCard />
+      </div>
 
       <section className="mb-8">
         <h2 className="mb-3 font-heading text-xl">{t("account.bookmarks")}</h2>

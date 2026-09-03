@@ -2,73 +2,31 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { collection, onSnapshot, orderBy, query, updateDoc, doc } from "firebase/firestore";
 import { toast } from "sonner";
 import { PageIntro } from "@/components/content/page-intro";
-import { EmptyState } from "@/components/content/query-state";
+import { EmptyState, LoadingState } from "@/components/content/query-state";
+import { InstallCard } from "@/components/pwa/install-card";
 import { Button } from "@/components/ui/button";
 import { useAuth } from "@/lib/auth/provider";
-import { getFirebaseDb } from "@/lib/firebase/client";
 import { disablePushAlerts, enablePushAlerts } from "@/lib/push/subscribe";
+import { useInbox } from "@/lib/notify/inbox";
+import { formatRelativeTime } from "@/lib/time";
 import { useI18n } from "@/lib/i18n/provider";
+import type { MessageKey } from "@/lib/i18n/messages";
 
-interface InboxItem {
-  id: string;
-  title: string;
-  body: string;
-  href: string;
-  kind: string;
-  read: boolean;
-  createdAt: string;
-}
-
-function asIso(value: unknown) {
-  if (value && typeof value === "object" && "toDate" in value) {
-    const date = (value as { toDate?: () => Date }).toDate?.();
-    if (date instanceof Date) return date.toISOString();
-  }
-  return "";
+function kindLabel(kind: string): MessageKey | null {
+  if (kind === "purchase" || kind === "momo_pending" || kind === "momo_rejected") return "notify.kindPurchase";
+  if (kind === "board_post") return "notify.kindBoard";
+  if (kind.startsWith("update_")) return "notify.kindUpdate";
+  return null;
 }
 
 export default function NotificationsPage() {
-  const { t } = useI18n();
+  const { t, locale } = useI18n();
   const { user } = useAuth();
-  const [items, setItems] = useState<InboxItem[] | null>(null);
+  const { items, unread, markRead, markAllRead } = useInbox();
   const [pushOn, setPushOn] = useState(false);
   const [busy, setBusy] = useState(false);
-
-  useEffect(() => {
-    if (!user) {
-      setItems([]);
-      return;
-    }
-    const db = getFirebaseDb();
-    if (!db) {
-      setItems([]);
-      return;
-    }
-    const q = query(collection(db, "usersPrivate", user.uid, "notifications"), orderBy("createdAt", "desc"));
-    return onSnapshot(
-      q,
-      (snap) => {
-        setItems(
-          snap.docs.slice(0, 80).map((item) => {
-            const data = item.data();
-            return {
-              id: item.id,
-              title: String(data.title ?? ""),
-              body: String(data.body ?? ""),
-              href: typeof data.href === "string" && data.href.startsWith("/") ? data.href : "/",
-              kind: String(data.kind ?? ""),
-              read: data.read === true,
-              createdAt: asIso(data.createdAt),
-            };
-          }),
-        );
-      },
-      () => setItems([]),
-    );
-  }, [user]);
 
   useEffect(() => {
     if (!("serviceWorker" in navigator) || !("PushManager" in window)) return;
@@ -82,6 +40,9 @@ export default function NotificationsPage() {
   return (
     <div>
       <PageIntro title={t("account.notifications")} lead={t("account.notificationsLead")} />
+      <div className="mb-6">
+        <InstallCard />
+      </div>
       <div className="mb-8 rounded-2xl bg-card px-4 py-4">
         <p className="text-sm text-muted-foreground">{t("account.alertsHint")}</p>
         <Button
@@ -105,31 +66,46 @@ export default function NotificationsPage() {
         </Button>
       </div>
 
+      {unread > 0 ? (
+        <div className="mb-4 flex justify-end">
+          <Button type="button" variant="ghost" size="sm" onClick={() => void markAllRead()}>
+            {t("account.markAllRead")}
+          </Button>
+        </div>
+      ) : null}
+
       {items === null ? (
-        <p className="text-sm text-muted-foreground">{t("state.loading")}</p>
+        <LoadingState />
       ) : items.length === 0 ? (
-        <EmptyState title={t("account.notificationsEmpty")} />
+        <EmptyState title={t("account.notificationsEmpty")} body={t("account.notificationsEmptyLead")} />
       ) : (
         <ul className="space-y-3">
-          {items.map((item) => (
-            <li key={item.id} className="rounded-xl px-4 py-3 ring-1 ring-foreground/10">
-              <Link
-                href={item.href}
-                className="block"
-                onClick={() => {
-                  const db = getFirebaseDb();
-                  if (!db || item.read) return;
-                  void updateDoc(doc(db, "usersPrivate", user.uid, "notifications", item.id), { read: true });
-                }}
-              >
-                <p className="font-medium">
-                  {item.read ? null : <span className="mr-2 inline-block size-2 rounded-full bg-primary" />}
-                  {item.title}
-                </p>
-                <p className="mt-1 text-sm text-muted-foreground">{item.body}</p>
-              </Link>
-            </li>
-          ))}
+          {items.map((item) => {
+            const kind = kindLabel(item.kind);
+            return (
+              <li key={item.id} className="rounded-xl px-4 py-3 ring-1 ring-foreground/10">
+                <Link
+                  href={item.href}
+                  className="block"
+                  onClick={() => {
+                    if (!item.read) void markRead(item.id);
+                  }}
+                >
+                  <p className="font-medium">
+                    {item.read ? null : (
+                      <span className="mr-2 inline-block size-2 rounded-full bg-primary" aria-hidden />
+                    )}
+                    {item.title}
+                  </p>
+                  <p className="mt-1 text-sm text-muted-foreground">{item.body}</p>
+                  <p className="mt-2 text-[0.7rem] tracking-wide text-muted-foreground uppercase">
+                    {kind ? `${t(kind)} · ` : ""}
+                    {formatRelativeTime(item.createdAt, locale)}
+                  </p>
+                </Link>
+              </li>
+            );
+          })}
         </ul>
       )}
     </div>

@@ -1,5 +1,5 @@
-const VERSION = "aletheia-shell-v2";
-const SHELL = ["/", "/offline", "/manifest.webmanifest", "/icons/icon.svg"];
+const VERSION = "aletheia-shell-v3";
+const SHELL = ["/", "/offline", "/manifest.webmanifest", "/icons/icon.svg", "/icons/icon-192.png", "/icons/apple-touch-icon.png"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(caches.open(VERSION).then((cache) => cache.addAll(SHELL)));

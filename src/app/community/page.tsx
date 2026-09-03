@@ -24,7 +24,7 @@ export default function CommunityPage() {
                 href={`/community/${community.id}/${board.id}`}
                 title={board.title}
                 subtitle={board.description}
-                meta={`${board.topicCount}`}
+                meta={t("community.threads")}
               />
             ))}
           </div>

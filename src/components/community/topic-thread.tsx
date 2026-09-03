@@ -14,6 +14,7 @@ import { getFirebaseDb } from "@/lib/firebase/client";
 import { getBoard, getCommunity, getTopic, listPosts } from "@/lib/data/repository";
 import type { Post, Topic } from "@/lib/data/types";
 import { useI18n } from "@/lib/i18n/provider";
+import { formatRelativeTime } from "@/lib/time";
 
 function asIso(value: unknown) {
   if (value && typeof value === "object" && "toDate" in value) {
@@ -42,7 +43,7 @@ function topicFromData(id: string, data: Record<string, unknown>): Topic {
 }
 
 export function TopicThread({ topicId }: { topicId: string }) {
-  const { t } = useI18n();
+  const { t, locale } = useI18n();
   const { user } = useAuth();
   const catalogTopic = getTopic(topicId);
   const catalogPosts = useMemo(() => listPosts(topicId), [topicId]);
@@ -112,7 +113,10 @@ export function TopicThread({ topicId }: { topicId: string }) {
         {posts.length === 0 ? <p className="text-sm text-muted-foreground">{t("community.noPosts")}</p> : null}
         {posts.map((post) => (
           <section key={post.id} className="rounded-xl bg-card px-4 py-4 ring-1 ring-foreground/10">
-            <p className="text-xs tracking-wide text-muted-foreground uppercase">{post.authorName}</p>
+            <p className="text-xs tracking-wide text-muted-foreground uppercase">
+              {post.authorName}
+              {post.createdAt ? ` · ${formatRelativeTime(post.createdAt, locale)}` : ""}
+            </p>
             <p className="mt-2 leading-relaxed">{post.body}</p>
           </section>
         ))}

@@ -30,7 +30,7 @@ export default function HomePage() {
         <h1 className="mt-4 font-heading text-[2.35rem] leading-[0.95]">
           {user ? (
             <>
-              Welcome back,
+              {t("home.welcomeBack")}
               <br />
               {user.displayName}.
             </>

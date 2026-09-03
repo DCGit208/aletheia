@@ -57,11 +57,9 @@ export default function ProgramPage() {
             Enter {program.title} — {price}
           </Link>
         ) : null}
-        {enrolment ? <p className="self-center text-sm text-muted-foreground">You are enrolled.</p> : null}
+        {enrolment ? <p className="self-center text-sm text-muted-foreground">{t("learn.enrolled")}</p> : null}
         {schoolEnrolment && !enrolment ? (
-          <p className="self-center text-sm text-muted-foreground">
-            You already walk this school in another program.
-          </p>
+          <p className="self-center text-sm text-muted-foreground">{t("learn.otherProgram")}</p>
         ) : null}
         {!user ? (
           <>

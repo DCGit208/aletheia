@@ -1,15 +1,24 @@
+"use client";
+
 import Link from "next/link";
+import { PageIntro } from "@/components/content/page-intro";
+import { buttonVariants } from "@/components/ui/button";
+import { useI18n } from "@/lib/i18n/provider";
+import { cn } from "@/lib/utils";
 
 export default function NotFound() {
+  const { t } = useI18n();
   return (
-    <div className="mx-auto max-w-lg py-10">
-      <h1 className="font-heading text-3xl tracking-wide">This page is not in Aletheia.</h1>
-      <p className="mt-3 text-muted-foreground">Return to Home, or search the catalog.</p>
-      <p className="mt-6">
-        <Link href="/" className="underline">
-          Home
+    <div>
+      <PageIntro title={t("notFound.title")} lead={t("notFound.lead")} />
+      <div className="flex flex-col gap-2">
+        <Link href="/" className={cn(buttonVariants({ size: "lg" }), "h-11 justify-center rounded-full")}>
+          {t("nav.home")}
         </Link>
-      </p>
+        <Link href="/search" className={cn(buttonVariants({ variant: "outline", size: "lg" }), "h-11 justify-center rounded-full")}>
+          {t("nav.search")}
+        </Link>
+      </div>
     </div>
   );
 }

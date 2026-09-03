@@ -113,7 +113,7 @@ export default function ProductPage() {
         ) : null}
         <div className="mt-6 flex flex-wrap gap-2">
           {owned ? (
-            <p className="text-sm text-muted-foreground">You already hold an entitlement for this content.</p>
+            <p className="text-sm text-muted-foreground">{t("shop.alreadyOwned")}</p>
           ) : (
             <AddToCartButton productId={product.id} />
           )}

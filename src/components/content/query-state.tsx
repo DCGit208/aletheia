@@ -3,6 +3,7 @@
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import { Button } from "@/components/ui/button";
 import { Skeleton } from "@/components/ui/skeleton";
+import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";
 
 export function LoadingState({ label }: { label?: string }) {
@@ -46,10 +47,11 @@ export function ErrorState({ onRetry, message }: { onRetry?: () => void; message
 
 export function DeniedState() {
   const { t } = useI18n();
+  const { user } = useAuth();
   return (
     <Alert>
       <AlertTitle>{t("state.denied")}</AlertTitle>
-      <AlertDescription>{t("state.signedOut")}</AlertDescription>
+      <AlertDescription>{user ? t("state.deniedSignedIn") : t("state.signedOut")}</AlertDescription>
     </Alert>
   );
 }

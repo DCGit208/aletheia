@@ -55,7 +55,7 @@ export function MakerBiblePage() {
               Read Genesis 1
             </Link>
             {owned ? (
-              <p className="self-center text-sm text-muted-foreground">You already hold this book.</p>
+              <p className="self-center text-sm text-muted-foreground">{t("shop.alreadyOwned")}</p>
             ) : (
               <AddToCartButton productId={product.id} />
             )}
