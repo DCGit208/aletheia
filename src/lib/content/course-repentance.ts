@@ -1,6 +1,7 @@
 import type { Lesson } from "@/lib/data/types";
 
 const bookId = "book-principles-doctrine-christ";
+const companionId = "book-repentance-from-dead-works";
 
 function lesson(
   id: string,
@@ -17,7 +18,7 @@ function lesson(
     number,
     title,
     durationMinutes,
-    resourceIds: [bookId],
+    resourceIds: [bookId, companionId],
     body,
   };
 }

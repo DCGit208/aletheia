@@ -272,7 +272,7 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
   "product-repentance-from-dead-works": bookOffer(
     "product-repentance-from-dead-works",
     "Repentance from Dead Works",
-    "Companion book for Course 1 — Repentance from Dead Works. Hebrews 6:1. Metanoia: a change of mind over sin and its cause.",
+    "Companion book for Course 1 — Repentance from Dead Works. Hebrews 6:1. Eight chapters: metanoia, seven repent-words, cause not consequence, two old things, wages, Christ the way, receive Him.",
     "book-repentance-from-dead-works",
     10000,
     {

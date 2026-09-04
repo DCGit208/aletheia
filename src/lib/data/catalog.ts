@@ -12,6 +12,7 @@ import {
   foundationSchools,
 } from "@/lib/data/foundation-school";
 import { productsFromOffers } from "@/lib/commerce/offerings";
+import { repentanceCompanionChapters } from "@/lib/content/companion-repentance";
 
 const achu = { id: "author-achu", displayName: "Dr. Coach Achu Gustave" };
 const faculty = { id: "author-faculty", displayName: "Aletheia Faculty" };
@@ -195,7 +196,7 @@ export const catalog: CatalogSnapshot = {
       title: "Repentance from Dead Works",
       subtitle: "Hebrews 6:1",
       description:
-        "Metanoia: a change of mind over sin and its cause, not only its consequence. Christ is the way out of dead works. The companion volume for Course 1 — Repentance from Dead Works.",
+        "Metanoia: a change of mind over sin and its cause, not only its consequence. Christ is the way out of dead works. Eight chapters. The companion volume for Course 1 — Repentance from Dead Works.",
       authors: [achu],
       contributors: [],
       publisher: BRAND.publications,
@@ -214,7 +215,7 @@ export const catalog: CatalogSnapshot = {
       accessLevel: "entitled",
       previewChapterIds: ["ch-repentance-1"],
       productId: "product-repentance-from-dead-works",
-      chapterCount: 1,
+      chapterCount: 8,
     },
     {
       id: "book-doctrine-of-faith",
@@ -433,17 +434,6 @@ A man finds what was hidden, sells what he had, and buys the field. This volume 
 The printed cover is here. The complete text is being prepared for this reader.`,
     },
     {
-      id: "ch-repentance-1",
-      bookId: "book-repentance-from-dead-works",
-      number: 1,
-      title: "Thesis",
-      body: `Hebrews 6:1 — repentance from dead works.
-
-Metanoia: a change of mind over sin and its cause, not only its consequence. Christ is the way out of dead works.
-
-This is the first first principle of the doctrine of Christ. The companion volume for Course 1 — Repentance from Dead Works. The printed cover and thesis are here now. Full chapters will enter this reader as they are prepared.`,
-    },
-    {
       id: "ch-faith-1",
       bookId: "book-doctrine-of-faith",
       number: 1,
@@ -529,6 +519,7 @@ A people that will not receive the truth does not become empty. It becomes occup
 
 The cover is published. The full study will enter this reader next.`,
     },
+    ...repentanceCompanionChapters,
     ...foundationChapters,
   ],
   courses: [
