@@ -125,7 +125,7 @@ export const foundationBooks: Book[] = [
     categories: ["Truth", "Formation"],
     tags: ["hebrews", "foundation", "first-principles", "textbook"],
     coverTone: "earth",
-    coverImage: "/covers/repentance-from-death-works.png",
+    coverImage: "/covers/principles-doctrine-christ.jpg",
     status: "published",
     accessLevel: "entitled",
     previewChapterIds: ["ch-pdc-1"],

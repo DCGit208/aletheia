@@ -81,7 +81,7 @@ export function BookDetail({ book, context }: { book: Book; context: "learn" | "
           ) : null}
           {yearProduct && !fullAccess ? (
             <Link href={`/shop/${yearProduct.id}`} className={buttonVariants({ variant: "ghost" })}>
-              Or the year — ${(yearProduct.priceCents / 100).toFixed(0)}
+              The Walk — ${(yearProduct.priceCents / 100).toFixed(0)}
             </Link>
           ) : null}
           {user ? (

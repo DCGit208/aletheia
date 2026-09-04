@@ -31,6 +31,7 @@ export const catalog: CatalogSnapshot = {
         "book-real-man-ai",
         "book-parables-hidden-treasure",
         "book-great-deception",
+        "book-repentance-from-dead-works",
         "book-doctrine-of-faith",
         "book-doctrine-of-baptism",
         "book-doctrine-of-laying-on-of-hands",
@@ -47,6 +48,7 @@ export const catalog: CatalogSnapshot = {
         "book-real-man-ai",
         "book-parables-hidden-treasure",
         "book-great-deception",
+        "book-repentance-from-dead-works",
         "book-doctrine-of-faith",
         "book-doctrine-of-baptism",
         "book-doctrine-of-laying-on-of-hands",
@@ -186,6 +188,28 @@ export const catalog: CatalogSnapshot = {
       accessLevel: "entitled",
       previewChapterIds: ["ch-parables-1"],
       productId: "product-parables-hidden-treasure",
+      chapterCount: 1,
+    },
+    {
+      id: "book-repentance-from-dead-works",
+      title: "Repentance from Dead Works",
+      subtitle: "Hebrews 6:1",
+      description:
+        "Metanoia: a change of mind over sin and its cause, not only its consequence. Christ is the way out of dead works. The companion volume for Course 1 — Repentance from Dead Works.",
+      authors: [achu],
+      contributors: [],
+      publisher: BRAND.publications,
+      publishedAt: "2026-09-03",
+      language: "en",
+      edition: "First",
+      categories: ["Formation", "Truth"],
+      tags: ["repentance", "metanoia", "hebrews", "foundation"],
+      coverTone: "earth",
+      coverImage: "/covers/repentance-from-death-works.png",
+      status: "published",
+      accessLevel: "entitled",
+      previewChapterIds: ["ch-repentance-1"],
+      productId: "product-repentance-from-dead-works",
       chapterCount: 1,
     },
     {
@@ -403,6 +427,17 @@ Matthew 13:44.
 A man finds what was hidden, sells what he had, and buys the field. This volume reads that parable as a charge: see the worth, pay the cost, live inside the find.
 
 The printed cover is here. The complete text is being prepared for this reader.`,
+    },
+    {
+      id: "ch-repentance-1",
+      bookId: "book-repentance-from-dead-works",
+      number: 1,
+      title: "Thesis",
+      body: `Hebrews 6:1 — repentance from dead works.
+
+Metanoia: a change of mind over sin and its cause, not only its consequence. Christ is the way out of dead works.
+
+This is the first first principle of the doctrine of Christ. The companion volume for Course 1 — Repentance from Dead Works. The printed cover and thesis are here now. Full chapters will enter this reader as they are prepared.`,
     },
     {
       id: "ch-faith-1",
@@ -892,6 +927,7 @@ The cover is published. The full study will enter this reader next.`,
       "book-beyond-ai-man",
       "book-parables-hidden-treasure",
       "book-great-deception",
+      "book-repentance-from-dead-works",
       "book-doctrine-of-faith",
       "book-doctrine-of-baptism",
       "book-doctrine-of-laying-on-of-hands",
