@@ -205,7 +205,11 @@ export const catalog: CatalogSnapshot = {
       categories: ["Formation", "Truth"],
       tags: ["repentance", "metanoia", "hebrews", "foundation"],
       coverTone: "earth",
-      coverImage: "/covers/repentance-from-death-works.png",
+      coverImage: "/covers/repentance-from-dead-works-chains.png",
+      coverArtworks: [
+        { id: "chains", label: "Chains", image: "/covers/repentance-from-dead-works-chains.png" },
+        { id: "path", label: "Path", image: "/covers/repentance-from-dead-works-path.png" },
+      ],
       status: "published",
       accessLevel: "entitled",
       previewChapterIds: ["ch-repentance-1"],

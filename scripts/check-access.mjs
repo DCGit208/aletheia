@@ -145,7 +145,8 @@ assert.match(offerings, /The Principles of the Doctrine of Christ/);
 assert.match(offerings, /Included with The Walk and The Intensive/);
 assert.equal(offerings.includes("This SKU does not enrol"), false);
 assert.match(offerings, /"product-repentance-from-dead-works"/);
-assert.match(offerings, /repentance-from-death-works\.png/);
+assert.match(offerings, /repentance-from-dead-works-chains\.png/);
+assert.equal(offerings.includes("repentance-from-death-works"), false);
 assert.match(offerings, /principles-doctrine-christ\.jpg/);
 assert.match(offerings, /Foundation School — The Walk/);
 const yearBlock = offerings.slice(

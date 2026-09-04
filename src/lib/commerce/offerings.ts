@@ -280,7 +280,7 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
       badge: "Book",
       kicker: "Companion book · $100",
       coverTone: "earth",
-      coverImage: "/covers/repentance-from-death-works.png",
+      coverImage: "/covers/repentance-from-dead-works-chains.png",
     },
   ),
   "product-doctrine-of-faith": bookOffer(
