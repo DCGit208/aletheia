@@ -32,6 +32,15 @@ import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
 import { cn } from "@/lib/utils";
 
+const FOUNDATION_COVERS: Record<string, string> = {
+  "course-fs-repentance": "/covers/repentance-from-dead-works-chains.png",
+  "course-fs-faith": "/covers/doctrine-of-faith-seal.png",
+  "course-fs-baptisms": "/covers/doctrine-of-baptism-triquetra.png",
+  "course-fs-hands": "/covers/doctrine-of-laying-on-of-hands.png",
+  "course-fs-resurrection": "/covers/doctrine-of-resurrection-stone.png",
+  "course-fs-judgment": "/covers/doctrine-of-eternal-judgment-seal.png",
+};
+
 const rooms = [
   { href: "/learn/schools", key: "learn.schools" as const, meta: "Houses" },
   { href: "/learn/courses", key: "learn.courses" as const, meta: "Curriculum" },
@@ -159,7 +168,7 @@ export default function LearnPage() {
                       : course.subtitle
                 }
                 tone={course.coverTone}
-                image={course.coverImage}
+                image={FOUNDATION_COVERS[course.id] ?? course.coverImage}
                 badge={index >= 0 ? `${index + 1}/6` : undefined}
                 emphasizePrice={Boolean(enrollment)}
               />

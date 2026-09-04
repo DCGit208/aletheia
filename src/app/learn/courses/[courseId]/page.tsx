@@ -30,6 +30,14 @@ export default function CourseDetailPage() {
   const exam = getExamForCourse(course.id);
   const foundationIndex = getSchool("school-foundation")?.courseIds.indexOf(course.id) ?? -1;
   const yearProduct = getProduct("product-foundation-year");
+  const foundationCovers: Record<string, string> = {
+    "course-fs-repentance": "/covers/repentance-from-dead-works-chains.png",
+    "course-fs-faith": "/covers/doctrine-of-faith-seal.png",
+    "course-fs-baptisms": "/covers/doctrine-of-baptism-triquetra.png",
+    "course-fs-hands": "/covers/doctrine-of-laying-on-of-hands.png",
+    "course-fs-resurrection": "/covers/doctrine-of-resurrection-stone.png",
+    "course-fs-judgment": "/covers/doctrine-of-eternal-judgment-seal.png",
+  };
   const allowed = canAccessContent({
     accessLevel: course.accessLevel,
     preview: false,
@@ -42,7 +50,13 @@ export default function CourseDetailPage() {
 
   return (
     <article className="relative grid gap-8 md:grid-cols-[220px_1fr]">
-      <Cover title={course.title} subtitle={course.subtitle} tone={course.coverTone} image={course.coverImage} />
+      <Cover
+        title={course.title}
+        subtitle={course.subtitle}
+        tone={course.coverTone}
+        image={foundationCovers[course.id] ?? course.coverImage}
+        badge={foundationIndex >= 0 ? `${foundationIndex + 1}/6` : undefined}
+      />
       <div className="pb-24 md:pb-0">
         <p className="text-[0.7rem] tracking-[0.2em] text-primary uppercase">
           {foundationIndex >= 0 ? `Foundation School · Course ${foundationIndex + 1} of 6` : course.category}
