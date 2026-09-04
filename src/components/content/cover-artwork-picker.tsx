@@ -5,6 +5,25 @@ import { useState } from "react";
 import type { CoverArtwork } from "@/lib/data/types";
 import { cn } from "@/lib/utils";
 
+function Frame({
+  children,
+  className,
+}: {
+  children: React.ReactNode;
+  className?: string;
+}) {
+  return (
+    <div className={cn("cover-frame relative aspect-[3/4] overflow-hidden rounded-2xl bg-[#0c0a08]", className)}>
+      {children}
+      <span
+        aria-hidden
+        className="pointer-events-none absolute inset-0 bg-[radial-gradient(70%_55%_at_50%_18%,transparent_40%,oklch(0_0_0_/_0.32)_100%)]"
+      />
+      <span aria-hidden className="pointer-events-none absolute inset-0 ring-1 ring-inset ring-primary/25" />
+    </div>
+  );
+}
+
 export function CoverArtworkPicker({
   artworks,
   defaultImage,
@@ -20,29 +39,46 @@ export function CoverArtworkPicker({
 
   if (artworks.length <= 1 && src) {
     return (
-      <div className="relative aspect-[3/4] overflow-hidden rounded-2xl bg-[#0c0a08]">
-        <Image src={src} alt={title} fill sizes="(max-width: 560px) 80vw, 320px" className="object-contain object-center" />
-      </div>
+      <Frame className="shadow-[0_20px_48px_oklch(0_0_0_/_0.45)]">
+        <Image
+          src={src}
+          alt={title}
+          fill
+          sizes="(max-width: 560px) 80vw, 320px"
+          className="cover-reveal object-contain object-center"
+        />
+      </Frame>
     );
   }
 
   return (
     <div>
-      <div className="relative aspect-[3/4] overflow-hidden rounded-2xl bg-[#0c0a08]">
+      <Frame className="shadow-[0_20px_48px_oklch(0_0_0_/_0.45)]">
         {src ? (
-          <Image src={src} alt={`${title} — ${active?.label}`} fill sizes="(max-width: 560px) 80vw, 320px" className="object-contain object-center" />
+          <Image
+            key={src}
+            src={src}
+            alt={`${title} — ${active?.label}`}
+            fill
+            sizes="(max-width: 560px) 80vw, 320px"
+            className="cover-reveal object-contain object-center"
+          />
         ) : null}
-      </div>
+      </Frame>
       <div className="mt-3 flex gap-2 overflow-x-auto pb-1">
         {artworks.map((artwork) => (
           <button
             key={artwork.id}
             type="button"
             aria-label={artwork.label}
+            aria-pressed={artwork.id === selected}
             onClick={() => setSelected(artwork.id)}
             className={cn(
-              "relative size-16 shrink-0 overflow-hidden rounded-lg ring-2 transition-all",
-              artwork.id === selected ? "ring-primary" : "ring-transparent opacity-60 hover:opacity-100",
+              "relative size-16 shrink-0 overflow-hidden rounded-xl transition-all duration-200",
+              "focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/60",
+              artwork.id === selected
+                ? "ring-2 ring-primary scale-[1.02]"
+                : "ring-1 ring-white/10 opacity-65 hover:opacity-100",
             )}
           >
             <Image
@@ -55,7 +91,9 @@ export function CoverArtworkPicker({
           </button>
         ))}
       </div>
-      <p className="mt-2 text-center text-xs text-muted-foreground">{active?.label} edition</p>
+      <p className="mt-2 text-center text-xs tracking-wide text-muted-foreground">
+        {active?.label} edition
+      </p>
     </div>
   );
 }

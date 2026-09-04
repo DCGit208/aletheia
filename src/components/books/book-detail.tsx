@@ -14,6 +14,7 @@ import { useUserLibrary } from "@/lib/state/user-library";
 import { track } from "@/lib/analytics/events";
 import { cacheBookForOffline } from "@/lib/reader/offline-db";
 import type { Book } from "@/lib/data/types";
+import { cn } from "@/lib/utils";
 
 export function BookDetail({ book, context }: { book: Book; context: "learn" | "publications" }) {
   const { t } = useI18n();
@@ -64,7 +65,7 @@ export function BookDetail({ book, context }: { book: Book; context: "learn" | "
         <div className="mt-6 flex flex-wrap gap-2">
           <Link
             href={`/learn/read/${book.id}`}
-            className={buttonVariants()}
+            className={cn(buttonVariants(), "h-11 rounded-full px-5")}
             onClick={() => {
               track({ name: "book_open", bookId: book.id });
               if (fullAccess) void cacheBookForOffline(book, chapters);
@@ -73,25 +74,31 @@ export function BookDetail({ book, context }: { book: Book; context: "learn" | "
             {reading ? t("action.resume") : t("action.read")}
           </Link>
           {product && !fullAccess ? (
-            <Link href={`/shop/${product.id}`} className={buttonVariants({ variant: "outline" })}>
+            <Link
+              href={`/shop/${product.id}`}
+              className={cn(buttonVariants({ variant: "outline" }), "h-11 rounded-full px-5")}
+            >
               {offer?.shopGroup === "textbook"
                 ? `Buy the textbook — $${(product.priceCents / 100).toFixed(0)}`
                 : t("action.purchase")}
             </Link>
           ) : null}
           {yearProduct && !fullAccess ? (
-            <Link href={`/shop/${yearProduct.id}`} className={buttonVariants({ variant: "ghost" })}>
+            <Link
+              href={`/shop/${yearProduct.id}`}
+              className={cn(buttonVariants({ variant: "ghost" }), "h-11 rounded-full px-5")}
+            >
               The Walk — ${(yearProduct.priceCents / 100).toFixed(0)}
             </Link>
           ) : null}
           {user ? (
-            <Button variant="ghost" onClick={() => toggleBookmark("book", book.id, book.title)}>
+            <Button variant="ghost" className="h-11 rounded-full px-5" onClick={() => toggleBookmark("book", book.id, book.title)}>
               {bookmarked ? t("action.bookmarked") : t("action.bookmark")}
             </Button>
           ) : null}
           <Link
             href={`/community/talk?product=${encodeURIComponent(product?.id ?? book.productId ?? book.id)}`}
-            className={buttonVariants({ variant: "outline" })}
+            className={cn(buttonVariants({ variant: "outline" }), "h-11 rounded-full px-5")}
           >
             {t("community.discuss")}
           </Link>

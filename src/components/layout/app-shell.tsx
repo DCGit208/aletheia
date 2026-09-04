@@ -127,7 +127,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
             left: "50%",
             bottom: "max(0.7rem, env(safe-area-inset-bottom))",
             transform: "translateX(-50%)",
-            width: "min(calc(100% - 1.5rem), 536px)",
+            width: "min(calc(100% - 1.5rem), 616px)",
           }}
           aria-label="Primary"
         >

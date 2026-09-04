@@ -137,14 +137,52 @@
 
 @media (min-width: 768px) {
   .app-stage {
-    max-width: 480px;
+    max-width: 520px;
   }
 }
 
 @media (min-width: 1024px) {
   .app-stage {
-    max-width: 560px;
+    max-width: 640px;
   }
+}
+
+.cover-reveal {
+  animation: cover-reveal 520ms ease-out both;
+}
+
+@keyframes cover-reveal {
+  from {
+    opacity: 0;
+    transform: scale(1.03);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.shop-hero {
+  position: relative;
+  background:
+    radial-gradient(90% 80% at 12% 0%, oklch(0.55 0.08 85 / 0.22), transparent 55%),
+    linear-gradient(160deg, oklch(0.24 0.03 70), oklch(0.16 0.012 62) 58%, oklch(0.13 0.01 55));
+  box-shadow: inset 0 1px 0 oklch(1 0 0 / 8%);
+}
+
+.shop-sticky-buy {
+  position: fixed;
+  z-index: 45;
+  left: 50%;
+  bottom: calc(4.85rem + env(safe-area-inset-bottom));
+  transform: translateX(-50%);
+  width: min(calc(100% - 1.5rem), 616px);
+  border-radius: 1.15rem;
+  border: 1px solid oklch(1 0 0 / 10%);
+  background: oklch(0.14 0.012 62 / 0.92);
+  padding: 0.7rem 0.85rem;
+  box-shadow: 0 16px 40px oklch(0 0 0 / 0.45);
+  backdrop-filter: blur(16px);
 }
 
 .rail {
