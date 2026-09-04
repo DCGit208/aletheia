@@ -8,6 +8,7 @@ import { canAccessContent } from "@/lib/access/entitlements";
 import { getBook, getCourse, getLesson, listLessons } from "@/lib/data/repository";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
+import { cn } from "@/lib/utils";
 
 export default function LessonPage() {
   const { courseId, lessonId } = useParams<{ courseId: string; lessonId: string }>();
@@ -24,19 +25,33 @@ export default function LessonPage() {
     contentKind: "course",
     contentId: course.id,
   });
-  if (!allowed) return <DeniedState />;
+  if (!allowed) {
+    return (
+      <DeniedState
+        productId={course.productId}
+        yearProductId="product-foundation-year"
+        showYear={Boolean(course.productId?.startsWith("product-course-") || course.id.startsWith("course-fs-"))}
+      />
+    );
+  }
 
   const lessons = listLessons(course.id);
   const index = lessons.findIndex((item) => item.id === lesson.id);
+  const prev = lessons[index - 1];
   const next = lessons[index + 1];
   const enrollment = enrollments.find((item) => item.courseId === course.id);
+  const done = enrollment?.completedLessonIds.includes(lesson.id);
 
   return (
-    <article className="mx-auto max-w-2xl">
+    <article className="relative mx-auto max-w-2xl pb-28">
       <p className="text-sm text-muted-foreground">
         <Link href={`/learn/courses/${course.id}`} className="hover:underline">
           {course.title}
         </Link>
+        <span className="mx-2 text-muted-foreground/60">·</span>
+        <span>
+          {index + 1} / {lessons.length}
+        </span>
       </p>
       <h1 className="mt-3 font-heading text-3xl tracking-wide">{lesson.title}</h1>
       <p className="reader-prose mt-8 whitespace-pre-line">{lesson.body}</p>
@@ -54,24 +69,48 @@ export default function LessonPage() {
           })}
         </div>
       ) : null}
-      <div className="mt-10 flex flex-wrap gap-2">
-        <Button
-          onClick={() => {
-            if (!enrollment) enroll(course.id);
-            completeLesson(course.id, lesson.id);
-          }}
-        >
-          {t("action.markComplete")}
-        </Button>
-        {next ? (
-          <Link href={`/learn/courses/${course.id}/lessons/${next.id}`} className={buttonVariants({ variant: "outline" })}>
-            {t("action.continue")}
+
+      <div className="shop-sticky-buy">
+        <div className="flex flex-wrap items-center gap-2">
+          <Link
+            href={`/learn/courses/${course.id}`}
+            className={cn(buttonVariants({ variant: "ghost" }), "h-11 rounded-full px-4")}
+          >
+            {t("learn.backToCourse")}
           </Link>
-        ) : (
-          <Link href={`/learn/courses/${course.id}`} className={buttonVariants({ variant: "outline" })}>
-            {course.title}
-          </Link>
-        )}
+          <Button
+            className="h-11 rounded-full px-5"
+            onClick={() => {
+              if (!enrollment) enroll(course.id);
+              completeLesson(course.id, lesson.id);
+            }}
+          >
+            {done ? t("learn.markDone") : t("action.markComplete")}
+          </Button>
+          {prev ? (
+            <Link
+              href={`/learn/courses/${course.id}/lessons/${prev.id}`}
+              className={cn(buttonVariants({ variant: "outline" }), "h-11 rounded-full px-4")}
+            >
+              {t("reader.previous")}
+            </Link>
+          ) : null}
+          {next ? (
+            <Link
+              href={`/learn/courses/${course.id}/lessons/${next.id}`}
+              className={cn(buttonVariants({ variant: "outline" }), "ml-auto h-11 rounded-full px-5")}
+            >
+              {t("action.continue")}
+            </Link>
+          ) : (
+            <Link
+              href={`/learn/courses/${course.id}`}
+              className={cn(buttonVariants({ variant: "outline" }), "ml-auto h-11 rounded-full px-5")}
+            >
+              {course.title}
+            </Link>
+          )}
+        </div>
       </div>
     </article>
   );

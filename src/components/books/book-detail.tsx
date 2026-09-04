@@ -115,12 +115,27 @@ export function BookDetail({ book, context }: { book: Book; context: "learn" | "
         <ol className="mt-10 space-y-2">
           {chapters.map((chapter) => {
             const preview = book.previewChapterIds.includes(chapter.id);
+            const open = fullAccess || preview;
             return (
-              <li key={chapter.id} className="flex justify-between rounded-lg px-3 py-2 ring-1 ring-foreground/10">
-                <span>
-                  {chapter.number}. {chapter.title}
-                </span>
-                <span className="text-xs text-muted-foreground">{fullAccess || preview ? "Open" : "Entitlement required"}</span>
+              <li key={chapter.id}>
+                {open ? (
+                  <Link
+                    href={`/learn/read/${book.id}`}
+                    className="flex justify-between rounded-lg px-3 py-2 ring-1 ring-foreground/10 transition-colors hover:bg-card"
+                  >
+                    <span>
+                      {chapter.number}. {chapter.title}
+                    </span>
+                    <span className="text-xs text-muted-foreground">Open</span>
+                  </Link>
+                ) : (
+                  <div className="flex justify-between rounded-lg px-3 py-2 opacity-70 ring-1 ring-foreground/10">
+                    <span>
+                      {chapter.number}. {chapter.title}
+                    </span>
+                    <span className="text-xs text-muted-foreground">Entitlement required</span>
+                  </div>
+                )}
               </li>
             );
           })}

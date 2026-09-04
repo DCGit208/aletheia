@@ -9,6 +9,7 @@ import { Badge } from "@/components/ui/badge";
 import { canAccessContent } from "@/lib/access/entitlements";
 import { getExamForCourse } from "@/lib/content/exams";
 import { getCourse, getProduct, getSchool, listLessons, listModules } from "@/lib/data/repository";
+import { courseProgressPercent, nextLessonForCourse, resumeCourseHref } from "@/lib/learn/continue";
 import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
@@ -36,39 +37,67 @@ export default function CourseDetailPage() {
     contentKind: "course",
     contentId: course.id,
   });
+  const next = nextLessonForCourse(course.id, enrollment);
+  const percent = courseProgressPercent(course.id, enrollment);
 
   return (
-    <article className="grid gap-8 md:grid-cols-[220px_1fr]">
+    <article className="relative grid gap-8 md:grid-cols-[220px_1fr]">
       <Cover title={course.title} subtitle={course.subtitle} tone={course.coverTone} image={course.coverImage} />
-      <div>
-        <p className="text-[0.7rem] tracking-[0.2em] text-muted-foreground uppercase">
+      <div className="pb-24 md:pb-0">
+        <p className="text-[0.7rem] tracking-[0.2em] text-primary uppercase">
           {foundationIndex >= 0 ? `Foundation School · Course ${foundationIndex + 1} of 6` : course.category}
         </p>
         <h1 className="mt-2 font-heading text-3xl tracking-wide">{course.title}</h1>
         <p className="mt-2 text-muted-foreground">{course.subtitle}</p>
         <p className="mt-4 leading-relaxed">{course.description}</p>
+        {enrollment ? (
+          <p className="mt-3 text-sm text-primary">
+            {t("learn.progress")} · {percent}%
+          </p>
+        ) : null}
         <div className="mt-4 flex flex-wrap gap-2">
           <Badge variant="secondary">{course.difficulty}</Badge>
-          <Badge variant="outline">{course.accessLevel}</Badge>
           <Badge variant="outline">{course.instructor.displayName}</Badge>
         </div>
         <div className="mt-6 flex flex-wrap gap-2">
           {user && allowed ? (
-            <Button onClick={() => enroll(course.id)}>{enrollment ? t("action.continue") : t("action.enroll")}</Button>
+            enrollment && next ? (
+              <Link
+                href={resumeCourseHref(course.id, enrollment)}
+                className={cn(buttonVariants(), "h-11 rounded-full px-5")}
+              >
+                {t("action.continue")}
+              </Link>
+            ) : (
+              <Button
+                className="h-11 rounded-full px-5"
+                onClick={() => {
+                  enroll(course.id);
+                }}
+              >
+                {t("action.enroll")}
+              </Button>
+            )
           ) : null}
           {!user ? (
-            <Link href="/sign-in" className={buttonVariants()}>
+            <Link href="/sign-in" className={cn(buttonVariants(), "h-11 rounded-full px-5")}>
               {t("nav.signIn")}
             </Link>
           ) : null}
           {!allowed && product ? (
-            <Link href={`/shop/${product.id}`} className={buttonVariants({ variant: "outline" })}>
-              Buy this course — ${(product.priceCents / 100).toFixed(0)}
+            <Link
+              href={`/shop/${product.id}`}
+              className={cn(buttonVariants({ variant: "outline" }), "h-11 rounded-full px-5")}
+            >
+              {t("state.buyAccess")} — ${(product.priceCents / 100).toFixed(0)}
             </Link>
           ) : null}
           {!allowed && foundationIndex >= 0 && yearProduct ? (
-            <Link href={`/shop/${yearProduct.id}`} className={buttonVariants({ variant: "ghost" })}>
-              Or the year — ${(yearProduct.priceCents / 100).toFixed(0)}
+            <Link
+              href={`/shop/${yearProduct.id}`}
+              className={cn(buttonVariants({ variant: "ghost" }), "h-11 rounded-full px-5")}
+            >
+              {t("state.buyYear")} — ${(yearProduct.priceCents / 100).toFixed(0)}
             </Link>
           ) : null}
         </div>
@@ -85,20 +114,29 @@ export default function CourseDetailPage() {
                   .filter((lesson) => lesson.moduleId === module.id)
                   .map((lesson) => {
                     const done = enrollment?.completedLessonIds.includes(lesson.id);
+                    const locked = !allowed;
                     return (
                       <li key={lesson.id}>
-                        <Link
-                          href={`/learn/courses/${course.id}/lessons/${lesson.id}`}
-                          className={cn(
-                            "flex items-center justify-between rounded-lg px-3 py-2 ring-1 ring-foreground/10 hover:bg-card",
-                            !allowed && "pointer-events-none opacity-60",
-                          )}
-                        >
-                          <span>
-                            {lesson.number}. {lesson.title}
-                          </span>
-                          <span className="text-xs text-muted-foreground">{done ? "Done" : `${lesson.durationMinutes}m`}</span>
-                        </Link>
+                        {locked ? (
+                          <div className="flex items-center justify-between rounded-lg px-3 py-2 opacity-60 ring-1 ring-foreground/10">
+                            <span>
+                              {lesson.number}. {lesson.title}
+                            </span>
+                            <span className="text-xs text-muted-foreground">{t("state.denied")}</span>
+                          </div>
+                        ) : (
+                          <Link
+                            href={`/learn/courses/${course.id}/lessons/${lesson.id}`}
+                            className="flex items-center justify-between rounded-lg px-3 py-2 ring-1 ring-foreground/10 transition-colors hover:bg-card"
+                          >
+                            <span>
+                              {lesson.number}. {lesson.title}
+                            </span>
+                            <span className="text-xs text-muted-foreground">
+                              {done ? "Done" : `${lesson.durationMinutes}m`}
+                            </span>
+                          </Link>
+                        )}
                       </li>
                     );
                   })}
@@ -113,7 +151,45 @@ export default function CourseDetailPage() {
             </Link>
           </p>
         ) : null}
+        {!allowed && product ? (
+          <div className="mt-8 rounded-2xl border border-primary/20 bg-card/70 px-4 py-4">
+            <p className="font-heading text-lg">{t("state.denied")}</p>
+            <p className="mt-1 text-sm text-muted-foreground">{t("state.deniedSignedIn")}</p>
+            <div className="mt-4 flex flex-wrap gap-2">
+              <Link href={`/shop/${product.id}`} className={cn(buttonVariants(), "h-11 rounded-full px-5")}>
+                {t("state.buyAccess")} — ${(product.priceCents / 100).toFixed(0)}
+              </Link>
+              {foundationIndex >= 0 && yearProduct ? (
+                <Link
+                  href={`/shop/${yearProduct.id}`}
+                  className={cn(buttonVariants({ variant: "outline" }), "h-11 rounded-full px-5")}
+                >
+                  {t("state.buyYear")} — ${(yearProduct.priceCents / 100).toFixed(0)}
+                </Link>
+              ) : null}
+            </div>
+          </div>
+        ) : null}
       </div>
+
+      {user && allowed && next ? (
+        <div className="shop-sticky-buy md:hidden">
+          <div className="flex items-center gap-3">
+            <div className="min-w-0">
+              <p className="truncate text-[0.62rem] tracking-[0.14em] text-muted-foreground uppercase">
+                {t("learn.nextLesson")}
+              </p>
+              <p className="truncate font-heading text-sm">{next.title}</p>
+            </div>
+            <Link
+              href={resumeCourseHref(course.id, enrollment)}
+              className={cn(buttonVariants(), "ml-auto h-11 shrink-0 rounded-full px-5")}
+            >
+              {t("action.continue")}
+            </Link>
+          </div>
+        </div>
+      ) : null}
     </article>
   );
 }

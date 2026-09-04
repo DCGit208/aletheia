@@ -56,7 +56,15 @@ export default function ReaderPage() {
   }, [chapter, query]);
 
   if (!book || !chapter) return <EmptyState title="Book not found." />;
-  if (!allowed) return <DeniedState />;
+  if (!allowed) {
+    return (
+      <DeniedState
+        productId={book.productId}
+        yearProductId="product-foundation-year"
+        showYear={book.id === "book-principles-doctrine-christ" || Boolean(book.productId?.includes("doctrine") || book.productId?.includes("repentance"))}
+      />
+    );
+  }
 
   return (
     <div className="min-h-dvh bg-[#f3eee4] text-[#1a1712]">

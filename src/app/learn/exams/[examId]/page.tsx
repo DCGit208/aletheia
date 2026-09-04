@@ -38,7 +38,15 @@ export default function ExamPage() {
     : holdsEntitlement(entitlements, "program", "program-foundation-year") ||
       holdsEntitlement(entitlements, "program", "program-foundation-intensive");
 
-  if (!allowed) return <DeniedState />;
+  if (!allowed) {
+    return (
+      <DeniedState
+        productId={course?.productId}
+        yearProductId="product-foundation-year"
+        showYear
+      />
+    );
+  }
 
   return (
     <article className="mx-auto max-w-2xl">
