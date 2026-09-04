@@ -29,7 +29,7 @@ export function ContentCard({
     <Link
       href={href}
       className={cn(
-        "group block shrink-0 snap-start rounded-2xl transition-transform duration-200 ease-out",
+        "group block shrink-0 snap-start rounded-2xl text-foreground no-underline transition-transform duration-200 ease-out",
         "focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/60 focus-visible:ring-offset-2 focus-visible:ring-offset-background",
         "active:scale-[0.985]",
         layout === "poster" ? "w-[42vw] max-w-[168px] min-w-[132px]" : "w-full",
@@ -45,7 +45,7 @@ export function ContentCard({
         className="shadow-[0_10px_28px_oklch(0_0_0_/_0.35)] transition-[box-shadow,transform] duration-300 group-hover:shadow-[0_16px_36px_oklch(0_0_0_/_0.48)]"
       />
       <div className="mt-2.5 space-y-0.5">
-        <h3 className="line-clamp-2 font-heading text-[0.95rem] leading-snug transition-colors group-hover:text-primary">
+        <h3 className="line-clamp-2 font-heading text-[0.95rem] leading-snug text-foreground transition-colors group-hover:text-primary">
           {title}
         </h3>
         {subtitle ? (
