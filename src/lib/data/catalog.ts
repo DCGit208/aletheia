@@ -12,6 +12,7 @@ import {
   foundationSchools,
 } from "@/lib/data/foundation-school";
 import { productsFromOffers } from "@/lib/commerce/offerings";
+import { faithCompanionChapters } from "@/lib/content/companion-faith";
 import { repentanceCompanionChapters } from "@/lib/content/companion-repentance";
 
 const achu = { id: "author-achu", displayName: "Dr. Coach Achu Gustave" };
@@ -222,7 +223,7 @@ export const catalog: CatalogSnapshot = {
       title: "Doctrine of Faith",
       subtitle: "The Gospel That Restores Our True Nature",
       description:
-        "Faith · Sonship · Justification · Redemption · Oneness · Identity · Inheritance. You are the righteousness of God in Christ. 2 Corinthians 5:21. The companion volume for Course 2 — Faith Toward God.",
+        "Eight chapters drawn from the Foundation textbook’s teaching on pistis — credence, image, free justification, heirship, and the face of Christ. Companion volume for Course 2; preview Chapter 1 free.",
       authors: [achu],
       contributors: [],
       publisher: BRAND.publications,
@@ -243,7 +244,7 @@ export const catalog: CatalogSnapshot = {
       accessLevel: "entitled",
       previewChapterIds: ["ch-faith-1"],
       productId: "product-doctrine-of-faith",
-      chapterCount: 1,
+      chapterCount: 8,
     },
     {
       id: "book-doctrine-of-baptism",
@@ -434,23 +435,6 @@ A man finds what was hidden, sells what he had, and buys the field. This volume 
 The printed cover is here. The complete text is being prepared for this reader.`,
     },
     {
-      id: "ch-faith-1",
-      bookId: "book-doctrine-of-faith",
-      number: 1,
-      title: "Thesis",
-      body: `Faith · Sonship · Justification · Redemption · Oneness · Identity · Inheritance.
-
-You are the righteousness of God in Christ. 2 Corinthians 5:21.
-
-We were made in His image. We are restored by His grace. We are one in Him.
-
-This volume is the companion reading for Course 2 — Faith Toward God. Hebrews 6:1 names faith toward God as the second stone of the foundation. The printed cover and thesis are here now. Full chapters will enter this reader as they are prepared.
-
-Genesis 1:26–27. Romans 3:23–24. Galatians 4:5–7. Romans 8:15. Ephesians 1:5. 2 Corinthians 5:21. Hebrews 1:8. John 17:20–23.
-
-Justified freely by His grace through the redemption that is in Christ Jesus. Romans 3:24.`,
-    },
-    {
       id: "ch-baptism-1",
       bookId: "book-doctrine-of-baptism",
       number: 1,
@@ -520,6 +504,7 @@ A people that will not receive the truth does not become empty. It becomes occup
 The cover is published. The full study will enter this reader next.`,
     },
     ...repentanceCompanionChapters,
+    ...faithCompanionChapters,
     ...foundationChapters,
   ],
   courses: [

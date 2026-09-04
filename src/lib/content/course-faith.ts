@@ -1,6 +1,7 @@
 import type { Lesson } from "@/lib/data/types";
 
 const bookId = "book-principles-doctrine-christ";
+const companionId = "book-doctrine-of-faith";
 const doctrineOfMan = "book-doctrine-of-man";
 
 function lesson(
@@ -18,7 +19,7 @@ function lesson(
     number,
     title,
     durationMinutes,
-    resourceIds: [bookId, doctrineOfMan],
+    resourceIds: [bookId, companionId, doctrineOfMan],
     body,
   };
 }

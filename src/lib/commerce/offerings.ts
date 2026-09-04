@@ -286,7 +286,7 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
   "product-doctrine-of-faith": bookOffer(
     "product-doctrine-of-faith",
     "Doctrine of Faith",
-    "Companion book for Course 2 — Faith Toward God. Faith · Sonship · Justification · Redemption · Oneness · Identity · Inheritance.",
+    "Companion book for Course 2 — Faith Toward God. Eight chapters: pistis, image and likeness, Psalm 82, partakers, glory come short, free justification, heirship, John 17 and the face of Christ.",
     "book-doctrine-of-faith",
     10000,
     {
