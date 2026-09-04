@@ -165,17 +165,17 @@ export default function ProductPage() {
           <div className="mt-4 flex flex-wrap gap-3 text-sm">
             {book ? (
               <Link href={`/publications/books/${book.id}`} className="text-primary underline-offset-4 hover:underline">
-                {book.title}
+                {t("shop.openPublication")}
               </Link>
             ) : null}
             {course ? (
               <Link href={`/learn/courses/${course.id}`} className="text-primary underline-offset-4 hover:underline">
-                {course.title}
+                {t("shop.openCourse")}
               </Link>
             ) : null}
             {program ? (
               <Link href={`/learn/programs/${program.id}`} className="text-primary underline-offset-4 hover:underline">
-                {program.title}
+                {t("shop.openProgram")}
               </Link>
             ) : null}
           </div>
