@@ -27,6 +27,7 @@ Greek and Hebrew are studied as the leaflet uses them, plus the owner-supplied l
 
 | File | What it is |
 | --- | --- |
+| `12_CONSULTANT_REVIEW_LEAFLET_OPENING.md` | Consultant crosswalk: leaflet opening ↔ Textbook Ch.1 / Course 1 lessons 1–7 |
 | `01_SOURCE_MAP.md` | Page-by-page map of every section and claim |
 | `02_SCRIPTURE_MATRIX.md` | Every citation: claim, context, cluster, course, book section |
 | `03_SIX_PRINCIPLE_KNOWLEDGE_MAP.md` | What each Year-1 course must actually teach |
