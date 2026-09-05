@@ -124,7 +124,7 @@ export const foundationBooks: Book[] = [
     title: "The Principles of the Doctrine of Christ",
     subtitle: "Foundations for Christian Understanding & Maturity",
     description:
-      "The Foundation School textbook. Seven chapters: the oracles, the six first principles, chronology, and eternal judgment. Begin with One Source of Truth — The Doctrine of the Graphē for the methodological gate. Aletheia Publications. Truth · Knowledge · Maturity.",
+      "The Foundation School textbook. Seven chapters: the oracles, the six first principles, chronology, and eternal judgment. One Source of Truth — The Doctrine of the Graphē is the standalone volume on the written authority. Aletheia Publications. Truth · Knowledge · Maturity.",
     authors: [achu],
     contributors: [],
     publisher: "Aletheia Publications",

@@ -245,12 +245,12 @@ One Source of Truth, Chapters 17–18.
 
 Word drill
 1. Define nēpios without affectionate softening.
-2. List the two marks with verses — refuse a third as L2.
+2. List the two marks with verses — refuse a third as if the text listed it.
 3. Apply both marks to a person-pattern and an organization-pattern without naming a living target.
 4. Connect productive living / control / godliness to Word skill — not self-help.
 
 Assessment
-Fail if “babe” is treated as endearment or a third L2 mark is invented.`,
+Fail if “babe” is treated as endearment or a third mark is invented as if the text listed it.`,
   ),
   lesson(
     "les-graphe-10",
@@ -364,19 +364,19 @@ No technique that bypasses the text.`,
     "The Word drill method",
     105,
     `Central proposition
-The Word drill method is L3 authored pedagogy for labour under Holy Writ — not a leaflet checklist and not Holy Writ itself.
+The Word drill method is labour under Holy Writ — not a printed checklist from the oracles, and not Holy Writ itself.
 
 Read
 One Source of Truth, Chapter 32.
 
 Word drill
 1. State the purpose of the Word drill method in one sentence.
-2. Why is the fourteen-step list marked L3?
+2. Why must the fourteen-step list not be treated as Holy Writ?
 3. Apply three steps of the method to Hebrews 6:1–2 and write what you find.
 4. Affirm: the graphē remains premiere convention; the method is subordinate labour.
 
 Assessment
-Fail if the fourteen steps are treated as L1 or L2.`,
+Fail if the fourteen steps are treated as Holy Writ.`,
   ),
   lesson(
     "les-graphe-16",

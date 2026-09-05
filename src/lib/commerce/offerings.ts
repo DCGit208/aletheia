@@ -143,7 +143,7 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
   "product-one-source-of-truth": bookOffer(
     "product-one-source-of-truth",
     "One Source of Truth — The Doctrine of the Graphē",
-    "A hermeneutical and epistemological foundation. Holy Writ is the premiere convention; this book is a straight issue on the cornerstone — the gate into the six first principles. Thirty-two chapters (Parts I–XII). Included with The Walk and The Intensive.",
+    "A hermeneutical and epistemological foundation. Holy Writ is the premiere convention for hearing from God and for spiritual growth. Thirty-two chapters on the written authority by which Christian truth is known, tested, taught, and lived. Included with The Walk and The Intensive.",
     oneSourceBook,
     10000,
     {
@@ -157,7 +157,7 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
   "product-course-doctrine-of-the-graphe": courseOffer(
     "product-course-doctrine-of-the-graphe",
     "Course — One Source of Truth (Doctrine of the Graphē)",
-    "Sixteen Word-drill lessons that operationalize the gate book through labour, knowledge, and the Word drill method. Not one of the six first-principle courses. Included with The Walk and The Intensive.",
+    "Sixteen Word-drill lessons on One Source of Truth — The Doctrine of the Graphē. Not one of the six first-principle courses. Included with The Walk and The Intensive.",
     "course-doctrine-of-the-graphe",
     {
       shopGroup: "courses",

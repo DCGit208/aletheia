@@ -4,7 +4,7 @@ export const textbookChapter1Body = `This book is not a second Bible. Holy Scrip
 
 The cover of this volume may say Truth · Knowledge · Maturity. That line belongs to this book. The house that holds the book is Aletheia: Truth · Identity · Dominion. Do not confuse the two.
 
-For the full methodological gate — One Source of Truth: The Doctrine of the Graphē — study that separate volume and its Word-drill course. This chapter remains the textbook opening into the six first principles. It does not invent a seventh course. It does not replace Holy Writ as the premiere convention.
+The full treatment of this written authority is the standalone book One Source of Truth: The Doctrine of the Graphē. This chapter remains the school opening into the six first principles. It does not invent a seventh course. It does not replace Holy Writ as the premiere convention.
 
 A student at three hours a week must have something to sit with. An intensive student uses the same text with longer writing. The doctrine does not change with the clock.
 

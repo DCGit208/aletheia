@@ -12,13 +12,13 @@ import type { Book, Course } from "@/lib/data/types";
 
 const achu = { id: "author-achu", displayName: "Dr. Coach Achu Gustave" };
 
-/** Flagship gate book — not a seventh first principle. */
+/** Standalone book — Doctrine of the Graphē. */
 export const oneSourceBook: Book = {
   id: ONE_SOURCE_BOOK_ID,
   title: oneSourceBookTitle,
   subtitle: `${oneSourceBookSubtitle} · ${oneSourceBookTag}`,
   description:
-    "Holy Writ is the premiere convention for hearing from God and for spiritual growth. This volume is a straight issue on the cornerstone: how the graphē governs authority, hearing, knowledge, reasoning, Word labour, discernment, and the path from first principles to maturity. Thirty-two chapters across Parts I–XII. Not a seventh doctrine — the methodological gate into the six.",
+    "Before Christianity can speak authoritatively about what man should believe, how he should live, how he should grow, or how he should hear from God, it must establish the authority by which those claims are known. That authority is the Graphē — Holy Writ. Thirty-two chapters on authority, hearing, knowledge, reasoning, and Word labour.",
   authors: [achu],
   contributors: [],
   publisher: "Aletheia Publications",
@@ -26,7 +26,7 @@ export const oneSourceBook: Book = {
   language: "en",
   edition: "First",
   categories: ["Truth", "Formation", "Hermeneutics"],
-  tags: ["graphē", "holy-writ", "hermeneutics", "epistemology", "gate", "foundation"],
+  tags: ["graphē", "holy-writ", "hermeneutics", "epistemology", "foundation"],
   coverTone: "earth",
   coverImage: "/covers/one-source-of-truth.png",
   status: "published",
@@ -44,7 +44,7 @@ export const oneSourceCourse: Course = {
   title: "One Source of Truth",
   subtitle: "The Doctrine of the Graphē · Word drill course",
   description:
-    "Sixteen competency lessons that train what the book teaches: graphē as premiere convention, Hebrews 5 diagnosis, apeiros and nēpios, aridity and tergiversation, spoudazō, knowledge as perception–learning–reasoning, Word drill, and the gate into the six first principles. The course is not the convention; Holy Writ is.",
+    "Sixteen Word-drill lessons that labour One Source of Truth: the Graphē as premiere convention, Hebrews 5 diagnosis, apeiros and nēpios, aridity and tergiversation, spoudazō, knowledge as perception–learning–reasoning, and the Word drill method. The course is not the convention; Holy Writ is.",
   instructor: achu,
   category: "Foundation",
   difficulty: "introductory",
