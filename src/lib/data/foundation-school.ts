@@ -105,7 +105,7 @@ export const foundationPrograms: Program[] = [
     title: "The Intensive",
     subtitle: "The same walk. About eight hours a week.",
     description:
-      "The same six principles and the same fifty-two weeks, with about eight hours each week. Not a second syllabus. A fuller load on the same walk. The $400 purchase grants the six courses and the textbook. It does not grant the companion library.",
+      "The same fifty-two weeks at about eight hours each week. Grants One Source of Truth, its Word-drill course, the six first principles, and the textbook. Not a second syllabus — a fuller load on the same walk. Does not grant the companion library.",
     kind: "intensive",
     durationWeeks: 52,
     hoursPerWeek: 8,
