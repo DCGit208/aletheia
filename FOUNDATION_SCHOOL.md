@@ -254,7 +254,7 @@ Compressed source: eternal punishment; book of life; blotting of names; three ki
 
 This is the **shape** of expansion, not yet the written lessons. Consultants should say if this is too heavy, too light, or missing a knot.
 
-1. The premiere convention — first principles then maturity
+1. The graphē is the premiere convention — hearing and growth; first principles then maturity
 2. Hebrews 5:12 — you ought to be teachers
 3. Milk and strong meat
 4. *Apeiros* — unskilled in the word of righteousness

@@ -14,9 +14,9 @@ Aletheia Libraries 1 (2015), five pages. Claims are mapped in the leaflet’s or
 - God’s design for a *naturalistic* Christian experience (following the teachings, or manifesting the qualities or spirit, of Jesus Christ) has always rested in conformity with the unleavened sincerity and truth of the **graphē**: Holy Writ, Bible, Scripture.
 - Contrast: “ersatz analogical (nonliteral) religiousisms.”
 - **John 10:35** — Holy Writ: writings or sayings of unchallenged, unquestionable authority (imprimatur). This governs persons, organizations, governments, and nations.
-- This leaflet is a straight issue on the **essential cornerstone**: foundation / first principles of the Oracles of God (**Hebrews 5:12**).
-- It is the **premiere convention** for hearing from God and for spiritual growth.
-- Growth is two movements, not one slogan: **1. First Principles → 2. Maturity (Perfection).**
+- The **graphē** (Holy Writ) is the **premiere convention** for hearing from God and for spiritual growth — not the leaflet, guide, book, or course.
+- This leaflet is a straight issue on the **essential cornerstone**: foundation / first principles of the Oracles of God (**Hebrews 5:12**). It opens that cornerstone; it does not replace the writing.
+- Growth under that convention is two movements, not one slogan: **1. First Principles → 2. Maturity (Perfection).**
 
 ### S2. Hebrews 5:12 quoted
 

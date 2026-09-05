@@ -66,9 +66,15 @@ Charge: write one page. Where have you treated a likeness of the faith as if it 
 
 II. THE PREMIERE CONVENTION
 
-A. The essential cornerstone
+A. The graphē is the convention
 
-This book is a straight issue on the essential cornerstone of Christianity: the first principles of the oracles of God.
+The graphē — Holy Writ, the Bible, Scripture — is the premiere convention for hearing from God and for spiritual growth. Premiere: first in order, not first in fashion. Convention: the appointed way God has given for hearing and growth. Not a conference. Not a brand. Not this leaflet. Not this textbook. Not this course.
+
+Over the ages the design of God for a naturalistic Christian experience has pillowed in conformity with the unleavened sincerity and truth of that writing. If you will hear, you hear where He has spoken. If you will grow, you grow under that writing — first principles, then maturity.
+
+B. The essential cornerstone
+
+This book is a straight issue on the essential cornerstone of Christianity: the first principles of the oracles of God. It opens the foundation; it does not become the convention in the place of the graphē.
 
 Hebrews 5:12 — “For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.”
 
@@ -76,11 +82,9 @@ The verse will be opened in section III. The first principles of the oracles of 
 
 Oracles of God are not private impressions. They are the speaking of God already bound in the graphē, and the first principles of that speaking are named in Hebrews 6:1-2. This chapter is the gate into those six. It is not itself a seventh.
 
-B. Two movements, not one slogan
+C. Two movements, not one slogan
 
-It is the premiere convention for hearing from God and for spiritual growth. Premiere: first in order, not first in fashion. Convention: the appointed way this school will hear and grow. Not a conference. Not a brand.
-
-Growth is two movements, not one slogan:
+Under that convention, growth is two movements, not one slogan:
 
 1. First principles.
 2. Maturity — perfection.
@@ -93,13 +97,13 @@ Leaving them does not mean forgetting them. It means they are laid, and you go o
 
 Perfection is maturity: the second movement. It is not a claim that you have finished God. It is the writer’s word for going on once the foundation is down. Hebrews 6:3 will bind that going-on to permission. Do not treat maturity as a human schedule you can force.
 
-C. Hearing from God
+D. Hearing from God
 
-The premiere convention is for hearing from God and for spiritual growth. Those are not two religions. You hear where He has spoken. You grow as the first principles are laid and you go on. A people who will not sit under the graphē will not hear by inventing a louder room. A people who skip the six will not mature by collecting meat they cannot digest.
+Hearing from God and spiritual growth are not two religions. You hear where He has spoken — in the graphē. You grow as the first principles are laid and you go on. A people who will not sit under the writing will not hear by inventing a louder room. A people who skip the six will not mature by collecting meat they cannot digest.
 
 This school exists because the oracles have a beginning that must be known, distinguished, reasoned, and taught. The year is fifty-two weeks. Course 1 occupies the first nine. The remaining courses occupy the rest, in the order Hebrews names the stones. You will not be given a seventh Year-1 course to make the year feel fuller.
 
-D. Charge
+E. Charge
 
 Write six lines. What have you called “growth” that was only a relaying of an unlaid foundation? What have you called “maturity” that was a skip? Then write Hebrews 6:1 in your own hand and mark the two verbs: leaving, go on. You cannot do the second honestly until the first has a foundation under it.
 

@@ -52,10 +52,10 @@ export const repentanceLessons: Lesson[] = [
     "les-fs-1-01",
     "mod-fs-1-oracles",
     1,
-    "The graphē and the premiere convention",
+    "The graphē: premiere convention for hearing and growth",
     75,
     `Central principle
-Holy Writ is the imprimatur. This school pillows in the graphē, not in nonliteral religiousisms.
+Holy Writ — the graphē — is the premiere convention for hearing from God and for spiritual growth. This school pillows in the writing, not in nonliteral religiousisms.
 
 Key Scripture
 John 10:35 — the scripture cannot be broken.
@@ -77,7 +77,9 @@ Holy Writ is unchallenged authority, whether for persons, organizations, governm
 
 A naturalistic Christian experience follows the teachings, or manifests the qualities or spirit, of Jesus Christ. It conforms to the unleavened sincerity and truth of the graphē. The other thing — ersatz analogical, nonliteral religiousisms — is a likeness of the faith that will not sit down under the text. A likeness can use the vocabulary. A likeness can fill a room. A likeness will not be judged by the writing. This school will not trade the graphē for that likeness.
 
-This book and this course are the premiere convention for hearing from God and for growth. Growth is two movements, not one slogan: first principles, then maturity — perfection. You do not skip the foundation to appear mature. You do not relaid the foundation every year as a lifestyle and call that growth. Hebrews 6:1 says we do not lay again the foundation once it is laid. We go on.
+The graphē is the premiere convention for hearing from God and for growth — not this leaflet, not this textbook, not this course. Over the ages the design of God for a naturalistic Christian experience has pillowed in conformity with that writing. This book and this course are a straight issue on the essential cornerstone of Christianity: the first principles of the oracles of God (Hebrews 5:12). They open the foundation; they do not replace the writing.
+
+Growth under that convention is two movements, not one slogan: first principles, then maturity — perfection. You do not skip the foundation to appear mature. You do not relaid the foundation every year as a lifestyle and call that growth. Hebrews 6:1 says we do not lay again the foundation once it is laid. We go on.
 
 The cover of the textbook may say Truth · Knowledge · Maturity. That line belongs to the book. The house that holds the book is Aletheia: Truth · Identity · Dominion. Do not confuse the two. This course is the first stone of the first movement. You will not be asked to invent a more convenient Bible.
 
@@ -85,24 +87,24 @@ Sit the charge. John 10:31-33 — “Then the Jews took up stones again to stone
 
 Imprimatur is that unchallenged mark. Persons are under it. Organizations are under it. Governments and nations are under it. You do not outrank the writing by office. You do not outrank it by sincerity. You do not outrank it by a year of enrolment. If a teaching will not sit down under John 10:35, it is religiousism, however Christian the vocabulary.
 
-The premiere convention is first principles, then maturity. Hebrews 5:12 already waits in the next lesson: the first principles of the oracles of God. This book is not a second Bible. It opens what is already written. If you treat the textbook as a more convenient Bible, you have already left the convention. If you treat the graphē as a quarry for mottoes, you have already taken up the likeness.
+Under the graphē, growth is first principles, then maturity. Hebrews 5:12 already waits in the next lesson: the first principles of the oracles of God. This book is not a second Bible. It opens what is already written. If you treat the textbook as the premiere convention, you have already left the writing. If you treat the graphē as a quarry for mottoes, you have already taken up the likeness.
 
 Write this week as a man under the writing. Name the likeness you have used as if it were Scripture. Name the verse you will continue in. Do not name a verse you will not open.
 
 Labour
 This is the page-work. The Walk: write one tight page. Intensive: write three pages on the same cluster. Same doctrine. The hours differ. The oracles do not.
 
-The Walk — one page. Quote John 10:34-36 in full. Name what charge the Lord was answering. Name what writing He appealed to (Psalm 82:6). Then write, in your own hand, what “the scripture cannot be broken” forbids you to do to a likeness of the faith.
+The Walk — one page. Quote John 10:34-36 in full. Name what charge the Lord was answering. Name what writing He appealed to (Psalm 82:6). Then write, in your own hand, that the graphē — not a leaflet, guide, or course — is the premiere convention for hearing from God and for growth, and what “the scripture cannot be broken” forbids you to do to a likeness of the faith.
 
-Intensive — three pages on that same cluster. Page 1 is The Walk page. Page 2: sit John 10:34-36 in its chapter — the Jews take up stones; they say He, being a man, maketh Himself God; He answers from the writing. Do not import Course 2’s later use of Psalm 82:7 here. Page 3: teach the premiere convention as you would stand behind it before a teacher: first principles, then maturity; graphē over religiousism; this book as the convention for hearing, not a second Bible.
+Intensive — three pages on that same cluster. Page 1 is The Walk page. Page 2: sit John 10:34-36 in its chapter — the Jews take up stones; they say He, being a man, maketh Himself God; He answers from the writing. Do not import Course 2’s later use of Psalm 82:7 here. Page 3: teach as you would stand behind it before a teacher: the graphē is the premiere convention; first principles, then maturity; this book opens the cornerstone, it is not a second Bible.
 
 Write in your own hand. Quote the governing verses in full. Name graphē: Holy Writ, the Bible, Scripture. Draw the distinction: writing versus religiousism. The page is not a journal of feelings.
 
 Distinction
-Scripture is not “religiousism.” The school does not invent a more convenient Bible.
+Scripture is not “religiousism.” The school does not invent a more convenient Bible. The textbook is not the premiere convention; the graphē is.
 
 Charge
-Write what you will teach: Holy Writ is the imprimatur; the Lord answered blasphemy by the writing; a likeness of the faith will not sit down under the text; growth is first principles, then maturity. Then write the page the Labour named. Name one place you have treated a likeness as if it were the graphē, and the verse you will continue in this week.`,
+Write what you will teach: Holy Writ is the imprimatur and the premiere convention for hearing and growth; the Lord answered blasphemy by the writing; a likeness of the faith will not sit down under the text; growth is first principles, then maturity. Then write the page the Labour named. Name one place you have treated a likeness as if it were the graphē, and the verse you will continue in this week.`,
   ),
   lesson(
     "les-fs-1-02",

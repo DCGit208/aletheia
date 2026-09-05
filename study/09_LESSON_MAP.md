@@ -14,7 +14,7 @@ IDs match later courseware (`L-1.01` = Course 1, lesson 1).
 
 | ID | Wk | Lesson | Cluster | Book |
 | --- | --- | --- | --- | --- |
-| L-1.01 | 1 | The graphē and the premiere convention | A1 | Ch.1 |
+| L-1.01 | 1 | The graphē: premiere convention for hearing and growth | A1 | Ch.1 |
 | L-1.02 | 1 | Hebrews 5:11-12 — dull of hearing; ought to be teachers; milk and meat | A2 | Ch.1 |
 | L-1.03 | 2 | Apeiros — unskilled in the word of righteousness | A3 | Ch.1 |
 | L-1.04 | 2 | Nēpios — two marks of babes; the Word as basis of salvation | A2, A3 | Ch.1 |
