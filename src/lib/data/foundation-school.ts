@@ -4,6 +4,14 @@ import { handsLessons, handsModules } from "@/lib/content/course-hands";
 import { judgmentLessons, judgmentModules } from "@/lib/content/course-judgment";
 import { repentanceLessons, repentanceModules } from "@/lib/content/course-repentance";
 import { resurrectionLessons, resurrectionModules } from "@/lib/content/course-resurrection";
+import {
+  grapheLessons,
+  grapheModules,
+  oneSourceBook,
+  oneSourceChapters,
+  oneSourceCourse,
+} from "@/lib/data/one-source-of-truth";
+import { ONE_SOURCE_BOOK_ID } from "@/lib/content/book-one-source-of-truth";
 import { textbookChapter1Body, textbookChapter1Title } from "@/lib/content/textbook-ch1";
 import { textbookChapter2Body, textbookChapter2Title } from "@/lib/content/textbook-ch2";
 import { textbookChapter3Body, textbookChapter3Title } from "@/lib/content/textbook-ch3";
@@ -63,16 +71,16 @@ export const foundationSchools: School[] = [
     title: "Foundation School",
     subtitle: "Principles of the Doctrine of Christ",
     description:
-      "Hebrews 5:12–6:3. The first principles of the oracles of God: from milk to meat, from babe to teacher. One curriculum. Two ways to walk the year.",
+      "Hebrews 5:12–6:3. The first principles of the oracles of God: from milk to meat, from babe to teacher. One curriculum. Two ways to walk the year. Enter through One Source of Truth — The Doctrine of the Graphē.",
     coverTone: "ink",
     status: "published",
-    courseIds: [...principleIds],
+    courseIds: [oneSourceCourse.id, ...principleIds],
     programIds: ["program-foundation-year", "program-foundation-intensive"],
-    resourceBookIds: [textbook],
+    resourceBookIds: [ONE_SOURCE_BOOK_ID, textbook],
   },
 ];
 
-export const foundationYearGrantIds = [textbook, ...principleIds] as const;
+export const foundationYearGrantIds = [ONE_SOURCE_BOOK_ID, textbook, oneSourceCourse.id, ...principleIds] as const;
 
 export const foundationPrograms: Program[] = [
   {
@@ -81,7 +89,7 @@ export const foundationPrograms: Program[] = [
     title: "The Walk",
     subtitle: "The three-hour walk of the year.",
     description:
-      "The ordinary cadence of Foundation School: about three hours each week, fifty-two weeks, the six first principles in order. Same teaching as The Intensive — a different labour. The $400 purchase grants the six courses and the textbook. It does not grant the companion library.",
+      "The ordinary cadence of Foundation School: about three hours each week, fifty-two weeks. Grants One Source of Truth (Doctrine of the Graphē), its Word-drill course, the six first principles in order, and the textbook. Same teaching as The Intensive — a different labour. Does not grant the companion library.",
     kind: "year",
     durationWeeks: 52,
     hoursPerWeek: 3,
@@ -110,12 +118,13 @@ export const foundationPrograms: Program[] = [
 ];
 
 export const foundationBooks: Book[] = [
+  oneSourceBook,
   {
     id: textbook,
     title: "The Principles of the Doctrine of Christ",
     subtitle: "Foundations for Christian Understanding & Maturity",
     description:
-      "The Foundation School textbook. Seven chapters: the oracles, the six first principles, chronology, and eternal judgment. Aletheia Publications. Truth · Knowledge · Maturity.",
+      "The Foundation School textbook. Seven chapters: the oracles, the six first principles, chronology, and eternal judgment. Begin with One Source of Truth — The Doctrine of the Graphē for the methodological gate. Aletheia Publications. Truth · Knowledge · Maturity.",
     authors: [achu],
     contributors: [],
     publisher: "Aletheia Publications",
@@ -135,6 +144,7 @@ export const foundationBooks: Book[] = [
 ];
 
 export const foundationChapters: BookChapter[] = [
+  ...oneSourceChapters,
   {
     id: "ch-pdc-1",
     bookId: textbook,
@@ -187,6 +197,7 @@ export const foundationChapters: BookChapter[] = [
 ];
 
 export const foundationCourses: Course[] = [
+  oneSourceCourse,
   course(
     "course-fs-repentance",
     "Repentance from Dead Works",
@@ -250,6 +261,7 @@ export const foundationCourses: Course[] = [
 ];
 
 export const foundationModules: CourseModule[] = [
+  ...grapheModules,
   ...repentanceModules,
   ...faithModules,
   ...baptismsModules,
@@ -259,6 +271,7 @@ export const foundationModules: CourseModule[] = [
 ];
 
 export const foundationLessons: Lesson[] = [
+  ...grapheLessons,
   ...repentanceLessons,
   ...faithLessons,
   ...baptismsLessons,

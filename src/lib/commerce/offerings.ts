@@ -29,6 +29,7 @@ export interface StripeOffer {
 }
 
 const foundationCourses = [
+  "course-doctrine-of-the-graphe",
   "course-fs-repentance",
   "course-fs-faith",
   "course-fs-baptisms",
@@ -38,10 +39,12 @@ const foundationCourses = [
 ] as const;
 
 const textbook = "book-principles-doctrine-christ";
+const oneSourceBook = "book-one-source-of-truth";
 
 function schoolGrants(programId: string): GrantTarget[] {
   return [
     { contentKind: "program", contentId: programId },
+    { contentKind: "book", contentId: oneSourceBook },
     { contentKind: "book", contentId: textbook },
     ...foundationCourses.map((contentId) => ({ contentKind: "course" as const, contentId })),
   ];
@@ -109,34 +112,61 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
     productId: "product-foundation-year",
     title: "Foundation School — The Walk",
     description:
-      "The year program, not a single course. Fifty-two weeks at about three hours a week. Grants all six first-principle courses plus the textbook. Does not include Maker Bible or the companion library. $400 instead of $700 à la carte.",
+      "The year program, not a single course. Fifty-two weeks at about three hours a week. Grants One Source of Truth (Doctrine of the Graphē), its drill course, all six first-principle courses, and the textbook. Does not include Maker Bible or the companion library. $400 instead of à la carte.",
     kind: "program",
     contentId: "program-foundation-year",
-    includedContentIds: ["program-foundation-year", textbook, ...foundationCourses],
+    includedContentIds: ["program-foundation-year", oneSourceBook, textbook, ...foundationCourses],
     priceCents: 40000,
-    compareAtCents: 70000,
+    compareAtCents: 80000,
     grants: schoolGrants("program-foundation-year"),
     coverTone: "earth",
     shopGroup: "year",
     badge: "Year",
-    kicker: "Year program · six courses + textbook",
+    kicker: "Year program · gate + six + textbook",
   },
   "product-foundation-intensive": {
     productId: "product-foundation-intensive",
     title: "Foundation School — The Intensive",
     description:
-      "The year program, not a single course. Fifty-two weeks at about eight hours a week. Same six courses and the same textbook as The Walk — a fuller load, not a second syllabus. Does not include Maker Bible or the companion library.",
+      "The year program, not a single course. Fifty-two weeks at about eight hours a week. Same grants as The Walk: One Source of Truth, its drill course, six first-principle courses, and the textbook — a fuller load, not a second syllabus. Does not include Maker Bible or the companion library.",
     kind: "program",
     contentId: "program-foundation-intensive",
-    includedContentIds: ["program-foundation-intensive", textbook, ...foundationCourses],
+    includedContentIds: ["program-foundation-intensive", oneSourceBook, textbook, ...foundationCourses],
     priceCents: 40000,
-    compareAtCents: 70000,
+    compareAtCents: 80000,
     grants: schoolGrants("program-foundation-intensive"),
     coverTone: "gold",
     shopGroup: "year",
     badge: "Year",
-    kicker: "Year program · six courses + textbook",
+    kicker: "Year program · gate + six + textbook",
   },
+  "product-one-source-of-truth": bookOffer(
+    "product-one-source-of-truth",
+    "One Source of Truth — The Doctrine of the Graphē",
+    "A hermeneutical and epistemological foundation. Holy Writ is the premiere convention; this book is a straight issue on the cornerstone — the gate into the six first principles. Eight chapters. Included with The Walk and The Intensive.",
+    oneSourceBook,
+    10000,
+    {
+      shopGroup: "textbook",
+      badge: "Gate",
+      kicker: "Gate book · $100",
+      coverTone: "earth",
+      coverImage: "/covers/one-source-of-truth.png",
+    },
+  ),
+  "product-course-doctrine-of-the-graphe": courseOffer(
+    "product-course-doctrine-of-the-graphe",
+    "Course — One Source of Truth (Doctrine of the Graphē)",
+    "Eight Word-drill lessons that operationalize the gate book. Not one of the six first-principle courses. Included with The Walk and The Intensive.",
+    "course-doctrine-of-the-graphe",
+    {
+      shopGroup: "courses",
+      badge: "Gate course",
+      kicker: "Word drill · gate",
+      coverTone: "earth",
+      coverImage: "/covers/one-source-of-truth.png",
+    },
+  ),
   "product-principles-doctrine-christ": bookOffer(
     "product-principles-doctrine-christ",
     "The Principles of the Doctrine of Christ",
