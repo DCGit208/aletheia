@@ -52,6 +52,14 @@ export const grapheModules: CourseModule[] = [
     title: "Parts VI–VIII — Apeiros, nēpios, reasonability",
     description: "Unskill, two marks of babes, sound judgment, the warning chain. Book chs. 15–20.",
   },
+  {
+    id: "mod-graphe-labour",
+    courseId: ONE_SOURCE_COURSE_ID,
+    number: 5,
+    title: "Parts IX–XII — Labour, knowledge, Word drill",
+    description:
+      "Aridity and tergiversation; scholarly impetus and spoudazō; knowledge chain; Word drill method. Book chs. 21–32.",
+  },
 ];
 
 export const grapheLessons: Lesson[] = [
@@ -254,13 +262,139 @@ Fail if “babe” is treated as endearment or a third L2 mark is invented.`,
 Absence of reasonability + unskillfulness → aridity → tergiversation → damnable accepted heresies called doctrines. The graphē remains premiere convention; this course remains the gate.
 
 Read
-One Source of Truth, Chapters 19–20. John 8:31-36. 2 Timothy 2:15 (named for forward labour).
+One Source of Truth, Chapters 19–20. John 8:31-36.
 
 Word drill
 1. Define reasonability with the Word as master.
-2. Write the warning chain without softening.
+2. Write the warning chain without softening — aridity and tergiversation named; labour chapters open next.
 3. Keep John 8:32 inside 8:31-36.
-4. Final defense (one page): premiere convention; two marks of babes; knowledge still ahead as perception–learning–reasoning in later expansion; this book/course is gate not seventh doctrine.
+4. One-page bridge: premiere convention; two marks of babes; why sound judgment fails without Word labour.
+
+Assessment
+Bridge defense required. Soft “different interpretations” language fails.`,
+  ),
+  lesson(
+    "les-graphe-11",
+    "mod-graphe-labour",
+    11,
+    "Aridity and tergiversation",
+    90,
+    `Central proposition
+Aridity and tergiversation follow when reasonability fails. They attack the premiere convention without always denying it aloud.
+
+Read
+One Source of Truth, Chapters 21–22.
+
+Word drill
+1. Define aridity exactly as the book uses it.
+2. Define tergiversation; refuse a soft synonym that erases desertion.
+3. Show how a Bible-holder can affirm Scripture and still go dry or turn aside.
+4. Write the warning chain from unskillfulness through aridity and tergiversation without softening.
+
+Assessment
+Severity must stand. No sentimental “dry season” that excuses tergiversation.`,
+  ),
+  lesson(
+    "les-graphe-12",
+    "mod-graphe-labour",
+    12,
+    "Scholarly impetus and spoudazō",
+    90,
+    `Central proposition
+Scripture itself demands scholarly impetus. Spoudazō (2 Timothy 2:15) names the labour of an approved workman who rightly divides the word of truth.
+
+Read
+One Source of Truth, Chapters 23–25. 2 Timothy 2:15.
+
+Word drill
+1. Quote 2 Timothy 2:15 by hand from the KJV.
+2. Define spoudazō as the book uses it — not mere busyness.
+3. What is an approved workman approved for?
+4. Distinguish soft possession of Scripture from hard labour under the writing.
+
+Assessment
+Fail if spoudazō is reduced to “try harder” without the word of truth.`,
+  ),
+  lesson(
+    "les-graphe-13",
+    "mod-graphe-labour",
+    13,
+    "Knowledge — perception, learning, reasoning",
+    105,
+    `Central proposition
+Knowledge is not quotation alone. It moves through perception, learning, and reasoning under the graphē, and the Word must be exercised.
+
+Read
+One Source of Truth, Chapters 26–30.
+
+Word drill
+1. Define knowledge as the book uses it.
+2. Trace perception → learning → reasoning → exercise in one page.
+3. Show why quotation without that chain leaves the student apeiros.
+4. Name one habit that keeps you at citation without knowledge.
+
+Assessment
+Pass only if the chain stays under Holy Writ — not psychology as rival court.`,
+  ),
+  lesson(
+    "les-graphe-14",
+    "mod-graphe-labour",
+    14,
+    "From quotation to knowledge",
+    75,
+    `Central proposition
+Quotation is not yet knowledge. The labour is to move from citing the writing to knowing it under the premiere convention.
+
+Read
+One Source of Truth, Chapter 31.
+
+Word drill
+1. State the difference between quoting Scripture and knowing Scripture.
+2. Name one habit that freezes a student at quotation.
+3. What must change for quotation to become knowledge?
+4. Affirm: this method serves the graphē; it is not the graphē.
+
+Assessment
+No technique that bypasses the text.`,
+  ),
+  lesson(
+    "les-graphe-15",
+    "mod-graphe-labour",
+    15,
+    "The Word drill method",
+    105,
+    `Central proposition
+The Word drill method is L3 authored pedagogy for labour under Holy Writ — not a leaflet checklist and not Holy Writ itself.
+
+Read
+One Source of Truth, Chapter 32.
+
+Word drill
+1. State the purpose of the Word drill method in one sentence.
+2. Why is the fourteen-step list marked L3?
+3. Apply three steps of the method to Hebrews 6:1–2 and write what you find.
+4. Affirm: the graphē remains premiere convention; the method is subordinate labour.
+
+Assessment
+Fail if the fourteen steps are treated as L1 or L2.`,
+  ),
+  lesson(
+    "les-graphe-16",
+    "mod-graphe-labour",
+    16,
+    "Capstone — Gate and labour",
+    90,
+    `Central proposition
+The Doctrine of the Graphē is the methodological gate into the six first principles — not a seventh doctrine. Labour under the writing prepares the student for Repentance and the rest.
+
+Read
+Review Parts I–XII thesis lines. Especially Chapters 7–8, 18, 20–22, 24, 26, 32.
+
+Word drill
+1. Restate the Doctrine of the Graphē without making it a seventh first principle.
+2. How do aridity and tergiversation threaten students who already affirm Scripture?
+3. What will you carry from spoudazō and the Word drill into Doctrine of Repentance?
+4. Final defense (one page): premiere convention; hierarchy of authority; gate not seventh doctrine.
 
 Assessment
 Final written defense required. Soft “different interpretations” language fails.`,

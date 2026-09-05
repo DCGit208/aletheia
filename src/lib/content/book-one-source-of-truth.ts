@@ -1,8 +1,9 @@
 /** One Source of Truth — The Doctrine of the Graphē
- * Parts I–VIII spine (chapters 1–20).
+ * Parts I–XII spine (chapters 1–32).
  * Gate book: hermeneutical and epistemological foundation.
  * NOT a seventh first principle. Graphē remains the premiere convention.
  * L1 = Scripture; L2 = 2015 source manuscript; L3 = authored pedagogy.
+ * Parts XIII+ deferred.
  */
 import type { BookChapter } from "@/lib/data/types";
 
@@ -23,6 +24,10 @@ export const oneSourcePartTitles = [
   "Part VI — Apeiros — Unskilled in the Word",
   "Part VII — Nēpios — The Babe",
   "Part VIII — Reasonability and Sound Judgment",
+  "Part IX — Aridity and Tergiversation",
+  "Part X — The Scholarly Impetus and Spoudazō",
+  "Part XI — Knowledge: Perception, Learning, Reasoning",
+  "Part XII — Word Exercise and Word Drill",
 ] as const;
 
 export const oneSourceChapters: BookChapter[] = [
@@ -1759,5 +1764,980 @@ Reasoning: if they could have been free by Abraham, He would not have said “if
 Application: free from what, in John 8, if you continue in His word? Answer from the cluster. Servant of sin. Then the Son. Then free indeed. Do not write “free from negativity.” Do not write “free from religion.” Write what He wrote against.
 
 Charge: write John 8:31-36. Then name one word of His you will continue in this week — a verse, written in full — and write what continuing will look like at three hours, and what it will look like if you are intensive. Same verse. Different labour. Same freedom offered. No second truth.`,
+  },
+  {
+    id: "ch-ost-21",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 21,
+    title: "Aridity",
+    body: `One Source of Truth — The Doctrine of the Graphē · Part IX · Chapter 21
+
+Governing rule: the graphē is the premiere convention for hearing from God and for spiritual growth. This book is a straight issue on the cornerstone under that writing. It is not the convention itself. It is not a seventh first principle.
+
+Authority levels in this chapter:
+• L1 — what Scripture states
+• L2 — what the 2015 source manuscript states
+• L3 — authored teaching that develops L1 and L2 for labour (not to be quoted as if it were L1 or L2)
+
+A. Not a mood of dryness
+
+L2 — Absence of reasonability and presence of unskillfulness produce aridity among persons, and even among age-old organizations that appear Christianized.
+
+Aridity here is not generic emotional dryness. It is a people who no longer yield what the oracles planted. A room can be busy and arid. A calendar can be full and arid. Soft copy and hard copy can both sit unused in aridity.
+
+B. Where aridity sits in the chain
+
+Absence of reasonability + unskillfulness → aridity → tergiversation → damnable accepted heresies called doctrines.
+
+Aridity is the drying. Tergiversation is the turning. Heresy called doctrine is the fruit. Do not rearrange the chain to protect a house.
+
+C. Oracles, hearing, skill, growth
+
+Aridity shows where hearing failed, where skill never formed, where growth was claimed without the writing. Hebrews 5 already named dull hearing and unskill in the word of righteousness. Aridity is what that failure looks like when it becomes a climate.
+
+D. Charge
+
+Write what aridity is and is not. Then write one mark of aridity in a person and one in a house — without naming a living target.
+
+---
+
+From the Foundation textbook gate (labour text):
+
+IV. APEIROS — UNSKILFUL IN THE WORD OF RIGHTEOUSNESS
+
+A. The verse and the term
+
+Hebrews 5:13 — “For every one that useth milk is unskilful in the word of righteousness: for he is a babe.”
+
+Unskilful is Greek apeiros: inexperienced, that is, ignorant — unskilful. This teaching keeps the word there. The inexperience is not in crowding a meeting. It is in the word of righteousness.
+
+Apeiros is not a personality type. It is not shyness. It is not lack of a platform. It is lack of experience in the word that names righteousness — the writing in which a man is shown what is right before God and what is not. A man may be experienced in rooms and apeiros in that word.
+
+B. Hebrews 5:14 in the same file
+
+Hebrews 5:14 — “But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.”
+
+Hold 5:13 and 5:14. The milk-user is apeiros and a babe. The one of full age has senses exercised by reason of use. Use is not attendance. Use is the labour that trains hearing to discern.
+
+Discern both good and evil. The babe is not merely under-informed. He cannot yet distinguish. That is why unskilfulness produces, in this severity, damnable accepted heresies called doctrines. A people who cannot discern will baptize error and call it teaching.
+
+C. Aridity and tergiversation
+
+This teaching is plain: the absence of reasonability (sound judgment) and the presence of unskilfulness produce aridity and tergiversation among persons, and even among age-old organizations that appear Christianized. What follows is damnable accepted heresies called doctrines.
+
+Reasonability is sound judgment. It is not a polite temperament. It is the capacity to hold the writing and judge. Absence of that judgment, plus apeiros, dries a people. Aridity is not a dry room. It is a people who no longer yield what the oracles planted.
+
+Tergiversation is desertion of a position: turning, shifting, refusing to stay under what was said. A person can do it. An age-old organization that appears Christianized can do it. Appearance is not skill. Years on a signboard are not senses exercised.
+
+What follows that dryness and that turning is not a harmless confusion. This teaching names the fruit: damnable accepted heresies called doctrines. Accepted means the heresy has become the house diet. Called doctrines means the name “doctrine” has been put on what the graphē will not bear. This school will not soften that sentence.
+
+D. The scholarly impetus of the Scripture
+
+That lack of skill is blamed on failure to realize the scholarly impetus of the Scripture and to align accordingly: failure to know the Scriptures, whether in soft copy or hard.
+
+Scholarly impetus is not a degree. It is the push the writing itself gives toward knowing — toward labour in the text. Soft copy or hard copy does not matter if there is no labour. A glowing screen can hide apeiros as easily as a closed book.
+
+The cure is not a louder room. The cure is labour in the word. Section VI will name that labour spoudazō. Do not wait for section VI to begin it. If you cannot name the hour and the text of this week, you are already answering Hebrews 5:13.
+
+E. Distinction, principle, charge
+
+Distinction: skill in the word of righteousness versus performance in a crowded room. Inexperience in the writing versus inexperience in platform. Sound judgment versus accepted heresy called doctrine.
+
+Principle: every one that useth milk is apeiros in the word of righteousness. The inexperience is in the writing. Organizations can be apeiros. The cure is to know the Scriptures and align.
+
+Reasoning: if unskilfulness were lack of activity, busy houses would be mature. This teaching watches age-old organizations dry up. If the copy format were the issue, the hard book would have saved the last century. The issue is failure to know and to align.
+
+Application: what is your actual study labour this week? Name the hour. Name the text. If you cannot name it, you are not yet a workman. You may be a hearer. Hebrews has already told you what a hearer can become after time.
+
+Charge: write Hebrews 5:13-14. Then write six sentences that do not repeat the heading: what apeiros is, what it is not, what aridity looks like in a person, what tergiversation looks like in a house, what “accepted heresies called doctrines” forces you to refuse, and what labour you will put on the word of righteousness before the week ends.`,
+  },
+  {
+    id: "ch-ost-22",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 22,
+    title: "Tergiversation",
+    body: `One Source of Truth — The Doctrine of the Graphē · Part IX · Chapter 22
+
+Governing rule: the graphē is the premiere convention for hearing from God and for spiritual growth. This book is a straight issue on the cornerstone under that writing. It is not the convention itself. It is not a seventh first principle.
+
+Authority levels in this chapter:
+• L1 — what Scripture states
+• L2 — what the 2015 source manuscript states
+• L3 — authored teaching that develops L1 and L2 for labour (not to be quoted as if it were L1 or L2)
+
+A. Turning from what was said
+
+L2 — tergiversation among persons and organizations. The Consultant reading of the source treats this as turning/shifting from what was said.
+
+L3 — explore carefully: departure from the writing · shifting meaning · evasive interpretation · changing the proposition · refusing textual consequences · moving away from what the text establishes.
+
+Do not invent a named indictment of living institutions unless evidence is later assigned. Teach the pattern.
+
+B. From dryness to turning
+
+Aridity dries the yield of the oracles. Tergiversation turns from the proposition the writing established. A people who will not sit under the text cannot stay with a doctrine. They shift. They equivocate. They call the shift growth.
+
+C. Fruit named without softening
+
+What follows is damnable accepted heresies called doctrines. Accepted means the heresy has become the house diet. Called doctrines means the name “doctrine” has been put on what the graphē will not bear.
+
+D. Charge
+
+Define tergiversation as turning from what was written. Give one textual example of a shift you have made — your own hand, your own page.
+
+---
+
+From the Foundation textbook gate (labour text):
+
+IV. APEIROS — UNSKILFUL IN THE WORD OF RIGHTEOUSNESS
+
+A. The verse and the term
+
+Hebrews 5:13 — “For every one that useth milk is unskilful in the word of righteousness: for he is a babe.”
+
+Unskilful is Greek apeiros: inexperienced, that is, ignorant — unskilful. This teaching keeps the word there. The inexperience is not in crowding a meeting. It is in the word of righteousness.
+
+Apeiros is not a personality type. It is not shyness. It is not lack of a platform. It is lack of experience in the word that names righteousness — the writing in which a man is shown what is right before God and what is not. A man may be experienced in rooms and apeiros in that word.
+
+B. Hebrews 5:14 in the same file
+
+Hebrews 5:14 — “But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.”
+
+Hold 5:13 and 5:14. The milk-user is apeiros and a babe. The one of full age has senses exercised by reason of use. Use is not attendance. Use is the labour that trains hearing to discern.
+
+Discern both good and evil. The babe is not merely under-informed. He cannot yet distinguish. That is why unskilfulness produces, in this severity, damnable accepted heresies called doctrines. A people who cannot discern will baptize error and call it teaching.
+
+C. Aridity and tergiversation
+
+This teaching is plain: the absence of reasonability (sound judgment) and the presence of unskilfulness produce aridity and tergiversation among persons, and even among age-old organizations that appear Christianized. What follows is damnable accepted heresies called doctrines.
+
+Reasonability is sound judgment. It is not a polite temperament. It is the capacity to hold the writing and judge. Absence of that judgment, plus apeiros, dries a people. Aridity is not a dry room. It is a people who no longer yield what the oracles planted.
+
+Tergiversation is desertion of a position: turning, shifting, refusing to stay under what was said. A person can do it. An age-old organization that appears Christianized can do it. Appearance is not skill. Years on a signboard are not senses exercised.
+
+What follows that dryness and that turning is not a harmless confusion. This teaching names the fruit: damnable accepted heresies called doctrines. Accepted means the heresy has become the house diet. Called doctrines means the name “doctrine” has been put on what the graphē will not bear. This school will not soften that sentence.
+
+D. The scholarly impetus of the Scripture
+
+That lack of skill is blamed on failure to realize the scholarly impetus of the Scripture and to align accordingly: failure to know the Scriptures, whether in soft copy or hard.
+
+Scholarly impetus is not a degree. It is the push the writing itself gives toward knowing — toward labour in the text. Soft copy or hard copy does not matter if there is no labour. A glowing screen can hide apeiros as easily as a closed book.
+
+The cure is not a louder room. The cure is labour in the word. Section VI will name that labour spoudazō. Do not wait for section VI to begin it. If you cannot name the hour and the text of this week, you are already answering Hebrews 5:13.
+
+E. Distinction, principle, charge
+
+Distinction: skill in the word of righteousness versus performance in a crowded room. Inexperience in the writing versus inexperience in platform. Sound judgment versus accepted heresy called doctrine.
+
+Principle: every one that useth milk is apeiros in the word of righteousness. The inexperience is in the writing. Organizations can be apeiros. The cure is to know the Scriptures and align.
+
+Reasoning: if unskilfulness were lack of activity, busy houses would be mature. This teaching watches age-old organizations dry up. If the copy format were the issue, the hard book would have saved the last century. The issue is failure to know and to align.
+
+Application: what is your actual study labour this week? Name the hour. Name the text. If you cannot name it, you are not yet a workman. You may be a hearer. Hebrews has already told you what a hearer can become after time.
+
+Charge: write Hebrews 5:13-14. Then write six sentences that do not repeat the heading: what apeiros is, what it is not, what aridity looks like in a person, what tergiversation looks like in a house, what “accepted heresies called doctrines” forces you to refuse, and what labour you will put on the word of righteousness before the week ends.`,
+  },
+  {
+    id: "ch-ost-23",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 23,
+    title: "Scripture's Scholarly Impetus",
+    body: `One Source of Truth — The Doctrine of the Graphē · Part X · Chapter 23
+
+Governing rule: the graphē is the premiere convention for hearing from God and for spiritual growth. This book is a straight issue on the cornerstone under that writing. It is not the convention itself. It is not a seventh first principle.
+
+Authority levels in this chapter:
+• L1 — what Scripture states
+• L2 — what the 2015 source manuscript states
+• L3 — authored teaching that develops L1 and L2 for labour (not to be quoted as if it were L1 or L2)
+
+A. The blame the source names
+
+L2 — lack of skill is blamed on failure to realize the scholarly impetus of the scripture and to align accordingly: failure to know the scriptures, whether soft copy or hard.
+
+Scholarly impetus is not a degree. It is the push the writing itself gives toward knowing — toward labour in the text. Format is not the cure. A glowing screen can hide apeiros as easily as a closed book.
+
+B. Core proposition
+
+SCRIPTURE DEMANDS INTELLECTUAL LABOUR.
+
+Not merely emotional enthusiasm. Not merely attendance. Not merely repetition. Not merely quotation. Not merely religious familiarity.
+
+C. Alignment
+
+To realize the impetus is to align: to know what is written and to order life under it. Soft/hard media are vehicles. Labour is the requirement.
+
+D. Charge
+
+Write the core proposition. Then name your actual labour this week: hour and text. If you cannot name them, you are already answering Hebrews 5:13.
+
+---
+
+From the Foundation textbook gate (labour text):
+
+IV. APEIROS — UNSKILFUL IN THE WORD OF RIGHTEOUSNESS
+
+A. The verse and the term
+
+Hebrews 5:13 — “For every one that useth milk is unskilful in the word of righteousness: for he is a babe.”
+
+Unskilful is Greek apeiros: inexperienced, that is, ignorant — unskilful. This teaching keeps the word there. The inexperience is not in crowding a meeting. It is in the word of righteousness.
+
+Apeiros is not a personality type. It is not shyness. It is not lack of a platform. It is lack of experience in the word that names righteousness — the writing in which a man is shown what is right before God and what is not. A man may be experienced in rooms and apeiros in that word.
+
+B. Hebrews 5:14 in the same file
+
+Hebrews 5:14 — “But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.”
+
+Hold 5:13 and 5:14. The milk-user is apeiros and a babe. The one of full age has senses exercised by reason of use. Use is not attendance. Use is the labour that trains hearing to discern.
+
+Discern both good and evil. The babe is not merely under-informed. He cannot yet distinguish. That is why unskilfulness produces, in this severity, damnable accepted heresies called doctrines. A people who cannot discern will baptize error and call it teaching.
+
+C. Aridity and tergiversation
+
+This teaching is plain: the absence of reasonability (sound judgment) and the presence of unskilfulness produce aridity and tergiversation among persons, and even among age-old organizations that appear Christianized. What follows is damnable accepted heresies called doctrines.
+
+Reasonability is sound judgment. It is not a polite temperament. It is the capacity to hold the writing and judge. Absence of that judgment, plus apeiros, dries a people. Aridity is not a dry room. It is a people who no longer yield what the oracles planted.
+
+Tergiversation is desertion of a position: turning, shifting, refusing to stay under what was said. A person can do it. An age-old organization that appears Christianized can do it. Appearance is not skill. Years on a signboard are not senses exercised.
+
+What follows that dryness and that turning is not a harmless confusion. This teaching names the fruit: damnable accepted heresies called doctrines. Accepted means the heresy has become the house diet. Called doctrines means the name “doctrine” has been put on what the graphē will not bear. This school will not soften that sentence.
+
+D. The scholarly impetus of the Scripture
+
+That lack of skill is blamed on failure to realize the scholarly impetus of the Scripture and to align accordingly: failure to know the Scriptures, whether in soft copy or hard.
+
+Scholarly impetus is not a degree. It is the push the writing itself gives toward knowing — toward labour in the text. Soft copy or hard copy does not matter if there is no labour. A glowing screen can hide apeiros as easily as a closed book.
+
+The cure is not a louder room. The cure is labour in the word. Section VI will name that labour spoudazō. Do not wait for section VI to begin it. If you cannot name the hour and the text of this week, you are already answering Hebrews 5:13.
+
+E. Distinction, principle, charge
+
+Distinction: skill in the word of righteousness versus performance in a crowded room. Inexperience in the writing versus inexperience in platform. Sound judgment versus accepted heresy called doctrine.
+
+Principle: every one that useth milk is apeiros in the word of righteousness. The inexperience is in the writing. Organizations can be apeiros. The cure is to know the Scriptures and align.
+
+Reasoning: if unskilfulness were lack of activity, busy houses would be mature. This teaching watches age-old organizations dry up. If the copy format were the issue, the hard book would have saved the last century. The issue is failure to know and to align.
+
+Application: what is your actual study labour this week? Name the hour. Name the text. If you cannot name it, you are not yet a workman. You may be a hearer. Hebrews has already told you what a hearer can become after time.
+
+Charge: write Hebrews 5:13-14. Then write six sentences that do not repeat the heading: what apeiros is, what it is not, what aridity looks like in a person, what tergiversation looks like in a house, what “accepted heresies called doctrines” forces you to refuse, and what labour you will put on the word of righteousness before the week ends.`,
+  },
+  {
+    id: "ch-ost-24",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 24,
+    title: "Spoudazō",
+    body: `One Source of Truth — The Doctrine of the Graphē · Part X · Chapter 24
+
+Governing rule: the graphē is the premiere convention for hearing from God and for spiritual growth. This book is a straight issue on the cornerstone under that writing. It is not the convention itself. It is not a seventh first principle.
+
+Authority levels in this chapter:
+• L1 — what Scripture states
+• L2 — what the 2015 source manuscript states
+• L3 — authored teaching that develops L1 and L2 for labour (not to be quoted as if it were L1 or L2)
+
+A. The term
+
+L2 — Greek spoudazō: to use speed, to make effort, be prompt or earnest; do diligence, be diligent, endeavour, labour, study — intellectually.
+
+L1 — 2 Timothy 2:15: “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.”
+
+B. Not “try hard”
+
+Speed here is not haste that skips context. It is earnestness that will not postpone the labour. Effort is not noise. Promptness is not a calendar app. Earnestness refuses to treat the oracles as optional once the week fills. Intellectually is part of the definition. This school will not despise the mind as if reasoning were unbelief.
+
+C. Spoudazō makes knowledge possible
+
+Knowledge (Part XI) is perception, learning, and reasoning. Spoudazō is the labour that makes that knowledge possible. Quotation without spoudazō is not skill.
+
+D. Charge
+
+Define spoudazō without reducing it to “try hard.” Quote 2 Timothy 2:15. Write what intellectual study will look like in your next seven days — hour and text.
+
+---
+
+From the Foundation textbook gate (labour text):
+
+VI. SPOUDAZŌ — STUDY AS LABOUR
+
+A. The verse
+
+2 Timothy 2:15 — “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.”
+
+Who writes? Paul. To whom? Timothy, a man already entrusted with the word, told to endure hardness as a good soldier, and not to be ashamed of the testimony. Why? Because the word of truth must be handled by a workman, and approval here is not a feeling in a meeting. It is the approval of God toward a man who has laboured so as not to be ashamed of the work.
+
+2 Timothy 2:3 — “Thou therefore endure hardness, as a good soldier of Jesus Christ.”
+
+2 Timothy 2:8 — “Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:”
+
+2 Timothy 2:9 — “Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound.”
+
+Hold the cluster. Study sits in a letter about hardness, shame, and a word that is not bound. Spoudazō is not a hobby for quiet evenings. It is labour in a war where the word must be divided rightly and the workman must not blush before God.
+
+B. The term
+
+The Greek behind that study is spoudazō: to use speed, to make effort, be prompt or earnest; do diligence, be diligent, endeavour, labour, study — intellectually.
+
+Speed here is not haste that skips context. It is earnestness that will not postpone the labour. Effort is not noise. Promptness is not a calendar app. Earnestness is the refusal to treat the oracles as optional once the week fills. Diligence, endeavour, labour, study: the English is stacked so you cannot reduce the word to “read a verse if you feel like it.”
+
+Intellectually is part of the definition. This school will not despise the mind as if reasoning were unbelief. Knowledge, in the next section, is perception and learning and reasoning. Spoudazō is the labour that makes that knowledge possible.
+
+C. Approved, workman, rightly dividing
+
+Walk the verse. Do not slogan it.
+
+Study: the imperative. You are commanded to this labour. You are not invited to admire it.
+
+To shew thyself: the labour is visible in the work, not in the claim. You shew yourself by the workmanship.
+
+Approved unto God: the audience of the approval is God. Men may approve a crowded room. This verse does not ask that room for a stamp.
+
+A workman: approval here is the approval of a workman. The work is the word of truth. A workman has a craft. He can be ashamed if the craft is slovenly. He needeth not to be ashamed when the word is rightly divided.
+
+That needeth not to be ashamed: shame in this verse is the shame of bad work before God, not social embarrassment. A man can be loud and ashamed in this sense. A man can be quiet and unashamed.
+
+Rightly dividing the word of truth: the word is truth. It can be divided wrongly. Dull hearing and apeiros produce the wrong division. Right division holds a cluster, keeps a distinction, and will not merge what the text keeps apart. This year will ask you to divide the six principles and not invent a seventh. It will ask you to divide metanoia from metamellomai. It will ask you to divide two old things. If you cannot divide, you are not yet this workman.
+
+D. Three hours and eight
+
+If you will walk this year at three hours a week or at eight, the difference is not a second doctrine. The difference is how much labour you put on the same oracles.
+
+The Walk: about three hours a week, fifty-two weeks, the same six courses. Intensive: about eight hours a week, fifty-two weeks, the same six courses. Same examinations. Same certificate when a certificate is issued. No second curriculum.
+
+Three hours will not excuse you from spoudazō. Eight hours will not create a different gospel. The Intensive student writes longer, drills more, and sits longer with the same cluster. The Walk student writes tighter on the same cluster. Both must reason. Neither may hide in quotation.
+
+E. Charge — word drill on the verse
+
+Do a word drill on 2 Timothy 2:15 until you can reason “approved,” “workman,” and “rightly dividing” without a slogan.
+
+Write the verse in your own hand.
+
+Write what approved means in this verse — unto whom, for what kind of person.
+
+Write what workman means — what the work is, what shame would be.
+
+Write what rightly dividing means — what you must not merge, what you must not skip.
+
+Write six sentences. If you write the heading six times, you have not drilled. If you cannot do this at three hours, you will not do it at eight by wishing. Put the hour on the page.`,
+  },
+  {
+    id: "ch-ost-25",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 25,
+    title: "The Approved Workman",
+    body: `One Source of Truth — The Doctrine of the Graphē · Part X · Chapter 25
+
+Governing rule: the graphē is the premiere convention for hearing from God and for spiritual growth. This book is a straight issue on the cornerstone under that writing. It is not the convention itself. It is not a seventh first principle.
+
+Authority levels in this chapter:
+• L1 — what Scripture states
+• L2 — what the 2015 source manuscript states
+• L3 — authored teaching that develops L1 and L2 for labour (not to be quoted as if it were L1 or L2)
+
+A. The verse in its letter
+
+L1 — 2 Timothy 2:15 in the cluster of hardness, shame, and a word that is not bound (2 Timothy 2:3, 8-9). Study sits in a war letter, not a hobby page.
+
+B. Walk the verse
+
+Study — the imperative.  
+To shew thyself — visible in the workmanship, not in the claim.  
+Approved unto God — the audience of approval is God.  
+A workman — craft in the word of truth; shame is bad work before God.  
+Rightly dividing the word of truth — the word is truth; it can be divided wrongly. Dull hearing and apeiros produce wrong division. Right division holds a cluster, keeps a distinction, and will not merge what the text keeps apart.
+
+C. Walk and Intensive
+
+Three hours will not excuse you from spoudazō. Eight hours will not create a different gospel. Same doctrine. Different labour volume.
+
+D. Charge
+
+Six sentences that reason — not six sentences that repeat: approved · workman · rightly dividing · what shame is · what wrong division does · what you will divide this week without inventing a seventh first principle.
+
+---
+
+From the Foundation textbook gate (labour text):
+
+VI. SPOUDAZŌ — STUDY AS LABOUR
+
+A. The verse
+
+2 Timothy 2:15 — “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.”
+
+Who writes? Paul. To whom? Timothy, a man already entrusted with the word, told to endure hardness as a good soldier, and not to be ashamed of the testimony. Why? Because the word of truth must be handled by a workman, and approval here is not a feeling in a meeting. It is the approval of God toward a man who has laboured so as not to be ashamed of the work.
+
+2 Timothy 2:3 — “Thou therefore endure hardness, as a good soldier of Jesus Christ.”
+
+2 Timothy 2:8 — “Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:”
+
+2 Timothy 2:9 — “Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound.”
+
+Hold the cluster. Study sits in a letter about hardness, shame, and a word that is not bound. Spoudazō is not a hobby for quiet evenings. It is labour in a war where the word must be divided rightly and the workman must not blush before God.
+
+B. The term
+
+The Greek behind that study is spoudazō: to use speed, to make effort, be prompt or earnest; do diligence, be diligent, endeavour, labour, study — intellectually.
+
+Speed here is not haste that skips context. It is earnestness that will not postpone the labour. Effort is not noise. Promptness is not a calendar app. Earnestness is the refusal to treat the oracles as optional once the week fills. Diligence, endeavour, labour, study: the English is stacked so you cannot reduce the word to “read a verse if you feel like it.”
+
+Intellectually is part of the definition. This school will not despise the mind as if reasoning were unbelief. Knowledge, in the next section, is perception and learning and reasoning. Spoudazō is the labour that makes that knowledge possible.
+
+C. Approved, workman, rightly dividing
+
+Walk the verse. Do not slogan it.
+
+Study: the imperative. You are commanded to this labour. You are not invited to admire it.
+
+To shew thyself: the labour is visible in the work, not in the claim. You shew yourself by the workmanship.
+
+Approved unto God: the audience of the approval is God. Men may approve a crowded room. This verse does not ask that room for a stamp.
+
+A workman: approval here is the approval of a workman. The work is the word of truth. A workman has a craft. He can be ashamed if the craft is slovenly. He needeth not to be ashamed when the word is rightly divided.
+
+That needeth not to be ashamed: shame in this verse is the shame of bad work before God, not social embarrassment. A man can be loud and ashamed in this sense. A man can be quiet and unashamed.
+
+Rightly dividing the word of truth: the word is truth. It can be divided wrongly. Dull hearing and apeiros produce the wrong division. Right division holds a cluster, keeps a distinction, and will not merge what the text keeps apart. This year will ask you to divide the six principles and not invent a seventh. It will ask you to divide metanoia from metamellomai. It will ask you to divide two old things. If you cannot divide, you are not yet this workman.
+
+D. Three hours and eight
+
+If you will walk this year at three hours a week or at eight, the difference is not a second doctrine. The difference is how much labour you put on the same oracles.
+
+The Walk: about three hours a week, fifty-two weeks, the same six courses. Intensive: about eight hours a week, fifty-two weeks, the same six courses. Same examinations. Same certificate when a certificate is issued. No second curriculum.
+
+Three hours will not excuse you from spoudazō. Eight hours will not create a different gospel. The Intensive student writes longer, drills more, and sits longer with the same cluster. The Walk student writes tighter on the same cluster. Both must reason. Neither may hide in quotation.
+
+E. Charge — word drill on the verse
+
+Do a word drill on 2 Timothy 2:15 until you can reason “approved,” “workman,” and “rightly dividing” without a slogan.
+
+Write the verse in your own hand.
+
+Write what approved means in this verse — unto whom, for what kind of person.
+
+Write what workman means — what the work is, what shame would be.
+
+Write what rightly dividing means — what you must not merge, what you must not skip.
+
+Write six sentences. If you write the heading six times, you have not drilled. If you cannot do this at three hours, you will not do it at eight by wishing. Put the hour on the page.`,
+  },
+  {
+    id: "ch-ost-26",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 26,
+    title: "What Is Knowledge?",
+    body: `One Source of Truth — The Doctrine of the Graphē · Part XI · Chapter 26
+
+Governing rule: the graphē is the premiere convention for hearing from God and for spiritual growth. This book is a straight issue on the cornerstone under that writing. It is not the convention itself. It is not a seventh first principle.
+
+Authority levels in this chapter:
+• L1 — what Scripture states
+• L2 — what the 2015 source manuscript states
+• L3 — authored teaching that develops L1 and L2 for labour (not to be quoted as if it were L1 or L2)
+
+A. Source definition — L2
+
+Knowledge: a mental result of perception and learning and reasoning.
+
+Practice named: Word exercise, Word drill.
+
+B. What knowledge is not
+
+Not a pile of information. Not quotation without reasoning. Not familiarity. A man may quote a verse and still be a babe.
+
+C. The model
+
+PERCEPTION → LEARNING → REASONING → KNOWLEDGE
+
+Do not collapse these into one thing. Teach each stage (chs. 27–29). Then drill (Part XII).
+
+D. Charge
+
+Write the definition. Then write one verse you can quote that you cannot yet reason in its cluster — and begin perception this week.
+
+---
+
+From the Foundation textbook gate (labour text):
+
+VII. KNOWLEDGE — PERCEPTION, LEARNING, REASONING
+
+A. The definition
+
+Knowledge is a mental result of perception, learning, and reasoning. The practice is named: word exercise, word drill.
+
+Knowledge, here, is not a pile of information. A man may quote a verse and still be a babe. Quotation without reasoning is not skill. Information collected is not that mental result.
+
+Three parts, one result.
+
+Perception: you see what the text says, not what you wish it said. You see the words in their place. You see who speaks, to whom, and why. You see the cluster the verse sits in. Perception is not a mystical extra. It is the refusal to skip what is on the page.
+
+Learning: you take it in, and you keep it. You write it. You can return it. A verse you cannot write is a verse you have not yet learned, however often you have heard it. Learning is not a feeling of familiarity.
+
+Reasoning: you can hold a cluster of Scriptures together and draw the distinction the text itself makes. You can say why “ought to be teachers” and “become” belong in one verse. You can say why milk is kindness in one man and indictment in another. You can say why graphē is not religiousism. Reasoning is not speculation. It is the mind working the writing until the distinction is teachable.
+
+B. Word exercise, word drill
+
+The practice is not optional colour. It is how this school makes knowledge. Word exercise: you use the word, as Hebrews 5:14 said “by reason of use.” Word drill: you put the verse through perception, learning, and reasoning until you can teach it.
+
+A drill is repetition with attention. You write the verse. You name the terms as they are used here. You set the context. You hold the cluster. You draw the distinction. You state the principle. You reason. You apply. You take the charge. That is the method of this book. It is not a blog outline. It is not a sermon skeleton. It is labour.
+
+This school will ask you to reason. The questions this school asks are not decorations. They are charges. “Ye ought to be teachers” is a charge. “Study” is a charge. “Ye shall know the truth” is a charge. Later chapters will ask questions that must be answered, not waved past. You will not be allowed to treat them as rhetoric.
+
+C. Distinction and principle
+
+Distinction: knowledge as perception plus learning plus reasoning versus information collected versus quotation without reasoning.
+
+Principle: you do not know a verse until you can perceive it, keep it, and reason it in its cluster.
+
+Reasoning: if quotation were knowledge, the Hebrews readers would not have needed to be taught again. They had heard. If familiarity were learning, time would have made them teachers. Time had passed. If slogans were reasoning, this chapter could have been a list of headings. This teaching was already a list of headings. It was too thin to teach. You are holding the opening of that page.
+
+Application: take Hebrews 5:12. Perceive it — what it says, not a summary. Learn it — write it. Reason it — why “ought to be teachers” and “become” belong in one verse, and what “again” does to a man who thought he had finished the beginning.
+
+Charge: do that drill before you touch Chapter 2. Chapter 2 will not lay the first stone in a man who will not reason the gate.`,
+  },
+  {
+    id: "ch-ost-27",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 27,
+    title: "Perception",
+    body: `One Source of Truth — The Doctrine of the Graphē · Part XI · Chapter 27
+
+Governing rule: the graphē is the premiere convention for hearing from God and for spiritual growth. This book is a straight issue on the cornerstone under that writing. It is not the convention itself. It is not a seventh first principle.
+
+Authority levels in this chapter:
+• L1 — what Scripture states
+• L2 — what the 2015 source manuscript states
+• L3 — authored teaching that develops L1 and L2 for labour (not to be quoted as if it were L1 or L2)
+
+A. What it means to perceive the text
+
+Perception: you see what the text says, not what you wish it said. You see the words in their place. You see who speaks, to whom, and why. You see the cluster the verse sits in. Perception is not a mystical extra. It is the refusal to skip what is on the page.
+
+B. Observation labour — L3 method under the writing
+
+Attend to: words · grammar · context · repetitions · contrasts · sequence · commands · promises · conditions · conclusions · relationships between statements.
+
+Do not substitute interpretation before observation.
+
+C. Charge
+
+Take Hebrews 5:12. Perceive it — write every load-bearing word before you explain anything. No summary first.
+
+---
+
+From the Foundation textbook gate (labour text):
+
+VII. KNOWLEDGE — PERCEPTION, LEARNING, REASONING
+
+A. The definition
+
+Knowledge is a mental result of perception, learning, and reasoning. The practice is named: word exercise, word drill.
+
+Knowledge, here, is not a pile of information. A man may quote a verse and still be a babe. Quotation without reasoning is not skill. Information collected is not that mental result.
+
+Three parts, one result.
+
+Perception: you see what the text says, not what you wish it said. You see the words in their place. You see who speaks, to whom, and why. You see the cluster the verse sits in. Perception is not a mystical extra. It is the refusal to skip what is on the page.
+
+Learning: you take it in, and you keep it. You write it. You can return it. A verse you cannot write is a verse you have not yet learned, however often you have heard it. Learning is not a feeling of familiarity.
+
+Reasoning: you can hold a cluster of Scriptures together and draw the distinction the text itself makes. You can say why “ought to be teachers” and “become” belong in one verse. You can say why milk is kindness in one man and indictment in another. You can say why graphē is not religiousism. Reasoning is not speculation. It is the mind working the writing until the distinction is teachable.
+
+B. Word exercise, word drill
+
+The practice is not optional colour. It is how this school makes knowledge. Word exercise: you use the word, as Hebrews 5:14 said “by reason of use.” Word drill: you put the verse through perception, learning, and reasoning until you can teach it.
+
+A drill is repetition with attention. You write the verse. You name the terms as they are used here. You set the context. You hold the cluster. You draw the distinction. You state the principle. You reason. You apply. You take the charge. That is the method of this book. It is not a blog outline. It is not a sermon skeleton. It is labour.
+
+This school will ask you to reason. The questions this school asks are not decorations. They are charges. “Ye ought to be teachers” is a charge. “Study” is a charge. “Ye shall know the truth” is a charge. Later chapters will ask questions that must be answered, not waved past. You will not be allowed to treat them as rhetoric.
+
+C. Distinction and principle
+
+Distinction: knowledge as perception plus learning plus reasoning versus information collected versus quotation without reasoning.
+
+Principle: you do not know a verse until you can perceive it, keep it, and reason it in its cluster.
+
+Reasoning: if quotation were knowledge, the Hebrews readers would not have needed to be taught again. They had heard. If familiarity were learning, time would have made them teachers. Time had passed. If slogans were reasoning, this chapter could have been a list of headings. This teaching was already a list of headings. It was too thin to teach. You are holding the opening of that page.
+
+Application: take Hebrews 5:12. Perceive it — what it says, not a summary. Learn it — write it. Reason it — why “ought to be teachers” and “become” belong in one verse, and what “again” does to a man who thought he had finished the beginning.
+
+Charge: do that drill before you touch Chapter 2. Chapter 2 will not lay the first stone in a man who will not reason the gate.`,
+  },
+  {
+    id: "ch-ost-28",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 28,
+    title: "Learning",
+    body: `One Source of Truth — The Doctrine of the Graphē · Part XI · Chapter 28
+
+Governing rule: the graphē is the premiere convention for hearing from God and for spiritual growth. This book is a straight issue on the cornerstone under that writing. It is not the convention itself. It is not a seventh first principle.
+
+Authority levels in this chapter:
+• L1 — what Scripture states
+• L2 — what the 2015 source manuscript states
+• L3 — authored teaching that develops L1 and L2 for labour (not to be quoted as if it were L1 or L2)
+
+A. Taking it in and keeping it
+
+Learning: you take it in, and you keep it. You write it. You can return it. A verse you cannot write is a verse you have not yet learned, however often you have heard it. Learning is not a feeling of familiarity.
+
+B. What learning includes — L3 under the source
+
+Retention · comprehension · comparison · contextual learning · vocabulary · doctrinal categories · Scripture familiarity that can be produced by hand.
+
+C. Charge
+
+Write Hebrews 5:11-14 by hand. If you cannot, you have not yet learned the diagnosis — only heard it.
+
+---
+
+From the Foundation textbook gate (labour text):
+
+VII. KNOWLEDGE — PERCEPTION, LEARNING, REASONING
+
+A. The definition
+
+Knowledge is a mental result of perception, learning, and reasoning. The practice is named: word exercise, word drill.
+
+Knowledge, here, is not a pile of information. A man may quote a verse and still be a babe. Quotation without reasoning is not skill. Information collected is not that mental result.
+
+Three parts, one result.
+
+Perception: you see what the text says, not what you wish it said. You see the words in their place. You see who speaks, to whom, and why. You see the cluster the verse sits in. Perception is not a mystical extra. It is the refusal to skip what is on the page.
+
+Learning: you take it in, and you keep it. You write it. You can return it. A verse you cannot write is a verse you have not yet learned, however often you have heard it. Learning is not a feeling of familiarity.
+
+Reasoning: you can hold a cluster of Scriptures together and draw the distinction the text itself makes. You can say why “ought to be teachers” and “become” belong in one verse. You can say why milk is kindness in one man and indictment in another. You can say why graphē is not religiousism. Reasoning is not speculation. It is the mind working the writing until the distinction is teachable.
+
+B. Word exercise, word drill
+
+The practice is not optional colour. It is how this school makes knowledge. Word exercise: you use the word, as Hebrews 5:14 said “by reason of use.” Word drill: you put the verse through perception, learning, and reasoning until you can teach it.
+
+A drill is repetition with attention. You write the verse. You name the terms as they are used here. You set the context. You hold the cluster. You draw the distinction. You state the principle. You reason. You apply. You take the charge. That is the method of this book. It is not a blog outline. It is not a sermon skeleton. It is labour.
+
+This school will ask you to reason. The questions this school asks are not decorations. They are charges. “Ye ought to be teachers” is a charge. “Study” is a charge. “Ye shall know the truth” is a charge. Later chapters will ask questions that must be answered, not waved past. You will not be allowed to treat them as rhetoric.
+
+C. Distinction and principle
+
+Distinction: knowledge as perception plus learning plus reasoning versus information collected versus quotation without reasoning.
+
+Principle: you do not know a verse until you can perceive it, keep it, and reason it in its cluster.
+
+Reasoning: if quotation were knowledge, the Hebrews readers would not have needed to be taught again. They had heard. If familiarity were learning, time would have made them teachers. Time had passed. If slogans were reasoning, this chapter could have been a list of headings. This teaching was already a list of headings. It was too thin to teach. You are holding the opening of that page.
+
+Application: take Hebrews 5:12. Perceive it — what it says, not a summary. Learn it — write it. Reason it — why “ought to be teachers” and “become” belong in one verse, and what “again” does to a man who thought he had finished the beginning.
+
+Charge: do that drill before you touch Chapter 2. Chapter 2 will not lay the first stone in a man who will not reason the gate.`,
+  },
+  {
+    id: "ch-ost-29",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 29,
+    title: "Reasoning",
+    body: `One Source of Truth — The Doctrine of the Graphē · Part XI · Chapter 29
+
+Governing rule: the graphē is the premiere convention for hearing from God and for spiritual growth. This book is a straight issue on the cornerstone under that writing. It is not the convention itself. It is not a seventh first principle.
+
+Authority levels in this chapter:
+• L1 — what Scripture states
+• L2 — what the 2015 source manuscript states
+• L3 — authored teaching that develops L1 and L2 for labour (not to be quoted as if it were L1 or L2)
+
+A. Reasoning from Scripture
+
+Reasoning: you hold a cluster of Scriptures together and draw the distinction the text itself makes. You can say why “ought to be teachers” and “become” belong in one verse. You can say why milk is kindness in one man and indictment in another. You can say why graphē is not religiousism. Reasoning is not speculation. It is the mind working the writing until the distinction is teachable.
+
+B. Instruments — L3 servants, not masters
+
+Premises · conclusions · implication · inference · necessary versus possible conclusions · contradiction · invalid inference · textual support.
+
+Logic is a servant of accurate reasoning from the writing. It is not an authority above Scripture. Never use a syllogism to manufacture a doctrine the text does not support.
+
+C. Charge
+
+Premise from Hebrews 5:12. Premise from Hebrews 5:13. Conclusion that the text forces — not a conclusion you prefer. Mark what would be an unsupported leap.
+
+---
+
+From the Foundation textbook gate (labour text):
+
+VII. KNOWLEDGE — PERCEPTION, LEARNING, REASONING
+
+A. The definition
+
+Knowledge is a mental result of perception, learning, and reasoning. The practice is named: word exercise, word drill.
+
+Knowledge, here, is not a pile of information. A man may quote a verse and still be a babe. Quotation without reasoning is not skill. Information collected is not that mental result.
+
+Three parts, one result.
+
+Perception: you see what the text says, not what you wish it said. You see the words in their place. You see who speaks, to whom, and why. You see the cluster the verse sits in. Perception is not a mystical extra. It is the refusal to skip what is on the page.
+
+Learning: you take it in, and you keep it. You write it. You can return it. A verse you cannot write is a verse you have not yet learned, however often you have heard it. Learning is not a feeling of familiarity.
+
+Reasoning: you can hold a cluster of Scriptures together and draw the distinction the text itself makes. You can say why “ought to be teachers” and “become” belong in one verse. You can say why milk is kindness in one man and indictment in another. You can say why graphē is not religiousism. Reasoning is not speculation. It is the mind working the writing until the distinction is teachable.
+
+B. Word exercise, word drill
+
+The practice is not optional colour. It is how this school makes knowledge. Word exercise: you use the word, as Hebrews 5:14 said “by reason of use.” Word drill: you put the verse through perception, learning, and reasoning until you can teach it.
+
+A drill is repetition with attention. You write the verse. You name the terms as they are used here. You set the context. You hold the cluster. You draw the distinction. You state the principle. You reason. You apply. You take the charge. That is the method of this book. It is not a blog outline. It is not a sermon skeleton. It is labour.
+
+This school will ask you to reason. The questions this school asks are not decorations. They are charges. “Ye ought to be teachers” is a charge. “Study” is a charge. “Ye shall know the truth” is a charge. Later chapters will ask questions that must be answered, not waved past. You will not be allowed to treat them as rhetoric.
+
+C. Distinction and principle
+
+Distinction: knowledge as perception plus learning plus reasoning versus information collected versus quotation without reasoning.
+
+Principle: you do not know a verse until you can perceive it, keep it, and reason it in its cluster.
+
+Reasoning: if quotation were knowledge, the Hebrews readers would not have needed to be taught again. They had heard. If familiarity were learning, time would have made them teachers. Time had passed. If slogans were reasoning, this chapter could have been a list of headings. This teaching was already a list of headings. It was too thin to teach. You are holding the opening of that page.
+
+Application: take Hebrews 5:12. Perceive it — what it says, not a summary. Learn it — write it. Reason it — why “ought to be teachers” and “become” belong in one verse, and what “again” does to a man who thought he had finished the beginning.
+
+Charge: do that drill before you touch Chapter 2. Chapter 2 will not lay the first stone in a man who will not reason the gate.`,
+  },
+  {
+    id: "ch-ost-30",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 30,
+    title: "The Word Must Be Exercised",
+    body: `One Source of Truth — The Doctrine of the Graphē · Part XII · Chapter 30
+
+Governing rule: the graphē is the premiere convention for hearing from God and for spiritual growth. This book is a straight issue on the cornerstone under that writing. It is not the convention itself. It is not a seventh first principle.
+
+Authority levels in this chapter:
+• L1 — what Scripture states
+• L2 — what the 2015 source manuscript states
+• L3 — authored teaching that develops L1 and L2 for labour (not to be quoted as if it were L1 or L2)
+
+A. Source practice
+
+L2 — Word exercise, Word drill. Hebrews 5:14: by reason of use have their senses exercised.
+
+Word exercise: you use the word. Word drill: you put the verse through perception, learning, and reasoning until you can teach it.
+
+B. Signature pedagogy
+
+This is not optional colour. It is how this school makes knowledge. A drill is repetition with attention: write the verse · name the terms as used · set the context · hold the cluster · draw the distinction · state the principle · reason · apply · take the charge.
+
+C. Charge
+
+Name one verse you will exercise this week until you can teach it without a slogan.
+
+---
+
+From the Foundation textbook gate (labour text):
+
+VII. KNOWLEDGE — PERCEPTION, LEARNING, REASONING
+
+A. The definition
+
+Knowledge is a mental result of perception, learning, and reasoning. The practice is named: word exercise, word drill.
+
+Knowledge, here, is not a pile of information. A man may quote a verse and still be a babe. Quotation without reasoning is not skill. Information collected is not that mental result.
+
+Three parts, one result.
+
+Perception: you see what the text says, not what you wish it said. You see the words in their place. You see who speaks, to whom, and why. You see the cluster the verse sits in. Perception is not a mystical extra. It is the refusal to skip what is on the page.
+
+Learning: you take it in, and you keep it. You write it. You can return it. A verse you cannot write is a verse you have not yet learned, however often you have heard it. Learning is not a feeling of familiarity.
+
+Reasoning: you can hold a cluster of Scriptures together and draw the distinction the text itself makes. You can say why “ought to be teachers” and “become” belong in one verse. You can say why milk is kindness in one man and indictment in another. You can say why graphē is not religiousism. Reasoning is not speculation. It is the mind working the writing until the distinction is teachable.
+
+B. Word exercise, word drill
+
+The practice is not optional colour. It is how this school makes knowledge. Word exercise: you use the word, as Hebrews 5:14 said “by reason of use.” Word drill: you put the verse through perception, learning, and reasoning until you can teach it.
+
+A drill is repetition with attention. You write the verse. You name the terms as they are used here. You set the context. You hold the cluster. You draw the distinction. You state the principle. You reason. You apply. You take the charge. That is the method of this book. It is not a blog outline. It is not a sermon skeleton. It is labour.
+
+This school will ask you to reason. The questions this school asks are not decorations. They are charges. “Ye ought to be teachers” is a charge. “Study” is a charge. “Ye shall know the truth” is a charge. Later chapters will ask questions that must be answered, not waved past. You will not be allowed to treat them as rhetoric.
+
+C. Distinction and principle
+
+Distinction: knowledge as perception plus learning plus reasoning versus information collected versus quotation without reasoning.
+
+Principle: you do not know a verse until you can perceive it, keep it, and reason it in its cluster.
+
+Reasoning: if quotation were knowledge, the Hebrews readers would not have needed to be taught again. They had heard. If familiarity were learning, time would have made them teachers. Time had passed. If slogans were reasoning, this chapter could have been a list of headings. This teaching was already a list of headings. It was too thin to teach. You are holding the opening of that page.
+
+Application: take Hebrews 5:12. Perceive it — what it says, not a summary. Learn it — write it. Reason it — why “ought to be teachers” and “become” belong in one verse, and what “again” does to a man who thought he had finished the beginning.
+
+Charge: do that drill before you touch Chapter 2. Chapter 2 will not lay the first stone in a man who will not reason the gate.
+
+XI. WORD DRILL LABOUR
+
+This section does not add doctrine. It assigns the labour by which section VII becomes more than a definition.
+
+A. The verse you will write
+
+Write Hebrews 5:12 in full, by hand, from the KJV, until you can do it without looking. Then write 2 Timothy 2:15 the same way. Then write John 8:31-32 the same way.
+
+If you are on The Walk, that is the week’s writing of verses, with the reasoning below in tight paragraphs. If you are on The Intensive, write also Hebrews 5:11-14 and 6:1-3 as one stretch, and expand every reasoning sentence into a paragraph a babe could follow.
+
+B. Reason the words
+
+On 2 Timothy 2:15, reason approved. Unto whom? God. For what? A workman who needeth not to be ashamed. Approved is not a mood and not a crowd.
+
+Reason workman. The work is the word of truth. A workman can be ashamed. Hardness sits in the same chapter. The word of God is not bound.
+
+Reason rightly dividing. The word can be divided wrongly. Right division keeps the cluster and the distinction. Wrong division merges the six, or skips them, or trades the graphē for a likeness.
+
+On Hebrews 5:12, reason ought, again, become, milk, strong meat, first principles, oracles of God. Each word does work. If you cannot say the work, you have recited.
+
+On John 8:31-36, reason continue, disciples indeed, know, truth, free, servant of sin, the Son, free indeed. Hold them as one argument. Do not take 8:32 to a banner and leave 8:34 on the table.
+
+C. The method, once more
+
+Scripture in full. Term as defined here. Context: who, to whom, why. Cluster held together. Distinction. Principle. Reasoning. Application. Charge.
+
+That is how you will read every chapter. That is how you will write. A student at three hours a week can do this on one cluster and be honest. A student at eight hours can do this on the whole chapter and be honest. Neither may replace the method with a summary.`,
+  },
+  {
+    id: "ch-ost-31",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 31,
+    title: "From Quotation to Knowledge",
+    body: `One Source of Truth — The Doctrine of the Graphē · Part XII · Chapter 31
+
+Governing rule: the graphē is the premiere convention for hearing from God and for spiritual growth. This book is a straight issue on the cornerstone under that writing. It is not the convention itself. It is not a seventh first principle.
+
+Authority levels in this chapter:
+• L1 — what Scripture states
+• L2 — what the 2015 source manuscript states
+• L3 — authored teaching that develops L1 and L2 for labour (not to be quoted as if it were L1 or L2)
+
+A. The ladder
+
+Possessing a quotation ≠ memorizing a quotation ≠ quoting a verse ≠ understanding a verse ≠ relating it to other Scriptures ≠ reasoning from it ≠ applying it ≠ demonstrating mastery.
+
+B. Core principle
+
+QUOTATION ≠ KNOWLEDGE.
+
+Knowledge requires perception, learning, and reasoning. Hebrews readers had heard. They still needed to be taught again. Time had passed. Familiarity had not made them teachers.
+
+C. Charge
+
+Take a verse you quote easily. Climb the ladder on paper. Stop at the first rung you cannot honestly claim — and labour there.
+
+---
+
+From the Foundation textbook gate (labour text):
+
+VII. KNOWLEDGE — PERCEPTION, LEARNING, REASONING
+
+A. The definition
+
+Knowledge is a mental result of perception, learning, and reasoning. The practice is named: word exercise, word drill.
+
+Knowledge, here, is not a pile of information. A man may quote a verse and still be a babe. Quotation without reasoning is not skill. Information collected is not that mental result.
+
+Three parts, one result.
+
+Perception: you see what the text says, not what you wish it said. You see the words in their place. You see who speaks, to whom, and why. You see the cluster the verse sits in. Perception is not a mystical extra. It is the refusal to skip what is on the page.
+
+Learning: you take it in, and you keep it. You write it. You can return it. A verse you cannot write is a verse you have not yet learned, however often you have heard it. Learning is not a feeling of familiarity.
+
+Reasoning: you can hold a cluster of Scriptures together and draw the distinction the text itself makes. You can say why “ought to be teachers” and “become” belong in one verse. You can say why milk is kindness in one man and indictment in another. You can say why graphē is not religiousism. Reasoning is not speculation. It is the mind working the writing until the distinction is teachable.
+
+B. Word exercise, word drill
+
+The practice is not optional colour. It is how this school makes knowledge. Word exercise: you use the word, as Hebrews 5:14 said “by reason of use.” Word drill: you put the verse through perception, learning, and reasoning until you can teach it.
+
+A drill is repetition with attention. You write the verse. You name the terms as they are used here. You set the context. You hold the cluster. You draw the distinction. You state the principle. You reason. You apply. You take the charge. That is the method of this book. It is not a blog outline. It is not a sermon skeleton. It is labour.
+
+This school will ask you to reason. The questions this school asks are not decorations. They are charges. “Ye ought to be teachers” is a charge. “Study” is a charge. “Ye shall know the truth” is a charge. Later chapters will ask questions that must be answered, not waved past. You will not be allowed to treat them as rhetoric.
+
+C. Distinction and principle
+
+Distinction: knowledge as perception plus learning plus reasoning versus information collected versus quotation without reasoning.
+
+Principle: you do not know a verse until you can perceive it, keep it, and reason it in its cluster.
+
+Reasoning: if quotation were knowledge, the Hebrews readers would not have needed to be taught again. They had heard. If familiarity were learning, time would have made them teachers. Time had passed. If slogans were reasoning, this chapter could have been a list of headings. This teaching was already a list of headings. It was too thin to teach. You are holding the opening of that page.
+
+Application: take Hebrews 5:12. Perceive it — what it says, not a summary. Learn it — write it. Reason it — why “ought to be teachers” and “become” belong in one verse, and what “again” does to a man who thought he had finished the beginning.
+
+Charge: do that drill before you touch Chapter 2. Chapter 2 will not lay the first stone in a man who will not reason the gate.`,
+  },
+  {
+    id: "ch-ost-32",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 32,
+    title: "The Word Drill Method",
+    body: `One Source of Truth — The Doctrine of the Graphē · Part XII · Chapter 32
+
+Governing rule: the graphē is the premiere convention for hearing from God and for spiritual growth. This book is a straight issue on the cornerstone under that writing. It is not the convention itself. It is not a seventh first principle.
+
+Authority levels in this chapter:
+• L1 — what Scripture states
+• L2 — what the 2015 source manuscript states
+• L3 — authored teaching that develops L1 and L2 for labour (not to be quoted as if it were L1 or L2)
+
+A. Authored method — L3
+
+The leaflet names Word exercise and Word drill. It does not print a fourteen-step list. What follows is pedagogical expansion derived from perception, learning, reasoning, knowledge, skill, and Hebrews 5:14’s “use.”
+
+1. READ  
+2. OBSERVE  
+3. IDENTIFY  
+4. DEFINE  
+5. CONTEXTUALIZE  
+6. COMPARE  
+7. CONNECT  
+8. REASON  
+9. TEST  
+10. CONCLUDE  
+11. ARTICULATE  
+12. APPLY  
+13. REPEAT  
+14. DEMONSTRATE MASTERY  
+
+B. How to use it
+
+Do not present the fourteen steps as if the 2015 leaflet listed them. Present them as L3 labour that serves L1 and L2. Mastery here means demonstrated competency in the material — not perfection of the human being.
+
+C. Gate reminder
+
+Parts XIII+ (discernment encyclopedia, heresy institutionalization at full length, Scripture vs tradition/experience/majority treatises) remain later. The cure chain of the leaflet opening is now open: aridity/tergiversation named · scholarly impetus · spoudazō · knowledge · Word drill.
+
+The graphē remains the premiere convention. This book remains the gate into the six.
+
+D. Charge
+
+Run the method on 2 Timothy 2:15 and on Hebrews 5:12. Write both drills. Affirm: quotation is not knowledge; this course is not the convention; Holy Writ is.
+
+---
+
+From the Foundation textbook gate (labour text):
+
+XI. WORD DRILL LABOUR
+
+This section does not add doctrine. It assigns the labour by which section VII becomes more than a definition.
+
+A. The verse you will write
+
+Write Hebrews 5:12 in full, by hand, from the KJV, until you can do it without looking. Then write 2 Timothy 2:15 the same way. Then write John 8:31-32 the same way.
+
+If you are on The Walk, that is the week’s writing of verses, with the reasoning below in tight paragraphs. If you are on The Intensive, write also Hebrews 5:11-14 and 6:1-3 as one stretch, and expand every reasoning sentence into a paragraph a babe could follow.
+
+B. Reason the words
+
+On 2 Timothy 2:15, reason approved. Unto whom? God. For what? A workman who needeth not to be ashamed. Approved is not a mood and not a crowd.
+
+Reason workman. The work is the word of truth. A workman can be ashamed. Hardness sits in the same chapter. The word of God is not bound.
+
+Reason rightly dividing. The word can be divided wrongly. Right division keeps the cluster and the distinction. Wrong division merges the six, or skips them, or trades the graphē for a likeness.
+
+On Hebrews 5:12, reason ought, again, become, milk, strong meat, first principles, oracles of God. Each word does work. If you cannot say the work, you have recited.
+
+On John 8:31-36, reason continue, disciples indeed, know, truth, free, servant of sin, the Son, free indeed. Hold them as one argument. Do not take 8:32 to a banner and leave 8:34 on the table.
+
+C. The method, once more
+
+Scripture in full. Term as defined here. Context: who, to whom, why. Cluster held together. Distinction. Principle. Reasoning. Application. Charge.
+
+That is how you will read every chapter. That is how you will write. A student at three hours a week can do this on one cluster and be honest. A student at eight hours can do this on the whole chapter and be honest. Neither may replace the method with a summary.`,
   },
 ];
