@@ -18,7 +18,7 @@ export const oneSourceBook: Book = {
   title: oneSourceBookTitle,
   subtitle: `${oneSourceBookSubtitle} · ${oneSourceBookTag}`,
   description:
-    "Holy Writ is the premiere convention for hearing from God and for spiritual growth. This volume is a straight issue on the cornerstone: how the graphē governs authority, hearing, knowledge, reasoning, Word labour, discernment, and the path from first principles to maturity. Not a seventh doctrine — the methodological gate into the six.",
+    "Holy Writ is the premiere convention for hearing from God and for spiritual growth. This volume is a straight issue on the cornerstone: how the graphē governs authority, hearing, knowledge, reasoning, Word labour, discernment, and the path from first principles to maturity. Twenty chapters across Parts I–VIII. Not a seventh doctrine — the methodological gate into the six.",
   authors: [achu],
   contributors: [],
   publisher: "Aletheia Publications",
@@ -44,7 +44,7 @@ export const oneSourceCourse: Course = {
   title: "One Source of Truth",
   subtitle: "The Doctrine of the Graphē · Word drill course",
   description:
-    "Eight competency lessons that train what the book teaches: graphē as premiere convention, Hebrews 5 diagnosis, apeiros and nēpios, spoudazō, knowledge as perception–learning–reasoning, Word drill, and the gate into the six first principles. The course is not the convention; Holy Writ is.",
+    "Ten competency lessons that train what the book teaches: graphē as premiere convention, Hebrews 5 diagnosis, apeiros and nēpios, spoudazō, knowledge as perception–learning–reasoning, Word drill, and the gate into the six first principles. The course is not the convention; Holy Writ is.",
   instructor: achu,
   category: "Foundation",
   difficulty: "introductory",
