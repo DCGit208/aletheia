@@ -27,6 +27,7 @@ Greek and Hebrew are studied as the leaflet uses them, plus the owner-supplied l
 
 | File | What it is |
 | --- | --- |
+| `graphe-book/` | **One Source of Truth production maps** (Phases 1–9). Not reader-facing. Do not write chapters until these control the manuscript. |
 | `13_SOURCE_FIDELITY_MATRIX_GRAPHE.md` | Source-fidelity matrix for One Source of Truth / Doctrine of the Graphē |
 | `12_CONSULTANT_REVIEW_LEAFLET_OPENING.md` | Consultant crosswalk: leaflet opening ↔ Textbook Ch.1 / Course 1 lessons 1–7 |
 | `01_SOURCE_MAP.md` | Page-by-page map of every section and claim |
