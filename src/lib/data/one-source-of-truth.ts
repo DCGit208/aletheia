@@ -31,7 +31,7 @@ export const oneSourceBook: Book = {
   coverImage: "/covers/one-source-of-truth.png",
   status: "published",
   accessLevel: "entitled",
-  previewChapterIds: ["ch-ost-1"],
+  previewChapterIds: ["ch-ost-1", "ch-ost-2"],
   productId: ONE_SOURCE_PRODUCT_ID,
   chapterCount: oneSourceChapters.length,
 };

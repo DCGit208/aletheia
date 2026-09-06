@@ -7,8 +7,8 @@ Map every Movement A element to architecture. Status: **mapped, not yet written*
 | G01 | Title / true Christ-ian experience | 1, 3 | Ch.1 drafted (G02 contrast reserved for Ch.3) |
 | G02 | Naturalistic vs ersatz; pillow; unleavened sincerity | 3 | Seeded in Ch.1; full contrast still Ch.3 |
 | G03 | Graphē / Holy Writ / Bible / Scripture | 1, 2 | Ch.1 drafted |
-| G04 | Imprimatur; unchallenged authority | 2, 9 | MAP |
-| G05 | Persons, orgs, governments, nations | 2, 4 | MAP |
+| G04 | Imprimatur; unchallenged authority | 2, 9 | Ch.2 drafted |
+| G05 | Persons, orgs, governments, nations | 2, 4 | Ch.2 drafted |
 | G06 | Straightaway issue on cornerstone; oracles | 11 | MAP |
 | G07 | Premiere convention; hearing; growth | 12, 13 | MAP |
 | G08 | First principles → maturity | 33 | MAP |

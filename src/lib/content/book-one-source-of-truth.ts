@@ -98,16 +98,50 @@ Chapter 2 will open the authority of that writing: Holy Writ as writings or sayi
     id: "ch-ost-2",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 2,
-    title: "Holy Writ",
-    body: `Holy Writ · Bible · Scripture · written Word · graphē. These names must stay together. If they come apart, the writing shrinks into a mood that accompanies a meeting.
+    title: "Holy Writ and the Authority of the Writing",
+    body: `Chapter 1 named the source. This chapter opens its authority.
 
-Holy Writ is testimony that can be opened. It can be read in the hearing of others. It can be compared with itself. It can be quoted without asking a living official for permission to hear it. That is why it governs the Christ-ian experience this book calls naturalistic: following the teachings of Jesus Christ, or manifesting His qualities or His spirit, in conformity with the writing.
+Holy Writ is writings or sayings of unchallenged-unquestionable authority. That is imprimatur. The mark is not a stamp a publisher sets on a dust jacket. It is not the approval of a house that prints Bibles. It is the authority of the writing itself. The graphē does not wait for a later court to make it Holy Writ. It stands as writings that cannot be broken.
 
-Calling it Holy Writ is not decoration. The designation marks unchallenged authority — imprimatur. Chapter 3 opens that mark. Here hold this: the experience pillows in the writing; it does not invent a likeness and then hunt a verse to bless the likeness.
+I. Holy Writ is a designation of weight
 
-A man may own many Bibles and still treat none of them as Holy Writ. He may treat a slogan, a house line, or even this volume as if it were the writing. That is already a departure. This book will use the names the writing bears. It will not offer itself as one of them.
+The names remain stacked: graphē · Holy Writ · Bible · Scripture · the written Word. Holy Writ is not decoration on the stack. It marks the kind of writing this is. A man may own many Bibles and still treat none of them as Holy Writ. He may treat a slogan, a house line, a vision, or even this volume as if it were the writing. That is already a departure. The designation belongs to the graphē. It does not belong to the books written under it.
 
-Write the cluster in your own hand: graphē, Holy Writ, Bible, Scripture. Then write one sentence that refuses to treat any authored book — including this one — as Holy Writ.`,
+Holy Writ is testimony that can be opened. It can be read in the hearing of others. It can be compared with itself. It can be quoted without asking a living official for permission to hear it. Unchallenged-unquestionable does not mean that men have never challenged it. Men challenged the Lord with stones in their hands. It means the writing does not lose its place as the court when they do. The challenge is judged by what is written. The writing is not judged by the challenge.
+
+II. The verse that marks the authority
+
+John 10:35 — “If he called them gods, unto whom the word of God came, and the scripture cannot be broken;”
+
+Hold the verse in the cluster already opened. The Lord asks, Is it not written in your law? He cites Psalm 82:6. He names those unto whom the word of God came. He sets the rule: the scripture cannot be broken. Then He reasons from that rule to His own claim. Authority and argument are one act. He does not first establish a mood and then look for a text. He does not first claim a private word and then use Scripture as decoration. He stands in the court of what is written.
+
+That is imprimatur as this book uses the word. Writings or sayings of unchallenged-unquestionable authority. The authority is attached to the writing. It is not attached to the interpreter who happens to be holding it. It is not attached to the age of the organization that quotes it. It is not attached to the sincerity of the person who believes it. Sincerity may be real. Age may be long. Office may be high. None of those things is the mark. The mark is the writing.
+
+If the writing could be broken to save a convenience, it would not be Holy Writ. It would be a resource. A resource can be edited when it obstructs. Holy Writ cannot. The Lord would not break it to answer blasphemy. A later age will not be asked to break it to answer dullness, or to bless a likeness of the faith, or to keep a house from being troubled by what the page actually says.
+
+III. Whom the writing binds
+
+That imprimatur governs persons, organizations, governments, and nations.
+
+A person is under it. Private devotion does not shrink the writing into a private book. If the scripture cannot be broken, it cannot be broken in a kitchen any more than in a council. A man does not acquire a safer Bible by being sincere, young, old, gifted, or tired.
+
+An organization is under it. A meeting that calls itself a school does not exempt. A fellowship that prints verses on the wall does not exempt. A house that is old and ostensibly Christianized does not exempt. Age does not water the writing. Size does not outrank it. The writing judges the house that cites it.
+
+A government is under it. The graphē is not a chaplain the state hires when convenient. Holy Writ does not become optional because a polity is large, or armed, or ancient, or popular.
+
+A nation is under it. The four-term scope is not a political program. This chapter does not invent one. It states the reach of the mark: the writing’s authority is not limited to the inner life of the already-convinced. Persons, organizations, governments, and nations stand in the same court. When two of them conflict, the writing is still the court. When all of them agree against the writing, the writing is still the court.
+
+IV. What cannot outrank the writing
+
+Office cannot outrank it. Enrolment cannot outrank it. Majority cannot outrank it. A prophet’s claim cannot outrank it. A tradition cannot outrank it by being old. An experience cannot outrank it by being intense. An interpreter cannot outrank it by being trained. Later chapters will examine those courts one by one. The rule that will examine them is already here: Holy Writ is unchallenged-unquestionable authority, and the scripture cannot be broken.
+
+This is why maturity is already in view. If the final court is not the writing, skill in the writing becomes optional. A people can then grow in many things — numbers, influence, vocabulary — and still be unskilled in the word of righteousness. If the writing is the court, the labour of knowing it is not a hobby. It is the condition of hearing, testing, teaching, and going on.
+
+V. What this chapter has established
+
+Holy Writ names the graphē as writings or sayings of unchallenged-unquestionable authority. Imprimatur is that mark, not a publisher’s stamp. The Lord attached it to the writing when He said the scripture cannot be broken. The mark binds persons, organizations, governments, and nations. Nothing that quotes the writing stands above the writing.
+
+Chapter 3 will ask the next question: does experience judge the writing, or does the writing judge the experience? The court is named. The experience must now sit down under it.`,
   },
   {
     id: "ch-ost-3",
