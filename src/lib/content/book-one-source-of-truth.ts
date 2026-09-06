@@ -1475,39 +1475,187 @@ Part VII has opened the handling. Part VIII will open the fruit the writing name
     id: "ch-ost-31",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 31,
-    title: "From Quotation to Knowledge",
-    body: `Possessing a quotation is not memorizing a quotation. Memorizing is not quoting. Quoting is not understanding. Understanding is not relating a verse to other Scriptures. Relating is not reasoning. Reasoning is not applying. Applying is not yet demonstrated mastery.
+    title: "Continue in My Word",
+    body: `If ye continue in my word, then are ye my disciples indeed.
 
-Quotation is not knowledge.
+Part VII opened the handling. This part opens the fruit the writing names when that handling is not a visit but a continuance. John 8:32 is printed as the close of the opening movement: Truth makes free. The clause must not be taken to a banner and left without 8:31. Knowing the truth, and the freedom that follows, sit inside continuance in His word.
 
-Knowledge requires perception, learning, and reasoning. The Hebrews readers had heard. They still needed to be taught again. Time had passed. Familiarity had not made them teachers.
+John 8:31 — “Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed;”
 
-Take a verse you quote easily. Climb that ladder on paper. Stop at the first rung you cannot honestly claim — and labour there.`,
+He spoke to those who already believed. Belief had begun. Continuance was not therefore optional. Disciples indeed are not those who have used the vocabulary. They are those who remain in His word.
+
+I. Continuance is the premiere convention used
+
+His word, in this book’s argument, is not a later impression that authenticates itself. It is the word He treated as written and unbreakable. The premiere convention for hearing from God and for spiritual growth is the graphē. Continuance in His word is that convention inhabited — not visited, not quoted, not owned as a copy, but remained in.
+
+John 8:31 will not let a man treat the writing as a gate he has already passed. If ye continue. The condition stands after believing has begun. A people can believe and still refuse continuance. They can hold the book and still be dull of hearing. They can name the oracles and still need to be taught again. Continuance is use over time under the same court.
+
+2 Timothy 2:15 remains the labour of that remaining. Study. Shew. Approved unto God. Rightly dividing. Hebrews 5:14 remains the mark of that remaining. By reason of use have their senses exercised. Continuance without use is only remaining near the page. Continuance with use is remaining in His word.
+
+II. Disciples indeed
+
+Indeed is the word that refuses a likeness. There is a discipleship that uses His name and will not sit under His word. Ersatz analogical, nonliteral religiousisms live there. They keep the vocabulary of following and refuse the writing as written. True Christ-ian experience pillows in the unleavened sincerity and truth of the graphē. A following that will not pillow there is not disciples indeed.
+
+The Lord did not say, If ye continue in a house. He did not say, If ye continue in a feeling. He said, If ye continue in my word. A house may serve that continuance. A teacher may serve it. This volume may serve it. None of them is the word. If continuance is relocated to a voice, the disciple is indeed a dependent, not a workman.
+
+III. Continuance and the two marks
+
+Dull of hearing is continuance refused in the ear. Unskilled in the Word is continuance refused in the labour. The two marks of babes are not cancelled by an early believing. John 8:31 was spoken to believers. Hebrews 5:11-13 was written to a people who had had time. The same writing requires remaining and names unreadiness when remaining has not produced skill.
+
+A house can call interruption covering. It can interrupt the word with a tradition, an office, an hour, and call the interruption loyalty. That is not continuance. That is another court wearing the name of remaining. The scripture cannot be broken to make that covering holy.
+
+Continuance is also how teachers are made when the time has required them. A man who will not remain in the word cannot teach the first principles from the writing. He can only repeat a house line. Hebrews said they ought to have been teachers. John 8:31 is the remaining that would have made that ought possible.
+
+IV. What continuance makes possible
+
+Chapter 32 will open the next sentences: ye shall know the truth, and the truth shall make you free. Those futures sit on this condition. Knowledge — perception, learning, and reasoning — is not promised to the man who will not remain. Freedom is not promised to the motto. The cluster is one argument. This chapter holds the first sentence so the later sentences cannot be stolen.
+
+Persons and organizations are under the same if. A man can begin and not continue. A house can begin and turn. Tergiversation is continuance broken. Aridity is continuance emptied of yield. Damnable accepted heresies called doctrines are what a people can eat when they have left His word and kept His name.
+
+V. What this chapter has established
+
+Disciples indeed are those who continue in His word — the graphē inhabited, not visited. Belief that has begun has not finished the condition. Continuance is the premiere convention used over time. Dull hearing and unskill are that continuance refused. Chapter 32 will open the cluster’s next claim: ye shall know the truth, and the truth shall make you free — and will not leave 8:33-36 on the table.`,
   },
   {
     id: "ch-ost-32",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 32,
-    title: "The Word Drill Method",
-    body: `Word exercise and Word drill are named with knowledge — perception, learning, and reasoning — and with Hebrews 5:14’s “use.” What follows is a labour method under that writing. It is not Holy Writ. It is not a printed checklist from the oracles. It is how a student may put a verse through the work this book has been describing.
+    title: "Truth Makes Free",
+    body: `Ye shall know the truth, and the truth shall make you free.
 
-1. Read
-2. Observe
-3. Identify
-4. Define
-5. Contextualize
-6. Compare
-7. Connect
-8. Reason
-9. Test
-10. Conclude
-11. Articulate
-12. Apply
-13. Repeat
-14. Demonstrate competency
+John 8:32 is not a motto for a banner. It is the second sentence of a cluster that begins with continuance and ends with the Son making free indeed. Take 8:32 alone, and freedom becomes a slogan. Hold 8:31-36, and freedom is the fruit of remaining in His word, knowing the truth, and being made free from the bondage the room denied.
 
-Mastery here means demonstrated competency in the material — not perfection of the human being. Do not treat these fourteen steps as Scripture. Treat them as labour that serves Scripture.
+John 8:31 — “Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed;”
 
-Run the method on 2 Timothy 2:15 and on Hebrews 5:12. Write both drills. Affirm: quotation is not knowledge; this book is not the convention; Holy Writ is.`,
+John 8:32 — “And ye shall know the truth, and the truth shall make you free.”
+
+John 8:33 — “They answered him, We be Abraham’s seed, and were never in bondage to any man: how sayest thou, Ye shall be made free?”
+
+John 8:34 — “Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin.”
+
+John 8:35 — “And the servant abideth not in the house for ever: but the Son abideth ever.”
+
+John 8:36 — “If the Son therefore shall make you free, ye shall be free indeed.”
+
+I. Knowing the truth is not a slogan
+
+Ye shall know. Knowledge, as this book has defined it, is a mental result of perception, learning, and reasoning. It is not a pile of quotations. It is not a feeling of being sure. Continuance in His word is how that knowing becomes possible. The scholarly impetus, spoudazō, and use are not extras beside John 8:32. They are how a man knows the truth the verse names.
+
+The room answered from pedigree. We be Abraham’s seed. We were never in bondage. They had a history. They did not have the hearing. Dull of hearing can sit inside a lineage. Apeiros can sit inside a claim of never having been bound. The Lord did not argue their ancestry. He named the bondage they would not see: whosoever committeth sin is the servant of sin.
+
+II. Freedom from what
+
+The freedom 8:32 names is not first a political deliverance, and it is not a mood of being unburdened. The cluster interprets the clause. Servant of sin. The servant abideth not in the house for ever. The Son abideth ever. If the Son shall make you free, ye shall be free indeed. Free indeed is the Lord’s word against a likeness of freedom — against a room that says it was never bound.
+
+Ersatz analogical, nonliteral religiousisms will take “truth makes free” and bless a likeness: freedom from restraint, freedom from the page, freedom from the first principles, freedom from labour. That is not the cluster. Continuance in His word is not bondage. It is the path out of serving sin. A people who call the writing bondage have already answered with 8:33.
+
+III. The Son, the word, and the house
+
+The Son makes free. The word is His. Continuance is in that word. The servant does not abide in the house for ever. A man can be in a house — even an age-old house ostensibly Christianized — and still be a servant of sin. Membership is not free indeed. The Son abides. The writing that cannot be broken remains the court. Freedom that requires the writing to move is not the freedom He named.
+
+Truth, in this argument, is not a private possession. It is what is known by remaining in His word — Holy Writ, the one source, the premiere convention. The truth shall make you free. The future sits on the condition. A motto without continuance is a promise stolen from a sentence the reader has left.
+
+IV. Why this closes the positive chain
+
+The opening movement ran from the graphē to hearing and growth, to first principles and maturity, to labour, knowledge, use, and then this: truth makes free. The chain does not end in information. It ends in a man no longer the servant of sin, because the Son has made him free indeed, and because he has continued in the word by which that truth is known.
+
+A house can print John 8:32 and refuse 8:31. It can print 8:32 and refuse 8:34. Then freedom is a feeling, and sin is unnamed. That handling is already wrong division. It is a path back to heresies called doctrines. Hold the cluster.
+
+Free indeed is the Lord’s word against a likeness, as disciples indeed was His word against a likeness. The two “indeed” sentences keep the cluster honest. A people can claim they were never bound and still serve sin. A people can claim they already know the truth and still refuse continuance. The writing will not grant either claim.
+
+V. What this chapter has established
+
+Truth makes free inside John 8:31-36: continue, disciples indeed, know, free, servant of sin, the Son, free indeed. Knowing the truth is not a slogan. Pedigree is not freedom. The Son makes free indeed. Chapter 33 will open the growth sequence the writing already numbered: first principles, then maturity — perfection.`,
   },
+  {
+    id: "ch-ost-33",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 33,
+    title: "From First Principles to Maturity",
+    body: `First principles, then maturity.
+
+The opening named two movements, not one slogan: from first principles to maturity — perfection. Hebrews 6:1 supplies the verse. Continuance in His word is not an endless relay of milk, and it is not a skip of the foundation. It is the foundation laid, and then going on.
+
+Hebrews 6:1 — “Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,”
+
+Hebrews 6:2 will finish the naming: the doctrine of baptisms, laying on of hands, resurrection of the dead, and eternal judgment. Six. This chapter will not write those six as six books. Part IX will take them as a bounded test of the method. Here the sequence itself is the doctrine: foundation, then perfection.
+
+I. Two movements, not one
+
+First principles are the cornerstone content of the oracles of God. Chapter 11 already named them. They are not a lesser gospel. They are not childish slogans to be despised. They are the foundation. Milk at the beginning is mercy. Leaving them is not abandoning them. Leaving them is refusing to remain at the beginning after the beginning has been laid.
+
+Maturity — perfection — is going on. Full age, in Hebrews 5:14, is use. Strong meat belongs to those who by reason of use have their senses exercised. Going on is not collecting a second scripture. It is the same graphē taken by those who can bear it, because the foundation has been known — perceived, learned, reasoned — and used.
+
+A people can collapse the two movements into “just grow.” Then there is no cornerstone and no going on, only motion. Motion is not maturity. A house can grow in numbers and remain a nēpios. Growth under the premiere convention is this sequence.
+
+II. Not skip, not endless relay
+
+Skip is one refusal. A people leave the six unnamed, or named only as headings, and chase meat they cannot digest. They call the skip depth. Hebrews will not grant it. Not laying again the foundation assumes the foundation was laid. A skip lays nothing and claims to have left.
+
+Endless relay is the other refusal. A people lay the foundation again and again and call the repetition faithfulness. Again, in Hebrews 5:12, was indictment: they had need that one teach them again. Teaching the first principles again after they were not kept is mercy to a babe. Teaching them again as a way of never going on is recession wearing care. The writer says, let us go on.
+
+John 8:31 still governs both refusals. Continuance in His word is not continuance in milk after time, and it is not continuance past a foundation that was never laid. Disciples indeed remain in the word that names both movements.
+
+The truth that makes free is not a third movement that skips the first two. A man is not freed by despising repentance from dead works, or faith toward God, or the rest. He is freed as the Son makes him free indeed, and as he continues in the word that lays those stones and then goes on. Motto-freedom that skips the foundation is 8:32 stolen from 8:31 and from Hebrews 6:1.
+
+III. Maturity includes knowing
+
+Perfection here is not a boast that the man has finished becoming holy. It is the writer’s word for going on from the beginning — maturity. Maturity includes knowing, not only feeling. The two marks of babes were dull hearing and unskill in the Word. The reverse is hearing and skill: reasonability, spoudazō, knowledge, use, discernment. A man can be sincere and still not mature. Sincerity is not the second movement.
+
+Persons and organizations are under the same sequence. A house that will not lay the six remains a babe-house. A house that will not go on remains a milk-house. Age does not complete the sequence. Print does not. The writing does, when it is continued in.
+
+IV. The six are named so the sequence has content
+
+Repentance from dead works. Faith toward God. The doctrine of baptisms. Laying on of hands. Resurrection of the dead. Eternal judgment. Hebrews has already counted. This volume does not add a seventh stone called the doctrine of the graphē. The writing is the court in which those six are known. The next part will test whether that court is still open when each is named.
+
+Hebrews 6:3 stands in the banner’s range — “And this will we do, if God permit.” Permission to go on is not another foundation stone. It is the writer’s refusal to treat going on as a human boast.
+
+V. What this chapter has established
+
+Growth under the graphē is two movements: first principles, then maturity — perfection. Leaving the foundation is not abandoning it. Skipping it is not going on. Relaying it forever is not faithfulness. Maturity includes knowing. Chapter 34 will name the aim that labour is for: productive living, being in control, and godliness in all capacities — not a prosperity motto.`,
+  },
+  {
+    id: "ch-ost-34",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 34,
+    title: "Productive Living, Control and Godliness",
+    body: `What is the labour for?
+
+The opening set the pace for productive living, being in control, and experiencing godliness in all capacities. Those three aims follow knowledge, Word exercise, and Word drill. They precede the sentence Truth makes free. They are not a prosperity motto. They are not a technique for managing a room. They are the fruit of continuance in His word — skill in the word of righteousness used until life is ordered under the writing.
+
+I. Productive living
+
+Productive, here, is not first a harvest of goods. It is a life that yields what the oracles planted. Aridity was dryness where the oracles should yield. Productive living is the opposite climate: the writing known, reasoned, used, and therefore yielding. A man can be busy and arid. A house can be full and arid. Yield is not motion. Yield is the oracles doing what they were given to do in a person and in a people.
+
+John 8:31-32 still locates the yield. Continue in my word. Know the truth. The truth shall make you free. A productive life that will not continue in His word is another likeness. Ersatz analogical, nonliteral religiousisms will call a crowded calendar fruit. The writing will ask whether the senses have been exercised to discern good and evil.
+
+II. Be in control
+
+Control, here, is not dominion over other men as a slogan, and it is not a promise of ease. John 8:34 named the bondage: whosoever committeth sin is the servant of sin. The servant is not in control. The Son makes free indeed. Being in control is the man no longer mastered by that servitude — a life aligned under the writing, able to judge, able to refuse a heresy called a doctrine, able to sit down when the page corrects him.
+
+A people who are not in control will be controlled by the last court that trained the ear: a tradition, an hour, an appetite, a house voice. Absence of reasonability is already loss of control. Apeiros is already loss of control in the word of righteousness. The scholarly impetus was alignment. Alignment is how control is recovered: knowing the scriptures and ordering life under them.
+
+Persons and organizations can lose this control together. A babe-house cannot keep its members free indeed. It can only keep them near. Continuance in His word is how a man, and a house, come back under one court.
+
+III. Godliness in all capacities
+
+Godliness is not a department. All capacities: the same writing governs the man in private and in public, in teaching and in hearing, in work and in rest. The imprimatur already named persons, organizations, governments, and nations. Godliness in all capacities is that scope inhabited, not as a political program, but as a refusal of exemption. No capacity is a second court.
+
+This is not a promise that the labourer will be rich, famous, or at ease. Hardness belongs to the workman. The word of God is not bound when the workman is. Godliness can sit in bonds. Prosperity language that treats these three aims as a harvest of goods has already left unleavened sincerity and truth. The aim is a life under the graphē — productive of the oracles’ yield, in control because free indeed, godly in every capacity the writing reaches.
+
+These three aims must not be sold as a third babe mark, and must not be sold as a seventh first principle. They are fruit. Dull hearing and unskill remain the two marks. The six remain six. Fruit does not rewrite the diagnosis, and it does not rewrite the cornerstone.
+
+IV. Pace, not a second gospel
+
+This volume sets the pace. Pace is not a second gospel. It is how first principles are laid and how a people go on. The six remain six. The court remains the writing. The aims do not add a seventh stone. They name what skill is for, so that knowledge does not end in a notebook and freedom does not end in a motto.
+
+Part IX will now take the six first principles as a test of everything this book has argued. Each chapter will define, cite, reason, and distinguish — and then point to the companion where that doctrine is laboured. The test is not whether this volume can replace those books. The test is whether the graphē is still the court when doctrine is named.
+
+V. What this chapter has established
+
+Productive living, being in control, and godliness in all capacities are the aim of Word skill — yield where the oracles planted, freedom from serving sin, the writing in every capacity. They are not a prosperity motto. They are not room technique. Truth makes free inside continuance. First principles, then maturity, remain the sequence.
+
+Part VIII has opened the fruit: continue in His word; know the truth and be made free indeed; go on from the foundation; live under the writing. Part IX will test the method on the six stones Hebrews named.`,
+  },
+
 ];

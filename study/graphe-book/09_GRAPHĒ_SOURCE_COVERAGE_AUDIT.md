@@ -12,7 +12,7 @@ Map every Movement A element to architecture. Status: **mapped, not yet written*
 | G10 | Reasonability; unskill; aridity; tergiversation; heresies called doctrines | 7, 14 | Ch.7 drafted (severity kept); Ch.14 drafted (reasonability as sound judgment; chain named, not softened) |
 | G06 | Straightaway issue on cornerstone; oracles | 11 | Ch.11 drafted (oracles bound in writing; volume issues on cornerstone) |
 | G07 | Premiere convention; hearing; growth | 12, 13 | Ch.12–13 drafted (convention = graphē, not book/course/teacher) |
-| G08 | First principles → maturity | 33 | Named in Ch.11–12; full treatment still ahead |
+| G08 | First principles → maturity | 33 | Ch.33 drafted (two movements; not skip, not endless relay) |
 | G09 | Hebrews 5:12 full | 11, 14, 17 | Ch.11 drafted; used as knowledge illustration in Ch.21; meat/full age opened in Ch.23 |
 | G11 | Apeiros | 15 | Ch.15 drafted (inexperienced / ignorant / unskillful; not new-to-building or room skill) |
 | G12 | Scholarly impetus; know; media | 18, 20 | Ch.18–20 drafted (impetus ≠ degree; copy ≠ knowing; align) |
@@ -22,8 +22,8 @@ Map every Movement A element to architecture. Status: **mapped, not yet written*
 | G16 | Heb 5:13 both terms | 15, 16 | Ch.15–16 drafted (full quote with apeiros and nēpios) |
 | G17 | Two marks only; Word basis for salvation | 17 | Ch.17 drafted (dull of hearing; unskilled in the Word; no third mark) |
 | G18 | Knowledge; perception; learning; reasoning; Word exercise/drill | 21, 22 | Ch.21–22 drafted; Part VII uses the same mental result as handling, not a second epistemology |
-| G19 | Productive living; control; godliness | 34 | MAP |
-| G20 | John 8:32 | 31, 32 | MAP |
+| G19 | Productive living; control; godliness | 34 | Ch.34 drafted (not prosperity; fruit, not a third mark or seventh stone) |
+| G20 | John 8:32 | 31, 32 | Ch.31–32 drafted (8:31–36 held; 8:32 not a detached motto) |
 | B00 | Banner 5:11–6:3; 6:3 undeveloped | 11 note | Ch.11 names the range; 6:3 not developed as a seventh stone |
 | B1–B6 | Six principles | 35–40 | MAP (bounded) |
 | B7 | Back-list | not chapters | MAP (exclude) |
@@ -50,4 +50,4 @@ Map every Movement A element to architecture. Status: **mapped, not yet written*
 
 ## Next phase
 
-Chapters 1–30 drafted (Parts I–VII). Remaining old 32-chapter slots (31–32) are not finished prose — rebuild from briefs when Part VIII is requested. Do not polish those leftovers as if they were the book. The array will grow as Parts VIII–X are written.
+Chapters 1–34 drafted (Parts I–VIII). Next: Part IX (35–40) as bounded first-principle test cases, then Part X close (41–43).
