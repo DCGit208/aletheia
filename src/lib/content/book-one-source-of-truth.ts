@@ -1657,5 +1657,202 @@ Productive living, being in control, and godliness in all capacities are the aim
 
 Part VIII has opened the fruit: continue in His word; know the truth and be made free indeed; go on from the foundation; live under the writing. Part IX will test the method on the six stones Hebrews named.`,
   },
+  {
+    id: "ch-ost-35",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 35,
+    title: "Repentance from Dead Works",
+    body: `What does the writing name first among the first principles — and will the graphē remain the court when that name is opened?
+
+Part IX is a test, not a second school. Hebrews 6:1-2 names six stones. Foundation School labours them as its six courses. Independent books labour them as companions. This chapter, and the five after it, will define, cite, reason, and distinguish — then stop. The test is whether the one source is still the court when doctrine is named.
+
+Hebrews 6:1 — “Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,”
+
+I. What the writing says
+
+Repentance from dead works is the first named foundation. Metanoia is a real change of mind and attitude toward sin and its cause, not merely its consequence. Metamellomai is regret of consequences — Judas in Matthew 27:3. Those two must not be merged. Scripture uses seven words for repent. This book will not invent an eighth to make a count come out. The load-bearing distinction is already in the two Greek words: cause, or consequence only.
+
+Dead works are the works of the old man. Nekros ergon: the old nature — trespasses and sins (Ephesians 2:1); the wages thereof death (Romans 6:23). Two old things pass away when a man is in Christ (2 Corinthians 5:17): the spirit, nature, and power of sin — the old man, the spirit and nature of the devil working in men of disobedience (John 8:44; Ephesians 2:2; 2 Corinthians 4:4; 1 John 3:8-9; 5:18) — and outward sin (Galatians 5:19-21). Merge those two, and repentance becomes either a private mood or a list of behaviours. Hold them, and the writing has named what must die.
+
+The only way out is Christ Jesus (Hebrews 9:14; Ephesians 2:1-5). “Therefore if any man be in Christ, he is a new creature” (2 Corinthians 5:17). “Neither is there salvation in any other” (Acts 4:12). Receive Him: John 1:12; Romans 10:8-9. Salvation from sin is the salvation needed, sin being the cause of death and depravity. Consequence — Hell as Luke 16:19-31 and the lake as Revelation 20:10-15 — is real. It is not the whole of repentance. A safer Bible that keeps only the consequence has already left metanoia.
+
+II. What another court would do
+
+An experience-court will call tears repentance and never open the cause. A tradition-court will call a rite repentance and never require the new creature. An interpreter-court will soften “dead works” until the old man can remain and still be called a believer. Each of those is apeiros in the word of righteousness wearing a Christian name. Damnable accepted heresies called doctrines begin here: when “repentance” is installed as a word the graphē will not bear.
+
+John 10:35 still governs the stone. The scripture cannot be broken to make repentance easier. 2 Timothy 2:15 still governs the handling. Rightly dividing keeps metanoia and metamellomai apart, and keeps the two old things apart.
+
+III. Where this chapter stops
+
+Foundation School Course 1 — Repentance from Dead Works — labours this stone as school doctrine. The independent book Repentance from Dead Works, with The Power of Salvation as directed reading, labours it as a companion. This chapter is neither. It has asked whether the writing still judges the first name in the foundation. It does.
+
+Chapter 36 will take the second name in the same verse: faith toward God.`,
+  },
+  {
+    id: "ch-ost-36",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 36,
+    title: "Faith Toward God",
+    body: `What is faith toward God — credence that names sons, or a mood that names itself?
+
+Hebrews 6:1 names faith toward God as the second stone of the foundation, in the same breath as repentance from dead works. The stones are not interchangeable. A man is not in the foundation if he has a feeling called faith and no credence toward God as the writing defines it.
+
+Hebrews 6:1 — “Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,”
+
+I. What the writing says
+
+Pistis is credence. That credence defines the state of children of God: acceptance of true nature, and adoption as sons (Galatians 4:5-7; Romans 8:15; Ephesians 1:5). Faith toward God is not first a leap into the dark. It is credence toward the God who made man in His image (Genesis 1:26-27), from whose glory man came short (Romans 3:23-24), and who justifies freely in Christ (2 Corinthians 5:21).
+
+Hold the cluster. Genesis 1:26-27 says what man is from creation. Psalm 82:6 remains in its place — the Lord already used it in John 10 without breaking it; this chapter will not import a later school use to finish Course 2 here. 2 Peter 1:4 names partakers of the divine nature. John 17:20-23 names oneness the Lord prayed. Those texts sit under the same court. They are not a second Bible called “identity.” They are the writing naming what faith toward God receives.
+
+A safer Bible will keep “faith” as intensity and drop image, adoption, and free justification. Then faith becomes a room skill: how hard a man can believe. Hebrews named faith toward God as a foundation stone of the oracles, not as a temperature.
+
+II. What another court would do
+
+An experience-court will authenticate faith by the pulse. A confession-court will authenticate it by a subscribed sentence the member may not test. A prophet-court will add a present word and call the addition faith. Each refuses continuance in His word as the way the truth is known. Dull hearing can then be called faith. Apeiros can then be called remaining simple.
+
+John 8:31-32 still governs this stone. If ye continue in my word, then are ye my disciples indeed; and ye shall know the truth. Faith toward God is not a licence to leave the page. It is credence that sits under the page. The Son makes free indeed. Pedigree — we be Abraham’s seed — is not that credence. Chapter 32 already forbade that answer.
+
+III. Where this chapter stops
+
+This chapter will not write The Doctrine of Man, or Why Men Die, or the face of Christ as a second book. Those labours belong elsewhere. Foundation School Course 2 — Faith Toward God — labours this stone as school doctrine. The independent book Doctrine of Faith labours it as a companion. This chapter is neither. It has asked whether pistis is still defined by the writing when the house says “faith.” It is.
+
+Chapter 37 will take the third name: the doctrine of baptisms — plural.`,
+  },
+  {
+    id: "ch-ost-37",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 37,
+    title: "The Doctrine of Baptisms",
+    body: `Why does Hebrews say baptisms — and which of them saves the soul?
+
+Hebrews 6:2 — “Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.”
+
+Baptisms is plural. A safer Bible will make it singular and then pour the whole stone into a tank. The writing will not grant that merge. The doctrine is a doctrine of baptisms. Three are essential for the believer. Only one of those three saves the soul.
+
+I. What the writing says
+
+Baptismos is ablution — washing. The premiere washing at new birth is by the Word (Ephesians 5:26; 1 Peter 1:23; John 3:5). That already refuses a court that cannot open a page.
+
+Scripture names more baptisms than the three. Seven can be listed: John’s in water; Christ’s in water; suffering (Luke 12:50); the cloud and the sea (1 Corinthians 10:2); Christian baptism in water; baptism into Christ and into His body; baptism in the Holy Spirit. This chapter will not invent further unnamed baptisms, and it will not write four extra stones. The foundation names the doctrine. The believer’s essential three, in doctrinal order, are these.
+
+First: baptism into Christ and into His body — the one baptism that saves the soul (Ephesians 4:5; Galatians 3:27; Romans 6:3-7; Colossians 2:12; 1 Corinthians 12:13). The Holy Spirit is the agent (1 Corinthians 12:13). This is not the tank. A man is not saved by water and then added to Christ as a second thought. He is baptized into Christ.
+
+Second: water baptizō after one is saved — a figure (1 Peter 3:21). It does not save. Paul was not sent to baptize but to preach the gospel (1 Corinthians 1:17-18). Children of God by faith (Galatians 3:26) are not waiting on a minister to finish their sonship. The minister baptizes into water (Matthew 28:19). The water is commanded. It is not the one baptism of Ephesians 4:5.
+
+Third: baptism in the Holy Spirit — Christ the agent (Matthew 3:11; John 1:31-33). Witness of sonship (Galatians 4:6-7); not by measure as the writing is used here (John 3:34; 7:38-39). This enduement can be before water or after it. It is not a licence to despise the Word-washing, and it is not a substitute for being in Christ.
+
+II. What another court would do
+
+A tradition-court will make water the saving act and call the tank the oracles. An experience-court will make Spirit-baptism the proof of faith and never test the claim by the page. An interpreter-court will flatten the plural into one rite and then fight the house that kept another rite. Wrong division here is how heresies called doctrines are installed while verses are still quoted. Hold the cluster. Keep the agents. Do not merge what the text keeps apart.
+
+III. Where this chapter stops
+
+Fear and dread as the writing charges sons (Genesis 9:2; Deuteronomy 11:25) belong to the Spirit’s witness, not to swagger, and will not be developed here. Foundation School Course 3 — The Doctrine of Baptisms — labours this stone as school doctrine. The independent book Doctrine of Baptism labours it as a companion. This chapter is neither. It has asked whether “baptism” is still allowed to remain plural under the graphē. It is.
+
+Chapter 38 will take laying on of hands — resultant, not a substitute for the first three.`,
+  },
+  {
+    id: "ch-ost-38",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 38,
+    title: "Laying on of Hands",
+    body: `Is laying on of hands a foundation stone that can replace the first three — or a resultant act the writing records?
+
+Hebrews 6:2 names laying on of hands after baptisms. The order is already a distinction. Hands do not become the way into Christ. They do not become repentance. They do not become faith. The writing records the act across Scripture, and then binds its viability to the more grounding fundaments.
+
+I. What the writing says
+
+Nine occasions are named.
+
+1. Blessing men — Genesis 48:14.
+2. Making offerings — Numbers 8:10.
+3. Ordaining — Numbers 27:18, 23.
+4. Imparting the Spirit — Deuteronomy 34:9.
+5. Blessing children — Matthew 19:15.
+6. Healing the sick — Mark 6:2, 5; 16:18; Acts 5:12.
+7. Performing miracles — Acts 19:11.
+8. Imparting gifts — 1 Timothy 4:14; 2 Timothy 1:6; Hebrews 6:2.
+9. Imparting Spirit baptism — Acts 8:17-24; 9:17; 19:6.
+
+Those accounts attest a record. They do not attest a second gospel. The act plays a resultant role, not a substantive one, until the more grounding elementary things are actualized. Resultant means it follows. It does not found. A people who have not laid repentance, faith, and the baptisms the writing names, and then treat hands as the substance of Christianity, have already inverted the foundation.
+
+John 10:35 still governs a healing, an ordination, and a gift. The scripture cannot be broken to make hands a court. 2 Timothy 2:15 still governs the handling. Rightly dividing will not merge Hebrews 6:2’s fourth stone with the first three, and will not empty the fourth stone as if the writing had not named it.
+
+II. What another court would do
+
+A prophet-court will make hands the premiere convention: God spoke when hands were laid, and the page must wait. An office-court will make ordination the imprimatur. An experience-court will make a sensation in the hands the meaning of the verse. Each of those can quote Mark 16 and still be apeiros in the word of righteousness. The oracles have a beginning. Hands are in the beginning as a named stone. They are not the court that judges the beginning.
+
+Acts 8:17-24 already warns the handling. Hands may be laid, and a man may still be in the gall of bitterness. The act did not become the court of his heart. Simon saw power and offered money. The writing judged him. A house that will not let that cluster sit with Hebrews 6:2 will treat hands as substance and then sell what cannot be bought. That is a heresy called a doctrine while the verse is still printed.
+
+III. Where this chapter stops
+
+This chapter will not write nine monographs. It has named the nine and kept the word resultant. Foundation School Course 4 — Laying on of Hands — labours this stone as school doctrine. The independent book Doctrine of Laying on of Hands labours it as a companion. This chapter is neither.
+
+Chapter 39 will take resurrection of the dead — spiritual and material, and the material of the body.`,
+  },
+  {
+    id: "ch-ost-39",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 39,
+    title: "Resurrection of the Dead",
+    body: `What is raised — and when — if the writing is still the court?
+
+Hebrews 6:2 names resurrection of the dead as the fifth stone. A safer Bible will keep a mood of “new life” and drop the body, or keep the body and drop the new birth, or move the two bodily issues out of Revelation 20 to spare a scheme. The graphē will not grant those edits.
+
+I. What the writing says
+
+There are two main kinds.
+
+Spiritual resurrection is the new birth: quickened from being dead in trespasses and sins (Ephesians 2:1-6); renewed in the likeness of God (Ephesians 4:21-24; Colossians 3:10; 1 John 3:9). It takes place in this life. When a man leaves this life, the possibility of that new birth has passed if he is not yet born again (Hebrews 9:27; Revelation 22:11). That claim sits on those two texts. It does not sit on a verse pressed into the cluster that the writing does not join here.
+
+Material resurrection is the resurrection of the body, not of the spirit. John 5:28-29 — “Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice, And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.”
+
+Two bodily issues sit a thousand years apart. The first resurrection, and the reign with Christ a thousand years, are in Revelation 20:4-6. The rest of the dead, the great white throne, and the lake of fire are in Revelation 20:11-15. Daniel 12 and John 5:28-29 sit with that. Do not teach Revelation chapter 10 as that passage. Chapter 10 is not the resurrection chapter. The print that would send a reader there is a broken handling. The scripture cannot be broken to save a citation.
+
+Christ is the firstfruits of them that slept (1 Corinthians 15). Temporary raisings (Matthew 9:25) are not the same act as being raised to immortality. Hope in this life only is not the apostolic hope (1 Corinthians 15:19). Spiritual resurrection does not cancel the body. Material resurrection does not cancel the new birth. Rightly dividing keeps both kinds, and keeps the two bodily issues a thousand years apart.
+
+II. What another court would do
+
+A tradition-court will spiritualize the body until John 5:28-29 has no graves. An interpreter-court will collapse the thousand years to spare a system. An experience-court will call a present feeling “resurrection” and never open Revelation 20. Each is a safer Bible. Companies in the first resurrection, and the chronology that distinguishes a catching up from the second advent, belong to the labour of the stone — not to a second epistemology invented here. They must still sit under the same court when they are taught.
+
+III. Where this chapter stops
+
+This chapter will not write five companies, a tribulation clock, or the Millennium as a second book. Foundation School Course 5 — Resurrection of the Dead — labours this stone as school doctrine. The independent book Doctrine of Resurrection of the Dead labours it as a companion; Millennium is further reading, not a seventh stone. This chapter is neither. It has asked whether resurrection is still allowed to mean new birth in this life and a body from the graves, on the page that actually says so. It is.
+
+Chapter 40 will take the last named stone: eternal judgment.`,
+  },
+  {
+    id: "ch-ost-40",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 40,
+    title: "Eternal Judgment",
+    body: `What does eternal name — and what must not be merged with the grave?
+
+Hebrews 6:2 names eternal judgment as the sixth stone. The list ends there. This book will not add a seventh. Eternal, in the writing that founds the stone, is not a mood of seriousness. It is the duration the texts attach to punishment, and the distinction the texts attach to deaths and to prisons.
+
+I. What the writing says
+
+Eternal punishment is written (Matthew 25:46; Revelation 14:9-11; 20:11-15; Isaiah 66:22-24). A safer Bible will empty eternal until judgment becomes a season, or empty judgment until love forbids the lake. John 10:35 will not grant that break. The scripture cannot be broken to make the sixth stone kind.
+
+Dead, as this teaching uses the word from the foundation, is separation from God’s purpose (Genesis 1:26-28). Three deaths are distinguished: physical, spiritual, and the second death. Merge them, and the new birth has no meaning, or the lake has no meaning, or the grave has swallowed both. Hold them. Spiritual death is not the second death. The grave is not the lake.
+
+The soul and spirit are not treated as mortal in the way the body dies. Resurrection, as Chapter 39 kept it, is of bodies. Judgment therefore is not the erasure of a man into soil. The book of life is written. Names may be blotted (Exodus 32:32-33; Revelation 3:5; 22:18-19). The second death is the lake of fire (Revelation 20:14; 21:8). Those sentences must stay attached to their clusters.
+
+Five prisons are named, and none of them is the grave: Tartarus; Paradise (now empty of the righteous); Hell — sheol, hades; the abyss — Abaddon; the lake of fire — gehenna. A tradition that makes the grave the whole of the unseen has already merged what the writing keeps apart. A piety that empties all five to spare a feeling has already left unleavened sincerity and truth.
+
+II. What another court would do
+
+An interpreter-court will call eternal “age-long” until Matthew 25:46 no longer judges. A culture-court will call the lake unthinkable and then recruit a verse to bless the refusal. A house may print Hebrews 6:2 and never open Revelation 20:11-15. Dull hearing among Bible-holders sits here as easily as in Chapter 13. Unskill in the Word which is the basis for salvation is not a small defect on this stone. The Word is the basis. Judgment is named in the foundation because the oracles do not end in a private peace.
+
+III. Where this chapter stops — and what the test has done
+
+Foundation School Course 6 — Eternal Judgment — labours this stone as school doctrine. The independent book Doctrine of Eternal Judgment labours it as a companion. This chapter is neither. It has asked whether eternal still means what the writing attached to punishment, death, and the prisons that are not the grave. It does.
+
+Part IX has not become six monographs. It has taken each name Hebrews gave, held a load-bearing distinction, and pointed to the course and the companion. The graphē remained the court. The six remained six. The school remains the school. The companions remain books. This volume remains a straight issue on the cornerstone — not the cornerstone, and not a seventh stone.
+
+Part X will close: what remains when every other authority is tested; the path from hearing to maturity; and the thesis said once more. One source of truth: the graphē — Holy Writ.`,
+  },
+
 
 ];

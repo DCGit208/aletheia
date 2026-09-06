@@ -25,7 +25,7 @@ Map every Movement A element to architecture. Status: **mapped, not yet written*
 | G19 | Productive living; control; godliness | 34 | Ch.34 drafted (not prosperity; fruit, not a third mark or seventh stone) |
 | G20 | John 8:32 | 31, 32 | Ch.31–32 drafted (8:31–36 held; 8:32 not a detached motto) |
 | B00 | Banner 5:11–6:3; 6:3 undeveloped | 11 note | Ch.11 names the range; 6:3 not developed as a seventh stone |
-| B1–B6 | Six principles | 35–40 | MAP (bounded) |
+| B1–B6 | Six principles | 35–40 | Ch.35–40 drafted as test cases (define, cite, distinguish, bridge; not companions) |
 | B7 | Back-list | not chapters | MAP (exclude) |
 
 ## Not in manuscript — allowed only as labeled development
@@ -50,4 +50,4 @@ Map every Movement A element to architecture. Status: **mapped, not yet written*
 
 ## Next phase
 
-Chapters 1–34 drafted (Parts I–VIII). Next: Part IX (35–40) as bounded first-principle test cases, then Part X close (41–43).
+Chapters 1–40 drafted (Parts I–IX). Next: Part X close (41–43) — final court; hearing to maturity; One Source of Truth.
