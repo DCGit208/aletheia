@@ -9,18 +9,18 @@ Map every Movement A element to architecture. Status: **mapped, not yet written*
 | G03 | Graphē / Holy Writ / Bible / Scripture | 1, 2 | Ch.1 drafted; thesis restated in Ch.8 |
 | G04 | Imprimatur; unchallenged authority | 2, 9 | Ch.2 drafted; court question in Ch.4–5; John 10:35 rule in Ch.9 |
 | G05 | Persons, orgs, governments, nations | 2, 4 | Ch.2 drafted; crisis opened in Ch.4; one-source scope in Ch.8 |
-| G10 | Reasonability; unskill; aridity; tergiversation; heresies called doctrines | 7, 14 | Ch.7 drafted (severity kept); recalled in Ch.8; Ch.14 still ahead |
+| G10 | Reasonability; unskill; aridity; tergiversation; heresies called doctrines | 7, 14 | Ch.7 drafted (severity kept); Ch.14 drafted (reasonability as sound judgment; chain named, not softened) |
 | G06 | Straightaway issue on cornerstone; oracles | 11 | Ch.11 drafted (oracles bound in writing; volume issues on cornerstone) |
 | G07 | Premiere convention; hearing; growth | 12, 13 | Ch.12–13 drafted (convention = graphē, not book/course/teacher) |
 | G08 | First principles → maturity | 33 | Named in Ch.11–12; full treatment still ahead |
 | G09 | Hebrews 5:12 full | 11, 14, 17 | Ch.11 drafted (full quote; load-bearing words opened) |
-| G11 | Apeiros | 15 | MAP |
+| G11 | Apeiros | 15 | Ch.15 drafted (inexperienced / ignorant / unskillful; not new-to-building or room skill) |
 | G12 | Scholarly impetus; know; media | 18, 20 | MAP |
 | G13 | Spoudazō; 2 Tim 2:15 | 18, 19 | MAP |
-| G14 | Persons or orgs; word of righteousness | 15, 16 | MAP |
-| G15 | Nēpios | 16 | MAP |
-| G16 | Heb 5:13 both terms | 15, 16 | MAP |
-| G17 | Two marks only; Word basis for salvation | 17 | MAP |
+| G14 | Persons or orgs; word of righteousness | 15, 16 | Ch.15–16 drafted (person or house; field = word of righteousness) |
+| G15 | Nēpios | 16 | Ch.16 drafted (diagnosis, not endearment) |
+| G16 | Heb 5:13 both terms | 15, 16 | Ch.15–16 drafted (full quote with apeiros and nēpios) |
+| G17 | Two marks only; Word basis for salvation | 17 | Ch.17 drafted (dull of hearing; unskilled in the Word; no third mark) |
 | G18 | Knowledge; perception; learning; reasoning; Word exercise/drill | 21, 22 | MAP |
 | G19 | Productive living; control; godliness | 34 | MAP |
 | G20 | John 8:32 | 31, 32 | MAP |
@@ -50,4 +50,4 @@ Map every Movement A element to architecture. Status: **mapped, not yet written*
 
 ## Next phase
 
-Chapters 1–13 drafted (Parts I–IV). Remaining old 32-chapter slots (14+) are not finished prose — rebuild from briefs when each part is requested. Do not polish those leftovers as if they were the book.
+Chapters 1–17 drafted (Parts I–V). Remaining old 32-chapter slots (18+) are not finished prose — rebuild from briefs when each part is requested. Do not polish those leftovers as if they were the book.

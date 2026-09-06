@@ -672,53 +672,208 @@ Part IV has opened what the one source is for: the oracles of God, bound in the 
     id: "ch-ost-14",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 14,
-    title: "Full Age and Exercised Senses",
-    body: `Hebrews 5:14 — “But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.”
+    title: "Reasonability: Sound Judgment",
+    body: `What is missing when heresies are accepted as doctrines?
 
-Full age is not a birthday. It is use. Senses are exercised by reason of use. Discernment is the fruit of that exercise — good and evil distinguished under the writing.
+Part IV named the oracles, the premiere convention, and the test of every claim that God has spoken. This part names what is missing when that convention is refused. Predominantly, the absence of reasonability — sound judgment — and the presence of unskillfulness produce aridity and tergiversation amongst persons, even age-old organizations ostensibly Christianized: ensued in damnable accepted heresies called doctrines.
 
-Unexercised senses cannot discern. A people may own the page and still lack the use that would make them of full age. Later chapters will open Word exercise. Here the verse already names it: by reason of use.
+That sentence is the diagnosis of this part. Chapter 7 already used it against antiquity. This chapter opens the first term: reasonability. What is missing is not a softer room. What is missing is sound judgment under the writing.
 
-Write the verse. Define use, exercise, senses, and discernment from the verse itself — not from a theory of adulthood.`,
+I. Reasonability is sound judgment
+
+Reasonability is not a polite temperament. It is not a gift for remaining calm in a dispute. It is sound judgment: the capacity to hold what is written and judge. The writing is its master. The mind sits under the page until the distinction the text makes can be held, taught, and used.
+
+Hebrews 5:13 — “For every one that useth milk is unskilful in the word of righteousness: for he is a babe.”
+
+The verse is already a judgment. Milk after time is named. Unskill is named. Babe is named. A people who will not let those words judge them have already refused reasonability. They may still be sincere. Sincerity is not sound judgment.
+
+Sound judgment opens the cluster. It keeps the terms. It will not merge what the text keeps apart. It will not call a likeness unleavened sincerity and truth. It will not call a heresy a doctrine because the house has accepted it.
+
+Hebrews 5:12 has already required that judgment. They ought to have been teachers. They had need that one teach them again the first principles of the oracles of God. A teacher who cannot judge by the oracles is not yet a teacher. He is a repeater of a house line. Reasonability is what makes the difference visible.
+
+II. Reason is not a rival court
+
+The error on one side is to make reason itself the court. Then the writing waits until a philosophy has finished with it. The mind becomes Holy Writ. That is not reasonability. That is another court wearing the name of judgment.
+
+John 10:35 still governs the mind: the scripture cannot be broken to make a reasoning come out clean. Reasonability is not a licence to improve the page. It is the labour of judging by the page. A man may be clever and still break the writing. Cleverness without the court is not sound judgment. It is skill in a different house.
+
+The graphē remains the one source. Reasonability does not add a second source called “reason.” It is the mind seated where Chapter 10 seated the interpreter: under the writing, not beside it, not above it.
+
+III. The piety that will not judge
+
+The error on the other side is to refuse judgment and call the refusal holiness. “We do not judge.” “We only love.” “We leave it to God.” A people can then accept what the writing will not bear and name the acceptance peace.
+
+That piety is already the absence of reasonability. The writer of Hebrews judged. He said they ought to have been teachers. He said they had become such as have need of milk. He said they were dull of hearing. He did not wait for a softer hour. Sound judgment is required for growth. A house that will not judge by the writing cannot go on from first principles. It can only protect what it has already accepted.
+
+Absence of reasonability is not humility. Humility sits down when the page corrects. Absence of reasonability will not let the page speak long enough to correct.
+
+IV. What follows when judgment is gone
+
+The chain is already named. Absence of reasonability and presence of unskillfulness produce aridity and tergiversation. Aridity is dryness where the oracles should yield. Tergiversation is turning from what was said. What ensues is damnable accepted heresies called doctrines. Damnable: not a taste dispute. Accepted: the house diet. Called doctrines: the name “doctrine” has been put on what the graphē will not bear.
+
+This chapter will not write the dryness and the turning in full. It will not let them drop. The point now is prior: those results do not fall from the sky. They follow when sound judgment is missing and unskill is present — in a person, and in an age-old organization ostensibly Christianized.
+
+If reasonability is present, a heresy can still be offered. It cannot be installed as doctrine without a fight the writing can win. If reasonability is absent, the fight never starts. The name “doctrine” is applied, and the house congratulates itself for remaining together.
+
+The authority question is already the maturity question. Where there is no sound judgment under the writing, skill in the Word becomes optional, and growth becomes loyalty. Part II opened the courts. This chapter names what those courts train out of a people: the capacity to judge. A court that will not be tested produces members who will not test. That is the absence of reasonability at scale.
+
+V. What this chapter has established
+
+Reasonability is sound judgment under the writing. It is not reason as a rival court, and it is not the piety that will not judge. When it is absent, and unskill is present, persons and houses go dry, turn, and accept damnable heresies under the name of doctrine. Sound judgment is required for growth. Chapter 15 will open the second term in the diagnosis: apeiros — unskilled, and unskilled in what.`,
   },
   {
     id: "ch-ost-15",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 15,
     title: "Apeiros",
-    body: `Hebrews 5:13 — “For every one that useth milk is unskilful in the word of righteousness: for he is a babe.”
+    body: `Unskilled in what?
 
-Apeiros: inexperienced, ignorant, unskilful. The diagnosis is not “new to the building.” It is inexperience in the word of righteousness.
+Chapter 14 named the absence of reasonability. This chapter names the presence of unskillfulness. The two are not the same defect. A man may judge and still be unskilled. A man may be practised in a room and still be unskilled. Hebrews locates the unskill.
 
-Apeiros is not cured by crowding a room. Access is not skill. Memory is not skill. Quotation is not skill. Soft copy and hard copy without labour still leave a man apeiros.
+Hebrews 5:13 — “For every one that useth milk is unskilful (Gr. apeiros) in the word of righteousness: for he is a babe: (Gr. nēpios)”
 
-Write the term. Name what it is not. Then answer: unskilled in what? The verse has already answered.`,
+Apeiros: inexperienced, that is, ignorant — unskillful. The term is not decoration in the margin. It is the writer’s word for the milk-user. He is unskilful in the word of righteousness. That is the field. That is the answer.
+
+I. Inexperienced, ignorant, unskillful
+
+Inexperienced does not mean new to a building. It means without experience in the word of righteousness. Ignorant does not mean without sincerity. It means without skill in that word. Unskillful does not mean without a title. It means the word has not been used until the senses can discern.
+
+Apeiros is a condition of the handling. The page may be owned. The vocabulary may be fluent. The meetings may be full. If the word of righteousness has not been experienced as the court, the man is still apeiros. Format will not cure him. Soft copy and hard copy without labour still leave him where the verse left him.
+
+II. Not new-to-the-building
+
+The easy mistake is to hear “unskilled” as “new.” Then time in the house becomes the cure. Years become skill. The writer of Hebrews will not grant that. They had had time. They ought to have been teachers. They had become such as have need of milk. Time without use produced apeiros, not maturity.
+
+A man can be old in a fellowship and inexperienced in the word of righteousness. A house can be age-old and still unskilled. Chapter 7 already bound organizations under that diagnosis. This chapter keeps the location of the unskill: not “new to us,” but inexperienced in the writing.
+
+If new-to-the-building is the definition, the cure is orientation. If apeiros is the definition, the cure is labour in the word of righteousness. Those are not the same path. The first produces members. The second produces workmen.
+
+The blame for this lack of skill will later be named: failure to realize the scholarly impetus of the scripture and to align accordingly — failure to know the scriptures, whether the copy is soft or hard. This chapter will not write that labour in full. It will not let the location of the unskill drift while that labour waits. Apeiros is not cured by a better edition. It is cured by experience in the word.
+
+III. Not room skill
+
+The second easy mistake is to hear “skilled” as skill in the room: speaking, gathering, managing, moving a people. Room skill is not apeiros reversed. A man may be very able in a house’s voice and remain unskilled in the word of righteousness. Access is not skill. Memory is not skill. Quotation is not skill. Crowding a room is not skill.
+
+The verse does not say unskilful in the assembly. It says unskilful in the word of righteousness. If the object of use is the room, the senses will be exercised on the room. Discernment will then follow the room. Good and evil will be named by what the house already accepted. That is how heresies become doctrines while the meetings continue.
+
+IV. The word of righteousness
+
+The word of righteousness is not a topic among topics. It is the word by which a man is aligned — or by which he is left arid. Hebrews attaches apeiros to that word. The field of skill is the writing that judges, not a specialty inside the writing that a man can postpone.
+
+Skill here is the capacity to handle what is written until the distinction the text makes can be held and taught. It is not performance. It is not a pile of quotations. Later chapters will open knowledge as perception, learning, and reasoning, and will name the scholarly impetus of the scripture. The order now is prior: unskill has a location. The location is the word of righteousness.
+
+Ersatz analogical, nonliteral religiousisms will relocate the skill. They will call a man skilled because he can move a room, or because he can bless a likeness with a verse. That is not apeiros reversed. That is another field wearing the name of the Word.
+
+Anyone — a person or an organization — unskilled in that word is already being named. The verse says every one that useth milk. Every one is not a private diagnosis only. It is the milk-user, wherever he sits, and the house that diets him. Chapter 16 will take the name the verse gives next: nēpios. Apeiros is the unskill. Nēpios is what the unskilled one is called.
+
+Hold the cluster. Hebrews 5:11 names dull hearing. 5:12 names time, ought, again, oracles, become, milk, and meat. 5:13 names unskill in the word of righteousness and the babe. Do not take apeiros out of that cluster and make it a Greek ornament. The term is how the writer explains the milk.
+
+V. What this chapter has established
+
+Apeiros is inexperience, ignorance, unskill — in the word of righteousness. It is not newness to a building. It is not lack of room skill. Time, access, memory, quotation, and format do not reverse it. Persons and organizations can be apeiros. Chapter 16 will open the name that follows: nēpios — babe — as diagnosis, not as endearment.`,
   },
   {
     id: "ch-ost-16",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 16,
-    title: "The Word of Righteousness",
-    body: `The word of righteousness is not a topic among topics. It is the word by which a man is aligned — or by which he is left arid.
+    title: "Nēpios",
+    body: `What is a babe — a person, or a house?
 
-Hebrews 5:13 attaches apeiros to that word. Failure to know the scriptures — whether the copy is soft or hard — is named as the failure to realize the scholarly impetus of the writing and to align accordingly. Format is not the cure. Labour is the cure.
+Hebrews 5:13 — “For every one that useth milk is unskilful (Gr. apeiros) in the word of righteousness: for he is a babe: (Gr. nēpios)”
 
-Skill in the word of righteousness is not performance in a meeting. It is the capacity to handle what is written until the distinction the text makes can be taught.
+Nēpios: implying negation; figuratively a simple-minded person, an immature Christian — babe, child, a babe. The bible highlights anyone — persons or organizations — unskilled, inexperienced, in the word of righteousness as a nēpios. The term is not a pet name. It is the writer’s diagnosis of unreadiness.
 
-Write the phrase “word of righteousness” with Hebrews 5:13 still attached. Then name one way you have treated format as if it were skill.`,
+I. Babe is a condition, not a compliment
+
+The writer is not flattering. He is not softening a people he loves by calling them little. He is naming what they have become. They use milk. They are unskilful in the word of righteousness. Therefore they are babes. Love does not cancel the term. Age does not cancel it. Print does not cancel it. A house may be old and still be a babe.
+
+Endearment is the error. “Babe” as affection turns the diagnosis into a warmth. Then no one must sit down. Then milk after time can be called remaining childlike. The verse will not grant that. Childish and childlike are not the same act. Nēpios here is simple-minded in the Word, immature as a Christian, a babe because the beginning was not kept.
+
+Hebrews 5:12 already said they had become such as have need of milk. Become names the direction: backward while the meetings continue. Nēpios is that becoming named as a person — and, as the writing’s own scope already requires, as a house.
+
+II. Anyone: person or organization
+
+Anyone is the scope. A man can be a nēpios. An organization can be a nēpios. The imprimatur already bound persons, organizations, governments, and nations under Holy Writ. The diagnosis of unskill uses the same reach. A house unskilled in the word of righteousness is not excused by its minutes, its offices, or its years.
+
+A babe-house will teach its members to remain dependent on its voice. It will call that dependence covering. It will teach the first principles again and call the repetition heritage. It will accept what it has already named doctrine and treat examination as rebellion. The members may be sincere. The house is still a nēpios if it is unskilled in the word of righteousness.
+
+This is not a slur against organization. Chapter 6 already said organization is not the issue. The issue is whether the house sits under the writing. If it does not, the house can be a babe at organizational scale — arid, turning, and still ostensibly Christianized.
+
+A person-babe and a house-babe train each other. The house that will not sit under the writing produces members who cannot. The members who will not sit under the writing keep the house from sitting down. Nēpios then becomes a climate. Meetings continue. The first principles must be taught again. The hard things cannot be uttered. The name “mature” is still used, because the house is old, or large, or busy. The verse uses another name.
+
+III. Milk-users are named
+
+Every one that useth milk is unskilful in the word of righteousness: for he is a babe. The three names sit in one verse: milk, apeiros, nēpios. Do not pull them apart. Milk after time is the diet. Apeiros is the unskill. Nēpios is the person or house so dieted and so unskilled.
+
+Milk at the beginning is mercy. Chapter 11 already held that. Milk after the time a people ought to be teachers is indictment. Nēpios after time is not a stage to be praised. It is unreadiness that has been allowed to remain.
+
+An immature Christian is not a man who has not yet collected titles. He is a man who cannot yet handle the word of righteousness as the basis of his hearing, his judgment, and his teaching. Simple-minded, in this use, is not an insult to a man’s intelligence in other fields. He may be able in trade, in office, in speech. He is simple-minded in the Word if he cannot yet judge by it. The next chapter will mark him with only two characteristics. This chapter must first refuse the softening: babe is diagnosis.
+
+IV. Why the name must stay severe
+
+If nēpios is endearment, the premiere convention becomes optional. A babe does not need to hear through what is written. He needs to be kept warm. If nēpios is diagnosis, the convention remains first. The babe must be taught again the first principles of the oracles of God, and he must then go on. The house that is a babe must sit down under the same writing.
+
+The scripture cannot be broken to spare a person the name. It cannot be broken to spare a house the name. The Lord would not break it to spare Himself a charge. A later teacher will not be asked to break it to keep a fellowship from being troubled.
+
+If the name is refused, the two marks will still be present. Dull of hearing and unskill in the Word do not wait for permission to diagnose. They only wait for a house that will not say nēpios, and then they operate under a kinder title.
+
+V. What this chapter has established
+
+Nēpios is a babe: a simple-minded person, an immature Christian — and, in the same diagnosis, a house unskilled in the word of righteousness. The term is not endearment. Milk, apeiros, and nēpios belong to one verse. Chapter 17 will name the two characteristics of babes, and only two: dull of hearing, and unskilled in the Word which is the basis for salvation.`,
   },
   {
     id: "ch-ost-17",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 17,
-    title: "Nēpios",
-    body: `Anyone — a person or an organization — unskilled in the word of righteousness is a nēpios: a simple-minded person, an immature Christian, a babe, a child.
+    title: "Dull of Hearing",
+    body: `What are the two marks of a babe?
 
-Nēpios is diagnosis, not endearment. Love does not cancel it. Age does not cancel it. Print does not cancel it. A house may be old and still be a babe.
+Two characteristics of babes. Only two, as the writing marks them here.
 
-Do not treat “babe” as a pet name. The writer of Hebrews is not flattering. He is naming unreadiness.
+1. Dull of hearing — Hebrews 5:11.
+2. Unskilled in the Word, which is the basis for salvation — Hebrews 5:13.
 
-Define nēpios without affectionate softening. Then apply the term to a person-pattern and an organization-pattern without naming a living target.`,
+Do not invent a third mark and treat it as if those verses listed it. Productive living, being in control, and godliness belong to what skill in the Word is for. They are not a third characteristic of babes added to the list. A lack of cognitive skill will be opened later as knowledge — perception, learning, and reasoning. That labour explains the babe. It does not add a third mark beside dullness and unskill.
+
+I. Dull of hearing
+
+Hebrews 5:11 — “Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.”
+
+Chapter 13 already used this verse against Bible-holding as proof of hearing. This chapter uses it as a mark. Dull of hearing is why the hard things cannot be uttered. The oracles are not silent. The ear is. The premiere convention has been refused in practice while the book remains in the hand.
+
+Dullness is not a quiet temperament. It is the ear that will not let the writing judge. A man can sit under much speech and still be dull. A house can print much Scripture and still be dull. The mark is not volume of Christian noise. The mark is whether the graphē is heard as the court.
+
+Chapter 12 already said the convention is not possession. This mark is that sentence applied to a person and a house. They have the writing. They do not hear it. Then the first principles must be taught again, not because God has withdrawn the oracles, but because the ear has withdrawn from the oracles. Dull of hearing is why “again” becomes the wound of Hebrews 5:12.
+
+II. Unskilled in the Word which is the basis for salvation
+
+Hebrews 5:13 — “For every one that useth milk is unskilful in the word of righteousness: for he is a babe.”
+
+The second mark is the first mark’s companion. Dull hearing and unskill travel together. The Word is named as the basis for salvation. Unskill there is not a small defect. It is unreadiness at the place salvation is grounded.
+
+The word of righteousness is not an advanced elective. If the Word is the basis for salvation, then inexperience in that Word is inexperience at the foundation. A people can then keep the name of salvation and lose the writing by which salvation is known, examined, and taught. They will call that keeping faith. The verse will call it a babe.
+
+Salvation’s basis is not a slogan on a cover. It is the Word. Unskill there is therefore not a small defect in an otherwise finished Christian. It is unreadiness at the place the Christian life is grounded. That is why the mark is listed with dull hearing, and why the two are enough.
+
+III. Only two
+
+A third mark will always be offered. Zeal. Tears. Attendance. Loyalty. A gift. A title. An experience. Age. Those may be present or absent in a babe. They are not the two characteristics the writing lists here. Adding them as if they were the list is how a house redefines maturity without returning to Hebrews 5:11 and 5:13.
+
+The two marks are enough to explain arrested growth. Dull of hearing: the convention is not used. Unskilled in the Word: the field of skill is empty. Together they produce the need to be taught again, the diet of milk after time, and the name nēpios. Reasonability missing, apeiros present — Chapter 14 and Chapter 15 — sit under the same pair.
+
+A third mark sold as if it were listed here will always move the court. If the third mark is zeal, the zealous babe is mature. If the third mark is loyalty, the loyal house is mature. If the third mark is experience, the intense man is mature. The writing lists dullness and unskill. Those two keep the court where it is.
+
+IV. Why these two decide maturity
+
+If the marks are dullness and unskill, the path out is hearing and skill under the writing. That path will require the scholarly impetus of the scripture: knowing the scriptures, aligning accordingly, and the intellectual labour 2 Timothy 2:15 commands. Those chapters have their work. The order here is diagnostic. The babe is not first a man who missed a meeting. He is a man — or a house — dull of hearing and unskilled in the Word which is the basis for salvation.
+
+Maturity is first principles, then perfection, under that Word. A people who will not receive these two marks will not receive the labour that reverses them. They will hunt a third mark they can satisfy without opening the page.
+
+V. What this chapter has established
+
+Babes are marked by two characteristics only: dull of hearing, and unskilled in the Word which is the basis for salvation. A third mark must not be sold as if the writing listed it. The Word as the basis for salvation makes unskill severe. Dullness makes the hard things unutterable even among those who hold the book.
+
+Part V has named what is missing and what is present when the premiere convention is refused: the absence of reasonability; apeiros in the word of righteousness; nēpios as person or house; and two marks, not three. Part VI will open the labour the writing itself requires: the scholarly impetus, and spoudazō.`,
   },
   {
     id: "ch-ost-18",
