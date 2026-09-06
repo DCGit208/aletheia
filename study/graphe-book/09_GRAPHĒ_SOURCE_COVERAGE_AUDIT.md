@@ -6,12 +6,12 @@ Map every Movement A element to architecture. Status: **mapped, not yet written*
 | --- | --- | --- | --- |
 | G01 | Title / true Christ-ian experience | 1, 3 | Ch.1–3 drafted |
 | G02 | Naturalistic vs ersatz; pillow; unleavened sincerity | 3 | Ch.3 drafted |
-| G03 | Graphē / Holy Writ / Bible / Scripture | 1, 2 | Ch.1 drafted |
-| G04 | Imprimatur; unchallenged authority | 2, 9 | Ch.2 drafted; court question in Ch.4–5 |
-| G05 | Persons, orgs, governments, nations | 2, 4 | Ch.2 drafted; crisis opened in Ch.4 |
-| G10 | Reasonability; unskill; aridity; tergiversation; heresies called doctrines | 7, 14 | Ch.7 drafted (severity kept); Ch.14 still ahead |
-| G06 | Straightaway issue on cornerstone; oracles | 11 | MAP |
-| G07 | Premiere convention; hearing; growth | 12, 13 | MAP |
+| G03 | Graphē / Holy Writ / Bible / Scripture | 1, 2 | Ch.1 drafted; thesis restated in Ch.8 |
+| G04 | Imprimatur; unchallenged authority | 2, 9 | Ch.2 drafted; court question in Ch.4–5; John 10:35 rule in Ch.9 |
+| G05 | Persons, orgs, governments, nations | 2, 4 | Ch.2 drafted; crisis opened in Ch.4; one-source scope in Ch.8 |
+| G10 | Reasonability; unskill; aridity; tergiversation; heresies called doctrines | 7, 14 | Ch.7 drafted (severity kept); recalled in Ch.8; Ch.14 still ahead |
+| G06 | Straightaway issue on cornerstone; oracles | 11 | MAP (previewed as “oracles bound in the writing” in Ch.8) |
+| G07 | Premiere convention; hearing; growth | 12, 13 | MAP (named in Ch.8 as graphē, not this book; full treatment in Part IV) |
 | G08 | First principles → maturity | 33 | MAP |
 | G09 | Hebrews 5:12 full | 11, 14, 17 | MAP |
 | G11 | Apeiros | 15 | MAP |
@@ -50,4 +50,4 @@ Map every Movement A element to architecture. Status: **mapped, not yet written*
 
 ## Next phase
 
-Chapter prose — **not started**. Write only after these maps stay the control. Rebuild `book-one-source-of-truth.ts` from briefs; do not extend the current 32-chapter draft as if it were the book.
+Chapters 1–10 drafted (Parts I–III). Remaining old 32-chapter slots (11+) are not finished prose — rebuild from briefs when each part is requested. Do not polish those leftovers as if they were the book.

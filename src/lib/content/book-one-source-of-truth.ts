@@ -13,17 +13,15 @@ export const oneSourceBookTag = "A hermeneutical and epistemological foundation"
 
 export const oneSourcePartTitles = [
   "Part I — The Graphē",
-  "Part II — The Writing and the Christ-ian Experience",
-  "Part III — The Oracles of God",
-  "Part IV — The Premiere Convention for Hearing from God",
-  "Part V — Hebrews 5:11–14 — The Diagnosis of Unreadiness",
-  "Part VI — Apeiros — Unskilled in the Word",
-  "Part VII — Nēpios — The Babe",
-  "Part VIII — Reasonability and Sound Judgment",
-  "Part IX — Aridity and Tergiversation",
-  "Part X — The Scholarly Impetus and Spoudazō",
-  "Part XI — Knowledge: Perception, Learning, Reasoning",
-  "Part XII — Word Exercise and Word Drill",
+  "Part II — The Crisis of Authority",
+  "Part III — One Source of Truth",
+  "Part IV — The Oracles of God and Hearing from God",
+  "Part V — The Problem of Unskillfulness",
+  "Part VI — The Scholarly Impetus",
+  "Part VII — Hermeneutics: Handling the Writing",
+  "Part VIII — Truth, Freedom, and Maturity",
+  "Part IX — The First Principles as Test Case",
+  "Part X — The Graphē as the Standard",
 ] as const;
 
 
@@ -368,44 +366,158 @@ Part II has opened the crisis: who has the final word; when the interpreter beco
     id: "ch-ost-8",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 8,
-    title: "First Principles and Maturity",
-    body: `Hebrews 6:1 — “Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation…”
+    title: "One Source of Truth",
+    body: `There is one authoritative written source by which Christian truth is to be known, examined, established, taught, discerned, and lived: the graphē — Holy Writ.
 
-Growth under the Graphē is two movements, not one slogan: first principles, then maturity — perfection.
+That is the thesis of this book. Part I named the source, marked its authority, and seated experience under the writing. Part II opened the crisis: other courts refuse the seat. This chapter states what remains when those courts have been tested. The Bible is not one source among several. It is not one perspective among many. It is not a voice that becomes true when an institution has finished interpreting it. The graphē is the standard by which claims to truth are tested.
 
-Leaving does not mean abandoning. It means the foundation is laid, and you go on. A man who has never laid them is not leaving them. He is skipping them. A man who lays them every year as a habit of indecision is not going on. He is relaying what ought already to bear weight.
+I. One source, not a panel
 
-You do not skip the foundation to appear mature. Maturity does not eliminate foundation. Maturity stands on it.
+A panel of authorities can discuss. A court decides. Holy Writ is writings or sayings of unchallenged-unquestionable authority. Unchallenged-unquestionable does not mean men have never opened their mouths against it. It means the writing does not lose the bench when they do.
 
-Mark the two verbs: leaving, go on. Write what you have called growth that was only a skip or a relay.`,
+The names remain stacked so the claim cannot shrink: graphē · Holy Writ · Bible · Scripture · the written Word. If “Bible” is allowed to mean a product, the source has already been reduced. If “Scripture” is allowed to mean a mood, the source has already been replaced. If “Word” is allowed to mean whatever a speaker felt, the court has already moved. Graphē will not permit that shrinkage. It names writings — sayings that stand in writing — of imprimatur.
+
+John 10:35 — “If he called them gods, unto whom the word of God came, and the scripture cannot be broken;”
+
+The Lord did not add the writing to a list. He reasoned from it as the court that could not be broken. If another court could break it — tradition, office, prophet, majority, experience — it would not be Holy Writ. It would be a brief submitted to that other court.
+
+This volume will not soften the claim into “one Christian framework” or “the author’s view.” Where interpretation is involved, interpretation will be distinguished from Scripture. The authority claim is not weakened because interpretation exists. Interpretation exists because the writing exists, and because men must handle it. Handling does not create the court.
+
+A people who treat the Bible as one perspective among many have already answered the court question. They have made the room the court. The writing may still be quoted. It is quoted as a contribution. Contributions can be set aside. Holy Writ cannot.
+
+II. What the one source does
+
+The graphē is the source by which truth is known. Knowing here is not a pile of quotations. Later chapters will open knowledge as perception, learning, and reasoning. The point now is prior: there is a writing to perceive. Without one source, “knowing” becomes loyalty to whichever court trained the ear.
+
+The graphē is the source by which truth is examined. A claim can be opened beside the page. The cluster can be held. The words can be kept. If the page cannot judge the claim, the claimant is the court. Examination is not hostility. It is the refusal to call a likeness unleavened sincerity and truth.
+
+The graphē is the source by which truth is established and taught. First principles of the oracles of God are not first principles of a house brand. They are bound in the writing. A teacher who will not sit under that writing is not teaching the oracles. He is teaching a likeness. The house may still call the likeness doctrine. Chapter 7 has already named that result: damnable accepted heresies called doctrines.
+
+The graphē is the source by which truth is discerned and lived. Discernment of good and evil is given, in the Hebrews cluster, to those who by reason of use have their senses exercised. Use of what? The word. If another court is the object of use, the house will discern by that court. Living will then pillow in the house’s voice, not in the unleavened sincerity and truth of the writing.
+
+III. One source for persons and houses
+
+The imprimatur is not a private devotion stamp. The writing’s authority is named for persons, organizations, governments, and nations. That scope is not a political program. It is a refusal of exemption. A man cannot say the writing is for the pulpit but not for the house. A house cannot say the writing is for the member but not for the office. A nation cannot baptize its custom and call the baptism Holy Writ.
+
+If there were many final written sources, each house could name its own and the conflict would be unjudgeable. One source makes the conflict judgeable. The page can be opened in the hearing of others. The cluster can be held. The claim can be tested. That is why writtenness is essential to the thesis. A private impression cannot be opened that way. A tradition that will not sit down cannot be opened that way.
+
+IV. One court makes testing — and maturity — possible
+
+If there is no single written court, the believer cannot test doctrine except by the voice that last trained him. Skill in the Word becomes optional. Dullness of hearing can be called covering. Accepted heresies can be called doctrines. Growth then means loyalty. The babe remains a babe and the house congratulates him for remaining under care.
+
+If there is one written court, the believer can grow by labour in that writing — first principles, then maturity. Testing is possible because the court can be opened by another man with the same page. Teaching is possible because the oracles are not the property of a single interpreter. Going on is possible because the foundation can be examined and then built upon.
+
+The premiere convention for hearing from God and for spiritual growth is the graphē. Premiere: first in order, not first in fashion. Convention: the appointed way God has given. This book examines that convention. It is not itself the convention. Holy Writ remains the court.
+
+V. What this chapter has established
+
+One source of truth: the graphē — Holy Writ. Not one source among several. Not one perspective among many. The writing is the standard by which claims are known, examined, established, taught, discerned, and lived. One court makes testing possible, and therefore makes maturity possible. Chapter 9 will open the rule the Lord attached to that source: the scripture cannot be broken.`,
   },
   {
     id: "ch-ost-9",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 9,
-    title: "Hearing From God",
-    body: `The graphē is the premiere convention for hearing from God and for spiritual growth.
+    title: "Scripture Cannot Be Broken",
+    body: `John 10:35 does not decorate the thesis. It is the thesis in the Lord’s mouth.
 
-Premiere: first in order, not first in fashion. Convention: the appointed way God has given. Not this book. Not a course. Not a teacher. Not an institution.
+“If he called them gods, unto whom the word of God came, and the scripture cannot be broken;”
 
-God has spoken. The writing bears witness. A man hears, understands, knows, reasons, becomes skilled, discerns, and grows. That order is labour under the writing. It is not a printed verse. Do not quote the sequence as if it were Scripture. Use it to sit under Scripture.
+Cannot be broken is not a motto for a banner. It is a prohibition. The writing may not be fractured to save a convenience, a charge, a tradition, an experience, or an interpretation. Chapter 1 opened the cluster. This chapter follows the rule to its end.
 
-A people can possess Scripture and still be dull of hearing. Hebrews 5:11 names that dullness among those who had time enough to be teachers. Quotation is not hearing. Attendance is not hearing. A louder room is not hearing.
+I. The cluster again, as a rule
 
-Write the premiere-convention sentence without naming this book as the convention. Then name one way you have possessed Scripture without hearing it.`,
+John 10:34 — “Jesus answered them, Is it not written in your law, I said, Ye are gods?”
+
+John 10:35 — “If he called them gods, unto whom the word of God came, and the scripture cannot be broken;”
+
+John 10:36 — “Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?”
+
+The writing He cited is Psalm 82:6 — “I have said, Ye are gods; and all of you are children of the most High.”
+
+He asks whether it is written. He cites the psalm. He names those unto whom the word of God came. He sets the rule. He reasons from the rule to His own claim. The writing is not used after the argument is finished. The writing is the argument’s court.
+
+Hold the cluster. Do not take “cannot be broken” and leave 10:34 and 10:36 on the table. The question “Is it not written?” is already the method. The charge of blasphemy is already the pressure. The Lord’s refusal to invent a safer Bible is already the pattern. If He will not break the writing to answer that charge, no later teacher will be asked to break it to answer dullness, or to bless a likeness, or to keep a house from being troubled.
+
+If the scripture could be broken here, it could be broken anywhere. A safer Bible could be invented whenever the page obstructed a desired conclusion. That invention is exactly what the verse forbids.
+
+II. What breaking looks like
+
+Breaking is not only tearing a page. Breaking is treating the writing as a resource that may be edited in practice.
+
+It is broken when a verse is isolated to manufacture a doctrine the cluster will not bear. It is broken when a tradition requires the words to mean what they do not say. It is broken when an interpreter stands above the text and calls the result “what Scripture teaches.” It is broken when an experience is named first and a text is hunted second. It is broken when “cannot be broken” itself is reduced to a slogan and the surrounding verses are left unused.
+
+It is broken when a house keeps the vocabulary and changes the proposition. It is broken when a teacher quotes the verse and then reasons from a different court. It is broken when the writing is honoured as a companion and not allowed to correct the companion. Chapter 5 named the places: under, beside, or above. Breaking is the third place in action.
+
+A book — including this one — that will not sit under John 10:35 has already left the premiere convention, however Christian its vocabulary. The convention is the writing. The pages under it are not the writing.
+
+III. The safer Bible
+
+The safer Bible is the Bible that will not obstruct. It is assembled whenever a conclusion has already been chosen. The cluster is trimmed. The hard word is reassigned. The contrary verse is postponed. The result is still called Scripture. It is Scripture after the break.
+
+The Lord would not assemble one. The psalm stood. The law stood. His claim stood under that writing, not over it. A later house will not be more authorised than He was to produce a safer page.
+
+Motto use is a form of the safer Bible. A motto can be loved and still unused. “The scripture cannot be broken” on a banner, while the banner’s house will not let a cluster judge its doctrine, is already the break the motto forbids. The verse is not a decoration of loyalty. It is a rule over handling.
+
+IV. You cannot grow by breaking the court
+
+Maturity is first principles, then perfection, under the writing. If the court is broken to make growth easier, the growth is not the growth the oracles name. It is recession wearing a new name. Hebrews will later say they had become such as have need of milk. Becoming that after time is not patience. It is what happens when the writing is no longer allowed to judge the house.
+
+Skill in a broken court is skill in the breaker. The senses are exercised on the substitute. Discernment then follows the substitute. A people can become very able in a house’s voice and remain unskilled in the word of righteousness. They will call that ability maturity. The writing will not.
+
+The scripture cannot be broken. Therefore the likeness cannot be saved by a broken verse. Therefore the interpreter cannot be saved by a broken rule. Therefore the old organization cannot be saved by a broken tradition. The court stands. Men sit down, or they leave the court.
+
+V. What this chapter has established
+
+“The scripture cannot be broken” is the Lord’s rule over the one source. It forbids a safer Bible, a motto stripped of its cluster, and any handling that fractures the writing to protect a claim. Growth that requires the break is not maturity. Chapter 10 will settle the remaining confusion: interpretation must exist, and the writing remains above the interpreter.`,
   },
   {
     id: "ch-ost-10",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 10,
-    title: "Hearing Versus Reading",
-    body: `Seeing words is not reading words. Reading words is not understanding words. Understanding is not hearing what is said. Hearing is not knowing. Knowing is not yet reasoning from what is said.
+    title: "The Writing Above the Interpreter",
+    body: `Interpretation must exist. The writing remains above the interpreter.
 
-Hebrews 5:11 can diagnose dull hearing among Bible-holders because the writing was among them and the ear was not exercised. Time had passed. The page was not strange. The hearing was.
+Those two sentences must be held together. Deny the first, and the book pretends that no one handles the text — a fiction that only hides the handler. Deny the second, and the handler becomes the court. Chapter 5 named the places: under, beside, or above. This chapter states the thesis consequence. One source of truth does not abolish interpretation. It masters it.
 
-Understanding contributes to hearing. Knowledge is the mental result of perception, learning, and reasoning — later chapters will open that definition. Skill is use. A man may see ink and never hear the oracle.
+I. Why interpretation is not optional
 
-Write the distinctions in your own hand. Then take one verse you have “read” this month and say whether you heard it.`,
+The graphē is writing. Writing must be read. Reading is already handling. Terms must be kept. Clusters must be held. Distinctions must be drawn. 2 Timothy 2:15 commands the labour: “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.”
+
+Study is not a hobby. Approved unto God is not approved unto a faction. A workman can be ashamed of bad work. Rightly dividing assumes the word is truth before it is divided, and that it can be divided wrongly. Dull hearing and unskill produce wrong division. Right division holds a cluster, keeps a distinction, and will not merge what the text keeps apart.
+
+The same chapter already marks the kind of labour this is. 2 Timothy 2:3 — “Thou therefore endure hardness, as a good soldier of Jesus Christ.” 2 Timothy 2:8-9 — “Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel: Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound.” The workman may be bound. The word is not. Hardness belongs to the work. Approval is still unto God.
+
+None of that labour is possible if “no interpretation” is the piety. The piety is a refusal to be tested. The man who will not interpret still interprets. He only refuses to show his work. Hidden handling is not humility. It is an interpreter who will not sit down in public.
+
+II. Scripture is not the interpreter’s sentence
+
+The writing is what God has written. Interpretation is what a man says the writing means. Those are not the same act. A necessary inference is still an inference. A synthesis from many passages is still a synthesis. A method of drill is still a method. This book will use inference, synthesis, and method. It will not sell them as the verse.
+
+Intellectual honesty is part of sitting under the writing. If the interpreter will not distinguish the text from his handling of the text, he has already stepped above it. The house may then call disagreement with the interpreter disagreement with God. That is how the interpreter becomes the source while the Bible remains on the table.
+
+When interpretation contradicts the writing, the writing stands. The interpreter sits down. If the house will not allow that sitting, the house has chosen a different source, whatever it prints on the cover.
+
+III. Why the writing remains master
+
+John 10:35 still governs the shop: the scripture cannot be broken to make a division come out clean. The word of truth is not created by the workman. He is approved in his handling of what is already written.
+
+“No interpretation” and “the interpreter is lord” look like opposites. They are the same refusal. Both refuse a court that can be opened. The first hides the handling. The second enthrones it. One source of truth answers both. Handling must be shown. The page remains the court.
+
+A people who treat interpretation as lordship will produce dependents, not workmen. A people who treat “no interpretation” as holiness will produce the same dependents under another name: they wait for the man who is allowed to handle what they have been told not to handle. In both cases skill in the Word is replaced by skill in a voice.
+
+IV. Skill is under the text
+
+Maturity requires skill in the Word. Skill is not mastery over the Word. Skill is use under it — perception, learning, reasoning, exercise — until the senses can discern. The workman is not the court. He is the labourer in a court that another man can open with the same page.
+
+That is why one source makes teachers possible when the time has required them. Hebrews will later charge a people who, for the time, ought to have been teachers and had become such as have need of milk. They did not become that because they interpreted. They became that because they were dull of hearing and unskilled in the word of righteousness. The cure is not the abolition of handling. The cure is handling under the writing.
+
+This volume will later name the scholarly impetus of the scripture and the intellectual labour 2 Timothy 2:15 commands. Those chapters have their work. The order here is prior: the writing is master before the labour begins. Spoudazō does not create Holy Writ. It sits under it.
+
+V. What this chapter has established
+
+Interpretation exists and must be shown. The writing remains above the interpreter. Rightly dividing is labour in a word that is already truth. The workman may suffer; the word of God is not bound. One source of truth is not the abolition of handling. It is the mastering of handling.
+
+Part III has stated the thesis: one written source; the scripture cannot be broken; the writing above the interpreter. Part IV will open what that source is for: the oracles of God, and the premiere convention for hearing from God.`,
   },
   {
     id: "ch-ost-11",

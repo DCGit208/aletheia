@@ -18,7 +18,7 @@ export const oneSourceBook: Book = {
   title: oneSourceBookTitle,
   subtitle: `${oneSourceBookSubtitle} · ${oneSourceBookTag}`,
   description:
-    "Before Christianity can speak authoritatively about what man should believe, how he should live, how he should grow, or how he should hear from God, it must establish the authority by which those claims are known. That authority is the Graphē — Holy Writ. Thirty-two chapters on authority, hearing, knowledge, reasoning, and Word labour.",
+    "Before Christianity can speak authoritatively about what man should believe, how he should live, how he should grow, or how he should hear from God, it must establish the authority by which those claims are known. That authority is the Graphē — Holy Writ: one written source, the scripture that cannot be broken, and the writing above the interpreter.",
   authors: [achu],
   contributors: [],
   publisher: "Aletheia Publications",
@@ -31,7 +31,18 @@ export const oneSourceBook: Book = {
   coverImage: "/covers/one-source-of-truth.png",
   status: "published",
   accessLevel: "entitled",
-  previewChapterIds: ["ch-ost-1", "ch-ost-2", "ch-ost-3", "ch-ost-4", "ch-ost-5", "ch-ost-6", "ch-ost-7"],
+  previewChapterIds: [
+    "ch-ost-1",
+    "ch-ost-2",
+    "ch-ost-3",
+    "ch-ost-4",
+    "ch-ost-5",
+    "ch-ost-6",
+    "ch-ost-7",
+    "ch-ost-8",
+    "ch-ost-9",
+    "ch-ost-10",
+  ],
   productId: ONE_SOURCE_PRODUCT_ID,
   chapterCount: oneSourceChapters.length,
 };

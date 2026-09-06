@@ -143,7 +143,7 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
   "product-one-source-of-truth": bookOffer(
     "product-one-source-of-truth",
     "One Source of Truth — The Doctrine of the Graphē",
-    "A hermeneutical and epistemological foundation. Holy Writ is the premiere convention for hearing from God and for spiritual growth. Thirty-two chapters on the written authority by which Christian truth is known, tested, taught, and lived. Included with The Walk and The Intensive.",
+    "A hermeneutical and epistemological foundation. Holy Writ is the premiere convention for hearing from God and for spiritual growth. One written source, the scripture that cannot be broken, and the writing above the interpreter. Included with The Walk and The Intensive.",
     oneSourceBook,
     10000,
     {
