@@ -879,86 +879,306 @@ Part V has named what is missing and what is present when the premiere conventio
     id: "ch-ost-18",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 18,
-    title: "The Two Characteristics of Babes",
-    body: `Two characteristics of babes. Only two, as the writing marks them here.
+    title: "Spoudazō",
+    body: `What labour does the writing require?
 
-1. Dull of hearing — Hebrews 5:11.
-2. Unskilled in the Word, which is the basis for salvation — Hebrews 5:13.
+Part V named the diagnosis: absence of reasonability, apeiros in the word of righteousness, nēpios as person or house, and two marks only. This part names the labour the writing itself requires. Lack of skill is blamed on failure to realize the scholarly impetus of the scripture and to align accordingly. That failure requires spoudazō — study, intellectually.
 
-Do not invent a third mark and treat it as if the text listed it. Productive living, being in control, and godliness in all capacities are the aim of skill in the Word — not a prosperity motto, not a technique for managing a room.
+I. The scholarly impetus of the scripture
 
-Write the two marks with their verses. Refuse a third as if it were given in the same list. Then connect productive living and godliness to Word skill — not to slogan.`,
+Scholarly impetus is not a degree. It is not a seminary brand. It is the push the writing itself gives toward knowing and aligning. The graphē does not sit on a table as a relic. It presses the reader to know what is written and to order life under it. To realize the impetus is to feel that press and to sit down. To refuse it is to remain apeiros while the copy multiplies.
+
+Ignorance as holiness is one of the refusals. A people can treat the mind as if reasoning were unbelief. They can call intellectual labour cold, and call an unexamined impression spiritual. The writing will not grant that piety. Holy Writ is writings or sayings of unchallenged-unquestionable authority. Writings must be read. Reading is already handling. Handling that will not think is not humility. It is dull hearing wearing a softer name.
+
+Scholarship as a rival court is the other refusal. A man may make learning itself Holy Writ. Then the degree, the library, or the school becomes the convention. That is not the scholarly impetus of the scripture. That is another court. The impetus belongs to the writing. The labour sits under it.
+
+II. Spoudazō, intellectually
+
+Spoudazō: to use speed, that is, to make effort, be prompt or earnest; do diligence, be diligent, endeavour, labour, study — intellectually.
+
+2 Timothy 2:15 — “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.”
+
+Speed here is not haste that skips a cluster. It is earnestness that will not postpone the labour. Effort is not noise. Promptness is not a calendar. Earnestness refuses to treat the oracles as optional once the week fills. Diligence, endeavour, labour, study — these are one family. Intellectually belongs to the definition. This book will not despise the mind as if perception, learning, and reasoning were unbelief.
+
+The verse commands study. It does not command a mood of study. It does not command a pile of quotations. It commands labour in the word of truth until the workman can be shown. Chapter 19 will open approval, shame, and right division. This chapter sets the prior fact: the writing requires intellectual labour.
+
+III. Diligence makes knowledge possible
+
+Knowledge — a mental result of perception, learning, and reasoning — becomes possible where spoudazō is present. Quotation without that labour is not skill. Time without that labour produced babes who ought to have been teachers. Format without that labour leaves a man apeiros with a glowing screen or a worn book.
+
+If the writing does not require labour, Hebrews 5 is cruelty. They had had time. They had not used it in the word of righteousness. The scholarly impetus names the missed requirement. Spoudazō names the labour that would have answered it. A people who will not study intellectually will remain dull of hearing and call the remaining spiritual.
+
+The two refusals often travel together. A house despises the mind in the pew and crowns a scholar in the office. Then ignorance is holiness for the member, and scholarship is the court for the interpreter. Both refuse the impetus. The writing requires the same intellectual labour of the person and of the organization. No one is exempted by office. No one is exempted by a claim to be “simple.”
+
+Persons and organizations are under the same requirement. A house can refuse the impetus and still print Bibles. A man can refuse it and still quote. The blame stays where it was put: failure to know the scriptures and to align accordingly.
+
+IV. The labour is under the writing
+
+Spoudazō does not create Holy Writ. It sits under it. John 10:35 still governs the shop: the scripture cannot be broken to make the labour come out clean. The premiere convention remains the graphē. This volume, a course, and a teacher may serve the labour. None of them is the convention.
+
+Intellectual labour that breaks the cluster to win an argument is not spoudazō. It is haste. The definition’s “speed” will not cover that. Earnestness that will not postpone the work is not the same act as hurry that will not hold the verse.
+
+Intellectual study that will not sit under the page is only another likeness. Intellectual study that sits under the page is how a workman is made. The next chapter will ask unto whom he is approved, and for what work.
+
+V. What this chapter has established
+
+The scholarly impetus of the scripture is the writing’s own press toward knowing and aligning — not a degree, and not a rival court. The labour it requires is spoudazō: speed, effort, promptness, earnestness, diligence, endeavour, labour, study — intellectually. Diligence makes knowledge possible. Ignorance treated as holiness is already a refusal of the writing. Chapter 19 will open the verse as a workman’s charge: approved unto God, not ashamed, rightly dividing the word of truth.`,
   },
   {
     id: "ch-ost-19",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 19,
-    title: "Reasonability",
-    body: `Reasonability is sound judgment. The writing is its master. Reason is not a rival court. Reason is the mind sitting under what is written until the distinction can be held.
+    title: "Study to Show Thyself Approved",
+    body: `Approved unto whom? For what work?
 
-Absence of reasonability is named with unskillfulness as the condition that dries persons and houses. A people may be sincere and still lack sound judgment. They may quote and still not judge.
+Chapter 18 named the labour: spoudazō, intellectually. This chapter opens the verse that commands it. 2 Timothy 2:15 is not a hobby line. It sits in a war letter. Approval has an audience. Work has a standard. The word of truth can be divided wrongly.
 
-Define reasonability with the Word as master. Then write one judgment you have called spiritual that would not survive the verse open on the table.`,
+2 Timothy 2:15 — “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.”
+
+I. Approved unto God
+
+Study to shew thyself. The workmanship must be visible, not only claimed. Approved unto God. The audience of approval is God, not a faction, not a room, not a school, not this book. A man may be approved unto a house and ashamed before God. A man may be unapproved by a house and still a workman in the word of truth. The verse will not relocate the bench.
+
+Hobby study is the error. Hobby study is labour without an audience, or labour for an audience other than God. It collects. It browses. It samples. It does not shew a workman. It does not risk shame. It treats the word of truth as a field for interest. The verse treats it as a craft that can be done badly.
+
+A hobby can be sincere. Sincerity does not make it the charge. The soldier endures hardness. The workman shews his work. The word of God is not bound. None of those sentences describes a pastime. They describe labour that can fail, and therefore labour that must be done under the court that cannot be broken.
+
+2 Timothy 2:3 — “Thou therefore endure hardness, as a good soldier of Jesus Christ.”
+
+Hardness belongs to the work. Approval is not ease. A soldier is not a hobbyist. The labour of the writing includes what does not flatter the labourer.
+
+II. A workman that needeth not to be ashamed
+
+Shame here is bad workmanship before God. It is not social embarrassment. It is the workman whose handling will not stand when the page is opened in the hearing of others. Rightly dividing assumes the word is truth before it is divided, and that it can be divided wrongly. Dull hearing and apeiros produce wrong division. Right division holds a cluster, keeps a distinction, and will not merge what the text keeps apart.
+
+2 Timothy 2:8-9 — “Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel: Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound.”
+
+The workman may be bound. The word is not. Bonds do not create a safer Bible. Hardness does not excuse wrong division. The word of truth remains the material of the craft even when the craftsman suffers.
+
+A house that will not allow shame before God will invent shame before the house. Then the workman studies to shew himself approved unto the interpreter. Chapter 5 already named that place: above the writing. This chapter names the opposite: approved unto God in the handling of what is already written.
+
+III. Rightly dividing the word of truth
+
+The word is truth before the workman divides it. He does not make it true by dividing well. He can make a lie by dividing badly. Wrong division isolates a verse to manufacture a doctrine the cluster will not bear. It merges what the text keeps apart. It postpones the contrary verse. It calls the result “what Scripture teaches.”
+
+Rightly dividing is not a slogan for a method. It is the work the verse names. Later chapters will open that handling as hermeneutics: what the writing says, what it means, how Scripture interprets Scripture. The order now is the charge. Study. Shew. Approved unto God. Workman. Not ashamed. Rightly dividing. The word of truth.
+
+IV. What the work is for
+
+The work is not a private collection. It is so the first principles of the oracles of God can be taught, and so a people can go on to maturity. A workman who cannot divide the word of truth cannot teach the oracles. He can only repeat a house line. Hebrews said they ought to have been teachers. 2 Timothy 2:15 is the labour that would have made that ought possible.
+
+Wrong division is how damnable accepted heresies become doctrines while verses are still quoted. The words are present. The cluster is not held. The distinction is not kept. The house calls the result teaching. The workman who needed not to be ashamed would have sat down. Shame before God is the refusal of that sitting when the page is open.
+
+Persons and organizations are under the same charge. A house can employ many teachers and still be ashamed in the work, if the writing is not the court of the division. Soft copy and hard copy will not cover that shame. Alignment will.
+
+V. What this chapter has established
+
+Study is commanded so a workman may be shown, approved unto God, not ashamed, rightly dividing the word of truth. Approval is not unto a faction. Shame is bad workmanship before God. The workman may suffer; the word of God is not bound. Hobby study and wrong division refuse the charge. Chapter 20 will ask the question the scholarly impetus already implied: is a copy the same as knowing the scriptures?`,
   },
   {
     id: "ch-ost-20",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 20,
-    title: "When Reasonability Fails",
-    body: `Predominantly, the absence of reasonability — sound judgment — and the presence of unskillfulness produce aridity and tergiversation among persons, and even among age-old organizations that appear Christianized. What follows is damnable accepted heresies called doctrines.
+    title: "Knowing the Scriptures",
+    body: `Is a copy the same as knowing?
 
-Write that chain without softening.
+Lack of skill is blamed on failure to realize the scholarly impetus of the scripture and hitherto align themselves accordingly: failure to know the scriptures, appearing across intellectual media, whether soft or hard copy.
 
-John 8:31 — “Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed;”
+The sentence has already answered the question. Knowing is the requirement. The copy is the vehicle. Soft and hard media are named so that neither can be sold as the cure.
 
-John 8:32 — “And ye shall know the truth, and the truth shall make you free.”
+I. Failure to know
 
-Hold 8:31-36 together. Do not take 8:32 to a banner and leave 8:34 on the table. Continuance in His word, disciples indeed, knowing the truth, freedom, servant of sin, the Son, free indeed — one argument.
+To know the scriptures is not to possess them. Possession is not perception. Perception is not yet learning. Learning is not yet reasoning. Chapter 21 will open that mental result. This chapter keeps the prior distinction: a man may have the writing and still fail to know it.
 
-When reasonability fails, the premiere convention is not denied aloud. It is deserted in practice. The next chapters name the dryness and the turning.
+The phrase “appearing across intellectual media” already refuses a nostalgia that treats only one format as serious. The writing appears. It appears in more than one vehicle. Intellectual media are not the enemy of the impetus. Treating any one medium as if it were the knowing is the enemy. The blame is failure to know, not failure to prefer paper or screen.
 
-Write the warning chain. Keep John 8:32 inside 8:31-36.`,
+Hebrews 5:12 already showed the failure. They had had the oracles. They needed to be taught again. Time had passed. The copy — whatever form it took in their hearing — had not produced teachers. Failure to know is how apeiros remains after years. Failure to align is how a people can quote and still turn.
+
+Alignment is the other half of the blame. To know and not to sit down is already tergiversation waiting to be named. The scholarly impetus is not information. It is knowing and aligning. A mind that will not order life under what it has seen has not realized the impetus. It has only noticed that Bibles exist.
+
+II. Soft copy and hard copy
+
+Appearing across intellectual media, whether soft or hard copy: the writing appears. The format varies. The requirement does not. A glowing screen can hide apeiros as easily as a closed book. A worn book can hide apeiros as easily as an unopened application. Format is not skill.
+
+The error is to treat the copy as the cure. Buy another edition. Download another application. Fill a device. Fill a shelf. Then call the filling knowing. The verse-cluster of this book will not grant that. Unskill is in the word of righteousness, not in the shortage of media. A people can be rich in copies and poor in knowledge.
+
+Media are vehicles. Labour is the requirement. Spoudazō uses whatever copy is in the hand. It does not wait for a better vehicle. It does not confuse the vehicle with the knowing.
+
+A house can spend its strength upgrading media and call the upgrade a revival of the Word. The screens brighten. The apps multiply. The members remain dull of hearing. The scholarly impetus was never a call to better vehicles. It was a call to know and to align. When the vehicle is treated as the knowing, apeiros has found a modern covering.
+
+III. Knowing is alignment under the writing
+
+To know the scriptures, in this diagnosis, is to know them so as to align. The writing is the court. Alignment is sitting under that court until life, teaching, and hearing are ordered by what is written. A man who can recite and will not align has not known as the impetus requires. A house that prints and will not sit down has not known as the impetus requires.
+
+John 10:35 still governs the knowing. The scripture cannot be broken to make alignment easier. Knowing that requires a safer Bible is not knowing. It is editing. Chapter 9 already forbade that break. This chapter forbids the substitute that looks like knowing: ownership of the page without labour in the page.
+
+To align is to let the writing judge the life and the house. A man may know a verse as information and refuse it as court. That refusal is already the absence of reasonability sitting beside a full shelf. The impetus required both halves: know, and align. Drop either half, and the copies will still multiply.
+
+IV. Why this question decides maturity
+
+If a copy is treated as knowing, the two marks of the babe can be hidden. The man has a Bible; therefore he hears. The house has many Bibles; therefore it is skilled. Hebrews 5:11-13 will not allow the hiding. Dull of hearing and unskilled in the Word sit among those who already had the oracles. The scholarly impetus names the missed labour. Knowing, not possessing, is how that labour begins.
+
+Persons and organizations fail here in the same way. They upgrade the media. They do not upgrade the sitting. Then damnable accepted heresies can be called doctrines while the copies multiply. The copies did not fail. The knowing failed.
+
+V. What this chapter has established
+
+A copy is not knowing. Soft copy and hard copy are vehicles. The scholarly impetus of the scripture requires knowing the scriptures and aligning accordingly. Format will not reverse apeiros. Ownership will not reverse dull hearing. Chapter 21 will define the knowledge that labour is after: a mental result of perception, learning, and reasoning.`,
   },
   {
     id: "ch-ost-21",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 21,
-    title: "Aridity",
-    body: `Aridity is dryness where the oracles should yield. A people may still speak Christian and be arid. The meetings continue. The vocabulary continues. The writing does not yield because it is not known, not reasoned, not used.
+    title: "Perception, Learning and Reasoning",
+    body: `What is knowledge?
 
-Aridity is not a sentimental “dry season” that excuses departure. Hebrews 5 already named dull hearing and unskill in the word of righteousness. Aridity is what that failure looks like when it becomes a climate.
+Knowledge is a mental result of perception and learning and reasoning. The practice named with that definition is Word exercise, Word drill. That is the epistemological proposition this part must now open. A lack of cognitive skill is how the babe remains a babe after time. Quotation is not yet this knowledge.
 
-A person can be arid. An organization can be arid. Age does not water a house. Sincerity does not water a house. Only the writing, known and used, yields.
+I. A mental result — three, not one
 
-Write what aridity is and is not. Then write one mark of aridity in a person and one in a house — without naming a living target.`,
+Perception and learning and reasoning are not three slogans for the same act. They are three works that produce one result. Collapse them, and a man will call a feeling knowledge, or a memory knowledge, or a speculation knowledge. Keep them, and the writing can be known.
+
+Perception: you see what the text says, not what you wish it said. You see the words in their place. You see who speaks, to whom, and why. You see the cluster the verse sits in. Perception is not a mystical extra. It is the refusal to skip what is on the page.
+
+Learning: you take it in, and you keep it. You write it. You can return it. A verse you cannot write is a verse you have not yet learned, however often you have heard it. Learning is not a feeling of familiarity.
+
+Reasoning: you hold a cluster together and draw the distinction the text itself makes. You can say why “ought to be teachers” and “become” belong in one verse. You can say why milk is kindness in one man and indictment in another. Reasoning is not speculation. It is the mind working the writing until the distinction is teachable.
+
+II. Illustration from Hebrews 5:12
+
+Hebrews 5:12 — “For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.”
+
+Perception sees the load-bearing words before it explains them: time, ought, teachers, again, first principles, oracles of God, become, milk, strong meat. It sees the charge, not a motto.
+
+Learning keeps those words until they can be returned by hand. A people who have heard this verse for years and cannot write it have not learned it. They have been near it.
+
+Reasoning holds the words until the distinctions are forced. Ought is obligation, not compliment. Again means the beginning was given and not kept. Become names recession. Milk after time is indictment. Strong meat is not a second scripture. The first principles are the foundation, not a lesser gospel to be despised. That mental result is knowledge of the verse. Recitation without those distinctions is not.
+
+III. Quotation is not knowledge
+
+A man may quote a verse and still be a babe. Information collected is not that mental result. A pile of texts can sit in a notebook while apeiros remains. The Hebrews readers had heard. They still needed to be taught again. Time had passed. Familiarity had not made them teachers.
+
+The error is to treat the pile as the cure. More verses. More headings. More recordings. If perception has not seen, learning has not kept, and reasoning has not distinguished, the pile is still milk after time. Cognitive skill is not a larger pile. It is the mental result the definition named.
+
+Logic may serve reasoning. It is not an authority above Scripture. A syllogism must not manufacture a doctrine the text does not support. Reasonability remains sound judgment under the writing. Knowledge is that judgment having perceived, learned, and reasoned.
+
+Do not skip perception and call your opinion reasoning. Do not skip learning and call a memory of a heading knowledge. Do not skip reasoning and call a quotation a doctrine. The three works guard one another. Perception without the other two is noticing. Learning without the other two is storage. Reasoning without the other two is invention.
+
+IV. Cognitive skill and the babe
+
+A lack of this cognitive skill explains the two marks without adding a third. Dull of hearing is perception refused. Unskilled in the Word is learning and reasoning unfinished. The babe is not first a man who missed a meeting. He is a man — or a house — who has not come to this mental result in the word of righteousness.
+
+Knowledge is required for leaving babe status. First principles must be known, not only named, before a people can go on to maturity. A house can name repentance, faith, baptisms, hands, resurrection, and judgment, and still be a nēpios if those names have not been perceived, learned, and reasoned in the writing. Naming is not the mental result.
+
+Chapter 22 will open the practice named beside the definition: Word exercise, Word drill — use, until the senses are exercised.
+
+V. What this chapter has established
+
+Knowledge is a mental result of perception and learning and reasoning. Those three must not be collapsed. Quotation is not knowledge. An information pile is not knowledge. Hebrews 5:12 illustrates the difference: the verse can be recited and still not known. Cognitive skill is how a babe becomes able to teach. Chapter 22 will open how that knowledge is practised.`,
   },
   {
     id: "ch-ost-22",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 22,
-    title: "Tergiversation",
-    body: `Tergiversation is turning from what was said. A people shift. They change the proposition. They refuse the textual consequence. They call the shift growth.
+    title: "Word Exercise and Word Drill",
+    body: `How is knowledge practised?
 
-Aridity dries the yield of the oracles. Tergiversation turns from the proposition the writing established. A people who will not sit under the text cannot stay with a doctrine. They equivocate.
+Hebrews 5:14 — “But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.”
 
-What follows is damnable accepted heresies called doctrines. Accepted means the heresy has become the house diet. Called doctrines means the name “doctrine” has been put on what the graphē will not bear.
+Use. That is the word this chapter must not skip. Knowledge is a mental result of perception, learning, and reasoning. The practice named with that definition is Word exercise, Word drill. Exercise is use. Drill is use with attention, repeated until the verse can be taught.
 
-Define tergiversation as turning from what was written. Give one textual example of a shift you have made — your own hand, your own page.`,
+I. By reason of use
+
+Full age, in this verse, is not a birthday. It is use. Senses are exercised by reason of use. Discernment is the fruit of that exercise. Chapter 23 will open discernment and strong meat. This chapter keeps the practice. If there is no use, there is no exercise. If there is no exercise, the senses remain unready. A people may own the page and still lack the use that would make them of full age.
+
+Word exercise: you use the word. You do not only hear it. You do not only admire it. You put it to work as the court of a claim, a doctrine, a hearing, a life. Word drill: you put a verse through perception, learning, and reasoning until you can teach it. Those two names are the practice. They are not a second Bible.
+
+II. A method under the writing — not the writing
+
+What follows is a labour method under that writing. It is not Holy Writ. It is not a printed checklist from the oracles. It is not the premiere convention. It is how a student may put a verse through the work this book has been describing. Treat these steps as labour that serves Scripture. Do not treat them as Scripture.
+
+1. Read
+2. Observe
+3. Identify
+4. Define
+5. Contextualize
+6. Compare
+7. Connect
+8. Reason
+9. Test
+10. Conclude
+11. Articulate
+12. Apply
+13. Repeat
+14. Demonstrate competency
+
+Read what is written. Observe what is on the page before you explain it. Identify the load-bearing words. Define them as the cluster uses them. Contextualize: who speaks, to whom, why, in what argument. Compare scripture with scripture. Connect the verse to its cluster, not to a likeness you already chose. Reason the distinctions the text forces. Test the result by John 10:35: the scripture cannot be broken to save the conclusion. Conclude only what the writing will bear. Articulate so another man can open the same page. Apply under the writing, not over it. Repeat until use has exercised the senses. Demonstrate competency in the material — not perfection of the human being.
+
+III. Why the list must stay under the court
+
+A numbered method can become a third court. Then the student is approved unto the steps, not unto God. Then disagreement with the method is treated as disagreement with the Word. That is already the interpreter above the writing. The steps serve 2 Timothy 2:15. They do not replace it. Rightly dividing remains the charge. Spoudazō remains the labour. The graphē remains the convention.
+
+If a house attributes this list to the oracles, it has already left unleavened sincerity and truth. The oracles named use. They did not print fourteen steps. Honesty is part of sitting under the writing. Inference, synthesis, and method may be used. They must be shown as what they are.
+
+The same honesty forbids treating the list as optional colour. Use is in the verse. The method is one way of obeying that use. A student may labour with fewer named steps if he still perceives, learns, reasons, and uses. He may not skip use and keep the name of drill. He may not keep the steps and skip the writing.
+
+IV. Use exercises the senses
+
+A drill is repetition with attention. A verse heard once is not yet used. A verse quoted often is not yet used if it has not been perceived, learned, and reasoned. Use is the difference between milk after time and strong meat. The senses that discern good and evil are not gifted by mood. They are exercised by this kind of use.
+
+Run the labour on 2 Timothy 2:15 and on Hebrews 5:12. Those two verses already carry the charge and the diagnosis. The method is for any writing the graphē sets before the workman. It is not a specialty of this book.
+
+A drill that never returns to the same verse is not use. It is tourism. Repeat is in the list because senses are exercised by reason of use, not by reason of novelty. Demonstrate competency means another man can open the same page and follow the work. If the work cannot be opened, it is not yet shewn.
+
+V. What this chapter has established
+
+Knowledge is practised by Word exercise and Word drill — use, until the senses are exercised. A fourteen-step method may serve that use. It is not Holy Writ, not a checklist from the oracles, and not the premiere convention. Competency is demonstrated handling of the material, not perfection of the person. Chapter 23 will open the fruit of that use: exercised senses, discernment of good and evil, full age, and strong meat.`,
   },
   {
     id: "ch-ost-23",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 23,
-    title: "Scripture's Scholarly Impetus",
-    body: `Lack of skill is blamed on failure to realize the scholarly impetus of the scripture and to align accordingly: failure to know the scriptures, whether the copy is soft or hard.
+    title: "Exercised Senses and Discernment",
+    body: `How are good and evil discerned?
 
-Scholarly impetus is not a degree. It is the push the writing itself gives toward knowing — toward labour in the text. Format is not the cure. A glowing screen can hide apeiros as easily as a closed book.
+Hebrews 5:14 — “But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.”
 
-Scripture demands intellectual labour. Not merely emotional enthusiasm. Not merely attendance. Not merely repetition. Not merely quotation. Not merely religious familiarity.
+Discernment, in this verse, is not a mood. It is not a pulse. It is not an impression that authenticates itself. It is the fruit of senses exercised by reason of use. Full age belongs to those who have so used the word that they can distinguish.
 
-To realize the impetus is to align: to know what is written and to order life under it. Soft and hard media are vehicles. Labour is the requirement.
+I. Full age by reason of use
 
-Write that proposition. Then name your actual labour this week: hour and text. If you cannot name them, you are already answering Hebrews 5:13.`,
+Full age is not a birthday, a title, or a year in a house. It is use. The verse will not let a people call themselves mature because they are old, or busy, or ordained. Strong meat belongs to them of full age — even those who by reason of use have their senses exercised. The “even those” keeps the definition attached to the use. Remove the use, and the claim of full age is empty.
+
+Milk after time is indictment. Strong meat is not a second scripture. It is the same graphē taken by those who can bear it. A people who despise first principles as childish slogans have not reached meat. They have refused the foundation. A people who remain at milk after they ought to be teachers have not reached meat. They have refused the use.
+
+II. Senses exercised
+
+Senses here are the faculties by which the word is handled until good and evil can be told apart. They are exercised — trained by use — not granted by a feeling in a meeting. Unexercised senses cannot discern. They can only repeat what the last court trained them to call good.
+
+If the object of use is the room, the senses will be exercised on the room. If the object of use is the writing, the senses will be exercised on the writing. Chapter 15 already said room skill is not apeiros reversed. This chapter says the same of discernment. A man may be very able at reading a house and still unable to discern by the word of righteousness.
+
+Hebrews 5:12-14 must be held as one movement. Time and ought. Again and become. Milk and meat. Apeiros and nēpios. Then use, exercise, discernment. Full age is not a fourth mark of babes. It is what the two marks have not yet become. The path from milk to meat is this use.
+
+III. Discernment is not a mood
+
+The error is to treat discernment as atmosphere. “I just discerned.” “The Spirit showed me.” “I had a check.” Those sentences may describe a real caution. They do not replace Hebrews 5:14. If the caution cannot sit under what is written, it is a claim that must be tested as Chapter 13 tested “God spoke.” If it requires the writing to move, it is not discernment. It is another court.
+
+Good and evil, in this cluster, are not first a private taste. They are what the word of righteousness distinguishes. A heresy called a doctrine is evil named as good. Sound judgment under the writing is how that naming is refused. Exercised senses are how a people become able to refuse it without waiting for the house to speak first.
+
+A person can discern and still be unheard in a babe-house. An organization can refuse discernment and still call itself of full age. The verse does not ask the house for permission. It attaches strong meat to use. Where use is refused, meat is refused, whatever the house prints on the door.
+
+Ersatz analogical, nonliteral religiousisms live on unexercised senses. They keep the vocabulary of discernment and refuse the use that would make discernment possible. They will call a likeness good because it felt clean. True Christ-ian experience pillows in the unleavened sincerity and truth of the graphē. Discernment that will not pillow there is not full age. It is mood.
+
+IV. Why this fruit requires hermeneutics next
+
+To discern by the writing, the writing must be handled. What does it say? What does it mean? How does Scripture interpret Scripture? How is a contradiction in the reader distinguished from a contradiction in the page? How is the word of truth rightly divided? Those are the next questions. They are not a second epistemology. They are the workman’s questions under 2 Timothy 2:15 and John 10:35.
+
+Part VI has named the labour: the scholarly impetus; spoudazō intellectually; approval unto God; knowing, not a copy; knowledge as perception, learning, and reasoning; Word exercise and Word drill; senses exercised to discern. Part VII will open the handling itself.
+
+V. What this chapter has established
+
+Good and evil are discerned by senses exercised by reason of use — not by mood, title, or age in a house. Full age is use. Strong meat belongs to those so exercised. The same graphē is milk or meat according to the hearer’s use. Discernment that will not sit under the writing is not discernment.
+
+Part VI has opened the labour the writing requires. Part VII will open how that labour handles the page.`,
   },
   {
     id: "ch-ost-24",
