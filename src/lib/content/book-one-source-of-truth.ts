@@ -147,24 +147,58 @@ Chapter 3 will ask the next question: does experience judge the writing, or does
     id: "ch-ost-3",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 3,
-    title: "The Imprimatur of Holy Writ",
-    body: `John 10:34 — “Jesus answered them, Is it not written in your law, I said, Ye are gods?”
+    title: "The Graphē and the Christ-ian Experience",
+    body: `The court is named. The question now is the experience.
 
-John 10:35 — “If he called them gods, unto whom the word of God came, and the scripture cannot be broken;”
+Does the experience conform to the writing, or is the writing recruited to justify the experience?
 
-John 10:36 — “Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?”
+Over the ages, the design of God for a naturalistic Christ-ian experience has pillowed in conformity with the unleavened sincerity and truth of the graphē. That sentence is the governing proposition of this chapter. The design is God’s. The experience is Christ-ian. The pillow is the writing. If those three come apart, what remains may still use Christian words. It will not be the experience the design has given.
 
-The writing He cited is Psalm 82:6 — “I have said, Ye are gods; and all of you are children of the most High.”
+I. Naturalistic Christ-ian experience
 
-Who speaks? The Lord Jesus. To whom? Jews who had taken up stones because He said, I and my Father are one. Why? Because they charged blasphemy, and He answered from the writing they already owned as law. He does not argue from mood. He does not argue from a private voice. He argues from what is written. Then He sets the rule: the scripture cannot be broken.
+Naturalistic, as this teaching uses the word, means following the teachings of Jesus Christ, or manifesting the qualities or spirit of Jesus Christ. It is not nature-worship. It is not a concession to the age. It is not a philosophical naturalism imported from another house and forced onto the page. It names an experience that follows Christ and does so in conformity with the graphē.
 
-Holy Writ is writings or sayings of unchallenged, unquestionable authority. That is imprimatur. Imprimatur here is not a church stamp on a dust jacket. It is the authority of the writing itself.
+Christ-ian is kept with the hyphen for that reason. The word is not a brand. It is the following of His teachings, or the manifesting of His qualities or His spirit. The test of that following is not the heat of the room. The test is the writing. The experience pillows there.
 
-That imprimatur governs persons, organizations, governments, and nations. Age does not exempt. Size does not exempt. A meeting that calls itself a school does not exempt. If the writing governs nations, it governs a week. If it governs organizations, it governs houses that print Bible verses on walls. Private sincerity does not outrank the writing. Office does not outrank the writing. Enrolment does not outrank the writing.
+Unleavened sincerity and truth are not a mood of honesty. A man may be honest in a likeness. Honesty does not make the likeness the writing. Unleavened sincerity and truth name the refusal to mix the graphē with a substitute and call the mixture experience. Leaven here is mixture. The design of God has not given a mixed pillow.
 
-Psalm 82:7 remains in the psalm: “But ye shall die like men, and fall like one of the princes.” The point here is narrower. The Lord treats the writing as unbreakable even when men use it against Him. If He will not break it, you will not be asked to break it to make a convenient Christian experience.
+The Lord has already shown the method. He answered a charge of blasphemy from what was written. He did not invent a more convenient experience and then look for a verse. He sat down under the text He already owned as law. A naturalistic Christ-ian experience does the same. It follows Him there.
 
-Quote John 10:34-36 in full. Name the charge the Lord was answering. Name the writing He cited. Then write four lines: how imprimatur binds a person, an organization, a government, and a nation — without inventing a political program this chapter did not give.`,
+II. Ersatz analogical, nonliteral religiousisms
+
+There is another thing that calls itself Christian experience and is not. This teaching names it ersatz analogical, nonliteral religiousisms.
+
+Ersatz: a substitute. Analogical: a likeness, a comparison that will not bear the weight of the thing itself. Nonliteral: a refusal to let the words mean what they say. Religiousisms: the -ism that remains when the graphē is no longer the pillow.
+
+Keep those terms. They are not ornament. Softening them into “bad religion,” “legalism,” or “the wrong crowd” changes the diagnosis. The contrast is not Bible people versus unspiritual people. A likeness can carry a Bible. A likeness can fill a room. A likeness can be old, funded, sincere, and full of Christian vocabulary. A likeness will not sit down under the text. It uses the writing as decoration. It hunts a verse to bless what it has already decided to be.
+
+That is the method this chapter refuses. Do not invent a likeness and then recruit the graphē to justify the likeness. The writing is not a quarry for mottoes. The writing is the pillow.
+
+III. What will not decide the matter
+
+Sincerity will not decide it. A man may be sincere in the substitute. Sincerity does not make the substitute Holy Writ.
+
+Age will not decide it. An organization may be old in the likeness. Age does not make the likeness the oracles of God. Chapter 2 has already said that age-old houses are under the writing. This chapter adds: they may still be ersatz while they quote it.
+
+Institutional acceptance will not decide it. A practice may be common, licensed, and praised. Commonness is not conformity.
+
+Intensity will not decide it. An experience may be strong, public, and moving. Strength is not a court. If the experience will not be judged by what is written, it has already left the premiere convention, however Christian the language that follows it.
+
+The question remains exact. Does the experience conform to the writing, or does the writing get recruited to justify the experience? One of those two is happening whenever a people speak of “what God is doing.” The graphē decides which.
+
+IV. Why this is a question of maturity
+
+If experience is the court, skill in the Word becomes optional. A people can then grow in feeling and remain apeiros in the word of righteousness. They can be dull of hearing while they call the dullness anointing. They can turn from what was written and call the turn growth.
+
+If the writing is the court, the experience must sit down. Following the teachings of Jesus Christ, or manifesting His qualities or His spirit, is then a conformity, not a performance. Growth is first principles, then maturity — under the writing, not around it.
+
+The Lord would not break the scripture to answer blasphemy. This chapter will not break it to save an experience. Holy Writ remains the pillow. The likeness that will not sit there is not the design of God, whatever name it wears.
+
+V. What this chapter has established
+
+God’s design for a naturalistic Christ-ian experience pillows in the unleavened sincerity and truth of the graphē. Naturalistic means following Christ’s teachings, or manifesting His qualities or His spirit, in conformity with the writing. Ersatz analogical, nonliteral religiousisms are a substitute likeness that will not sit under the text. Sincerity, age, institution, and intensity do not decide the matter. The writing does.
+
+The source is named. The authority is marked. The experience has been seated under the writing. The next movement of the book is the crisis that follows when other courts refuse that seat: who has the final word when claims of truth conflict.`,
   },
   {
     id: "ch-ost-4",
