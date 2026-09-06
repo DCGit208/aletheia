@@ -4,9 +4,9 @@ Map every Movement A element to architecture. Status: **mapped, not yet written*
 
 | ID | Concept | Brief ch. | Status |
 | --- | --- | --- | --- |
-| G01 | Title / true Christ-ian experience | 1, 3 | MAP |
-| G02 | Naturalistic vs ersatz; pillow; unleavened sincerity | 3 | MAP |
-| G03 | Graphē / Holy Writ / Bible / Scripture | 1, 2 | MAP |
+| G01 | Title / true Christ-ian experience | 1, 3 | Ch.1 drafted (G02 contrast reserved for Ch.3) |
+| G02 | Naturalistic vs ersatz; pillow; unleavened sincerity | 3 | Seeded in Ch.1; full contrast still Ch.3 |
+| G03 | Graphē / Holy Writ / Bible / Scripture | 1, 2 | Ch.1 drafted |
 | G04 | Imprimatur; unchallenged authority | 2, 9 | MAP |
 | G05 | Persons, orgs, governments, nations | 2, 4 | MAP |
 | G06 | Straightaway issue on cornerstone; oracles | 11 | MAP |
