@@ -14,7 +14,6 @@ Map every Movement A element to architecture. Status: **mapped, not yet written*
 | G07 | Premiere convention; hearing; growth | 12, 13 | MAP |
 | G08 | First principles → maturity | 33 | MAP |
 | G09 | Hebrews 5:12 full | 11, 14, 17 | MAP |
-| G10 | Reasonability; unskill; aridity; tergiversation; heresies called doctrines | 7, 14 | MAP |
 | G11 | Apeiros | 15 | MAP |
 | G12 | Scholarly impetus; know; media | 18, 20 | MAP |
 | G13 | Spoudazō; 2 Tim 2:15 | 18, 19 | MAP |
