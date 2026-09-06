@@ -27,6 +27,9 @@ Map every Movement A element to architecture. Status: **mapped, not yet written*
 | B00 | Banner 5:11–6:3; 6:3 undeveloped | 11 note | Ch.11 names the range; 6:3 not developed as a seventh stone |
 | B1–B6 | Six principles | 35–40 | Ch.35–40 drafted as test cases (define, cite, distinguish, bridge; not companions) |
 | B7 | Back-list | not chapters | MAP (exclude) |
+| X41 | Final court after every other authority | 41 | Ch.41 drafted (courts, interpreter, products sit down; John 10:34-36; graphē remains) |
+| X42 | Hearing → maturity as one path | 42 | Ch.42 drafted (hearing, unskill, labour, continuance; authority is maturity) |
+| X43 | Thesis restated; charge | 43 | Ch.43 drafted (one source; premiere convention = graphē; six remain six; open the page) |
 
 ## Not in manuscript — allowed only as labeled development
 
@@ -50,4 +53,4 @@ Map every Movement A element to architecture. Status: **mapped, not yet written*
 
 ## Next phase
 
-Chapters 1–40 drafted (Parts I–IX). Next: Part X close (41–43) — final court; hearing to maturity; One Source of Truth.
+Chapters 1–43 drafted (Parts I–X). The reader-facing book prose is complete. Do not add further closing restatements. Remaining work is outside this volume (course lesson numbers vs new architecture; companions as directed).

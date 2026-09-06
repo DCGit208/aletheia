@@ -1853,6 +1853,125 @@ Part IX has not become six monographs. It has taken each name Hebrews gave, held
 
 Part X will close: what remains when every other authority is tested; the path from hearing to maturity; and the thesis said once more. One source of truth: the graphē — Holy Writ.`,
   },
+  {
+    id: "ch-ost-41",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 41,
+    title: "What Remains When Every Other Authority Is Tested",
+    body: `What remains when every other authority is tested?
 
+The book opened with that crisis. When claims of truth conflict, who has the final word? Tradition offered age. Office offered ordination. Confession offered agreement. Prophet offered a present voice. Majority offered numbers. Culture offered the hour. Experience offered the pulse. The interpreter offered the explanation. Each of these may have a place under the writing. None of them remained the court.
 
+What remains is the graphē — Holy Writ: writings or sayings of unchallenged-unquestionable authority. The scripture cannot be broken.
+
+I. The courts sat down
+
+John 10:34 — “Jesus answered them, Is it not written in your law, I said, Ye are gods?”
+
+John 10:35 — “If he called them gods, unto whom the word of God came, and the scripture cannot be broken;”
+
+John 10:36 — “Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?”
+
+The Lord did not add the writing to a panel. He reasoned from it as the court that could not be broken, even when the room had already decided He was a blasphemer. That pattern has judged every later court this volume named. If another court could break the writing, the writing would not be Holy Writ. It would be a brief submitted to that other court.
+
+A documented structure in which Scripture, Tradition, and Magisterium are so connected that one cannot stand without the others was stated as they state it. The Graphē question was not a slur. It was the court question. If the writing is not independently sufficient to test the interpreter, the interpreter is the court. Antiquity does not authenticate doctrine. Age-old organizations ostensibly Christianized can become arid, can turn, and can accept damnable heresies under the name of doctrine. The writing remains.
+
+II. The interpreter sat down
+
+Interpretation must exist. Reading is already handling. 2 Timothy 2:15 commands the labour: study, shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. The word is truth before it is divided. The workman can be ashamed. Therefore the workman is not the source.
+
+Under, beside, or above: those places remain the test of every sitting. Meaning that arrives before the words is already another court. A cluster stripped for a motto is already a break. A contradiction used as a licence to discard a verse is already a safer Bible. Scripture interprets Scripture. The writing remains above the interpretation. This volume used inference, synthesis, and method. It did not become the verse.
+
+III. The products sat down
+
+This book is a straight issue on the essential cornerstone of Christianity — the first principles of the oracles of God. It is not the cornerstone. It is not the premiere convention. It is not a seventh first principle. Hebrews named six. A course may drill these pages. A teacher may open them. A year may grant them. Grant is not imprimatur. The graphē remains first in order for hearing from God and for spiritual growth.
+
+Persons, organizations, governments, and nations are already under that mark. No exemption by office, size, or piety. A nation cannot baptize its custom and call the baptism Holy Writ. A house cannot print Bibles and become Holy Writ. A man cannot feel a word and become Holy Writ.
+
+IV. What remains
+
+What remains is a writing that can be opened in the hearing of others. What is written? What does it say? How is it to be understood, reasoned, rightly handled? How does it govern belief and life? Those questions are still the work. They have a court. The court is the graphē.
+
+Chapter 42 will gather the second question of the book: what happens to a person or a house when that court is not heard, known, handled, and used — and what the writing names as the path from hearing to maturity.`,
+  },
+  {
+    id: "ch-ost-42",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 42,
+    title: "From Hearing to Maturity",
+    body: `What happens when the court is refused — and what does the writing name as the path?
+
+The authority question is the maturity question. If the final court is not the writing, skill in the writing becomes optional. If the writing is the court, hearing, labour, and going on sit in one place.
+
+I. Hearing
+
+The premiere convention for hearing from God and for spiritual growth is the graphē. Premiere: first in order. Convention: the appointed way. You hear where He has spoken — in the writing. “God spoke” is tested by what God has written. Claimed revelation does not authenticate itself. Possession of a Bible is not the convention used. Hebrews 5:11 — “Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.” Dullness can sit among those who hold the book.
+
+II. Unskill
+
+Reasonability is sound judgment under the writing — not reason as a rival court, and not the piety that will not judge. Apeiros is inexperience in the word of righteousness: not newness to a building, not lack of room skill. Nēpios is a babe — a person or a house — as diagnosis, not endearment. Two marks only: dull of hearing, and unskilled in the Word which is the basis for salvation. A third mark must not be sold as if the writing listed it.
+
+Absence of reasonability and presence of unskillfulness produce aridity and tergiversation amongst persons, even age-old organizations ostensibly Christianized: ensued in damnable accepted heresies called doctrines. That chain is still the warning. Format will not reverse it. Soft copy and hard copy are vehicles. Knowing and aligning are the requirement.
+
+III. Labour
+
+The scholarly impetus of the scripture is the writing’s own press toward that knowing. Spoudazō is the labour: speed, effort, diligence, study — intellectually. Approval is unto God. Shame is bad workmanship. The workman may be bound; the word of God is not bound. Knowledge is a mental result of perception, learning, and reasoning. Quotation is not that result. Word exercise and Word drill are use until the senses are exercised. A method may serve that use. It is not Holy Writ.
+
+Full age is use. Strong meat is the same graphē taken by those who can bear it. Discernment of good and evil is not a mood. It is fruit of exercised senses. Rightly dividing holds saying, meaning, cluster, comparison, and pressure under John 10:35.
+
+IV. Continuance, foundation, going on
+
+John 8:31 — “If ye continue in my word, then are ye my disciples indeed.” John 8:32 sits in 8:31-36: know the truth; the truth shall make you free; servant of sin; the Son; free indeed. Pedigree is not freedom. Motto-freedom is not free indeed.
+
+Growth is two movements: first principles, then maturity — perfection. Leaving the foundation is not abandoning it. Skipping it is not going on. Relaying it forever is not faithfulness. The six remain six: repentance from dead works; faith toward God; the doctrine of baptisms; laying on of hands; resurrection of the dead; eternal judgment. Productive living, being in control, and godliness in all capacities are fruit of that skill — not a prosperity motto, not a seventh stone.
+
+A person can refuse this path and remain a babe. A house can refuse it and remain a babe-house. Time will not complete what use has not begun. They had had time. They ought to have been teachers. They had become such as have need of milk.
+
+V. What this chapter has established
+
+Hearing through the writing, labour under the writing, and going on from the foundation are one path. Refuse the court, and dullness, unskill, dryness, turning, and heresies called doctrines follow. Sit under the court, and teachers can be made, the six can be laid, and a people can go on. Chapter 43 will say the thesis once more, without a safer sentence.`,
+  },
+  {
+    id: "ch-ost-43",
+    bookId: ONE_SOURCE_BOOK_ID,
+    number: 43,
+    title: "One Source of Truth",
+    body: `There is one authoritative written source by which Christian truth is to be known, examined, established, taught, discerned, and lived: the graphē — Holy Writ.
+
+That is the thesis this volume set at the opening, tested through every court it named, and now repeats without a safer sentence. The names remain stacked so the claim cannot shrink: graphē · Holy Writ · Bible · Scripture · the written Word. If “Bible” is allowed to mean a product, the source has already been reduced. If “Scripture” is allowed to mean a mood, the source has already been replaced. If “Word” is allowed to mean whatever a speaker felt, the court has already moved.
+
+I. The court
+
+Holy Writ is writings or sayings of unchallenged-unquestionable authority — imprimatur — whether for persons, organizations, governments, or nations. The Lord asked whether it was written. He cited what was written. He set the rule: the scripture cannot be broken.
+
+John 10:34 — “Jesus answered them, Is it not written in your law, I said, Ye are gods?”
+
+John 10:35 — “If he called them gods, unto whom the word of God came, and the scripture cannot be broken;”
+
+John 10:36 — “Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?”
+
+True Christ-ian experience pillows in the unleavened sincerity and truth of that graphē. Ersatz analogical, nonliteral religiousisms keep the vocabulary and refuse the words as written. A naturalistic experience follows Christ and does so in conformity with the writing. A likeness that will not sit down under the text is not that experience.
+
+Interpretation exists and must be shown. The writing remains above the interpreter. One source of truth is not the abolition of handling. It is the mastering of handling. Meaning that arrives before the words is already another court. A cluster stripped for a motto is already a break. A contradiction used as a licence to discard a verse is already a safer Bible.
+
+II. The convention
+
+The premiere convention for hearing from God and for spiritual growth is the graphē — first in order, the appointed way. This book examined that convention. It is not itself the convention. The oracles of God are God’s speaking bound in the writing, not private impressions. “God spoke” is tested by what God has written.
+
+The first principles of those oracles are six, named in Hebrews 6:1-2. This volume issued on that cornerstone. It did not become a seventh stone. Hebrews named six. A later piety that adds a seventh under another name has already left the list. The six remain the test of the method, not the whole of the school. Foundation School labours them. Companions labour them. This book will not swallow them.
+
+III. The labour and the fruit
+
+Spoudazō — intellectually. Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. Know the scriptures, and align. Perceive, learn, reason. Use the word until the senses discern. Continue in His word: disciples indeed; know the truth; the truth shall make you free. First principles, then maturity. Productive living, being in control, and godliness in all capacities are fruit of that skill — yield, freedom from serving sin, the writing in every capacity — not a prosperity motto, and not a seventh stone.
+
+The other chain remains as severe as it was named. Absence of reasonability and presence of unskillfulness produce aridity and tergiversation among persons and houses: ensued in damnable accepted heresies called doctrines. Two marks of babes: dull of hearing; unskilled in the Word which is the basis for salvation. Time will not complete what use has not begun. They had had time. They ought to have been teachers. Format will not reverse the chain. Soft copy and hard copy are vehicles. Knowing and aligning are the requirement. The cure is not a louder room. The cure is the court used.
+
+IV. The charge
+
+Open the page. Ask whether it is written. Hold the cluster. Keep the terms. Distinguish the text from the handling of the text. Let another man open the same writing. Sit down when the writing corrects you. Do not invent a safer Bible. Do not treat a copy as knowing. Do not treat this volume as Holy Writ. Do not treat a course as the premiere convention. Do not treat a teacher as the court.
+
+When claims of truth conflict, the final word is not the oldest voice, the highest office, the largest room, or the strongest feeling. Tradition offered age. Office offered ordination. Confession offered agreement. Prophet offered a present voice. Majority offered numbers. Culture offered the hour. Experience offered the pulse. The interpreter offered the explanation. Each of these may have a place under the writing. None of them remains the court.
+
+The scripture cannot be broken. One source of truth: the graphē — Holy Writ.`,
+  },
 ];
