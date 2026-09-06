@@ -33,25 +33,49 @@ export const oneSourceChapters: BookChapter[] = [
     bookId: ONE_SOURCE_BOOK_ID,
     number: 1,
     title: "What Is the Graphē?",
-    body: `Preliminary note
+    body: `Before Christianity can speak authoritatively about what man should believe, how man should live, how man should grow, or how man should hear from God, it must establish the authority by which those claims are known. That authority is not tradition. It is not culture. It is not an institution, a consensus, an experience, or a private opinion. It is the Graphē — Holy Writ: the Bible, Scripture, the written Word.
 
-The Graphē is the premiere convention for hearing from God and for spiritual growth. This book is not the Graphē and does not replace it. It is an examination of the written authority by which Christian truth is known, tested, taught, and lived.
+This is the question of the book. When claims of truth conflict, what is the final court of appeal? The answer this volume will establish, examine, and follow to its consequences is simple and severe: there is one authoritative written source by which Christian truth is to be known, tested, reasoned through, taught, discerned, and lived. That source is the graphē.
 
-Before Christianity can speak authoritatively about what man should believe, how man should live, how man should grow, or how man should hear from God, it must establish the authority by which those claims are known. That authority is not tradition, culture, institution, consensus, experience, or personal opinion. It is the Graphē — Holy Writ.
+I. The term
 
-I. The meaning of graphē
+Graphē names Holy Writ. The names must stay stacked: graphē · Holy Writ · Bible · Scripture · the written Word. If they come apart, the writing shrinks. “Bible” becomes a product on a table. “Scripture” becomes a mood in a meeting. “Word” becomes whatever a speaker felt while he spoke. Graphē will not allow that shrinkage. It names writings — sayings that stand in writing — of unchallenged, unquestionable authority.
 
-Graphē names Holy Writ: the Bible, Scripture — the written Word. It is writings or sayings of unchallenged, unquestionable authority. Keep the term there. Do not turn it into a theory of inspiration this chapter was not written to invent.
+The term does not ask this chapter to invent a theory of inspiration. It asks the reader to keep the writing where the writing is: open, comparable, quotable, and able to judge the claims made in its name.
 
-Over the ages the design of God for a naturalistic Christ-ian experience — following the teachings, or manifesting the qualities or spirit, of Jesus Christ — has pillowed in the unleavened sincerity and truth of that writing. The experience rests in what is written. It does not invent a likeness and then hunt a verse to bless the likeness.
+A spoken word can be remembered wrongly. A private impression can be claimed without a court. Writing stands. It can be read in the hearing of others. It can be set beside itself. It can be quoted without asking a living official for permission to hear it. That is why writtenness is not a detail of the doctrine. It is the doctrine’s first fact.
 
-II. Why writing matters
+II. The Lord answered from what is written
 
-A spoken word can be remembered wrongly. A private impression can be claimed without a court. Writing stands to be read, compared, quoted, and judged. The Lord Himself answered from what is written. That is why this volume pillows in the writing.
+The graphē is not first defined by a later school. It is defined by the way the Lord Himself treated the writing.
 
-III. The questions this book will not postpone
+John 10:34 — “Jesus answered them, Is it not written in your law, I said, Ye are gods?”
 
-The first question is not, “What do I feel God is saying?” The questions are these:
+John 10:35 — “If he called them gods, unto whom the word of God came, and the scripture cannot be broken;”
+
+John 10:36 — “Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?”
+
+The writing He cited is Psalm 82:6 — “I have said, Ye are gods; and all of you are children of the most High.”
+
+Who speaks? The Lord Jesus. To whom? Jews who had taken up stones because He said, I and my Father are one. Why? Because they charged blasphemy, and He answered from the writing they already owned as law. He does not argue from mood. He does not argue from a voice they cannot open. He argues from what is written. He names the persons in the psalm as those unto whom the word of God came. Then He sets the rule that will govern every page after this one: the scripture cannot be broken.
+
+Hold the cluster. Do not take 10:35 as a motto and leave 10:34 and 10:36 on the table. The Lord asks whether it is written. He reasons from that writing. He will not let men set His own claim against the Scripture. If He will not break the writing to answer a charge of blasphemy, no later teacher will be asked to break it to make a convenient Christian experience.
+
+Psalm 82:7 remains in the psalm: “But ye shall die like men, and fall like one of the princes.” Later chapters will have their work. Here the point is narrower and it will stay narrower: the Lord pillows in the graphē. The writing is the court.
+
+III. True Christ-ian experience pillows here
+
+Over the ages, the design of God for a naturalistic Christ-ian experience has pillowed in conformity with the unleavened sincerity and truth of that graphē.
+
+Naturalistic, as this teaching uses the word, means following the teachings of Jesus Christ, or manifesting the qualities or spirit of Jesus Christ. It is not nature-worship. It is not a philosophical system borrowed from another house and forced onto the page. It names an experience that follows Christ and does so in conformity with the writing.
+
+The experience pillows in the writing. Unleavened sincerity and truth are not a mood of honesty. They name the refusal to mix the writing with a substitute and call the mixture experience. There is another thing that calls itself Christian experience and is not: a likeness that will not sit down under the text — ersatz analogical, nonliteral religiousisms. Chapter 3 will open that contrast in full. Chapter 1 must already refuse the method: do not invent a likeness and then hunt a verse to bless the likeness.
+
+True Christ-ian experience is therefore not first a feeling, a room, or a heritage. It is conformity with the unleavened sincerity and truth of the graphē. If the experience will not pillow there, it is not the experience the design of God has given.
+
+IV. The questions that follow from a writing
+
+Once the source is named, the work of the book is already in view. The first question is not, What do I feel God is saying? The questions are these:
 
 What has God written?
 What does the writing say?
@@ -60,15 +84,15 @@ How is it to be reasoned through?
 How is it to be rightly handled?
 How does what is written govern what we believe and how we live?
 
-This is where the doctrine of the Graphē begins.
+Those questions are hermeneutical and epistemological at once. They ask how the writing is handled, and how truth is known. They also ask how a man grows. A people can possess Bibles and still be dull of hearing. A house can be old and still unskilled in the word of righteousness. Later chapters will name apeiros, nēpios, reasonability, aridity, and the labour that Scripture itself demands. None of that labour has meaning if the source has not been named.
 
-IV. This book under the writing
+The graphē is the premiere convention for hearing from God and for spiritual growth. Premiere: first in order, not first in fashion. Convention: the appointed way God has given. This volume examines that convention. It is not itself the convention. Holy Writ remains the court. These pages sit under it.
 
-This volume examines that written authority. It is not itself Holy Writ. If you treat these pages as the premiere convention, you have already left the writing.
+V. What this chapter has established
 
-John 10:35 — “If he called them gods, unto whom the word of God came, and the scripture cannot be broken;”
+Graphē is Holy Writ — the Bible, Scripture, the written Word. The Lord answered from that writing, and the scripture cannot be broken. God’s design for a true Christ-ian experience pillows in the unleavened sincerity and truth of that graphē. The questions of this book begin there: what is written, what it says, how it is known, how it is handled, and how it governs life.
 
-The Lord answered a charge of blasphemy by appeal to that which was written. He would not let men set His word against the writing. Chapter 3 will open the imprimatur. Chapter 6 will open “cannot be broken.” Here hold this: graphē is Holy Writ, and Holy Writ is the court.`,
+Chapter 2 will open the authority of that writing: Holy Writ as writings or sayings of unchallenged-unquestionable authority, and the reach of that imprimatur. The source has been named. The court is open.`,
   },
   {
     id: "ch-ost-2",
