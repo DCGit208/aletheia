@@ -523,38 +523,150 @@ Part III has stated the thesis: one written source; the scripture cannot be brok
     id: "ch-ost-11",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 11,
-    title: "When for the Time Ye Ought to Be Teachers",
-    body: `Hebrews 5:11-12 — “Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing. For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.”
+    title: "The Oracles of God",
+    body: `What is the cornerstone?
 
-Ought is obligation, not compliment. Time had done its part. They had not. The writer is not teasing. He is diagnosing.
+Part III named the one written source, set the Lord’s rule over it, and seated the interpreter under it. This part asks what that source is for. The graphē is not an ornament on a Christian house. It is the writing in which the oracles of God stand, and those oracles have a foundation. Hebrews names that foundation the first principles of the oracles of God.
 
-Do not soften this into generic encouragement. Immaturity after time is a serious condition. “For the time” names what they had already had. “Ought to be teachers” names what that time required.
+I. Hebrews 5:12 names the cornerstone
 
-Write Hebrews 5:12 by hand. Reason ought, time, and teachers in three sentences that do not apologize for the verse.`,
+Hebrews 5:12 — “For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.”
+
+The verse does not treat the oracles as a mood. It treats them as content that can be taught, forgotten, and taught again. Time had done its part. They had not. They ought to have been teachers. They had become such as have need of milk. The first principles are the beginning that should have been kept.
+
+A cornerstone is not decoration. It is what the house is set on. If it is not laid, the house is not the house the writer of Hebrews is building. This volume is a straight issue on that essential cornerstone of Christianity — the foundation, the first principles of the oracles of God. It issues on the cornerstone. It is not itself the cornerstone. The graphē remains the writing. The oracles remain God’s speaking bound in that writing.
+
+II. Oracles of God are not private impressions
+
+Oracle, in this use, is not a whisper a man cannot open. It is not a voice that authenticates itself by intensity. It is the speaking of God already bound in Holy Writ. If the oracles could be relocated to a private impression, the first principles would become whatever the last voice felt. Then “teach you again” would have no page to return to.
+
+The graphē is writings or sayings of unchallenged-unquestionable authority. The oracles are not a second Bible beside it. They are that writing heard as God speaking. A man may claim an oracle and refuse the page. He has not produced an oracle. He has produced a claim. Chapter 13 will test “God spoke.” This chapter sets the prior fact: the oracles of God have a written location.
+
+Ersatz analogical, nonliteral religiousisms will recruit the word “oracle” for a likeness. They will call a meeting an oracle. They will call a tradition an oracle. They will call this book an oracle. The writing will not grant that. Unleavened sincerity and truth pillow in the graphē. A likeness that will not sit there is not an oracle of God.
+
+III. The first principles are named — six, not seven
+
+Hebrews 6:1-2 — “Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God, Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.”
+
+The writer names six. Repentance from dead works. Faith toward God. The doctrine of baptisms. Laying on of hands. Resurrection of the dead. Eternal judgment. He does not add a seventh stone called the doctrine of the graphē. Hebrews already assumed the writing when it named the oracles. The court in which those six are known is the graphē. The six are the foundation of the oracles. The writing is the source by which that foundation is examined.
+
+This volume will later return to those six only as far as the method requires: to test whether the writing is still the court when doctrine is named. They are named here so the cornerstone has content. They are not named so this book can become a seventh first principle. Hebrews has already counted.
+
+The passage that names them runs from Hebrews 5:11 through 6:3. Verse 3 stands in that range — “And this will we do, if God permit.” Permission to go on is not another stone in the foundation. It is the writer’s refusal to treat going on as a human boast.
+
+IV. Foundation, then go on
+
+Hebrews 6:1 does two works at once. It names the foundation, and it refuses to lay it again as if going on were optional. Leaving the principles is not abandoning them. It is refusing to remain at the beginning after the beginning has been laid. Milk at the start is mercy. Milk after time is indictment. Strong meat is not a second scripture. It is the same graphē taken by those who can bear it.
+
+A people can skip the six and call the skip maturity. A people can relay the six forever and call the relay faithfulness. Both refuse the sequence the writing gives: first principles, then maturity — perfection. The cornerstone is laid so the house can rise. It is not laid so the house can admire the stone and never build.
+
+V. What this chapter has established
+
+The cornerstone of Christianity, as Hebrews names it, is the first principles of the oracles of God. Those oracles are God’s speaking bound in the graphē, not private impressions. The first principles are six, named in Hebrews 6:1-2. This volume issues on that cornerstone. It does not become a seventh stone. Chapter 12 will open what is first in order for hearing from God and for spiritual growth: the premiere convention.`,
   },
   {
     id: "ch-ost-12",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 12,
-    title: "Ye Have Need That One Teach You Again",
-    body: `“Teach you again” is the indictment. The oracles were already given. They need to be taught again because they were not laid.
+    title: "The Premiere Convention for Hearing from God",
+    body: `What is first in order for hearing from God and for spiritual growth?
 
-“Again” means the beginning was not kept. “Become” names the direction: backward while the meetings continue. A people can move into need of milk after years of speech about strong meat.
+Chapter 11 named the cornerstone: the first principles of the oracles of God, bound in the writing. This chapter names the appointed way those oracles are heard, and the appointed way a man grows under them. The premiere convention is the graphē.
 
-Milk after years is not patience. It is recession. The writer does not flatter them for remaining teachable. He charges them with becoming what they ought no longer to have been.
+I. Premiere, and convention
 
-Write “again” and “become” without a soft paraphrase. Then write where you have needed the beginning taught again after you had already used the vocabulary.`,
+Premiere: first in order, not first in fashion. The writing is not the loudest voice in the age. It is the first court to which hearing and growth are bound. A later voice may be useful. It is not first.
+
+Convention: the appointed way God has given. Not a conference. Not a brand. Not a house custom that has learned to call itself the way. The graphē is the convention for hearing from God and for spiritual growth. Christianity does not invent a first way and then hunt a verse to bless it. The writing is already the way.
+
+John 10:35 still governs the claim. The scripture cannot be broken to make another convention first. If a house, a teacher, a course, or this book is treated as the premiere convention, the writing has been asked to wait. Holy Writ does not wait.
+
+II. The convention is the writing, not the teacher of the writing
+
+A teacher may open the page. A course may drill the page. This book may examine the page. None of those is the convention. If they become the convention, the believer’s hearing is bound to a voice that can be withdrawn, corrected, or corrupted, and he will have no court left except that voice.
+
+Chapter 5 already named the places: under, beside, or above. A teacher under the writing serves the convention. A teacher beside the writing shares the bench. A teacher above the writing has become the convention. The same is true of a book. The same is true of a school. The same is true of a year program that grants this volume. Grant is not imprimatur. Inclusion is not Holy Writ.
+
+The error is easy because it sounds loyal. “Stay with the teaching.” “Stay with the house.” “Stay with the method.” Loyalty to a true handling is not the crime. Replacing the writing with the handling is the crime. The premiere convention remains the graphē even when the handling is clean.
+
+III. Hearing and growth are one convention
+
+Hearing from God and spiritual growth are not two religions. You hear where He has spoken — in the graphē. You grow as what He has spoken is known, laid, and used. A people who will not sit under the writing will not hear by inventing a louder room. A people who skip the first principles will not mature by collecting meat they cannot digest.
+
+The sequence is already numbered: from first principles to maturity — perfection. That is not a slogan for a banner. It is the order of growth under the convention. First principles without going on is recession wearing the name of care. Going on without first principles is a house without a cornerstone. Both are refusals of the writing’s order.
+
+Christianity has a premiere convention. That convention is not “Christianity” as a culture, and it is not the book that issues on the cornerstone. It is the graphē — Holy Writ — as the appointed first way to hear and to grow. If this volume is heard as if it were the convention, the authority claim has already been moved from the page to the pages under it.
+
+Hebrews 5:11 — “Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.”
+
+The hard things cannot be uttered because the ear is dull. Dullness is not lack of a Bible. It is lack of hearing the writing as the first convention. A man can hold the book and still not hear. The convention is not possession. It is the writing used as the appointed way.
+
+IV. Growth under the writing
+
+If the graphē is first in order, skill in the Word is not a hobby. Hearing, testing, teaching, and going on all sit in the same place the Lord sat: what is written. Later chapters will name apeiros, nēpios, reasonability, and the scholarly impetus. None of that labour has meaning if another convention has already been crowned.
+
+If another convention is first, the house will grow in loyalty to that convention. It may grow in numbers. It may grow in vocabulary. It will not grow in the oracles. Dullness can then be called covering. Milk after time can be called heritage. Accepted heresies can be called doctrines.
+
+Persons, organizations, governments, and nations are already under the imprimatur. None of them becomes the premiere convention by being large. An age-old organization ostensibly Christianized can still refuse the first order of hearing. Chapter 7 has already named the result. The convention does not change because the house is old.
+
+The premiere convention does not compete with the oracles. It is the way the oracles are heard. It does not compete with the six first principles. It is the writing in which those six are examined. It does not compete with this book. This book sits under it.
+
+V. What this chapter has established
+
+The premiere convention for hearing from God and for spiritual growth is the graphē — first in order, the appointed way. It is not this book, not a course, and not a teacher. Hearing and growth are one convention: you hear where God has written, and you grow under that writing, first principles then maturity. Chapter 13 will press the test that follows: how is “God spoke” examined when a voice claims to have heard?`,
   },
   {
     id: "ch-ost-13",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 13,
-    title: "Milk and Strong Meat",
-    body: `Milk may be kindness to a newborn. Milk may be indictment after time. Strong meat is not a different Bible. It is the same graphē taken by those who can bear it.
+    title: "Hearing God Through What God Has Written",
+    body: `How is “God spoke” tested?
 
-Hebrews 5:13-14 will name the unskilful in the word of righteousness as those who use milk, and will give strong meat to them of full age. Here hold both uses of milk. Do not despise first principles as childish slogans. The first principles are the foundation. Milk after the time you ought to be a teacher is the shame. Milk at the beginning is the mercy.
+Chapter 12 named the premiere convention: the graphē, first in order for hearing and for growth. This chapter applies that convention to the claim men make most quickly and test least: God spoke. A claim that God has spoken is not self-authenticating. The Lord Himself did not treat His own words that way before the writing they already owned.
 
-Write both uses. Then refuse any sentence that makes strong meat a second scripture.`,
+I. The Lord’s pattern is already the test
+
+John 10:34 — “Jesus answered them, Is it not written in your law, I said, Ye are gods?”
+
+John 10:35 — “If he called them gods, unto whom the word of God came, and the scripture cannot be broken;”
+
+John 10:36 — “Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?”
+
+He asks whether it is written. He cites what is written. He will not break the writing to answer a charge. That is how hearing is tested when the pressure is highest. If the Lord pillows His claim in the graphē, a later voice will not be asked to pillow a claim in intensity, antiquity, office, or tears.
+
+“God spoke” is therefore not first a feeling to be protected. It is a claim to be opened beside the page. What has God written? Does the claim sit under that writing, or does it require the writing to move? If it requires the writing to move, the scripture is already being broken, and the convention has already been left.
+
+II. Claimed revelation does not authenticate itself
+
+A prophet may say God has spoken now. A tradition may say God has spoken through the house. An experience may say God has spoken in the pulse. An interpreter may say God has spoken in the explanation. Each of these may have a place under the writing. None of them becomes Holy Writ by being claimed.
+
+Self-authentication is the error. The voice is true because the voice is sure. The house is true because the house is old. The impression is true because the impression is strong. Chapter 4 asked who has the final word. Chapter 7 asked whether antiquity authenticates doctrine. This chapter asks the same question in the language of hearing. If “God spoke” cannot be examined by what God has written, the speaker has become the court.
+
+Ersatz analogical, nonliteral religiousisms live here. They keep the vocabulary of hearing and refuse the writing as written. They will call a likeness a word from God. They will hunt a verse after the likeness is already enthroned. True Christ-ian experience pillows in the unleavened sincerity and truth of the graphē. A word that will not pillow there is not hearing. It is recruiting.
+
+III. Dull hearing among those who hold the book
+
+Hebrews 5:11 — “Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.”
+
+The charge is not that they had no scripture. The charge is that they could not hear. Possession of the writing is not the convention used. A people can carry Bibles and still be dull. A house can print Holy Writ and still train the ear to another court. Then the hard things cannot be uttered, not because God has gone silent, but because the appointed way of hearing has been refused.
+
+Dullness is already a maturity mark. Later chapters will pair it with unskill in the word of righteousness as the two characteristics of babes. The point here is narrower: Bible-holding does not prove hearing. Hearing is tested by whether the writing is allowed to judge the claim that God has spoken.
+
+A man may say, “The Lord told me,” and refuse the cluster. He has not heard more than the man who opens the page. He has heard less, because he has left the premiere convention while using the name of the Lord. A house may say, “God is speaking in this hour,” and then require the graphē to mean what the hour needs. The hour is not the court. The writing is.
+
+IV. How the test is used
+
+The test is not hostility to every claim of present help. It is the refusal to let a claim stand above the page. Open what is written. Hold the cluster. Keep the terms. Distinguish the text from the handling of the text. If the claim survives that sitting, it has not become Scripture. It has been examined under Scripture. If it cannot survive, it must sit down, however useful, however old, however moving.
+
+John 10:35 remains the rule over the examination. The scripture cannot be broken to save the claim. 2 Timothy 2:15 remains the labour of the examination. The workman rightly divides a word that is already truth. He does not create a word by dividing.
+
+This is why one source of truth is not a theory for libraries. It is the condition of hearing. Without one written court, “God spoke” is only the last voice that trained the ear. With one written court, another man can open the same page. Hearing can be tested. Growth can proceed. The oracles can be taught again when they have not been kept, and they can be left as foundation when they have.
+
+V. What this chapter has established
+
+“God spoke” is tested by what God has written. Claimed revelation does not authenticate itself. The Lord’s own pattern is the writing that cannot be broken. Dull hearing can sit among those who hold the book; possession is not the convention used. Hearing through the graphē is the premiere convention applied.
+
+Part IV has opened what the one source is for: the oracles of God, bound in the writing; the premiere convention for hearing and growth; and the test of every claim that God has spoken. Part V will name what is missing when that convention is refused: the absence of reasonability, and the presence of unskillfulness.`,
   },
   {
     id: "ch-ost-14",
