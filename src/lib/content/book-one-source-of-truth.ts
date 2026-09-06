@@ -204,70 +204,165 @@ The source is named. The authority is marked. The experience has been seated und
     id: "ch-ost-4",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 4,
-    title: "God's Design for the Christ-ian Experience",
-    body: `Over the ages, the design of God for a naturalistic Christ-ian experience has pillowed in conformity with the unleavened sincerity and truth of the graphē.
+    title: "Who Has the Final Word?",
+    body: `When claims of truth conflict, who has the final word?
 
-Naturalistic here means following the teachings of Jesus Christ, or manifesting the qualities or spirit of Jesus Christ. It is not nature-worship. It is not philosophical naturalism. It names an experience that follows Christ and does so in conformity with the writing.
+That is the crisis this part of the book opens. Chapter 2 marked Holy Writ as writings or sayings of unchallenged-unquestionable authority. Chapter 3 seated experience under that writing. The crisis begins when another court refuses the seat — when tradition, office, confession, prophet, majority, culture, or private impression claims the right to decide what is true, and the writing is asked to wait.
 
-The experience pillows in the writing. Unleavened sincerity and truth are not a mood of honesty. They name the refusal to mix the writing with a substitute and call the mixture experience.
+The graphē already names the reach of the mark: persons, organizations, governments, and nations. The crisis is not whether those exist. They do. The crisis is whether any of them is the final court of appeal.
 
-God’s design is not waiting for a cleverer room. The design has always rested where the writing is. If you will hear, you hear where He has spoken. If you will grow, you grow under that writing — first principles, then maturity.
+I. Competing claims require a court
 
-Define naturalistic Christ-ian experience in those words. Then name one likeness you have treated as if it were that experience.`,
+Truth requires authority. Where two authorities contradict, a third thing must judge them, or one of them has already been made supreme. An authority cannot simply authenticate itself by its own assertion. A house that says “we are the court” has not yet answered the question. It has restated the claim.
+
+John 10:35 — “If he called them gods, unto whom the word of God came, and the scripture cannot be broken;”
+
+The Lord did not treat the writing as one voice among the voices in the room. He treated it as the court that could not be broken, even when the room had already decided He was a blasphemer. That is the pattern. When claims conflict, the question is not which claim is louder, older, kinder, or more useful. The question is what is written, and whether the writing is allowed to judge the claim.
+
+II. What men offer as the final word
+
+Tradition offers itself as the final word because it is old. Office offers itself because it is ordained. A confession offers itself because it is agreed. A prophet offers himself because he has heard. A majority offers itself because it is many. Culture offers itself because it is present. Experience offers itself because it is felt. Each of these may have a place under the writing. None of them becomes Holy Writ by existing.
+
+The error is self-authentication. Age authenticates itself. Office authenticates itself. Intensity authenticates itself. The graphē will not grant that. Unchallenged-unquestionable authority belongs to the writing. A later chapter will examine the kinds of court more closely. This chapter sets the test that every kind must face:
+
+When two authorities contradict, which one decides which one is true?
+
+If the answer is a man, a house, a vote, or a feeling, the writing has already been broken in practice, however often it is quoted.
+
+III. Why the court decides maturity
+
+If the final court is not the writing, skill in the writing becomes optional. A people can then grow in loyalty to the house and remain unskilled in the word of righteousness. They can be taught again the first principles and call the repetition depth. They can accept what a court has named doctrine and never test it by the page.
+
+If the writing is the court, the labour of knowing it is not a hobby. Hearing, testing, teaching, and going on all sit in the same place the Lord sat: what is written.
+
+IV. What this chapter has established
+
+When claims of truth conflict, the final word is not the oldest voice, the highest office, the largest room, or the strongest feeling. The scripture cannot be broken. Holy Writ remains the court. Chapter 5 will ask what happens when the interpreter of that writing becomes, in practice, the court himself.`,
   },
   {
     id: "ch-ost-5",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 5,
-    title: "Naturalistic Versus Ersatz Analogical Religiousisms",
-    body: `There is another thing that calls itself Christian experience and is not. This teaching names it ersatz analogical, nonliteral religiousisms: a likeness of the faith that will not sit down under the text.
+    title: "When the Interpreter Becomes the Authority",
+    body: `Interpretation exists. The question is not whether men will handle the writing. They will. The question is whether the handler stands under the writing, beside the writing, or above the writing.
 
-Ersatz: a substitute. Analogical: a likeness, a comparison that will not bear the weight of the thing itself. Nonliteral: a refusal to let the words mean what they say. Religiousisms: the -ism that remains when the graphē is no longer the pillow.
+That distinction is the crisis inside the crisis. A people may confess that Holy Writ is authoritative and still give the last word to the man who explains it. Then the interpreter has become the authority. The writing is still named. It is no longer the court.
 
-The question is exact. Does the experience conform to the writing, or is the writing recruited to justify the experience?
+I. Under, beside, or above
 
-Sincerity will not decide the matter. Age of an organization will not. Institutional acceptance will not. A likeness can use the vocabulary. A likeness can fill a room. A likeness will not be judged by the writing if it will not sit down under the text.
+Under the writing: the interpreter opens the text, holds the cluster, and lets the page correct him. He may be skilled or unskilled. He is still under it. 2 Timothy 2:15 names the labour: “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.” Rightly dividing assumes the word is truth before the workman divides it. The workman can divide wrongly. Shame is bad work before God, not a failure of loyalty to an office.
 
-This book will not trade the graphē for that likeness. Keep the unusual terms. Do not soften them into “bad religion” or “legalism.” The contrast is not “Bible people” versus “unspiritual people.” The contrast is conformity with the unleavened sincerity and truth of the graphē versus a religiousism that uses Bible words as decoration.
+Beside the writing: the interpreter and the text are treated as a pair that must agree. When they do not, the pair is “held together” until the text is made to mean what the interpreter already taught. The writing is honoured as a companion. It is not allowed to break the companion.
 
-Write the contrast in two columns. Left: naturalistic. Right: ersatz analogical religiousisms. Then answer the core question for one practice you have defended with a verse.`,
+Above the writing: the interpreter decides what the writing is permitted to say. The page is a resource. The court is the explainer. A man may still quote verses. He quotes them as a magistrate quotes a statute he has already ruled on.
+
+John 10:35 will not grant the third place. The scripture cannot be broken — not by a blasphemy charge, and not by an interpretation that requires the break.
+
+II. Interpretation is not Scripture
+
+The writing is what God has written. Interpretation is what a man says the writing means. Those are not the same act. Confusing them is how a house can call its reading “the Word” and then treat disagreement with the house as disagreement with God.
+
+Necessary inference from Scripture is still inference. A synthesis from many passages is still a synthesis. A pedagogical method is still a method. This book will use all three. It will not present them as if they were the verse. Intellectual honesty is part of sitting under the writing. If the interpreter will not distinguish the text from his handling of the text, he has already stepped above it.
+
+III. Dependence
+
+When the interpreter is the final court, the believer cannot test doctrine except by that interpreter. Skill in the Word is then replaced by skill in the house’s voice. Dullness of hearing can be institutionalized and called covering. A people can become unable to examine a claim independently from Scripture, and call that inability humility.
+
+The manuscript’s later diagnosis is already visible here. Absence of reasonability and presence of unskillfulness produce aridity and tergiversation, even among age-old organizations ostensibly Christianized, ensued in damnable accepted heresies called doctrines. An interpreter who cannot be tested by the writing is one way that chain is laid.
+
+IV. What this chapter has established
+
+Interpretation must exist. It must remain under the writing. Rightly dividing the word of truth is labour in a word that is already truth. When the interpreter becomes the court, the believer’s maturity is capped at loyalty. Chapter 6 will name the kinds of court men actually use when they will not let the graphē have the last word.`,
   },
   {
     id: "ch-ost-6",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 6,
-    title: "The Scripture Cannot Be Broken",
-    body: `John 10:34-36 is not a motto. It is the Lord’s reasoning in the face of accusation.
+    title: "The Many Courts of Religious Truth",
+    body: `Men do not invent a new court every morning. They use kinds. The kinds can be named without touring every religion on earth. The question in every case is the same: what functions as the final court of appeal?
 
-He appeals to Scripture. He reasons from the writing. He asserts that the scripture cannot be broken. He does not answer with a private voice against the writing. He does not invent a safer Bible. He stands in the court of what is written.
+I. Kinds of court
 
-When human claims rise above what is written, the premiere convention has already been left. A teacher, a tradition, a majority, or a book — including this one — that will not sit under John 10:35 is religiousism, however Christian the vocabulary.
+The writing: Holy Writ as independently sufficient to test the claim. That is the court this book argues.
 
-The interpreter exists. Interpretation exists. The question is not whether men will handle the writing. The question is whether the handler stands above the writing, beside the writing, or under the writing. This volume will return to that distinction. Here the rule is already set: the scripture cannot be broken.
+Tradition: what has been handed down, treated as a deposit beside or above the page.
 
-Teach John 10:34-36 as authority and reasoning. Write what “cannot be broken” forbids you to do to a likeness of the faith.`,
+Office: a living teaching authority that claims the authentic interpretation.
+
+Confession: a subscribed document that binds the reader before the verse is opened.
+
+Prophet: a voice that says God has spoken now, and the page must make room.
+
+Experience: what was felt, seen, or suffered, treated as the meaning of the text.
+
+Consensus: what the room, the age, or the culture has already decided.
+
+A church may organize. A scholar may interpret. A teacher may instruct. A prophet may claim revelation. A tradition may preserve history. Organization is not the issue. The issue is which of these, when they conflict with the writing, is allowed to win.
+
+II. A documented case: Scripture, Tradition, and Magisterium
+
+It is not enough to say “some churches have three sources.” The official Catholic formulation is more precise than that, and this book will use it as they state it.
+
+Sacred Scripture and Sacred Tradition are taught as one sacred deposit of the Word of God. The task of authentically interpreting the Word of God is entrusted to the living Magisterium of the Church. Scripture, Tradition, and Magisterium are described as so connected that one of them cannot stand without the others. That is the structure in Dei Verbum 10 and in the Catechism’s account of the transmission of Revelation.
+
+The Graphē question is not a slur against a people. It is the court question. When the authentic interpreter and the writing appear to conflict in the believer’s hearing, who is the final court? Does the writing remain independently sufficient to test the interpreter, or has the interpreter become the court that tells the writing what it may say?
+
+If the three cannot stand without one another, then Scripture is not functioning as an independently sufficient final court of appeal. That is a serious structure. It deserves to be stated accurately. It also deserves to be examined by John 10:35. The scripture cannot be broken — including by an authentic interpreter.
+
+III. Other courts, same test
+
+A confessionally bound body may confess that Scripture is supreme and still treat the confession as the court that decides what Scripture is allowed to mean. A governing interpretive office may restrict independent examination of the text. A living prophet may set additional writing, or a present word, beside the graphē. A man may say “God told me” and refuse the page. A majority may call its consensus the Spirit. A culture may baptize its assumptions as Christian experience.
+
+This chapter will not caricature those houses. It will not pretend each receives the same number of pages. It will apply one test: what is regarded as revelation, who has final interpretive authority, and what happens when that authority and the writing conflict. If the believer cannot examine the claim by the graphē, the interpreter — whatever name he wears — has become the court.
+
+IV. What each court trains
+
+Each court trains a kind of hearing. A writing-court trains a man to open the cluster. An office-court trains him to wait for the office. A prophet-court trains him to chase the next word. An experience-court trains him to read his pulse as the verse. Maturity follows the court. If the court is not the graphē, skill in the Word is not the path that house will produce, however many Bibles it prints.
+
+V. What this chapter has established
+
+The kinds of court can be named: writing, tradition, office, confession, prophet, experience, consensus. A serious case — Scripture, Tradition, and Magisterium as officially stated — shows a structure in which Scripture is not independently the last court. The test remains John 10:35. Chapter 7 will press the form of the crisis the manuscript itself names: when religion calls its own tradition truth because the organization is old.`,
   },
   {
     id: "ch-ost-7",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 7,
-    title: "The Oracles of God",
-    body: `Hebrews 5:12 — “For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.”
+    title: "When Religion Calls Its Own Tradition Truth",
+    body: `Does antiquity authenticate doctrine?
 
-The first principles of the oracles of God are the essential cornerstone of Christianity. A cornerstone is not an ornament. It is what the house is set on.
+The manuscript will not grant that it does. Predominantly, the absence of reasonability — sound judgment — and the presence of unskillfulness produce aridity and tergiversation amongst persons, even age-old organizations ostensibly Christianized: ensued in damnable accepted heresies called doctrines.
 
-Oracles of God are not private impressions. They are the speaking of God already bound in the graphē. The first principles of that speaking are named in Hebrews 6:1-2:
+That sentence is the governing diagnosis of this chapter. Age is in the sentence. So is the appearance of being Christianized. So is the result: heresies accepted, and called doctrines. The problem is not that error exists. The problem is that error has been installed as teaching, and the house is old enough to forget that it was installed.
 
-1. Repentance from dead works
-2. Faith toward God
-3. The doctrine of baptisms
-4. Laying on of hands
-5. Resurrection of the dead
-6. Eternal judgment
+I. Age-old and ostensibly Christianized
 
-This book examines the written authority by which those six are known. It is not itself one of them. Hebrews names six. This volume does not invent a seventh oracle and call it the Doctrine of the Graphē. The Graphē is the convention under which the six are laid. The six remain the first principles.
+Ostensibly means the appearance is granted. The organization looks Christian. It uses the vocabulary. It may hold the book. It may be older than the reader’s nation. None of that is the imprimatur. Chapter 2 already bound organizations under Holy Writ. This chapter adds what the manuscript adds: they can still go dry, and they can still turn.
 
-Write Hebrews 5:12. Name the cornerstone. Name the six. Write one sentence that keeps this book under the writing, and the six as the foundation the writing names.`,
+Aridity is dryness where the oracles should yield. The meetings continue. The vocabulary continues. The writing does not yield because it is not known, not reasoned, not used.
+
+Tergiversation is turning from what was said. The house shifts. It changes the proposition. It refuses the textual consequence. It calls the shift growth, or development, or the mind of the age.
+
+What follows is damnable accepted heresies called doctrines. Damnable: not a taste dispute. Accepted: the house diet. Called doctrines: the name “doctrine” has been put on what the graphē will not bear.
+
+II. Tradition does not authenticate itself
+
+A tradition may preserve a true thing. It may also preserve a substitute and teach the substitute as the faith. The age of the preservation does not decide which. The writing decides which.
+
+If tradition is the court, the believer’s question becomes “What have we always said?” If the graphē is the court, the question remains “What has God written?” Those are not the same question. The first can be answered from minutes, councils, and memory. The second must be answered from the page. A house that will not allow the second question has already made its tradition Holy Writ, whether or not it uses that name.
+
+Sincerity does not rescue the tradition. Office does not. Continuity does not. The manuscript’s blame is still the blame: failure to realize the scholarly impetus of the scripture and to align accordingly — failure to know the scriptures, soft copy or hard. Format will not save an old house. Labour in the writing might.
+
+III. Why this is still a maturity question
+
+A babe may be a person. A babe may be an organization. Unskilled in the word of righteousness is the mark, not the birthday of the institution. Dull of hearing can be the house’s habit. Then the first principles must be taught again, and the house will call the repetition its heritage.
+
+If antiquity is the court, skill in the Word is optional. If the writing is the court, even an age-old organization must sit down. The scripture cannot be broken to spare a tradition. The Lord would not break it to spare Himself a charge. A house will not be asked to break it to spare itself a correction.
+
+IV. What this chapter has established
+
+Antiquity does not authenticate doctrine. Age-old organizations ostensibly Christianized can become arid, can turn from what was written, and can accept damnable heresies under the name of doctrine. Tradition may preserve; it may not judge the graphē. The writing remains the court.
+
+Part II has opened the crisis: who has the final word; when the interpreter becomes the court; the kinds of court men use; and the old house that calls its tradition truth. Part III will state the thesis in full. There is one authoritative written source by which Christian truth is to be known, examined, established, taught, and lived: the graphē — Holy Writ.`,
   },
   {
     id: "ch-ost-8",
