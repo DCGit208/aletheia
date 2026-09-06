@@ -16,12 +16,12 @@ Map every Movement A element to architecture. Status: **mapped, not yet written*
 | G09 | Hebrews 5:12 full | 11, 14, 17 | Ch.11 drafted; used as knowledge illustration in Ch.21; meat/full age opened in Ch.23 |
 | G11 | Apeiros | 15 | Ch.15 drafted (inexperienced / ignorant / unskillful; not new-to-building or room skill) |
 | G12 | Scholarly impetus; know; media | 18, 20 | Ch.18–20 drafted (impetus ≠ degree; copy ≠ knowing; align) |
-| G13 | Spoudazō; 2 Tim 2:15 | 18, 19 | Ch.18–19 drafted (“intellectually” kept; 2 Tim 2:3, 8-9, 15) |
+| G13 | Spoudazō; 2 Tim 2:15 | 18, 19 | Ch.18–19 drafted; rightly dividing opened as handling in Ch.24–30 |
 | G14 | Persons or orgs; word of righteousness | 15, 16 | Ch.15–16 drafted (person or house; field = word of righteousness) |
 | G15 | Nēpios | 16 | Ch.16 drafted (diagnosis, not endearment) |
 | G16 | Heb 5:13 both terms | 15, 16 | Ch.15–16 drafted (full quote with apeiros and nēpios) |
 | G17 | Two marks only; Word basis for salvation | 17 | Ch.17 drafted (dull of hearing; unskilled in the Word; no third mark) |
-| G18 | Knowledge; perception; learning; reasoning; Word exercise/drill | 21, 22 | Ch.21–22 drafted (three-part knowledge; 14-step method shown as labour, not oracles) |
+| G18 | Knowledge; perception; learning; reasoning; Word exercise/drill | 21, 22 | Ch.21–22 drafted; Part VII uses the same mental result as handling, not a second epistemology |
 | G19 | Productive living; control; godliness | 34 | MAP |
 | G20 | John 8:32 | 31, 32 | MAP |
 | B00 | Banner 5:11–6:3; 6:3 undeveloped | 11 note | Ch.11 names the range; 6:3 not developed as a seventh stone |
@@ -50,4 +50,4 @@ Map every Movement A element to architecture. Status: **mapped, not yet written*
 
 ## Next phase
 
-Chapters 1–23 drafted (Parts I–VI). Remaining old 32-chapter slots (24+) are not finished prose — rebuild from briefs when each part is requested. Do not polish those leftovers as if they were the book.
+Chapters 1–30 drafted (Parts I–VII). Remaining old 32-chapter slots (31–32) are not finished prose — rebuild from briefs when Part VIII is requested. Do not polish those leftovers as if they were the book. The array will grow as Parts VIII–X are written.

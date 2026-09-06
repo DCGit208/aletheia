@@ -1184,94 +1184,292 @@ Part VI has opened the labour the writing requires. Part VII will open how that 
     id: "ch-ost-24",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 24,
-    title: "Spoudazō",
-    body: `Spoudazō: to use speed, to make effort, be prompt or earnest; do diligence, be diligent, endeavour, labour, study — intellectually.
+    title: "What Does the Writing Say?",
+    body: `What does the writing say?
 
-2 Timothy 2:15 — “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.”
+That is the first work of handling. Part VI named the labour: spoudazō, knowing, perception, learning, reasoning, use. This part opens how that labour sits with a page. The first sitting is not “What do I hear?” It is not “What does this mean to me?” It is the Lord’s own question: Is it not written?
 
-Speed here is not haste that skips context. It is earnestness that will not postpone the labour. Effort is not noise. Promptness is not a calendar app. Earnestness refuses to treat the oracles as optional once the week fills. Intellectually belongs to the definition. This book will not despise the mind as if reasoning were unbelief.
+John 10:34 — “Jesus answered them, Is it not written in your law, I said, Ye are gods?”
 
-Knowledge — perception, learning, and reasoning — becomes possible where spoudazō is present. Quotation without that labour is not skill.
+He asked whether it was written. He cited what was written. He would not break the writing to answer a charge. Handling that skips what the writing says has already left the premiere convention, however spiritual the skip sounds.
 
-Define spoudazō without reducing it to “try hard.” Quote 2 Timothy 2:15. Write what intellectual study will look like in your next seven days — hour and text.`,
+I. Saying is prior to meaning
+
+Perception, as Chapter 21 defined it, is seeing what the text says, not what you wish it said. Hermeneutics begins there or it does not begin. A man who starts with meaning has already supplied a court. The words then wait to be recruited. Ersatz analogical, nonliteral religiousisms live on that skip. They keep the vocabulary of Scripture and refuse the words as written.
+
+What the writing says includes the words in their place: who speaks, to whom, why, what is commanded, what is promised, what is distinguished, what is repeated, what is denied. It includes the load-bearing terms. Hebrews 5:12 says time, ought, teachers, again, first principles, oracles of God, become, milk, strong meat. Those are not ornaments. They are what the verse says. Explain them later. See them first.
+
+2 Timothy 2:15 still governs the sitting. Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. A workman who will not say what the word says cannot divide it. He can only decorate a conclusion he already chose.
+
+II. “Is it not written?” is the method
+
+The Lord did not ask whether they felt the psalm. He asked whether it was written in their law. The graphē is writings. Writings can be opened in the hearing of others. That is why writtenness is not a detail. If the first work is not “what is written,” the first work has moved to a voice that cannot be opened.
+
+John 10:35 — “If he called them gods, unto whom the word of God came, and the scripture cannot be broken;”
+
+Cannot be broken includes cannot be skipped. A safer Bible can be assembled by leaving hard words on the table. “Become” can be left off Hebrews 5:12. “Intellectually” can be left off spoudazō. “Persons or organizations” can be left off nēpios. The remaining words still sound like Scripture. They are Scripture after the skip. That skip is already apeiros in the word of righteousness.
+
+III. What refusing the saying produces
+
+Wrong handling here is not a small academic fault. It is how unskill remains after years. A people can hear much speech and never be required to say what the verse says. They can then accept damnable heresies called doctrines, because the doctrines were never made to sit beside the words. Sound judgment cannot judge what has not been seen.
+
+A house can train this refusal. It can teach the meaning first and the verse second. It can call that teaching covering. The member then cannot examine the claim. Chapter 5 named that place: the interpreter above the writing. This chapter names the first move that puts him there: he will not let the writing speak its own words before he speaks.
+
+Write what the verse says before you write what it means. That is not a schoolroom trick. It is how unleavened sincerity begins. If you cannot return the words, you have not yet perceived them. If you will not return the hard words, you have already chosen a safer saying. The scholarly impetus of the scripture is not a call to skip this sitting. It is a call to know what is written.
+
+IV. What this chapter has established
+
+The first work of handling is what the writing says. The Lord’s question is the method: Is it not written? Meaning that arrives before the words is already another court. Skipping a load-bearing word is breaking the writing in practice. Chapter 25 will ask the next work: what does the writing mean — and how is that meaning kept under the words?`,
   },
   {
     id: "ch-ost-25",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 25,
-    title: "The Approved Workman",
-    body: `2 Timothy 2:15 sits in a war letter, not on a hobby page. Hold it with hardness, shame, and a word that is not bound (2 Timothy 2:3, 8-9).
+    title: "What Does the Writing Mean?",
+    body: `What does the writing mean?
 
-Study — the imperative.
-To shew thyself — visible in the workmanship, not in the claim.
-Approved unto God — the audience of approval is God.
-A workman — craft in the word of truth; shame is bad work before God.
-Rightly dividing the word of truth — the word is truth; it can be divided wrongly.
+Chapter 24 required the first sitting: what the writing says. This chapter requires the second: what those words mean. Meaning is not optional. Reading is already on the way to meaning. The question is whether meaning remains under the words, or becomes a court beside them, or a court above them.
 
-Dull hearing and apeiros produce wrong division. Right division holds a cluster, keeps a distinction, and will not merge what the text keeps apart.
+I. Meaning is handling, not a second Bible
 
-Write six sentences that reason — not six sentences that repeat: approved · workman · rightly dividing · what shame is · what wrong division does · what you will divide this week under the writing.`,
+Interpretation must exist. Chapter 10 already held that sentence with its companion: the writing remains above the interpreter. Hermeneutics is that pair applied to a passage. The workman asks what the words mean in their place. He does not ask what he needs them to mean. He does not ask what the hour needs them to mean. He asks what they mean as written.
+
+2 Timothy 2:15 — “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.”
+
+The word is truth before it is divided. Meaning is not created by a clever division. Meaning is reached by labour in a word that is already truth. A workman can be ashamed of a meaning that will not survive the page opened in the hearing of others.
+
+John 10:35 still governs the meaning: the scripture cannot be broken to make a sense come out clean. If the sense requires a word to be emptied, or a cluster to be trimmed, or a contrary verse to be postponed, the sense is not the writing’s meaning. It is the interpreter’s convenience.
+
+II. How meaning is reached
+
+Perception has seen the words. Learning has kept them. Reasoning now holds them until the distinction the text makes is teachable. That is knowledge, as Chapter 21 defined it. Hermeneutical meaning is not a fourth epistemology. It is that mental result aimed at “what does this mean?”
+
+The Lord reasoned from what was written. He cited Psalm 82:6. He named those unto whom the word of God came. He set the rule. He reasoned from the rule to His own claim. Meaning followed the writing. It did not recruit the writing after the claim was finished.
+
+Ersatz analogical, nonliteral religiousisms reverse that order. They have a meaning first — a likeness, a tradition, an experience. They then hunt a verse. The verse is made to mean the likeness. That is not meaning. That is recruiting. Unleavened sincerity and truth pillow in the graphē. A meaning that will not pillow there is not the writing’s meaning.
+
+III. “What it means to me” is not the court
+
+Private application may come after meaning. It must not replace meaning. “What it means to me” can be a way of refusing what it means. Then every man has a Bible and no court. Dull hearing can be called personalization. Apeiros can be called honesty. A house can bless that refusal and call it encounter.
+
+Meaning under the words can be shown. Another man can open the same page. That is why one source makes teachers possible. Meaning above the words can only be received from the man who announced it. That is why an interpreter-court produces dependents.
+
+Hebrews 5:12 means what its words force, not what a house wishes “ought” to soften into. Time had done its part. They had not. They ought to have been teachers. They had become such as have need of milk. A meaning that turns that charge into generic encouragement has not interpreted the verse. It has protected the reader from the verse. Approved unto God will not bless that protection.
+
+IV. Wrong meaning is already unskill
+
+A people who will not labour for meaning remain unskilful in the word of righteousness. They may quote. They may feel. They may follow a house sense. They do not know. Then heresies can be accepted and called doctrines, because the name “meaning” has been put on what the graphē will not bear. Sound judgment would have tested the sense by the words. Absence of reasonability lets the sense stand.
+
+V. What this chapter has established
+
+Meaning is the second work of handling, and it remains under the words. The word of truth is already truth; the workman can divide it wrongly. A sense that requires the writing to break is not the writing’s meaning. “What it means to me” is not the court. Chapter 26 will open what must stay attached to the verse if saying and meaning are to remain honest: the cluster — the context.`,
   },
   {
     id: "ch-ost-26",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 26,
-    title: "What Is Knowledge?",
-    body: `Knowledge is a mental result of perception, learning, and reasoning. The practice named with that definition is Word exercise, Word drill.
+    title: "Hold the Cluster",
+    body: `What must stay attached to the verse?
 
-Knowledge is not a pile of information. A man may quote a verse and still be a babe. Quotation without reasoning is not skill. Information collected is not that mental result.
+A verse isolated to manufacture a doctrine the cluster will not bear is already a break. Chapter 1 forbade taking John 10:35 as a motto and leaving 10:34 and 10:36 on the table. Chapter 9 named that isolation as breaking. This chapter makes the rule of handling: hold the cluster. Context is not a seminary ornament. It is how the writing is kept from being broken in practice.
 
-Perception → learning → reasoning → knowledge. Do not collapse these into one thing. The next chapters open each stage. Part XII opens the drill.
+I. The cluster is the verse’s place
 
-You do not know a verse until you can perceive it, keep it, and reason it in its cluster.
+John 10:34-36 is one answer. The Lord asks whether it is written. He cites the psalm. He sets the rule that the scripture cannot be broken. He reasons to His own claim. Remove 10:34, and “cannot be broken” becomes a banner without a method. Remove 10:36, and the rule floats free of the pressure that proved it. The cluster is the argument’s place.
 
-Write the definition. Then write one verse you can quote that you cannot yet reason in its cluster — and begin perception this week.`,
+Hebrews 5:11-14 is one diagnosis. Dull of hearing. Time, ought, again, oracles, become, milk, meat. Apeiros in the word of righteousness; nēpios. Use, senses exercised, discernment. Remove 5:11, and unskill has no ear. Remove 5:14, and milk has no meat. Remove “become,” and recession becomes patience. The cluster is the diagnosis’s place.
+
+2 Timothy 2:3, 8-9, and 15 is one charge. Hardness. A word not bound. Study, approved unto God, workman, not ashamed, rightly dividing. Remove the hardness, and study becomes a hobby. Remove “the word of God is not bound,” and the workman’s bonds become a safer Bible. The cluster is the charge’s place.
+
+II. Context is not a tool for emptying words
+
+The error on one side is motto use: the verse without its place. The error on the other is context used as a solvent: the place used to empty the words. “In context” then means “it does not mean what it says.” That is not holding the cluster. That is breaking the saying by appeal to the neighbourhood.
+
+John 10:35 will not grant the solvent. The scripture cannot be broken — including by a context that requires the words to mean what they do not say. True context keeps the words and shows their argument. False context protects a conclusion the words would judge.
+
+“In your law,” in John 10:34, does not empty the psalm. It locates it. “For the time,” in Hebrews 5:12, does not empty “ought.” It locates the obligation. “Unto God,” in 2 Timothy 2:15, does not empty “approved.” It locates the audience. Context answers where and in what argument. It does not answer “therefore the hard word does not count.”
+
+III. Why isolation produces heresies called doctrines
+
+A doctrine can be manufactured from a fragment. The fragment is still Bible. The doctrine is not therefore the graphē. Age-old organizations ostensibly Christianized can live on fragments. They can print the cluster and teach the fragment. The members hear a verse. They do not hear the argument. Dull of hearing is then compatible with much quotation.
+
+Wrong handling of this kind is already apeiros. The word of righteousness is not experienced as a court that has a place. It is experienced as a resource of lines. Reasonability cannot judge a line that has been cut off from the words that would correct it. What ensues can be damnable accepted heresies called doctrines — still wearing a verse.
+
+IV. How the workman holds the cluster
+
+He reads what is written. He observes the argument, not only the sentence. He identifies the load-bearing words. He defines them as the cluster uses them. He asks who speaks, to whom, why. He will not conclude from 10:35 what 10:34-36 will not bear. He will not conclude from 5:13 what 5:11-14 will not bear. He will not conclude from 2:15 what 2:3 and 2:8-9 will not bear.
+
+This is not a second method besides Word drill. It is the drill’s “contextualize” and “connect” named as a rule. The rule serves the writing. It is not the writing.
+
+V. What this chapter has established
+
+The cluster must stay attached to the verse. Context keeps the argument; it does not empty the words. Motto use and solvent context are two ways of breaking the writing. Isolation is a path to heresies called doctrines. Chapter 27 will ask who interprets the writing when two passages are opened: Scripture interprets Scripture.`,
   },
   {
     id: "ch-ost-27",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 27,
-    title: "Perception",
-    body: `Perception: you see what the text says, not what you wish it said. You see the words in their place. You see who speaks, to whom, and why. You see the cluster the verse sits in. Perception is not a mystical extra. It is the refusal to skip what is on the page.
+    title: "Scripture Interprets Scripture",
+    body: `What interprets the writing?
 
-Attend to words, grammar, context, repetitions, contrasts, sequence, commands, promises, conditions, conclusions, and the relationships between statements. Do not substitute interpretation before observation.
+The graphē is the one written source. When a passage is hard, the first interpreter is not a tradition, an office, a feeling, or this book. The first interpreter is the writing opened beside the writing. The Lord interpreted the charge against Him by what was already written. That is the pattern.
 
-Take Hebrews 5:12. Perceive it. Write every load-bearing word before you explain anything. No summary first.`,
+I. The Lord opened Scripture with Scripture
+
+John 10:34 — “Jesus answered them, Is it not written in your law, I said, Ye are gods?”
+
+He cited Psalm 82:6. He did not cite a house line. He did not cite a private impression. He set the psalm beside the charge, and He set the rule beside both: the scripture cannot be broken. Scripture interpreted the controversy. The writing judged the room.
+
+2 Timothy 2:15 requires a workman who can do that labour: rightly dividing the word of truth. Dividing is not isolating. It is handling the word as truth that has more than one place, and will not be made to fight itself to save a convenience. Compare. Connect. Let the clearer govern the obscure without emptying either.
+
+II. Other interpreters must sit down
+
+Tradition may preserve a true connection. It may also preserve a false one and teach the connection as the faith. Office may open a cluster. It may also forbid the member to open the second text. Experience may send a man to a verse. It may also forbid the verse to correct the experience. Each of these may have a place under the writing. None of them becomes the first interpreter by existing.
+
+Chapter 6 named the kinds of court. This chapter names the hermeneutical form of the same test. When the authentic interpreter and a second passage appear to conflict, which interprets which? If the second passage cannot be allowed to speak, the interpreter has become the court. John 10:35 will not grant that. The scripture cannot be broken — including by an interpreter who will not let Scripture interpret Scripture.
+
+III. Comparison is labour, not a pile
+
+Chapter 20 already said a copy is not knowing. A pile of cross-references is not yet Scripture interpreting Scripture. Perception must see both places. Learning must keep both. Reasoning must hold them until the distinction or the unity the writing forces is teachable. That is knowledge aimed at comparison. Tourism among verses is not.
+
+The workman compares what the text itself joins, and what the same words require elsewhere. He does not join what the text keeps apart in order to manufacture a doctrine. He does not refuse a join the text makes in order to spare a tradition. Hebrews 5:12-14 interprets “babe” by milk, unskill, and use. 2 Timothy 2:15 interprets study by approval, shame, and right division. John 10:34-36 interprets “cannot be broken” by a cited psalm and a charged claim. Those are the writing’s own joins.
+
+A later chapter will take the six first principles as a test of this method — one chapter each, not six books. The test will be whether Scripture is still allowed to interpret Scripture when doctrine is named. If a companion, a course, or this volume becomes the first interpreter of those six, the convention has already moved. The writing remains first.
+
+IV. Why this keeps maturity possible
+
+If Scripture interprets Scripture, another man can open the same two pages. Teachers can be made when the time requires them. If a house interprets Scripture, the member must wait. Dull hearing is then institutionalized. Apeiros is then called loyalty. Heresies can be accepted and called doctrines because the second text was never allowed in the room.
+
+The premiere convention remains the graphē. Comparing writing with writing is the convention used, not replaced. This volume may point to joins. It does not become the join.
+
+V. What this chapter has established
+
+The writing interprets the writing. The Lord’s pattern is Scripture set beside the controversy under a rule that cannot be broken. Other interpreters sit down. A pile of references is not yet that labour. Chapter 28 will settle again, as a rule of handling, what Chapter 5 and Chapter 10 settled as a crisis: the writing remains above the interpretation.`,
   },
   {
     id: "ch-ost-28",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 28,
-    title: "Learning",
-    body: `Learning: you take it in, and you keep it. You write it. You can return it. A verse you cannot write is a verse you have not yet learned, however often you have heard it. Learning is not a feeling of familiarity.
+    title: "The Writing and the Interpretation",
+    body: `Which is master when a passage is handled — the writing, or the interpretation?
 
-Learning includes retention, comprehension, comparison, contextual learning, vocabulary, doctrinal categories, and Scripture familiarity that can be produced by hand.
+Chapter 5 named the places: under, beside, or above. Chapter 10 stated the thesis consequence: interpretation must exist, and the writing remains above the interpreter. This chapter is the same distinction as a rule of sitting. Hermeneutics that will not keep the distinction will produce dependents, not workmen, and will end in heresies called doctrines.
 
-Write Hebrews 5:11-14 by hand. If you cannot, you have not yet learned the diagnosis — only heard it.`,
+I. Two acts, one court
+
+The writing is what God has written. Interpretation is what a man says the writing means. Those are not the same act. A necessary inference is still an inference. A synthesis from many passages is still a synthesis. A method of drill is still a method. Chapter 22 already showed fourteen steps as labour, not as oracles. The same honesty belongs to every sentence a teacher adds to a verse.
+
+2 Timothy 2:15 assumes the distinction. The word of truth is already truth. The workman divides it. He can be ashamed of the division. If the division were the word, shame would be impossible. Shame is possible because handling can fail.
+
+John 10:35 assumes the distinction. The scripture cannot be broken. If the interpreter’s sentence were the scripture, the rule would be “the interpreter cannot be broken.” The Lord did not say that. He set the writing as the court over His own controversy. A later teacher will not be more authorised than He was to merge the two acts.
+
+II. How the merge happens in handling
+
+It happens when a house calls its reading “the Word.” Disagreement with the reading is then disagreement with God. It happens when a commentary is treated as if it were the cluster. It happens when this book is treated as if it were the graphē. It happens when a student cannot tell, on a page he has written, which sentences are quotation and which are his reasoning.
+
+Intellectual honesty is part of sitting under the writing. Mark the text. Mark the inference. Mark the application. If the inference falls, the text remains. If the application falls, the text remains. If the house will not allow that marking, the house has chosen a different source, whatever it prints on the cover.
+
+Word drill already required this marking. Observe before you explain. Define as the cluster uses the term. Test the conclusion by whether the scripture is being broken. Demonstrate competency means another man can follow the work. Hermeneutics that will not mark the acts cannot be tested. Untestable handling is already the interpreter above the writing.
+
+III. Under, beside, or above — in a single sitting
+
+Under the writing: the handler opens the cluster, lets the page correct the sense, and will shew the work. Beside the writing: the handler and the text are treated as a pair that must agree, and the text is made to mean what the handler already taught. Above the writing: the handler decides what the writing is permitted to say, and quotes as a magistrate quotes a statute he has already ruled on.
+
+Rightly dividing is the first place. Wrong dividing is the third, even when the vocabulary is Christian. The second place is how a people slide. They honour the writing as a companion and will not let it break the companion. Chapter 9 called that breaking. This chapter calls it hermeneutics that has lost its master.
+
+IV. Why the distinction is a maturity rule
+
+When interpretation is master, skill in the Word is replaced by skill in the voice. Dull of hearing can be called covering. Apeiros can be called remaining teachable. A babe-house can then accept what it has named doctrine and never test it by the page. The chain Chapter 14 named is laid by handling: absence of reasonability, presence of unskill, then aridity, tergiversation, damnable accepted heresies called doctrines.
+
+When the writing is master, another man can open the same page. Teachers can be made. Shame can do its work. The premiere convention remains first.
+
+V. What this chapter has established
+
+In every sitting, the writing is master and the interpretation is handling. The two acts must be marked. Merging them is how an interpreter becomes the court while the Bible remains on the table. Chapter 29 will ask what to do when two texts seem to fight: what has broken — the writing, or the reader?`,
   },
   {
     id: "ch-ost-29",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 29,
-    title: "Reasoning",
-    body: `Reasoning: you hold a cluster of Scriptures together and draw the distinction the text itself makes. You can say why “ought to be teachers” and “become” belong in one verse. You can say why milk is kindness in one man and indictment in another. You can say why graphē is not religiousism. Reasoning is not speculation. It is the mind working the writing until the distinction is teachable.
+    title: "When the Reader Finds a Contradiction",
+    body: `When two texts seem to fight, what has broken — the writing, or the reader?
 
-Premises, conclusions, implication, inference, necessary versus possible conclusions, contradiction, invalid inference, textual support — these are servants, not masters. Logic serves accurate reasoning from the writing. It is not an authority above Scripture. Never use a syllogism to manufacture a doctrine the text does not support.
+John 10:35 — “If he called them gods, unto whom the word of God came, and the scripture cannot be broken;”
 
-Premise from Hebrews 5:12. Premise from Hebrews 5:13. Write the conclusion the text forces — not the conclusion you prefer. Mark what would be an unsupported leap.`,
+The rule already answers the question. The writing cannot be broken. Therefore a contradiction that requires one verse to be discarded, emptied, or postponed to save another is not a contradiction in the graphē. It is a break in the handling. The reader has not yet held the clusters. Or he has made a meaning the words will not bear. Or he has joined what the writing keeps apart.
+
+I. The safer Bible is assembled here
+
+A safer Bible is invented whenever the page obstructs a desired conclusion. One text is kept. The other is called a problem. The problem is then solved by a break: a word reassigned, a cluster trimmed, a verse left unused. The result is still called Scripture. It is Scripture after the break.
+
+The Lord would not assemble one. The psalm stood. The law stood. His claim stood under that writing. A later workman will not be asked to discard Hebrews 5:12 to save a house that does not want “ought,” or to discard 2 Timothy 2:15 to save a piety that despises the mind, or to discard John 10:35 to save an interpreter who will not sit down.
+
+II. Apparent contradiction is a call to labour
+
+Spoudazō is required here, not haste. Perception must see both places. Learning must keep both. Reasoning must hold both until the distinction or the unity the writing forces is teachable. Scripture interprets Scripture. Context stays attached. Meaning stays under the words. That labour may take time. Time spent in that labour is not unbelief. Discarding a text to end the discomfort is unbelief in the rule.
+
+Contradiction in the reader is common. He has not yet defined the terms as each cluster uses them. He has treated a figure as if it were the other cluster’s prose, or prose as if it were a figure. He has merged two subjects the writing keeps apart. He has imported a house sense into one of the places. Those are apeiros problems. They are cured by use, not by a safer page.
+
+III. Real refusal is also common
+
+Sometimes the reader has seen both places and will not let one of them judge him. Then the “contradiction” is tergiversation waiting for a name. He turns from what was said and calls the turning tension, mystery, or development. Mystery the writing leaves as mystery must be left. Tension the writing does not leave, and the reader manufactures to spare a doctrine, is already the absence of reasonability.
+
+A house can institutionalize that refusal. It can teach that two texts “must not be pressed.” Pressing, in that use, means letting the writing finish its sentence. The scripture cannot be broken to spare the house a press. Damnable accepted heresies called doctrines often live in the gap between two texts that were never allowed to sit in one room.
+
+IV. What the workman does
+
+He opens both clusters. He keeps both sayings. He will not conclude from one what the other forbids until he has seen whether he has defined badly. He marks inference as inference. He would rather remain short of a synthesis than break a verse to finish one. Approval is still unto God. Shame is still bad workmanship. The word of God is not bound, including by the reader’s need for a tidy page today.
+
+Milk and strong meat are not two Bibles in contradiction. They are one graphē taken by two conditions. Right division holds that. A reader who calls them a contradiction has already lost the cluster. Dull of hearing and unskill will manufacture many such fights. Use will retire them without discarding a verse.
+
+V. What this chapter has established
+
+The scripture cannot be broken. Therefore an apparent contradiction is first a call to labour, not a licence to discard. The safer Bible is assembled at this point of pressure. Contradiction in the reader is unskill; refusal to let both texts speak is turning. Chapter 30 will name the work that holds saying, meaning, cluster, comparison, distinction, and pressure in one charge: rightly dividing the word of truth.`,
   },
   {
     id: "ch-ost-30",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 30,
-    title: "The Word Must Be Exercised",
-    body: `Hebrews 5:14 — by reason of use have their senses exercised.
+    title: "Rightly Dividing the Word of Truth",
+    body: `What is right division?
 
-Word exercise: you use the word. Word drill: you put the verse through perception, learning, and reasoning until you can teach it.
+2 Timothy 2:15 — “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.”
 
-This is not optional colour. It is how knowledge is made under the writing. A drill is repetition with attention: write the verse; name the terms as they are used; set the context; hold the cluster; draw the distinction; state the principle; reason; apply; take the charge.
+Chapter 19 opened the verse as a workman’s charge. This chapter opens the act the charge names. Rightly dividing is the handling this part has been describing: say what is written; reach meaning under the words; hold the cluster; let Scripture interpret Scripture; keep the writing above the interpretation; refuse a safer Bible when texts press each other. Wrong division is the refusal of that sitting.
 
-Name one verse you will exercise this week until you can teach it without a slogan.`,
+I. The word is truth before it is divided
+
+Rightly assumes a wrong way. The material is already the word of truth. The workman does not make it true. He can make a lie by dividing badly. Isolating a verse to manufacture a doctrine the cluster will not bear is wrong division. Merging what the text keeps apart is wrong division. Emptying a word by a solvent context is wrong division. Recruiting a verse to bless a likeness is wrong division. Calling the result “what Scripture teaches” does not heal the division.
+
+John 10:35 remains the rule over the shop. The scripture cannot be broken to make a division come out clean. A clean wrong division is still a break. Shame is that break shown when the page is opened.
+
+II. Right division keeps distinctions the writing makes
+
+Hebrews 5 keeps milk as mercy at the beginning and milk as indictment after time. It keeps first principles as foundation and refuses to despise them as a lesser gospel. It keeps person and organization under the same unskill. It keeps two marks of babes, not three. Right division holds those distinctions. Wrong division collapses them for convenience.
+
+John 10 keeps “is it not written,” the cited psalm, the rule, and the charged claim in one answer. Right division holds the cluster. Wrong division takes the motto and leaves the method.
+
+2 Timothy 2 keeps hardness, a word not bound, and study intellectually in one charge. Right division will not despise the mind to save a piety, and will not crown the mind as a rival court. Wrong division will do one or the other.
+
+III. Wrong handling ends where the diagnosis said
+
+Dull hearing and apeiros produce wrong division. Wrong division leaves a people unskilled in the word of righteousness. Unskill, with the absence of reasonability, produces aridity and tergiversation among persons and age-old organizations ostensibly Christianized: ensued in damnable accepted heresies called doctrines. Hermeneutics is not an ornament on that chain. It is how the chain is laid — or refused.
+
+A house can be very able at wrong division. Room skill is not right division. Loyalty is not right division. Age is not right division. Right division is use under the writing until the senses can discern good and evil. Full age is that use. Strong meat is the same graphē taken by those who can bear it.
+
+This part has not invented a second way of knowing. Perception, learning, and reasoning remain the mental result. Hermeneutics is those three aimed at a page: what it says, what it means, in its place, beside other writing, under the rule that cannot be broken. Spoudazō still supplies the labour. The scholarly impetus still supplies the press. The workman still shews himself approved unto God.
+
+IV. The handling serves hearing and growth
+
+The premiere convention remains the graphē. Rightly dividing is the convention used, not replaced. This book, a method, and a teacher serve the dividing. They are not the word of truth. Part VIII will open what continuance in that word is for: disciples indeed, knowing the truth, and the truth making free.
+
+The workman studies to shew himself approved unto God. He endures hardness. He will not break the writing to spare a conclusion. He will mark his interpretation as handling. He will let another man open the same page. That is right division. That is how first principles can be taught, and how a people can go on to maturity.
+
+V. What this chapter has established
+
+Rightly dividing is handling the word of truth without breaking it: saying, meaning, cluster, comparison, distinction, and pressure held under John 10:35. Wrong division manufactures doctrine the writing will not bear. That wrong handling is a path to apeiros and to heresies called doctrines.
+
+Part VII has opened the handling. Part VIII will open the fruit the writing names when a man continues in His word: truth, and freedom, and the path from first principles to maturity.`,
   },
   {
     id: "ch-ost-31",
