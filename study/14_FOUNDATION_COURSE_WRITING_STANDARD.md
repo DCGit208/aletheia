@@ -26,7 +26,9 @@ Every lesson should make the student able to:
 
 - Cluster IDs such as `A1`, `J2`, `F7`, or `Q43`.
 - Phrases like "owner file," "source map," "backend," "production notes," or "this file" when they mean internal organization.
-- Planning phrases such as "lesson spine," "fact set," "source questions," "source words," "this lesson printed," or "own questions."
+- Planning phrases such as "lesson spine," "chronology map," "fact set," "source questions," "source words," "this lesson printed," "dropped print," or "own questions."
+- Draft-control wording such as "v1 spine," "bad print," "compressed citation," "production notes," "the print," or "this file" when the student needs a clean citation or explanation.
+- Opaque idioms such as "slang," "thins," "fear as a product," "fill a page," "put that word down," or "stop" when they are acting as editorial commands rather than teaching.
 - Unexplained lesson engineering such as "today J1" or "this sentence is J2."
 - A string of slogans where Scripture should be explained.
 - A teacher-only note presented as if it were a student charge.
@@ -37,7 +39,7 @@ The course must be more than clear. It must be hard to misunderstand.
 
 - **Scripture-first:** the writing governs the lesson, not the instructor's shorthand.
 - **Source-faithful:** the Aletheia leaflet, textbook, and locked owner decisions set the doctrine.
-- **Consumable:** a student should be able to read the lesson aloud and teach its spine.
+- **Consumable:** a student should be able to read the lesson aloud and teach its core doctrine.
 - **Distinguishing:** every lesson names the confusion it prevents.
 - **Assessable:** the practice and response show whether the student understood.
 - **Globally serious:** no filler, no academic fog, no motivational padding, no hidden curriculum codes.

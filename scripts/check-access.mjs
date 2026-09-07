@@ -315,4 +315,39 @@ for (const pattern of forbiddenResurrectionCopy) {
   assert.doesNotMatch(resurrectionCopy, pattern, `Course 5 still contains opaque student copy: ${pattern}`);
 }
 
+const judgmentCopy = readFileSync(new URL("../src/lib/content/course-judgment.ts", import.meta.url), "utf8");
+const forbiddenJudgmentCopy = [
+  /chronology map/i,
+  /\bmap\b/i,
+  /\bspine\b/i,
+  /v1/i,
+  /longer Saturday/i,
+  /bad print/i,
+  /\bprint\b/i,
+  /printed/i,
+  /dropped print/i,
+  /compressed citation/i,
+  /relaid/i,
+  /\bslang\b/i,
+  /thins/i,
+  /rumour/i,
+  /fear as a product/i,
+  /safety-slogans/i,
+  /terror-slogans/i,
+  /second James lecture/i,
+  /one pile called death/i,
+  /blotting-religion/i,
+  /put that word down/i,
+  /five sermons/i,
+  /fill a page/i,
+  /Stop\./i,
+  /ask the question again/i,
+  /reopen 11:7/i,
+  /reopen the number/i,
+  /Matthew 16 is not this narrative/i,
+];
+for (const pattern of forbiddenJudgmentCopy) {
+  assert.doesNotMatch(judgmentCopy, pattern, `Course 6 still contains opaque student copy: ${pattern}`);
+}
+
 console.log("access checks passed");
