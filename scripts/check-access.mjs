@@ -169,4 +169,29 @@ assert.match(offerings, /237 677 604 100/);
 assert.match(offerings, /237 699 651 555/);
 assert.equal(offerings.includes("SBD"), false);
 
+const foundationCourseFiles = [
+  "../src/lib/content/course-repentance.ts",
+  "../src/lib/content/course-faith.ts",
+  "../src/lib/content/course-baptisms.ts",
+  "../src/lib/content/course-hands.ts",
+  "../src/lib/content/course-resurrection.ts",
+  "../src/lib/content/course-judgment.ts",
+];
+const forbiddenCourseCopy = [
+  /\nCluster\n/,
+  /\b[A-J][0-9]\b/,
+  /\bQ[0-9]+\b/,
+  /owner file/i,
+  /source map/i,
+  /backend/i,
+  /production notes/i,
+  /\bToday [A-J][0-9]\b/,
+];
+for (const file of foundationCourseFiles) {
+  const copy = readFileSync(new URL(file, import.meta.url), "utf8");
+  for (const pattern of forbiddenCourseCopy) {
+    assert.doesNotMatch(copy, pattern, `${file} exposes internal course-map language: ${pattern}`);
+  }
+}
+
 console.log("access checks passed");
