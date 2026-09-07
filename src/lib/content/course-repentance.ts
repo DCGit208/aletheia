@@ -55,7 +55,7 @@ export const repentanceLessons: Lesson[] = [
     "The graphē: premiere convention for hearing and growth",
     75,
     `Central principle
-Holy Writ — the graphē — is the premiere convention for hearing from God and for spiritual growth. This school pillows in the writing, not in nonliteral religiousisms.
+Holy Writ — the graphē — is the premiere convention for hearing from God and for spiritual growth. Foundation School pillows in the writing, not in nonliteral religiousisms.
 
 Key Scripture
 John 10:35 — the scripture cannot be broken.
@@ -72,7 +72,7 @@ The writing He cites is Psalm 82:6 — “I have said, Ye are gods; and all of y
 
 Holy Writ is unchallenged authority, whether for persons, organizations, governments, or nations. Graphē is not a mood that accompanies a meeting. It is the writing. If you will hear from God in this year, you will hear Him where He has spoken.
 
-A naturalistic Christian experience follows the teachings, or manifests the qualities or spirit, of Jesus Christ. It conforms to the unleavened sincerity and truth of the graphē. The other thing — ersatz analogical, nonliteral religiousisms — is a likeness of the faith that will not sit down under the text. A likeness can use the vocabulary. A likeness can fill a room. A likeness will not be judged by the writing. This school will not trade the graphē for that likeness.
+A naturalistic Christian experience follows the teachings, or manifests the qualities or spirit, of Jesus Christ. It conforms to the unleavened sincerity and truth of the graphē. The other thing — ersatz analogical, nonliteral religiousisms — is a likeness of the faith that will not sit down under the text. A likeness can use the vocabulary. A likeness can fill a room. A likeness will not be judged by the writing. Foundation School will not trade the graphē for that likeness.
 
 The graphē is the premiere convention for hearing from God and for growth — not this leaflet, not this textbook, not this course. Over the ages the design of God for a naturalistic Christian experience has pillowed in conformity with that writing. This book and this course are a straight issue on the essential cornerstone of Christianity: the first principles of the oracles of God (Hebrews 5:12). They open the foundation; they do not replace the writing.
 
@@ -89,7 +89,7 @@ Under the graphē, growth is first principles, then maturity. Hebrews 5:12 alrea
 Write this week as a man under the writing. Name the likeness you have used as if it were Scripture. Name the verse you will continue in. Do not name a verse you will not open.
 
 Labour
-This is the page-work. The Walk: write one tight page. Intensive: write three pages on the same Scripture set. Same doctrine. The hours differ. The oracles do not.
+This is the page-work. The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same. The hours differ. The oracles do not.
 
 The Walk — one page. Quote John 10:34-36 in full. Name what charge the Lord was answering. Name what writing He appealed to (Psalm 82:6). Then write, in your own hand, that the graphē — not a leaflet, guide, or course — is the premiere convention for hearing from God and for growth, and what “the scripture cannot be broken” forbids you to do to a likeness of the faith.
 
@@ -129,7 +129,7 @@ Hebrews 6:1-2 names the six: “Therefore leaving the principles of the doctrine
 
 Hebrews 6:3 — “And this will we do, if God permit.” After the six are named, we go on to perfection if God permit. That is a short hinge, not a seventh course. The writer does not treat maturity as a human schedule you can force. He treats it as a work we intend, under permission. You may enrol in fifty-two weeks. You cannot enrol God. Walk the year as labour. Ask for permission to go on. Do not call unfinished foundations “perfection.”
 
-This school exists because the oracles have a beginning that must be known, distinguished, reasoned, and taught. If you cannot teach repentance from dead works from the Scriptures, you are not ready to speak as if you were past it.
+Foundation School exists because the oracles have a beginning that must be known, distinguished, reasoned, and taught. If you cannot teach repentance from dead works from the Scriptures, you are not ready to speak as if you were past it.
 
 Hear the “of whom.” Hebrews 5:10 has just named Melchisedec. The hard things concern the Son after that order. The writer is not withholding milk because he is unkind. He is unable to utter meat because the ear is dull. Dullness is not a quiet temperament. It is an ear that has had time and has receded.
 
@@ -140,7 +140,7 @@ Hebrews 6:1-2 will not let you merge the six. Repentance from dead works is not 
 Hebrews 6:3 remains the hinge: “And this will we do, if God permit.” Permission is not fatalism. It is dependence. You labour. You ask. You do not enrol God. If you cannot yet teach this first principle from the Scriptures, you are still in 5:12 — needing to be taught again — and you will not pretend you have left the principles.
 
 Labour
-The Walk: write one tight page. Intensive: write three pages on the same Scripture set. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
 The Walk — one page. Write Hebrews 5:12 in your own hand. Reason “ought to be teachers,” “teach you again,” “become,” and “milk” in that one verse. Name the time you have already had under the word. Do not write a general confession.
 
@@ -191,11 +191,11 @@ Soft copy or hard copy is not the issue. A man with a phone full of Bibles can b
 Name the hour. Name the text. If you cannot, you are not yet a workman, however present you have been.
 
 Labour
-The Walk: write one tight page. Intensive: write three pages on the same Scripture set. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
 The Walk — one page. Write Hebrews 5:13. Define apeiros: inexperienced, ignorant, unskilful — in the word of righteousness. Then name your actual study labour this week: the hour and the text. If you cannot name it, you are not yet a workman. Do not name a meeting in the place of labour.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write Hebrews 5:12-14 in full. Show how “milk,” “unskilful,” “babe,” and “senses exercised” sit in one stretch. Reason why a crowded room can still be apeiros. Page 3: teach what this school blames — failure to know the Scriptures and to align — and what it will not accept as a cure. Write the teaching as you would stand behind it before a teacher.
+Intensive — three pages. Page 1 is that tight page. Page 2: write Hebrews 5:12-14 in full. Show how “milk,” “unskilful,” “babe,” and “senses exercised” sit in one stretch. Reason why a crowded room can still be apeiros. Page 3: teach what Foundation School blames — failure to know the Scriptures and to align — and what it will not accept as a cure. Write the teaching as you would stand behind it before a teacher.
 
 Write in your own hand. Quote Hebrews 5:13. Define apeiros. The page is not a journal of feelings.
 
@@ -245,7 +245,7 @@ Hebrews 5:14 is the other man in the same stretch: strong meat belongs to them t
 Name your dullness. Name the place of your unskill. Write the place, not a general confession. The diagnosis is useless if you will not locate it.
 
 Labour
-The Walk: write one tight page. Intensive: write three pages on the same Scripture set. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
 The Walk — one page. Write the two marks, each with its verse. Name your dullness of hearing. Name where you are apeiros in the word of righteousness. Do not write a general confession. Write the place.
 
@@ -289,10 +289,10 @@ If you will walk this year at three hours a week or at eight, the difference is 
 
 Spoudazō is speed, effort, promptness, earnestness; diligence, endeavour, labour, study — intellectually. Speed is earnestness that will not postpone. It is not haste that skips context and calls the skip “faith.” Approval is a workman’s approval. Shame is a workman’s shame — the man who cannot divide the word. Rightly dividing is the work. Profane and vain babblings increase unto more ungodliness (2 Timothy 2:16). Collecting quotations you cannot reason is nearer babbling than labour.
 
-The Walk is about three hours a week. Intensive is about eight. Same oracles. Same doctrine. Same 2 Timothy 2:15. The difference is hours on the same work. You will not invent a second teaching for the longer week. You will put more labour on this verse until “approved,” “workman,” and “rightly dividing” can be reasoned without a slogan.
+The Walk is about three hours a week. Intensive is about eight. Same oracles. The doctrine is the same. Same 2 Timothy 2:15. The difference is hours on the same work. You will not invent a second teaching for the longer week. You will put more labour on this verse until “approved,” “workman,” and “rightly dividing” can be reasoned without a slogan.
 
 Labour
-The Walk: write one tight page — a word drill. Intensive: write three pages on the same Scripture set. Same doctrine.
+The Walk: write one tight page — a word drill. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
 The Walk — one page. Do a word drill on 2 Timothy 2:15 until you can reason “study,” “approved,” “workman,” “ashamed,” and “rightly dividing” without a slogan. Write the verse. Then write six sentences, one for each of those five words and one for the soldier-context that sits before the verse.
 
@@ -322,24 +322,24 @@ Read
 Textbook Chapter 1, section VII.
 
 Teaching
-Knowledge is a mental result of perception, learning, and reasoning. The practice is named: word exercise, word drill. That is not a seminary extra. It is how this school will ask you to know.
+Knowledge is a mental result of perception, learning, and reasoning. The practice is named: word exercise, word drill. That is not a seminary extra. It is how Foundation School will ask you to know.
 
 Perception: you see what the text says, not what you wish it said. Learning: you take it in, and you keep it. Reasoning: you can hold a set of Scriptures together and draw the distinction the text itself makes.
 
 A man may quote a verse and still be a babe. Quotation without reasoning is not skill. Hebrews 5:13-14 — “For every one that useth milk is unskilful in the word of righteousness: for he is a babe. But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.” The man of full age has senses exercised by use. Use is the drill. Discernment is the fruit. You do not skip perception and call your opinion reasoning. You do not skip learning and call a memory of a heading knowledge.
 
-2 Timothy 2:15 remains in these passages: “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.” Right division is reasoning under the text. The questions this school asks are charges, not decorations. This school asks questions. You will answer them from these passages, not from a remembered heading.
+2 Timothy 2:15 remains in these passages: “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.” Right division is reasoning under the text. The questions Foundation School asks are charges, not decorations. Foundation School asks questions. You will answer them from these passages, not from a remembered heading.
 
 Take Hebrews 5:12 as the drill this lesson will not let you postpone: “For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.” Perceive it — what it says. Learn it — write it. Reason it — why “ought to be teachers” and “become” belong in one verse. If you can only recite the verse, you have not yet done the drill.
 
-This teaching will not let knowledge be a pile of headings. Perception sees what the text says. If you see what you wish it said, you have not perceived. Learning takes it in and keeps it. If you heard it and cannot write it, you have not learned it. Reasoning holds a set of Scriptures and draws the distinction the text itself makes. If you can only recite one verse and cannot hold it with its neighbours, you have not reasoned.
+This lesson will not let knowledge be a pile of headings. Perception sees what the text says. If you see what you wish it said, you have not perceived. Learning takes it in and keeps it. If you heard it and cannot write it, you have not learned it. Reasoning holds a set of Scriptures and draws the distinction the text itself makes. If you can only recite one verse and cannot hold it with its neighbours, you have not reasoned.
 
 Hebrews 5:12 is the drill because it contains the indictment and the direction in one sentence. “For the time” names what you have already had. “Ought to be teachers” names what that time required. “Teach you again” names recession. “First principles of the oracles of God” names what must be known. “Become such as have need of milk” names the direction backward. Perceive that order. Learn it by writing it. Reason why “ought” and “become” belong together: a people can have time enough to teach and still become babes.
 
-2 Timothy 2:15 remains: a workman, rightly dividing. Right division is this reasoning under the text. The questions this school asks are charges. You will not decorate a page with them and then refuse to answer. Word exercise, word drill — that is the practice. A man may quote and still be a babe. Do the drill until you can reason Hebrews 5:12, not only recite it.
+2 Timothy 2:15 remains: a workman, rightly dividing. Right division is this reasoning under the text. The questions Foundation School asks are charges. You will not decorate a page with them and then refuse to answer. Word exercise, word drill — that is the practice. A man may quote and still be a babe. Do the drill until you can reason Hebrews 5:12, not only recite it.
 
 Labour
-The Walk: write one tight page — the word drill on Hebrews 5:12. Intensive: write three pages on the same Scripture set. Same doctrine.
+The Walk: write one tight page — the word drill on Hebrews 5:12. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
 The Walk — one page. Write Hebrews 5:12. Then three short movements on that one verse: perceive (what it says, in order); learn (write it again without looking, then check); reason (why “ought,” “again,” and “become” sit together). Do not add a second verse until that page is done.
 
@@ -377,14 +377,14 @@ The opening of this book is therefore not a motto. Truth makes free where the wo
 
 You will not treat John 8:32 as a cover line and then refuse John 8:31 and 8:34-36. Disciples indeed are those who continue. Servants of sin are those who commit sin. Free indeed is the Son’s doing. The graphē you opened in lesson 1 is the word you continue in here.
 
-They answered from Abraham and from a claimed freedom: “We be Abraham’s seed, and were never in bondage to any man.” The Lord did not accept the claim. Whosoever committeth sin is the servant of sin. The servant abideth not in the house for ever. The Son abideth ever. If the Son shall make you free, ye shall be free indeed. Freedom in these passages is the Son’s doing over against that servitude. It is not a cry against Rome. It is not a mood after a song.
+They answered from Abraham and from a claimed freedom: “We be Abraham’s seed, and were never in bondage to any man.” The Lord did not accept the claim. Whosoever committeth sin is the servant of sin. The servant abideth not in the house for ever. The Son abideth ever. If the Son shall make you free, ye shall be free indeed. Freedom in these passages are the Son’s doing over against that servitude. It is not a cry against Rome. It is not a mood after a song.
 
 “If ye continue in my word, then are ye my disciples indeed; and ye shall know the truth, and the truth shall make you free.” Continuance is the condition He named. Knowledge of the truth is not a motto on the cover. It is the fruit of remaining in His word. Dull hearing (Hebrews 5:11) will not continue. Unskill in the word of righteousness (Hebrews 5:13) will not know. Milk after the time you ought to have been a teacher will not make you free indeed.
 
 The graphē of lesson 1 is the word you continue in here. You do not continue in a likeness. You do not continue in a heading. Name one word of His you will continue in this week, and continue in it. Free from what, in John 8? From being the servant of sin — if the Son make you free, and if you continue in His word. Write that from these passages, not from a political or emotional cry.
 
 Labour
-The Walk: write one tight page. Intensive: write three pages on the same Scripture set. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
 The Walk — one page. Write John 8:31-36 in full. Answer from these passages: free from what, if you continue in His word? Then name one word of His you will continue in this week. Do not answer with a political or emotional cry.
 
@@ -416,7 +416,7 @@ Textbook Chapter 2, sections I–II.
 Teaching
 Hebrews 6:1 — “not laying again the foundation of repentance from dead works…” This is the first stone. If this stone is a slogan, the year is a slogan. This principle is headed: Greek metanoia from nekros ergon.
 
-The authorized list for this school is seven. There is no eighth. You were not given an eighth. Do not invent one.
+The authorized list for Foundation School is seven. There is no eighth. You were not given an eighth. Do not invent one.
 
 1. Hebrew nacham (H5162) — to sigh, breathe strongly, to be sorry (Genesis 6:6; Exodus 13:17; Job 42:6; Jonah 3:10).
 2. Hebrew shuwb (H7725) — to turn back (1 Kings 8:47; Ezekiel 14:6).
@@ -443,7 +443,7 @@ Matthew 3:8 — “Bring forth therefore fruits meet for repentance.” Matthew 
 Hold 6 and 7 until you can teach them in your sleep. Judas saw the condemnation and “repented himself.” He brought the silver. He said he had sinned. He hanged himself. That is metamellomai. Luke 13:3 will not let you treat another man’s ruin as your change of mind. Except ye repent, ye shall all likewise perish. If you treat Judas’s remorse as the foundation, you have laid a feeling.
 
 Labour
-The Walk: write one tight page. Intensive: write three pages on the same Scripture set. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
 The Walk — one page. Write the seven words with one verse each, as the school lists them. Then write ten lines: where have you treated regret as if it were metanoia? Hold metamellomai and metanoia until the difference can be taught without a slogan.
 
@@ -473,7 +473,7 @@ Read
 Textbook Chapter 2, section III.
 
 Teaching
-Matthew 16 is not this narrative. This school teaches Luke 16:19-31. Do not teach Matthew 16 as that narrative.
+Matthew 16 is not this narrative. Foundation School teaches Luke 16:19-31. Do not teach Matthew 16 as that narrative.
 
 Luke 16:19-31 — “There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day: And there was a certain beggar named Lazarus, which was laid at his gate, full of sores, And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores. And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried; And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom. And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame. But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented. And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence. Then he said, I pray thee therefore, father, that thou wouldest send him to my father’s house: For I have five brethren; that he may testify unto them, lest they also come into this place of torment. Abraham saith unto him, They have Moses and the prophets; let them hear them. And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent. And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead.”
 
@@ -488,7 +488,7 @@ Abraham’s refusal is the point this lesson will not let you skip. The rich man
 You may fear Hell and love the cause of your death. That fear can fill a testimony and leave the old man unnamed. That fear can fill a prayer and leave outward sin unlisted. Course 6 will open the lake, the book of life, and the prisons. Here you will not turn Luke 16 into that chapter. Here you will say: Hell is a consequence. Metanoia is toward sin and its cause. Matthew 16 is not this narrative. Luke 16:19-31 is.
 
 Labour
-The Walk: write one tight page. Intensive: write three pages on the same Scripture set. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
 The Walk — one page. Write Luke 16:27-31 in your own words after you have written the stretch. What did Abraham refuse? Then answer: where have you treated Hell-avoidance as if it were metanoia?
 
@@ -518,7 +518,7 @@ Read
 Textbook Chapter 2, section I and the opening of IV.
 
 Teaching
-Hebrews 6:1 names the first stone: repentance from dead works. The phrase is Hebrews’ own phrase. You will hear it again in Hebrews 9:14, when the blood of Christ purges the conscience from dead works to serve the living God. Do not empty “dead works” into “things I did that felt empty.” This teaching will not let you.
+Hebrews 6:1 names the first stone: repentance from dead works. The phrase is Hebrews’ own phrase. You will hear it again in Hebrews 9:14, when the blood of Christ purges the conscience from dead works to serve the living God. Do not empty “dead works” into “things I did that felt empty.” This lesson will not let you.
 
 Nekros ergon — dead works — are the works of the old man: the spirit and nature of the devil (Ephesians 4:22); old things (2 Corinthians 5:17); the old nature (Ephesians 2:1). Ephesians 2:1-2 — “And you hath he quickened, who were dead in trespasses and sins; Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience.” Trespasses, in Ephesians 2:1, are deviation from moral equity, and sins. The wages thereof is death (Romans 6:23).
 
@@ -531,7 +531,7 @@ Hebrews 9:14 will later say: “How much more shall the blood of Christ, who thr
 A work that bored you is not therefore a dead work. A work that filled a room is not therefore a living work. The test is the man — old or new — and the nature that produced it. If any man be in Christ, he is a new creature; old things are passed away. The two old things will be split in the next lessons. This lesson names the pile they belong to: nekros ergon, the works you repent from. Do not call a dull habit “dead” while the old nature goes unnamed. Do not call the old nature a theory while the works go unrepented.
 
 Labour
-The Walk: write one tight page. Intensive: write three pages on the same Scripture set. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
 The Walk — one page. Write Hebrews 6:1, Ephesians 2:1-2, and 2 Corinthians 5:17. Define dead works: the works of the old man, not a task that bored you. Then name one work you have called “dead” because it bored you, and one the Scripture would call a dead work because it is of the old man. Do not confuse them.
 
@@ -577,16 +577,16 @@ Ephesians 2:2 — “Wherein in time past ye walked according to the course of t
 
 1 John 5:18 — “We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not.”
 
-Do not soften these passages. Do not turn it into a personality type. Do not reduce the old man to a bad habit. This teaching will not let you. The old man is the spirit and nature of the devil in the disobedient. Put off the old man. Ye are of your father the devil. The spirit now worketh in the children of disobedience. The god of this world hath blinded minds. He that committeth sin is of the devil. Whosoever is born of God doth not commit sin; the wicked one toucheth him not.
+Do not soften these passages. Do not turn it into a personality type. Do not reduce the old man to a bad habit. This lesson will not let you. The old man is the spirit and nature of the devil in the disobedient. Put off the old man. Ye are of your father the devil. The spirit now worketh in the children of disobedience. The god of this world hath blinded minds. He that committeth sin is of the devil. Whosoever is born of God doth not commit sin; the wicked one toucheth him not.
 
 You cannot hide the old man behind a list of acts. The next lesson will open the acts. Both must pass. They are not one pile.
 
 Put these passages in order and keep it severe. Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth. The spirit that now worketh in the children of disobedience is the prince of the power of the air. The god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them. He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil. Whosoever is born of God doth not commit sin; his seed remaineth in him. He that is begotten of God keepeth himself, and that wicked one toucheth him not.
 
-The old man is corrupt according to the deceitful lusts. Put him off. He is nothing more nor less than the spirit and nature of the devil working in men of disobedience. A bad habit can be broken and the old man remain. A personality can be managed and the old man remain. This school will not let you teach John 8:44, Ephesians 2:2, and 1 John 3:8-9 as a temperament category. In Christ this old thing is passed away. Outward sin is the other old thing. Both must pass. They are not one pile.
+The old man is corrupt according to the deceitful lusts. Put him off. He is nothing more nor less than the spirit and nature of the devil working in men of disobedience. A bad habit can be broken and the old man remain. A personality can be managed and the old man remain. Foundation School will not let you teach John 8:44, Ephesians 2:2, and 1 John 3:8-9 as a temperament category. In Christ this old thing is passed away. Outward sin is the other old thing. Both must pass. They are not one pile.
 
 Labour
-The Walk: write one tight page. Intensive: write three pages on the same Scripture set. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
 The Walk — one page. Teach John 8:44, Ephesians 2:2, and 1 John 3:8-9 as one Scripture set without calling the old man “a bad habit.” Write the three verses. Write the teaching.
 
@@ -598,7 +598,7 @@ Distinction
 Old man vs outward sin. Both must pass. They are not one pile.
 
 Charge
-Write what you will teach: the old man is the spirit and nature of the devil working in men of disobedience; these passages is John 8:44, Ephesians 2:2, 1 John 3:8-9, and the rest of this lesson; it is not a habit. Then write the page the Practice named.`,
+Write what you will teach: the old man is the spirit and nature of the devil working in men of disobedience; these passages are John 8:44, Ephesians 2:2, 1 John 3:8-9, and the rest of this lesson; it is not a habit. Then write the page the Practice named.`,
   ),
   lesson(
     "les-fs-1-12",
@@ -635,7 +635,7 @@ Walk Romans 1:18-32. Do not skip it because it is long. “For the wrath of God 
 That is outward sin named. Galatians 5:19-21 is outward sin named. Mark 7:20-23 is what proceeds from the heart and defiles. 1 John 3:4 is the definition: sin is the transgression of the law. James 1:13-15 is the conception: lust, sin, death. You cannot hide these acts behind a theory of the old man. You cannot hide the old man behind these acts. Write the lists without calling them “the old man.” Then state what must pass besides the list.
 
 Labour
-The Walk: write one tight page. Intensive: write three pages on the same Scripture set. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
 The Walk — one page. Walk Galatians 5:19-21 and Mark 7:20-23 without calling them “the old man.” Write both lists. Then state what must pass besides the list — old thing 1, already taught.
 
@@ -678,7 +678,7 @@ Yield is the verb Romans 6 will not let you skip. To whom ye yield yourselves se
 Wage versus gift is not a slogan for a card. The wage is earned by the service of sin. The gift is eternal life through Jesus Christ our Lord. You do not earn the gift. You do not talk the wage down into a metaphor so shallow that Course 6 will have nothing to open. Three kinds of death wait for that course. Here you refuse a repentance that wants to keep the cause — sin, the old things — and escape the wage. Salvation from sin is exclusively the only salvation you need, sin being the cause of all death and depravity. What other “salvation” have you put in that place? Name it and put it down.
 
 Labour
-The Walk: write one tight page. Intensive: write three pages on the same Scripture set. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
 The Walk — one page. Write Romans 6:23, then write the verse that names the gift. Then answer: what other “salvation” have you put in the place of salvation from sin?
 
@@ -721,7 +721,7 @@ The comparison in Hebrews 9 is blood for blood. The blood of bulls and of goats,
 Ephesians 2 will not let you start as a man who was only tired. You were dead in trespasses and sins. You walked according to the course of this world, according to the prince of the power of the air. You were by nature the children of wrath. But God, who is rich in mercy, for His great love wherewith He loved us, even when we were dead in sins, hath quickened us together with Christ — by grace ye are saved. The only way out of sin unto true repentance is Christ Jesus. The new creature is in Him. Answer from Hebrews 9:14 in a paragraph a babe could follow: how does blood purge the conscience from dead works? Do not answer with a rite. Do not answer with a course.
 
 Labour
-The Walk: write one tight page. Intensive: write three pages on the same Scripture set. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
 The Walk — one page. Answer from Hebrews 9:14 in a paragraph a babe could follow: how does blood purge the conscience from dead works? Write the verse. Write the paragraph.
 
@@ -766,7 +766,7 @@ Acts 4:7 is the examination: “By what power, or by what name, have ye done thi
 Peter is standing before rulers and elders. The man made whole is standing there. The name that made him whole is the name whereby we must be saved. You will not divide those two uses of the name — one for a body, one for the soul — as if Acts 4:12 were a smaller word than Acts 4:10. The stone set at nought is become the head of the corner. There is none other. Course 3 will open water as figure after one is saved. This stone is not the font. This stone is Jesus Christ of Nazareth, crucified, whom God raised.
 
 Labour
-The Walk: write one tight page. Intensive: write three pages on the same Scripture set. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
 The Walk — one page. Write Acts 4:12. Then write one sentence you will not say again if it puts another name in that place. Name the stone. Name what the font is not.
 
@@ -809,7 +809,7 @@ John 1:1-4 has already named the Word: in the beginning, with God, was God; all 
 Romans 10:6-7 forbids a hunt that would bring Christ down or bring Him up from the dead, as if the word were far. The word is nigh thee, in thy mouth and in thy heart — the word of faith. Confess with thy mouth the Lord Jesus. Believe in thine heart that God hath raised Him from the dead. Thou shalt be saved. With the heart man believeth unto righteousness; with the mouth confession is made unto salvation. That is the confession the text asks. Sonship language begins here. Course 2 will open the heir. Course 3 will open the Spirit’s witness. You do not wait. Have you received Him? Write the confession. If you have, write John 1:12-13 without a slogan. The charge stands: Receive Him today.
 
 Labour
-The Walk: write one tight page. Intensive: write three pages on the same Scripture set. Same doctrine.
+The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
 The Walk — one page. Have you received Him? Write the confession Romans 10:9 actually asks. If you have, write what “power to become the sons of God” means from John 1:12-13, not from a slogan. If you have not, write the confession and do not hide in the course.
 
@@ -867,7 +867,7 @@ Write the eight as teaching, not as headings you remember. Graphē: John 10:34-3
 The Power of Salvation, when that volume is in your hand, is directed reading — assigned sections only. It is a companion, not a seventh course, and not a substitute for this chapter. Completion of activities is not mastery. Write the principle as you would teach it to a babe, then as you would stand behind it before a teacher. The first stone is laid when a man has changed his mind over sin and its cause, and has received the One whose blood purges the conscience from dead works.
 
 Labour
-The Walk: write one tight page on each of the eight — eight tight paragraphs if you must keep it to one sitting, but the eight must be written. Intensive: write the full page on each of the eight. Same doctrine. The hours differ. The eight do not.
+The Walk: write one tight page on each of the eight — eight tight paragraphs if you must keep it to one sitting, but the eight must be written. Intensive: write the full page on each of the eight. The doctrine is the same. The hours differ. The eight do not.
 
 The Walk — eight tight paragraphs, one for each head above, each paragraph quoting the governing verse and stating the distinction. Then one further paragraph: the principle as you would teach it to a babe.
 

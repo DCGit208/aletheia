@@ -65,19 +65,19 @@ Textbook Chapter 4, section I.
 Teaching
 This is Course 3 of Foundation School. One curriculum. The third of the six principles named in Hebrews 6:1-2. Course 1 turned you from dead works. Course 2 named the son. This course baptizes that son. You do not begin at a font. You begin at washing.
 
-Hebrews 6:2 is the doctrine of baptisms, plural. This school will not flatten the plural. A singular heading would already decide what the principle is allowed to be. The graphē did not print that decision.
+Hebrews 6:2 is the doctrine of baptisms, plural. Foundation School will not flatten the plural. A singular heading would already decide what the principle is allowed to be. The graphē did not print that decision.
 
 Hebrews 6:1-2. Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God, Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.
 
 Ephesians 5:26. That he might sanctify and cleanse it with the washing of water by the word.
 
-Baptismos: ablution — ritual washing of a priest’s hands or of sacred vessels. This teaching opens the principle with that word. Hold it. A priest’s hands are washed because they serve. Sacred vessels are washed because they hold what is holy. Neither washing invents the priest. Neither washing invents the vessel. The wash names what is done to what already is.
+Baptismos: ablution — ritual washing of a priest’s hands or of sacred vessels. This lesson opens the principle with that word. Hold it. A priest’s hands are washed because they serve. Sacred vessels are washed because they hold what is holy. Neither washing invents the priest. Neither washing invents the vessel. The wash names what is done to what already is.
 
 Do not run to the river before you have heard what the word washes. The water in Ephesians 5:26 is by the word. Lesson 3-02 will open the agency. This lesson holds the heading: washing; baptisms, plural. If you treat the heading as a tank-act, you have already lost the first word.
 
 There are seven baptisms in Scripture. Three are essential for believers. You will name the seven in lesson 3-03. Today you are forbidden to flatten the heading. Hebrews 6:2 will not become “baptism” because a page once printed it so. The plural is not decoration. It is the first distinction of the principle.
 
-Course 2 already forbade two gospels. This course will forbid one tank to swallow three stones. The son named in Course 2 is washed by the Word. The Word is Holy Writ. This school pillows in the graphē. Ersatz analogical religiousisms will invent a more convenient baptism. The text will not.
+Course 2 already forbade two gospels. This course will forbid one tank to swallow three stones. The son named in Course 2 is washed by the Word. The Word is Holy Writ. Foundation School pillows in the graphē. Ersatz analogical religiousisms will invent a more convenient baptism. The text will not.
 
 You leave the first principles by laying them, not by skipping them. You do not relaid this principle as a lifestyle of fonts. You hear washing. You keep the plural. Then you are ready for the agency.
 
@@ -85,12 +85,12 @@ The priest’s hands in gloss are not a prophecy of Course 4. They are the pictu
 
 Hebrews 6:1-2 names six. This is the third. You do not skip to hands because washing feels small. You do not skip to Spirit because a meeting taught you to begin there. You hear the plural. You hear ablution. You hear by the word. Then the agency lesson can open without a font already sitting in the chair.
 
-A naturalistic Christian experience conforms to the graphē. Ersatz analogical religiousisms will call any wet act “baptism” and think the principle is finished. This school will not. A singular heading would already decide what the principle is allowed to be. The verse remains baptisms. Write the verse until the plural is in your hand, not only in your memory. Spot and wrinkle wait for Ephesians 5:27 in the next lesson. Today the heading is enough: washing; baptisms.
+A naturalistic Christian experience conforms to the graphē. Ersatz analogical religiousisms will call any wet act “baptism” and think the principle is finished. Foundation School will not. A singular heading would already decide what the principle is allowed to be. The verse remains baptisms. Write the verse until the plural is in your hand, not only in your memory. Spot and wrinkle wait for Ephesians 5:27 in the next lesson. Today the heading is enough: washing; baptisms.
 
 Labour
-The Walk — one tight page. Write Hebrews 6:2 by hand. Then write what “baptisms” (plural) forbids you to do to the word baptism. Word drill: baptismos — ablution. Reason the word until you can teach washing without a tank. One page. Same doctrine.
+The Walk — one tight page. Write Hebrews 6:2 by hand. Then write what “baptisms” (plural) forbids you to do to the word baptism. Word drill: baptismos — ablution. Reason the word until you can teach washing without a tank. One page. The doctrine is the same.
 
-Intensive — three pages on the same Scripture set. Page 1: write Hebrews 6:1-2 and Ephesians 5:26 in full; reason each clause — principles, baptisms, washing, by the word. Page 2: baptismos as washing of priest’s hands and sacred vessels; why this school will not run to the river first; what a singular heading must not be allowed to do. Page 3: Course 1 and Course 2 already laid; this course baptizes that son — write what you have been using “baptism” to mean, and strike every use that never heard washing. Same doctrine. Do not invent an eighth baptism to fill a page.
+Intensive — three pages on the same Scripture set. Page 1: write Hebrews 6:1-2 and Ephesians 5:26 in full; reason each clause — principles, baptisms, washing, by the word. Page 2: baptismos as washing of priest’s hands and sacred vessels; why Foundation School will not run to the river first; what a singular heading must not be allowed to do. Page 3: Course 1 and Course 2 already laid; this course baptizes that son — write what you have been using “baptism” to mean, and strike every use that never heard washing. The doctrine is the same. Do not invent an eighth baptism to fill a page.
 
 Distinction
 Washing as the Word’s ablution vs washing as a tank you have not yet defined.
@@ -126,18 +126,18 @@ The water-in-Ephesians-5 is the Word’s washing, not the font as power. Christ 
 
 Born again is not of corruptible seed. Flesh is grass. Glory of man is a flower. The word of the Lord endureth for ever, and this is the word which by the gospel is preached unto you. New birth is by that word. Course 1 received Him. Course 2 credited Him. This lesson names the agency of that birth: the Word.
 
-John 3:5 stands in the same Scripture set. Born of water and of the Spirit. This teaching reads the water here with the washing of Ephesians 5:26 and the seed of 1 Peter 1:23. Do not make John 3:5 a second font-gospel. Do not empty the Spirit from the verse to protect a Word-only slogan. These passages holds both: Word as agency; Spirit as the other breath of the same birth. A later lesson will open the Spirit as witness. This lesson will not steal that stone. It will also not surrender the Word to a tank.
+John 3:5 stands in the same Scripture set. Born of water and of the Spirit. This lesson reads the water here with the washing of Ephesians 5:26 and the seed of 1 Peter 1:23. Do not make John 3:5 a second font-gospel. Do not empty the Spirit from the verse to protect a Word-only slogan. These passages hold both: Word as agency; Spirit as the other breath of the same birth. A later lesson will open the Spirit as witness. This lesson will not steal that stone. It will also not surrender the Word to a tank.
 
 A glorious church is presented without spot or wrinkle. The wash is unto that presentation. It is not a ceremony you add after you have already decided you are clean. The Word washes. The Word lives. The Word is preached. That is where this principle begins.
 
 Sanctify and cleanse sit in one purpose: that He might present it to Himself. Holy and without blemish. The husband-sentence is the frame; the church-sentence is the doctrine. Christ loved. Christ gave Himself. The washing of water by the word is how that love cleanses. If you lift “water” out of “by the word,” you have a different verse.
 
-Incorruptible seed is not a feeling. It liveth and abideth for ever. All flesh is as grass. The gospel preached unto you is that word. Course 1 already named receive Him. These passages names what washes the one who receives: the Word of God. John 3:5 will not be surrendered to a tank, and it will not be emptied of the Spirit. Born of water and of the Spirit — held with Ephesians 5:26 and 1 Peter 1:23. The premiere of the three essential begins here, not at a river.
+Incorruptible seed is not a feeling. It liveth and abideth for ever. All flesh is as grass. The gospel preached unto you is that word. Course 1 already named receive Him. These passages name what washes the one who receives: the Word of God. John 3:5 will not be surrendered to a tank, and it will not be emptied of the Spirit. Born of water and of the Spirit — held with Ephesians 5:26 and 1 Peter 1:23. The premiere of the three essential begins here, not at a river.
 
 Labour
 The Walk — one tight page. Write Ephesians 5:26 with 1 Peter 1:23. Answer: what is doing the washing? Do not answer with a tank you have not yet justified from these verses. Word drill: agency — the Word at new birth.
 
-Intensive — three pages on the same Scripture set. Page 1: write Ephesians 5:25-27, 1 Peter 1:23-25, and John 3:5 in full; mark every clause that names the Word, the water, the Spirit, the seed, the gospel. Page 2: the premiere of the three essential — why you do not begin at a river; how John 3:5 sits with Ephesians 5:26 without becoming a font-gospel. Page 3: write the sentence you will not say again if the Word is the agency. Same doctrine. Do not invent a third water to fill a page.
+Intensive — three pages on the same Scripture set. Page 1: write Ephesians 5:25-27, 1 Peter 1:23-25, and John 3:5 in full; mark every clause that names the Word, the water, the Spirit, the seed, the gospel. Page 2: the premiere of the three essential — why you do not begin at a river; how John 3:5 sits with Ephesians 5:26 without becoming a font-gospel. Page 3: write the sentence you will not say again if the Word is the agency. The doctrine is the same. Do not invent a third water to fill a page.
 
 Distinction
 The Word as agency of new birth vs the font as the power of new birth.
@@ -161,7 +161,7 @@ Read
 Textbook Chapter 4, section III.
 
 Teaching
-This teaching said seven mentioned in the Scriptures for believers, and named only three. The authorized list is seven. We will not invent an eighth. We will not pretend the Bible has only three.
+This lesson said seven mentioned in the Scriptures for believers, and named only three. The authorized list is seven. We will not invent an eighth. We will not pretend the Bible has only three.
 
 Luke 12:50. But I have a baptism to be baptized with; and how am I straitened till it be accomplished!
 
@@ -188,15 +188,15 @@ Baptizō (G907) is from baptō (G911): to dip; to overwhelm with suffering; to b
 “One baptism” (Ephesians 4:5) is lesson 3-04. It names the baptism that saves the soul. It does not cancel water. It does not cancel the Spirit. Name the three essential. Do not invent the four that fill out the seven as if they were a second gospel for believers.
 
 Labour
-The Walk — one tight page. Name the three essential. Write the three agents with their texts. One paragraph: why “one baptism” does not cancel water and Spirit as this school teaches them. Word drill: baptizō from baptō — regardless of the element.
+The Walk — one tight page. Name the three essential. Write the three agents with their texts. One paragraph: why “one baptism” does not cancel water and Spirit as Foundation School teaches them. Word drill: baptizō from baptō — regardless of the element.
 
-Intensive — three pages on the same Scripture set. Page 1: write the seven with the texts that carry 3, 4, 6, and 7; do not invent an eighth. Page 2: the three agents in full KJV (1 Corinthians 12:13; Matthew 3:11 with John 1:31-33; Matthew 28:19); who does what. Page 3: Acts 10:44-48 beside Acts 8 and 19 — before water or after it; write the sequence you will not make a law. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write the seven with the texts that carry 3, 4, 6, and 7; do not invent an eighth. Page 2: the three agents in full KJV (1 Corinthians 12:13; Matthew 3:11 with John 1:31-33; Matthew 28:19); who does what. Page 3: Acts 10:44-48 beside Acts 8 and 19 — before water or after it; write the sequence you will not make a law. The doctrine is the same.
 
 Distinction
 Seven in Scripture vs three for believers. Three agents vs one actor doing all three.
 
 Charge
-Name the three essential. Do not invent the four. Why does “one baptism” not cancel water and Spirit as this school teaches them? Write the three agents with their texts.`,
+Name the three essential. Do not invent the four. Why does “one baptism” not cancel water and Spirit as Foundation School teaches them? Write the three agents with their texts.`,
   ),
   lesson(
     "les-fs-3-04",
@@ -228,7 +228,7 @@ Fellowship of the saints is in line: into Christ and His body. 1 Corinthians 12:
 
 Galatians 3:27 will say put on Christ. Romans 6 will bury and raise. Those are the same baptism opened further. They are not water creating what this one already is. Do not drag the font into Ephesians 4:5 to make the ones-chain easier to preach.
 
-A man who has not been baptized into Christ is not a candidate for water as if water could create this one. A man who has been baptized into Christ is not still hunting a soul-saving baptism. He has this one. The other two remain as this school teaches them.
+A man who has not been baptized into Christ is not a candidate for water as if water could create this one. A man who has been baptized into Christ is not still hunting a soul-saving baptism. He has this one. The other two remain as Foundation School teaches them.
 
 One body and one Spirit stand before one baptism in the chain. You are not baptized into a lonely Christ who has no body. Fellowship of the saints is in line. One hope of your calling. One Lord. One faith. One God and Father of all, who is above all, and through all, and in you all. The ones-chain is not a slogan-list. It is the location of “one baptism.” Pull baptism out and you can make it a tank or a second blessing. Leave it in the chain and it is into Christ and into His body.
 
@@ -239,7 +239,7 @@ Ephesians 4:4-6 is the full passage set, not 4:5 alone. One body. One Spirit. On
 Labour
 The Walk — one tight page. Write Ephesians 4:5. Then write, in one paragraph, why water is still commanded and why it is not this one. Word drill: one baptism — into Christ and His body; the only one that saves the soul.
 
-Intensive — three pages on the same Scripture set. Page 1: write Ephesians 4:4-6 in full; reason each “one” and why baptism is in that chain. Page 2: what “one baptism” does not cancel — water after one is saved; Spirit as witness and enduement. Page 3: Course 1 received Him; this lesson names that receiving — write what you will stop calling a soul-saving baptism. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write Ephesians 4:4-6 in full; reason each “one” and why baptism is in that chain. Page 2: what “one baptism” does not cancel — water after one is saved; Spirit as witness and enduement. Page 3: Course 1 received Him; this lesson names that receiving — write what you will stop calling a soul-saving baptism. The doctrine is the same.
 
 Distinction
 The baptism that saves the soul vs water and Spirit, which remain and do not save the soul.
@@ -286,7 +286,7 @@ Galatians 3:26 stands in the same breath: children of God by faith in Christ Jes
 Labour
 The Walk — one tight page. Write Galatians 3:27. What does “put on Christ” force you to stop calling a baptism that leaves the old man dressed? Word drill: baptizō — whelmed; from baptō — to dip.
 
-Intensive — three pages on the same Scripture set. Page 1: write Galatians 3:26-27 in full; reason “children by faith” and “baptized into Christ” as one life. Page 2: baptizō — fully wet, overpowered, submerged — into Christ, not first into a tank. Page 3: write the confession you will not call this baptism if the old man is still the garment. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write Galatians 3:26-27 in full; reason “children by faith” and “baptized into Christ” as one life. Page 2: baptizō — fully wet, overpowered, submerged — into Christ, not first into a tank. Page 3: write the confession you will not call this baptism if the old man is still the garment. The doctrine is the same.
 
 Distinction
 Whelmed into Christ vs a damp confession that never puts Him on.
@@ -322,7 +322,7 @@ Who is the agent? One Spirit. What is the body? One body — Jews or Gentiles, b
 
 Buried. Raised. Walk in newness. Planted together. The operation is of God, who hath raised Him from the dead. Faith of that operation. You are risen with Him. This is baptism into Christ opened as death, burial, and resurrection. It is not a rehearsal you perform in water in order to make it true. Water will symbolize what is already elucidated here.
 
-Do not make Romans 6 a water-manual that has forgotten 1 Corinthians 12:13. Do not make 1 Corinthians 12:13 a body-slogan that has forgotten the old man crucified. These passages is one baptism: into Jesus Christ, into His death, into one body, by one Spirit. The minister is not the agent of this one. Christ is not here named as the baptizer into His own body. The Spirit baptizes into Christ and into His body.
+Do not make Romans 6 a water-manual that has forgotten 1 Corinthians 12:13. Do not make 1 Corinthians 12:13 a body-slogan that has forgotten the old man crucified. These passages are one baptism: into Jesus Christ, into His death, into one body, by one Spirit. The minister is not the agent of this one. Christ is not here named as the baptizer into His own body. The Spirit baptizes into Christ and into His body.
 
 Henceforth we should not serve sin. He that is dead is freed from sin. That is not a mood. It is the fruit of this burial. A man who treats water as the creator of this death has asked the figure to do the object’s work. Lesson 3-07 will name the figure. This lesson names the object.
 
@@ -333,7 +333,7 @@ Through the faith of the operation of God — Colossians will not let you make t
 Labour
 The Walk — one tight page. Write Romans 6:3-4 and 1 Corinthians 12:13. Who is the agent? What is the body? What happens to the old man? Word drill: buried / raised / one Spirit / one body.
 
-Intensive — three pages on the same Scripture set. Page 1: write Romans 6:3-7, Colossians 2:12, and 1 Corinthians 12:13 in full; mark death, burial, resurrection, old man, Spirit, body. Page 2: the agent of baptism 1 is the Spirit — write why the minister is not this agent. Page 3: water will figure this; water does not create it — write the sentence you will not say about a tank and Romans 6. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write Romans 6:3-7, Colossians 2:12, and 1 Corinthians 12:13 in full; mark death, burial, resurrection, old man, Spirit, body. Page 2: the agent of baptism 1 is the Spirit — write why the minister is not this agent. Page 3: water will figure this; water does not create it — write the sentence you will not say about a tank and Romans 6. The doctrine is the same.
 
 Distinction
 Burial into Christ by the Spirit vs burial in a tank that has not yet been called a figure.
@@ -363,7 +363,7 @@ Matthew 28:19. Go ye therefore, and teach all nations, baptizing them in the nam
 
 1 Peter 3:21. The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ.
 
-order is not a suggestion: water after one is saved. A man who has not been baptized into Christ is not a candidate for this figure as if the figure could create the object. Teach all nations — then baptize. The minister’s act follows the receiving Course 1 named and the putting-on Course 3 has already named.
+The order is not a suggestion: water after one is saved. A man who has not been baptized into Christ is not a candidate for this figure as if the figure could create the object. Teach all nations — then baptize. The minister’s act follows the receiving Course 1 named and the putting-on Course 3 has already named.
 
 Water baptizō symbolizes the death, burial, and resurrection of Christ already elucidated in baptism 1. Romans 6 was not waiting for a tank to become true. Colossians 2:12 was not an empty phrase until a minister acted. The figure points to that location. A sign points you to a location of the object. It is not the object. If you refuse the sign because it is not the object, you have treated the command as optional decoration. If you worship the sign as if it were the object, you have treated the minister as the saviour.
 
@@ -378,7 +378,7 @@ Water baptizō is baptism 2 of the three essential. It is not baptism 1. It is n
 Labour
 The Walk — one tight page. Write what the water figures, and what it must not be asked to do. Name the agent of this baptism. Word drill: sign / object; after one is saved.
 
-Intensive — three pages on the same Scripture set. Page 1: write Matthew 28:19 and 1 Peter 3:21 in full; mark figure, conscience, resurrection, the minister’s commission. Page 2: after one is saved — write why a man not yet baptized into Christ is not a candidate as if the figure could create the object. Page 3: two refusals — do not refuse the sign; do not worship the sign — write the practice you will put down. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write Matthew 28:19 and 1 Peter 3:21 in full; mark figure, conscience, resurrection, the minister’s commission. Page 2: after one is saved — write why a man not yet baptized into Christ is not a candidate as if the figure could create the object. Page 3: two refusals — do not refuse the sign; do not worship the sign — write the practice you will put down. The doctrine is the same.
 
 Distinction
 Sign vs object. After salvation vs water as the saving act.
@@ -414,18 +414,18 @@ Faith in the death, burial, and resurrection of Christ saves the soul, not the s
 
 Saved by water in Noah’s day is the type. Eight souls. The ark. The water. The like figure. Baptism now saves — and the verse immediately tells you how it does not save, and how it does. Not filth of the flesh. Answer of a good conscience. By the resurrection. If you stop at “baptism doth also now save us” and never read the parenthesis, you have not heard the verse. If you read only the parenthesis and throw away the figure, you have not heard it either.
 
-Lesson 3-09 will set the cross, not water, as power. Lesson 3-10 will hold Galatians 3:26 with 3:27. This lesson answers the question this teaching printed. Is it the water that saves us, or the thing that it is a figure of? The thing it figures. Faith in the death, burial, and resurrection of Christ. The water remains the figure after one is saved.
+Lesson 3-09 will set the cross, not water, as power. Lesson 3-10 will hold Galatians 3:26 with 3:27. This lesson answers the governing question. Is it the water that saves us, or the thing that it is a figure of? The thing it figures. Faith in the death, burial, and resurrection of Christ. The water remains the figure after one is saved.
 
 Longsuffering waited in the days of Noah while the ark was a preparing. Few — eight souls — were saved by water. The like figure. Baptism doth also now save us — and the verse will not let that clause stand alone. Not the putting away of the filth of the flesh. The answer of a good conscience toward God. By the resurrection of Jesus Christ. If you preach the water as a second saviour, you have contradicted the parenthesis. If you preach the figure as nothing, you have contradicted “doth also now save us” as the verse explains it.
 
 A good conscience toward God is not a mood at a tank. It is the answer that belongs to those who have already been baptized into Christ. The resurrection is the power named in the verse. Course 5 will open resurrection as its own principle. This lesson will not steal that stone. It will also not let 1 Peter 3:21 be used as if the tank raised Christ.
 
-Is it the water that saves us, or the thing that it is a figure or symbol of? This teaching asks. The verse answers. Faith in the death, burial, and resurrection of Christ saves the soul, not the sign. Eight souls. The ark. The like figure. Write the verse. Write the answer. Do not invent a third option. Do not invent a fourth.
+Is it the water that saves us, or the thing that it is a figure or symbol of? This lesson asks. The verse answers. Faith in the death, burial, and resurrection of Christ saves the soul, not the sign. Eight souls. The ark. The like figure. Write the verse. Write the answer. Do not invent a third option. Do not invent a fourth.
 
 Labour
 The Walk — one tight page. Write 1 Peter 3:21. Answer the question from the verse: is it the water that saves us, or the thing that it is a figure of? Word drill: like figure / filth of the flesh / good conscience / resurrection.
 
-Intensive — three pages on the same Scripture set. Page 1: write 1 Peter 3:20-21 in full; reason Noah, eight souls, like figure, the parenthesis, by the resurrection. Page 2: answer the question; refuse the third option (water as second saviour) and the fourth (figure as nothing). Page 3: write the sentence you will not preach if the verse has spoken. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write 1 Peter 3:20-21 in full; reason Noah, eight souls, like figure, the parenthesis, by the resurrection. Page 2: answer the question; refuse the third option (water as second saviour) and the fourth (figure as nothing). Page 3: write the sentence you will not preach if the verse has spoken. The doctrine is the same.
 
 Distinction
 The figure that answers with a good conscience vs the water as a second saviour.
@@ -457,7 +457,7 @@ Water baptism does not save the soul from sin. It is a symbol significant only f
 
 The power is the preaching of the cross — unto us which are saved. The power is Christ — unto them which are called. Jews require a sign. Greeks seek wisdom. We preach Christ crucified. Water is not that preaching. Water follows those who have received Him. Do not invert the order to gather a crowd that has never heard the cross.
 
-Wisdom of words can make the cross of none effect as surely as a tank-mission can. This school will not trade the graphē for a cleverer sentence. It will also not trade the cross for a wetter one. Foolishness of preaching. Them that believe. That is how it pleased God to save.
+Wisdom of words can make the cross of none effect as surely as a tank-mission can. Foundation School will not trade the graphē for a cleverer sentence. It will also not trade the cross for a wetter one. Foolishness of preaching. Them that believe. That is how it pleased God to save.
 
 Lesson 3-07 kept the sign. This lesson keeps the power. Both stand. The minister still baptizes after one is saved. Paul still says he was not sent to baptize but to preach. Those are not two religions. One man can preach the cross and baptize the saved without making water the power. What you must not say again is that water is the power of God to save.
 
@@ -468,7 +468,7 @@ Lest the cross of Christ should be made of none effect — that is why Paul was 
 Labour
 The Walk — one tight page. Write 1 Corinthians 1:17-18. Then write one sentence you will not say again if the cross is the power and water is the sign. Word drill: not to baptize / preach the gospel / cross / power of God.
 
-Intensive — three pages on the same Scripture set. Page 1: write 1 Corinthians 1:17-24 in full; mark sent, baptize, gospel, cross, foolishness, saved, called, Christ the power. Page 2: why a tank-mission makes the cross of none effect; why refusing the sign is not this text’s charge. Page 3: write the mission-sentence you will keep and the mission-sentence you will bury. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write 1 Corinthians 1:17-24 in full; mark sent, baptize, gospel, cross, foolishness, saved, called, Christ the power. Page 2: why a tank-mission makes the cross of none effect; why refusing the sign is not this text’s charge. Page 3: write the mission-sentence you will keep and the mission-sentence you will bury. The doctrine is the same.
 
 Distinction
 The cross as power vs water as power.
@@ -496,13 +496,13 @@ For ye are all the children of God by faith in Christ Jesus. For as many of you 
 
 Galatians 3:26-27. For ye are all the children of God by faith in Christ Jesus. For as many of you as have been baptized into Christ have put on Christ.
 
-definitive line: faith in Christ Jesus saves the soul, not water baptism. 3:26 is the verse it prints for that line. 3:27 is baptism into Christ, not the font as the saviour. Hold both verses in one paragraph a babe can follow.
+The definitive line is this: faith in Christ Jesus saves the soul, not water baptism. 3:26 is the verse it prints for that line. 3:27 is baptism into Christ, not the font as the saviour. Hold both verses in one paragraph a babe can follow.
 
 If you read 3:26 and throw away 3:27, you have faith with no putting-on. If you read 3:27 and throw away 3:26, you have a baptism that is no longer by faith. They are one life. Course 2 already forbade two gospels. Do not make two here.
 
 Children of God — that is the name Course 2 taught. By faith in Christ Jesus — pistis toward God, credence, not a mood. Baptized into Christ — baptism 1, the one baptism that saves the soul. Put on Christ — whelmed; not a coat at the door. The font is not in this paragraph as the saviour. The font remains the figure after one is saved. 1 Corinthians 1:17-24 has already named the cross as power. 1 Peter 3:21 has already asked the question. This lesson locks the two Galatians verses so that neither faith nor putting-on is orphaned.
 
-Ye are all. As many of you as. The “all” of 3:26 and the “as many” of 3:27 are not two classes — the faith-children over here, the baptized-into-Christ over there. This teaching reads them as one life. Teach them as one paragraph. A babe can follow a paragraph. A babe cannot follow a system that uses 3:27 to cancel 3:26, or 3:26 to cancel 3:27.
+Ye are all. As many of you as. The “all” of 3:26 and the “as many” of 3:27 are not two classes — the faith-children over here, the baptized-into-Christ over there. This lesson reads them as one life. Teach them as one paragraph. A babe can follow a paragraph. A babe cannot follow a system that uses 3:27 to cancel 3:26, or 3:26 to cancel 3:27.
 
 What you must not let 3:27 mean if 3:26 is true: that water is the saviour of the soul. What you must not let 3:26 mean if 3:27 is true: that faith is a bare credit that never puts Him on. Write the paragraph. Then write the refusal.
 
@@ -510,12 +510,12 @@ Definitively, faith in Christ Jesus saves the soul, not water baptism. That is l
 
 Course 2 forbade two gospels. Faith without putting-on is not these passages. 3:27 as a font that saves is not these passages. Ye are all the children of God by faith in Christ Jesus — that name is not earned at a tank. As many of you as have been baptized into Christ have put on Christ — that putting-on is not optional decoration on a faith that never received Him. Hold both. A babe can follow if you will not split them.
 
-these passages with these passages: the cross is power; children by faith; baptized into Christ. The font is not the saviour of 3:27. The figure remains after one is saved. Write one paragraph a babe can follow. Then write what you must not let 3:27 mean if 3:26 is true. Then write what you must not let 3:26 mean if 3:27 is true.
+Hold these passages together: the cross is power; children by faith; baptized into Christ. The font is not the saviour of 3:27. The figure remains after one is saved. Write one paragraph a babe can follow. Then write what you must not let 3:27 mean if 3:26 is true. Then write what you must not let 3:26 mean if 3:27 is true.
 
 Labour
 The Walk — one tight page. Hold Galatians 3:26 and 3:27 in one paragraph a babe can follow. Then write what you must not let 3:27 mean if 3:26 is true. Word drill: children by faith / baptized into Christ / put on Christ — one life.
 
-Intensive — three pages on the same Scripture set. Page 1: write Galatians 3:26-27 and 1 Corinthians 1:17-18; show the definitive line and the putting-on in one teaching. Page 2: the two errors — faith with no putting-on; baptism no longer by faith — write both as sentences you will not preach. Page 3: one paragraph a babe can follow, then the refusal of water as the saviour of 3:27. Same doctrine. Do not make two gospels to fill a page.
+Intensive — three pages on the same Scripture set. Page 1: write Galatians 3:26-27 and 1 Corinthians 1:17-18; show the definitive line and the putting-on in one teaching. Page 2: the two errors — faith with no putting-on; baptism no longer by faith — write both as sentences you will not preach. Page 3: one paragraph a babe can follow, then the refusal of water as the saviour of 3:27. The doctrine is the same. Do not make two gospels to fill a page.
 
 Distinction
 Faith that saves and baptism into Christ vs water as the saviour of 3:27.
@@ -545,9 +545,9 @@ Galatians 4:6-7. And because ye are sons, God hath sent forth the Spirit of his 
 
 Matthew 3:11. I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire.
 
-The Holy Spirit witnesses (informant) a Father–Son relationship (ensuant) as a consequence of sonship. Heir of God. Not slaves. This witness stays. With it this school also teaches the enduement of power for service — not instead of the witness. Christ is the agent (Matthew 3:11; John 1:31-33). The sequence with water is not one locked order: before water (Acts 10:44-48) or after it (Acts 1:4-8; 2:1-11; 8:12-21; 19:1-7).
+The Holy Spirit witnesses (informant) a Father–Son relationship (ensuant) as a consequence of sonship. Heir of God. Not slaves. This witness stays. With it Foundation School also teaches the enduement of power for service — not instead of the witness. Christ is the agent (Matthew 3:11; John 1:31-33). The sequence with water is not one locked order: before water (Acts 10:44-48) or after it (Acts 1:4-8; 2:1-11; 8:12-21; 19:1-7).
 
-Prerequisite: becoming God’s son. Course 1 and Course 2 are not optional prefaces. The Spirit is not sent into a man who has not been made a son. Because ye are sons — the sending follows the sonship. He does not invent the son. He cries Abba because you are a son. A second blessing that replaces baptism into Christ is not this teaching. A Spirit given without new birth is not this teaching.
+Prerequisite: becoming God’s son. Course 1 and Course 2 are not optional prefaces. The Spirit is not sent into a man who has not been made a son. Because ye are sons — the sending follows the sonship. He does not invent the son. He cries Abba because you are a son. A second blessing that replaces baptism into Christ is not this lesson. A Spirit given without new birth is not this lesson.
 
 Informant and ensuant are words. The Spirit witnesses; the Father–Son relationship ensues as consequence of sonship. Heir of God through Christ. Course 2 already asked who is heir and what heir means. This lesson will not reopen that as a new gospel. It will not let you seek the Spirit as if He could skip the son.
 
@@ -562,7 +562,7 @@ John 1:31-33 already named the agent: the same is He which baptizeth with the Ho
 Labour
 The Walk — one tight page. Who is the Spirit sent into, according to Galatians 4:6? Write the verse. Then write what “prerequisite” forbids you to seek as if it could skip the son. Word drill: informant / ensuant / Abba / heir / not a servant.
 
-Intensive — three pages on the same Scripture set. Page 1: write Galatians 4:6-7 and Matthew 3:11 in full; mark because ye are sons, sent, crying Abba, no more a servant, heir, Christ the baptizer. Page 2: witness and enduement — with, not instead; before water or after it, with Acts 10:44-48 named. Page 3: prerequisite new birth — write the hunt you will stop if the Spirit is not sent into a man who is not a son. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write Galatians 4:6-7 and Matthew 3:11 in full; mark because ye are sons, sent, crying Abba, no more a servant, heir, Christ the baptizer. Page 2: witness and enduement — with, not instead; before water or after it, with Acts 10:44-48 named. Page 3: prerequisite new birth — write the hunt you will stop if the Spirit is not sent into a man who is not a son. The doctrine is the same.
 
 Distinction
 Witness of sonship (and enduement with it) vs a second blessing that replaces baptism into Christ, or a Spirit given without new birth.
@@ -586,30 +586,30 @@ Read
 Textbook Chapter 4, section XII.
 
 Teaching
-He that believeth on Me, as the scripture hath said, out of his belly shall flow rivers of living water. This spake He of the Spirit. John 3:34 — God giveth not the Spirit by measure unto Him. The verse, in its own sentence, is unto Him — Christ. This teaching applies “the measure Christ experienced” and says: the Spirit not by measure unto you.
+He that believeth on Me, as the scripture hath said, out of his belly shall flow rivers of living water. This spake He of the Spirit. John 3:34 — God giveth not the Spirit by measure unto Him. The verse, in its own sentence, is unto Him — Christ. This lesson applies “the measure Christ experienced” and says: the Spirit not by measure unto you.
 
 John 7:38-39. He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water. (But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified.)
 
 John 3:34. For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him.
 
-Hold the verse. Hold the use given here. Do not empty John 3:34 to protect a stingy second-blessing slogan. Do not invent a measure this school refuses. Do not invent a title the verse does not grant. The sentence is unto Him. application is unto you: the measure Christ experienced; the Spirit not by measure unto you.
+Hold the verse. Hold the use given here. Do not empty John 3:34 to protect a stingy second-blessing slogan. Do not invent a measure Foundation School refuses. Do not invent a title the verse does not grant. The sentence is unto Him. The application is unto you: the measure Christ experienced; the Spirit not by measure unto you.
 
 Rivers, not a cup you earn at a second altar. They that believe on Him should receive. The Holy Ghost was not yet given, because Jesus was not yet glorified. The giving follows His glorifying. The rivers follow believing. Prerequisite remains: becoming God’s son. Without measure is not a Spirit poured on a man who has not been made a son. It is the opposite of a stingy slogan that ignores the sonship-prerequisite and the line given here.
 
-He whom God hath sent speaketh the words of God. The Christ of John 3:34 is the speaker of God’s words, and the Spirit is not given to Him by measure. This school will not pretend the verse was first written about you. It will also not refuse application once the verse has been held. Unto Him in the sentence. Unto you in the application given here. Both. Not a swap that erases the sentence. Not a caution that erases the application.
+He whom God hath sent speaketh the words of God. The Christ of John 3:34 is the speaker of God’s words, and the Spirit is not given to Him by measure. Foundation School will not pretend the verse was first written about you. It will also not refuse application once the verse has been held. Unto Him in the sentence. Unto you in the application given here. Both. Not a swap that erases the sentence. Not a caution that erases the application.
 
 Lesson 3-13 will open fullness: complete in Him; the measure of the stature of the fullness of Christ. This lesson only forbids measure-talk that these passages will not carry. Rivers. Not by measure. Believeth. Should receive.
 
 Out of his belly shall flow rivers of living water. As the scripture hath said. They that believe on Him should receive. Not yet given because Jesus was not yet glorified. The giving is not a stingy second blessing that ignores the son. It is rivers. The measure Christ experienced is applied here as “not by measure unto you.” Do not invent a title John 3:34 does not grant. Do not empty the verse to protect a slogan that rations the Spirit to those who climb a second altar. Hold the sentence. Hold the use given here.
 
-Unto Him — Christ — in the sentence of John 3:34. For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him. This teaching applies that measure unto you. Both must be held. Prerequisite remains new birth. Rivers follow believing. Fullness waits in the next lesson. This lesson forbids measure-talk these passages will not carry.
+Unto Him — Christ — in the sentence of John 3:34. For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him. This lesson applies that measure unto you. Both must be held. Prerequisite remains new birth. Rivers follow believing. Fullness waits in the next lesson. This lesson forbids measure-talk these passages will not carry.
 
-Do not empty John 3:34 to protect a stingy second-blessing slogan. Do not invent a measure this school refuses. Do not invent a title the verse does not grant. They that believe on Him should receive. The Holy Ghost was not yet given, because that Jesus was not yet glorified. Rivers. Not a cup. Not by measure unto you — after the sentence has been held as unto Him.
+Do not empty John 3:34 to protect a stingy second-blessing slogan. Do not invent a measure Foundation School refuses. Do not invent a title the verse does not grant. They that believe on Him should receive. The Holy Ghost was not yet given, because that Jesus was not yet glorified. Rivers. Not a cup. Not by measure unto you — after the sentence has been held as unto Him.
 
 Labour
 The Walk — one tight page. Write John 7:38-39 and John 3:34. Then write what “not by measure unto you” forces, without inventing a title the verse does not grant. Word drill: unto Him in the sentence; unto you in the application given here.
 
-Intensive — three pages on the same Scripture set. Page 1: write John 7:38-39 and John 3:34 in full; mark believeth, belly, rivers, Spirit, not yet given, glorified, unto him. Page 2: hold the verse as unto Him; hold application as the measure Christ experienced — not by measure unto you. Page 3: refuse the stingy second-blessing slogan and refuse a title the verse does not grant. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write John 7:38-39 and John 3:34 in full; mark believeth, belly, rivers, Spirit, not yet given, glorified, unto him. Page 2: hold the verse as unto Him; hold application as the measure Christ experienced — not by measure unto you. Page 3: refuse the stingy second-blessing slogan and refuse a title the verse does not grant. The doctrine is the same.
 
 Distinction
 Without measure / fullness vs a stingy “second blessing” that ignores the sonship-prerequisite and the line given here.
@@ -662,7 +662,7 @@ Till we all come — unity of the faith, knowledge of the Son of God, a perfect 
 Labour
 The Walk — one tight page. Write Colossians 2:9-10 and Ephesians 4:13. What is already true in Him, and what are you still coming unto? Hold both. Word drill: fullness / complete / stature / body / Christ liveth in me.
 
-Intensive — three pages on the same Scripture set. Page 1: write the full fullness-in-Christ Scripture set in KJV as printed above. Page 2: already true in Him — complete, body, crucified, savour, power and wisdom. Page 3: still coming unto — unity, knowledge, perfect man, measure of the stature; write the chase you will stop if He is not empty. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write the full fullness-in-Christ Scripture set in KJV as printed above. Page 2: already true in Him — complete, body, crucified, savour, power and wisdom. Page 3: still coming unto — unity, knowledge, perfect man, measure of the stature; write the chase you will stop if He is not empty. The doctrine is the same.
 
 Distinction
 Complete in Him vs a fullness you chase as if He were empty.
@@ -702,16 +702,16 @@ Genesis 1:26-28. And God said, Let us make man in our image, after our likeness:
 
 Psalm 139:14. I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.
 
-Heir. Image. Fearfully and wonderfully made. This school will not soften that charge for babes. We do not teach James 2:9 as these passages. The printed citation was an error. Fear and dread are Genesis 9:2 and Deuteronomy 11:25. Further reading when the volume is in your hand: Why We’re Beyond — its own book, not Fearfully Made.
+Heir. Image. Fearfully and wonderfully made. Foundation School will not soften that charge for babes. We do not teach James 2:9 as these passages. The printed citation was an error. Fear and dread are Genesis 9:2 and Deuteronomy 11:25. Further reading when the volume is in your hand: Why We’re Beyond — its own book, not Fearfully Made.
 
-Do not turn the charge into swagger without these passages. Power, and love, and a sound mind stand in the same breath. A man who swaggers without Abba, without heir, without image, without 2 Timothy 1:7, has not heard the charge. A man who softens the charge into timidity God did not give has not heard it either. It is not possible for you to fear — as this school teaches it. You are the fear and dread.
+Do not turn the charge into swagger without these passages. Power, and love, and a sound mind stand in the same breath. A man who swaggers without Abba, without heir, without image, without 2 Timothy 1:7, has not heard the charge. A man who softens the charge into timidity God did not give has not heard it either. It is not possible for you to fear — as Foundation School teaches it. You are the fear and dread.
 
 The LORD your God shall lay the fear of you and the dread of you. Into your hand are they delivered. Dominion was spoken in Genesis 1:26-28. Course 2 already forbade a safer verse in the place of that making. This lesson will not put a safer verse in the place of Genesis 9:2 and Deuteronomy 11:25.
 
 Labour
 The Walk — one tight page. Teach 2 Timothy 1:7 with Genesis 9:2 and Deuteronomy 11:25. Write the three texts. Do not submit swagger, and do not submit a softer sentence the Aletheia source forbids. Word drill: not slaves / not the spirit of fear / you are the fear and dread.
 
-Intensive — three pages on the same Scripture set. Page 1: write the full Scripture set in KJV as printed above. Page 2: heir, image, fearfully made — with Galatians 4:6-7 and Romans 8:17; Why We’re Beyond is its own book, not Fearfully Made; James 2:9 is not the governing text here. Page 3: power, love, and a sound mind in the same breath as the fear and dread — write the swagger you will refuse and the softening you will refuse. Same doctrine. Do not soften. Do not swagger without these passages.
+Intensive — three pages on the same Scripture set. Page 1: write the full Scripture set in KJV as printed above. Page 2: heir, image, fearfully made — with Galatians 4:6-7 and Romans 8:17; Why We’re Beyond is its own book, not Fearfully Made; James 2:9 is not the governing text here. Page 3: power, love, and a sound mind in the same breath as the fear and dread — write the swagger you will refuse and the softening you will refuse. The doctrine is the same. Do not soften. Do not swagger without these passages.
 
 Distinction
 Son (Abba, heir, informant Spirit) vs slave (timidity). You are the fear and dread vs a spirit of fear God did not give.
@@ -743,24 +743,24 @@ Genesis 1:26-28. And God said, Let us make man in our image, after our likeness:
 
 Anangellō: to announce in detail — declare, rehearse, report, show, speak, tell. Mine: the express image of God, announced unto you — express image and likeness of Me (Genesis 1:26-28). The Spirit does not invent another image. He shews what Course 2 already named. He glorifies the Son. He does not speak of Himself.
 
-A private revelation that never returns to Genesis 1:26-28 is not this shewing. The Spirit of truth guides into all truth. Whatsoever He shall hear, that shall He speak. He will shew you things to come. He shall glorify Me. He shall receive of Mine. All things the Father hath are Mine; therefore He takes of Mine and shews it. This teaching ties Mine to the express image and likeness. Write the likeness from the words. Do not invent a title these passages does not grant.
+A private revelation that never returns to Genesis 1:26-28 is not this shewing. The Spirit of truth guides into all truth. Whatsoever He shall hear, that shall He speak. He will shew you things to come. He shall glorify Me. He shall receive of Mine. All things the Father hath are Mine; therefore He takes of Mine and shews it. This lesson ties Mine to the express image and likeness. Write the likeness from the words. Do not invent a title these passages does not grant.
 
 Further reading when the volume is in your hand: Spirit Witness — its own book, not a volume of Presence of Sons 1–4. If a catalogue once set the titles near each other, that proximity is bibliographic, not a series assignment. Completing this course does not require finishing every page of the library. Directed sections when the volumes are in your hand.
 
-Course 2 taught image and likeness as written. This lesson will not hedge that making. The Spirit announces it in detail. He rehearses it. He reports it. He shews it. Man made in the image, after the likeness, given dominion — that is Mine as this school ties John 16 to Genesis 1. The Spirit glorifies the Son who is the image; He shews you that you were made after that likeness. He does not speak of Himself as a rival image.
+Course 2 taught image and likeness as written. This lesson will not hedge that making. The Spirit announces it in detail. He rehearses it. He reports it. He shews it. Man made in the image, after the likeness, given dominion — that is Mine as Foundation School ties John 16 to Genesis 1. The Spirit glorifies the Son who is the image; He shews you that you were made after that likeness. He does not speak of Himself as a rival image.
 
 Whatsoever He shall hear, that shall He speak. Things to come. All things the Father hath are Mine; therefore He takes of Mine and shews it. anangellō is not a private language. Declare. Rehearse. Report. Show. Speak. Tell. In detail. If what you call “the Spirit shewed me” never returns to image, likeness, and dominion, it is not this Mine. Let us make man. So God created. Male and female. Blessed them. Be fruitful. Multiply. Replenish. Subdue. Have dominion. Write the likeness from those words. Do not invent a safer verse.
 
 Labour
-The Walk — one tight page. What is “Mine” in John 16:14-15 as this school ties it to Genesis 1:26-28? Write both. Write the likeness from the words. Word drill: anangellō — announce in detail; declare, rehearse, report, show, speak, tell.
+The Walk — one tight page. What is “Mine” in John 16:14-15 as Foundation School ties it to Genesis 1:26-28? Write both. Write the likeness from the words. Word drill: anangellō — announce in detail; declare, rehearse, report, show, speak, tell.
 
-Intensive — three pages on the same Scripture set. Page 1: write John 16:13-15 and Genesis 1:26-28 in full; mark guide, not of Himself, glorify, Mine, shew, image, likeness, dominion. Page 2: anangellō: announce in detail, declare, rehearse, report, show, speak, tell. Mine as express image — not a private revelation that never returns to Genesis 1:26-28. Page 3: Spirit Witness is its own book, not Presence of Sons; write what you will not let a catalogue proximity become. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write John 16:13-15 and Genesis 1:26-28 in full; mark guide, not of Himself, glorify, Mine, shew, image, likeness, dominion. Page 2: anangellō: announce in detail, declare, rehearse, report, show, speak, tell. Mine as express image — not a private revelation that never returns to Genesis 1:26-28. Page 3: Spirit Witness is its own book, not Presence of Sons; write what you will not let a catalogue proximity become. The doctrine is the same.
 
 Distinction
 Mine as the image announced vs a private revelation that never returns to Genesis 1:26-28.
 
 Charge
-What is “Mine” in John 16:14-15 as this school ties it to Genesis 1:26-28? Write both. Write the likeness from the words.`,
+What is “Mine” in John 16:14-15 as Foundation School ties it to Genesis 1:26-28? Write both. Write the likeness from the words.`,
   ),
   lesson(
     "les-fs-3-16",
@@ -804,14 +804,14 @@ You should now be able to teach, from Scripture:
 
 Companions are not a seventh course. Spirit Witness is not a volume of Presence of Sons. Why We’re Beyond is not Fearfully Made. The next principle is laying on of hands. It is resultant. It is not a substitute for these three stones. It does not cancel Christ as Spirit-baptizer.
 
-Question 20–Question 25 are the examination spine. Name the three essential; do not invent the four; why “one baptism” does not cancel water and Spirit. Is it the water that saves, or what it figures — 1 Peter 3:21 with 1 Corinthians 1:17-18. Hold Galatians 3:26 with 3:27. Who is the Spirit sent into (Galatians 4:6)? Teach 2 Timothy 1:7 with Genesis 9:2 and Deuteronomy 11:25 — not James 2:9, not swagger without these passages, not a softer sentence. What is Mine — John 16:14-15 with Genesis 1:26-28. Do not submit a feeling in the place of these passages.
+Charge 20–Charge 25 are the examination spine. Name the three essential; do not invent the four; why “one baptism” does not cancel water and Spirit. Is it the water that saves, or what it figures — 1 Peter 3:21 with 1 Corinthians 1:17-18. Hold Galatians 3:26 with 3:27. Who is the Spirit sent into (Galatians 4:6)? Teach 2 Timothy 1:7 with Genesis 9:2 and Deuteronomy 11:25 — not James 2:9, not swagger without these passages, not a softer sentence. What is Mine — John 16:14-15 with Genesis 1:26-28. Do not submit a feeling in the place of these passages.
 
 Baptizō from baptō remains: dip; overwhelm with suffering; bury into — regardless of the element. Three agents remain: Spirit into Christ; Christ in the Spirit; minister in water. Unto Him in John 3:34’s sentence; the Spirit not by measure unto you in the application given here. Directed sections of the companions when the volumes are in your hand. Completing this course does not require finishing every page of the library.
 
 Labour
-The Walk — thirteen tight paragraphs: one on each of the thirteen heads named in the thin charge of this course, using the verses above. Same doctrine. Not thirteen new teachings. Then answer Question 20–Question 25 from these passages, not from a heading.
+The Walk — thirteen tight paragraphs: one on each of the thirteen heads named in the thin charge of this course, using the verses above. The doctrine is the same. Not thirteen new teachings. Then answer Charge 20–Charge 25 from these passages, not from a heading.
 
-Intensive — a full page on each of the thirteen heads. Use the same passages. Same doctrine. Do not invent a fourteenth baptism to fill the hours. Then write the examination answers from the Charge without a feeling in the place of these passages. Page the three agents and the seven; page the 1 Peter 3:21 question; page Genesis 9:2 with Deuteronomy 11:25. Same doctrine.
+Intensive — a full page on each of the thirteen heads. Use the same passages. The doctrine is the same. Do not invent a fourteenth baptism to fill the hours. Then write the examination answers from the Charge without a feeling in the place of these passages. Page the three agents and the seven; page the 1 Peter 3:21 question; page Genesis 9:2 with Deuteronomy 11:25. The doctrine is the same.
 
 Distinction
 Completion of activities vs mastery. Directed companion sections vs treating those books as this course.

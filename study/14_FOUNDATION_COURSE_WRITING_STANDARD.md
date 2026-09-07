@@ -26,6 +26,7 @@ Every lesson should make the student able to:
 
 - Cluster IDs such as `A1`, `J2`, `F7`, or `Q43`.
 - Phrases like "owner file," "source map," "backend," "production notes," or "this file" when they mean internal organization.
+- Planning phrases such as "lesson spine," "fact set," "source questions," "source words," "this lesson printed," or "own questions."
 - Unexplained lesson engineering such as "today J1" or "this sentence is J2."
 - A string of slogans where Scripture should be explained.
 - A teacher-only note presented as if it were a student charge.
