@@ -59,9 +59,6 @@ Laying on of hands is among the first principles. It is viable only as you actua
 Key Scripture
 Hebrews 6:2 — and of laying on of hands.
 
-Cluster
-F intro. Hebrews 6:1-2.
-
 Read
 Textbook Chapter 5, section I.
 
@@ -89,7 +86,7 @@ When? is the question. The answer is nine occasions, each its own text, only as 
 Labour
 The Walk — one tight page. Which earlier principle must already be laid before you treat hands as if they were the foundation? Name the three that stand before this one. Write what you have been using hands to replace. Word drill: resultant / not the foundation / when?
 
-Intensive — three pages on the same cluster. Page 1: write Hebrews 6:1-2 in full; reason the order — repentance, faith, baptisms, then hands. Page 2: what hands do not replace — metanoia, pistis, into Christ, water as figure, Spirit as witness; Christ remains Spirit-baptizer. Page 3: no required companion; write the practice you will not treat as the house. Same doctrine. Do not invent a tenth occasion to fill a page.
+Intensive — three pages on the same Scripture set. Page 1: write Hebrews 6:1-2 in full; reason the order — repentance, faith, baptisms, then hands. Page 2: what hands do not replace — metanoia, pistis, into Christ, water as figure, Spirit as witness; Christ remains Spirit-baptizer. Page 3: no required companion; write the practice you will not treat as the house. Same doctrine. Do not invent a tenth occasion to fill a page.
 
 Distinction
 Resultant practice vs foundation. The principle is real. The role is not the house.
@@ -109,9 +106,6 @@ Israel laid his hands on Ephraim and Manasseh and blessed Joseph’s sons. The f
 Key Scripture
 Genesis 48:14.
 
-Cluster
-F1. Genesis 48:8-20.
-
 Read
 Textbook Chapter 5, section II.
 
@@ -122,16 +116,16 @@ Genesis 48:8-20. And Israel beheld Joseph’s sons, and said, Who are these? And
 
 Who lays hands? Israel. On whom? Ephraim and Manasseh — Joseph’s sons. What is spoken? The blessing of the God of Abraham and Isaac; the Angel which redeemed him; name and multitude. The hands are guided wittingly. The younger receives the right hand. Joseph would uncross them. Israel will not.
 
-This is blessing men — not a technique you copy without the God who spoke to the patriarch. Do not turn the crossed hands into a tenth system. The occasion is the first in the file because this school names it first. It is not ordaining. It is not healing. It is not imparting Spirit baptism. Blessing men remains blessing men.
+This is blessing men — not a technique you copy without the God who spoke to the patriarch. Do not turn the crossed hands into a tenth system. The occasion is the first in the teaching because this school names it first. It is not ordaining. It is not healing. It is not imparting Spirit baptism. Blessing men remains blessing men.
 
-Eyes dim for age. He kissed them and embraced them. He blessed Joseph and the lads. I know it, my son, I know it. The account will not be reduced to a gesture-manual. The God who fed him all his life long is in the mouth of the blessing. If you submit a method in the place of the account, you have left F1.
+Eyes dim for age. He kissed them and embraced them. He blessed Joseph and the lads. I know it, my son, I know it. The account will not be reduced to a gesture-manual. The God who fed him all his life long is in the mouth of the blessing. If you submit a method in the place of the account, you have left this lesson's Scripture.
 
-Who are these? My sons, whom God hath given me in this place. Bring them, and I will bless them. God hath shewed me also thy seed. Joseph bows. Joseph arranges Ephraim toward Israel’s left and Manasseh toward his right. Israel crosses them wittingly. The Angel which redeemed me from all evil, bless the lads. Let my name be named on them. Grow into a multitude. Joseph displeased; he would remove the right hand. Not so, my father. Israel refused. The younger shall be greater. He set Ephraim before Manasseh. That is F1. Not a tenth system. Not Course 1. Blessing men.
+Who are these? My sons, whom God hath given me in this place. Bring them, and I will bless them. God hath shewed me also thy seed. Joseph bows. Joseph arranges Ephraim toward Israel’s left and Manasseh toward his right. Israel crosses them wittingly. The Angel which redeemed me from all evil, bless the lads. Let my name be named on them. Grow into a multitude. Joseph displeased; he would remove the right hand. Not so, my father. Israel refused. The younger shall be greater. He set Ephraim before Manasseh. That is the teaching for this lesson. Not a tenth system. Not Course 1. Blessing men.
 
 Labour
 The Walk — one tight page. Write Genesis 48:14. Who lays hands? On whom? What is spoken? Do not submit a method in the place of the account. Word drill: blessing men / guided wittingly / the younger and the right hand.
 
-Intensive — three pages on the same cluster. Page 1: write Genesis 48:8-20 in full; mark who, whom, the blessing spoken, the objection, the refusal. Page 2: blessing men as the account stands — not ordaining, not healing, not a tenth system from the crossed hands. Page 3: write the method you will not submit in the place of this account. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write Genesis 48:8-20 in full; mark who, whom, the blessing spoken, the objection, the refusal. Page 2: blessing men as the account stands — not ordaining, not healing, not a tenth system from the crossed hands. Page 3: write the method you will not submit in the place of this account. Same doctrine.
 
 Distinction
 Blessing men as the account stands vs a ritual you invent from the gesture.
@@ -151,9 +145,6 @@ The children of Israel put their hands upon the Levites. The Levites are offered
 Key Scripture
 Numbers 8:10.
 
-Cluster
-F2. Numbers 8:5-15.
-
 Read
 Textbook Chapter 5, section III.
 
@@ -164,18 +155,18 @@ Numbers 8:5-15. And the LORD spake unto Moses, saying, Take the Levites from amo
 
 What is being offered? The Levites. Before whom? The LORD. Who put their hands upon them? The children of Israel — the whole assembly gathered. Aaron offers the Levites for an offering of the children of Israel, that they may execute the service of the LORD. The Levites then lay their hands upon the bullocks. Separation: the Levites shall be mine.
 
-This is making offerings — identification and presentation — not a private ritual invented in a meeting. The hands here serve the offering God commanded. They do not invent a priesthood. Moses is told; the LORD speaks; the assembly is gathered; the tabernacle is the place. A meeting that invents hands-as-offering without this command has left F2.
+This is making offerings — identification and presentation — not a private ritual invented in a meeting. The hands here serve the offering God commanded. They do not invent a priesthood. Moses is told; the LORD speaks; the assembly is gathered; the tabernacle is the place. A meeting that invents hands-as-offering without this command has left this lesson's Scripture.
 
 Do not flatten this occasion into blessing men. Genesis 48 was patriarch and lads and a spoken blessing. Numbers 8 is congregation, Levites, offering, service. Each occasion remains itself. Do not make this a substitute for baptism into Christ. The Levites are offered after they are cleansed as the LORD said. The grounding stones are not this ceremony.
 
-The LORD spake unto Moses. Take the Levites from among the children of Israel, and cleanse them. Water of purifying, shave, wash, bullock, meat offering, sin offering. Whole assembly gathered before the tabernacle. Hands of the children of Israel upon the Levites. Aaron offers them that they may execute the service of the LORD. Levites’ hands on the bullocks. Separate them; they shall be mine. After that they go in to do the service. That is making offerings. A private ritual in a meeting that never heard this command is not F2. Hands here identify and present what God named. They do not invent a priesthood the LORD did not speak.
+The LORD spake unto Moses. Take the Levites from among the children of Israel, and cleanse them. Water of purifying, shave, wash, bullock, meat offering, sin offering. Whole assembly gathered before the tabernacle. Hands of the children of Israel upon the Levites. Aaron offers them that they may execute the service of the LORD. Levites’ hands on the bullocks. Separate them; they shall be mine. After that they go in to do the service. That is making offerings. A private ritual in a meeting that never heard this command is not this lesson. Hands here identify and present what God named. They do not invent a priesthood the LORD did not speak.
 
-What is being offered? The Levites. Before whom? The LORD. The children of Israel put their hands upon them. That is F2. Not blessing men. Not ordaining Joshua. Not a ceremony that replaces baptism into Christ. Each occasion remains itself.
+What is being offered? The Levites. Before whom? The LORD. The children of Israel put their hands upon them. That is the teaching for this lesson. Not blessing men. Not ordaining Joshua. Not a ceremony that replaces baptism into Christ. Each occasion remains itself.
 
 Labour
 The Walk — one tight page. Write Numbers 8:10. What is being offered, and before whom? What must you not let this occasion become? Word drill: offerings / identification / presentation / before the LORD.
 
-Intensive — three pages on the same cluster. Page 1: write Numbers 8:5-15 in full; mark cleanse, assembly, hands on the Levites, Aaron’s offering, bullocks, mine. Page 2: making offerings as commanded — not a private ritual; not a priesthood invented by hands. Page 3: write what you will not let this occasion become in a meeting. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write Numbers 8:5-15 in full; mark cleanse, assembly, hands on the Levites, Aaron’s offering, bullocks, mine. Page 2: making offerings as commanded — not a private ritual; not a priesthood invented by hands. Page 3: write what you will not let this occasion become in a meeting. Same doctrine.
 
 Distinction
 Hands on the offered vs a private ritual invented in a meeting.
@@ -195,9 +186,6 @@ Joshua is already a man in whom is the spirit. Moses lays his hand and gives him
 Key Scripture
 Numbers 27:18, 23.
 
-Cluster
-F3. Numbers 27:15-23.
-
 Read
 Textbook Chapter 5, section IV.
 
@@ -208,16 +196,16 @@ Numbers 27:15-23. And Moses spake unto the LORD, saying, Let the LORD, the God o
 
 What is already true of Joshua before the hand? He is a man in whom is the spirit. What does the hand do? It is laid; a charge is given in their sight; some of Moses’ honour is put upon him; the congregation may be obedient. Moses did as the LORD commanded. The text will not let you make ordination a substitute for the Spirit already in the man.
 
-Do not flatten this into Deuteronomy 34:9. That verse is the next occasion: imparting Spirit — Joshua full of the spirit of wisdom, for Moses had laid his hands upon him. Hold both. Do not invent a tenth occasion to sit between them. Today F3: ordaining. A man in whom is the spirit. Charge. Before Eleazar. Before all the congregation. Sheep who have a shepherd.
+Do not flatten this into Deuteronomy 34:9. That verse is the next occasion: imparting Spirit — Joshua full of the spirit of wisdom, for Moses had laid his hands upon him. Hold both. Do not invent a tenth occasion to sit between them. In this lesson: ordaining. A man in whom is the spirit. Charge. Before Eleazar. Before all the congregation. Sheep who have a shepherd.
 
 The LORD, the God of the spirits of all flesh, sets the man. Moses asks. The LORD names Joshua. The hand follows the naming. If you treat hands as the creator of what God has not put in, you have left Numbers 27:18. Course 3 already taught that the Spirit is not sent into a man who has not been made a son. This occasion will not become a back door around that prerequisite.
 
-That the congregation be not as sheep which have no shepherd. Go out, go in, lead out, bring in. Set him before Eleazar the priest, and before all the congregation; give him a charge in their sight. Put some of thine honour upon him, that all the congregation may be obedient. Urim before the LORD. At his word shall they go out and come in. Moses did as the LORD commanded. He took Joshua. He laid his hands. He gave him a charge. Ordaining here is charge, not creation of the Spirit. Deuteronomy 34:9 will say what it will say. Do not steal that verse into this lesson to flatten the file.
+That the congregation be not as sheep which have no shepherd. Go out, go in, lead out, bring in. Set him before Eleazar the priest, and before all the congregation; give him a charge in their sight. Put some of thine honour upon him, that all the congregation may be obedient. Urim before the LORD. At his word shall they go out and come in. Moses did as the LORD commanded. He took Joshua. He laid his hands. He gave him a charge. Ordaining here is charge, not creation of the Spirit. Deuteronomy 34:9 will say what it will say. Do not steal that verse into this lesson to flatten the teaching.
 
 Labour
 The Walk — one tight page. Write Numbers 27:18 and 27:23. What is already true of Joshua before the hand? What does the hand do? Word drill: a man in whom is the spirit / charge / as the LORD commanded.
 
-Intensive — three pages on the same cluster. Page 1: write Numbers 27:15-23 in full; mark the request, the naming, the spirit already in the man, Eleazar, congregation, honour, charge. Page 2: ordaining does not create the Spirit — write the substitute you will refuse. Page 3: hold F3 beside F4 without flattening; do not invent a tenth to explain them. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write Numbers 27:15-23 in full; mark the request, the naming, the spirit already in the man, Eleazar, congregation, honour, charge. Page 2: ordaining does not create the Spirit — write the substitute you will refuse. Page 3: hold Numbers 27 beside Deuteronomy 34 without flattening; do not invent a tenth to explain them. Same doctrine.
 
 Distinction
 Charge laid on a man in whom is the spirit vs hands creating what God has not put in.
@@ -237,9 +225,6 @@ Joshua was full of the spirit of wisdom; for Moses had laid his hands upon him. 
 Key Scripture
 Deuteronomy 34:9.
 
-Cluster
-F4. Deuteronomy 34:9 with Numbers 27:18, 23.
-
 Read
 Textbook Chapter 5, section V.
 
@@ -252,26 +237,26 @@ Numbers 27:18. And the LORD said unto Moses, Take thee Joshua the son of Nun, a 
 
 Numbers 27:23. And he laid his hands upon him, and gave him a charge, as the LORD commanded by the hand of Moses.
 
-Hold this next to Numbers 27. Joshua was a man in whom is the spirit before the charge; he is full of the spirit of wisdom after the hands. Do not flatten the two texts into one slogan. Do not invent a tenth occasion to explain them. F3 remains ordaining. F4 remains imparting Spirit. The same Joshua. Two verses. Two things said.
+Hold this next to Numbers 27. Joshua was a man in whom is the spirit before the charge; he is full of the spirit of wisdom after the hands. Do not flatten the two texts into one slogan. Do not invent a tenth occasion to explain them. Numbers 27 remains ordaining. Deuteronomy 34 remains imparting Spirit. The same Joshua. Two verses. Two things said.
 
 What does Deuteronomy 34:9 force you to say that Numbers 27:18 does not say? He was full of the spirit of wisdom; for Moses had laid his hands upon him. Israel hearkened. They did as the LORD commanded Moses. What does Numbers 27:18 force you to say that Deuteronomy 34:9 does not say? He was already a man in whom is the spirit before the hand. The charge is given in their sight. Some of Moses’ honour is put upon him.
 
 The fruit of the occasion is not a feeling in Moses. It is a people who hear the man charged. Hearkened. Did as the LORD commanded Moses. If you measure this occasion by a sensation in the one who laid hands, you have left the verse.
 
-This is not Christian baptism in the Spirit as Course 3 named it — Christ the baptizer; witness of sonship; prerequisite new birth. This is the fourth occasion in the hands file: imparting Spirit, as Deuteronomy 34:9 states it. Course 3 is not cancelled. A tenth “bridge” occasion is not required to keep both courses. Teach the verse. Teach it beside Numbers 27. Stop.
+This is not Christian baptism in the Spirit as Course 3 named it — Christ the baptizer; witness of sonship; prerequisite new birth. This is the fourth occasion in the hands teaching: imparting Spirit, as Deuteronomy 34:9 states it. Course 3 is not cancelled. A tenth “bridge” occasion is not required to keep both courses. Teach the verse. Teach it beside Numbers 27. Stop.
 
-Full of the spirit of wisdom — for Moses had laid his hands upon him. The “for” is in the verse. This school will not delete it to protect F3, and will not delete F3 to protect the “for.” Already a man in whom is the spirit. Then full of the spirit of wisdom, for the hands. Two sentences. One Joshua. Israel hearkened unto him, and did as the LORD commanded Moses. The fruit is a hearing people, not a sensation in the one who laid hands.
+Full of the spirit of wisdom — for Moses had laid his hands upon him. The “for” is in the verse. This school will not delete it to protect this Scripture set, and will not delete this Scripture set to protect the “for.” Already a man in whom is the spirit. Then full of the spirit of wisdom, for the hands. Two sentences. One Joshua. Israel hearkened unto him, and did as the LORD commanded Moses. The fruit is a hearing people, not a sensation in the one who laid hands.
 
 Do not invent a tenth occasion named “the gap between spirit and wisdom.” Do not collapse both verses into “ordination equals Spirit.” Course 3’s agent remains Christ for baptism in the Holy Spirit. This occasion remains Deuteronomy 34:9. When? After the grounding things. Hands do not become the house because this verse used “for.”
 
 Write Deuteronomy 34:9 beside Numbers 27:18. What does each force you to say that the other does not say? Already a man in whom is the spirit. Then full of the spirit of wisdom, for Moses had laid his hands. Israel hearkened. The fruit is not a feeling in Moses. Two texts. No tenth between them. No flatten.
 
-F3 remains ordaining: charge, Eleazar, congregation, honour, as the LORD commanded. F4 remains imparting Spirit: full of the spirit of wisdom, for the hands. Same Joshua. Do not steal either verse into the other lesson. Course 3 is not cancelled. Christ remains the baptizer in the Holy Spirit. This is the fourth occasion in the hands file, as the verse states it.
+Numbers 27 remains ordaining: charge, Eleazar, congregation, honour, as the LORD commanded. Deuteronomy 34 remains imparting Spirit: full of the spirit of wisdom, for the hands. Same Joshua. Do not steal either verse into the other lesson. Course 3 is not cancelled. Christ remains the baptizer in the Holy Spirit. This is the fourth occasion in the hands teaching, as the verse states it.
 
 Labour
 The Walk — one tight page. Write Deuteronomy 34:9 beside Numbers 27:18. What does each verse force you to say that the other does not say? Word drill: full of the spirit of wisdom / for Moses had laid his hands / hearkened.
 
-Intensive — three pages on the same cluster. Page 1: write Deuteronomy 34:9 and Numbers 27:18, 23 in full; two columns — already true / after the hands. Page 2: do not flatten; do not invent a tenth; Israel hearkened is the fruit, not a feeling in Moses. Page 3: this occasion does not cancel Course 3 — Christ remains Spirit-baptizer. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write Deuteronomy 34:9 and Numbers 27:18, 23 in full; two columns — already true / after the hands. Page 2: do not flatten; do not invent a tenth; Israel hearkened is the fruit, not a feeling in Moses. Page 3: this occasion does not cancel Course 3 — Christ remains Spirit-baptizer. Same doctrine.
 
 Distinction
 Imparting Spirit as the verse states it vs collapsing Deuteronomy 34 into Numbers 27, or inventing a tenth to sit between them.
@@ -291,9 +276,6 @@ He laid His hands on the children. The disciples rebuked the bringing. The Lord 
 Key Scripture
 Matthew 19:13-15.
 
-Cluster
-F5.
-
 Read
 Textbook Chapter 5, section VI.
 
@@ -304,24 +286,24 @@ Matthew 19:13-15. Then were there brought unto him little children, that he shou
 
 Matthew 19:15 is the printed verse. The account is 13-15. He laid His hands on them. The disciples rebuked the bringing. The Lord would not. This is blessing children — not a dedication invented to replace new birth, and not a small thing you skip because the children are small.
 
-What did the disciples do? They rebuked them that brought the children. What did the Lord do? He said suffer and forbid them not; of such is the kingdom of heaven; He laid His hands on them; He departed. What must you not let this occasion replace? Course 1. Receive Him. New birth. A rite that pretends to be repentance and faith for a child is not F5. Blessing children is blessing children.
+What did the disciples do? They rebuked them that brought the children. What did the Lord do? He said suffer and forbid them not; of such is the kingdom of heaven; He laid His hands on them; He departed. What must you not let this occasion replace? Course 1. Receive Him. New birth. A rite that pretends to be repentance and faith for a child is not this lesson. Blessing children is blessing children.
 
 He should put His hands on them, and pray. The bringing had a request: hands and prayer. The rebuke met that request. The Lord met the children. Of such is the kingdom of heaven is His sentence, not a slogan you paste on a ceremony He did not invent. He laid His hands on them. Then He departed thence. The account is short. Do not lengthen it with a system.
 
-Do not flatten this into healing. Mark 6 and Mark 16 and Acts 5 are another occasion. Do not flatten this into blessing men. Genesis 48 is patriarch and Joseph’s sons. Little children brought to Jesus is F5. Each occasion remains itself. Nine. No tenth.
+Do not flatten this into healing. Mark 6 and Mark 16 and Acts 5 are another occasion. Do not flatten this into blessing men. Genesis 48 is patriarch and Joseph’s sons. Little children brought to Jesus is this Scripture set. Each occasion remains itself. Nine. No tenth.
 
 Suffer little children, and forbid them not, to come unto Me. The disciples’ rebuke is in the text so that you will not repeat it and call it order. Of such is the kingdom of heaven. He laid His hands on them. He departed thence. 19:15 is printed; the account you teach is 13-15. Hands and pray was the bringing’s request. The Lord met it without inventing a dedication that replaces new birth.
 
-Course 1 remains receive Him. A child is not saved by this occasion as if it were baptism into Christ. A child is not too small for the Lord to lay hands on. Skip this because they are small and you have taken the disciples’ part. Invent a rite that pretends to be repentance and faith and you have left F5 for a tenth. Blessing children as the Lord did. That is the occasion.
+Course 1 remains receive Him. A child is not saved by this occasion as if it were baptism into Christ. A child is not too small for the Lord to lay hands on. Skip this because they are small and you have taken the disciples’ part. Invent a rite that pretends to be repentance and faith and you have left this lesson's Scripture for a tenth. Blessing children as the Lord did. That is the occasion.
 
-The disciples rebuked the bringing. The Lord said suffer, forbid them not, of such is the kingdom of heaven. He laid His hands on them. He departed. Matthew 19:13-15 is the cluster, not 19:15 alone. Not healing. Not blessing men. Not Course 1. F5 remains F5.
+The disciples rebuked the bringing. The Lord said suffer, forbid them not, of such is the kingdom of heaven. He laid His hands on them. He departed. Matthew 19:13-15 is the Scripture set, not 19:15 alone. Not healing. Not blessing men. Not Course 1. this occasion remains blessing children.
 
 He should put His hands on them, and pray. That was the bringing. The rebuke met the bringing. The Lord met the children. Of such is the kingdom of heaven is His sentence, not a slogan pasted on a dedication He did not invent. Do not skip this because the children are small. Do not replace new birth with this occasion. Blessing children as the Lord did. Nine. No tenth.
 
 Labour
 The Walk — one tight page. Write Matthew 19:13-15. What did the disciples do? What did the Lord do? What must you not let this occasion replace? Word drill: suffer / forbid them not / laid His hands / of such is the kingdom.
 
-Intensive — three pages on the same cluster. Page 1: write Matthew 19:13-15 in full; mark brought, hands, pray, rebuked, suffer, forbid not, kingdom, laid, departed. Page 2: blessing children — not Course 1 for a child; not a small thing skipped because they are small. Page 3: not healing, not blessing men — write the flatten you will refuse. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write Matthew 19:13-15 in full; mark brought, hands, pray, rebuked, suffer, forbid not, kingdom, laid, departed. Page 2: blessing children — not Course 1 for a child; not a small thing skipped because they are small. Page 3: not healing, not blessing men — write the flatten you will refuse. Same doctrine.
 
 Distinction
 Blessing children as the Lord did vs a rite that pretends to be Course 1 for a child.
@@ -341,9 +323,6 @@ Mighty works by His hands. He laid His hands on a few sick and healed them. They
 Key Scripture
 Mark 6:2, 5; Mark 16:18; Acts 5:12.
 
-Cluster
-F6.
-
 Read
 Textbook Chapter 5, section VII.
 
@@ -360,9 +339,9 @@ Acts 5:12. And by the hands of the apostles were many signs and wonders wrought 
 
 Four texts. One occasion. Healing the sick. What unbelief did in Nazareth: He could there do no mighty work — save that He laid His hands upon a few sick folk, and healed them. The hands still did that. Astonishment at wisdom and mighty works by His hands sits in the same town that would not receive a mighty work beyond those few. Teach both sentences. Do not preach only the limit. Do not preach only the few as if Mark 6:2 had not named mighty works by His hands.
 
-The risen Lord includes laying hands on the sick among the signs that follow them that believe. They shall recover. The apostles’ hands wrought many signs and wonders among the people. Solomon’s porch. One accord. This is not a substitute for repentance, faith, or baptism into Christ. It is an occasion in the file. Teach the texts. Do not invent a tenth healing system beside them.
+The risen Lord includes laying hands on the sick among the signs that follow them that believe. They shall recover. The apostles’ hands wrought many signs and wonders among the people. Solomon’s porch. One accord. This is not a substitute for repentance, faith, or baptism into Christ. It is an occasion in the teaching. Teach the texts. Do not invent a tenth healing system beside them.
 
-A healing brand that no longer needs the verses has left F6. Four references. One sentence each in The Walk charge. The occasion is healing — not miracles as Acts 19:11 will name them, not blessing children, not imparting gifts. Mark 16:18 has more in the verse than hands on the sick. This text is filed under healing. Keep it there. Do not build a tenth file from the rest of the verse.
+A healing brand that no longer needs the verses has left this lesson's Scripture. Four references. One sentence each in The Walk charge. The occasion is healing — not miracles as Acts 19:11 will name them, not blessing children, not imparting gifts. Mark 16:18 has more in the verse than hands on the sick. This text is filed under healing. Keep it there. Do not build a tenth category from the rest of the verse.
 
 He began to teach in the synagogue. Many hearing Him were astonished. From whence hath this man these things? What wisdom is this which is given unto Him, that even such mighty works are wrought by His hands? Then the limit: He could there do no mighty work, save the few sick healed by His hands. Unbelief in Nazareth did not erase the hands; it limited what it would receive. The risen word still says they shall recover. The apostles still wrought signs and wonders by their hands among the people.
 
@@ -373,7 +352,7 @@ Write the four references with one sentence each. What unbelief did in Nazareth:
 Labour
 The Walk — one tight page. Write the four references with one sentence each. Then write what unbelief did in Nazareth, and what the hands still did. Word drill: mighty works by His hands / a few sick / they shall recover / signs and wonders.
 
-Intensive — three pages on the same cluster. Page 1: write Mark 6:2, Mark 6:5, Mark 16:18, and Acts 5:12 in full. Page 2: Nazareth — astonishment, no mighty work, save the few healed; the risen word; the apostles’ hands. Page 3: not a substitute for Courses 1–3; no tenth healing system; not Acts 19:11. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write Mark 6:2, Mark 6:5, Mark 16:18, and Acts 5:12 in full. Page 2: Nazareth — astonishment, no mighty work, save the few healed; the risen word; the apostles’ hands. Page 3: not a substitute for Courses 1–3; no tenth healing system; not Acts 19:11. Same doctrine.
 
 Distinction
 The four texts as one occasion vs a healing brand that no longer needs the verses.
@@ -393,9 +372,6 @@ God wrought special miracles by the hands of Paul. God wrought. By the hands.
 Key Scripture
 Acts 19:11.
 
-Cluster
-F7. Acts 19:11-12.
-
 Read
 Textbook Chapter 5, section VIII.
 
@@ -404,29 +380,29 @@ God wrought special miracles by the hands of Paul. The next verse tells of cloth
 
 Acts 19:11-12. And God wrought special miracles by the hands of Paul: So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them.
 
-Who wrought? God. By whose hands? Paul’s. What tenth will you refuse to add from verse 12? A cloth-system. Handkerchiefs or aprons from his body; diseases departed; evil spirits went out. Verse 12 is in the cluster so you will read what followed. The file says miracles, Acts 19:11. God wrought. By the hands. The cloth is not a tenth occasion. The man is not the source.
+Who wrought? God. By whose hands? Paul’s. What tenth will you refuse to add from verse 12? A cloth-system. Handkerchiefs or aprons from his body; diseases departed; evil spirits went out. Verse 12 is in the Scripture set so you will read what followed. The teaching says miracles, Acts 19:11. God wrought. By the hands. The cloth is not a tenth occasion. The man is not the source.
 
-Special miracles. The text uses the word. This school will not invent a tenth category to explain “special.” It will also not pretend verse 11 can be taught if God is removed from the subject. God wrought. Paul is the hands. The sick and the possessed meet what God wrought. If you preach Paul as the fountain, you have inverted the verse. If you preach a cloth-ministry as a tenth file, you have left this teaching’s nine.
+Special miracles. The text uses the word. This school will not invent a tenth category to explain “special.” It will also not pretend verse 11 can be taught if God is removed from the subject. God wrought. Paul is the hands. The sick and the possessed meet what God wrought. If you preach Paul as the fountain, you have inverted the verse. If you preach a cloth-ministry as a tenth category, you have left this teaching’s nine.
 
-This is not F6. Healing the sick has its four texts. This is performing miracles, Acts 19:11. The sick appear in verse 12; the occasion remains the one this school names. Do not flatten F6 and F7 to make the file neater. Do not skip verse 12 to protect verse 11. Read both. File one occasion.
+This is not the healing lesson. Healing the sick has its four texts. This is performing miracles, Acts 19:11. The sick appear in verse 12; the occasion remains the one this school names. Do not flatten healing and miracles to make the teaching neater. Do not skip verse 12 to protect verse 11. Read both. File one occasion.
 
 Course 1–3 remain the house. Miracles do not invent the son. They do not replace metanoia. They do not replace baptism into Christ. Resultant. When? After the grounding things are actualized. A miracle-practice treated as the foundation is not this principle.
 
 From his body were brought unto the sick handkerchiefs or aprons. Diseases departed. Evil spirits went out. Verse 12 is read. Verse 12 is not filed as a tenth occasion. This teaching named performing miracles — Acts 19:11. God wrought special miracles by the hands of Paul. Subject: God. Instrument: the hands of Paul. Occasion: miracles. Not a cloth-religion. Not Paul as fountain.
 
-F6 already took healing’s four texts. F7 takes Acts 19:11. The sick in verse 12 do not merge the two occasions. Do not skip verse 12 to make verse 11 tidier. Do not preach verse 12 as if the file had ten names. God wrought. By the hands. That is the sentence you can teach without a tenth and without making the man the source.
+The healing lesson already took healing’s four texts. This lesson takes Acts 19:11. The sick in verse 12 do not merge the two occasions. Do not skip verse 12 to make verse 11 tidier. Do not preach verse 12 as if the teaching had ten names. God wrought. By the hands. That is the sentence you can teach without a tenth and without making the man the source.
 
-Who wrought? God. By whose hands? Paul’s. What tenth will you refuse from verse 12? A cloth-system. Handkerchiefs or aprons, diseases departed, evil spirits went out — read it; do not file it as occasion ten. Special miracles: the text’s word, not a tenth category. Paul is not the fountain. Course 1–3 remain the house. Miracles do not invent the son. They do not replace metanoia. They do not replace baptism into Christ. When? After the grounding things. A miracle-practice treated as the foundation is not this principle. The file says miracles, Acts 19:11. Keep the sentence. Refuse the tenth.
+Who wrought? God. By whose hands? Paul’s. What tenth will you refuse from verse 12? A cloth-system. Handkerchiefs or aprons, diseases departed, evil spirits went out — read it; do not treat it as occasion ten. Special miracles: the text’s word, not a tenth category. Paul is not the fountain. Course 1–3 remain the house. Miracles do not invent the son. They do not replace metanoia. They do not replace baptism into Christ. When? After the grounding things. A miracle-practice treated as the foundation is not this principle. The teaching says miracles, Acts 19:11. Keep the sentence. Refuse the tenth.
 
-Acts 19:11-12 is the cluster so verse 12 is read. The occasion this school names is performing miracles — by the hands. God wrought remains the subject if you teach both verses. A cloth-ministry filed as a tenth has left F7. A Paul-as-source sermon has inverted the verse. Write Acts 19:11. Who wrought? By whose hands? What tenth will you refuse?
+Acts 19:11-12 is the Scripture set so verse 12 is read. The occasion this school names is performing miracles — by the hands. God wrought remains the subject if you teach both verses. A cloth-ministry filed as a tenth has left this lesson's Scripture. A Paul-as-source sermon has inverted the verse. Write Acts 19:11. Who wrought? By whose hands? What tenth will you refuse?
 
 Labour
 The Walk — one tight page. Write Acts 19:11. Who wrought? By whose hands? What tenth will you refuse to add from verse 12? Word drill: God wrought / by the hands of Paul / special miracles.
 
-Intensive — three pages on the same cluster. Page 1: write Acts 19:11-12 in full; mark God, wrought, special miracles, hands, Paul, cloths, diseases, spirits. Page 2: Paul is not the source; the cloth is not a tenth. Page 3: F7 is not F6; write the flatten you will refuse and the foundation you will not make of miracles. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write Acts 19:11-12 in full; mark God, wrought, special miracles, hands, Paul, cloths, diseases, spirits. Page 2: Paul is not the source; the cloth is not a tenth. Page 3: the Scripture set is not this lesson; write the flatten you will refuse and the foundation you will not make of miracles. Same doctrine.
 
 Distinction
-God wrought by the hands vs the man as the source, or a cloth-system beside the file.
+God wrought by the hands vs the man as the source, or a cloth-system beside the teaching.
 
 Charge
 Write Acts 19:11. Who wrought? By whose hands? What tenth will you refuse to add from verse 12?`,
@@ -443,14 +419,11 @@ The gift given by prophecy with the laying on of the hands of the presbytery. St
 Key Scripture
 1 Timothy 4:14; 2 Timothy 1:6; Hebrews 6:2.
 
-Cluster
-F8.
-
 Read
 Textbook Chapter 5, section IX.
 
 Teaching
-Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery. Stir up the gift of God, which is in thee by the putting on of my hands. Hebrews 6:2 names laying on of hands among the first principles. This teaching cites that same verse again under this occasion. The principle and the gift-occasion are not two religions. One file.
+Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery. Stir up the gift of God, which is in thee by the putting on of my hands. Hebrews 6:2 names laying on of hands among the first principles. This teaching cites that same verse again under this occasion. The principle and the gift-occasion are not two religions. One teaching.
 
 1 Timothy 4:14. Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery.
 
@@ -458,30 +431,30 @@ Neglect not the gift that is in thee, which was given thee by prophecy, with the
 
 Hebrews 6:2. Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.
 
-The gift is not to be neglected. It is to be stirred. Hands of the presbytery. Hands of Paul. Prophecy with the laying on. What is not to be neglected? The gift that is in thee. What is to be stirred? The gift of God, which is in thee by the putting on of my hands. Why is Hebrews 6:2 in this cluster twice? Because this school names the principle among the six and cites the same verse again under imparting gifts. The principle is real. This occasion is one of the nine. Not two religions.
+The gift is not to be neglected. It is to be stirred. Hands of the presbytery. Hands of Paul. Prophecy with the laying on. What is not to be neglected? The gift that is in thee. What is to be stirred? The gift of God, which is in thee by the putting on of my hands. Why is Hebrews 6:2 in this Scripture set twice? Because this school names the principle among the six and cites the same verse again under imparting gifts. The principle is real. This occasion is one of the nine. Not two religions.
 
-Do not treat a gift as if it were the foundation. Do not treat the foundation as if it forbade gifts. A man who has made a gift the house has not heard Course 4’s “when?” A man who has used Hebrews 6:1-2 to forbid the gift the verses name has not heard F8. Neglect not. Stir up. The gift is in thee. Given by prophecy with the presbytery’s hands. In thee by Paul’s hands.
+Do not treat a gift as if it were the foundation. Do not treat the foundation as if it forbade gifts. A man who has made a gift the house has not heard Course 4’s “when?” A man who has used Hebrews 6:1-2 to forbid the gift the verses name has not heard this Scripture set. Neglect not. Stir up. The gift is in thee. Given by prophecy with the presbytery’s hands. In thee by Paul’s hands.
 
-Timothy is not a tenth system. Two letters. Two sentences. One occasion: imparting gifts. The presbytery in one verse; Paul in the other. Prophecy with the laying on. Remembrance to stir up. This school will not invent a third gift-text to make a nicer triangle. It will not drop Hebrews 6:2 from F8 because it already appeared in the intro.
+Timothy is not a tenth system. Two letters. Two sentences. One occasion: imparting gifts. The presbytery in one verse; Paul in the other. Prophecy with the laying on. Remembrance to stir up. This school will not invent a third gift-text to make a nicer triangle. It will not drop Hebrews 6:2 from this Scripture set because it already appeared in the intro.
 
 The gift that is in thee. Given thee by prophecy, with the laying on of the hands of the presbytery. The gift of God, which is in thee by the putting on of my hands. I put thee in remembrance that thou stir up. Neglect not. Two warnings, one occasion. Hebrews 6:2 names laying on of hands among the first principles and is cited again here so that the gift-occasion is not a second religion beside the principle.
 
-Do not treat a gift as the foundation. Do not treat the foundation as if it forbade gifts. When? After Courses 1–3. A neglected gift is still not the house. A stirred gift is still not baptism into Christ. Resultant practice. One file.
+Do not treat a gift as the foundation. Do not treat the foundation as if it forbade gifts. When? After Courses 1–3. A neglected gift is still not the house. A stirred gift is still not baptism into Christ. Resultant practice. One teaching.
 
 What is not to be neglected? The gift that is in thee. What is to be stirred? The gift of God, which is in thee by the putting on of my hands. Why is Hebrews 6:2 here twice? The principle is among the six, and the same verse is cited again under this occasion. Presbytery. Paul. Prophecy with the laying on. Remembrance. Not two religions. Not a tenth gift-text. Not a new foundation.
 
-1 Timothy 4:14 and 2 Timothy 1:6 are two sentences of one occasion: imparting gifts. The gift is in thee. Given by prophecy with the presbytery’s hands. In thee by Paul’s hands. Stir up. Neglect not. Hebrews 6:2 in F8 is not a second religion beside the intro. When? After the grounding things. A gift treated as the house has not heard “when?” A foundation that forbids this gift has not heard F8.
+1 Timothy 4:14 and 2 Timothy 1:6 are two sentences of one occasion: imparting gifts. The gift is in thee. Given by prophecy with the presbytery’s hands. In thee by Paul’s hands. Stir up. Neglect not. Hebrews 6:2 in the Scripture set is not a second religion beside the intro. When? After the grounding things. A gift treated as the house has not heard “when?” A foundation that forbids this gift has not heard this Scripture set.
 
 Labour
-The Walk — one tight page. Write 1 Timothy 4:14 and 2 Timothy 1:6. What is not to be neglected? What is to be stirred? Why is Hebrews 6:2 in this cluster twice? Word drill: neglect not / stir up / presbytery / putting on of my hands.
+The Walk — one tight page. Write 1 Timothy 4:14 and 2 Timothy 1:6. What is not to be neglected? What is to be stirred? Why is Hebrews 6:2 in this Scripture set twice? Word drill: neglect not / stir up / presbytery / putting on of my hands.
 
-Intensive — three pages on the same cluster. Page 1: write 1 Timothy 4:14, 2 Timothy 1:6, and Hebrews 6:2 in full. Page 2: gift with hands — prophecy, presbytery, Paul’s hands; not two religions. Page 3: not a new foundation; not a foundation that forbids the gift — write both refusals. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write 1 Timothy 4:14, 2 Timothy 1:6, and Hebrews 6:2 in full. Page 2: gift with hands — prophecy, presbytery, Paul’s hands; not two religions. Page 3: not a new foundation; not a foundation that forbids the gift — write both refusals. Same doctrine.
 
 Distinction
 Gift with hands vs gift as a new foundation, or a foundation that has no room for the gift the verses name.
 
 Charge
-Write 1 Timothy 4:14 and 2 Timothy 1:6. What is not to be neglected? What is to be stirred? Why is Hebrews 6:2 in this cluster twice?`,
+Write 1 Timothy 4:14 and 2 Timothy 1:6. What is not to be neglected? What is to be stirred? Why is Hebrews 6:2 in this Scripture set twice?`,
   ),
   lesson(
     "les-fs-4-10",
@@ -495,9 +468,6 @@ They laid hands; they received the Holy Ghost. Ananias on Saul. Paul at Ephesus.
 Key Scripture
 Acts 8:17-24; Acts 9:17; Acts 19:6.
 
-Cluster
-F9.
-
 Read
 Textbook Chapter 5, section X.
 
@@ -510,22 +480,22 @@ Acts 9:17. And Ananias went his way, and entered into the house; and putting his
 
 Acts 19:6. And when Paul had laid his hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied.
 
-Course 3 already taught that Christ baptizes in the Spirit, and that the Spirit may be given before water or after it. This occasion is imparting Spirit baptism by hands in these accounts. It does not cancel the agent Course 3 named. It does not make hands the foundation. It is the ninth in the file.
+Course 3 already taught that Christ baptizes in the Spirit, and that the Spirit may be given before water or after it. This occasion is imparting Spirit baptism by hands in these accounts. It does not cancel the agent Course 3 named. It does not make hands the foundation. It is the ninth in the teaching.
 
 What does Simon want to buy? The power that on whomsoever he lays hands, he may receive the Holy Ghost. What must you refuse if the gift of God cannot be purchased? A market. Money perish with thee. Neither part nor lot. Heart not right. Repent of this wickedness. Gall of bitterness. Bond of iniquity. Simon is in the ninth account so that you will not make the ninth a market. Teach the hands. Do not skip the rebuke.
 
 Ananias: Brother Saul — the Lord Jesus sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost. Hands on Saul. Sight and filling. Paul at Ephesus: laid his hands; the Holy Ghost came on them; they spake with tongues, and prophesied. Three accounts. One occasion. Not a tenth. Not a substitute for new birth. Not Christ cancelled as baptizer.
 
-Through laying on of the apostles’ hands the Holy Ghost was given — that is what Simon saw. He offered money for the power. Peter’s sentences are part of F9: money perish with thee; thought the gift of God may be purchased; neither part nor lot; heart not right; repent of this wickedness; gall of bitterness; bond of iniquity. Teach the hands. Do not skip the rebuke.
+Through laying on of the apostles’ hands the Holy Ghost was given — that is what Simon saw. He offered money for the power. Peter’s sentences are part of this Scripture set: money perish with thee; thought the gift of God may be purchased; neither part nor lot; heart not right; repent of this wickedness; gall of bitterness; bond of iniquity. Teach the hands. Do not skip the rebuke.
 
-Course 3: Christ baptizes in the Holy Spirit; Spirit before water or after it; prerequisite new birth. This ninth occasion is imparting Spirit baptism by hands in these accounts. It does not cancel that agent. It does not make hands the foundation. Samaria, Saul, Ephesus — one file, not three extra occasions.
+Course 3: Christ baptizes in the Holy Spirit; Spirit before water or after it; prerequisite new birth. This ninth occasion is imparting Spirit baptism by hands in these accounts. It does not cancel that agent. It does not make hands the foundation. Samaria, Saul, Ephesus — one teaching, not three extra occasions.
 
 What does Simon want to buy? The power that on whomsoever he lays hands, he may receive the Holy Ghost. Refuse the market. The gift of God cannot be purchased. Ananias was sent by the Lord Jesus. Paul laid hands at Ephesus; they spake with tongues and prophesied. Teach the hands. Do not skip the rebuke. Do not cancel Christ as Spirit-baptizer.
 
 Labour
 The Walk — one tight page. Write Acts 8:17-20, 9:17, and 19:6. What does Simon want to buy? What must you refuse if the gift of God cannot be purchased? Word drill: received the Holy Ghost / money perish / filled / tongues and prophesied.
 
-Intensive — three pages on the same cluster. Page 1: write Acts 8:17-24, 9:17, and 19:6 in full. Page 2: Simon refused — part, lot, heart, repent, gall, bond; the gift cannot be purchased. Page 3: Christ remains Spirit-baptizer; hands are the ninth occasion, not the foundation, not a tenth. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write Acts 8:17-24, 9:17, and 19:6 in full. Page 2: Simon refused — part, lot, heart, repent, gall, bond; the gift cannot be purchased. Page 3: Christ remains Spirit-baptizer; hands are the ninth occasion, not the foundation, not a tenth. Same doctrine.
 
 Distinction
 The ninth occasion vs buying the gift, or making hands the agent in place of Christ.
@@ -537,16 +507,13 @@ Write Acts 8:17-20, 9:17, and 19:6. What does Simon want to buy? What must you r
     "les-fs-4-11",
     "mod-fs-4-file",
     11,
-    "The nine as one file — no invented tenth",
+    "The nine as one teaching — no invented tenth",
     75,
     `Central principle
 Nine occasions. Each its own text. No tenth. Blessing children is not healing. Ordaining is not buying the gift.
 
 Key Scripture
 Hebrews 6:2 with the nine texts.
-
-Cluster
-F1–F9.
 
 Read
 Textbook Chapter 5, section XI.
@@ -590,15 +557,15 @@ Acts 19:6. And when Paul had laid his hands upon them, the Holy Ghost came on th
 
 1. Blessing men — Genesis 48:14. 2. Making offerings — Numbers 8:10. 3. Ordaining — Numbers 27:18, 23. 4. Imparting Spirit — Deuteronomy 34:9. 5. Blessing children — Matthew 19:13-15. 6. Healing the sick — Mark 6:2, 5; 16:18; Acts 5:12. 7. Performing miracles — Acts 19:11. 8. Imparting gifts — 1 Timothy 4:14; 2 Timothy 1:6; Hebrews 6:2. 9. Imparting Spirit baptism — Acts 8:17-24; 9:17; 19:6.
 
-If you added a tenth, strike it and name why it is not among the nine. Cloth is not a tenth. A crossed-hands technique is not a tenth. A healing brand is not a tenth. Buying the gift is refused in the ninth, not added as a tenth. One vague “hands” practice is not the file.
+If you added a tenth, strike it and name why it is not among the nine. Cloth is not a tenth. A crossed-hands technique is not a tenth. A healing brand is not a tenth. Buying the gift is refused in the ninth, not added as a tenth. One vague “hands” practice is not the teaching.
 
 Labour
 The Walk — one tight page. Write the nine with their texts from memory. No tenth. If you added one, strike it and name why it is not among the nine. Word drill: nine / each its own text / no tenth.
 
-Intensive — three pages on the same cluster. Page 1: write the nine names with the key verses in full as printed above. Page 2: one flatten you refuse for each pair you have been merging (children/healing; ordaining/Deuteronomy 34; miracles/cloth). Page 3: strike every tenth; write why this school does not name it. Same doctrine.
+Intensive — three pages on the same Scripture set. Page 1: write the nine names with the key verses in full as printed above. Page 2: one flatten you refuse for each pair you have been merging (children/healing; ordaining/Deuteronomy 34; miracles/cloth). Page 3: strike every tenth; write why this school does not name it. Same doctrine.
 
 Distinction
-Nine as one file vs one vague “hands” practice, or a tenth invented to make the file neater.
+Nine as one teaching vs one vague “hands” practice, or a tenth invented to make the teaching neater.
 
 Charge
 Write the nine with their texts from memory. No tenth. If you added one, strike it and name why it is not among the nine.`,
@@ -614,9 +581,6 @@ When? After the more grounding things are actualized. Hands remain among the fir
 
 Key Scripture
 Hebrews 6:1-2.
-
-Cluster
-All of Course 4. Textbook Chapter 5. Q26–Q28.
 
 Read
 Chapter 5, section XII.
@@ -636,7 +600,7 @@ You should now be able to teach, from Scripture:
 6. Blessing children — Matthew 19:13-15. The disciples rebuked; the Lord would not; not Course 1 for a child.
 7. Healing — Mark 6:2, 5; 16:18; Acts 5:12. Nazareth limited; a few still healed; they shall recover; apostles’ hands.
 8. Miracles — Acts 19:11. God wrought. By the hands of Paul. Cloth is not a tenth.
-9. Imparting gifts — 1 Timothy 4:14; 2 Timothy 1:6; Hebrews 6:2 twice in the file. Neglect not. Stir up.
+9. Imparting gifts — 1 Timothy 4:14; 2 Timothy 1:6; Hebrews 6:2 twice in the teaching. Neglect not. Stir up.
 10. Imparting Spirit baptism — Acts 8:17-24 (Simon refused); 9:17; 19:6. Does not cancel Christ as Spirit-baptizer.
 11. Nine. No tenth. No required companion this school does not name.
 
@@ -644,16 +608,16 @@ Which earlier principle must already be laid before you treat hands as if they w
 
 Name one practice you will not treat as a foundation. If the practice is one of these nine, keep it resultant. If it is a tenth you invented, put it down. The next principle is resurrection of the dead. Two kinds: spiritual and material.
 
-Q26: write the nine with their texts. No tenth. Q27: which earlier principle must already be laid before you treat hands as if they were the foundation? All three that stand before this one — repentance from dead works, faith toward God, the doctrine of baptisms. Q28: name one practice you will not treat as a foundation. Do not submit a feeling in the place of the file.
+Question 26: write the nine with their texts. No tenth. Question 27: which earlier principle must already be laid before you treat hands as if they were the foundation? All three that stand before this one — repentance from dead works, faith toward God, the doctrine of baptisms. Question 28: name one practice you will not treat as a foundation. Do not submit a feeling in the place of the teaching.
 
 Deuteronomy 34:9 remains beside Numbers 27:18, 23 — not flattened. Acts 19:11 remains God wrought; cloth is not a tenth. Acts 8:17-24 remains Simon refused. Hebrews 6:2 remains twice: the principle among the six, and again under imparting gifts. No required companion. Christ remains Spirit-baptizer. Hands remain among the first principles. They do not become the house.
 
-Write the nine with their texts. Blessing men. Offerings. Ordaining. Imparting Spirit. Blessing children. Healing. Miracles. Imparting gifts. Imparting Spirit baptism. Each its own text. No tenth. If the practice is one of these nine, keep it resultant. If it is a tenth you invented, put it down. Do not submit a feeling in the place of the file. The next principle is resurrection of the dead — two kinds, spiritual and material. This examination is not that chapter.
+Write the nine with their texts. Blessing men. Offerings. Ordaining. Imparting Spirit. Blessing children. Healing. Miracles. Imparting gifts. Imparting Spirit baptism. Each its own text. No tenth. If the practice is one of these nine, keep it resultant. If it is a tenth you invented, put it down. Do not submit a feeling in the place of the teaching. The next principle is resurrection of the dead — two kinds, spiritual and material. This examination is not that chapter.
 
-Which earlier principle must already be laid? All three that stand before this one in Hebrews 6:1-2. A man who has not turned from dead works, who has not faith toward God, who has not been baptized into Christ, is not ready to make hands the house. Name one practice you will not treat as a foundation. Completing activities is not mastery. The file is nine. No required companion.
+Which earlier principle must already be laid? All three that stand before this one in Hebrews 6:1-2. A man who has not turned from dead works, who has not faith toward God, who has not been baptized into Christ, is not ready to make hands the house. Name one practice you will not treat as a foundation. Completing activities is not mastery. The teaching is nine. No required companion.
 
 Labour
-The Walk — write the nine as nine tight paragraphs, then the three charges (Q26–Q28). Same doctrine. Word drill: resultant / nine / no tenth / when?
+The Walk — write the nine as nine tight paragraphs, then the three charges (Question 26–Question 28). Same doctrine. Word drill: resultant / nine / no tenth / when?
 
 Intensive — write the nine as nine full pages, then the three charges. Same cluster. Same doctrine. Do not invent a tenth page that is a tenth occasion. On the charge pages: the three stones already laid; one practice you will not treat as a foundation; Simon refused; God wrought; no companion this school does not name. Same doctrine.
 
@@ -661,6 +625,6 @@ Distinction
 Completion of activities vs mastery. Resultant practice vs a new foundation made of hands.
 
 Charge
-Write the nine with their texts. Which earlier principle must already be laid before you treat hands as if they were the foundation? Name one practice you will not treat as a foundation. Do not submit a tenth. Do not submit a feeling in the place of the file.`,
+Write the nine with their texts. Which earlier principle must already be laid before you treat hands as if they were the foundation? Name one practice you will not treat as a foundation. Do not submit a tenth. Do not submit a feeling in the place of the teaching.`,
   ),
 ];
