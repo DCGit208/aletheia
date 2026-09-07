@@ -243,4 +243,26 @@ for (const pattern of forbiddenFaithCopy) {
   assert.doesNotMatch(faithCopy, pattern, `Course 2 still contains opaque student copy: ${pattern}`);
 }
 
+const baptismsCopy = readFileSync(new URL("../src/lib/content/course-baptisms.ts", import.meta.url), "utf8");
+const forbiddenBaptismsCopy = [
+  /pillows?/i,
+  /premiere/i,
+  /naturalistic/i,
+  /ersatz/i,
+  /religiousism/i,
+  /stand behind (it|them) before a teacher/i,
+  /practice named/i,
+  /definitive line/i,
+  /page once printed/i,
+  /verse it prints/i,
+  /printed citation/i,
+  /examination spine/i,
+  /relaid/i,
+  /these passages does/i,
+  /these passages forces/i,
+];
+for (const pattern of forbiddenBaptismsCopy) {
+  assert.doesNotMatch(baptismsCopy, pattern, `Course 3 still contains opaque student copy: ${pattern}`);
+}
+
 console.log("access checks passed");
