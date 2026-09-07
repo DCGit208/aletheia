@@ -10,6 +10,98 @@ import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
 import { cn } from "@/lib/utils";
 
+const lessonSectionTitles = {
+  "Central principle": "Main idea",
+  "Key Scripture": "Key Scriptures",
+  Read: "Reading assignment",
+  Teaching: "Teaching",
+  Labour: "Practice",
+  Distinction: "What this lesson distinguishes",
+  Charge: "Response",
+} as const;
+
+type LessonSectionTitle = keyof typeof lessonSectionTitles;
+
+interface LessonSection {
+  title: LessonSectionTitle;
+  content: string;
+}
+
+function isLessonSectionTitle(line: string): line is LessonSectionTitle | "Cluster" {
+  return (
+    line === "Central principle" ||
+    line === "Key Scripture" ||
+    line === "Cluster" ||
+    line === "Read" ||
+    line === "Teaching" ||
+    line === "Labour" ||
+    line === "Distinction" ||
+    line === "Charge"
+  );
+}
+
+function cleanLessonCopy(content: string) {
+  return content
+    .replace(/\bToday [A-Z][0-9]+:/g, "In this lesson:")
+    .replace(/\bToday [A-Z][0-9]+\./g, "In this lesson.")
+    .replace(/\bleft [A-Z][0-9]+\b/g, "left this lesson's Scripture cluster")
+    .replace(/\bThat sentence is [A-Z][0-9]\. Hold it\./g, "That sentence belongs to another lesson. Hold it.")
+    .replace(/\bsame cluster\b/g, "same Scripture set")
+    .replace(/\bthis file\b/g, "this lesson")
+    .trim();
+}
+
+function getStudentLessonSections(body: string): LessonSection[] | null {
+  const lines = body.split("\n");
+  const sections: LessonSection[] = [];
+  let currentTitle: LessonSectionTitle | "Cluster" | null = null;
+  let currentLines: string[] = [];
+
+  const pushSection = () => {
+    if (!currentTitle) return;
+    const content = cleanLessonCopy(currentLines.join("\n"));
+    if (currentTitle !== "Cluster" && content) sections.push({ title: currentTitle, content });
+  };
+
+  for (const line of lines) {
+    const trimmed = line.trim();
+    if (isLessonSectionTitle(trimmed)) {
+      pushSection();
+      currentTitle = trimmed;
+      currentLines = [];
+    } else if (currentTitle) {
+      currentLines.push(line);
+    }
+  }
+
+  pushSection();
+  return sections.length ? sections : null;
+}
+
+function LessonBody({ body }: { body: string }) {
+  const sections = getStudentLessonSections(body);
+  if (!sections) return <p className="reader-prose mt-8 whitespace-pre-line">{body}</p>;
+
+  return (
+    <div className="mt-8 space-y-6">
+      {sections.map((section) => (
+        <section
+          key={section.title}
+          className={cn(
+            "rounded-2xl border border-foreground/10 bg-card/55 p-5 shadow-sm",
+            section.title === "Central principle" ? "border-primary/25 bg-primary/5" : null,
+          )}
+        >
+          <h2 className="text-xs font-semibold tracking-[0.18em] text-muted-foreground uppercase">
+            {lessonSectionTitles[section.title]}
+          </h2>
+          <p className="reader-prose mt-3 whitespace-pre-line">{section.content}</p>
+        </section>
+      ))}
+    </div>
+  );
+}
+
 export default function LessonPage() {
   const { courseId, lessonId } = useParams<{ courseId: string; lessonId: string }>();
   const { t } = useI18n();
@@ -54,7 +146,7 @@ export default function LessonPage() {
         </span>
       </p>
       <h1 className="mt-3 font-heading text-3xl tracking-wide">{lesson.title}</h1>
-      <p className="reader-prose mt-8 whitespace-pre-line">{lesson.body}</p>
+      <LessonBody body={lesson.body} />
       {lesson.resourceIds.length ? (
         <div className="mt-8 space-y-2">
           <p className="text-xs tracking-[0.16em] text-muted-foreground uppercase">Reading</p>
