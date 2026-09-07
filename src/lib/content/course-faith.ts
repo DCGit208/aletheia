@@ -56,7 +56,7 @@ export const faithLessons: Lesson[] = [
     "Pistis — credence that defines sons",
     75,
     `Central principle
-Faith essentially defines our state as children of God. Greek pistis: credence. It is not a feeling you work up.
+Faith defines our state as children of God. Greek pistis means credence. It is not a feeling you work up.
 
 Key Scripture
 Hebrews 6:1 — and of faith toward God.
@@ -69,7 +69,7 @@ This is Course 2 of Foundation School. One curriculum. The second of the six pri
 
 Hebrews 6:1 — “Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God.” Toward God. The object is a Person. Not a system, not a method, not a school, not a mood you have learned to call faith.
 
-Faith essentially defines our state as children of God. Greek pistis: credence. In effect it defines our acceptance — true nature — and espousal: adoption as sons of God. Pistis is not a feeling you work up. It is credence that agrees with what God has done and who you are by that doing. Servant is not the name. Son is the name. Heir follows son.
+Faith defines our state as children of God. Greek pistis means credence: it credits what God says about our true nature and adoption as sons. Pistis is not a feeling you work up. It is credence that agrees with what God has done and who you are by that doing. Servant is not the name. Son is the name. Heir follows son.
 
 Galatians 4:5-7 — “To redeem them that were under the law, that we might receive the adoption of sons. And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father. Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.”
 
@@ -79,11 +79,11 @@ Ephesians 1:5 — “Having predestinated us unto the adoption of children by Je
 
 Course 1 turned you from dead works. You do not turn into a vacuum. You turn toward God. That is why the two principles stand in the same verse. A definition of faith that has no object can be worked up in a room. Pistis credits a Person and a state: son, not servant; adoption, not a nickname you earn. You will write “heir” as its own lesson. Hold the order here: toward God, credence, son.
 
-Do not preach Hebrews 11 as a pep talk in the place of this verse. This course will not walk the whole of that chapter. The principle is faith toward God as Hebrews 6:1 names it, opened by the adoption Scripture set set with pistis.
+Do not preach Hebrews 11 as a pep talk in the place of this verse. This course will not walk the whole of that chapter. The principle is faith toward God as Hebrews 6:1 names it, opened by the adoption Scripture set with pistis.
 
 Toward God is the phrase that will not let faith be a method. A man can work up a feeling and call it faith while the object is a system, a school, a technique, or a room. Pistis is credence. Credence has an object. The object here is God. Course 1 turned you from dead works. You do not turn into a vacuum. You turn toward God. That is why repentance from dead works and faith toward God stand in one verse.
 
-Acceptance, with pistis, is true nature. Espousal is adoption as sons of God. Galatians 4:6 — because ye are sons, God hath sent forth the Spirit of His Son into your hearts, crying, Abba, Father. Romans 8:15 — not the spirit of bondage again to fear, but the Spirit of adoption. Ephesians 1:5 — predestinated unto the adoption of children by Jesus Christ to Himself, according to the good pleasure of His will. Servant is not the name. Son is the name. Heir follows son, and you will write heir later. Hold the order: credence, toward God, son.
+With pistis, acceptance means true nature, and espousal means adoption as sons of God. Galatians 4:6 — because ye are sons, God hath sent forth the Spirit of His Son into your hearts, crying, Abba, Father. Romans 8:15 — not the spirit of bondage again to fear, but the Spirit of adoption. Ephesians 1:5 — predestinated unto the adoption of children by Jesus Christ to Himself, according to the good pleasure of His will. Servant is not the name. Son is the name. Heir follows son, and you will write heir later. Hold the order: credence, toward God, son.
 
 This course will not walk Hebrews 11 as a pep talk. The principle is not “heroes of faith” as a mood. The principle is faith toward God as Hebrews 6:1 names it, opened by this adoption Scripture set. Write what “toward God” does that a definition without an object cannot do. Write what pistis credits that a mood cannot credit.
 
@@ -92,7 +92,7 @@ The Walk: write one tight page. Intensive: write three pages on the same Scriptu
 
 The Walk — one page. Write, in your own words, what “toward God” does to the word faith that a definition without an object cannot do. Then write what pistis credits that a mood cannot credit. Quote Hebrews 6:1 and Galatians 4:7.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write Galatians 4:5-7, Romans 8:15, and Ephesians 1:5 in full. Sit adoption, Abba, no more a servant, son, heir in one stretch. Do not open the heir lesson’s full charge here. Page 3: teach pistis as credence that defines sons, as you would stand behind it before a teacher. Refuse faith as a feeling you manufacture.
+Intensive — three pages. Page 1 is that tight page. Page 2: write Galatians 4:5-7, Romans 8:15, and Ephesians 1:5 in full. Sit adoption, Abba, no more a servant, son, heir in one stretch. Do not open the heir lesson’s full charge here. Page 3: teach pistis as credence that defines sons, as if you had to teach it clearly to another student. Refuse faith as a feeling you manufacture.
 
 Write in your own hand. Quote Hebrews 6:1 and Galatians 4:7. The page is not a journal of feelings.
 
@@ -100,7 +100,7 @@ Distinction
 Faith as state and sonship vs faith as a feeling you manufacture.
 
 Charge
-Write what you will teach: pistis is credence; it defines our state as children of God; the object is God; servant is not the name. Then write the page the Practice named.`,
+Write what you will teach: pistis is credence; it defines our state as children of God; the object is God; servant is not the name. Then complete the practice assignment.`,
   ),
   lesson(
     "les-fs-2-02",
@@ -139,7 +139,7 @@ The Walk: write one tight page. Intensive: write three pages on the same Scriptu
 
 The Walk — one page. Write Galatians 4:7. Then write what you must stop calling yourself if son is the name and servant is not.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write Galatians 4:4-7 and Romans 8:15-17 in full. Sit fulness of time, sent forth, redeem, adoption, Abba, no more a servant, children, heirs, joint-heirs. Keep “heir” named but not exhausted. Page 3: write Ephesians 1:5. Teach adoption as the Father’s doing, as you would stand behind it before a teacher.
+Intensive — three pages. Page 1 is that tight page. Page 2: write Galatians 4:4-7 and Romans 8:15-17 in full. Sit fulness of time, sent forth, redeem, adoption, Abba, no more a servant, children, heirs, joint-heirs. Keep “heir” named but not exhausted. Page 3: write Ephesians 1:5. Teach adoption as the Father’s doing, as if you had to teach it clearly to another student.
 
 Write in your own hand. Quote Galatians 4:7. The name you must stop using must be on the page.
 
@@ -147,7 +147,7 @@ Distinction
 Adoption as the Father’s doing vs a religious nickname you earn.
 
 Charge
-Write what you will teach: because ye are sons, Abba; no more a servant, but a son; if a son, then an heir; adoption is by Jesus Christ according to His will. Then write the page the Practice named.`,
+Write what you will teach: because ye are sons, Abba; no more a servant, but a son; if a son, then an heir; adoption is by Jesus Christ according to His will. Then complete the practice assignment.`,
   ),
   lesson(
     "les-fs-2-03",
@@ -165,7 +165,7 @@ Read
 Textbook Chapter 3, section II, the ’ĕlōhîm sentences.
 
 Teaching
-This acceptance or approval is on the basis of our true nature from creation with respect to God.
+This acceptance is grounded in the true nature God gave man at creation.
 
 Genesis 1:26 — “And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.”
 
@@ -179,18 +179,18 @@ You will not write a safer verse in the place of this one. You will not treat �
 
 Genesis 1:26 as written will not bear a hedge. And God said. Let us make man. In our image. After our likeness. And let them have dominion — fish, fowl, cattle, all the earth, every creeping thing. Who speaks? ’Ĕlōhîm. This lesson reads the plural as Trinity. “Let us make” is God speaking as God. It is not a committee of angels inventing a lesser thing. What is made? Man. In whose image? Ours. After whose likeness? Ours. What is given in the same breath? Dominion.
 
-Man is who he is by how he was designed and by Who designed him. This acceptance — the acceptance pistis credits — is on the basis of that true nature from creation with respect to God. You will not write a safer verse in the place of this one. You will not empty “image” until it means only that man may worship from far. You will not empty “likeness” until it means only a moral hint. You will not move dominion to a later slogan as if 1:26 had not already said “let them have dominion.”
+Man is who he is by how he was designed and by Who designed him. This acceptance — the acceptance pistis credits — is grounded in that true nature from creation. You will not write a safer verse in the place of this one. You will not empty “image” until it means only that man may worship from far. You will not empty “likeness” until it means only a moral hint. You will not move dominion to a later slogan as if 1:26 had not already said “let them have dominion.”
 
 Genesis 1:27-28 remain and will be opened next. Do not skip 1:26 to make the making safe. Write the verse. Name Who speaks, what is made, and in whose image. Foundation School will not put a softer sentence in the place of Genesis 1:26.
 
-Acceptance or approval, as Chapter 3 opens it, is on the basis of this true nature from creation with respect to God. Pistis credits what ’ĕlōhîm said, not what a safer room would rather He had said. If you flatten “Let us make” into a figure, you have already begun to flatten image, likeness, and dominion. The next lesson will keep 1:26-28 as written and mark the TLB as a gloss. This lesson will not move. Who speaks. What is made. In whose image. Dominion in the same breath.
+Acceptance, as Chapter 3 opens it, is grounded in this true nature from creation. Pistis credits what ’ĕlōhîm said, not what a safer teaching would rather He had said. If you flatten “Let us make” into a figure, you have already begun to flatten image, likeness, and dominion. The next lesson will keep 1:26-28 as written and mark the TLB as a gloss. This lesson holds the text steady: Who speaks, what is made, in whose image, and dominion in the same breath.
 
 Labour
 The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
 The Walk — one page. Write Genesis 1:26. Name Who speaks, what is made, and in whose image. Do not write a safer verse in its place.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write Genesis 1:26-28 in full. Keep the making as written. Do not hedge image, likeness, or dominion. Page 3: teach ’ĕlōhîm — plural, Trinity, God speaking as God — as you would stand behind it before a teacher. Refuse a committee of angels.
+Intensive — three pages. Page 1 is that tight page. Page 2: write Genesis 1:26-28 in full. Keep the making as written. Do not hedge image, likeness, or dominion. Page 3: teach ’ĕlōhîm — plural, Trinity, God speaking as God — as if you had to teach it clearly to another student. Refuse a committee of angels.
 
 Write in your own hand. Quote Genesis 1:26 as written. The page is not a journal of feelings.
 
@@ -198,7 +198,7 @@ Distinction
 ’Ĕlōhîm as God speaking as God vs a lesser maker of a lesser creature.
 
 Charge
-Write what you will teach: ’ĕlōhîm said, Let us make man in our image, after our likeness; dominion is in the same verse; man is who he is by how he was designed and by Who designed him. Then write the page the Practice named.`,
+Write what you will teach: ’ĕlōhîm said, Let us make man in our image, after our likeness; dominion is in the same verse; man is who he is by how he was designed and by Who designed him. Then complete the practice assignment.`,
   ),
   lesson(
     "les-fs-2-04",
@@ -241,7 +241,7 @@ The Walk: write one tight page. Intensive: write three pages on the same Scriptu
 
 The Walk — one page. What does Genesis 1:26 actually say, and what does it not say? Write the verse. Write the TLB as a gloss, marked TLB. Then write one sentence from John 14:12 or 1 John 4:17 that you will hold with the making, not against it.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write Genesis 1:26-28 in full. Sit image, likeness, male and female, fruitful, multiply, replenish, subdue, dominion. Page 3: write John 14:12, 1 John 4:17, and Romans 8:17. Teach these passages as written, as you would stand behind it before a teacher. Do not empty Genesis. Do not detach the later verses.
+Intensive — three pages. Page 1 is that tight page. Page 2: write Genesis 1:26-28 in full. Sit image, likeness, male and female, fruitful, multiply, replenish, subdue, dominion. Page 3: write John 14:12, 1 John 4:17, and Romans 8:17. Teach these passages as written, as if you had to teach it clearly to another student. Do not empty Genesis. Do not detach the later verses.
 
 Write in your own hand. Quote Genesis 1:26-28. Mark the TLB as TLB. The page is not a journal of feelings.
 
@@ -249,7 +249,7 @@ Distinction
 Image and likeness as the text states them vs a reduced man who is only a worshipper of a distant God.
 
 Charge
-Write what you will teach: God created man in His own image; male and female; image, likeness, dominion; TLB is a marked gloss, not the KJV; John 14:12 and 1 John 4:17 are held with the making. Then write the page the Practice named.`,
+Write what you will teach: God created man in His own image; male and female; image, likeness, dominion; TLB is a marked gloss, not the KJV; John 14:12 and 1 John 4:17 are held with the making. Then complete the practice assignment.`,
   ),
   lesson(
     "les-fs-2-05",
@@ -288,7 +288,7 @@ The Walk: write one tight page. Intensive: write three pages on the same Scriptu
 
 The Walk — one page. Write 2 Peter 1:4. Then write what “back on course” forces you to stop calling a new invention.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write 2 Peter 1:3-7 in full. Sit given, promises, partakers, escaped, and the adding that begins with faith. Page 3: teach partaker of the divine nature versus inventing another nature God did not make, as you would stand behind it before a teacher. Hold Genesis as the nature named.
+Intensive — three pages. Page 1 is that tight page. Page 2: write 2 Peter 1:3-7 in full. Sit given, promises, partakers, escaped, and the adding that begins with faith. Page 3: teach partaker of the divine nature versus inventing another nature God did not make, as if you had to teach it clearly to another student. Hold Genesis as the nature named.
 
 Write in your own hand. Quote 2 Peter 1:4. The page is not a journal of feelings.
 
@@ -296,7 +296,7 @@ Distinction
 Partaker of the divine nature vs inventing another nature God did not make.
 
 Charge
-Write what you will teach: partakers of the divine nature by the promises; escaped the corruption; returned to the nature Genesis named, in Christ; not a new invention. Then write the page the Practice named.`,
+Write what you will teach: partakers of the divine nature by the promises; escaped the corruption; returned to the nature Genesis named, in Christ; not a new invention. Then complete the practice assignment.`,
   ),
   lesson(
     "les-fs-2-06",
@@ -324,20 +324,20 @@ Psalm 82:7 remains in the psalm. Teach 82:6 with 82:7 and with John 10. Do not d
 
 Course 1 already used John 10:35 as the graphē lesson: the scripture cannot be broken. This lesson will not repeat that lesson as if Psalm 82 had not been cited. The Lord appeals to the writing: I said, Ye are gods. If he called them gods, unto whom the word of God came, and the scripture cannot be broken. The psalm also says they shall die like men, and fall like one of the princes. Both verses stay. A slogan that keeps 82:6 and drops 82:7 has not kept these passages. A verse so emptied that the Lord could not have appealed to it has not been taught as Scripture.
 
-The psalm addresses those unto whom the word of God came. The Lord uses that writing against the charge that He blasphemed by saying, I am the Son of God. You will write what these passages forces. You will not write a detached boast. You will not write a safer psalm.
+The psalm addresses those unto whom the word of God came. The Lord uses that writing against the charge that He blasphemed by saying, I am the Son of God. You will write what these passages force. You will not write a detached boast. You will not write a safer psalm.
 
 Psalm 82 is a psalm of judgment among the mighty. Verse 6 is not a detached boast. “I have said, Ye are gods; and all of you are children of the most High.” Verse 7 remains: “But ye shall die like men, and fall like one of the princes.” The Lord takes up verse 6 in John 10 against a charge of blasphemy. They said He, being a man, made Himself God. He said: Is it not written in your law, I said, Ye are gods? If he called them gods, unto whom the word of God came, and the scripture cannot be broken — say ye of Him whom the Father sanctified and sent, Thou blasphemest, because I said, I am the Son of God?
 
 Course 1 already taught John 10:35 as graphē: the scripture cannot be broken. This lesson will not drop 82:7 to keep 82:6 as a slogan. This lesson will not empty 82:6 until the Lord could not have appealed to it. Both verses stay. The Lord’s use stays. Write Psalm 82:6-7 and John 10:34-35 as one Scripture set. Then write what you must not say if you keep both verses and the Lord’s use of them. Do not write a detached boast. Do not write a safer psalm.
 
-The Lord pillows in the writing. Course 1 taught that as graphē. Here the writing He will not let them break is this psalm, including the verse that says they shall die like men. A school that empties 82:6 to make it safe has already decided the Lord should not have appealed to it. A school that detaches 82:6 from 82:7 has already made a slogan. Keep both. Keep His use. Write what you must not say.
+The Lord rests His answer on the writing. Course 1 taught that as graphē. Here the writing He will not let them break is this psalm, including the verse that says they shall die like men. A school that empties 82:6 to make it safe has already decided the Lord should not have appealed to it. A school that detaches 82:6 from 82:7 has already made a slogan. Keep both. Keep His use. Write what you must not say.
 
 Labour
 The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
 The Walk — one page. Write Psalm 82:6-7 and John 10:34-35 as one Scripture set. Then write what you must not say if you keep both verses and the Lord’s use of them.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write Psalm 82:6-7 and John 10:34-36 in full. Sit the charge of blasphemy, the appeal, “unto whom the word of God came,” and “die like men.” Page 3: teach the verse as the Lord used it, as you would stand behind it before a teacher. Refuse a slogan detached from the Word. Refuse a verse so emptied that the Lord could not have appealed to it.
+Intensive — three pages. Page 1 is that tight page. Page 2: write Psalm 82:6-7 and John 10:34-36 in full. Sit the charge of blasphemy, the appeal, “unto whom the word of God came,” and “die like men.” Page 3: teach the verse as the Lord used it, as if you had to teach it clearly to another student. Refuse a slogan detached from the Word. Refuse a verse so emptied that the Lord could not have appealed to it.
 
 Write in your own hand. Quote Psalm 82:6-7 and John 10:34-35. The page is not a journal of feelings.
 
@@ -345,7 +345,7 @@ Distinction
 The verse as the Lord used it vs a slogan detached from the Word, or a verse so emptied that the Lord could not have appealed to it.
 
 Charge
-Write what you will teach: Psalm 82:6 with 82:7 and John 10; ye are gods, children of the most High; ye shall die like men; the scripture cannot be broken. Then write the page the Practice named.`,
+Write what you will teach: Psalm 82:6 with 82:7 and John 10; ye are gods, children of the most High; ye shall die like men; the scripture cannot be broken. Then complete the practice assignment.`,
   ),
   lesson(
     "les-fs-2-07",
@@ -369,7 +369,7 @@ The glory come short is deviation from true nature. This lesson will not let you
 
 He did not come to invent a different creature. He came that the man made in the image might be justified freely and set back on course. Genesis named the nature. 2 Peter 1:4 named the partaking. Romans 3:23 names the shortcoming. You will open 1 Corinthians 11:7 in the next lesson as the glory named here. Hold the question until you can answer it from these passages. Do not answer with a religious atmosphere you have learned to call glory.
 
-God hath set forth Christ to be a propitiation through faith in His blood, to declare His righteousness; that He might be just, and the justifier of him which believeth in Jesus. The coming is not a mood. It is blood, propitiation, righteousness declared, the Just justifying the one who believes in Jesus. Why did Jesus come? Because the glory was come short. That is answer. Write it from the verse.
+God hath set forth Christ to be a propitiation through faith in His blood, to declare His righteousness; that He might be just, and the justifier of him which believeth in Jesus. The coming is not a mood. It is blood, propitiation, righteousness declared, the Just justifying the one who believes in Jesus. Why did Jesus come? Because the glory was come short. That is the answer. Write it from the verse.
 
 Romans 3:21-22 has already set the righteousness of God without the law, witnessed by the law and the prophets; the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe; for there is no difference. Then: all have sinned, and come short of the glory of God. The glory come short is deviation from true nature — the nature Genesis named, the nature 2 Peter 1:4 makes you a partaker of. 1 Corinthians 11:7 will name that glory in the next lesson: man is the image and glory of God. Hold the question until you can put “glory” back on the verse.
 
@@ -382,7 +382,7 @@ The Walk: write one tight page. Intensive: write three pages on the same Scriptu
 
 The Walk — one page. Why did Jesus come? Answer in terms of glory and true nature, not a slogan. Write Romans 3:23-24 and reason it.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write Romans 3:23-26 in full. Sit all have sinned, come short, justified freely, grace, redemption, propitiation, faith in His blood, just and justifier. Page 3: teach why He came, as you would stand behind it before a teacher. Glory as true nature, not as a religious atmosphere. Hold 1 Corinthians 11:7 for the next lesson; name that it is coming.
+Intensive — three pages. Page 1 is that tight page. Page 2: write Romans 3:23-26 in full. Sit all have sinned, come short, justified freely, grace, redemption, propitiation, faith in His blood, just and justifier. Page 3: teach why He came, as if you had to teach it clearly to another student. Glory as true nature, not as a religious atmosphere. Hold 1 Corinthians 11:7 for the next lesson; name that it is coming.
 
 Write in your own hand. Quote Romans 3:23-24. Answer why He came from these passages.
 
@@ -390,7 +390,7 @@ Distinction
 Glory as true nature vs glory as a religious atmosphere.
 
 Charge
-Write what you will teach: Jesus came because the glory was come short; He did not come to invent a different creature; justified freely by grace through the redemption that is in Christ Jesus. Then write the page the Practice named.`,
+Write what you will teach: Jesus came because the glory was come short; He did not come to invent a different creature; justified freely by grace through the redemption that is in Christ Jesus. Then complete the practice assignment.`,
   ),
   lesson(
     "les-fs-2-08",
@@ -431,7 +431,7 @@ The Walk: write one tight page. Intensive: write three pages on the same Scriptu
 
 The Walk — one page. Write 1 Corinthians 11:7 with Romans 3:23 as one paragraph. What glory was come short? Do not answer with a word you cannot put back on the verse.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write 1 Corinthians 11:7 and Romans 3:23-24 in full. Sit the clause in its chapter without skipping it, and sit the clause as the glory Romans names. Page 3: teach the identity clause, as you would stand behind it before a teacher. Refuse avoiding the verse because the chapter is argued.
+Intensive — three pages. Page 1 is that tight page. Page 2: write 1 Corinthians 11:7 and Romans 3:23-24 in full. Sit the clause in its chapter without skipping it, and sit the clause as the glory Romans names. Page 3: teach the identity clause, as if you had to teach it clearly to another student. Refuse avoiding the verse because the chapter is argued.
 
 Write in your own hand. Quote 1 Corinthians 11:7 with Romans 3:23. The page is not a journal of feelings.
 
@@ -439,7 +439,7 @@ Distinction
 The identity clause vs avoiding the verse because the chapter is argued.
 
 Charge
-Write what you will teach: man is the image and glory of God; that is the glory Romans 3:23 says was come short; the clause is taught, not skipped. Then write the page the Practice named.`,
+Write what you will teach: man is the image and glory of God; that is the glory Romans 3:23 says was come short; the clause is taught, not skipped. Then complete the practice assignment.`,
   ),
   lesson(
     "les-fs-2-09",
@@ -467,11 +467,11 @@ Freely. By grace. Through redemption. Do not preach a justification you must fin
 
 Has man been justified? Yes. And freely. That answer will not let you add a remainder you must complete. That answer will not let you treat “freely” as a slogan and then charge a price. The justifier is just. He does not declare righteous by a fiction that has no Christ under it. He justifies the one who believes in Jesus.
 
-Dikaioō: render just or innocent, free from evil or guilt. It is a derivative of dikaiosynē — righteousness, justification — which the next lesson will open as equity. Here the question is own: Has man been justified? Yes. And freely. Being justified freely by his grace through the redemption that is in Christ Jesus. Freely is not a slogan you chant while you add a remainder. Freely is the manner of the rendering.
+Dikaioō: render just or innocent, free from evil or guilt. It is a derivative of dikaiosynē — righteousness, justification — which the next lesson will open as equity. Here the question is clear: Has man been justified? Yes. And freely. Being justified freely by his grace through the redemption that is in Christ Jesus. Freely is not a slogan you chant while you add a remainder. Freely is the manner of the rendering.
 
 God hath set forth Christ to be a propitiation through faith in His blood, to declare His righteousness for the remission of sins that are past, through the forbearance of God; to declare at this time His righteousness: that He might be just, and the justifier of him which believeth in Jesus. The justifier is just. He does not declare righteous by a fiction that has no Christ under it. He justifies the one who believes in Jesus. Labour belongs to study (Chapter 1). Innocence before God is free in Christ. Apolutrōsis will be named ransom in full in its own lesson. Hold “through the redemption” here. Write the answer: yes, and freely. Write what you must stop adding to “freely.”
 
-Has man been justified? Yes. And freely. That is answer, not a mood you work up. Dikaioō is render just or innocent, free from evil or guilt. You do not complete that rendering by religious work. You study as labour. You do not pay the rest of a price Christ finished. The justifier is just, and He is the justifier of him which believeth in Jesus. Stop adding to “freely.”
+Has man been justified? Yes. And freely. That is the answer, not a mood you work up. Dikaioō is render just or innocent, free from evil or guilt. You do not complete that rendering by religious work. You study as labour. You do not pay the rest of a price Christ finished. The justifier is just, and He is the justifier of him which believeth in Jesus. Stop adding to “freely.”
 
 Write Romans 3:24-26. Name dikaioō as render just or innocent. Name freely, grace, redemption, propitiation, blood, just and justifier. If you add a remainder, you have not heard the answer.
 
@@ -480,7 +480,7 @@ The Walk: write one tight page. Intensive: write three pages on the same Scriptu
 
 The Walk — one page. Has man been justified? Write the answer: yes, and freely. Then write what you must stop adding to “freely.”
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write Romans 3:23-26 in full. Define dikaioō: render just or innocent, free from evil or guilt. Page 3: teach freely, by grace, through redemption, as you would stand behind it before a teacher. Labour belongs to study. Innocence before God is free in Christ.
+Intensive — three pages. Page 1 is that tight page. Page 2: write Romans 3:23-26 in full. Define dikaioō: render just or innocent, free from evil or guilt. Page 3: teach freely, by grace, through redemption, as if you had to teach it clearly to another student. Labour belongs to study. Innocence before God is free in Christ.
 
 Write in your own hand. Quote Romans 3:24-26. The source’s answer must be on the page.
 
@@ -488,7 +488,7 @@ Distinction
 Justification as God’s free rendering vs a righteousness you complete by religious work.
 
 Charge
-Write what you will teach: has man been justified? Yes, and freely; dikaioō is render just or innocent; freely, by grace, through the redemption that is in Christ Jesus. Then write the page the Practice named.`,
+Write what you will teach: has man been justified? Yes, and freely; dikaioō is render just or innocent; freely, by grace, through the redemption that is in Christ Jesus. Then complete the practice assignment.`,
   ),
   lesson(
     "les-fs-2-10",
@@ -527,7 +527,7 @@ The Walk: write one tight page. Intensive: write three pages on the same Scriptu
 
 The Walk — one page. Write what “back on course” means from dikaiosynē and 2 Peter 1:4 together. What course? Whose nature?
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write Romans 3:21-26 in full. Sit righteousness of God without the law, by faith of Jesus Christ, unto all and upon all that believe, declared, just and justifier. Page 3: write 2 Peter 1:4 again with the equity sentences. Teach dikaiosynē as conformity with God’s nature, as you would stand behind it before a teacher.
+Intensive — three pages. Page 1 is that tight page. Page 2: write Romans 3:21-26 in full. Sit righteousness of God without the law, by faith of Jesus Christ, unto all and upon all that believe, declared, just and justifier. Page 3: write 2 Peter 1:4 again with the equity sentences. Teach dikaiosynē as conformity with God’s nature, as if you had to teach it clearly to another student.
 
 Write in your own hand. What course, whose nature — on the page, from the verses.
 
@@ -535,7 +535,7 @@ Distinction
 Equity as conformity with God’s nature vs righteousness as a score you display.
 
 Charge
-Write what you will teach: dikaiosynē is equity — impartiality to and conformity with the nature of God; original: back on course; not a costume; not a new species. Then write the page the Practice named.`,
+Write what you will teach: dikaiosynē is equity — impartiality to and conformity with the nature of God; original: back on course; not a costume; not a new species. Then complete the practice assignment.`,
   ),
   lesson(
     "les-fs-2-11",
@@ -576,7 +576,7 @@ The Walk: write one tight page. Intensive: write three pages on the same Scriptu
 
 The Walk — one page. Show apolutrōsis in Romans 3:24. Write the verse. Then write one sentence you will not say again if the ransom is in full.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write Romans 3:24-26 in full. Sit freely, grace, redemption, propitiation, blood, just and justifier. Page 3: hold Hebrews 9:14 with this ransom. Teach ransom in full versus a redemption that still leaves you to complete the price, as you would stand behind it before a teacher.
+Intensive — three pages. Page 1 is that tight page. Page 2: write Romans 3:24-26 in full. Sit freely, grace, redemption, propitiation, blood, just and justifier. Page 3: hold Hebrews 9:14 with this ransom. Teach ransom in full versus a redemption that still leaves you to complete the price, as if you had to teach it clearly to another student.
 
 Write in your own hand. Quote Romans 3:24. The sentence you will not say must be on the page.
 
@@ -584,7 +584,7 @@ Distinction
 Ransom in full vs a redemption that still leaves you to complete the price.
 
 Charge
-Write what you will teach: apolutrōsis is redemption, ransom in full; justified freely through that redemption; no unpaid remainder; labour belongs to study, not to finishing the price. Then write the page the Practice named.`,
+Write what you will teach: apolutrōsis is redemption, ransom in full; justified freely through that redemption; no unpaid remainder; labour belongs to study, not to finishing the price. Then complete the practice assignment.`,
   ),
   lesson(
     "les-fs-2-12",
@@ -614,16 +614,16 @@ Pistis credits this state. It does not wait for a mood to confirm it. The next l
 
 The present tense stands: right now, you are the dikaiosynē of God in Christ. Not an aspiration you visit on a good day. Not a costume you wear when the mood confirms it. Pistis credits this state. Romans 3:24 remains: justified freely through the redemption that is in Christ Jesus. “Right now” forbids you to say, if you are in Him, that you are still only hoping to become what 5:21 says you were made. The next lesson will ask, according to Hebrews 1:8, what that makes you. Do not invent the answer here. Write 5:21. Write what “right now” forbids.
 
-He knew no sin. He was made sin for us. That we might be made the righteousness of God in Him. In Him — not beside Him on a good day, not after a remainder, not when a mood confirms it. present tense will not let you visit this as an aspiration. Pistis credits it now. The next lesson will ask what Hebrews 1:8 makes of that. Hold 5:21 until you can reason. Do not invent a title here.
+He knew no sin. He was made sin for us. That we might be made the righteousness of God in Him. In Him — not beside Him on a good day, not after a remainder, not when a mood confirms it. The present tense will not let you visit this as an aspiration. Pistis credits it now. The next lesson will ask what Hebrews 1:8 makes of that. Hold 5:21 until you can reason. Do not invent a title here.
 
-Present tense is stand. So right now, you are the dikaiosynē of God in Christ. A future costume is not this verse. A good-day visit is not this verse. The new creature Course 1 laid is the man of whom 5:21 speaks. Write what “right now” forbids you to say if you are in Him.
+The present tense stands: right now, you are the dikaiosynē of God in Christ. A future costume is not this verse. A good-day visit is not this verse. The new creature Course 1 laid is the man of whom 5:21 speaks. Write what “right now” forbids you to say if you are in Him.
 
 Labour
 The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
 The Walk — one page. Write 2 Corinthians 5:21. Then write what “right now” forbids you to say about yourself if you are in Him.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write 2 Corinthians 5:17 and 5:21 together. Sit new creature and righteousness of God in Him. Add Romans 3:24. Page 3: teach present righteousness in Christ versus righteousness as a future costume, as you would stand behind it before a teacher. Do not invent the Hebrews 1:8 title here. Name that the next lesson will ask the question.
+Intensive — three pages. Page 1 is that tight page. Page 2: write 2 Corinthians 5:17 and 5:21 together. Sit new creature and righteousness of God in Him. Add Romans 3:24. Page 3: teach present righteousness in Christ versus righteousness as a future costume, as if you had to teach it clearly to another student. Do not invent the Hebrews 1:8 title here. Name that the next lesson will ask the question.
 
 Write in your own hand. Quote 2 Corinthians 5:21. What “right now” forbids must be on the page.
 
@@ -631,7 +631,7 @@ Distinction
 Present righteousness in Christ vs righteousness as a future costume.
 
 Charge
-Write what you will teach: he was made sin for us, who knew no sin; that we might be made the righteousness of God in him; right now, you are the dikaiosynē of God in Christ. Then write the page the Practice named.`,
+Write what you will teach: he was made sin for us, who knew no sin; that we might be made the righteousness of God in him; right now, you are the dikaiosynē of God in Christ. Then complete the practice assignment.`,
   ),
   lesson(
     "les-fs-2-13",
@@ -640,7 +640,7 @@ Write what you will teach: he was made sin for us, who knew no sin; that we migh
     "Hebrews 1:8 — what does that make you?",
     75,
     `Central principle
-After 2 Corinthians 5:21, the question is: according to Hebrews 1:8, what does that make you? It does not print the answer. Reason from these passages. Do not invent a title.
+After 2 Corinthians 5:21, the question is: according to Hebrews 1:8, what does that make you? The lesson does not print the answer. Reason from these passages. Do not invent a title.
 
 Key Scripture
 Hebrews 1:8; Hebrews 1:3.
@@ -655,26 +655,26 @@ Hebrews 1:3 — the Son is the brightness of His glory and the express image of 
 
 2 Corinthians 5:21 — you are the dikaiosynē of God in Christ. The Son is the express image. The Father addresses the Son as God. The sceptre is righteousness. The Son is appointed heir of all things.
 
-After 2 Corinthians 5:21, the question is: according to Hebrews 1:8, what does that make you? These passages does not print a title. Foundation School will not invent one. You will write what these passages forces. You will not write what a slogan wants. Reason: you are the righteousness of God in Him; the sceptre of His kingdom is righteousness; the Father speaks to the Son as God; the Son is the express image. Write only what those lines force. Do not print a name these passages does not grant.
+After 2 Corinthians 5:21, the question is: according to Hebrews 1:8, what does that make you? These passages do not give a title. Foundation School will not invent one. You will write what these passages force. You will not write what a slogan wants. Reason: you are the righteousness of God in Him; the sceptre of His kingdom is righteousness; the Father speaks to the Son as God; the Son is the express image. Write only what those lines force. Do not print a name these passages do not grant.
 
 Hebrews 1 will not let you start at verse 8 as a slogan. God hath spoken by His Son, whom He hath appointed heir of all things, by whom He made the worlds. The Son is the brightness of His glory and the express image of His person; He purged our sins by Himself; He sat down on the right hand of the Majesty on high. Unto the Son He saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.
 
-You are the dikaiosynē of God in Christ (2 Corinthians 5:21). The sceptre of that kingdom is righteousness. The Father addresses the Son as God. The Son is the express image. The Son is heir of all things. The question is what that makes you. These passages does not print a title. Foundation School will not invent a title these passages does not grant. Reason from those lines. Write only what they force. Do not print a name these passages does not grant. Do not write what a slogan wants. The distinction is reasoning from these passages versus inventing a name.
+You are the dikaiosynē of God in Christ (2 Corinthians 5:21). The sceptre of that kingdom is righteousness. The Father addresses the Son as God. The Son is the express image. The Son is heir of all things. The question is what that makes you. These passages do not give a title. Foundation School will not invent a title these passages do not grant. Reason from those lines. Write only what they force. Do not print a name these passages do not grant. Do not write what a slogan wants. The distinction is reasoning from these passages versus inventing a name.
 
 Labour
 The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same.
 
-The Walk — one page. You’re the dikaiosynē of God in Christ. According to Hebrews 1:8, what does that make you? Write these passages. Write only what these passages forces.
+The Walk — one page. You are the dikaiosynē of God in Christ. According to Hebrews 1:8, what does that make you? Write these passages. Write only what these passages force.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write Hebrews 1:1-8 in full and 2 Corinthians 5:21. Sit spoken by His Son, heir of all things, brightness, express image, purged our sins, Thy throne O God, sceptre of righteousness. Page 3: reason from these passages as you would stand behind it before a teacher. Do not invent a title. Name what you refused to invent.
+Intensive — three pages. Page 1 is that tight page. Page 2: write Hebrews 1:1-8 in full and 2 Corinthians 5:21. Sit spoken by His Son, heir of all things, brightness, express image, purged our sins, Thy throne O God, sceptre of righteousness. Page 3: reason from these passages as if you had to teach it clearly to another student. Do not invent a title. Name what you refused to invent.
 
-Write in your own hand. Write only what these passages forces. The page is not a journal of feelings.
+Write in your own hand. Write only what these passages force. The page is not a journal of feelings.
 
 Distinction
-Reasoning from these passages vs inventing a name this lesson never printed.
+Reasoning from these passages vs inventing a name this lesson does not grant.
 
 Charge
-Write what you will teach: the question is asked; the answer is not printed; you reason from Hebrews 1:1-8 with 2 Corinthians 5:21; you do not invent a title. Then write the page the Practice named. Write only what these passages forces.`,
+Write what you will teach: the question is asked; the answer is not printed; you reason from Hebrews 1:1-8 with 2 Corinthians 5:21; you do not invent a title. Then complete the practice assignment. Write only what these passages force.`,
   ),
   lesson(
     "les-fs-2-14",
@@ -715,7 +715,7 @@ The Walk: write one tight page. Intensive: write three pages on the same Scriptu
 
 The Walk — one page. Who is heir of God? What is the meaning of heir? Write Galatians 4:7 and Romans 8:17. Then write what you must stop treating as a wage.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write Galatians 4:4-7 and Romans 8:15-17 in full. Sit son, heir, joint-heirs, suffer with him, glorified together. Page 3: hold Romans 8:17 with Genesis 1:26-28 and Psalm 139:14 as the Aletheia charge. Teach heir by sonship versus hireling by performance, as you would stand behind it before a teacher.
+Intensive — three pages. Page 1 is that tight page. Page 2: write Galatians 4:4-7 and Romans 8:15-17 in full. Sit son, heir, joint-heirs, suffer with him, glorified together. Page 3: hold Romans 8:17 with Genesis 1:26-28 and Psalm 139:14 as the Aletheia charge. Teach heir by sonship versus hireling by performance, as if you had to teach it clearly to another student.
 
 Write in your own hand. Both questions answered from these passages. The page is not a journal of feelings.
 
@@ -723,7 +723,7 @@ Distinction
 Heir by sonship vs hireling by performance.
 
 Charge
-Write what you will teach: who is heir of God? the son; what is an heir? the one to whom the father’s estate belongs by sonship, not a hired man hoping for a wage. Then write the page the Practice named.`,
+Write what you will teach: who is heir of God? the son; what is an heir? the one to whom the father’s estate belongs by sonship, not a hired man hoping for a wage. Then complete the practice assignment.`,
   ),
   lesson(
     "les-fs-2-15",
@@ -760,7 +760,7 @@ The Walk: write one tight page. Intensive: write three pages on the same Scriptu
 
 The Walk — one page. How would you liken the prayer of oneness in John 17:20-23? Write the likeness from the words. Do not submit a unity slogan.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write John 17:20-23 in full. Sit “these alone,” “them also,” “as thou, Father,” “glory… I have given,” “I in them,” “thou in me,” “perfect in one,” “loved them, as.” Page 3: hold the prayer with Genesis 1:26-28. Teach oneness as the Father and the Son are one, as you would stand behind it before a teacher. Refuse a unity-event. Refuse a merger of organizations.
+Intensive — three pages. Page 1 is that tight page. Page 2: write John 17:20-23 in full. Sit “these alone,” “them also,” “as thou, Father,” “glory… I have given,” “I in them,” “thou in me,” “perfect in one,” “loved them, as.” Page 3: hold the prayer with Genesis 1:26-28. Teach oneness as the Father and the Son are one, as if you had to teach it clearly to another student. Refuse a unity-event. Refuse a merger of organizations.
 
 Write in your own hand. The likeness from the words, not a unity slogan.
 
@@ -768,7 +768,7 @@ Distinction
 Oneness as the Father and the Son are one vs a unity-event or a merger of organizations.
 
 Charge
-Write what you will teach: liken John 17:20-23 from the words; the measure is as the Father in the Son and the Son in the Father; glory given; I in them; thou in me; made perfect in one. Then write the page the Practice named.`,
+Write what you will teach: liken John 17:20-23 from the words; the measure is as the Father in the Son and the Son in the Father; glory given; I in them; thou in me; made perfect in one. Then complete the practice assignment.`,
   ),
   lesson(
     "les-fs-2-16",
@@ -805,7 +805,7 @@ The Walk: write one tight page. Intensive: write three pages on the same Scriptu
 
 The Walk — one page. Write 2 Corinthians 4:4 and 4:6. Then write what the god of this world is opposing when he blinds minds — and what pistis credits when the light shines.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write 2 Corinthians 4:3-6 in full. Sit hid, lost, blinded, light of the glorious gospel, image of God, preach not ourselves, commanded the light, shined in our hearts, face of Jesus Christ. Page 3: teach faith toward God as credence of this light, as you would stand behind it before a teacher. Refuse a leap into an unseen of your own invention.
+Intensive — three pages. Page 1 is that tight page. Page 2: write 2 Corinthians 4:3-6 in full. Sit hid, lost, blinded, light of the glorious gospel, image of God, preach not ourselves, commanded the light, shined in our hearts, face of Jesus Christ. Page 3: teach faith toward God as credence of this light, as if you had to teach it clearly to another student. Refuse a leap into an unseen of your own invention.
 
 Write in your own hand. Quote 2 Corinthians 4:4 and 4:6. The page is not a journal of feelings.
 
@@ -813,7 +813,7 @@ Distinction
 The glory known in Christ’s face vs a leap into an unseen of your own invention.
 
 Charge
-Write what you will teach: Christ is the image of God; the glory of God is known in His face; the god of this world blinds minds lest that light shine; pistis is credence of this light, not a leap into the dark. Then write the page the Practice named.`,
+Write what you will teach: Christ is the image of God; the glory of God is known in His face; the god of this world blinds minds lest that light shine; pistis is credence of this light, not a leap into the dark. Then complete the practice assignment.`,
   ),
   lesson(
     "les-fs-2-17",
@@ -858,21 +858,21 @@ The Aletheia questions become the examination. Why did Jesus come? Glory / true 
 
 Companions are directed, not whole books as this course: The Doctrine of Man (already in the house); Why Men Die; True Nature of God; Who’s Jesus to You? True Nature of God will say: if you know God’s nature, then you are as Him, unlimited, because you are made in His image (Genesis 1:26). That sentence does not reopen Genesis as a hedge. Assigned sections when the volumes are in your hand. Completing this course does not require finishing every page of the library.
 
-Write the twelve. The Walk: twelve tight paragraphs. Intensive: twelve full pages. The doctrine is the same. Then the principle as you would teach it to a babe, and as you would stand behind it before a teacher. The second stone is laid when a man credits sonship, image, free justification, and the heir — toward God, not toward a system. The next principle is baptisms: the son this course named is baptized into Christ, then in water as a sign, then in the Spirit as witness.
+Write the twelve. The Walk: twelve tight paragraphs. Intensive: twelve full pages. The doctrine is the same. Then the principle as you would teach it to a babe, and as if you had to teach it clearly to another student. The second stone is laid when a man credits sonship, image, free justification, and the heir — toward God, not toward a system. The next principle is baptisms: the son this course named is baptized into Christ, then in water as a sign, then in the Spirit as witness.
 
 Labour
 The Walk: write the twelve as twelve tight paragraphs. Intensive: write the full page on each of the twelve. The doctrine is the same. The hours differ. The twelve do not.
 
 The Walk — twelve tight paragraphs, one for each head above, each paragraph quoting the governing verse and stating the distinction. Then answer the Aletheia examination questions in a thirteenth short movement: Why did Jesus come? Has man been justified? Who is heir? What does heir mean? How do you liken John 17:20-23? What does Genesis 1:26 actually say, and what does it not say?
 
-Intensive — twelve full pages, one for each head, then a thirteenth page: the principle as you would teach it to a babe, and as you would stand behind it before a teacher, answering those same questions from these passages. Do not submit a feeling in the place of these passages. Do not treat the companion volumes as this course.
+Intensive — twelve full pages, one for each head, then a thirteenth page: the principle as you would teach it to a babe, and as if you had to teach it clearly to another student, answering those same questions from these passages. Do not submit a feeling in the place of these passages. Do not treat the companion volumes as this course.
 
-Write in your own hand. The twelve must be teaching, not headings. questions must be answered from these passages.
+Write in your own hand. The twelve must be teaching, not headings. The questions must be answered from these passages.
 
 Distinction
 Completion of activities vs mastery. A certificate later will ask more than a click. Directed companion sections vs treating those books as this course.
 
 Charge
-Write the principle as you would teach it to a babe, then as you would stand behind it before a teacher. Answer: Why did Jesus come? Has man been justified? Who is heir? What does heir mean? How do you liken John 17:20-23? What does Genesis 1:26 actually say, and what does it not say? According to Hebrews 1:8, what does 2 Corinthians 5:21 make you — reasoned, no invented title? Do not submit a feeling in the place of these passages. The Practice named the twelve you must write. Write them.`,
+Write the principle as you would teach it to a babe, then as if you had to teach it clearly to another student. Answer: Why did Jesus come? Has man been justified? Who is heir? What does heir mean? How do you liken John 17:20-23? What does Genesis 1:26 actually say, and what does it not say? According to Hebrews 1:8, what does 2 Corinthians 5:21 make you — reasoned, no invented title? Do not submit a feeling in the place of these passages. The practice assignment lists the twelve you must write. Write them.`,
   ),
 ];

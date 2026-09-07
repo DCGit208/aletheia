@@ -227,4 +227,20 @@ for (const pattern of forbiddenRepentanceCopy) {
   assert.doesNotMatch(repentanceCopy, pattern, `Course 1 still contains opaque student copy: ${pattern}`);
 }
 
+const faithCopy = readFileSync(new URL("../src/lib/content/course-faith.ts", import.meta.url), "utf8");
+const forbiddenFaithCopy = [
+  /pillows?/i,
+  /stand behind (it|them) before a teacher/i,
+  /practice named/i,
+  /set set/i,
+  /question is own/i,
+  /these passages forces/i,
+  /these passages does/i,
+  /present tense is stand/i,
+  /\. questions must/i,
+];
+for (const pattern of forbiddenFaithCopy) {
+  assert.doesNotMatch(faithCopy, pattern, `Course 2 still contains opaque student copy: ${pattern}`);
+}
+
 console.log("access checks passed");
