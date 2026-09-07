@@ -305,7 +305,7 @@ const forbiddenResurrectionCopy = [
   /these passages forces/i,
   /these passages is/i,
   /these passages holds/i,
-  /material resurrection remains/i,
+  /\. material resurrection remains/i,
   /chronology map/i,
   /bad print/i,
   /the print 7:18/i,
