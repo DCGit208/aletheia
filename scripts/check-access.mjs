@@ -205,4 +205,26 @@ for (const file of foundationCourseFiles) {
   }
 }
 
+const repentanceCopy = readFileSync(new URL("../src/lib/content/course-repentance.ts", import.meta.url), "utf8");
+const forbiddenRepentanceCopy = [
+  /pillows?/i,
+  /premiere convention/i,
+  /imprimatur/i,
+  /naturalistic/i,
+  /ersatz/i,
+  /religiousism/i,
+  /aridity/i,
+  /tergiversation/i,
+  /scholarly impetus/i,
+  /this piece/i,
+  /delineates/i,
+  /print error/i,
+  /practice named/i,
+  /straight issue/i,
+  /quarry for mottoes/i,
+];
+for (const pattern of forbiddenRepentanceCopy) {
+  assert.doesNotMatch(repentanceCopy, pattern, `Course 1 still contains opaque student copy: ${pattern}`);
+}
+
 console.log("access checks passed");
