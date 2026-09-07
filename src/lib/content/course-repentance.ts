@@ -144,7 +144,7 @@ The Walk: write one tight page. Intensive: write three pages on the same Scriptu
 
 The Walk — one page. Write Hebrews 5:12 in your own hand. Reason “ought to be teachers,” “teach you again,” “become,” and “milk” in that one verse. Name the time you have already had under the word. Do not write a general confession.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: write Hebrews 5:11-14 in full, then Hebrews 6:1-3 in full. Show how “leaving” in 6:1 is not forgetting, and how 6:3 is dependence, not a seventh principle. Page 3: teach the Scripture set as you would stand behind it before a teacher — dull hearing, recession, the six named, if God permit.
+Intensive — three pages. Page 1 is that tight page. Page 2: write Hebrews 5:11-14 in full, then Hebrews 6:1-3 in full. Show how “leaving” in 6:1 is not forgetting, and how 6:3 is dependence, not a seventh principle. Page 3: teach these passages as you would stand behind it before a teacher — dull hearing, recession, the six named, if God permit.
 
 Write in your own hand. Quote Hebrews 5:11-14 and 6:1-3 as the Practice named. The page is not a journal of feelings.
 
@@ -178,7 +178,7 @@ Hear the severity: the absence of reasonability (sound judgment) and the presenc
 
 That lack of skill is blamed on failure to realize the scholarly impetus of the Scripture and to align accordingly: failure to know the Scriptures, whether in soft copy or hard. Soft copy or hard copy does not matter if there is no labour. The cure is not a louder room. The cure is labour in the word.
 
-Hebrews 5:14 remains in the Scripture set: “But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.” Full age is not years since enrolment. It is senses exercised by use. Use is labour. You will not become skilful by collecting headings. You become skilful by holding the word of righteousness until you can discern.
+Hebrews 5:14 remains in these passages: “But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.” Full age is not years since enrolment. It is senses exercised by use. Use is labour. You will not become skilful by collecting headings. You become skilful by holding the word of righteousness until you can discern.
 
 The Word is the basis for salvation. If you are unskilled there, you are unskilled at the root. This piece is written so that you may experience productive living, be in control, and experience godliness in all capacities — not by a slogan, but by skill in the word of righteousness.
 
@@ -324,15 +324,15 @@ Textbook Chapter 1, section VII.
 Teaching
 Knowledge is a mental result of perception, learning, and reasoning. The practice is named: word exercise, word drill. That is not a seminary extra. It is how this school will ask you to know.
 
-Perception: you see what the text says, not what you wish it said. Learning: you take it in, and you keep it. Reasoning: you can hold a cluster of Scriptures together and draw the distinction the text itself makes.
+Perception: you see what the text says, not what you wish it said. Learning: you take it in, and you keep it. Reasoning: you can hold a set of Scriptures together and draw the distinction the text itself makes.
 
 A man may quote a verse and still be a babe. Quotation without reasoning is not skill. Hebrews 5:13-14 — “For every one that useth milk is unskilful in the word of righteousness: for he is a babe. But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.” The man of full age has senses exercised by use. Use is the drill. Discernment is the fruit. You do not skip perception and call your opinion reasoning. You do not skip learning and call a memory of a heading knowledge.
 
-2 Timothy 2:15 remains in the Scripture set: “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.” Right division is reasoning under the text. The questions this school asks are charges, not decorations. This school asks questions. You will answer them from the Scripture set, not from a remembered heading.
+2 Timothy 2:15 remains in these passages: “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.” Right division is reasoning under the text. The questions this school asks are charges, not decorations. This school asks questions. You will answer them from these passages, not from a remembered heading.
 
 Take Hebrews 5:12 as the drill this lesson will not let you postpone: “For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.” Perceive it — what it says. Learn it — write it. Reason it — why “ought to be teachers” and “become” belong in one verse. If you can only recite the verse, you have not yet done the drill.
 
-This teaching will not let knowledge be a pile of headings. Perception sees what the text says. If you see what you wish it said, you have not perceived. Learning takes it in and keeps it. If you heard it and cannot write it, you have not learned it. Reasoning holds a cluster and draws the distinction the text itself makes. If you can only recite one verse and cannot hold it with its neighbours, you have not reasoned.
+This teaching will not let knowledge be a pile of headings. Perception sees what the text says. If you see what you wish it said, you have not perceived. Learning takes it in and keeps it. If you heard it and cannot write it, you have not learned it. Reasoning holds a set of Scriptures and draws the distinction the text itself makes. If you can only recite one verse and cannot hold it with its neighbours, you have not reasoned.
 
 Hebrews 5:12 is the drill because it contains the indictment and the direction in one sentence. “For the time” names what you have already had. “Ought to be teachers” names what that time required. “Teach you again” names recession. “First principles of the oracles of God” names what must be known. “Become such as have need of milk” names the direction backward. Perceive that order. Learn it by writing it. Reason why “ought” and “become” belong together: a people can have time enough to teach and still become babes.
 
@@ -373,22 +373,22 @@ John 8:31-36 — “Then said Jesus to those Jews which believed on him, If ye c
 
 Read the verse in its place. Freedom here is not a political cry and not a mood. It is the freedom of those who continue in His word and know the truth. The Lord sets that freedom over against being the servant of sin. They claimed Abraham and denied bondage. He named sin as the master. The Son makes free. Continuance in His word is the path He named to knowing the truth.
 
-The opening of this book is therefore not a motto. Truth makes free where the word is continued in. Dull hearing will not get you that freedom. Unskill in the word of righteousness will not get you that freedom. Hebrews 5:11-14 remains in the Scripture set: they were dull of hearing; they had become such as have need of milk; every one that useth milk is unskilful in the word of righteousness; strong meat belongs to those who by reason of use have their senses exercised. A man who will not continue in the word will not know the truth that makes free. A man who continues only as a babe — quoting, not reasoning — has not yet used the word unto discernment.
+The opening of this book is therefore not a motto. Truth makes free where the word is continued in. Dull hearing will not get you that freedom. Unskill in the word of righteousness will not get you that freedom. Hebrews 5:11-14 remains in these passages: they were dull of hearing; they had become such as have need of milk; every one that useth milk is unskilful in the word of righteousness; strong meat belongs to those who by reason of use have their senses exercised. A man who will not continue in the word will not know the truth that makes free. A man who continues only as a babe — quoting, not reasoning — has not yet used the word unto discernment.
 
 You will not treat John 8:32 as a cover line and then refuse John 8:31 and 8:34-36. Disciples indeed are those who continue. Servants of sin are those who commit sin. Free indeed is the Son’s doing. The graphē you opened in lesson 1 is the word you continue in here.
 
-They answered from Abraham and from a claimed freedom: “We be Abraham’s seed, and were never in bondage to any man.” The Lord did not accept the claim. Whosoever committeth sin is the servant of sin. The servant abideth not in the house for ever. The Son abideth ever. If the Son shall make you free, ye shall be free indeed. Freedom in this Scripture set is the Son’s doing over against that servitude. It is not a cry against Rome. It is not a mood after a song.
+They answered from Abraham and from a claimed freedom: “We be Abraham’s seed, and were never in bondage to any man.” The Lord did not accept the claim. Whosoever committeth sin is the servant of sin. The servant abideth not in the house for ever. The Son abideth ever. If the Son shall make you free, ye shall be free indeed. Freedom in these passages is the Son’s doing over against that servitude. It is not a cry against Rome. It is not a mood after a song.
 
 “If ye continue in my word, then are ye my disciples indeed; and ye shall know the truth, and the truth shall make you free.” Continuance is the condition He named. Knowledge of the truth is not a motto on the cover. It is the fruit of remaining in His word. Dull hearing (Hebrews 5:11) will not continue. Unskill in the word of righteousness (Hebrews 5:13) will not know. Milk after the time you ought to have been a teacher will not make you free indeed.
 
-The graphē of lesson 1 is the word you continue in here. You do not continue in a likeness. You do not continue in a heading. Name one word of His you will continue in this week, and continue in it. Free from what, in John 8? From being the servant of sin — if the Son make you free, and if you continue in His word. Write that from the Scripture set, not from a political or emotional cry.
+The graphē of lesson 1 is the word you continue in here. You do not continue in a likeness. You do not continue in a heading. Name one word of His you will continue in this week, and continue in it. Free from what, in John 8? From being the servant of sin — if the Son make you free, and if you continue in His word. Write that from these passages, not from a political or emotional cry.
 
 Labour
 The Walk: write one tight page. Intensive: write three pages on the same Scripture set. Same doctrine.
 
-The Walk — one page. Write John 8:31-36 in full. Answer from the Scripture set: free from what, if you continue in His word? Then name one word of His you will continue in this week. Do not answer with a political or emotional cry.
+The Walk — one page. Write John 8:31-36 in full. Answer from these passages: free from what, if you continue in His word? Then name one word of His you will continue in this week. Do not answer with a political or emotional cry.
 
-Intensive — three pages. Page 1 is that tight page. Page 2: hold John 8:31-36 with Hebrews 5:11-14. Show why dull hearing and unskill cannot produce the freedom the Lord named. Page 3: teach the Scripture set as you would stand behind it before a teacher — continue, know, free; servant of sin; the Son abides; free indeed.
+Intensive — three pages. Page 1 is that tight page. Page 2: hold John 8:31-36 with Hebrews 5:11-14. Show why dull hearing and unskill cannot produce the freedom the Lord named. Page 3: teach these passages as you would stand behind it before a teacher — continue, know, free; servant of sin; the Son abides; free indeed.
 
 Write in your own hand. Quote John 8:31-36 in full. The page is not a journal of feelings.
 
@@ -577,28 +577,28 @@ Ephesians 2:2 — “Wherein in time past ye walked according to the course of t
 
 1 John 5:18 — “We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not.”
 
-Do not soften this Scripture set. Do not turn it into a personality type. Do not reduce the old man to a bad habit. This teaching will not let you. The old man is the spirit and nature of the devil in the disobedient. Put off the old man. Ye are of your father the devil. The spirit now worketh in the children of disobedience. The god of this world hath blinded minds. He that committeth sin is of the devil. Whosoever is born of God doth not commit sin; the wicked one toucheth him not.
+Do not soften these passages. Do not turn it into a personality type. Do not reduce the old man to a bad habit. This teaching will not let you. The old man is the spirit and nature of the devil in the disobedient. Put off the old man. Ye are of your father the devil. The spirit now worketh in the children of disobedience. The god of this world hath blinded minds. He that committeth sin is of the devil. Whosoever is born of God doth not commit sin; the wicked one toucheth him not.
 
 You cannot hide the old man behind a list of acts. The next lesson will open the acts. Both must pass. They are not one pile.
 
-Put the Scripture set in order and keep it severe. Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth. The spirit that now worketh in the children of disobedience is the prince of the power of the air. The god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them. He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil. Whosoever is born of God doth not commit sin; his seed remaineth in him. He that is begotten of God keepeth himself, and that wicked one toucheth him not.
+Put these passages in order and keep it severe. Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth. The spirit that now worketh in the children of disobedience is the prince of the power of the air. The god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them. He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil. Whosoever is born of God doth not commit sin; his seed remaineth in him. He that is begotten of God keepeth himself, and that wicked one toucheth him not.
 
 The old man is corrupt according to the deceitful lusts. Put him off. He is nothing more nor less than the spirit and nature of the devil working in men of disobedience. A bad habit can be broken and the old man remain. A personality can be managed and the old man remain. This school will not let you teach John 8:44, Ephesians 2:2, and 1 John 3:8-9 as a temperament category. In Christ this old thing is passed away. Outward sin is the other old thing. Both must pass. They are not one pile.
 
 Labour
 The Walk: write one tight page. Intensive: write three pages on the same Scripture set. Same doctrine.
 
-The Walk — one page. Teach John 8:44, Ephesians 2:2, and 1 John 3:8-9 as one cluster without calling the old man “a bad habit.” Write the three verses. Write the teaching.
+The Walk — one page. Teach John 8:44, Ephesians 2:2, and 1 John 3:8-9 as one Scripture set without calling the old man “a bad habit.” Write the three verses. Write the teaching.
 
 Intensive — three pages. Page 1 is that tight page. Page 2: add Ephesians 4:22, 2 Corinthians 4:4, and 1 John 5:18 in full. Keep old thing 1 as old thing 1. Do not walk Galatians 5 here. Page 3: teach the old man as you would stand behind it before a teacher — spirit and nature of the devil in the disobedient; put off; born of God; the wicked one toucheth him not.
 
-Write in your own hand. Quote the three verses of the tight cluster in full. The page is not a journal of feelings.
+Write in your own hand. Quote the three verses of the tight Scripture set in full. The page is not a journal of feelings.
 
 Distinction
 Old man vs outward sin. Both must pass. They are not one pile.
 
 Charge
-Write what you will teach: the old man is the spirit and nature of the devil working in men of disobedience; the Scripture set is John 8:44, Ephesians 2:2, 1 John 3:8-9, and the rest of this lesson; it is not a habit. Then write the page the Practice named.`,
+Write what you will teach: the old man is the spirit and nature of the devil working in men of disobedience; these passages is John 8:44, Ephesians 2:2, 1 John 3:8-9, and the rest of this lesson; it is not a habit. Then write the page the Practice named.`,
   ),
   lesson(
     "les-fs-1-12",
@@ -671,7 +671,7 @@ Read the verse in Romans 6. You were the servants of sin. You are to be the serv
 
 Hold the line: salvation from sin is exclusively the only salvation you need, sin being the cause of all death and depravity. Death in this book is not only the stopping of breath. Chapter 7 will open three kinds of death. Here it is enough to refuse a shallow “death,” and to refuse a repentance that wants the gift while it keeps the service of sin.
 
-2 Corinthians 5:17 remains in the Scripture set: if any man be in Christ, he is a new creature; old things are passed away; all things are become new. The wage belongs to the old things. The gift belongs to the man in Christ. You do not collect the gift as a wage you earned. You do not treat the wage as a mood you can talk down.
+2 Corinthians 5:17 remains in these passages: if any man be in Christ, he is a new creature; old things are passed away; all things are become new. The wage belongs to the old things. The gift belongs to the man in Christ. You do not collect the gift as a wage you earned. You do not treat the wage as a mood you can talk down.
 
 Yield is the verb Romans 6 will not let you skip. To whom ye yield yourselves servants to obey, his servants ye are. Sin unto death. Obedience unto righteousness. Ye were the servants of sin. Ye have obeyed from the heart that form of doctrine which was delivered you. Being then made free from sin, ye became the servants of righteousness. When ye were the servants of sin, ye were free from righteousness. The end of those things is death. Now, made free from sin and become servants to God, ye have your fruit unto holiness, and the end everlasting life.
 
@@ -757,7 +757,7 @@ Acts 4:8-12 — “Then Peter, filled with the Holy Ghost, said unto them, Ye ru
 
 The stone rejected, Jesus Christ of Nazareth, crucified, whom God raised. Neither is there salvation in any other. No second saviour. No rite in the place of His name. Water is a sign after one is saved. It is not this stone. Course 3 will open water as figure. You will not put the font in Acts 4:12.
 
-2 Corinthians 5:17 remains in the Scripture set: if any man be in Christ, he is a new creature. The name that saves is the name you receive. The new creature is in Him, not in a second name, not in a sign that follows, not in an enrolment. There is none other name under heaven given among men. “Given among men” will not let you keep a private saviour for a private people. “Must be saved” will not let you treat the name as one option among rites.
+2 Corinthians 5:17 remains in these passages: if any man be in Christ, he is a new creature. The name that saves is the name you receive. The new creature is in Him, not in a second name, not in a sign that follows, not in an enrolment. There is none other name under heaven given among men. “Given among men” will not let you keep a private saviour for a private people. “Must be saved” will not let you treat the name as one option among rites.
 
 Acts 4:7 is the examination: “By what power, or by what name, have ye done this?” Peter does not offer a second name. Jesus Christ of Nazareth, whom ye crucified, whom God raised from the dead — by Him this man stands whole. This is the stone set at nought of you builders, which is become the head of the corner. Psalm 118:22 sits under that sentence. The rejected stone is not a rite. It is this Jesus.
 
@@ -871,7 +871,7 @@ The Walk: write one tight page on each of the eight — eight tight paragraphs i
 
 The Walk — eight tight paragraphs, one for each head above, each paragraph quoting the governing verse and stating the distinction. Then one further paragraph: the principle as you would teach it to a babe.
 
-Intensive — eight full pages, one for each head, then a ninth page: the principle as you would teach it to a babe, and as you would stand behind it before a teacher. Do not submit a feeling in the place of the Scripture set. Do not treat The Power of Salvation as this course.
+Intensive — eight full pages, one for each head, then a ninth page: the principle as you would teach it to a babe, and as you would stand behind it before a teacher. Do not submit a feeling in the place of these passages. Do not treat The Power of Salvation as this course.
 
 Write in your own hand. The eight must be teaching, not headings. The page is not a journal of feelings.
 
@@ -879,6 +879,6 @@ Distinction
 Completion of activities vs mastery. A certificate later will ask more than a click.
 
 Charge
-Write the principle as you would teach it to a babe, then as you would stand behind it before a teacher. Name the two old things. Name the difference between metanoia and metamellomai. Name Luke 16:19-31 as the Hell narrative. Name the confession Romans 10:9 actually asks. Do not submit a feeling in the place of the Scripture set. The Practice named the eight you must write. Write them.`,
+Write the principle as you would teach it to a babe, then as you would stand behind it before a teacher. Name the two old things. Name the difference between metanoia and metamellomai. Name Luke 16:19-31 as the Hell narrative. Name the confession Romans 10:9 actually asks. Do not submit a feeling in the place of these passages. The Practice named the eight you must write. Write them.`,
   ),
 ];

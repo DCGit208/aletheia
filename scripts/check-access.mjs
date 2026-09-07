@@ -178,7 +178,7 @@ const foundationCourseFiles = [
   "../src/lib/content/course-judgment.ts",
 ];
 const forbiddenCourseCopy = [
-  /\nCluster\n/,
+  /cluster/i,
   /\b[A-J][0-9]\b/,
   /\bQ[0-9]+\b/,
   /owner file/i,
