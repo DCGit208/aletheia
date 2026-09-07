@@ -77,20 +77,20 @@ Isaiah 66:22-24. For as the new heavens and the new earth, which I will make, sh
 
 Revelation 20:15. And whosoever was not found written in the book of life was cast into the lake of fire.
 
-This teaching translates Matthew 25:46 as eternal punishment. Everlasting punishment sits in the same sentence as life eternal. Do not keep one forever and thin the other. The fire is prepared for the devil and his angels. Men who go there go into what was prepared for them that rebelled first. Smoke of torment ascendeth up for ever and ever. No rest day nor night. Worm shall not die. Fire shall not be quenched.
+Matthew 25:46 is translated eternal punishment. Everlasting punishment sits in the same sentence as life eternal. Do not keep one forever and thin the other. The fire is prepared for the devil and his angels. Men who go there go into what was prepared for them that rebelled first. Smoke of torment ascendeth up for ever and ever. No rest day nor night. Worm shall not die. Fire shall not be quenched.
 
-This is not annihilation as forever. A man who preaches that the wicked cease so that punishment can stop has left this lesson's Scripture. Course 1 already named Hell as consequence, not the definition of metanoia. Luke 16:19-31 is that narrative, not Matthew 16. Do not steal the rich man into this lesson to flatten the teaching. In this lesson: duration. The lake and the book will have their own lessons. The prisons will have theirs.
+This is not annihilation as forever. A man who preaches that the wicked cease so that punishment can stop is contradicting the Scriptures in this lesson. Course 1 already named Hell as consequence, not the definition of metanoia. Luke 16:19-31 is that narrative, not Matthew 16. Do not steal the rich man into this lesson to flatten the teaching. In this lesson: duration. The lake and the book will have their own lessons. The prisons will have theirs.
 
-This school names no required companion under this principle. Completing this chapter does not wait on a book this school does not name. Companions are not a seventh course. Course 6 has no required companion.
+Foundation School names no required companion under this principle. Completing this chapter does not wait on a book this school does not name. Companions are not a seventh course. Course 6 has no required companion.
 
 Leaving the first principles is not forgetting them. Resurrection was Course 5: two kinds, two material issues, five companies. Judgment is not a seventh chronology. It sits on that map. After the Millennium the rest of the dead stand. The book is opened. Whosoever was not found written is cast into the lake. That sentence belongs to the next lesson. Hold it. Do not exhaust it here.
 
-Everlasting fire. Everlasting punishment. Life eternal. For ever and ever. Worm shall not die. Fire not quenched. Write those as duration. If you submit a metaphor in the place of the verses, you have left this lesson's Scripture. The principle is among the six. It closes the foundation. It does not invent a seventh doctrine to make the year feel finished.
+Everlasting fire. Everlasting punishment. Life eternal. For ever and ever. Worm shall not die. Fire not quenched. Write those as duration. If you submit a metaphor in the place of the verses, you have contradicted the Scriptures in this lesson. The principle is among the six. It closes the foundation. It does not invent a seventh doctrine to make the year feel finished.
 
 Labour
 The Walk — one tight page. Write Matthew 25:46. What does “everlasting” force you to say that a metaphor will not let you say? Word drill: eternal punishment / life eternal / for ever and ever / worm shall not die.
 
-Intensive — three pages on the same Scripture set. Page 1: write Matthew 25:41, 46; Revelation 14:9-11; and Isaiah 66:22-24 in full. Page 2: duration — not annihilation; not a slogan that keeps life eternal and thins punishment. Page 3: no required companion; Luke 16 is not Matthew 16 and is not this lesson's scope. Same doctrine.
+Intensive — three pages on the same passages. Page 1: write Matthew 25:41, 46; Revelation 14:9-11; and Isaiah 66:22-24 in full. Page 2: duration — not annihilation; not a slogan that keeps life eternal and thins punishment. Page 3: no required companion; Luke 16 is not Matthew 16 and is not this lesson's scope. The doctrine is the same.
 
 Distinction
 Eternal duration vs annihilation, or a metaphor that keeps one forever and thins the other.
@@ -122,20 +122,20 @@ Acts 10:34-35. Then Peter opened his mouth, and said, Of a truth I perceive that
 
 Whom does “whosoever” refuse to exempt? The small and the great. Every man. The man who had a name in a meeting. The man who had a title. The man who treated enrolment as if it were the book. No respecter of persons is not a slogan for courtesy. It is why the book is opened after the Millennium and why hell delivers up the dead. Status does not write a name. Status does not keep a name.
 
-This judgment sits after the Millennium. Course 5 already placed it: the rest of the dead lived not again until the thousand years were finished. Hell — sheol-hades — delivers up the wicked. Reunion with bodies. Great white throne. Book of life. Lake of fire. Do not move this throne into the present age to make the teaching neater. Do not treat the book as a slogan that nothing can be lost. Names blotted is the next lesson. Today: whosoever, no respecter, second death.
+This judgment sits after the Millennium. Course 5 already placed it: the rest of the dead lived not again until the thousand years were finished. Hell — sheol-hades — delivers up the wicked. Reunion with bodies. Great white throne. Book of life. Lake of fire. Do not move this throne into the present age to make the teaching neater. Do not treat the book as a slogan that nothing can be lost. Names blotted is the next lesson. This lesson holds: whosoever, no respecter, second death.
 
-Death and hell were cast into the lake of fire. This is the second death. The lake is not this lesson’s whole prison teaching. A later lesson will lock gehenna. Another lesson will keep hell until the Millennium’s end. Today the book and the throne. Small and great stand. The books were opened. Another book — the book of life. Judged according to their works. Whosoever was not found written was cast in.
+Death and hell were cast into the lake of fire. This is the second death. The lake is not this lesson’s whole prison teaching. A later lesson will lock gehenna. Another lesson will keep hell until the Millennium’s end. In this lesson the book and the throne. Small and great stand. The books were opened. Another book — the book of life. Judged according to their works. Whosoever was not found written was cast in.
 
-Peter’s sentence is in this Scripture set so you will not invent a respected class. Of a truth I perceive that God is no respecter of persons. In every nation he that feareth Him, and worketh righteousness, is accepted with Him. The throne will not ask for your caste. It will ask whether the name is found written. A man who preaches exemption by office has left this lesson's Scripture. A man who preaches exemption by nation has left this lesson's Scripture. A man who preaches exemption by the years he sat in a course has left this lesson's Scripture.
+Peter’s sentence is in these passages so you will not invent a respected class. Of a truth I perceive that God is no respecter of persons. In every nation he that feareth Him, and worketh righteousness, is accepted with Him. The throne will not ask for your caste. It will ask whether the name is found written. A man who preaches exemption by office is contradicting the Scriptures in this lesson. A man who preaches exemption by nation is contradicting the Scriptures in this lesson. A man who preaches exemption by the years he sat in a course is contradicting the Scriptures in this lesson.
 
 The sea gave up the dead. Death and hell delivered up the dead which were in them. Every man judged according to his works. Then the other book. Whosoever was not found written was cast into the lake of fire. Works are in the books. The name is in the book of life. Do not preach works as if they write the name. Do not preach the name as if the books of works were never opened. Small and great stand. Earth and heaven fled. No place for them. That is the throne after the thousand years, not a weekly scare.
 
-Course 1 named this lake as the end of the consequence, not the definition of metanoia. Hold that. Do not turn this lesson into Hell-avoidance as repentance. The book is real. The throne is after the Millennium. Whosoever refuses to exempt. Write Revelation 20:15 beside Acts 10:34. Whom does “whosoever” refuse to exempt? Name the class you have been treating as already safe. If the class is “already written and cannot be blotted,” wait for the next lesson. Today the sentence is whosoever. No respecter. Second death.
+Course 1 named this lake as the end of the consequence, not the definition of metanoia. Hold that. Do not turn this lesson into Hell-avoidance as repentance. The book is real. The throne is after the Millennium. Whosoever refuses to exempt. Write Revelation 20:15 beside Acts 10:34. Whom does “whosoever” refuse to exempt? Name the class you have been treating as already safe. If the class is “already written and cannot be blotted,” wait for the next lesson. In this lesson the sentence is whosoever. No respecter. Second death.
 
 Labour
 The Walk — one tight page. Write Revelation 20:15 and Acts 10:34. Whom does “whosoever” refuse to exempt? Word drill: book of life / no respecter of persons / small and great / second death.
 
-Intensive — three pages on the same Scripture set. Page 1: write Revelation 20:11-15 and Acts 10:34-35 in full; mark throne, books, book of life, works, death and hell, second death, whosoever. Page 2: after the Millennium — hell emptied; bodies; no respected class. Page 3: not a slogan that nothing can be lost; not Course 1’s metanoia replaced by fear of the throne. Same doctrine.
+Intensive — three pages on the same passages. Page 1: write Revelation 20:11-15 and Acts 10:34-35 in full; mark throne, books, book of life, works, death and hell, second death, whosoever. Page 2: after the Millennium — hell emptied; bodies; no respected class. Page 3: not a slogan that nothing can be lost; not Course 1’s metanoia replaced by fear of the throne. The doctrine is the same.
 
 Distinction
 The book as opened after the Millennium vs a slogan of unconditional listing, or a class the throne will respect.
@@ -178,15 +178,15 @@ Do not treat the book as a list that cannot lose a name. Do not treat blotting a
 Whosoever hath sinned against Me, him will I blot out of My book. Let them be blotted out of the book of the living, and not be written with the righteous. I will not blot out his name out of the book of life. God shall take away his part out of the book of life. That is the teaching for this lesson. Not two religions — one of safety-slogans and one of terror-slogans. The same book. Names written. Names blotted. Names not blotted. Parts taken away.
 
 Labour
-The Walk — one tight page. Teach Exodus 32:32-33, Psalm 69:28, and Revelation 3:5 as one teaching. Who is blotted? Who is not? Why is Judas in the Scripture set? Word drill: blot / book of the living / I will not blot / take away his part.
+The Walk — one tight page. Teach Exodus 32:32-33, Psalm 69:28, and Revelation 3:5 as one teaching. Who is blotted? Who is not? Why is Judas in these passages? Word drill: blot / book of the living / I will not blot / take away his part.
 
-Intensive — three pages on the same Scripture set. Page 1: write Exodus 32:32-33, Psalm 69:20-28, John 3:36, Revelation 3:5, and Revelation 22:18-19 in full. Page 2: one teaching — Moses refused as substitute; Judas predicted; overcome not blotted; refuse new birth; take away the words. Page 3: not a slogan of unconditional listing; not a second Course 1. Same doctrine.
+Intensive — three pages on the same passages. Page 1: write Exodus 32:32-33, Psalm 69:20-28, John 3:36, Revelation 3:5, and Revelation 22:18-19 in full. Page 2: one teaching — Moses refused as substitute; Judas predicted; overcome not blotted; refuse new birth; take away the words. Page 3: not a slogan of unconditional listing; not a second Course 1. The doctrine is the same.
 
 Distinction
 A book from which names can be blotted vs a slogan that nothing can be lost.
 
 Charge
-Teach Exodus 32:32-33, Psalm 69, and Revelation 3:5 as one teaching. Who is blotted? Who is not? Why is Judas in the Scripture set?`,
+Teach Exodus 32:32-33, Psalm 69, and Revelation 3:5 as one teaching. Who is blotted? Who is not? Why is Judas in these passages?`,
   ),
   lesson(
     "les-fs-6-04",
@@ -204,13 +204,13 @@ Read
 Textbook Chapter 7, section IV.
 
 Teaching
-Define death without using only “stopped breathing.” The making is the purpose. Cutting off from that purpose is what this school means by dead. Three kinds will be named in the next lessons. Today the definition that keeps them from collapsing into slang.
+Define death without using only “stopped breathing.” The making is the purpose. Cutting off from that purpose is what this school means by dead. Three kinds will be named in the next lessons. In this lesson the definition that keeps them from collapsing into slang.
 
 Genesis 1:26-28. And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth. So God created man in his own image, in the image of God created he him; male and female created he them. And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
 
-Teach Genesis 1:26-28 as written. Man is who he is by design and by Who designed him. Image. Likeness. Dominion. Male and female. Fruitful. Multiply. Replenish. Subdue. Have dominion. This school will not put a softer sentence in the place of the making. The Living Bible (TLB) gloss, kept as a gloss beside the KJV: “So God made man like his Maker. Like God did God make man; Man and maid did he make them.” Mark it TLB. Do not preach the gloss as if it were the King James. Do not hide the King James behind the gloss.
+Teach Genesis 1:26-28 as written. Man is who he is by design and by Who designed him. Image. Likeness. Dominion. Male and female. Fruitful. Multiply. Replenish. Subdue. Have dominion. Foundation School will not put a softer sentence in the place of the making. The Living Bible (TLB) gloss, kept as a gloss beside the KJV: “So God made man like his Maker. Like God did God make man; Man and maid did he make them.” Mark it TLB. Do not preach the gloss as if it were the King James. Do not hide the King James behind the gloss.
 
-Course 2 already opened this Scripture set with John 14:12; 1 John 4:17; Psalm 82:6; Romans 8:17; John 17:20-23. Do not exhaust those verses here as if this were a second faith course. Hold them as already named.
+Course 2 already opened these passages with John 14:12; 1 John 4:17; Psalm 82:6; Romans 8:17; John 17:20-23. Do not exhaust those verses here as if this were a second faith course. Hold them as already named.
 
 John 14:12. Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.
 
@@ -220,7 +220,7 @@ Romans 8:17. And if children, then heirs; heirs of God, and joint-heirs with Chr
 
 The making is the purpose. Glory come short is deviation from this nature. The heir is made after this image. Boldness in the day of judgment sits on as He is, so are we — not on a reduced man. Death, in this chapter, is cutting off from realizing that purpose. Psalm 82:6 and John 17 remain named; do not steal their lessons.
 
-A man whose body still breathes may already be cut off. A man whose body has stopped may still be a soul and spirit that has not ceased. Lesson 5 will say physical death is inner man separated from the body. Lesson 6 will say spiritual death is man separated from God because of sin. Lesson 7 will say the second death is eternal separation in the lake of fire. Lesson 8 will say soul and spirit are immortal; bodies rise from the dust. Today you will not use “dead” as one slang that swallows all four.
+A man whose body still breathes may already be cut off. A man whose body has stopped may still be a soul and spirit that has not ceased. Lesson 5 will say physical death is inner man separated from the body. Lesson 6 will say spiritual death is man separated from God because of sin. Lesson 7 will say the second death is eternal separation in the lake of fire. Lesson 8 will say soul and spirit are immortal; bodies rise from the dust. In this lesson you will not use “dead” as one slang that swallows all four.
 
 What does Genesis 1:26 actually say, and what does it not say? It says Let us make man in our image, after our likeness, and let them have dominion. It does not say a reduced man who is only a worshipper of a distant God. It does not say death is only the stop of breath. If you define dead by the lungs alone, you have nothing left for a widow who liveth in pleasure, or for a man told to let the dead bury their dead, or for the lake that is the second death.
 
@@ -229,7 +229,7 @@ Write the making as written. Write death as cutting off from that purpose. Do no
 Labour
 The Walk — one tight page. Define death without using only “stopped breathing.” Write Genesis 1:26-28 as written. Word drill: image / likeness / dominion / cutting off / purpose.
 
-Intensive — three pages on the same Scripture set. Page 1: write Genesis 1:26-28 in full; mark image, likeness, male and female, fruitful, multiply, replenish, subdue, dominion. Mark the TLB as TLB. Page 2: death as cutting off from that purpose — not lungs only; not a hedged man. Page 3: name the three deaths you will not collapse into one slang; do not steal the following lessons. Same doctrine.
+Intensive — three pages on the same passages. Page 1: write Genesis 1:26-28 in full; mark image, likeness, male and female, fruitful, multiply, replenish, subdue, dominion. Mark the TLB as TLB. Page 2: death as cutting off from that purpose — not lungs only; not a hedged man. Page 3: name the three deaths you will not collapse into one slang; do not steal the following lessons. The doctrine is the same.
 
 Distinction
 Death as cutting off from Genesis 1:26-28 purpose vs “dead” as a single slang for stopped breath.
@@ -253,7 +253,7 @@ Read
 Textbook Chapter 7, section V.
 
 Teaching
-For as the body without the spirit is dead, so faith without works is dead also. The comparison stands on a fact this school will not trade away: a body without the spirit is dead. Inner man separated from the body. That is physical death. The soul and spirit do not become nothing when they leave. Lesson 8 will lock immortality. Today the separation.
+For as the body without the spirit is dead, so faith without works is dead also. The comparison stands on a fact this school will not trade away: a body without the spirit is dead. Inner man separated from the body. That is physical death. The soul and spirit do not become nothing when they leave. Lesson 8 will lock immortality. In this lesson the separation.
 
 James 2:26. For as the body without the spirit is dead, so faith without works is dead also.
 
@@ -261,20 +261,20 @@ The body without the spirit is dead. That is the first kind. Do not collapse it 
 
 Course 5 already taught that material resurrection is of the body. John 5:28-29: all that are in the graves shall hear His voice. The graves hold bodies. Dust will give them up. Physical death is why there is a grave. The grave is not a prison of the underworld. Lesson 9 will refuse that flatten. The body goes to dust. The inner man goes where the five prisons and heaven require. Do not send the soul into the grave and call it this verse.
 
-Faith without works is dead also — James is teaching faith. This school will not turn Course 6 into a second James lecture. This teaching uses the verse for the fact of the body. Body without the spirit is dead. Write that sentence. Write what is separated from what. Inner man — soul and spirit — from the outer man, the body. That is physical death.
+Faith without works is dead also — James is teaching faith. Foundation School will not turn Course 6 into a second James lecture. This lesson uses the verse for the fact of the body. Body without the spirit is dead. Write that sentence. Write what is separated from what. Inner man — soul and spirit — from the outer man, the body. That is physical death.
 
 Do not say the man has ceased because the body lies still. Do not say the body is the person so that resurrection of the body has nothing to raise. Course 5’s two kinds remain: spiritual resurrection is new birth in this life; material resurrection is the body. Physical death is the event that leaves a body for that later raising. It is not new birth. It is not the lake. A corpse in a cemetery is not proof the inner man is in that hole. A corpse in a cemetery is proof the spirit is not in that body.
 
-Write James 2:26. What is separated from what? The body without the spirit is dead. Soul and spirit from the body. One kind. Not three kinds stacked in one word. Give this text for physical death when the examination asks for one text each. Do not give Revelation 20:14 here. Do not give Matthew 8:22 here. James 2:26. If Question 40 is answered with one pile called death, you have not given three texts. You have given slang.
+Write James 2:26. What is separated from what? The body without the spirit is dead. Soul and spirit from the body. One kind. Not three kinds stacked in one word. Give this text for physical death when the examination asks for one text each. Do not give Revelation 20:14 here. Do not give Matthew 8:22 here. James 2:26. If Charge 40 is answered with one pile called death, you have not given three texts. You have given slang.
 
-The grave is where the body is. The underworld is not the grave. Heaven is not the grave. Tartarus is not the grave. Hell of the rich man is not the grave. The abyss is not the grave. Gehenna is not the grave. If you bury the whole man in the grave because James said the body without the spirit is dead, you have inverted the verse. The verse names a body that has lost the spirit. The spirit is why the body is called dead. Keep the separation. Dust will hear a voice later. The inner man is not waiting as dust. Lesson 8 will say that. Today: physical death. Inner from outer. James 2:26.
+The grave is where the body is. The underworld is not the grave. Heaven is not the grave. Tartarus is not the grave. Hell of the rich man is not the grave. The abyss is not the grave. Gehenna is not the grave. If you bury the whole man in the grave because James said the body without the spirit is dead, you have inverted the verse. The verse names a body that has lost the spirit. The spirit is why the body is called dead. Keep the separation. Dust will hear a voice later. The inner man is not waiting as dust. Lesson 8 will say that. This lesson holds: physical death. Inner from outer. James 2:26.
 
 Faith without works is dead also is James’s comparison. This course takes the fact the comparison stands on. Do not turn Foundation School week 46 into a second justification debate. The body without the spirit is dead. That sentence is enough for the kind. Keep it enough. Do not add a doctrine of soul-sleep to fill the hour. Soul-sleep would kill Lesson 8 before it is taught. The inner man separates. The body lies. That is physical death.
 
 Labour
 The Walk — one tight page. Write James 2:26. What is separated from what? Give this as the text for physical death. Word drill: body without the spirit / inner man / outer man / not the grave of the soul.
 
-Intensive — three pages on the same Scripture set. Page 1: write James 2:26 in full; mark body, spirit, dead. Page 2: physical death only — not 1 Timothy 5:6, not Revelation 20:14; the grave holds a body, not a prison. Page 3: write the flatten you will refuse when someone says the whole man is the corpse. Same doctrine.
+Intensive — three pages on the same passages. Page 1: write James 2:26 in full; mark body, spirit, dead. Page 2: physical death only — not 1 Timothy 5:6, not Revelation 20:14; the grave holds a body, not a prison. Page 3: write the flatten you will refuse when someone says the whole man is the corpse. The doctrine is the same.
 
 Distinction
 Physical death as inner man from the body vs one slang “dead” that swallows spiritual death and the lake.
@@ -306,7 +306,7 @@ Colossians 2:13-15. And you, being dead in your sins and the uncircumcision of y
 
 1 Timothy 5:6. But she that liveth in pleasure is dead while she liveth.
 
-This teaching lists Colossians 2:14 under spiritual death. The stretch is 2:13-15. Dead in sins; quickened together with Him; blotting out the handwriting; nailing it to His cross; spoiling principalities. Course 5 already used Ephesians 2:1-6 for spiritual resurrection — quickened from death in trespasses. This lesson is the death that resurrection answers. Do not flatten the two courses. Do not invent a fourth death to sit between them.
+This lesson uses Colossians 2:14 under spiritual death. The stretch is 2:13-15. Dead in sins; quickened together with Him; blotting out the handwriting; nailing it to His cross; spoiling principalities. Course 5 already used Ephesians 2:1-6 for spiritual resurrection — quickened from death in trespasses. This lesson is the death that resurrection answers. Do not flatten the two courses. Do not invent a fourth death to sit between them.
 
 Let the dead bury their dead. Some who bury have bodies that walk. They are the dead who bury. Follow Me is spoken to a man who would delay. Spiritual death is not a metaphor for sadness. It is separation from God because of sin. She that liveth in pleasure is dead while she liveth. Breath is not life with God. Pleasure is not proof she is not dead.
 
@@ -321,7 +321,7 @@ Write the three texts. What is a man separated from? God. Because of what? Sin. 
 Labour
 The Walk — one tight page. Write Matthew 8:22, Colossians 2:14, and 1 Timothy 5:6. What is a man separated from, and because of what? Word drill: dead while she liveth / let the dead bury / dead in your sins / quickened.
 
-Intensive — three pages on the same Scripture set. Page 1: write Matthew 8:22, Colossians 2:13-15, and 1 Timothy 5:6 in full. Page 2: spiritual death only — not James 2:26, not the lake; blot of ordinances is not blot of the book. Page 3: Course 5’s quickening answers this death in this life only; write the flatten you will refuse. Same doctrine.
+Intensive — three pages on the same passages. Page 1: write Matthew 8:22, Colossians 2:13-15, and 1 Timothy 5:6 in full. Page 2: spiritual death only — not James 2:26, not the lake; blot of ordinances is not blot of the book. Page 3: Course 5’s quickening answers this death in this life only; write the flatten you will refuse. The doctrine is the same.
 
 Distinction
 Spiritual death as separation from God because of sin vs physical death, or the lake, or one slang “dead.”
@@ -359,18 +359,18 @@ Give Revelation 20:14 when the examination asks for one text for the second deat
 
 Course 5 placed the first resurrection before the Millennium and the rest of the dead after it. Second death hath no power on those who have part in the first. Blessed and holy is he that hath part in the first resurrection. They shall be priests of God and of Christ, and shall reign with Him a thousand years. The five companies are not this lesson. They are why “no power” has a people. Company 1 already. Company 2 at His coming — not the advent. Companies 3–5 in the tribulation. First resurrection ends with the two witnesses. Those who have part: second death hath no power. The rest of the dead lived not again until the thousand years were finished. Then this death is named.
 
-The lake as prison is Lesson 14. Today the name: second death. Second. Eternal. Separation from God. In the lake of fire. He that overcometh shall not be hurt of the second death. Overcome in 2:11 sits beside 20:6. Do not invent a third way to escape that the verses did not name. Do not preach that the second death is a hard decade after which a man is released. Eternal separation. Lake of fire and brimstone.
+The lake as prison is Lesson 14. In this lesson the name: second death. Second. Eternal. Separation from God. In the lake of fire. He that overcometh shall not be hurt of the second death. Overcome in 2:11 sits beside 20:6. Do not invent a third way to escape that the verses did not name. Do not preach that the second death is a hard decade after which a man is released. Eternal separation. Lake of fire and brimstone.
 
 Death and hell were cast into the lake. Hell here is sheol-hades emptying — Lesson 12. The second death is what that emptying ends in. Do not make hell and the lake one room because this verse names both. Death and hell are cast in. This is the second death. The first death was not this. Physical death already happened. Spiritual death already stood. This is the second. A man who died physically is not thereby in the second death. A man dead in sins while he liveth is not thereby already in the lake. Keep the count. Three.
 
 The fearful, unbelieving, abominable, murderers, whoremongers, sorcerers, idolaters, all liars — their part in the lake. Which is the second death. Overcome: not hurt. First resurrection: no power. Write the four texts. Do not invent a fourth death. Do not preach the second death as a metaphor for a hard season. Eternal separation in the lake is sentence.
 
-This principle closes the three kinds. Physical — James 2:26. Spiritual — Matthew 8:22; Colossians 2:14; 1 Timothy 5:6. Second — Revelation 20:14 and parallels. Keep them three. If you have one word “dead” for all three, you have left this lesson's Scripture. Lesson 8 will add what does not die: soul and spirit. Bodies rise. The second death still receives bodies after the judgment. A later lesson will lock that. Today: the name and the four texts.
+This principle closes the three kinds. Physical — James 2:26. Spiritual — Matthew 8:22; Colossians 2:14; 1 Timothy 5:6. Second — Revelation 20:14 and parallels. Keep them three. If you have one word “dead” for all three, you have contradicted the Scriptures in this lesson. Lesson 8 will add what does not die: soul and spirit. Bodies rise. The second death still receives bodies after the judgment. A later lesson will lock that. This lesson holds: the name and the four texts.
 
 Labour
 The Walk — one tight page. Write Revelation 20:14, 2:11, 20:6, and 21:8. Why is this death called second? Who is not hurt of it? Word drill: second death / lake of fire / no power / not hurt.
 
-Intensive — three pages on the same Scripture set. Page 1: write the four texts in full. Page 2: not physical, not spiritual-in-this-life; hell cast in is not hell as the lake. Page 3: first resurrection — no power; write the collapse you will refuse. Same doctrine.
+Intensive — three pages on the same passages. Page 1: write the four texts in full. Page 2: not physical, not spiritual-in-this-life; hell cast in is not hell as the lake. Page 3: first resurrection — no power; write the collapse you will refuse. The doctrine is the same.
 
 Distinction
 Second death as eternal separation in the lake vs physical death, spiritual death now, or hell still holding the wicked.
@@ -417,7 +417,7 @@ Write Daniel 12:2. What sleeps in the dust? What awakes? What then is raised fro
 Labour
 The Walk — one tight page. What then is raised from the dust? Write Daniel 12:2 and John 5:28-29. Word drill: immortal / dust / graves / natural body / spiritual body.
 
-Intensive — three pages on the same Scripture set. Page 1: write Daniel 12:2, John 5:28-29, 1 Corinthians 15:20-23 and 42-44, and 1 Thessalonians 4:16-17 in full. Page 2: soul and spirit immortal; body from the dust; spiritual body is still a body. Page 3: two issues timed by Revelation 20, not chapter 10; 15:19 stays with bodily hope. Same doctrine.
+Intensive — three pages on the same passages. Page 1: write Daniel 12:2, John 5:28-29, 1 Corinthians 15:20-23 and 42-44, and 1 Thessalonians 4:16-17 in full. Page 2: soul and spirit immortal; body from the dust; spiritual body is still a body. Page 3: two issues timed by Revelation 20, not chapter 10; 15:19 stays with bodily hope. The doctrine is the same.
 
 Distinction
 Immortal soul and spirit with bodies raised from dust vs resurrection-as-spirit, or a soul that dies with the breath.
@@ -459,12 +459,12 @@ Luke 16 is the rich man in hell, Lazarus in Abraham’s bosom. That narrative is
 
 The Millennium sits on this lesson. Satan is in the abyss for the thousand years. The wicked remain in hell until that end. Then hell delivers up the dead. Bodies from the dust. Great white throne. Book of life. Lake of fire. Tartarus holds its angels until their judgment. Paradise is already empty of the righteous. Five prisons. One chronology. Not a seventh course. Not one room. Not the grave. If your map has the righteous still in Paradise, you have not heard now empty. If your map has the wicked already in the lake, you have not heard until the Millennium’s end. If your map has men in Tartarus, you have not heard no humans.
 
-Write the five with one sentence each: who is there, who is not, and why the grave is not that prison. If you added a sixth prison, strike it. If you merged two, name the merge and put it down. This teaching said five distinct prisons; not one is the same as the grave. That is the overview. the year examination will ask the full teaching at the year charge. Today you learn the five names without a sixth and without a tomb. The grave is dust. The prisons are not dust.
+Write the five with one sentence each: who is there, who is not, and why the grave is not that prison. If you added a sixth prison, strike it. If you merged two, name the merge and put it down. This lesson has said five distinct prisons; not one is the same as the grave. That is the overview. the year examination will ask the full teaching at the year charge. In this lesson you learn the five names without a sixth and without a tomb. The grave is dust. The prisons are not dust.
 
 Labour
 The Walk — one tight page. Write the five with one sentence each: who is there, who is not, why not the grave. Word drill: five / not the grave / not one room / underworld.
 
-Intensive — three pages on the same Scripture set. Page 1: write the five names with the key text for each as this lesson listed them. Page 2: the grave versus each prison — body in dust; inner man not in the tomb. Page 3: strike a sixth; strike a merge; Luke 16 is not Matthew 16. Same doctrine.
+Intensive — three pages on the same passages. Page 1: write the five names with the key text for each as this lesson listed them. Page 2: the grave versus each prison — body in dust; inner man not in the tomb. Page 3: strike a sixth; strike a merge; Luke 16 is not Matthew 16. The doctrine is the same.
 
 Distinction
 Five prisons, none identical with the grave, vs one room called Hell, or the underworld as a cemetery.
@@ -496,18 +496,18 @@ Christ preached unto the spirits in prison, which sometime were disobedient when
 
 Jude 6-7. And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day. Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
 
-Who is there? Fallen angels who sinned before the flood. Who is not? Humans. Demons. The wicked dead of Luke 16. The righteous. Satan in his Millennium binding — that is the abyss, Lesson 13. The KJV of 2 Peter 2:4 says hell. The Greek this school names is tartarōsas. This school will teach Tartarus as that prison. It will not dump men into a word because the English printed hell.
+Who is there? Fallen angels who sinned before the flood. Who is not? Humans. Demons. The wicked dead of Luke 16. The righteous. Satan in his Millennium binding — that is the abyss, Lesson 13. The KJV of 2 Peter 2:4 says hell. The Greek this school names is tartarōsas. Foundation School will teach Tartarus as that prison. It will not dump men into a word because the English printed hell.
 
 Spirits in prison. Days of Noah. Longsuffering waited. Eight souls saved by water. The prison is timed from that disobedience. Chains of darkness. Reserved unto judgment. First estate not kept. Own habitation left. Everlasting chains under darkness unto the judgment of the great day. Sodom is set forth as example of eternal fire — not as humans in Tartarus. Do not put the men of Sodom into Tartarus to fill a page. The angels are in Tartarus. Sodom suffers as the example Jude named.
 
-No humans. No demons. Write that twice. A sermon that sends a man to Tartarus has left this lesson's Scripture. A sermon that sends Legion to Tartarus has left this lesson's Scripture. Legion feared the deep — the abyss. Men who die without Christ go to hell until the Millennium’s end. Angels before the flood: Tartarus. Keep the teaching. The eight souls in the ark are not the inmates. Few, that is, eight souls were saved by water. The spirits in prison are those who were disobedient when the longsuffering of God waited in the days of Noah, while the ark was a preparing. Prison. Days of Noah. Angels that sinned. Not Noah. Not Ham. Not the men who drowned.
+No humans. No demons. Write that twice. A sermon that sends a man to Tartarus is contradicting the Scriptures in this lesson. A sermon that sends Legion to Tartarus is contradicting the Scriptures in this lesson. Legion feared the deep — the abyss. Men who die without Christ go to hell until the Millennium’s end. Angels before the flood: Tartarus. Keep the teaching. The eight souls in the ark are not the inmates. Few, that is, eight souls were saved by water. The spirits in prison are those who were disobedient when the longsuffering of God waited in the days of Noah, while the ark was a preparing. Prison. Days of Noah. Angels that sinned. Not Noah. Not Ham. Not the men who drowned.
 
 From the flood unto the judgment of those angels. They are reserved. Delivered into chains of darkness, to be reserved unto judgment. Everlasting chains under darkness unto the judgment of the great day. They are not the lake yet. Lesson 14 will say Tartarus empties into gehenna. The Aletheia teaching: all the wicked in Tartarus, the abyss, and Sheol/Hades will be put into gehenna. Do not make Tartarus the lake today. Do not make it the grave. Angels are not buried in dust. Bodies of men rise from dust. These are spirits in prison. Christ preached unto the spirits in prison — put to death in the flesh, quickened by the Spirit. Teach the three texts. Stop. No tenth prison. No human in this one. No demon in this one. Reserved unto judgment — not yet the lake, not ever the grave.
 
 Labour
 The Walk — one tight page. Write 2 Peter 2:4 and Jude 6. Who is there? Who is not? Why is the English “hell” not the hell of Luke 16? Word drill: tartarōsas / spirits in prison / days of Noah / no humans / no demons.
 
-Intensive — three pages on the same Scripture set. Page 1: write 1 Peter 3:18-20, 2 Peter 2:4, and Jude 6-7 in full. Page 2: angels before the flood — chains, reserved, first estate; Sodom is example, not inmates. Page 3: not the grave, not men’s hell, not the abyss, not the lake yet. Same doctrine.
+Intensive — three pages on the same passages. Page 1: write 1 Peter 3:18-20, 2 Peter 2:4, and Jude 6-7 in full. Page 2: angels before the flood — chains, reserved, first estate; Sodom is example, not inmates. Page 3: not the grave, not men’s hell, not the abyss, not the lake yet. The doctrine is the same.
 
 Distinction
 Tartarus as pre-flood fallen angels only vs the hell of men, the abyss of demons, or a grave.
@@ -535,7 +535,7 @@ Lazarus was carried by the angels into Abraham’s bosom. The thief heard: To da
 
 Luke 16:19-31. There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day: And there was a certain beggar named Lazarus, which was laid at his gate, full of sores, And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores. And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried; And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom. And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame. But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented. And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence. Then he said, I pray thee therefore, father, that thou wouldest send him to my father’s house: For I have five brethren; that he may testify unto them, lest they also come into this place of torment. Abraham saith unto him, They have Moses and the prophets; let them hear them. And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent. And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded though one rose from the dead.
 
-Matthew 16 is not this narrative. This school teaches Luke 16:19-31. Do not teach Matthew 16 as that narrative.
+Matthew 16 is not this narrative. Foundation School teaches Luke 16:19-31. Do not teach Matthew 16 as that narrative.
 
 Luke 23:43. And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.
 
@@ -543,16 +543,16 @@ Ephesians 4:8-10. Wherefore he saith, When he ascended up on high, he led captiv
 
 Hebrews 2:14-15. Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil; And deliver them who through fear of death were all their lifetime subject to bondage.
 
-Where do the righteous go at death now, and why? To heaven. Because Paradise is empty of the righteous since Christ captured the captives and took them to heaven when He ascended. Abraham’s bosom was then. To day in paradise was then. Now the righteous are not held in that compartment. 2 Corinthians 5:8 already sat in Course 5’s Company 2 teaching: absent from the body, present with the Lord. Do not reopen a second school that keeps the righteous in Abraham’s bosom after the ascension. Aletheia keeps that Scripture set locked.
+Where do the righteous go at death now, and why? To heaven. Because Paradise is empty of the righteous since Christ captured the captives and took them to heaven when He ascended. Abraham’s bosom was then. To day in paradise was then. Now the righteous are not held in that compartment. 2 Corinthians 5:8 already sat in Course 5’s Company 2 teaching: absent from the body, present with the Lord. Do not reopen a second school that keeps the righteous in Abraham’s bosom after the ascension. Aletheia keeps that teaching settled.
 
-The rich man in hell is Lesson 12. The gulf fixed is in the account so you will not cross the two compartments. Lazarus comforted; the rich man tormented. Today Paradise. Once the righteous. Now empty of them. Not the grave. Lazarus was carried; the rich man was buried — the burial is the body; the bosom is not the tomb. Not Tartarus. Not the abyss. Not the lake.
+The rich man in hell is Lesson 12. The gulf fixed is in the account so you will not cross the two compartments. Lazarus comforted; the rich man tormented. In this lesson Paradise. Once the righteous. Now empty of them. Not the grave. Lazarus was carried; the rich man was buried — the burial is the body; the bosom is not the tomb. Not Tartarus. Not the abyss. Not the lake.
 
 Write Luke 23:43 beside Ephesians 4:8. Then write now. Now empty. Heaven at death. Held against their will until He conquered. Delivered from the fear of death. Captivity captive. That is the teaching for this lesson. There is not another Foundation School teaching.
 
 Labour
 The Walk — one tight page. Where do the righteous go at death now, and why? Write Luke 23:43 and Ephesians 4:8. Name the print: Luke 16, not Matthew 16. Word drill: now empty / captivity captive / heaven at death / Abraham’s bosom then.
 
-Intensive — three pages on the same Scripture set. Page 1: write Luke 16:19-31, Luke 23:43, Ephesians 4:8-10, and Hebrews 2:14-15 in full. Page 2: then and now — held; conquered; empty; heaven. Page 3: not Matthew 16; not the present bosom; not the grave. Same doctrine.
+Intensive — three pages on the same passages. Page 1: write Luke 16:19-31, Luke 23:43, Ephesians 4:8-10, and Hebrews 2:14-15 in full. Page 2: then and now — held; conquered; empty; heaven. Page 3: not Matthew 16; not the present bosom; not the grave. The doctrine is the same.
 
 Distinction
 Paradise now empty, righteous to heaven at death, vs a present Abraham’s bosom, or Matthew 16 as the narrative.
@@ -593,7 +593,7 @@ Write Luke 16:23 beside Revelation 20:13. In hell he lift up his eyes. Death and
 Labour
 The Walk — one tight page. Write Luke 16:23 and Revelation 20:13. Who is in hell? Until when? What happens when it empties? Word drill: sheol-hades / lift up his eyes / until the Millennium’s end / delivered up.
 
-Intensive — three pages on the same Scripture set. Page 1: write Luke 16:22-31 and Revelation 20:11-15 in full; Luke, not Matthew. Page 2: wicked until the Millennium’s end; not the lake yet; not the grave. Page 3: not Tartarus, not the abyss; not an early raising of the wicked. Same doctrine.
+Intensive — three pages on the same passages. Page 1: write Luke 16:22-31 and Revelation 20:11-15 in full; Luke, not Matthew. Page 2: wicked until the Millennium’s end; not the lake yet; not the grave. Page 3: not Tartarus, not the abyss; not an early raising of the wicked. The doctrine is the same.
 
 Distinction
 Hell / sheol-hades until the Millennium’s end vs the lake of fire, the grave, or one room for all the dead.
@@ -617,7 +617,7 @@ Read
 Textbook Chapter 7, section XIII.
 
 Teaching
-Aletheia teaches the abyss from Luke 8:31, Revelation 9, and Revelation 20:3. This teaching also has Romans 10:7, Revelation 17:8, Revelation 20:1-10, and Psalm 88:11. Beast from the pit in the two-witnesses account is Revelation 11:7. Revelation 11:17 is the elders giving thanks. This school will not reopen 11:7 versus 11:17. Teach both verses as what they are. Do not ask the question again.
+Aletheia teaches the abyss from Luke 8:31, Revelation 9, and Revelation 20:3. This lesson also uses Romans 10:7, Revelation 17:8, Revelation 20:1-10, and Psalm 88:11. Beast from the pit in the two-witnesses account is Revelation 11:7. Revelation 11:17 is the elders giving thanks. Foundation School will not reopen 11:7 versus 11:17. Teach both verses as what they are. Do not ask the question again.
 
 Luke 8:31. And they besought him that he would not command them to go out into the deep.
 
@@ -646,7 +646,7 @@ Revelation 20:1-3 is the Millennium lock: Satan bound in the bottomless pit a th
 Labour
 The Walk — one tight page. Write Luke 8:31, Revelation 9:11, and Revelation 20:3. Who is in the abyss? Who is not? What is Revelation 11:7, and what is 11:17? Word drill: deep / Abaddon / bottomless pit / bound a thousand years.
 
-Intensive — three pages on the same Scripture set. Page 1: write Luke 8:31, Romans 10:7, Revelation 9:1-3, 11, 11:7, 11:17, 17:8, 20:1-3, and Psalm 88:11 in full. Page 2: demons and some angels; Satan in the Millennium; Abaddon as destruction, not the grave. Page 3: 11:7 beast and two witnesses; 11:17 elders; do not reopen the number. Same doctrine.
+Intensive — three pages on the same passages. Page 1: write Luke 8:31, Romans 10:7, Revelation 9:1-3, 11, 11:7, 11:17, 17:8, 20:1-3, and Psalm 88:11 in full. Page 2: demons and some angels; Satan in the Millennium; Abaddon as destruction, not the grave. Page 3: 11:7 beast and two witnesses; 11:17 elders; do not reopen the number. The doctrine is the same.
 
 Distinction
 Abyss / Abaddon as demons, some angels, and Satan bound, vs Tartarus, men’s hell, the grave, or Revelation 11:17 as the beast.
@@ -690,7 +690,7 @@ Revelation 21:8. But the fearful, and unbelieving, and the abominable, and murde
 
 Not the grave. Them which kill the body cannot cast into gehenna. After He hath killed — then power to cast in. Bodies are not put there until the judgment — Revelation 20:11-15. Body and soul — Matthew 10:28; Luke 12:5. Prepared for the devil and his angels. Beast and false prophet cast alive at the second advent — Revelation 19:20 — before the rest of the wicked after the throne. Devil cast in after the little season. Tormented day and night for ever and ever. People put in alive.
 
-Isaiah 66:22-24 already sat in this Scripture set: worm shall not die; fire not quenched. Revelation 14:9-11: smoke of torment; no rest day nor night. Mark 9:43-48 repeats the worm and the unquenched fire. Weeping, wailing, gnashing of teeth — Matthew 8:12; 13:42, 50; 24:51. Degrees of punishment — Revelation 20:13; Matthew 23:14-15. Only certain people are in danger of it — Matthew 5:22; 23:15, 33. Victory over sin is the escape — Matthew 5:29-30; 18:9; Revelation 21:8. People can repent and escape — Matthew 3:2-8; 23:33. James 3:6: the tongue setteth on fire the course of nature; it is set on fire of hell. Psalm 9:17: the wicked shall be turned into hell. Eternal fire, damnation, punishment, judgment, contempt — Matthew 25:41, 46; Mark 3:29; 9:43-48; Hebrews 6:2; Jude 7; Daniel 12:2.
+Isaiah 66:22-24 already sat in these passages: worm shall not die; fire not quenched. Revelation 14:9-11: smoke of torment; no rest day nor night. Mark 9:43-48 repeats the worm and the unquenched fire. Weeping, wailing, gnashing of teeth — Matthew 8:12; 13:42, 50; 24:51. Degrees of punishment — Revelation 20:13; Matthew 23:14-15. Only certain people are in danger of it — Matthew 5:22; 23:15, 33. Victory over sin is the escape — Matthew 5:29-30; 18:9; Revelation 21:8. People can repent and escape — Matthew 3:2-8; 23:33. James 3:6: the tongue setteth on fire the course of nature; it is set on fire of hell. Psalm 9:17: the wicked shall be turned into hell. Eternal fire, damnation, punishment, judgment, contempt — Matthew 25:41, 46; Mark 3:29; 9:43-48; Hebrews 6:2; Jude 7; Daniel 12:2.
 
 The Aletheia teaching is locked. Do not reopen it as a debate. Do not make gehenna the grave. Do not make it sheol-hades of the rich man as if the lake had already begun for him. Other prisons empty into it. Eternal. Alive. Body and soul. After judgment. Final hell of fallen angels, demons, and wicked men. Revelation 22:15: without are dogs, and sorcerers, and whoremongers, and murderers, and idolaters, and whosoever loveth and maketh a lie.
 
@@ -699,7 +699,7 @@ This is not a seventh prison. This is the fifth. Write G1067. Write not the grav
 Labour
 The Walk — one tight page. Write Luke 12:5, Matthew 10:28, and Revelation 19:20. Why is gehenna not the grave? What goes there, and when? Word drill: G1067 / not the grave / body and soul / alive / other prisons empty into it.
 
-Intensive — three pages on the same Scripture set. Page 1: write Luke 12:5, Matthew 10:28, Matthew 25:41, 46, Revelation 19:20, 20:10, 20:14-15, and 21:8 in full. Page 2: settled teaching — not grave; body and soul; after judgment; alive; eternal; Tartarus, abyss, sheol-hades into it. Page 3: not the rich man’s hell as already the lake; not a sixth prison. Same doctrine.
+Intensive — three pages on the same passages. Page 1: write Luke 12:5, Matthew 10:28, Matthew 25:41, 46, Revelation 19:20, 20:10, 20:14-15, and 21:8 in full. Page 2: settled teaching — not grave; body and soul; after judgment; alive; eternal; Tartarus, abyss, sheol-hades into it. Page 3: not the rich man’s hell as already the lake; not a sixth prison. The doctrine is the same.
 
 Distinction
 Lake of fire / gehenna as final, eternal, after judgment, vs the grave, sheol-hades now, or a metaphor that ends.
@@ -720,7 +720,7 @@ Key Scripture
 Hebrews 6:1-2; Revelation 20:11-15; Genesis 1:26-28.
 
 Read
-Chapter 7, section XV. No required companion. This teaching named none.
+Chapter 7, section XV. No required companion. The course named none.
 
 Teaching
 This lesson is the examination of the principle and of the year, not a new doctrine. Completing activities is not mastery. Written charges, the course examination, and this week-52 final are the v1 spine. There is not a seventh course hiding in a longer Saturday.
@@ -738,35 +738,35 @@ You should now be able to teach, from Scripture, the six as laid:
 
 The chronology is not a seventh principle. It is the map Courses 5 and 6 sit on. Company 1 past. Rapture 2 — they that are Christ’s at His coming — before the seven years. Tribulation. Companies 3–5 in that stretch; first resurrection ends with the two witnesses. Second advent with the saints. Millennium: first-resurrection saints rule; Satan bound in the abyss. After the Millennium: the wicked raised; hell delivers up; great white throne; book of life; lake of fire.
 
-Question 37: Whom does “whosoever” refuse to exempt? Small and great. Every man. No respecter of persons — Acts 10:34 with Revelation 20:15. Status does not write a name.
+Charge 37: Whom does “whosoever” refuse to exempt? Small and great. Every man. No respecter of persons — Acts 10:34 with Revelation 20:15. Status does not write a name.
 
-Question 38: Teach Exodus 32:32-33, Psalm 69, and Revelation 3:5 as one teaching. God blots names of sinners. Predicted of Judas. I will not blot out his name. John 3:36 and Revelation 22:18-19 remain in that teaching. The book is not a slogan of unconditional listing.
+Charge 38: Teach Exodus 32:32-33, Psalm 69, and Revelation 3:5 as one teaching. God blots names of sinners. Predicted of Judas. I will not blot out his name. John 3:36 and Revelation 22:18-19 remain in that teaching. The book is not a slogan of unconditional listing.
 
-Question 39: Define death without using only “stopped breathing.” Dead is cutting off from realizing Genesis 1:26-28 as written — image, likeness, dominion.
+Charge 39: Define death without using only “stopped breathing.” Dead is cutting off from realizing Genesis 1:26-28 as written — image, likeness, dominion.
 
-Question 40: Three kinds. Physical — James 2:26. Spiritual — Matthew 8:22; Colossians 2:14; 1 Timothy 5:6. Second — Revelation 20:14 and parallels. Do not collapse them.
+Charge 40: Three kinds. Physical — James 2:26. Spiritual — Matthew 8:22; Colossians 2:14; 1 Timothy 5:6. Second — Revelation 20:14 and parallels. Do not collapse them.
 
-Question 41: What then is raised from the dust? The body. Soul and spirit are immortal. Daniel 12:2; John 5:28-29; 1 Corinthians 15.
+Charge 41: What then is raised from the dust? The body. Soul and spirit are immortal. Daniel 12:2; John 5:28-29; 1 Corinthians 15.
 
-Question 42: Five prisons; not one is the grave. Tartarus — pre-flood fallen angels; no humans, no demons. Paradise — now empty; righteous to heaven at death. Hell / sheol-hades — wicked until the Millennium’s end; then emptied. Abyss / Abaddon — demons, some angels; Satan bound a thousand years; 11:7 is the beast and the two witnesses, 11:17 is the elders. Lake of fire / gehenna G1067 — not the grave; body and soul; after judgment; others empty into it; eternal; alive (Revelation 19:20).
+Charge 42: Five prisons; not one is the grave. Tartarus — pre-flood fallen angels; no humans, no demons. Paradise — now empty; righteous to heaven at death. Hell / sheol-hades — wicked until the Millennium’s end; then emptied. Abyss / Abaddon — demons, some angels; Satan bound a thousand years; 11:7 is the beast and the two witnesses, 11:17 is the elders. Lake of fire / gehenna G1067 — not the grave; body and soul; after judgment; others empty into it; eternal; alive (Revelation 19:20).
 
-Question 43: Where do the righteous go at death now, and why? Heaven. Paradise is empty of the righteous since He led captivity captive and ascended. Luke 16 is Luke, not Matthew.
+Charge 43: Where do the righteous go at death now, and why? Heaven. Paradise is empty of the righteous since He led captivity captive and ascended. Luke 16 is Luke, not Matthew.
 
 Revelation 20:11-15. And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them. And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works. And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works. And death and hell were cast into the lake of fire. This is the second death. And whosoever was not found written in the book of life was cast into the lake of fire.
 
 Genesis 1:26-28. And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth. So God created man in his own image, in the image of God created he him; male and female created he them. And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
 
-Do not submit a feeling in the place of the Scripture set. Do not submit a seventh doctrine. Do not invent a companion this school does not name. Do not teach Matthew 16 as the rich man. Do not teach Revelation chapter 10 as the two resurrections. Do not reopen 11:7 versus 11:17. Do not make the five prisons the grave. Do not make rapture 2 the second advent. Leaving the first principles is not forgetting them. It is not laying them again once they are laid. Go on unto perfection if God permit. The foundation is six. Week 52 recites them. It does not add a seventh.
+Do not submit a feeling in the place of Scripture. Do not submit a seventh doctrine. Do not invent a companion this school does not name. Do not teach Matthew 16 as the rich man. Do not teach Revelation chapter 10 as the two resurrections. Do not reopen 11:7 versus 11:17. Do not make the five prisons the grave. Do not make rapture 2 the second advent. Leaving the first principles is not forgetting them. It is not laying them again once they are laid. Go on unto perfection if God permit. The foundation is six. Week 52 recites them. It does not add a seventh.
 
 Labour
-The Walk — write the six principles as six tight paragraphs, then the chronology in one, then the five prisons in five sentences, then Question 37–Question 43 from the Scripture set. Same doctrine. Word drill: six / not a seventh / five prisons / who is where / week 52.
+The Walk — write the six principles as six tight paragraphs, then the chronology in one, then the five prisons in five sentences, then Charges 37–43 from these passages. The doctrine is the same. Word drill: six / not a seventh / five prisons / who is where / week 52.
 
-Intensive — write the six as six full pages, the chronology as one page, the five prisons as five pages, then the seven charges. Same cluster. Same doctrine. Do not invent a seventh-principle page. On the charge pages: whosoever; the blotting teaching; death without lungs only; three deaths; dust is the body; who is where; heaven now. No companion. Same doctrine.
+Intensive — write the six as six full pages, the chronology as one page, the five prisons as five pages, then the seven charges. Use the same passages. The doctrine is the same. Do not invent a seventh-principle page. On the charge pages: whosoever; the blotting teaching; death without lungs only; three deaths; dust is the body; who is where; heaven now. No companion. The doctrine is the same.
 
 Distinction
 Week-52 integration of the year vs a seventh doctrine, or completion of activities treated as mastery.
 
 Charge
-Answer Question 37–Question 43 from the Scripture set. Recite the six principles, the chronology map, and the five prisons. Who is where? Do not submit a seventh. Do not submit a companion this school does not name. Do not submit a feeling in the place of the teaching.`,
+Answer Charges 37–43 from these passages. Recite the six principles, the chronology map, and the five prisons. Who is where? Do not submit a seventh. Do not submit a companion this school does not name. Do not submit a feeling in the place of the teaching.`,
   ),
 ];

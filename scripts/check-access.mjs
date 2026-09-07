@@ -182,6 +182,7 @@ const forbiddenCourseCopy = [
   /\b[A-J][0-9]\b/,
   /\bQ[0-9]+\b/,
   /owner file/i,
+  /same cluster/i,
   /source map/i,
   /backend/i,
   /production notes/i,
