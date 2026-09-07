@@ -265,4 +265,29 @@ for (const pattern of forbiddenBaptismsCopy) {
   assert.doesNotMatch(baptismsCopy, pattern, `Course 3 still contains opaque student copy: ${pattern}`);
 }
 
+const handsCopy = readFileSync(new URL("../src/lib/content/course-hands.ts", import.meta.url), "utf8");
+const forbiddenHandsCopy = [
+  /actualiz/i,
+  /fundaments/i,
+  /substantively/i,
+  /gesture-manual/i,
+  /\bfiled\b/i,
+  /stand behind (it|them) before a teacher/i,
+  /practice named/i,
+  /these passages is/i,
+  /these passages holds/i,
+  /question is own/i,
+  /premiere/i,
+  /pillows?/i,
+  /naturalistic/i,
+  /ersatz/i,
+  /religiousism/i,
+  /examination spine/i,
+  /printed verse/i,
+  /printed above/i,
+];
+for (const pattern of forbiddenHandsCopy) {
+  assert.doesNotMatch(handsCopy, pattern, `Course 4 still contains opaque student copy: ${pattern}`);
+}
+
 console.log("access checks passed");
