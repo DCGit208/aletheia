@@ -290,4 +290,29 @@ for (const pattern of forbiddenHandsCopy) {
   assert.doesNotMatch(handsCopy, pattern, `Course 4 still contains opaque student copy: ${pattern}`);
 }
 
+const resurrectionCopy = readFileSync(new URL("../src/lib/content/course-resurrection.ts", import.meta.url), "utf8");
+const forbiddenResurrectionCopy = [
+  /relaid/i,
+  /first sentence under/i,
+  /dropped print/i,
+  /compressed citation/i,
+  /\bspine\b/i,
+  /files it/i,
+  /files this/i,
+  /Peter files/i,
+  /tank-gospel/i,
+  /these passages does/i,
+  /these passages forces/i,
+  /these passages is/i,
+  /these passages holds/i,
+  /material resurrection remains/i,
+  /chronology map/i,
+  /bad print/i,
+  /the print 7:18/i,
+  /the this-life lock/i,
+];
+for (const pattern of forbiddenResurrectionCopy) {
+  assert.doesNotMatch(resurrectionCopy, pattern, `Course 5 still contains opaque student copy: ${pattern}`);
+}
+
 console.log("access checks passed");

@@ -67,17 +67,17 @@ This is Course 5 of Foundation School. One curriculum. The fifth of the six prin
 
 Hebrews 6:1-2. Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God, Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.
 
-The first sentence under the heading gives the teaching: two main kinds — spiritual and material. Spiritual resurrection is the new birth: being quickened from dead in trespasses and sins. Material resurrection is the resurrection of the body, not spirit. If you treat the heading as only a grave, you have already lost this lesson's distinction. If you treat the heading as only a conversion, you have already lost this lesson's distinction.
+The heading gives the teaching: two main kinds — spiritual and material. Spiritual resurrection is the new birth: being quickened from dead in trespasses and sins. Material resurrection is the resurrection of the body, not spirit. If you treat the heading as only a grave, you have already lost this lesson's distinction. If you treat the heading as only a conversion, you have already lost this lesson's distinction.
 
 Ephesians 2:1-6. And you hath he quickened, who were dead in trespasses and sins; Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others. But God, who is rich in mercy, for his great love wherewith he loved us, Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;) And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:
 
 John 5:28-29. Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice, And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.
 
-Spiritual resurrection is now. Dead in trespasses. Quickened together with Christ. Raised up together. Sit in heavenly places. That is spiritual resurrection. It is not the graves of John 5:28-29. Course 1 already named you dead in trespasses and sins. Course 2 named the son. Course 3 baptized that son into Christ. This lesson will not relaid those stones. It will name what they already were: a resurrection, spiritual, in this life.
+Spiritual resurrection is now. Dead in trespasses. Quickened together with Christ. Raised up together. Sit in heavenly places. That is spiritual resurrection. It is not the graves of John 5:28-29. Course 1 already named you dead in trespasses and sins. Course 2 named the son. Course 3 baptized that son into Christ. This lesson will not lay those stones again. It will name what they already were: a resurrection, spiritual, in this life.
 
 Material resurrection concerns the graves. All that are in the graves shall hear His voice and come forth. Two issues: life and damnation. The body comes forth. Not the spirit as if the person were a ghost waiting to be invented. A later lesson will hold John 5. A later lesson will time the two issues by a thousand years. Today you will not steal those lessons. Today you will refuse one slogan that swallows both kinds.
 
-Do not postpone new birth past death and call it resurrection. That offer is refused by this lesson's Scripture. Do not raise the wicked before the Millennium and call it the first resurrection. That flatten is refused when Revelation 20 is opened. Do not flatten five companies into one rapture. Those companies are not this lesson. This lesson is two kinds.
+Do not postpone new birth past death and call it resurrection. That offer is refused by this lesson's Scripture. Do not raise the wicked before the Millennium and call it the first resurrection. That flatten is refused when Revelation 20 is opened. Do not flatten five companies into one rapture. Those later companies are outside this lesson. This lesson is two kinds.
 
 Leaving the first principles is not forgetting them. A man who never received the new birth is not leaving spiritual resurrection when he talks about graves. He is skipping the first kind. Hebrews 6:2 will not let you treat the fifth name as only a future hour.
 
@@ -132,7 +132,7 @@ John 5:25. Verily, verily, I say unto you, The hour is coming, and now is, when 
 
 Write Ephesians 2:1-6. Mark dead, quickened, together with Christ, raised, sit, grace. What was raised? The man who was dead in sins. When? Now — in this life. What is not this text? The graves coming forth. This is spiritual resurrection. Keep it.
 
-By grace ye are saved sits in the same breath as quickened together with Christ. Do not treat grace as a later feeling and quickened as a later grave. The man who walks according to the course of this world, according to the prince of the power of the air, is dead until God quickens him. Children of wrath, even as others — then mercy, love, quickened, raised, sit. That is the new birth named as resurrection. It is not Company 2. It is not the firstfruits of 1 Corinthians 15:20 as if your conversion were Christ’s empty tomb. Christ rose bodily. You were dead in sins and were quickened. Two kinds. Today teach the second sentence as spiritual resurrection.
+By grace ye are saved sits in the same breath as quickened together with Christ. Do not treat grace as a later feeling and quickened as a later grave. The man who walks according to the course of this world, according to the prince of the power of the air, is dead until God quickens him. Children of wrath, even as others — then mercy, love, quickened, raised, sit. That is the new birth named as resurrection. It is not Company 2. It is not the firstfruits of 1 Corinthians 15:20 as if your conversion were Christ’s empty tomb. Christ rose bodily. You were dead in sins and were quickened. Two kinds. Today teach Ephesians 2 as spiritual resurrection.
 
 Labour
 The Walk — one tight page. Write Ephesians 2:1-6. What was the state? What did God do? Why is this not John 5:28-29? Word drill: dead in trespasses / quickened / together with Christ / heavenly places.
@@ -228,13 +228,13 @@ Do not use Ecclesiastes 11:1 for this claim. Aletheia keeps these passages: Hebr
 
 Course 1 already refused Hell-avoidance as if it were metanoia. This lesson refuses a later metanoia after death as if death were a second pulpit. Luke 16 will sit in Course 6 as consequence and gulf. Today these passages are enough: appointed to die; after this the judgment; unjust still; holy still.
 
-When you leave this life, or world, all possibilities of new birth salvation or spiritual resurrection have passed, and are forfeited if you are not yet born again. That is sentence, carried now by these two verses. A man who plans to be quickened after he dies has not heard these passages. A teacher who offers him that plan has left these passages.
+When you leave this life, or world, all possibilities of new birth salvation or spiritual resurrection have passed, and are forfeited if you are not yet born again. That sentence is carried by these two verses. A man who plans to be quickened after he dies has not heard these passages. A teacher who offers him that plan has left these passages.
 
 Write Hebrews 9:27 and Revelation 22:11. Why can new birth not be postponed past death? Once to die; after this the judgment. Unjust still; holy still. What two texts will you refuse as this lock? 1 Corinthians 15:19 — bodily hope, not new-birth timing. Ecclesiastes 11:1 — not in these passages. These two passages are a unit. Keep it a unit.
 
 1 Corinthians 15:19. If in this life only we have hope in Christ, we are of all men most miserable.
 
-Read it here only to refuse it as the proof-text for this lesson. Paul has just said: if the dead rise not, Christ is not raised; preaching vain; faith vain; ye are yet in your sins; they which are fallen asleep in Christ are perished. Miserable is the man whose hope never includes a raised body. That is the teaching for this lesson. It is the opposite of “new birth is only available in this life.” Do not invert him. Do not restore the dropped print to make these passages look like parenthesis. Two verses lock the window. After this the judgment. Still. No new birth after death.
+Read it here only to refuse it as the proof-text for this lesson. Paul has just said: if the dead rise not, Christ is not raised; preaching vain; faith vain; ye are yet in your sins; they which are fallen asleep in Christ are perished. Miserable is the man whose hope never includes a raised body. That is the teaching for this lesson. It is the opposite of “new birth is only available in this life.” Do not invert him. Do not add another text to make this lock look uncertain. Two verses lock the window. After this the judgment. Still. No new birth after death.
 
 Labour
 The Walk — one tight page. Write Hebrews 9:27 and Revelation 22:11. Why can new birth not be postponed past death? Name the two texts that are not this lock. Word drill: once to die / after this the judgment / still / forfeited.
@@ -281,7 +281,7 @@ Marvel not at this. The discourse has already said the Son quickens whom He will
 
 John 5:21. For as the Father raiseth up the dead, and quickeneth them; even so the Son quickeneth whom he will.
 
-Write John 5:28-29. Who comes forth? All that are in the graves. To what two resurrections? Life and damnation. What is raised? The body, not spirit. What hour is not this verse? 5:25 — coming and now is. material resurrection remains the graves. Hold 5:25 without stealing the material-resurrection teaching, and without erasing material resurrection.
+Write John 5:28-29. Who comes forth? All that are in the graves. To what two resurrections? Life and damnation. What is raised? The body, not spirit. What hour is not this verse? 5:25 — coming and now is. Material resurrection remains the graves. Hold 5:25 without stealing the material-resurrection teaching, and without erasing material resurrection.
 
 The Father raiseth up the dead and quickeneth them. The Son quickeneth whom He will. Marvel not — the hour is coming when all that are in the graves shall hear His voice. The sentence is material resurrection: the resurrection of the body, not spirit. Do not preach a spirit-resurrection of the body, as if come forth meant a ghost. Do not preach a second new birth in the dust. They that have done good, unto the resurrection of life — first issue, before the Millennium, when Revelation 20 is opened. They that have done evil, unto the resurrection of damnation — second issue, after the thousand years. John 5 names the two. It does not clock the thousand years. Lesson 5-06 will. Today who comes forth? All. To what two? Life and damnation. What is raised? The body.
 
@@ -322,14 +322,14 @@ Daniel 12:2-3. And many of them that sleep in the dust of the earth shall awake,
 
 John 5:28-29 already named life and damnation. Daniel 12 names sleep in the dust, awake, everlasting life, shame and everlasting contempt; they that be wise shall shine. Revelation 20:4-6 times the first resurrection before a thousand years of reign. Revelation 20:11-15 times the rest of the dead after those years, at the great white throne, unto the lake of fire. That is the doctrine of two bodily resurrections a thousand years apart.
 
-Do not teach Revelation chapter 10 as the resurrection passage. Do not follow a compressed citation into chapter 10. Chapter 10 has eleven verses: seven thunders sealed; a little book; an angel swears that there should be time no longer; thou must prophesy again. Revelation 10:11-15 does not exist. Foundation School teaches Revelation 20:4-6 and 20:11-15. Chapter 10 remains thunders and the little book.
+Do not teach Revelation chapter 10 as the resurrection passage. Revelation 10 has eleven verses: seven thunders sealed; a little book; an angel swears that there should be time no longer; thou must prophesy again. Revelation 10:11-15 does not exist. Foundation School teaches Revelation 20:4-6 and 20:11-15. Chapter 10 remains thunders and the little book.
 
 The rest of the dead lived not again until the thousand years were finished. Do not raise the wicked before the Millennium. Do not make one general rising that erases the thousand years. Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power. They shall be priests of God and of Christ, and shall reign with Him a thousand years. All without Christ are raised together after the Millennium, judged, and cast into the lake of fire forever. Who is not in the first resurrection? The rest of the dead — all out of Christ.
 
-The five companies will later fill the first resurrection. Do not flatten those five into this lesson as if Revelation 20 named only one rapture. Today these passages are two issues and a thousand years. The Millennium will be defined in the next lesson from the Aletheia sentence. Place both issues in the chronology: life before; damnation after.
+The five companies will later fill the first resurrection. Do not flatten those five into this lesson as if Revelation 20 named only one rapture. Today these passages are two issues and a thousand years. The Millennium will be defined in the next lesson from the Aletheia chronology sentence. Place both issues in the chronology: life before; damnation after.
 
 Labour
-The Walk — one tight page. Write Revelation 20:4-6 and 20:11-15. Place both issues on the chronology: who, when, destiny. Why is Revelation 10 not this chapter? Word drill: first resurrection / rest of the dead / thousand years / great white throne.
+The Walk — one tight page. Write Revelation 20:4-6 and 20:11-15. Place both issues on the chronology: who, when, destiny. Why is Revelation 10 not the resurrection chapter? Word drill: first resurrection / rest of the dead / thousand years / great white throne.
 
 Intensive — three pages on the same Scripture set. Page 1: write Revelation 20:4-6, 20:11-15, Daniel 12:2-3, and John 5:28-29 in full. Page 2: two issues, a thousand years — do not raise the wicked early; do not teach chapter 10 as the resurrection passage. Page 3: who is not in the first resurrection; write the general-rising flatten you will refuse. The doctrine is the same.
 
@@ -355,7 +355,7 @@ Read
 Textbook Chapter 6, section VII.
 
 Teaching
-Quote the spine until you can teach it without collapsing any clause:
+Quote the chronology summary until you can teach it without collapsing any clause:
 
 The Millennium is the one thousand years period after the tribulation: the tribulation is 7 years after rapture 2, and rapture 2 is not Second Advent; 2nd advent (coming of Christ with the saints) is after Tribulation, ushering the Millennium: Rev. 6–19.
 
@@ -363,17 +363,17 @@ That sentence is the clarifying line for this school. Foundation School will not
 
 Revelation 20:4-6. And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years. But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection. Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years.
 
-Millennium: one thousand years. After the tribulation. They lived and reigned with Christ a thousand years. Priests of God and of Christ. The rest of the dead wait. The thousand years are not the last judgment. The great white throne is after. Course 6 will open that throne. Today the spine must stand.
+Millennium: one thousand years. After the tribulation. They lived and reigned with Christ a thousand years. Priests of God and of Christ. The rest of the dead wait. The thousand years are not the last judgment. The great white throne is after. Course 6 will open that throne. Today the chronology must stand.
 
 Tribulation: seven years after rapture 2. Revelation 6–19 is the range for that span and for the advent that closes it. Do not start the tribulation before Company 2. Do not start the Millennium at rapture 2. Rapture 2 is not the second advent. Lesson 5-08 will labour that distinction. Lesson 5-09 will open Revelation 19:11-21. Today name the order: rapture 2, then seven years, then advent with the saints, then the thousand years.
 
-Rapture 2 is they that are Christ’s at His coming — receive you unto Myself; escape; changed in a moment. Second advent is coming of Christ with the saints, after tribulation, ushering the Millennium. If you make those one event, Company 4 has nowhere to be saved and return. If you flatten five companies into “the rapture,” the spine has no numbered 2 to sit after.
+Rapture 2 is they that are Christ’s at His coming — receive you unto Myself; escape; changed in a moment. Second advent is coming of Christ with the saints, after tribulation, ushering the Millennium. If you make those one event, Company 4 has nowhere to be saved and return. If you flatten five companies into “the rapture,” the chronology has no numbered 2 to sit after.
 
 Do not raise the wicked in this thousand years. They lived not again until the thousand years were finished. Do not offer new birth after death to fill the tribulation with a second gospel of postponement. Spiritual resurrection remains this life only. The Millennium is not a seventh course. It is the period the fifth principle must name so the two issues and the five companies have a clear order.
 
-Write the spine from memory. What is the Millennium? One thousand years after the tribulation. When is the tribulation? Seven years after rapture 2. What is rapture 2 not? The second advent. What does the advent do? Comes with the saints after tribulation and ushers the Millennium. Rev. 6–19. Keep every clause.
+Write the chronology summary from memory. What is the Millennium? One thousand years after the tribulation. When is the tribulation? Seven years after rapture 2. What is rapture 2 not? The second advent. What does the advent do? Comes with the saints after tribulation and ushers the Millennium. Rev. 6–19. Keep every clause.
 
-Parse the spine as four clauses, not one blur. (1) The Millennium is the one thousand years period after the tribulation. (2) The tribulation is 7 years after rapture 2. (3) Rapture 2 is not Second Advent. (4) 2nd advent — coming of Christ with the saints — is after Tribulation, ushering the Millennium: Rev. 6–19. Drop a clause and the five companies lose their order. Number a single “the rapture” and clause 3 has nothing to deny. Make advent equal rapture 2 and clause 4 is a repeat. Start the thousand years at the escape and clause 1 is false. This lesson quotes that sentence so later lessons rest on it, not on another school.
+Parse the chronology summary as four clauses, not one blur. (1) The Millennium is the one thousand years period after the tribulation. (2) The tribulation is 7 years after rapture 2. (3) Rapture 2 is not Second Advent. (4) 2nd advent — coming of Christ with the saints — is after Tribulation, ushering the Millennium: Rev. 6–19. Drop a clause and the five companies lose their order. Number a single “the rapture” and clause 3 has nothing to deny. Make advent equal rapture 2 and clause 4 is a repeat. Start the thousand years at the escape and clause 1 is false. Keep that sentence clear so later lessons rest on it, not on another school.
 
 Labour
 The Walk — one tight page. Write this lesson summary in full. Then write four short answers: Millennium; tribulation’s seven years; rapture 2 is not; advent ushers. Word drill: after the tribulation / 7 years after rapture 2 / not Second Advent / with the saints.
@@ -421,7 +421,7 @@ If rapture 2 were the advent, Company 4 could not be saved after rapture 2 and s
 State the difference from this sentence: rapture 2 is not Second Advent; 2nd advent (coming of Christ with the saints) is after Tribulation. Write these passages beside these passages until you cannot preach them as one coming. Do not flatten five into one. Do not start the Millennium at the escape. Do not raise the wicked at rapture 2.
 
 Labour
-The Walk — one tight page. State the difference from the Aletheia sentence. Write John 14:3 and Luke 21:36 beside “with the saints.” Word drill: receive you unto Myself / escape / at His coming / not Second Advent.
+The Walk — one tight page. State the difference from the Aletheia chronology sentence. Write John 14:3 and Luke 21:36 beside “with the saints.” Word drill: receive you unto Myself / escape / at His coming / not Second Advent.
 
 Intensive — three pages on the same Scripture set. Page 1: write 1 Corinthians 15:23, 51-54; John 14:1-3; Luke 21:34-36; 2 Corinthians 5:1-8 in full. Page 2: rapture 2 before tribulation — receive, escape, changed; not Revelation 19. Page 3: write the merge you will refuse; why Company 4 requires the distinction. The doctrine is the same.
 
@@ -455,7 +455,7 @@ With the saints. The armies which were in heaven followed Him. Company 4 exists 
 
 This coming is after tribulation. Revelation 6–19 is the span. Seals, trumpets, vials, Babylon — then heaven opened. The Millennium follows: they lived and reigned with Christ a thousand years. The advent ushers that reign. It is not the great white throne. It is not the raising of the rest of the dead. The wicked are not raised here to begin the thousand years. Beast and false prophet go alive to the lake. The rest of the dead wait until the thousand years are finished.
 
-Revelation 19:11-21 is not itself the raising of the dead. This lesson files it as advent with the saints. Company 5 will end the first resurrection in Revelation 11:7-12, still inside the tribulation teaching. Do not steal the two witnesses into this lesson. Do not steal the 144,000. Teach the white horse. Teach the armies. Teach KING OF KINGS. Teach what this coming is not.
+Revelation 19:11-21 is not itself the raising of the dead. This lesson treats it as the advent with the saints. Company 5 will end the first resurrection in Revelation 11:7-12, still inside the tribulation teaching. Do not steal the two witnesses into this lesson. Do not steal the 144,000. Teach the white horse. Teach the armies. Teach KING OF KINGS. Teach what this coming is not.
 
 Write Revelation 19:11-21. Who comes? Faithful and True, the Word of God. With whom? The armies in heaven. After what? Tribulation. Unto what? The Millennium. What is this not? Rapture 2. Receive you unto Myself remains John 14. Escape remains Luke 21. With the saints remains this chapter.
 
@@ -512,22 +512,22 @@ John 20:27. Then saith he to Thomas, Reach hither thy finger, and behold my hand
 
 John 21:12-13. Jesus saith unto them, Come and dine. And none of the disciples durst ask him, Who art thou? knowing that it was the Lord. Jesus then cometh, and taketh bread, and giveth them, and fish likewise.
 
-Redeemer liveth. In my flesh shall I see God. Thy dead men shall live; together with my dead body shall they arise. Isaiah 26:14 is in the teaching: they are dead, they shall not live — the facts include both 14 and 19. Psalm 16:10: soul not left in hell; Holy One not seeing corruption — Peter files it as Christ’s resurrection. John 20–21: handle; dine; flesh and bone as the appearances force. Lively hope by the resurrection. Declared Son of God with power by the resurrection. Planted in the likeness of His death, also of His resurrection. 1 Peter 3:21 remains Course 3’s figure by the resurrection of Jesus Christ; it is listed here as a resurrection fact, not as a second tank-gospel.
+Redeemer liveth. In my flesh shall I see God. Thy dead men shall live; together with my dead body shall they arise. Isaiah 26:14 is in the teaching: they are dead, they shall not live — the facts include both 14 and 19. Psalm 16:10: soul not left in hell; Holy One not seeing corruption — Peter identifies it as Christ’s resurrection. John 20–21: handle; dine; flesh and bone as the appearances force. Lively hope by the resurrection. Declared Son of God with power by the resurrection. Planted in the likeness of His death, also of His resurrection. 1 Peter 3:21 remains Course 3’s figure by the resurrection of Jesus Christ; it is listed here as a resurrection fact, not as a second water-baptism gospel.
 
-15:19 stays in this lesson. If there is no resurrection of the dead, Christ is not raised; faith is vain; the asleep are perished; a hope limited to this life only would make us most miserable. That is bodily hope. It is not this lesson. Do not carry it back to lesson 5-04 as the new-birth lock.
+15:19 stays in this lesson. If there is no resurrection of the dead, Christ is not raised; faith is vain; the asleep are perished; a hope limited to this life only would make us most miserable. That is bodily hope. It is not the timing text for new birth. Do not carry it back to lesson 5-04 as the new-birth lock.
 
 A full set of governing texts, not one proof text. Write Job, Isaiah, Psalm 16, the appearances, Romans, 1 Corinthians 15:12-23. Ground of hope. Do not flatten the teaching into a slogan.
 
 Labour
-The Walk — one tight page. Write Job 19:25-27, Psalm 16:10, and 1 Corinthians 15:19-23. Why does 15:19 belong here and not in these passages? Word drill: in my flesh / Holy One / handle Me / firstfruits / bodily hope.
+The Walk — one tight page. Write Job 19:25-27, Psalm 16:10, and 1 Corinthians 15:19-23. Why does 15:19 belong here and not in the this-life-only lock? Word drill: in my flesh / Holy One / handle Me / firstfruits / bodily hope.
 
-Intensive — three pages on the same Scripture set. Page 1: write Job 19:25-27, Isaiah 26:14, 26:19, Psalm 16:10, Acts 2:27, 31, Romans 1:4, 6:5, 1 Peter 1:3, and 1 Corinthians 15:12-23 in full. Page 2: John 20:27 and 21:12-13 — bodily appearances; 15:19 as bodily hope, not this lesson. Page 3: the teaching is many texts; write the one-verse flatten you will refuse. The doctrine is the same.
+Intensive — three pages on the same Scripture set. Page 1: write Job 19:25-27, Isaiah 26:14, 26:19, Psalm 16:10, Acts 2:27, 31, Romans 1:4, 6:5, 1 Peter 1:3, and 1 Corinthians 15:12-23 in full. Page 2: John 20:27 and 21:12-13 — bodily appearances; 15:19 as bodily hope, not the this-life-only lock. Page 3: the teaching is many texts; write the one-verse flatten you will refuse. The doctrine is the same.
 
 Distinction
 A full set of governing texts vs one proof text, or 15:19 used to time new birth.
 
 Charge
-Write Job 19:25-27, Psalm 16:10, and 1 Corinthians 15:19-23. Why does 15:19 belong here and not in these passages?`,
+Write Job 19:25-27, Psalm 16:10, and 1 Corinthians 15:19-23. Why does 15:19 belong here and not in the this-life-only lock?`,
   ),
   lesson(
     "les-fs-5-11",
@@ -563,7 +563,7 @@ Temporary vs permanent is not a sixth company. Do not mix Lazarus, the widow’s
 
 Write Matthew 9:25 beside 1 Corinthians 15:20-23. Why are they not the same? Took her by the hand; the maid arose — temporary. Christ the firstfruits; afterward they that are Christ’s at His coming — permanent order. Every man in his own order. Do not flatten.
 
-Examples of resurrection are temporary (Matthew 9:25) and Permanent: raised to immortality to live forever in their bodies, Christ the first fruits of all permanent resurrections (1 Corinthians 15:1-23) and the many saints right now in heaven with their bodies after His resurrection (Matthew 27:52-53). These passages hold the contrast. Charge 35 will ask why the maid is not 15:20-23. Answer from these passages: she arose; she is not firstfruits of them that slept; she is not afterward they that are Christ’s at His coming. Do not mix temporary raisings into the five companies. The five are permanent first-resurrection companies. Christ died, was buried, rose the third day, was seen — that gospel is the permanent ground.
+Examples of resurrection are temporary (Matthew 9:25) and permanent: raised to immortality to live forever in their bodies, Christ the first fruits of all permanent resurrections (1 Corinthians 15:1-23) and the many saints right now in heaven with their bodies after His resurrection (Matthew 27:52-53). These passages hold the contrast. Charge 35 will ask why the maid is not 15:20-23. Answer from these passages: she arose; she is not firstfruits of them that slept; she is not afterward they that are Christ’s at His coming. Do not mix temporary raisings into the five companies. The five are permanent first-resurrection companies. Christ died, was buried, rose the third day, was seen — that gospel is the permanent ground.
 
 Labour
 The Walk — one tight page. Write Matthew 9:25 and 1 Corinthians 15:20-23. Why is the maid not the firstfruits harvest? Word drill: the maid arose / firstfruits / them that slept / own order / temporary vs permanent.
@@ -592,7 +592,7 @@ Read
 Textbook Chapter 6, section XII.
 
 Teaching
-The graves were opened; and many bodies of the saints which slept arose, and came out of the graves after His resurrection, and went into the holy city, and appeared unto many. This lesson files this under permanent resurrection and under Company 1. Teach it as Foundation School teaches. Those saints are right now in heaven with their bodies. There is not another Foundation School teaching.
+The graves were opened; and many bodies of the saints which slept arose, and came out of the graves after His resurrection, and went into the holy city, and appeared unto many. This lesson treats this as permanent resurrection and as part of Company 1. Teach it as Foundation School teaches. Those saints are right now in heaven with their bodies. There is not another Foundation School teaching.
 
 Matthew 27:50-53. Jesus, when he had cried again with a loud voice, yielded up the ghost. And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent; And the graves were opened; and many bodies of the saints which slept arose, And came out of the graves after his resurrection, and went into the holy city, and appeared unto many.
 
@@ -600,17 +600,17 @@ Matthew 27:50-53. Jesus, when he had cried again with a loud voice, yielded up t
 
 Ephesians 4:8-10. Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men. (Now that he ascended, what is it but that he also descended first into the lower parts of the earth? He that descended is the same also that ascended up far above all heavens, that he might fill all things.)
 
-Bodies. Many bodies of the saints which slept arose. Not spirits as if the grave had released ghosts. Came out after His resurrection. Went into the holy city. Appeared unto many. The appearances were bodily enough to be seen. The next sentence is Foundation School’s sentence: the many saints right now in heaven with their bodies after His resurrection.
+Bodies. Many bodies of the saints which slept arose. Not spirits as if the grave had released ghosts. Came out after His resurrection. Went into the holy city. Appeared unto many. The appearances were bodily enough to be seen. Foundation School teaches that the many saints are right now in heaven with their bodies after His resurrection.
 
 Do not treat this as Matthew 9:25. The maid arose and would die again. These saints arose after His resurrection as permanent firstfruits company, not as a temporary sign that later re-enters the dust. Do not postpone them into Company 2. They that are Christ’s at His coming are afterward in His order. These already came out after His resurrection. Company 1 begins the first resurrection. Lesson 5-13 will name the company. Today lock the location and the body: now in heaven, with bodies.
 
-Led captivity captive. He descended first into the lower parts of the earth. He ascended. Course 6 will say Paradise is now empty of the righteous. This lesson will not steal that prison teaching. It will not invent another destination for these bodies. Heaven with their bodies is what this lesson said. Teach it. Do not hedge it into a memorial. Do not send them back to dust to protect a theory Foundation School does not teach.
+Led captivity captive. He descended first into the lower parts of the earth. He ascended. Course 6 will say Paradise is now empty of the righteous. This lesson will not steal that prison teaching. It will not invent another destination for these bodies. Heaven with their bodies is the teaching here. Teach it. Do not hedge it into a memorial. Do not send them back to dust to protect a theory Foundation School does not teach.
 
 Yielded up the ghost. Veil rent. Earth quake. Rocks rent. Graves opened. Bodies arose. After His resurrection they came out, went into the holy city, appeared unto many. Right now in heaven with their bodies. Write Matthew 27:52-53. What arose? Bodies. When? After His resurrection. Where are they now, as Foundation School teaches? In heaven, with their bodies. That is the teaching for this lesson. There is not another Foundation School teaching.
 
-Use the Aletheia wording: the many saints right now in heaven with their bodies after His resurrection (Matthew 27:52-53). Teach as Foundation School teaches. Do not say they later died again. Do not say they wait in dust for Company 2. Do not say they are spirits without bodies. Many bodies of the saints which slept arose. Came out of the graves after His resurrection. Went into the holy city. Appeared unto many. Now in heaven with their bodies. Firstfruits company has already begun. Lesson 5-13 will name Company 1 as Christ and these saints. Today the location and the body are the charge. If another school sends them back to the grave, that school is not this one.
+Use this wording exactly: the many saints right now in heaven with their bodies after His resurrection (Matthew 27:52-53). Teach as Foundation School teaches. Do not say they later died again. Do not say they wait in dust for Company 2. Do not say they are spirits without bodies. Many bodies of the saints which slept arose. Came out of the graves after His resurrection. Went into the holy city. Appeared unto many. Now in heaven with their bodies. Firstfruits company has already begun. Lesson 5-13 will name Company 1 as Christ and these saints. Today the location and the body are the charge. If another school sends them back to the grave, that school is not this one.
 
-Appeared unto many is written so you will not call the rising a private vision. Bodies were seen in the holy city after His resurrection. Right now in heaven with their bodies is present tense. Permanent, not temporary. these passages are locked. There is not another Foundation School teaching.
+Appeared unto many is written so you will not call the rising a private vision. Bodies were seen in the holy city after His resurrection. Right now in heaven with their bodies is present tense. Permanent, not temporary. These passages are settled. There is not another Foundation School teaching.
 
 Labour
 The Walk — one tight page. Write Matthew 27:52-53. What arose? When? Where are they now, as Foundation School teaches? Word drill: many bodies / after his resurrection / holy city / now in heaven with their bodies.
@@ -655,7 +655,7 @@ Own order. Christ the firstfruits. Afterward — later — they that are Christ�
 
 Led captivity captive. Descended first. Ascended. Gifts unto men. The descent and ascent sit in these passages because they belong with Company 1. Do not turn the parenthesis into a sixth company. Do not empty Paradise here as if this were Course 6. Hold the three texts. Christ risen. Many bodies. Captivity captive.
 
-The first resurrection is not one day with one slogan. Company 1 is past. Company 2 is future, before tribulation. Companies 3–5 are in the tribulation. The wicked are not in this company. Do not raise them before the Millennium to keep Company 1 company. Blessed and holy is he that hath part in the first resurrection — that part begins here and is not finished here.
+The first resurrection is not one day with one slogan. Company 1 is past. Company 2 is future, before tribulation. Companies 3–5 are in the tribulation. The wicked are not in this company, and they are not raised before the Millennium. Blessed and holy is he that hath part in the first resurrection — that part begins here and is not finished here.
 
 Write the three texts. Name Company 1: who, when, texts. What begins? The first resurrection. What is this not? Rapture 2. What flatten will you refuse? Five into one. Advent as this beginning. Wicked raised with these saints.
 
@@ -747,7 +747,7 @@ Who? 144,000 Jews, servants sealed, twelve thousand from each tribe named. When?
 
 Still first resurrection. Blessed and holy is he that hath part. Do not invent a second first resurrection for Israel. Do not push these 144,000 into rapture 2 so that tribulation has no sealed servants. Do not wait to seal them at Revelation 19. First half. Four winds held. Seal first. Then the hurt.
 
-Revelation 7:18 does not exist. If you cite it, you have followed a bad print. 7:1-8 is the sealing and the tribes. 7:9-17: a great multitude which no man could number, of all nations, stood before the throne — that multitude is not this company. Lesson 5-16 will take tribulation saints after rapture 2 from Revelation 6:1–19:21. Today keep 7:1-8.
+Revelation 7:18 does not exist. If you cite it, you have followed a bad citation. 7:1-8 is the sealing and the tribes. 7:9-17: a great multitude which no man could number, of all nations, stood before the throne — that multitude is not this company. Lesson 5-16 will take tribulation saints after rapture 2 from Revelation 6:1–19:21. Today keep 7:1-8.
 
 Five remain five. Company 3 does not swallow 4. Company 3 does not become “the rapture.” The wicked are not sealed here unto life as if this were the rest of the dead. New birth in the tribulation is still in this life for those living then. It is not offered to the man who already died without Christ.
 
@@ -758,7 +758,7 @@ The 144,000 Jews are saved in the first half of the Tribulation. The correct pas
 Labour
 The Walk — one tight page. Write the number, the tribes, and the time. Why is the address 7:1-8 and not 7:18? Word drill: 144,000 / sealed / first half / tribes of Israel / not 7:18.
 
-Intensive — three pages on the same Scripture set. Page 1: write Revelation 7:1-8 in full; mark winds, seal, number, each tribe. Page 2: first half of tribulation; still first resurrection; not rapture 2; not 7:9-17. Page 3: the print 7:18 is refused; write the flatten you will not teach. The doctrine is the same.
+Intensive — three pages on the same Scripture set. Page 1: write Revelation 7:1-8 in full; mark winds, seal, number, each tribe. Page 2: first half of tribulation; still first resurrection; not rapture 2; not 7:9-17. Page 3: the 7:18 citation is refused; write the flatten you will not teach. The doctrine is the same.
 
 Distinction
 144,000 (7:1-8, first half) vs the multitude (7:9-17), rapture 2, or a verse that does not exist.
@@ -874,7 +874,7 @@ This lesson is the examination of the principle, not a new doctrine. You should 
 
 Hebrews 6:1-2. Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God, Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.
 
-This lesson summary. The Millennium is the one thousand years period after the tribulation: the tribulation is 7 years after rapture 2, and rapture 2 is not Second Advent; 2nd advent (coming of Christ with the saints) is after Tribulation, ushering the Millennium: Rev. 6–19.
+Summary: the Millennium is the one thousand years period after the tribulation: the tribulation is 7 years after rapture 2, and rapture 2 is not Second Advent; 2nd advent (coming of Christ with the saints) is after Tribulation, ushering the Millennium: Rev. 6–19.
 
 1. Two main kinds. Spiritual: new birth, Ephesians 2:1-6. Material: the body, John 5:28-29. Do not flatten them.
 2. Renewed in likeness — Ephesians 4:21-24; Colossians 3:10; 1 John 3:9. Still this life.
@@ -888,7 +888,7 @@ This lesson summary. The Millennium is the one thousand years period after the t
 10. Five raptures in the first resurrection. Company 1: Christ and the many saints — begins. Company 2: they that are Christ’s at His coming — rapture 2. Company 3: 144,000, Revelation 7:1-8, first half. Company 4: multitude after rapture 2, return with Christ. Company 5: two witnesses, Revelation 11:7-12 — ends. Do not flatten five into one. Do not make advent equal rapture 2.
 11. All without Christ raised after the Millennium, judged, lake of fire. Who is not in the first resurrection? The rest of the dead.
 
-Charge 29: two main kinds — separate spiritual from material in one page a babe can follow. Charge 30: why can new birth not be postponed past death? Use the forfeiture Scripture set as a unit — Hebrews 9:27 and Revelation 22:11 only. Charge 31: John 5:28-29 — who comes forth? To what two resurrections? Charge 32: a thousand years between the two — place both issues on the chronology map. Charge 33: rapture 2 is not second advent — state the difference from this sentence. Charge 34: five raptures in the first resurrection — name who, when, and the texts; do not merge 2 and the advent. Charge 35: temporary vs permanent — why is Matthew 9:25 not the same as 1 Corinthians 15:20-23? Charge 36: all without Christ raised after the Millennium — who is not in the first resurrection?
+Charge 29: two main kinds — separate spiritual from material in one page a babe can follow. Charge 30: why can new birth not be postponed past death? Use the forfeiture Scripture set as a unit — Hebrews 9:27 and Revelation 22:11 only. Charge 31: John 5:28-29 — who comes forth? To what two resurrections? Charge 32: a thousand years between the two — place both issues on the chronology. Charge 33: rapture 2 is not second advent — state the difference from this sentence. Charge 34: five raptures in the first resurrection — name who, when, and the texts; do not merge 2 and the advent. Charge 35: temporary vs permanent — why is Matthew 9:25 not the same as 1 Corinthians 15:20-23? Charge 36: all without Christ raised after the Millennium — who is not in the first resurrection?
 
 Companion *Millennium* is directed, not a seventh course. Foundation School assigns named companion sections when they are assigned. Completing Course 5 does not wait on finishing that whole volume, and that volume does not become a seventh principle. Companions are not a seventh course. Thinking Eternity is back-list, not Year-1. The next principle is eternal judgment. This examination is not that chapter.
 
@@ -897,7 +897,7 @@ Recite the chronology: Company 1 past; Company 2 before tribulation; seven years
 Do not flatten five into one rapture. Do not make advent equal rapture 2. Do not raise the wicked before the Millennium. Do not offer new birth after death. Completing activities is not mastery. The teaching is two kinds, two issues, five companies, the summary.
 
 Labour
-The Walk — write Charge 29–Charge 36 as eight tight paragraphs, then the spine from memory. The doctrine is the same. Word drill: two kinds / this life only / thousand years / five companies / not the advent.
+The Walk — write Charge 29–Charge 36 as eight tight paragraphs, then the chronology summary from memory. The doctrine is the same. Word drill: two kinds / this life only / thousand years / five companies / not the advent.
 
 Intensive — three pages on the same Scripture set, then the eight charges. Page 1: two kinds, the forfeiture texts, John 5, Revelation 20 — not chapter 10. Page 2: the resurrection summary; rapture 2 is not the advent; governing resurrection texts; temporary vs permanent; Matthew 27 now in heaven with bodies. Page 3: five companies — who, when, texts; who is not in the first resurrection; *Millennium* directed, not a seventh course. The doctrine is the same. Do not invent a seventh company to fill a page.
 
