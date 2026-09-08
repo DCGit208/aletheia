@@ -2,7 +2,7 @@ export const textbookChapter6Title = "Resurrection of the Dead";
 
 export const textbookChapter6Body = `Hebrews 6:2 — “Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.”
 
-This teaching opens this principle with two kinds. Not one slogan. Not a mood about “going to heaven.” Two kinds. Then two material issues a thousand years apart. Then five companies inside the first of those issues. Then a spine sentence you will not flatten.
+This teaching opens this principle with two kinds. Not one slogan. Not a mood about “going to heaven.” Two kinds. Then two material issues a thousand years apart. Then five companies inside the first of those issues. Then a core sentence you will not flatten.
 
 Hands were resultant. This stone is not a feeling after hands. It is the raising the writing already named: first the man from death in trespasses, in this life only; then the body from the grave, in its hour, in its company, in its issue.
 
@@ -20,7 +20,7 @@ Spiritual resurrection is the new birth: being quickened — revived — from de
 
 Material resurrection is the resurrection of the body, not spirit. The graves. The voice. Two issues. A thousand years between them.
 
-Hold the cluster already. Ephesians 2:1-6; Ephesians 4:21-24; Colossians 3:10; 1 John 3:9 name the spiritual kind. John 5:28-29 names the material kind. Revelation 20 times the two material issues. Daniel 12 stands with them. The facts-file grounds the hope of the flesh. The five companies fill the first material rising. The spine sentence keeps the hours from collapsing.
+Hold the Scripture set already. Ephesians 2:1-6; Ephesians 4:21-24; Colossians 3:10; 1 John 3:9 name the spiritual kind. John 5:28-29 names the material kind. Revelation 20 times the two material issues. Daniel 12 stands with them. The Scripture facts grounds the hope of the flesh. The five companies complete the first material rising. The core sentence keeps the order from collapsing.
 
 Distinction. Spiritual is not a poetic name for the body’s rising. Material is not a late name for new birth. A man may be quickened now and still wait for the grave to give his body. A corpse may be raised later who was never quickened here. The kinds do not trade places.
 
@@ -50,7 +50,7 @@ Who speaks? Paul, to saints, and to you if you are in that same Christ. To whom?
 
 Quickened is revived. The raising here is together with Him, now — not the later hour when all that are in the graves hear His voice.
 
-Context. Course 1 already opened this cluster as the only way. The same verses return under another name. Spiritual resurrection is that new birth. It is not a second conversion invented for a later course.
+Context. Course 1 already opened this Scripture set as the only way. The same verses return under another name. Spiritual resurrection is that new birth. It is not a second conversion invented for a later course.
 
 Cluster. Ephesians 2:1-6 with Ephesians 4:21-24, Colossians 3:10, and 1 John 3:9. This six opens the death and the quickening. The three open likeness.
 
@@ -84,7 +84,7 @@ Ye have put on the new man, renewed in knowledge after the image of Him that cre
 
 1 John 3:9 — “Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.”
 
-Born of God. Seed remaineth. This teaching sets this in the spiritual-resurrection cluster, not as a later slogan you may empty. The birth is the rising.
+Born of God. Seed remaineth. This teaching sets this in the spiritual-resurrection Scripture set, not as a later slogan you may empty. The birth is the rising.
 
 Cluster. Ephesians 4:21-24; Colossians 3:10; 1 John 3:9 with Ephesians 2:1-6. Quickened men put on what God created.
 
@@ -116,13 +116,13 @@ Unjust still. Filthy still. Righteous still. Holy still. The still is not encour
 
 Cluster. Hebrews 9:27 and Revelation 22:11. That is the forfeiture file. Two verses. Use them as a unit. Do not add a proverb the school has dropped. Do not drag 1 Corinthians 15:19 across this door.
 
-1 Corinthians 15:19 will be taught in the facts-file and in the hope of the body, where Paul set it. Hear the warning now so you do not misuse it later.
+1 Corinthians 15:19 will be taught in the Scripture facts and in the hope of the body, where Paul set it. Hear the warning now so you do not misuse it later.
 
 1 Corinthians 15:19 — “If in this life only we have hope in Christ, we are of all men most miserable.”
 
 Paul is not defining new birth. He is proving material resurrection. If there is no resurrection of the dead, Christ is not raised; preaching and faith are vain; the dead in Christ are perished. If hope in Christ were limited to this present life only — no bodily rising — we would be the most miserable of men.
 
-This teaching printed 15:19 beside “only in this life” for the spiritual kind. This school will not make that print teach the opposite of Paul’s argument. Forfeiture stands on Hebrews 9:27 and Revelation 22:11. Bodily hope stands on 15:12-19. 15:19 stays there.
+This teaching places 15:19 beside “only in this life” for the spiritual kind. This school will not make that print teach the opposite of Paul’s argument. Forfeiture stands on Hebrews 9:27 and Revelation 22:11. Bodily hope stands on 15:12-19. 15:19 stays there.
 
 Distinction. This-life window for new birth is not this-life-only hope in Christ. Do not preach 15:19 as “no new birth after death.” Do not preach Hebrews 9:27 as if it cancelled the body’s rising.
 
@@ -168,13 +168,13 @@ VI. TWO ISSUES — REVELATION 20
 
 There are two physical, bodily issues: first, the righteous to life before the Millennium; and the wicked — unsaved, unregenerate — to damnation, the lake of fire, after the Millennium. A thousand years between the two.
 
-John 5 named the two issues. Revelation 20 times them. Daniel 12 stands in the same file. That is the doctrine’s carrying cluster. You will not build the two-resurrection doctrine from Revelation 10.
+John 5 named the two issues. Revelation 20 times them. Daniel 12 stands in the same Scripture set. That is the doctrine’s carrying Scripture set. You will not build the two-resurrection doctrine from Revelation 10.
 
 Daniel 12:2 — “And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.”
 
 Daniel 12:3 — “And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.”
 
-Sleep in the dust. Awake. Some to everlasting life. Some to shame and everlasting contempt. This teaching printed 12:3 with this file. 12:2 is the waking the 12:3 shining assumes. Dust is body. Awake is material. Two issues again.
+Sleep in the dust. Awake. Some to everlasting life. Some to shame and everlasting contempt. This teaching places 12:3 with this lesson. 12:2 is the waking the 12:3 shining assumes. Dust is body. Awake is material. Two issues again.
 
 Revelation 20:4 — “And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years.”
 
@@ -182,7 +182,7 @@ Revelation 20:5 — “But the rest of the dead lived not again until the thousa
 
 Revelation 20:6 — “Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years.”
 
-The printed “Rev. 20:46” is 20:4-6. Chapter 20 has no verse 46. You will teach 20:4-6. All who have part in the first resurrection rule with Christ from the Millennium.
+The correct reference is Revelation 20:4-6. Chapter 20 has no verse 46. You will teach 20:4-6. All who have part in the first resurrection rule with Christ from the Millennium.
 
 Revelation 20:10 — “And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever.”
 
@@ -198,7 +198,7 @@ Revelation 20:15 — “And whosoever was not found written in the book of life 
 
 This is the resurrection of damnation timed. The wicked are raised together after the Millennium, judged, and cast into the lake of fire, forever. They are not raised before the thousand years. The rest of the dead lived not again until the thousand years were finished.
 
-The Millennium is not the last judgment. The last judgment in this file is the great white throne after the thousand years.
+The Millennium is not the last judgment. The last judgment in this lesson is the great white throne after the thousand years.
 
 Do not place the two bodily resurrections in Revelation 10. The thousand years between them is Revelation 20:4-6, sitting with Daniel 12:3 and John 5:28-29.
 
@@ -232,13 +232,13 @@ VII. THE SPINE SENTENCE
 
 The Millennium is the one thousand years period after the tribulation: the tribulation is seven years after rapture 2, and rapture 2 is not the second advent; the second advent — coming of Christ with the saints — is after tribulation, ushering the Millennium: Revelation 6–19.
 
-That sentence is the spine of this chapter. You will learn it as a spine, not as a slogan you may rearrange.
+That sentence is the core of this chapter. You will learn it as a doctrinal order, not as a slogan you may rearrange.
 
 Millennium is the one thousand years after the tribulation. It is not a present metaphor for a successful church. It is not the last judgment. It is the period in which they that have part in the first resurrection live and reign with Christ, as 20:4-6 already said.
 
 Tribulation here is seven years after rapture 2. The seven is the number. The after is the order. You will not invert it to make tribulation the waiting room from which rapture 2 collects the church.
 
-Rapture 2 is not the second advent. The page says so in the same breath. If you make them one coming, the spine snaps, Company 4 has no “come back with,” and “with the saints” becomes the same motion as “receive you unto Myself.”
+Rapture 2 is not the second advent. The page says so in the same breath. If you make them one coming, the order collapses, Company 4 has no “come back with,” and “with the saints” becomes the same motion as “receive you unto Myself.”
 
 Second advent is the coming of Christ with the saints, after tribulation, ushering the Millennium. The range the page gives for that span of judgment-and-return is Revelation 6–19. The appearing that closes the span is 19:11-21. You will open that appearing in section IX. You will not call 19:11 rapture 2.
 
@@ -248,13 +248,13 @@ Company 1 past — first resurrection begins. This age — spiritual resurrectio
 
 Distinction. Rapture 2 starts the seven. Advent ends the seven and ushers the thousand. Millennium is after tribulation, not a name for the throne.
 
-Principle. The spine is locked. Millennium after tribulation. Tribulation seven years after rapture 2. Rapture 2 is not the second advent. Advent with the saints after tribulation ushers the Millennium. Range: Revelation 6–19.
+Principle. The order is fixed. Millennium after tribulation. Tribulation seven years after rapture 2. Rapture 2 is not the second advent. Advent with the saints after tribulation ushers the Millennium. Range: Revelation 6–19.
 
 Reasoning. If rapture 2 were the advent, the tribulation could not be seven years after rapture 2 while the advent is after tribulation. Receive unto Himself before. With the saints after.
 
-Application. Recite the spine before you recite a favourite preacher. Do not ask only “rapture or tribulation first?” Five companies hang on this sentence. Revelation 20 hangs after it.
+Application. Recite the order before you recite a favourite preacher. Do not ask only “rapture or tribulation first?” Five companies hang on this sentence. Revelation 20 hangs after it.
 
-Charge. Write the spine from memory. If you merged rapture 2 and the advent, separate them. If you made the Millennium the throne, put the throne after the thousand years.
+Charge. Write the order from memory. If you merged rapture 2 and the advent, separate them. If you made the Millennium the throne, put the throne after the thousand years.
 
 VIII. RAPTURE 2 IS NOT THE SECOND ADVENT
 
@@ -290,7 +290,7 @@ Reasoning. If tribulation is seven years after rapture 2, and the advent is afte
 
 Application. Say rapture 2 when you mean Company 2. Say advent when you mean 19:11-21. Let Companies 1, 3, 4, and 5 keep their hours.
 
-Charge. State the difference from the spine. Write John 14:1-3 and Luke 21:34-36 in full. Keep them on rapture 2’s side of the seven.
+Charge. State the difference from the core order. Write John 14:1-3 and Luke 21:34-36 in full. Keep them on rapture 2’s side of the seven.
 
 IX. THE ADVENT WITH THE SAINTS
 
@@ -336,7 +336,7 @@ Charge. Write Revelation 19:11-21 in full. Who follows? What is ushered in chapt
 
 X. FACTS-FILE
 
-This teaching does not leave the body as a late surprise. It keeps a facts-file. Not one proof text. A file.
+This teaching does not leave the body as a late surprise. It keeps a Scripture facts. Not one proof text. A file.
 
 Job 19:25 — “For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:”
 
@@ -552,7 +552,7 @@ Distinction. Company 1 is not Company 2. Firstfruits is not “they that are Chr
 
 Principle. The first resurrection begins with Christ and the many saints resurrected after Him. 1 Corinthians 15:20, 23; Matthew 27:52-53; Ephesians 4:8-10.
 
-Reasoning. If the first resurrection begins here, it cannot be a single future moment. It is a harvest with firstfruits, then order, then later companies, then an ending with the two witnesses. A harvest that starts and ends at one trumpet you invented is not this file.
+Reasoning. If the first resurrection begins here, it cannot be a single future moment. It is a harvest with firstfruits, then order, then later companies, then an ending with the two witnesses. A harvest that starts and ends at one trumpet you invented is not this lesson.
 
 Application. You will date Company 1 in the past without dragging the other four into the past. You will let 15:23’s afterward remain afterward.
 
@@ -608,7 +608,7 @@ XV. COMPANY 3 — THE HUNDRED FORTY AND FOUR THOUSAND
 
 Company 3: the hundred and forty and four thousand Jews, saved in the first half of the tribulation. Still first resurrection. Not rapture 2. Not the advent.
 
-The page printed Revelation 7:18. Chapter 7 has seventeen verses. The owner has locked the text: Revelation 7:1-8 only for this company. You will not teach 7:18. You will not make 7:9-17 the hundred forty and four thousand. 7:9-17 is a great multitude of all nations — that file belongs with Company 4, not with the sealing of Israel’s tribes.
+The assigned reference listed Revelation 7:18. Chapter 7 has seventeen verses. The course uses the text: Revelation 7:1-8 only for this company. You will not teach 7:18. You will not make 7:9-17 the hundred forty and four thousand. 7:9-17 is a great multitude of all nations — that teaching belongs with Company 4, not with the sealing of Israel’s tribes.
 
 Revelation 7:1 — “And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree.”
 
@@ -628,7 +628,7 @@ Revelation 7:8 — “Of the tribe of Zabulon were sealed twelve thousand. Of th
 
 First half of the tribulation. After rapture 2. Still first resurrection — another sheaf, not the wicked.
 
-Distinction. 7:1-8 is not 7:9-17. Printed 7:18 is a bad print.
+Distinction. 7:1-8 is not 7:9-17. Revelation 7 has no verse 18; use Revelation 7:1-8 for this point.
 
 Principle. Company 3 is 144,000 Jews, first half, Revelation 7:1-8 only.
 
@@ -710,28 +710,28 @@ Five companies in the first resurrection. 1 Past: Christ and the many saints —
 
 Refuse, in writing, the five flattenings this chapter will not carry: one rapture swallowing 1–5; advent treated as rapture 2; Millennium treated as the last judgment; the wicked raised before the Millennium; new birth offered after death.
 
-Q29. Separate spiritual from material in one page a babe can follow.
+Charge 29. Separate spiritual from material in one page a babe can follow.
 
-Q30. Why can new birth not be postponed past death? Use Hebrews 9:27 and Revelation 22:11 as a unit. Keep 15:19 with bodily hope.
+Charge 30. Why can new birth not be postponed past death? Use Hebrews 9:27 and Revelation 22:11 as a unit. Keep 15:19 with bodily hope.
 
-Q31. John 5:28-29: who comes forth, to what two resurrections?
+Charge 31. John 5:28-29: who comes forth, to what two resurrections?
 
-Q32. A thousand years between the two: place both issues on the chronology.
+Charge 32. A thousand years between the two: place both issues on the chronology.
 
-Q33. Rapture 2 is not the second advent: state the difference from the spine sentence.
+Charge 33. Rapture 2 is not the second advent: state the difference from the core sentence.
 
-Q34. Five raptures in the first resurrection: name who, when, and the texts. Do not merge 2 and the advent.
+Charge 34. Five raptures in the first resurrection: name who, when, and the texts. Do not merge 2 and the advent.
 
-Q35. Temporary versus permanent: why Matthew 9:25 is not 1 Corinthians 15:20-23.
+Charge 35. Temporary versus permanent: why Matthew 9:25 is not 1 Corinthians 15:20-23.
 
-Q36. All without Christ raised after the Millennium: who is not in the first resurrection?
+Charge 36. All without Christ raised after the Millennium: who is not in the first resurrection?
 
 This teaching marked further reading: Millennium.
 
-Millennium is a companion volume, not a seventh course, not a seventh principle, not a substitute for Hebrews 6:2. Directed sections when the book is in your hand — the thousand years, the reign, the binding that Course 6 will name as the abyss — not an assignment to finish every page of a library before you may close this chapter. Completing this stone does not require purchasing the whole first wave. Completing this stone does require the spine, the two kinds, the two issues, and the five companies without flattening.
+Millennium is a companion volume, not a seventh course, not a seventh principle, not a substitute for Hebrews 6:2. Directed sections when the book is in your hand — the thousand years, the reign, the binding that Course 6 will name as the abyss — not an assignment to finish every page of a library before you may close this chapter. Completing this stone does not require purchasing the whole first wave. Completing this stone does require the core order, the two kinds, the two issues, and the five companies without flattening.
 
 An Intensive student writes longer. A Walk student writes the same doctrine shorter. The chronology does not change with the clock.
 
 The next chapter opens eternal judgment: eternal punishment, the book of life, three deaths, five prisons, none identical with the grave. This chapter will not steal that file.
 
-Write the spine. Write the five. Write the two kinds. Then teach a babe without flattening. That is the charge of resurrection of the dead.`;
+Write the order. Write the five. Write the two kinds. Then teach a babe without flattening. That is the charge of resurrection of the dead.`;

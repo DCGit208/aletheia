@@ -29,21 +29,21 @@ export const repentanceModules = [
     courseId: "course-fs-repentance" as const,
     number: 1,
     title: "The oracles",
-    description: "Scripture as governing authority; babes, study labour, and the six first principles. Textbook Chapter 1.",
+    description: "Scripture as governing authority; babes, study labour, and the six first principles. Reference: school handbook, Chapter 1.",
   },
   {
     id: "mod-fs-1-metanoia",
     courseId: "course-fs-repentance" as const,
     number: 2,
     title: "Metanoia and the two old things",
-    description: "Repentance over sin and its cause, not fear of consequence alone. Textbook Chapter 2.",
+    description: "Repentance over sin and its cause, not fear of consequence alone. Reference: school handbook, Chapter 2.",
   },
   {
     id: "mod-fs-1-christ",
     courseId: "course-fs-repentance" as const,
     number: 3,
     title: "Christ the way",
-    description: "The blood of Christ, the new creature, and receiving Him. Textbook Chapter 2.",
+    description: "The blood of Christ, the new creature, and receiving Him. Reference: school handbook, Chapter 2.",
   },
 ];
 
@@ -60,8 +60,8 @@ Holy Writ — the graphē — is the primary authority for hearing from God and 
 Key Scripture
 John 10:35 — the scripture cannot be broken.
 
-Read
-Textbook Chapter 1, sections I–II.
+Reference
+School handbook, Chapter 1, sections I–II.
 
 Teaching
 Holy Writ is writings or sayings of unchallenged, unquestionable authority. The Lord Jesus answered a charge of blasphemy by appeal to that which was written. He would not let men set His person against the Scripture.
@@ -115,8 +115,8 @@ There is a time when you ought to be teachers. Milk after that time is a recessi
 Key Scripture
 Hebrews 5:11-12.
 
-Read
-Textbook Chapter 1, sections III and X.
+Reference
+School handbook, Chapter 1, sections III and X.
 
 Teaching
 The writer had hard things to utter concerning the Son. He could not, because they were dull of hearing. The fault was not in the doctrine. The fault was in the ear.
@@ -166,15 +166,15 @@ Unskill here is inexperience in the word of righteousness, not lack of church ac
 Key Scripture
 Hebrews 5:13 — every one that useth milk is unskilful (apeiros) in the word of righteousness.
 
-Read
-Textbook Chapter 1, section IV.
+Reference
+School handbook, Chapter 1, section IV.
 
 Teaching
 Hebrews 5:13 — “For every one that useth milk is unskilful in the word of righteousness: for he is a babe.”
 
 Unskilful is Greek apeiros: inexperienced, that is, ignorant — unskilful. The inexperience is not in crowding a meeting. It is in the word of righteousness. The verse will not let you hide unskill behind a calendar of services. A man may be present every week and still be apeiros. An organization may be age-old and still be apeiros.
 
-Hear the severity: when sound judgment is absent and unskill remains, dryness and doctrinal shifting appear among persons and even among age-old organizations that appear Christianized. What follows can be damnable heresies accepted as doctrines. That sentence is not an insult to fill a page. It is a diagnosis of what unskill breeds. Dryness appears where the word should have been. Doctrinal shifting appears when a people will not sit down under the text and therefore cannot stay with a doctrine.
+Hear the severity: when sound judgment is absent and unskill remains, dryness and doctrinal shifting appear among persons and even among age-old organizations that appear Christianized. What follows can be damnable heresies accepted as doctrines. That sentence is not an insult to make the lesson longer. It is a diagnosis of what unskill breeds. Dryness appears where the word should have been. Doctrinal shifting appears when a people will not sit down under the text and therefore cannot stay with a doctrine.
 
 That lack of skill is blamed on failure to take Scripture seriously enough to know it and align with it. A digital Bible or a printed Bible does not help if there is no labour. The cure is not a louder room. The cure is labour in the word.
 
@@ -186,7 +186,7 @@ Hebrews 5:12 has already said they have need that one teach them again which be 
 
 The chain is severe and it is exact. Absence of sound judgment plus presence of unskilfulness produces dryness and doctrinal shifting. Dryness is a people empty of the oracles while they still speak Christian language. Doctrinal shifting is a people who will not stay with a doctrine because they never knew the Scriptures that would have held them. Damnable accepted heresies called doctrines follow that unskill. An age-old organization can wear the name and still be that chain.
 
-Format is not the issue. A man with a phone full of Bibles can be apeiros. A man with a worn printed Bible and no labour can be apeiros. The serious study Scripture requires is not the same as a degree. It is knowing what is written and aligning with it. The cure is labour in the word. The next lessons will name that labour spoudazō and word drill. This lesson will not let you substitute a crowded room for that labour.
+Format is not the issue. A man with a phone full of Bibles can be ἄπειρος (apeiros), unskilled. A man with a worn printed Bible and no labour can be ἄπειρος (apeiros), unskilled. The serious study Scripture requires is not the same as a degree. It is knowing what is written and aligning with it. The cure is labour in the word. The next lessons will name that labour spoudazō and word drill. This lesson will not let you substitute a crowded room for that labour.
 
 Name the hour. Name the text. If you cannot, you are not yet a workman, however present you have been.
 
@@ -217,8 +217,8 @@ A babe is dull of hearing and unskilled in the Word, which is the basis for salv
 Key Scripture
 Hebrews 5:11 and 5:13.
 
-Read
-Textbook Chapter 1, section V.
+Reference
+School handbook, Chapter 1, section V.
 
 Teaching
 Hebrews 5:11 — “Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.” Hebrews 5:13 — “For every one that useth milk is unskilful in the word of righteousness: for he is a babe.”
@@ -271,8 +271,8 @@ Study is labour. Approval here is the approval of a workman who rightly divides 
 Key Scripture
 2 Timothy 2:15.
 
-Read
-Textbook Chapter 1, section VI.
+Reference
+School handbook, Chapter 1, section VI.
 
 Teaching
 2 Timothy 2:15 — “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.”
@@ -318,8 +318,8 @@ Knowledge is a mental result of perception and learning and reasoning. The pract
 Key Scripture
 Hebrews 5:14 — senses exercised to discern.
 
-Read
-Textbook Chapter 1, section VII.
+Reference
+School handbook, Chapter 1, section VII.
 
 Teaching
 Knowledge is a mental result of perception, learning, and reasoning. The practice is named: word exercise, word drill. That is not a seminary extra. It is how Foundation School will ask you to know.
@@ -365,8 +365,8 @@ Truth makes free where you continue in His word. This is not a motto for the cov
 Key Scripture
 John 8:31-36.
 
-Read
-Textbook Chapter 1, section VIII.
+Reference
+School handbook, Chapter 1, section VIII.
 
 Teaching
 John 8:31-36 — “Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; And ye shall know the truth, and the truth shall make you free. They answered him, We be Abraham’s seed, and were never in bondage to any man: how sayest thou, Ye shall be made free? Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin. And the servant abideth not in the house for ever: but the Son abideth ever. If the Son therefore shall make you free, ye shall be free indeed.”
@@ -410,8 +410,8 @@ Metanoia is a real change of mind toward sin and its cause. Metamellomai regrets
 Key Scripture
 Hebrews 6:1; Matthew 27:3; Luke 13:3; Matthew 3:8.
 
-Read
-Textbook Chapter 2, sections I–II.
+Reference
+School handbook, Chapter 2, sections I–II.
 
 Teaching
 Hebrews 6:1 — “not laying again the foundation of repentance from dead works…” This is the first stone. If this stone is a slogan, the year is a slogan. This principle is headed: Greek metanoia from nekros ergon.
@@ -469,8 +469,8 @@ Hell is a consequence. It is not the definition of repentance.
 Key Scripture
 Luke 16:19-31; Revelation 20:10-15.
 
-Read
-Textbook Chapter 2, section III.
+Reference
+School handbook, Chapter 2, section III.
 
 Teaching
 The correct passage for this narrative is Luke 16:19-31, not Matthew 16.
@@ -514,8 +514,8 @@ Dead works are the works of the old man and the old nature. The conscience is la
 Key Scripture
 Hebrews 6:1; Ephesians 2:1; Ephesians 4:22; Romans 6:23.
 
-Read
-Textbook Chapter 2, section I and the opening of IV.
+Reference
+School handbook, Chapter 2, section I and the opening of IV.
 
 Teaching
 Hebrews 6:1 names the first stone: repentance from dead works. The phrase is Hebrews’ own phrase. You will hear it again in Hebrews 9:14, when the blood of Christ purges the conscience from dead works to serve the living God. Do not empty “dead works” into “things I did that felt empty.” This lesson will not let you.
@@ -579,11 +579,11 @@ Ephesians 2:2 — “Wherein in time past ye walked according to the course of t
 
 Do not soften these passages. Do not turn it into a personality type. Do not reduce the old man to a bad habit. This lesson will not let you. The old man is the spirit and nature of the devil in the disobedient. Put off the old man. Ye are of your father the devil. The spirit now worketh in the children of disobedience. The god of this world hath blinded minds. He that committeth sin is of the devil. Whosoever is born of God doth not commit sin; the wicked one toucheth him not.
 
-You cannot hide the old man behind a list of acts. The next lesson will open the acts. Both must pass. They are not one pile.
+You cannot hide the old man behind a list of acts. The next lesson will open the acts. Both must pass. They are not one undistinguished category.
 
 Put these passages in order and keep it severe. Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth. The spirit that now worketh in the children of disobedience is the prince of the power of the air. The god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them. He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil. Whosoever is born of God doth not commit sin; his seed remaineth in him. He that is begotten of God keepeth himself, and that wicked one toucheth him not.
 
-The old man is corrupt according to the deceitful lusts. Put him off. He is nothing more nor less than the spirit and nature of the devil working in men of disobedience. A bad habit can be broken and the old man remain. A personality can be managed and the old man remain. Foundation School will not let you teach John 8:44, Ephesians 2:2, and 1 John 3:8-9 as a temperament category. In Christ this old thing is passed away. Outward sin is the other old thing. Both must pass. They are not one pile.
+The old man is corrupt according to the deceitful lusts. Put him off. He is nothing more nor less than the spirit and nature of the devil working in men of disobedience. A bad habit can be broken and the old man remain. A personality can be managed and the old man remain. Foundation School will not let you teach John 8:44, Ephesians 2:2, and 1 John 3:8-9 as a temperament category. In Christ this old thing is passed away. Outward sin is the other old thing. Both must pass. They are not one undistinguished category.
 
 Labour
 The Walk: write one tight page. Intensive: write three pages on the same Scripture set. The doctrine is the same.
@@ -595,7 +595,7 @@ Intensive — three pages. Page 1 is that tight page. Page 2: add Ephesians 4:22
 Write in your own hand. Quote the three verses of the tight Scripture set in full. The page is not a journal of feelings.
 
 Distinction
-Old man vs outward sin. Both must pass. They are not one pile.
+Old man vs outward sin. Both must pass. They are not one undistinguished category.
 
 Charge
 Write what you will teach: the old man is the spirit and nature of the devil working in men of disobedience; the governing passages are John 8:44, Ephesians 2:2, 1 John 3:8-9, and the rest of this lesson; the old man is not a habit. Then complete the practice assignment.`,
@@ -628,7 +628,7 @@ Mark 7:20-23 — “And he said, That which cometh out of the man, that defileth
 
 Romans 1:18 — “For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness.” The catalogue that follows through Romans 1:32 is not a curiosity. It is outward sin named. Walk it in the Labour. Do not skip the lists because they are long.
 
-Sin is the transgression of the law. Lust conceives, brings forth sin, sin finished brings death. What proceeds from the heart defiles the man. The works of the flesh are manifest. The wrath of God is revealed against ungodliness. These two old things are not one pile labelled “sin” so that you can hide the old man behind a list of acts, or hide the acts behind a theory of nature.
+Sin is the transgression of the law. Lust conceives, brings forth sin, sin finished brings death. What proceeds from the heart defiles the man. The works of the flesh are manifest. The wrath of God is revealed against ungodliness. These two old things are not one undistinguished category labelled “sin” so that you can hide the old man behind a list of acts, or hide the acts behind a theory of nature.
 
 Walk Romans 1:18-32. Do not skip it because it is long. “For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness.” They knew God and glorified him not as God. Their foolish heart was darkened. God gave them up. The catalogue names uncleanness, vile affections, a reprobate mind, unrighteousness, fornication, wickedness, covetousness, maliciousness, envy, murder, debate, deceit, malignity, whisperers, backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents, without understanding, covenantbreakers, without natural affection, implacable, unmerciful. Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them.
 
@@ -661,8 +661,8 @@ The wages of sin is death. Sin is the cause of all death and depravity. Salvatio
 Key Scripture
 Romans 6:23 in Romans 6:16-23.
 
-Read
-Textbook Chapter 2, section V.
+Reference
+School handbook, Chapter 2, section V.
 
 Teaching
 Romans 6:16-23 — “Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness? But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you. Being then made free from sin, ye became the servants of righteousness. I speak after the manner of men because of the infirmity of your flesh: for as ye have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness. For when ye were the servants of sin, ye were free from righteousness. What fruit had ye then in those things whereof ye are now ashamed? for the end of those things is death. But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life. For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.”
@@ -704,8 +704,8 @@ The only way out of sin unto true repentance is Christ Jesus. His blood purges t
 Key Scripture
 Hebrews 9:14; Ephesians 2:1-5; 2 Corinthians 5:17.
 
-Read
-Textbook Chapter 2, section VI, through 2 Corinthians 5:17.
+Reference
+School handbook, Chapter 2, section VI, through 2 Corinthians 5:17.
 
 Teaching
 Hebrews 9:11-14 — “But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building; Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us. For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?”
@@ -747,8 +747,8 @@ There is none other name under heaven given among men whereby we must be saved.
 Key Scripture
 Acts 4:10-12.
 
-Read
-Textbook Chapter 2, section VI, Acts 4:12.
+Reference
+School handbook, Chapter 2, section VI, Acts 4:12.
 
 Teaching
 Peter, filled with the Holy Ghost, answers rulers about a man made whole.
@@ -792,8 +792,8 @@ As many as received Him, to them gave He power to become the sons of God. Confes
 Key Scripture
 John 1:12-13; Romans 10:8-10.
 
-Read
-Textbook Chapter 2, section VII.
+Reference
+School handbook, Chapter 2, section VII.
 
 Teaching
 John 1:11-13 — “He came unto his own, and his own received him not. But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name: Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.”

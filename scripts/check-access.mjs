@@ -251,6 +251,22 @@ const foundationCourseFiles = [
   "../src/lib/content/course-resurrection.ts",
   "../src/lib/content/course-judgment.ts",
 ];
+const foundationHandbookFiles = [
+  "../src/lib/content/textbook-ch1.ts",
+  "../src/lib/content/textbook-ch2.ts",
+  "../src/lib/content/textbook-ch3.ts",
+  "../src/lib/content/textbook-ch4.ts",
+  "../src/lib/content/textbook-ch5.ts",
+  "../src/lib/content/textbook-ch6.ts",
+  "../src/lib/content/textbook-ch7.ts",
+];
+const grapheBookFile = "../src/lib/content/book-one-source-of-truth.ts";
+const independentDoctrineBookFiles = [
+  "../src/lib/content/companion-repentance.ts",
+  "../src/lib/content/companion-faith.ts",
+  "../src/lib/data/catalog.ts",
+];
+const foundationExamFile = "../src/lib/content/exams.ts";
 const forbiddenCourseCopy = [
   /cluster/i,
   /\b[A-J][0-9]\b/,
@@ -271,12 +287,123 @@ const forbiddenCourseCopy = [
   /backend/i,
   /production notes/i,
   /\bToday [A-J][0-9]\b/,
+  /Read\nTextbook Chapter/i,
+  /Textbook Chapter/i,
+  /Book chs?\./i,
+  /fill a page/i,
+  /\bswagger\b/i,
 ];
 for (const file of foundationCourseFiles) {
   const copy = readFileSync(new URL(file, import.meta.url), "utf8");
   for (const pattern of forbiddenCourseCopy) {
     assert.doesNotMatch(copy, pattern, `${file} exposes internal course-map language: ${pattern}`);
   }
+}
+
+const forbiddenHandbookCopy = [
+  /premiere convention/i,
+  /naturalistic/i,
+  /ersatz/i,
+  /imprimatur/i,
+  /pillows?/i,
+  /Christ-ian/i,
+  /aridity/i,
+  /tergiversation/i,
+  /scholarly impetus/i,
+  /relaid/i,
+  /fill a page/i,
+  /Stop\./i,
+  /bad print/i,
+  /dropped print/i,
+  /compressed citation/i,
+  /source map/i,
+  /backend/i,
+  /production/i,
+  /\bv1\b/i,
+  /\bspine\b/i,
+  /\bcluster\b/i,
+  /owner named/i,
+  /owner has/i,
+  /printed/i,
+  /facts-file/i,
+  /\bQ[0-9]+\b/,
+  /\bF[0-9]\b/,
+];
+for (const file of foundationHandbookFiles) {
+  const copy = readFileSync(new URL(file, import.meta.url), "utf8");
+  for (const pattern of forbiddenHandbookCopy) {
+    assert.doesNotMatch(copy, pattern, `${file} exposes compressed handbook copy: ${pattern}`);
+  }
+}
+
+const forbiddenGrapheBookCopy = [
+  /premiere convention/i,
+  /reasonability/i,
+  /aridity/i,
+  /tergiversation/i,
+  /scholarly impetus/i,
+  /imprimatur/i,
+  /naturalistic/i,
+  /ersatz/i,
+  /pillows?/i,
+  /Christ-ian/i,
+  /source map/i,
+  /backend/i,
+  /production/i,
+  /\bv1\b/i,
+  /\bspine\b/i,
+  /\bclusters?\b/i,
+  /printed/i,
+  /\bQ[0-9]+\b/,
+];
+const grapheBookCopy = readFileSync(new URL(grapheBookFile, import.meta.url), "utf8");
+for (const pattern of forbiddenGrapheBookCopy) {
+  assert.doesNotMatch(grapheBookCopy, pattern, `Graphē book still contains compressed copy: ${pattern}`);
+}
+
+const forbiddenIndependentBookCopy = [
+  /premiere convention/i,
+  /reasonability/i,
+  /aridity/i,
+  /tergiversation/i,
+  /scholarly impetus/i,
+  /imprimatur/i,
+  /naturalistic/i,
+  /ersatz/i,
+  /pillows?/i,
+  /Christ-ian/i,
+  /source map/i,
+  /backend/i,
+  /production/i,
+  /\bv1\b/i,
+  /\bspine\b/i,
+  /\bclusters?\b/i,
+  /printed cover/i,
+  /work as it is printed/i,
+  /owner named/i,
+  /owner has/i,
+  /fill a page/i,
+  /bad print/i,
+  /compressed citation/i,
+  /\bQ[0-9]+\b/,
+];
+for (const file of independentDoctrineBookFiles) {
+  const copy = readFileSync(new URL(file, import.meta.url), "utf8");
+  for (const pattern of forbiddenIndependentBookCopy) {
+    assert.doesNotMatch(copy, pattern, `${file} exposes compressed independent-book copy: ${pattern}`);
+  }
+}
+
+const forbiddenExamCopy = [
+  /\bclusters?\b/i,
+  /chronology map/i,
+  /\bspine\b/i,
+  /\bfile\b/i,
+  /\bswagger\b/i,
+];
+const examCopy = readFileSync(new URL(foundationExamFile, import.meta.url), "utf8");
+for (const pattern of forbiddenExamCopy) {
+  assert.doesNotMatch(examCopy, pattern, `Foundation exam still contains compressed copy: ${pattern}`);
 }
 
 const repentanceCopy = readFileSync(new URL("../src/lib/content/course-repentance.ts", import.meta.url), "utf8");

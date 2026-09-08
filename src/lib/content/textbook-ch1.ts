@@ -14,7 +14,7 @@ A. The design of God
 
 Over the ages the design of God for a Christian experience — following the teachings, or manifesting the qualities or spirit, of Jesus Christ — has rested in conformity with the unleavened sincerity and truth of the graphē: Holy Writ, the Bible, Scripture.
 
-This school calls that experience naturalistic. The word is not a concession to nature-worship. It names an experience that follows the teachings of Jesus Christ, or manifests His qualities or His spirit, and does so in conformity with the graphē. The experience pillows in the writing. It does not invent a likeness and then hunt a verse to bless the likeness.
+This school calls that experience Scripture-conforming. The word names an experience that follows the teachings of Jesus Christ, manifests His qualities or His spirit, and remains under the authority of the graphē. The experience rests under the writing. It does not invent a likeness and then hunt for a verse to bless it.
 
 Graphē is Holy Writ: the Bible, Scripture. It is writings or sayings of unchallenged, unquestionable authority. That is the term. Keep it there. Do not turn it into a theory of inspiration you were not asked to invent.
 
@@ -32,31 +32,31 @@ The writing He cited is Psalm 82:6 — “I have said, Ye are gods; and all of y
 
 Who speaks in John 10? The Lord Jesus. To whom? Jews who had taken up stones because He said, I and my Father are one. Why? Because they charged blasphemy, and He answered from the writing they already owned as law.
 
-Hold the cluster. He does not argue from mood. He does not argue from a private voice. He argues from what is written. He names the persons in the psalm as those unto whom the word of God came. Then He sets the rule that governs this school: the scripture cannot be broken.
+Hold the Scripture set. He does not argue from mood. He does not argue from a private voice. He argues from what is written. He names the persons in the psalm as those unto whom the word of God came. Then He sets the rule that governs this school: the scripture cannot be broken.
 
 Psalm 82:7 remains in the psalm: “But ye shall die like men, and fall like one of the princes.” Chapter 3 will open image and likeness with that verse still in the file. Here the point is narrower. The Lord treats the writing as unbreakable even when men use it against Him. If He will not break it, you will not be asked to break it to make a convenient Christian experience.
 
-C. The imprimatur
+C. The authority of Holy Writ
 
-Holy Writ is writings or sayings of unchallenged, unquestionable authority. That imprimatur governs persons, organizations, governments, and nations.
+Holy Writ is writings or sayings of unchallenged, unquestionable authority. That authority governs persons, organizations, governments, and nations.
 
-Imprimatur is not a church stamp on a dust jacket. It is the authority of the writing itself. Persons are under it. Organizations that appear Christianized are under it. Governments are under it. Nations are under it. Age does not exempt. Size does not exempt. A meeting that calls itself a school does not exempt.
+This authority is not a church stamp on a dust jacket. It is the authority of the writing itself. Persons are under it. Organizations that appear Christianized are under it. Governments are under it. Nations are under it. Age does not exempt. Size does not exempt. A meeting that calls itself a school does not exempt.
 
 If you will hear from God in this year, you will hear Him where He has spoken. You will not be asked to invent a more convenient Bible.
 
-D. Ersatz analogical, nonliteral religiousisms
+D. Substitute religious likenesses
 
-There is another thing that calls itself Christian experience and is not. This teaching names it ersatz analogical, nonliteral religiousisms: a likeness of the faith that will not sit down under the text.
+There is another thing that calls itself Christian experience and is not. It is a substitute religious likeness: language and appearance that resemble the faith while refusing to sit under the text.
 
-Ersatz: a substitute. Analogical: a likeness, a comparison that will not bear the weight of the thing itself. Nonliteral: a refusal to let the words mean what they say. Religiousisms: the -ism that remains when the graphē is no longer the pillow.
+A substitute may borrow biblical sound, Christian vocabulary, and religious appearance. It becomes false when it refuses to let the words of Scripture mean what they say. What remains is religious imitation after the graphē is no longer allowed to govern.
 
 This school will not trade the graphē for that likeness. A man may be sincere in the likeness. Sincerity does not make the likeness the writing. An organization may be old in the likeness. Age does not make the likeness the oracles of God.
 
-The distinction is not “Bible people” versus “unspiritual people.” The distinction is conformity with the unleavened sincerity and truth of the graphē versus a religiousism that uses Bible words as decoration. Unleavened sincerity is not a mood of honesty. It is the refusal to mix the writing with a substitute and call the mixture experience.
+The distinction is not “Bible people” versus “unspiritual people.” The distinction is conformity with the unleavened sincerity and truth of the graphē versus a religious substitute that uses Bible words as decoration. Unleavened sincerity is not a mood of honesty. It is the refusal to mix the writing with a substitute and call the mixture experience.
 
 E. Principle, reasoning, application, charge
 
-Principle: the Christian experience this school will teach pillows in the graphē. The writing cannot be broken. The imprimatur governs you.
+Principle: the Christian experience this school teaches rests under the graphē. The writing cannot be broken. The authority of Holy Writ governs you.
 
 Reasoning: if the Lord answers a charge of blasphemy from the writing, you do not rise above the writing to answer a charge of dullness. If the writing governs nations, it governs your week. If a likeness will not sit down under the text, it is not the experience this school names.
 
@@ -70,7 +70,7 @@ A. The graphē is the appointed written authority
 
 The graphē — Holy Writ, the Bible, Scripture — is the appointed written authority for hearing from God and for spiritual growth. It is first in order because God has bound His speaking to the writing He gave. It is not a conference, not a brand, not this handbook, and not this course.
 
-Over the ages the design of God for a naturalistic Christian experience has pillowed in conformity with the unleavened sincerity and truth of that writing. If you will hear, you hear where He has spoken. If you will grow, you grow under that writing — first principles, then maturity.
+Over the ages the design of God for a Scripture-conforming Christian experience has rested under the unleavened sincerity and truth of that writing. If you will hear, you hear where He has spoken. If you will grow, you grow under that writing — first principles, then maturity.
 
 B. The essential cornerstone
 
@@ -89,7 +89,7 @@ Under the written authority, growth is two movements, not one slogan:
 1. First principles.
 2. Maturity — perfection.
 
-You do not skip the foundation to appear mature. You do not relaid the foundation every year as a lifestyle and call that growth.
+You do not skip the foundation to appear mature. You do not relay the foundation every year as a lifestyle and call that growth.
 
 Hebrews 6:1 — “Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,”
 
@@ -159,55 +159,55 @@ A. The verse and the term
 
 Hebrews 5:13 — “For every one that useth milk is unskilful in the word of righteousness: for he is a babe.”
 
-Unskilful is Greek apeiros: inexperienced, that is, ignorant — unskilful. This teaching keeps the word there. The inexperience is not in crowding a meeting. It is in the word of righteousness.
+Unskilful is Greek ἄπειρος (apeiros, G552): inexperienced, that is, ignorant — unskilful. This teaching keeps the word there. The inexperience is not in crowding a meeting. It is in the word of righteousness.
 
-Apeiros is not a personality type. It is not shyness. It is not lack of a platform. It is lack of experience in the word that names righteousness — the writing in which a man is shown what is right before God and what is not. A man may be experienced in rooms and apeiros in that word.
+ἄπειρος (apeiros) is not a personality type. It is not shyness. It is not lack of a platform. It is lack of experience in the word that names righteousness — the writing in which a man is shown what is right before God and what is not. A man may be experienced in rooms and ἄπειρος (apeiros) in that word.
 
-B. Hebrews 5:14 in the same file
+B. Hebrews 5:14 in the same Scripture set
 
 Hebrews 5:14 — “But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.”
 
-Hold 5:13 and 5:14. The milk-user is apeiros and a babe. The one of full age has senses exercised by reason of use. Use is not attendance. Use is the labour that trains hearing to discern.
+Hold 5:13 and 5:14. The milk-user is ἄπειρος (apeiros) and a babe. The one of full age has senses exercised by reason of use. Use is not attendance. Use is the labour that trains hearing to discern.
 
 Discern both good and evil. The babe is not merely under-informed. He cannot yet distinguish. That is why unskilfulness produces, in this severity, damnable accepted heresies called doctrines. A people who cannot discern will baptize error and call it teaching.
 
-C. Aridity and tergiversation
+C. Dryness and doctrinal turning aside
 
-This teaching is plain: the absence of reasonability (sound judgment) and the presence of unskilfulness produce aridity and tergiversation among persons, and even among age-old organizations that appear Christianized. What follows is damnable accepted heresies called doctrines.
+This teaching is plain: when sound judgment is absent and unskillfulness remains, spiritual dryness and doctrinal turning aside appear among persons and even among age-old organizations that appear Christianized. What follows can be damnable heresies accepted and called doctrines.
 
-Reasonability is sound judgment. It is not a polite temperament. It is the capacity to hold the writing and judge. Absence of that judgment, plus apeiros, dries a people. Aridity is not a dry room. It is a people who no longer yield what the oracles planted.
+Sound judgment is not a polite temperament. It is the capacity to hold the writing and judge under it. Absence of that judgment, together with ἄπειρος (apeiros), dries a people. This dryness is not a mood in a room; it is the failure to yield what the oracles planted.
 
-Tergiversation is desertion of a position: turning, shifting, refusing to stay under what was said. A person can do it. An age-old organization that appears Christianized can do it. Appearance is not skill. Years on a signboard are not senses exercised.
+Doctrinal turning aside is desertion of a position: turning, shifting, refusing to stay under what was said. A person can do it. An age-old organization that appears Christianized can do it. Appearance is not skill. Years on a signboard are not senses exercised.
 
 What follows that dryness and that turning is not a harmless confusion. This teaching names the fruit: damnable accepted heresies called doctrines. Accepted means the heresy has become the house diet. Called doctrines means the name “doctrine” has been put on what the graphē will not bear. This school will not soften that sentence.
 
-D. The scholarly impetus of the Scripture
+D. Scripture’s demand for diligent study
 
-That lack of skill is blamed on failure to realize the scholarly impetus of the Scripture and to align accordingly: failure to know the Scriptures, whether in soft copy or hard.
+That lack of skill is blamed on failure to receive Scripture’s demand for diligent study and to align accordingly: failure to know the Scriptures, whether held digitally or in print.
 
-Scholarly impetus is not a degree. It is the push the writing itself gives toward knowing — toward labour in the text. Soft copy or hard copy does not matter if there is no labour. A glowing screen can hide apeiros as easily as a closed book.
+This demand for diligent study is not a degree. It is the push the writing itself gives toward knowing — toward labour in the text. A digital copy or a physical copy does not matter if there is no labour. A glowing screen can hide ἄπειρος (apeiros) as easily as a closed book.
 
-The cure is not a louder room. The cure is labour in the word. Section VI will name that labour spoudazō. Do not wait for section VI to begin it. If you cannot name the hour and the text of this week, you are already answering Hebrews 5:13.
+The cure is not a louder room. The cure is labour in the word. Section VI will name that labour σπουδάζω (spoudazō). Do not wait for section VI to begin it. If you cannot name the hour and the text of this week, you are already answering Hebrews 5:13.
 
 E. Distinction, principle, charge
 
 Distinction: skill in the word of righteousness versus performance in a crowded room. Inexperience in the writing versus inexperience in platform. Sound judgment versus accepted heresy called doctrine.
 
-Principle: every one that useth milk is apeiros in the word of righteousness. The inexperience is in the writing. Organizations can be apeiros. The cure is to know the Scriptures and align.
+Principle: every one that useth milk is ἄπειρος (apeiros) in the word of righteousness. The inexperience is in the writing. Organizations can be ἄπειρος (apeiros). The cure is to know the Scriptures and align.
 
 Reasoning: if unskilfulness were lack of activity, busy houses would be mature. This teaching watches age-old organizations dry up. If the copy format were the issue, the hard book would have saved the last century. The issue is failure to know and to align.
 
 Application: what is your actual study labour this week? Name the hour. Name the text. If you cannot name it, you are not yet a workman. You may be a hearer. Hebrews has already told you what a hearer can become after time.
 
-Charge: write Hebrews 5:13-14. Then write six sentences that do not repeat the heading: what apeiros is, what it is not, what aridity looks like in a person, what tergiversation looks like in a house, what “accepted heresies called doctrines” forces you to refuse, and what labour you will put on the word of righteousness before the week ends.
+Charge: write Hebrews 5:13-14. Then write six sentences that do not repeat the heading: what ἄπειρος (apeiros) is, what it is not, what spiritual dryness looks like in a person, what doctrinal turning aside looks like in a house, what “accepted heresies called doctrines” forces you to refuse, and what labour you will put on the word of righteousness before the week ends.
 
 V. NĒPIOS — TWO MARKS OF BABES
 
 A. The term
 
-The same verse names the milk-user a babe: Greek nēpios — implying negation; figuratively a simple-minded person, an immature Christian: babe, child.
+The same verse names the milk-user a babe: Greek νήπιος (nēpios, G3516) — implying negation; figuratively a simple-minded person, an immature Christian: babe, child.
 
-This teaching will not let you take “babe” as a term of endearment here. It is a diagnosis. A babe may be sincere and still be apeiros. An organization may be old and still be nēpios. Anyone — person or organization — unskilled in the word of righteousness is a nēpios.
+This teaching will not let you take “babe” as a term of endearment here. It is a diagnosis. A babe may be sincere and still be ἄπειρος (apeiros). An organization may be old and still be νήπιος (nēpios). Anyone — person or organization — unskilled in the word of righteousness is a νήπιος (nēpios).
 
 Simple-minded, here, is not an insult to the poor in spirit. It is the mind that has not been exercised to discern. Immature Christian is not “young in years.” It is behind the time you ought to have been a teacher.
 
@@ -230,19 +230,19 @@ Hebrews 5:14 has already named the other pole: them that are of full age, who by
 
 The distinction is not teacher as office versus babe as pew. The writer said they ought to be teachers. The obligation is that the first principles can be taught by those who have had time. A man who cannot teach repentance from dead works from the Scriptures is not yet past milk, whatever title he carries.
 
-A babe may love God and still be nēpios. Love does not cancel the diagnosis. An organization may print Bible verses on its walls and still be nēpios. Print does not cancel apeiros.
+A babe may love God and still be νήπιος (nēpios). Love does not cancel the diagnosis. An organization may print Bible verses on its walls and still be νήπιος (nēpios). Print does not cancel ἄπειρος (apeiros).
 
 D. Why this piece was written
 
 This teaching states the aim of the piece: that you may experience productive living, be in control, and experience godliness in all capacities — not by a slogan, but by skill in the word of righteousness.
 
-Productive living is not a prosperity motto. It is a life that yields what the oracles planted. In control is not a technique for managing rooms. It is a man no longer driven by the dullness and the unskill that produce aridity. Godliness in all capacities is not a brand of manners. It is the life the graphē governs in every capacity you actually have — person, house, labour, nation as the imprimatur already named.
+Productive living is not a prosperity motto. It is a life that yields what the oracles planted. In control is not a technique for managing rooms. It is a man no longer driven by the dullness and the unskill that produce spiritual dryness. Godliness in all capacities is not a brand of manners. It is the life the graphē governs in every capacity you actually have — person, house, labour, and nation under the authority already named.
 
 You will not reach that aim by collecting quotations. You will not reach it by remaining a babe and calling the remaining humility. You will reach it, if you reach it, by the labour section VI names, under the permission section X names.
 
 E. Charge
 
-Name your dullness of hearing. Name where you are apeiros in the word of righteousness. Do not write a general confession. Write the place. Then write the two marks as you would teach them to a babe, and as you would stand behind them before a teacher. If you cannot do both, you are still in 5:12.
+Name your dullness of hearing. Name where you are ἄπειρος (apeiros) in the word of righteousness. Do not write a general confession. Write the place. Then write the two marks as you would teach them to a babe, and as you would stand behind them before a teacher. If you cannot do both, you are still in 5:12.
 
 VI. SPOUDAZŌ — STUDY AS LABOUR
 
@@ -258,11 +258,11 @@ Who writes? Paul. To whom? Timothy, a man already entrusted with the word, told 
 
 2 Timothy 2:9 — “Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound.”
 
-Hold the cluster. Study sits in a letter about hardness, shame, and a word that is not bound. Spoudazō is not a hobby for quiet evenings. It is labour in a war where the word must be divided rightly and the workman must not blush before God.
+Hold the Scripture set. Study sits in a letter about hardness, shame, and a word that is not bound. Spoudazō is not a hobby for quiet evenings. It is labour in a war where the word must be divided rightly and the workman must not blush before God.
 
 B. The term
 
-The Greek behind that study is spoudazō: to use speed, to make effort, be prompt or earnest; do diligence, be diligent, endeavour, labour, study — intellectually.
+The Greek behind that study is σπουδάζω (spoudazō, G4704): to use speed, to make effort, be prompt or earnest; do diligence, be diligent, endeavour, labour, study — intellectually.
 
 Speed here is not haste that skips context. It is earnestness that will not postpone the labour. Effort is not noise. Promptness is not a calendar app. Earnestness is the refusal to treat the oracles as optional once the week fills. Diligence, endeavour, labour, study: the English is stacked so you cannot reduce the word to “read a verse if you feel like it.”
 
@@ -282,7 +282,7 @@ A workman: approval here is the approval of a workman. The work is the word of t
 
 That needeth not to be ashamed: shame in this verse is the shame of bad work before God, not social embarrassment. A man can be loud and ashamed in this sense. A man can be quiet and unashamed.
 
-Rightly dividing the word of truth: the word is truth. It can be divided wrongly. Dull hearing and apeiros produce the wrong division. Right division holds a cluster, keeps a distinction, and will not merge what the text keeps apart. This year will ask you to divide the six principles and not invent a seventh. It will ask you to divide metanoia from metamellomai. It will ask you to divide two old things. If you cannot divide, you are not yet this workman.
+Rightly dividing the word of truth: the word is truth. It can be divided wrongly. Dull hearing and ἄπειρος (apeiros) produce the wrong division. Right division holds a Scripture set, keeps a distinction, and will not merge what the text keeps apart. This year will ask you to divide the six principles and not invent a seventh. It will ask you to divide metanoia from μεταμέλομαι (metamellomai). It will ask you to divide two old things. If you cannot divide, you are not yet this workman.
 
 D. Three hours and eight
 
@@ -290,7 +290,7 @@ If you will walk this year at three hours a week or at eight, the difference is 
 
 The Walk: about three hours a week, fifty-two weeks, the same six courses. Intensive: about eight hours a week, fifty-two weeks, the same six courses. Same examinations. Same certificate when a certificate is issued. No second curriculum.
 
-Three hours will not excuse you from spoudazō. Eight hours will not create a different gospel. The Intensive student writes longer, drills more, and sits longer with the same cluster. The Walk student writes tighter on the same cluster. Both must reason. Neither may hide in quotation.
+Three hours will not excuse you from σπουδάζω (spoudazō). Eight hours will not create a different gospel. The Intensive student writes longer, drills more, and sits longer with the same Scripture set. The Walk student writes tighter on the same Scripture set. Both must reason. Neither may hide in quotation.
 
 E. Charge — word drill on the verse
 
@@ -316,17 +316,17 @@ Knowledge, here, is not a pile of information. A man may quote a verse and still
 
 Three parts, one result.
 
-Perception: you see what the text says, not what you wish it said. You see the words in their place. You see who speaks, to whom, and why. You see the cluster the verse sits in. Perception is not a mystical extra. It is the refusal to skip what is on the page.
+Perception: you see what the text says, not what you wish it said. You see the words in their place. You see who speaks, to whom, and why. You see the Scripture set the verse sits in. Perception is not a mystical extra. It is the refusal to skip what is on the page.
 
 Learning: you take it in, and you keep it. You write it. You can return it. A verse you cannot write is a verse you have not yet learned, however often you have heard it. Learning is not a feeling of familiarity.
 
-Reasoning: you can hold a cluster of Scriptures together and draw the distinction the text itself makes. You can say why “ought to be teachers” and “become” belong in one verse. You can say why milk is kindness in one man and indictment in another. You can say why graphē is not religiousism. Reasoning is not speculation. It is the mind working the writing until the distinction is teachable.
+Reasoning: you can hold a Scripture set of Scriptures together and draw the distinction the text itself makes. You can say why “ought to be teachers” and “become” belong in one verse. You can say why milk is kindness in one man and indictment in another. You can say why graphē is not religious substitute. Reasoning is not speculation. It is the mind working the writing until the distinction is teachable.
 
 B. Word exercise, word drill
 
 The practice is not optional colour. It is how this school makes knowledge. Word exercise: you use the word, as Hebrews 5:14 said “by reason of use.” Word drill: you put the verse through perception, learning, and reasoning until you can teach it.
 
-A drill is repetition with attention. You write the verse. You name the terms as they are used here. You set the context. You hold the cluster. You draw the distinction. You state the principle. You reason. You apply. You take the charge. That is the method of this book. It is not a blog outline. It is not a sermon skeleton. It is labour.
+A drill is repetition with attention. You write the verse. You name the terms as they are used here. You set the context. You hold the Scripture set. You draw the distinction. You state the principle. You reason. You apply. You take the charge. That is the method of this book. It is not a blog outline. It is not a sermon skeleton. It is labour.
 
 This school will ask you to reason. The questions this school asks are not decorations. They are charges. “Ye ought to be teachers” is a charge. “Study” is a charge. “Ye shall know the truth” is a charge. Later chapters will ask questions that must be answered, not waved past. You will not be allowed to treat them as rhetoric.
 
@@ -334,7 +334,7 @@ C. Distinction and principle
 
 Distinction: knowledge as perception plus learning plus reasoning versus information collected versus quotation without reasoning.
 
-Principle: you do not know a verse until you can perceive it, keep it, and reason it in its cluster.
+Principle: you do not know a verse until you can perceive it, keep it, and reason it in its Scripture set.
 
 Reasoning: if quotation were knowledge, the Hebrews readers would not have needed to be taught again. They had heard. If familiarity were learning, time would have made them teachers. Time had passed. If slogans were reasoning, this chapter could have been a list of headings. This teaching was already a list of headings. It was too thin to teach. You are holding the opening of that page.
 
@@ -384,7 +384,7 @@ Principle: you shall know the truth, and the truth shall make you free, if you c
 
 Reasoning: if they could have been free by Abraham, He would not have said “if ye continue.” If they could have been free by denying bondage, He would not have said “servant of sin.” If a motto could free you, this school could print the cover and close the book.
 
-Application: free from what, in John 8, if you continue in His word? Answer from the cluster. Servant of sin. Then the Son. Then free indeed. Do not write “free from negativity.” Do not write “free from religion.” Write what He wrote against.
+Application: free from what, in John 8, if you continue in His word? Answer from the Scripture set. Servant of sin. Then the Son. Then free indeed. Do not write “free from negativity.” Do not write “free from religion.” Write what He wrote against.
 
 Charge: write John 8:31-36. Then name one word of His you will continue in this week — a verse, written in full — and write what continuing will look like at three hours, and what it will look like if you are intensive. Same verse. Different labour. Same freedom offered. No second truth.
 
@@ -471,7 +471,7 @@ The next chapter takes up repentance from dead works. Do not read it as a feelin
 
 D. Charge
 
-Write Hebrews 6:1-3 as one file. Mark the six names. Mark “if God permit.” Write what you intend this year, and what you cannot force. Then put the first stone in front of you and stop calling the gate the house.
+Write Hebrews 6:1-3 as one Scripture set. Mark the six names. Mark “if God permit.” Write what you intend this year, and what you cannot force. Then put the first stone in front of you and stop calling the gate the house.
 
 XI. WORD DRILL LABOUR
 
@@ -489,7 +489,7 @@ On 2 Timothy 2:15, reason approved. Unto whom? God. For what? A workman who need
 
 Reason workman. The work is the word of truth. A workman can be ashamed. Hardness sits in the same chapter. The word of God is not bound.
 
-Reason rightly dividing. The word can be divided wrongly. Right division keeps the cluster and the distinction. Wrong division merges the six, or skips them, or trades the graphē for a likeness.
+Reason rightly dividing. The word can be divided wrongly. Right division keeps the Scripture set and the distinction. Wrong division merges the six, or skips them, or trades the graphē for a likeness.
 
 On Hebrews 5:12, reason ought, again, become, milk, strong meat, first principles, oracles of God. Each word does work. If you cannot say the work, you have recited.
 
@@ -499,7 +499,7 @@ C. The method, once more
 
 Scripture in full. Term as defined here. Context: who, to whom, why. Cluster held together. Distinction. Principle. Reasoning. Application. Charge.
 
-That is how you will read every chapter. That is how you will write. A student at three hours a week can do this on one cluster and be honest. A student at eight hours can do this on the whole chapter and be honest. Neither may replace the method with a summary.
+That is how you will read every chapter. That is how you will write. A student at three hours a week can do this on one Scripture set and be honest. A student at eight hours can do this on the whole chapter and be honest. Neither may replace the method with a summary.
 
 XII. WHAT THIS CHAPTER WILL NOT DO
 
@@ -507,17 +507,17 @@ It will not treat this textbook as a second Bible.
 
 It will not confuse the cover line of the book with the house line of the platform.
 
-It will not trade the graphē for ersatz analogical, nonliteral religiousisms.
+It will not trade the graphē for substitute religious likenesses.
 
 It will not skip the foundation and call the skip maturity.
 
-It will not relaid the foundation every year and call the relaying growth.
+It will not relay the foundation every year and call the relaying growth.
 
 It will not treat milk after time as humility.
 
-It will not treat apeiros as lack of a platform.
+It will not treat ἄπειρος (apeiros) as lack of a platform.
 
-It will not treat nēpios as a term of endearment.
+It will not treat νήπιος (nēpios) as a term of endearment.
 
 It will not treat knowledge as quotation.
 
@@ -535,7 +535,7 @@ Same doctrine. Same six. Same chapter. Different hours.
 
 The Walk — about three hours a week. Read this chapter in two sittings. Write the charges in sections I, III, V, VI, and VIII as five tight paragraphs. Write Hebrews 5:12 and 2 Timothy 2:15 by hand. Name the six. Name the two marks of babes. That is enough writing for the gate if the writing is honest.
 
-Intensive — about eight hours a week. Read this chapter until you can teach it. Write the charges in every section. Write Hebrews 5:11-14 and 6:1-3 by hand. Write John 8:31-36 by hand. Write one page on graphē versus religiousism. Write one page on apeiros and nēpios without using the word “basically.” Write the 2 Timothy 2:15 drill in six sentences that reason, not six sentences that repeat. Sit with a babe and teach 5:12 until he can say “ought,” “again,” and “become.”
+Intensive — about eight hours a week. Read this chapter until you can teach it. Write the charges in every section. Write Hebrews 5:11-14 and 6:1-3 by hand. Write John 8:31-36 by hand. Write one page on graphē versus religious substitute. Write one page on ἄπειρος (apeiros) and νήπιος (nēpios) without using the word “basically.” Write the 2 Timothy 2:15 drill in six sentences that reason, not six sentences that repeat. Sit with a babe and teach 5:12 until he can say “ought,” “again,” and “become.”
 
 Both: you are not finished because you reached section XIII. You are finished when you can teach the gate without a slogan, and when you can ask permission to go on without calling an unlaid foundation perfection.
 

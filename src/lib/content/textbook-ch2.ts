@@ -4,19 +4,19 @@ export const textbookChapter2Body = `Hebrews 6:1 — “Therefore leaving the pr
 
 This is the first stone. If this stone is a slogan, the year is a slogan.
 
-Chapter 1 opened the gate. This chapter lays the first of the six. You will not be given a feeling in the place of the cluster, an eighth repent-word, Matthew 16 as the narrative of Hell, or a second saviour.
+Chapter 1 opened the gate. This chapter lays the first of the six. You will not be given a feeling in the place of the Scripture set, an eighth repent-word, Matthew 16 as the narrative of Hell, or a second saviour.
 
 A student at three hours a week must have something to sit with. An intensive student uses the same text with longer writing. The doctrine does not change with the clock.
 
-I. METANOIA FROM NEKROS ERGON
+I. ΜΕΤΆΝΟΙΑ FROM ΝΕΚΡῶΝ ἜΡΓΩΝ
 
 A. The heading
 
-This principle is headed: Greek metanoia from nekros ergon.
+This principle is headed by the Greek terms μετάνοια (metanoia, G3341) and νεκρῶν ἔργων (nekrōn ergōn): repentance from dead works.
 
-Hebrews 6:1 has already named the foundation: repentance from dead works. The Greek on that heading is metanoia from nekros ergon. Metanoia is the change. Nekros ergon are the works. You will not flatten either term into a mood.
+Hebrews 6:1 has already named the foundation: repentance from dead works. Μετάνοια (metanoia) is the change of mind. Νεκρῶν ἔργων (nekrōn ergōn) names the dead works. You will not flatten either term into a mood.
 
-Metanoia (G3341) is a real change of mind and attitude toward sin and its cause, not merely the consequences of it. The verses the owner list assigns to that definition are Matthew 3:8, Matthew 3:11, Matthew 9:13, and Luke 24:47. They will be quoted in full in section II. Hear the definition first, then the verses, then the distinction from metamellomai.
+Μετάνοια (metanoia, G3341) is a real change of mind and attitude toward sin and its cause, not merely the consequences of it. The governing verses here are Matthew 3:8, Matthew 3:11, Matthew 9:13, and Luke 24:47. They will be quoted in full in section II. Hear the definition first, then the verses, then the distinction from μεταμέλομαι (metamellomai, G3338).
 
 Metanoia specifies compunction (remorse) for guilt including reformation: regeneration, quickening, recreation — “new creature.” A real change of mind and attitude over sin and the cause. All things are become new.
 
@@ -26,11 +26,11 @@ It is not a mood. It is not a tear without a turn. It includes reformation becau
 
 Who writes? Paul. To whom? The church at Corinth, a people he must still reason with about ministry and reconciliation. Why here? This verse is used four ways in one principle: new creature, change, old things deceased, in-Christ location. If any man be in Christ — the location is Christ, not a course enrolment. He is a new creature — recreation, not a repaired mood. Old things are passed away — section IV will name two kinds. Behold, all things are become new — “all things are become new” is not a slogan for a new year. It is the state of the man in Christ.
 
-B. Nekros ergon
+B. Νεκρῶν ἔργων
 
-Nekros ergon — dead works — are the works of the old man: the spirit and nature of the devil (Ephesians 4:22); old things (2 Corinthians 5:17); the old nature (Ephesians 2:1 — trespasses, a deviation from moral equity, and sins). The wages thereof is death (Romans 6:23).
+Νεκρῶν ἔργων (nekrōn ergōn) — dead works — are the works of the old man: the spirit and nature of the devil (Ephesians 4:22); old things (2 Corinthians 5:17); the old nature (Ephesians 2:1 — trespasses, a deviation from moral equity, and sins). The wages thereof is death (Romans 6:23).
 
-This teaching also printed negra erga. That is a compressed print of the same phrase, not an eighth word and not a second doctrine. Dead works. Works of the old man. Works of the old nature.
+The phrase is not an eighth word and not a second doctrine. Dead works are works of the old man and works of the old nature.
 
 Ephesians 4:22 — “That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;”
 
@@ -46,15 +46,15 @@ By implication the word also carries reversal of another’s decision. Do not fl
 
 D. Distinction, principle, charge
 
-Distinction: metanoia as real change of mind and attitude toward sin and its cause, including reformation and the new creature, versus a tear without a turn versus a mood versus a regret of consequences only. Dead works as works of the old man and old nature versus tasks that bored you.
+Distinction: μετάνοια (metanoia) as real change of mind and attitude toward sin and its cause, including reformation and the new creature, versus a tear without a turn versus a mood versus a regret of consequences only. Dead works are works of the old man and old nature, not tasks that bored you.
 
-Principle: the first stone is metanoia from nekros ergon. The man in Christ is a new creature. Old things pass. The wage of the old things is death.
+Principle: the first stone is μετάνοια from νεκρῶν ἔργων: repentance from dead works. The man in Christ is a new creature. Old things pass. The wage of the old things is death.
 
-Reasoning: if metanoia were a feeling, 2 Corinthians 5:17 would be a feeling. If dead works were boredom, Hebrews 9:14 would purge boredom. If reformation could be detached from the new creature, this school would not name regeneration, quickening, recreation in one breath with “new creature.”
+Reasoning: if μετάνοια were a feeling, 2 Corinthians 5:17 would be a feeling. If dead works were boredom, Hebrews 9:14 would purge boredom. If reformation could be detached from the new creature, this school would not name regeneration, quickening, recreation in one breath with “new creature.”
 
 Application: name one work you have called “dead” because it bored you, and one the Scripture would call a dead work because it is of the old man. Do not submit the first as if it were the second.
 
-Charge: write Hebrews 6:1 and 2 Corinthians 5:17. Then write ten lines: what metanoia is, what nekros ergon are, and where you have treated a tear as if it were a new creature.
+Charge: write Hebrews 6:1 and 2 Corinthians 5:17. Then write ten lines: what μετάνοια (metanoia) is, what νεκρῶν ἔργων (nekrōn ergōn) are, and where you have treated a tear as if it were a new creature.
 
 II. SEVEN ORIGINAL WORDS FOR REPENT
 
@@ -126,7 +126,7 @@ Who speaks? The Lord. To whom? Dwellers who wanted a ranking of sinners by disas
 
 Metanoeō here is a change of mind toward sin, not a regret that the tower fell on someone else. If you treat disaster as the definition of repentance, you have not heard Luke 13. If you treat another man’s ruin as your repentance, you have not changed your mind.
 
-F. Greek metamellomai (G3338)
+F. Greek μεταμέλομαι (metamellomai) (G3338)
 
 Metamellomai: to regret consequences of sin, not the cause. The addresses: Matthew 27:3; 2 Corinthians 7:8. Judas is the teaching case. Consequences only.
 
@@ -136,7 +136,7 @@ Matthew 27:4 — “Saying, I have sinned in that I have betrayed the innocent b
 
 Matthew 27:5 — “And he cast down the pieces of silver in the temple, and departed, and went and hanged himself.”
 
-Who? Judas, which had betrayed Him. When? When he saw that He was condemned. What did he do? Repented himself — metamellomai — brought again the silver, said he had sinned in betraying innocent blood, cast the silver down, went and hanged himself.
+Who? Judas, which had betrayed Him. When? When he saw that He was condemned. What did he do? Repented himself — μεταμέλομαι (metamellomai) — brought again the silver, said he had sinned in betraying innocent blood, cast the silver down, went and hanged himself.
 
 He regretted the consequence. He saw the condemnation. He felt the weight of the silver. He used the word “sinned.” He did not come to a new mind over sin and its cause. He did not become a new creature. He did not receive the One he betrayed. He went and hanged himself.
 
@@ -144,7 +144,7 @@ If you treat Judas’s remorse as if it were metanoia, you have not laid this fo
 
 2 Corinthians 7:8 — “For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle hath made you sorry, though it were but for a season.”
 
-Who writes? Paul, concerning a severe letter. Metamellomai here is his own regret about the sorrow the letter produced — a regret of a consequence — and then his refusal to remain in that regret. The list places this verse with consequences, not the cause. Do not turn Paul’s sentence into an eighth word. Do not turn it into Judas. Use it as the list uses it: metamellomai can name regret of a result.
+Who writes? Paul, concerning a severe letter. Metamellomai here is his own regret about the sorrow the letter produced — a regret of a consequence — and then his refusal to remain in that regret. The list places this verse with consequences, not the cause. Do not turn Paul’s sentence into an eighth word. Do not turn it into Judas. Use it as the list uses it: μεταμέλομαι (metamellomai) can name regret of a result.
 
 G. Greek metanoia (G3341)
 
@@ -238,7 +238,7 @@ Distinction: repentance over sin and its cause versus Hell-avoidance versus Juda
 
 Principle: Hell is a consequence. Luke 16:19-31 shows it. Revelation 20:10-15 ends it. Metanoia is not defined by that fear.
 
-Reasoning: if Hell-avoidance were metanoia, the rich man’s request for his brothers would be the first stone. Abraham would have sent Lazarus. The Lord would not have said they have Moses and the prophets. If Matthew 16 were this narrative, this school would teach Matthew 16. The print was an error. We will not repeat it.
+Reasoning: if Hell-avoidance were metanoia, the rich man’s request for his brothers would be the first stone. Abraham would have sent Lazarus. The Lord would not have said they have Moses and the prophets. If Matthew 16 were this narrative, this school would teach Matthew 16. That reference was an error. We will not repeat it.
 
 Application: where have you treated Hell-avoidance as if it were metanoia? Where have you preached the flame and omitted the cause? Where have you used fear as if it were a new creature?
 
@@ -268,17 +268,17 @@ The old man is not an unused costume. The spirit worketh. Disobedience has child
 
 2 Corinthians 4:4 — “In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them.”
 
-Chapter 3 will open image. Here the verse sits in the old-man cluster: a blinding power, minds held from the gospel. That is not a habit.
+Chapter 3 will open image. Here the verse sits in the old-man Scripture set: a blinding power, minds held from the gospel. That is not a habit.
 
 1 John 3:8 — “He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.”
 
 1 John 3:9 — “Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.”
 
-Hold 3:8 and 3:9. Do not soften this cluster. Do not invent a third nature this school does not name. The old man is of the devil. The born of God is another creature. That is why old things pass.
+Hold 3:8 and 3:9. Do not soften this Scripture set. Do not invent a third nature this school does not name. The old man is of the devil. The born of God is another creature. That is why old things pass.
 
 1 John 5:18 — “We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not.”
 
-Sinneth not. Keepeth himself. The wicked one toucheth him not. The old-man file ends, in this cluster, with a man the wicked one does not touch — not because the man is careful in a slogan, but because he is begotten of God.
+Sinneth not. Keepeth himself. The wicked one toucheth him not. The old-man file ends, in this Scripture set, with a man the wicked one does not touch — not because the man is careful in a slogan, but because he is begotten of God.
 
 Ephesians 4:22 — “That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;”
 
@@ -290,7 +290,7 @@ The former conversation is not a list of quirks. It is the walk of the old man. 
 
 Cluster held: John 8:44; Ephesians 2:2; 2 Corinthians 4:4; 1 John 3:8-9; 1 John 5:18; Ephesians 4:22. One old thing. Spirit, nature, and power of sin. Nothing more nor less than the spirit and nature of the devil working in men of disobedience.
 
-Charge on old thing 1: can you teach John 8:44, Ephesians 2:2, and 1 John 3:8-9 as one cluster without calling the old man “a bad habit”? Write the teaching in one page. If you are on The Walk, one tight page. If you are on The Intensive, one page that walks each verse and then the cluster.
+Charge on old thing 1: can you teach John 8:44, Ephesians 2:2, and 1 John 3:8-9 as one Scripture set without calling the old man “a bad habit”? Write the teaching in one page. If you are on The Walk, one tight page. If you are on The Intensive, one page that walks each verse and then the Scripture set.
 
 B. Old thing 2 — outward sin
 
@@ -328,7 +328,7 @@ Mark 7:22 — “Thefts, covetousness, wickedness, deceit, lasciviousness, an ev
 
 Mark 7:23 — “All these evil things come from within, and defile the man.”
 
-This teaching printed Mark 7:19-21. The account you must teach is 7:20-23. Outward sin is not a stain that fell on a clean man from a dirty world. It proceeds. It defiles.
+This teaching places Mark 7:19-21. The account you must teach is 7:20-23. Outward sin is not a stain that fell on a clean man from a dirty world. It proceeds. It defiles.
 
 Romans 1:18 — “For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;”
 
@@ -526,7 +526,7 @@ Write Hebrews 6:1. Write 2 Corinthians 5:17. Write Matthew 27:3-5. Write Luke 13
 
 Reason metanoia: change of mind and attitude toward sin and its cause, including reformation, new creature.
 
-Reason metamellomai: regret of consequences, not the cause. Judas. The silver. The hanging.
+Reason μεταμέλομαι (metamellomai): regret of consequences, not the cause. Judas. The silver. The hanging.
 
 Reason nekros ergon: dead works of the old man and the old nature. Not boredom.
 
@@ -550,9 +550,9 @@ XI. LABOUR FOR THE WALK AND THE INTENSIVE
 
 Same doctrine. Same first stone. Different hours. Course 1 occupies nine of the fifty-two weeks. This chapter is the weight of those weeks, with Chapter 1 as the gate.
 
-The Walk — about three hours a week. Read this chapter in sittings you can finish without skimming the lists. Write the seven words with one verse each. Write ten lines on metanoia versus metamellomai. Name the two old things. Write Romans 6:23 and Acts 4:12 and Romans 10:9. Confess the Lord Jesus if you have not. Write the eight examination points below as eight tight paragraphs.
+The Walk — about three hours a week. Read this chapter in sittings you can finish without skimming the lists. Write the seven words with one verse each. Write ten lines on metanoia versus μεταμέλομαι (metamellomai). Name the two old things. Write Romans 6:23 and Acts 4:12 and Romans 10:9. Confess the Lord Jesus if you have not. Write the eight examination points below as eight tight paragraphs.
 
-Intensive — about eight hours a week. Read until you can teach. Write the seven words with their full verses and a sentence of context each. Write a full page on Judas that does not treat his remorse as the stone. Write Luke 16:27-31 and say what Abraham refused. Write one page on the old-man cluster without the word “basically.” Walk Galatians 5 and Mark 7 without calling them the old man. Write Hebrews 9:14 as a paragraph a babe could follow. Write the eight examination points as eight full pages.
+Intensive — about eight hours a week. Read until you can teach. Write the seven words with their full verses and a sentence of context each. Write a full page on Judas that does not treat his remorse as the stone. Write Luke 16:27-31 and say what Abraham refused. Write one page on the old-man Scripture set without the word “basically.” Walk Galatians 5 and Mark 7 without calling them the old man. Write Hebrews 9:14 as a paragraph a babe could follow. Write the eight examination points as eight full pages.
 
 Both: same exams. Same certificate when a certificate is issued. No second curriculum. A certificate later will ask more than a click. Mastery is not completion of activities.
 
@@ -562,15 +562,15 @@ This section is not a new doctrine. It is the examination of the stone.
 
 You should now be able to teach, from Scripture:
 
-1. Graphē over religiousism — Chapter 1, still in force.
-2. Babe versus teacher; apeiros; nēpios; two marks — Chapter 1, still in force.
+1. Graphē over religious substitute — Chapter 1, still in force.
+2. Babe versus teacher; ἄπειρος (apeiros); νήπιος (nēpios); two marks — Chapter 1, still in force.
 3. Spoudazō as labour — Chapter 1, still in force.
-4. The seven words; metanoia versus metamellomai.
+4. The seven words; metanoia versus μεταμέλομαι (metamellomai).
 5. Cause versus consequence (Luke 16:19-31; Revelation 20:10-15).
 6. Two old things.
 7. Wages and the only salvation you need.
 8. Christ the only way; no other name; receive Him.
 
-Write the principle as you would teach it to a babe, then as you would stand behind it before a teacher. Name the two old things. Name the difference between metanoia and metamellomai. Do not submit a feeling in the place of the cluster.
+Write the principle as you would teach it to a babe, then as you would stand behind it before a teacher. Name the two old things. Name the difference between metanoia and μεταμέλομαι (metamellomai). Do not submit a feeling in the place of the Scripture set.
 
 Then you are ready to be taught faith toward God — not as a feeling, but as the state of sons. Chapter 3 will open that stone. Do not carry an unlaid first stone into it and call the carrying growth.`;

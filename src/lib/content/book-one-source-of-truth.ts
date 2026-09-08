@@ -57,19 +57,19 @@ The writing He cited is Psalm 82:6 — “I have said, Ye are gods; and all of y
 
 Who speaks? The Lord Jesus. To whom? Jews who had taken up stones because He said, I and my Father are one. Why? Because they charged blasphemy, and He answered from the writing they already owned as law. He does not argue from mood. He does not argue from a voice they cannot open. He argues from what is written. He names the persons in the psalm as those unto whom the word of God came. Then He sets the rule that will govern every page after this one: the scripture cannot be broken.
 
-Hold the cluster. Do not take 10:35 as a motto and leave 10:34 and 10:36 on the table. The Lord asks whether it is written. He reasons from that writing. He will not let men set His own claim against the Scripture. If He will not break the writing to answer a charge of blasphemy, no later teacher will be asked to break it to make a convenient Christian experience.
+Hold the Scripture set. Do not take 10:35 as a motto and leave 10:34 and 10:36 on the table. The Lord asks whether it is written. He reasons from that writing. He will not let men set His own claim against the Scripture. If He will not break the writing to answer a charge of blasphemy, no later teacher will be asked to break it to make a convenient Christian experience.
 
-Psalm 82:7 remains in the psalm: “But ye shall die like men, and fall like one of the princes.” Later chapters will have their work. Here the point is narrower and it will stay narrower: the Lord pillows in the graphē. The writing is the court.
+Psalm 82:7 remains in the psalm: “But ye shall die like men, and fall like one of the princes.” Later chapters will have their work. Here the point is narrower and it will stay narrower: the Lord rests under the graphē. The writing is the court.
 
-III. True Christ-ian experience pillows here
+III. True Christian experience rests here
 
-Over the ages, the design of God for a naturalistic Christ-ian experience has pillowed in conformity with the unleavened sincerity and truth of that graphē.
+Over the ages, the design of God for a Scripture-conforming Christian experience has rested under conformity with the unleavened sincerity and truth of that graphē.
 
-Naturalistic, as this teaching uses the word, means following the teachings of Jesus Christ, or manifesting the qualities or spirit of Jesus Christ. It is not nature-worship. It is not a philosophical system borrowed from another house and forced onto the page. It names an experience that follows Christ and does so in conformity with the writing.
+Scripture-conforming, as this teaching uses the word, means following the teachings of Jesus Christ, or manifesting the qualities or spirit of Jesus Christ. It is not nature-worship. It is not a philosophical system borrowed from another house and forced onto the page. It names an experience that follows Christ and does so in conformity with the writing.
 
-The experience pillows in the writing. Unleavened sincerity and truth are not a mood of honesty. They name the refusal to mix the writing with a substitute and call the mixture experience. There is another thing that calls itself Christian experience and is not: a likeness that will not sit down under the text — ersatz analogical, nonliteral religiousisms. Chapter 3 will open that contrast in full. Chapter 1 must already refuse the method: do not invent a likeness and then hunt a verse to bless the likeness.
+The experience rests under the writing. Unleavened sincerity and truth are not a mood of honesty. They name the refusal to mix the writing with a substitute and call the mixture experience. There is another thing that calls itself Christian experience and is not: a likeness that will not sit down under the text — substitute religious likenesses that refuse Scripture. Chapter 3 will open that contrast in full. Chapter 1 must already refuse the method: do not invent a likeness and then hunt a verse to bless the likeness.
 
-True Christ-ian experience is therefore not first a feeling, a room, or a heritage. It is conformity with the unleavened sincerity and truth of the graphē. If the experience will not pillow there, it is not the experience the design of God has given.
+True Christian experience is therefore not first a feeling, a room, or a heritage. It is conformity with the unleavened sincerity and truth of the graphē. If the experience will not rest there, it is not the experience the design of God has given.
 
 IV. The questions that follow from a writing
 
@@ -82,15 +82,15 @@ How is it to be reasoned through?
 How is it to be rightly handled?
 How does what is written govern what we believe and how we live?
 
-Those questions are hermeneutical and epistemological at once. They ask how the writing is handled, and how truth is known. They also ask how a man grows. A people can possess Bibles and still be dull of hearing. A house can be old and still unskilled in the word of righteousness. Later chapters will name apeiros, nēpios, reasonability, aridity, and the labour that Scripture itself demands. None of that labour has meaning if the source has not been named.
+Those questions are hermeneutical and epistemological at once. They ask how the writing is handled, and how truth is known. They also ask how a man grows. A people can possess Bibles and still be dull of hearing. A house can be old and still unskilled in the word of righteousness. Later chapters will name ἄπειρος (apeiros), νήπιος (nēpios), sound judgment, spiritual dryness, and the labour that Scripture itself demands. None of that labour has meaning if the source has not been named.
 
-The graphē is the premiere convention for hearing from God and for spiritual growth. Premiere: first in order, not first in fashion. Convention: the appointed way God has given. This volume examines that convention. It is not itself the convention. Holy Writ remains the court. These pages sit under it.
+The graphē is the appointed written authority for hearing from God and for spiritual growth. It is first in order: the appointed written authority God has given. This volume explains that authority. It is not itself the authority. Holy Writ remains the court. These pages sit under it.
 
 V. What this chapter has established
 
-Graphē is Holy Writ — the Bible, Scripture, the written Word. The Lord answered from that writing, and the scripture cannot be broken. God’s design for a true Christ-ian experience pillows in the unleavened sincerity and truth of that graphē. The questions of this book begin there: what is written, what it says, how it is known, how it is handled, and how it governs life.
+Graphē is Holy Writ — the Bible, Scripture, the written Word. The Lord answered from that writing, and the scripture cannot be broken. God’s design for a true Christian experience rests under the unleavened sincerity and truth of that graphē. The questions of this book begin there: what is written, what it says, how it is known, how it is handled, and how it governs life.
 
-Chapter 2 will open the authority of that writing: Holy Writ as writings or sayings of unchallenged-unquestionable authority, and the reach of that imprimatur. The source has been named. The court is open.`,
+Chapter 2 will open the authority of that writing: Holy Writ as writings or sayings of unchallenged-unquestionable authority, and the reach of that authority. The source has been named. The court is open.`,
   },
   {
     id: "ch-ost-2",
@@ -99,7 +99,7 @@ Chapter 2 will open the authority of that writing: Holy Writ as writings or sayi
     title: "Holy Writ and the Authority of the Writing",
     body: `Chapter 1 named the source. This chapter opens its authority.
 
-Holy Writ is writings or sayings of unchallenged-unquestionable authority. That is imprimatur. The mark is not a stamp a publisher sets on a dust jacket. It is not the approval of a house that prints Bibles. It is the authority of the writing itself. The graphē does not wait for a later court to make it Holy Writ. It stands as writings that cannot be broken.
+Holy Writ is writings or sayings of unchallenged-unquestionable authority. That is authority. The mark is not a stamp a publisher sets on a dust jacket. It is not the approval of a house that prints Bibles. It is the authority of the writing itself. The graphē does not wait for a later court to make it Holy Writ. It stands as writings that cannot be broken.
 
 I. Holy Writ is a designation of weight
 
@@ -111,15 +111,15 @@ II. The verse that marks the authority
 
 John 10:35 — “If he called them gods, unto whom the word of God came, and the scripture cannot be broken;”
 
-Hold the verse in the cluster already opened. The Lord asks, Is it not written in your law? He cites Psalm 82:6. He names those unto whom the word of God came. He sets the rule: the scripture cannot be broken. Then He reasons from that rule to His own claim. Authority and argument are one act. He does not first establish a mood and then look for a text. He does not first claim a private word and then use Scripture as decoration. He stands in the court of what is written.
+Hold the verse in the Scripture set already opened. The Lord asks, Is it not written in your law? He cites Psalm 82:6. He names those unto whom the word of God came. He sets the rule: the scripture cannot be broken. Then He reasons from that rule to His own claim. Authority and argument are one act. He does not first establish a mood and then look for a text. He does not first claim a private word and then use Scripture as decoration. He stands in the court of what is written.
 
-That is imprimatur as this book uses the word. Writings or sayings of unchallenged-unquestionable authority. The authority is attached to the writing. It is not attached to the interpreter who happens to be holding it. It is not attached to the age of the organization that quotes it. It is not attached to the sincerity of the person who believes it. Sincerity may be real. Age may be long. Office may be high. None of those things is the mark. The mark is the writing.
+That is authority as this book uses the word. Writings or sayings of unchallenged-unquestionable authority. The authority is attached to the writing. It is not attached to the interpreter who happens to be holding it. It is not attached to the age of the organization that quotes it. It is not attached to the sincerity of the person who believes it. Sincerity may be real. Age may be long. Office may be high. None of those things is the mark. The mark is the writing.
 
 If the writing could be broken to save a convenience, it would not be Holy Writ. It would be a resource. A resource can be edited when it obstructs. Holy Writ cannot. The Lord would not break it to answer blasphemy. A later age will not be asked to break it to answer dullness, or to bless a likeness of the faith, or to keep a house from being troubled by what the page actually says.
 
 III. Whom the writing binds
 
-That imprimatur governs persons, organizations, governments, and nations.
+That authority governs persons, organizations, governments, and nations.
 
 A person is under it. Private devotion does not shrink the writing into a private book. If the scripture cannot be broken, it cannot be broken in a kitchen any more than in a council. A man does not acquire a safer Bible by being sincere, young, old, gifted, or tired.
 
@@ -137,7 +137,7 @@ This is why maturity is already in view. If the final court is not the writing, 
 
 V. What this chapter has established
 
-Holy Writ names the graphē as writings or sayings of unchallenged-unquestionable authority. Imprimatur is that mark, not a publisher’s stamp. The Lord attached it to the writing when He said the scripture cannot be broken. The mark binds persons, organizations, governments, and nations. Nothing that quotes the writing stands above the writing.
+Holy Writ names the graphē as writings or sayings of unchallenged-unquestionable authority. Authority is that mark, not a publisher’s stamp. The Lord attached it to the writing when He said the scripture cannot be broken. The mark binds persons, organizations, governments, and nations. Nothing that quotes the writing stands above the writing.
 
 Chapter 3 will ask the next question: does experience judge the writing, or does the writing judge the experience? The court is named. The experience must now sit down under it.`,
   },
@@ -145,56 +145,56 @@ Chapter 3 will ask the next question: does experience judge the writing, or does
     id: "ch-ost-3",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 3,
-    title: "The Graphē and the Christ-ian Experience",
+    title: "The Graphē and the Christian Experience",
     body: `The court is named. The question now is the experience.
 
 Does the experience conform to the writing, or is the writing recruited to justify the experience?
 
-Over the ages, the design of God for a naturalistic Christ-ian experience has pillowed in conformity with the unleavened sincerity and truth of the graphē. That sentence is the governing proposition of this chapter. The design is God’s. The experience is Christ-ian. The pillow is the writing. If those three come apart, what remains may still use Christian words. It will not be the experience the design has given.
+Over the ages, the design of God for a Scripture-conforming Christian experience has rested under conformity with the unleavened sincerity and truth of the graphē. That sentence is the governing proposition of this chapter. The design is God’s. The experience is Christian. The resting place is the writing. If those three come apart, what remains may still use Christian words. It will not be the experience the design has given.
 
-I. Naturalistic Christ-ian experience
+I. Scripture-conforming Christian experience
 
-Naturalistic, as this teaching uses the word, means following the teachings of Jesus Christ, or manifesting the qualities or spirit of Jesus Christ. It is not nature-worship. It is not a concession to the age. It is not a philosophical naturalism imported from another house and forced onto the page. It names an experience that follows Christ and does so in conformity with the graphē.
+Scripture-conforming, as this teaching uses the word, means following the teachings of Jesus Christ, or manifesting the qualities or spirit of Jesus Christ. It is not nature-worship. It is not a concession to the age. It is not a philosophical naturalism imported from another house and forced onto the page. It names an experience that follows Christ and does so in conformity with the graphē.
 
-Christ-ian is kept with the hyphen for that reason. The word is not a brand. It is the following of His teachings, or the manifesting of His qualities or His spirit. The test of that following is not the heat of the room. The test is the writing. The experience pillows there.
+Christian is kept with the hyphen for that reason. The word is not a brand. It is the following of His teachings, or the manifesting of His qualities or His spirit. The test of that following is not the heat of the room. The test is the writing. The experience rests there.
 
-Unleavened sincerity and truth are not a mood of honesty. A man may be honest in a likeness. Honesty does not make the likeness the writing. Unleavened sincerity and truth name the refusal to mix the graphē with a substitute and call the mixture experience. Leaven here is mixture. The design of God has not given a mixed pillow.
+Unleavened sincerity and truth are not a mood of honesty. A man may be honest in a likeness. Honesty does not make the likeness the writing. Unleavened sincerity and truth name the refusal to mix the graphē with a substitute and call the mixture experience. Leaven here is mixture. The design of God has not given a mixed resting place.
 
-The Lord has already shown the method. He answered a charge of blasphemy from what was written. He did not invent a more convenient experience and then look for a verse. He sat down under the text He already owned as law. A naturalistic Christ-ian experience does the same. It follows Him there.
+The Lord has already shown the method. He answered a charge of blasphemy from what was written. He did not invent a more convenient experience and then look for a verse. He sat down under the text He already owned as law. A Scripture-conforming Christian experience does the same. It follows Him there.
 
-II. Ersatz analogical, nonliteral religiousisms
+II. Substitute religious likenesses that refuse Scripture
 
-There is another thing that calls itself Christian experience and is not. This teaching names it ersatz analogical, nonliteral religiousisms.
+There is another thing that calls itself Christian experience and is not. This teaching names it substitute religious likenesses that refuse Scripture.
 
-Ersatz: a substitute. Analogical: a likeness, a comparison that will not bear the weight of the thing itself. Nonliteral: a refusal to let the words mean what they say. Religiousisms: the -ism that remains when the graphē is no longer the pillow.
+Substitute: a substitute. Analogical: a likeness, a comparison that will not bear the weight of the thing itself. Nonliteral: a refusal to let the words mean what they say. Religious substitutes: the -ism that remains when the graphē is no longer the resting place.
 
 Keep those terms. They are not ornament. Softening them into “bad religion,” “legalism,” or “the wrong crowd” changes the diagnosis. The contrast is not Bible people versus unspiritual people. A likeness can carry a Bible. A likeness can fill a room. A likeness can be old, funded, sincere, and full of Christian vocabulary. A likeness will not sit down under the text. It uses the writing as decoration. It hunts a verse to bless what it has already decided to be.
 
-That is the method this chapter refuses. Do not invent a likeness and then recruit the graphē to justify the likeness. The writing is not a quarry for mottoes. The writing is the pillow.
+That is the method this chapter refuses. Do not invent a likeness and then recruit the graphē to justify the likeness. The writing is not a quarry for mottoes. The writing is the resting place.
 
 III. What will not decide the matter
 
 Sincerity will not decide it. A man may be sincere in the substitute. Sincerity does not make the substitute Holy Writ.
 
-Age will not decide it. An organization may be old in the likeness. Age does not make the likeness the oracles of God. Chapter 2 has already said that age-old houses are under the writing. This chapter adds: they may still be ersatz while they quote it.
+Age will not decide it. An organization may be old in the likeness. Age does not make the likeness the oracles of God. Chapter 2 has already said that age-old houses are under the writing. This chapter adds: they may still be substitute while they quote it.
 
 Institutional acceptance will not decide it. A practice may be common, licensed, and praised. Commonness is not conformity.
 
-Intensity will not decide it. An experience may be strong, public, and moving. Strength is not a court. If the experience will not be judged by what is written, it has already left the premiere convention, however Christian the language that follows it.
+Intensity will not decide it. An experience may be strong, public, and moving. Strength is not a court. If the experience will not be judged by what is written, it has already left the appointed written authority, however Christian the language that follows it.
 
 The question remains exact. Does the experience conform to the writing, or does the writing get recruited to justify the experience? One of those two is happening whenever a people speak of “what God is doing.” The graphē decides which.
 
 IV. Why this is a question of maturity
 
-If experience is the court, skill in the Word becomes optional. A people can then grow in feeling and remain apeiros in the word of righteousness. They can be dull of hearing while they call the dullness anointing. They can turn from what was written and call the turn growth.
+If experience is the court, skill in the Word becomes optional. A people can then grow in feeling and remain ἄπειρος (apeiros) in the word of righteousness. They can be dull of hearing while they call the dullness anointing. They can turn from what was written and call the turn growth.
 
 If the writing is the court, the experience must sit down. Following the teachings of Jesus Christ, or manifesting His qualities or His spirit, is then a conformity, not a performance. Growth is first principles, then maturity — under the writing, not around it.
 
-The Lord would not break the scripture to answer blasphemy. This chapter will not break it to save an experience. Holy Writ remains the pillow. The likeness that will not sit there is not the design of God, whatever name it wears.
+The Lord would not break the scripture to answer blasphemy. This chapter will not break it to save an experience. Holy Writ remains the resting place. The likeness that will not sit there is not the design of God, whatever name it wears.
 
 V. What this chapter has established
 
-God’s design for a naturalistic Christ-ian experience pillows in the unleavened sincerity and truth of the graphē. Naturalistic means following Christ’s teachings, or manifesting His qualities or His spirit, in conformity with the writing. Ersatz analogical, nonliteral religiousisms are a substitute likeness that will not sit under the text. Sincerity, age, institution, and intensity do not decide the matter. The writing does.
+God’s design for a Scripture-conforming Christian experience rests under the unleavened sincerity and truth of the graphē. Scripture-conforming means following Christ’s teachings, or manifesting His qualities or His spirit, in conformity with the writing. Substitute religious likenesses are forms of imitation that will not sit under the text. Sincerity, age, institution, and intensity do not decide the matter. The writing does.
 
 The source is named. The authority is marked. The experience has been seated under the writing. The next movement of the book is the crisis that follows when other courts refuse that seat: who has the final word when claims of truth conflict.`,
   },
@@ -248,7 +248,7 @@ That distinction is the crisis inside the crisis. A people may confess that Holy
 
 I. Under, beside, or above
 
-Under the writing: the interpreter opens the text, holds the cluster, and lets the page correct him. He may be skilled or unskilled. He is still under it. 2 Timothy 2:15 names the labour: “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.” Rightly dividing assumes the word is truth before the workman divides it. The workman can divide wrongly. Shame is bad work before God, not a failure of loyalty to an office.
+Under the writing: the interpreter opens the text, holds the Scripture set, and lets the page correct him. He may be skilled or unskilled. He is still under it. 2 Timothy 2:15 names the labour: “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.” Rightly dividing assumes the word is truth before the workman divides it. The workman can divide wrongly. Shame is bad work before God, not a failure of loyalty to an office.
 
 Beside the writing: the interpreter and the text are treated as a pair that must agree. When they do not, the pair is “held together” until the text is made to mean what the interpreter already taught. The writing is honoured as a companion. It is not allowed to break the companion.
 
@@ -266,7 +266,7 @@ III. Dependence
 
 When the interpreter is the final court, the believer cannot test doctrine except by that interpreter. Skill in the Word is then replaced by skill in the house’s voice. Dullness of hearing can be institutionalized and called covering. A people can become unable to examine a claim independently from Scripture, and call that inability humility.
 
-The manuscript’s later diagnosis is already visible here. Absence of reasonability and presence of unskillfulness produce aridity and tergiversation, even among age-old organizations ostensibly Christianized, ensued in damnable accepted heresies called doctrines. An interpreter who cannot be tested by the writing is one way that chain is laid.
+The manuscript’s later diagnosis is already visible here. Absence of sound judgment and presence of unskillfulness produce spiritual dryness and doctrinal turning aside, even among age-old organizations ostensibly Christianized, ensued in damnable accepted heresies called doctrines. An interpreter who cannot be tested by the writing is one way that chain is laid.
 
 IV. What this chapter has established
 
@@ -315,7 +315,7 @@ This chapter will not caricature those houses. It will not pretend each receives
 
 IV. What each court trains
 
-Each court trains a kind of hearing. A writing-court trains a man to open the cluster. An office-court trains him to wait for the office. A prophet-court trains him to chase the next word. An experience-court trains him to read his pulse as the verse. Maturity follows the court. If the court is not the graphē, skill in the Word is not the path that house will produce, however many Bibles it prints.
+Each court trains a kind of hearing. A writing-court trains a man to open the Scripture set. An office-court trains him to wait for the office. A prophet-court trains him to chase the next word. An experience-court trains him to read his pulse as the verse. Maturity follows the court. If the court is not the graphē, skill in the Word is not the path that house will produce, however many Bibles it prints.
 
 V. What this chapter has established
 
@@ -328,17 +328,17 @@ The kinds of court can be named: writing, tradition, office, confession, prophet
     title: "When Religion Calls Its Own Tradition Truth",
     body: `Does antiquity authenticate doctrine?
 
-The manuscript will not grant that it does. Predominantly, the absence of reasonability — sound judgment — and the presence of unskillfulness produce aridity and tergiversation amongst persons, even age-old organizations ostensibly Christianized: ensued in damnable accepted heresies called doctrines.
+The manuscript will not grant that it does. Predominantly, the absence of sound judgment — sound judgment — and the presence of unskillfulness produce spiritual dryness and doctrinal turning aside amongst persons, even age-old organizations ostensibly Christianized: ensued in damnable accepted heresies called doctrines.
 
 That sentence is the governing diagnosis of this chapter. Age is in the sentence. So is the appearance of being Christianized. So is the result: heresies accepted, and called doctrines. The problem is not that error exists. The problem is that error has been installed as teaching, and the house is old enough to forget that it was installed.
 
 I. Age-old and ostensibly Christianized
 
-Ostensibly means the appearance is granted. The organization looks Christian. It uses the vocabulary. It may hold the book. It may be older than the reader’s nation. None of that is the imprimatur. Chapter 2 already bound organizations under Holy Writ. This chapter adds what the manuscript adds: they can still go dry, and they can still turn.
+Ostensibly means the appearance is granted. The organization looks Christian. It uses the vocabulary. It may hold the book. It may be older than the reader’s nation. None of that is the authority. Chapter 2 already bound organizations under Holy Writ. This chapter adds what the manuscript adds: they can still go dry, and they can still turn.
 
-Aridity is dryness where the oracles should yield. The meetings continue. The vocabulary continues. The writing does not yield because it is not known, not reasoned, not used.
+Spiritual dryness is dryness where the oracles should yield. The meetings continue. The vocabulary continues. The writing does not yield because it is not known, not reasoned, not used.
 
-Tergiversation is turning from what was said. The house shifts. It changes the proposition. It refuses the textual consequence. It calls the shift growth, or development, or the mind of the age.
+Doctrinal turning aside is turning from what was said. The house shifts. It changes the proposition. It refuses the textual consequence. It calls the shift growth, or development, or the mind of the age.
 
 What follows is damnable accepted heresies called doctrines. Damnable: not a taste dispute. Accepted: the house diet. Called doctrines: the name “doctrine” has been put on what the graphē will not bear.
 
@@ -348,7 +348,7 @@ A tradition may preserve a true thing. It may also preserve a substitute and tea
 
 If tradition is the court, the believer’s question becomes “What have we always said?” If the graphē is the court, the question remains “What has God written?” Those are not the same question. The first can be answered from minutes, councils, and memory. The second must be answered from the page. A house that will not allow the second question has already made its tradition Holy Writ, whether or not it uses that name.
 
-Sincerity does not rescue the tradition. Office does not. Continuity does not. The manuscript’s blame is still the blame: failure to realize the scholarly impetus of the scripture and to align accordingly — failure to know the scriptures, soft copy or hard. Format will not save an old house. Labour in the writing might.
+Sincerity does not rescue the tradition. Office does not. Continuity does not. The manuscript’s blame is still the blame: failure to realize the Scripture’s demand for diligent study of the scripture and to align accordingly — failure to know the scriptures, soft copy or hard. Format will not save an old house. Labour in the writing might.
 
 III. Why this is still a maturity question
 
@@ -375,7 +375,7 @@ I. One source, not a panel
 
 A panel of authorities can discuss. A court decides. Holy Writ is writings or sayings of unchallenged-unquestionable authority. Unchallenged-unquestionable does not mean men have never opened their mouths against it. It means the writing does not lose the bench when they do.
 
-The names remain stacked so the claim cannot shrink: graphē · Holy Writ · Bible · Scripture · the written Word. If “Bible” is allowed to mean a product, the source has already been reduced. If “Scripture” is allowed to mean a mood, the source has already been replaced. If “Word” is allowed to mean whatever a speaker felt, the court has already moved. Graphē will not permit that shrinkage. It names writings — sayings that stand in writing — of imprimatur.
+The names remain stacked so the claim cannot shrink: graphē · Holy Writ · Bible · Scripture · the written Word. If “Bible” is allowed to mean a product, the source has already been reduced. If “Scripture” is allowed to mean a mood, the source has already been replaced. If “Word” is allowed to mean whatever a speaker felt, the court has already moved. Graphē will not permit that shrinkage. It names writings — sayings that stand in writing — of authority.
 
 John 10:35 — “If he called them gods, unto whom the word of God came, and the scripture cannot be broken;”
 
@@ -389,17 +389,17 @@ II. What the one source does
 
 The graphē is the source by which truth is known. Knowing here is not a pile of quotations. Later chapters will open knowledge as perception, learning, and reasoning. The point now is prior: there is a writing to perceive. Without one source, “knowing” becomes loyalty to whichever court trained the ear.
 
-The graphē is the source by which truth is examined. A claim can be opened beside the page. The cluster can be held. The words can be kept. If the page cannot judge the claim, the claimant is the court. Examination is not hostility. It is the refusal to call a likeness unleavened sincerity and truth.
+The graphē is the source by which truth is examined. A claim can be opened beside the page. The Scripture set can be held. The words can be kept. If the page cannot judge the claim, the claimant is the court. Examination is not hostility. It is the refusal to call a likeness unleavened sincerity and truth.
 
 The graphē is the source by which truth is established and taught. First principles of the oracles of God are not first principles of a house brand. They are bound in the writing. A teacher who will not sit under that writing is not teaching the oracles. He is teaching a likeness. The house may still call the likeness doctrine. Chapter 7 has already named that result: damnable accepted heresies called doctrines.
 
-The graphē is the source by which truth is discerned and lived. Discernment of good and evil is given, in the Hebrews cluster, to those who by reason of use have their senses exercised. Use of what? The word. If another court is the object of use, the house will discern by that court. Living will then pillow in the house’s voice, not in the unleavened sincerity and truth of the writing.
+The graphē is the source by which truth is discerned and lived. Discernment of good and evil is given, in the Hebrews Scripture set, to those who by reason of use have their senses exercised. Use of what? The word. If another court is the object of use, the house will discern by that court. Living will then rest under the house’s voice, not in the unleavened sincerity and truth of the writing.
 
 III. One source for persons and houses
 
-The imprimatur is not a private devotion stamp. The writing’s authority is named for persons, organizations, governments, and nations. That scope is not a political program. It is a refusal of exemption. A man cannot say the writing is for the pulpit but not for the house. A house cannot say the writing is for the member but not for the office. A nation cannot baptize its custom and call the baptism Holy Writ.
+The authority is not a private devotion stamp. The writing’s authority is named for persons, organizations, governments, and nations. That scope is not a political program. It is a refusal of exemption. A man cannot say the writing is for the pulpit but not for the house. A house cannot say the writing is for the member but not for the office. A nation cannot baptize its custom and call the baptism Holy Writ.
 
-If there were many final written sources, each house could name its own and the conflict would be unjudgeable. One source makes the conflict judgeable. The page can be opened in the hearing of others. The cluster can be held. The claim can be tested. That is why writtenness is essential to the thesis. A private impression cannot be opened that way. A tradition that will not sit down cannot be opened that way.
+If there were many final written sources, each house could name its own and the conflict would be unjudgeable. One source makes the conflict judgeable. The page can be opened in the hearing of others. The Scripture set can be held. The claim can be tested. That is why writtenness is essential to the thesis. A private impression cannot be opened that way. A tradition that will not sit down cannot be opened that way.
 
 IV. One court makes testing — and maturity — possible
 
@@ -407,7 +407,7 @@ If there is no single written court, the believer cannot test doctrine except by
 
 If there is one written court, the believer can grow by labour in that writing — first principles, then maturity. Testing is possible because the court can be opened by another man with the same page. Teaching is possible because the oracles are not the property of a single interpreter. Going on is possible because the foundation can be examined and then built upon.
 
-The premiere convention for hearing from God and for spiritual growth is the graphē. Premiere: first in order, not first in fashion. Convention: the appointed way God has given. This book examines that convention. It is not itself the convention. Holy Writ remains the court.
+The appointed written authority for hearing from God and for spiritual growth is the graphē. It is first in order: the appointed written authority God has given. This book examines that authority. It is not itself the authority. Holy Writ remains the court.
 
 V. What this chapter has established
 
@@ -422,9 +422,9 @@ One source of truth: the graphē — Holy Writ. Not one source among several. No
 
 “If he called them gods, unto whom the word of God came, and the scripture cannot be broken;”
 
-Cannot be broken is not a motto for a banner. It is a prohibition. The writing may not be fractured to save a convenience, a charge, a tradition, an experience, or an interpretation. Chapter 1 opened the cluster. This chapter follows the rule to its end.
+Cannot be broken is not a motto for a banner. It is a prohibition. The writing may not be fractured to save a convenience, a charge, a tradition, an experience, or an interpretation. Chapter 1 opened the Scripture set. This chapter follows the rule to its end.
 
-I. The cluster again, as a rule
+I. The Scripture set again, as a rule
 
 John 10:34 — “Jesus answered them, Is it not written in your law, I said, Ye are gods?”
 
@@ -436,7 +436,7 @@ The writing He cited is Psalm 82:6 — “I have said, Ye are gods; and all of y
 
 He asks whether it is written. He cites the psalm. He names those unto whom the word of God came. He sets the rule. He reasons from the rule to His own claim. The writing is not used after the argument is finished. The writing is the argument’s court.
 
-Hold the cluster. Do not take “cannot be broken” and leave 10:34 and 10:36 on the table. The question “Is it not written?” is already the method. The charge of blasphemy is already the pressure. The Lord’s refusal to invent a safer Bible is already the pattern. If He will not break the writing to answer that charge, no later teacher will be asked to break it to answer dullness, or to bless a likeness, or to keep a house from being troubled.
+Hold the Scripture set. Do not take “cannot be broken” and leave 10:34 and 10:36 on the table. The question “Is it not written?” is already the method. The charge of blasphemy is already the pressure. The Lord’s refusal to invent a safer Bible is already the pattern. If He will not break the writing to answer that charge, no later teacher will be asked to break it to answer dullness, or to bless a likeness, or to keep a house from being troubled.
 
 If the scripture could be broken here, it could be broken anywhere. A safer Bible could be invented whenever the page obstructed a desired conclusion. That invention is exactly what the verse forbids.
 
@@ -444,19 +444,19 @@ II. What breaking looks like
 
 Breaking is not only tearing a page. Breaking is treating the writing as a resource that may be edited in practice.
 
-It is broken when a verse is isolated to manufacture a doctrine the cluster will not bear. It is broken when a tradition requires the words to mean what they do not say. It is broken when an interpreter stands above the text and calls the result “what Scripture teaches.” It is broken when an experience is named first and a text is hunted second. It is broken when “cannot be broken” itself is reduced to a slogan and the surrounding verses are left unused.
+It is broken when a verse is isolated to manufacture a doctrine the Scripture set will not bear. It is broken when a tradition requires the words to mean what they do not say. It is broken when an interpreter stands above the text and calls the result “what Scripture teaches.” It is broken when an experience is named first and a text is hunted second. It is broken when “cannot be broken” itself is reduced to a slogan and the surrounding verses are left unused.
 
 It is broken when a house keeps the vocabulary and changes the proposition. It is broken when a teacher quotes the verse and then reasons from a different court. It is broken when the writing is honoured as a companion and not allowed to correct the companion. Chapter 5 named the places: under, beside, or above. Breaking is the third place in action.
 
-A book — including this one — that will not sit under John 10:35 has already left the premiere convention, however Christian its vocabulary. The convention is the writing. The pages under it are not the writing.
+A book — including this one — that will not sit under John 10:35 has already left the appointed written authority, however Christian its vocabulary. The authority is the writing. The pages under it are not the writing.
 
 III. The safer Bible
 
-The safer Bible is the Bible that will not obstruct. It is assembled whenever a conclusion has already been chosen. The cluster is trimmed. The hard word is reassigned. The contrary verse is postponed. The result is still called Scripture. It is Scripture after the break.
+The safer Bible is the Bible that will not obstruct. It is assembled whenever a conclusion has already been chosen. The Scripture set is trimmed. The hard word is reassigned. The contrary verse is postponed. The result is still called Scripture. It is Scripture after the break.
 
 The Lord would not assemble one. The psalm stood. The law stood. His claim stood under that writing, not over it. A later house will not be more authorised than He was to produce a safer page.
 
-Motto use is a form of the safer Bible. A motto can be loved and still unused. “The scripture cannot be broken” on a banner, while the banner’s house will not let a cluster judge its doctrine, is already the break the motto forbids. The verse is not a decoration of loyalty. It is a rule over handling.
+Motto use is a form of the safer Bible. A motto can be loved and still unused. “The scripture cannot be broken” on a banner, while the banner’s house will not let a Scripture set judge its doctrine, is already the break the motto forbids. The verse is not a decoration of loyalty. It is a rule over handling.
 
 IV. You cannot grow by breaking the court
 
@@ -468,7 +468,7 @@ The scripture cannot be broken. Therefore the likeness cannot be saved by a brok
 
 V. What this chapter has established
 
-“The scripture cannot be broken” is the Lord’s rule over the one source. It forbids a safer Bible, a motto stripped of its cluster, and any handling that fractures the writing to protect a claim. Growth that requires the break is not maturity. Chapter 10 will settle the remaining confusion: interpretation must exist, and the writing remains above the interpreter.`,
+“The scripture cannot be broken” is the Lord’s rule over the one source. It forbids a safer Bible, a motto stripped of its Scripture set, and any handling that fractures the writing to protect a claim. Growth that requires the break is not maturity. Chapter 10 will settle the remaining confusion: interpretation must exist, and the writing remains above the interpreter.`,
   },
   {
     id: "ch-ost-10",
@@ -481,9 +481,9 @@ Those two sentences must be held together. Deny the first, and the book pretends
 
 I. Why interpretation is not optional
 
-The graphē is writing. Writing must be read. Reading is already handling. Terms must be kept. Clusters must be held. Distinctions must be drawn. 2 Timothy 2:15 commands the labour: “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.”
+The graphē is writing. Writing must be read. Reading is already handling. Terms must be kept. Scripture sets must be held. Distinctions must be drawn. 2 Timothy 2:15 commands the labour: “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.”
 
-Study is not a hobby. Approved unto God is not approved unto a faction. A workman can be ashamed of bad work. Rightly dividing assumes the word is truth before it is divided, and that it can be divided wrongly. Dull hearing and unskill produce wrong division. Right division holds a cluster, keeps a distinction, and will not merge what the text keeps apart.
+Study is not a hobby. Approved unto God is not approved unto a faction. A workman can be ashamed of bad work. Rightly dividing assumes the word is truth before it is divided, and that it can be divided wrongly. Dull hearing and unskill produce wrong division. Right division holds a Scripture set, keeps a distinction, and will not merge what the text keeps apart.
 
 The same chapter already marks the kind of labour this is. 2 Timothy 2:3 — “Thou therefore endure hardness, as a good soldier of Jesus Christ.” 2 Timothy 2:8-9 — “Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel: Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound.” The workman may be bound. The word is not. Hardness belongs to the work. Approval is still unto God.
 
@@ -511,13 +511,13 @@ Maturity requires skill in the Word. Skill is not mastery over the Word. Skill i
 
 That is why one source makes teachers possible when the time has required them. Hebrews will later charge a people who, for the time, ought to have been teachers and had become such as have need of milk. They did not become that because they interpreted. They became that because they were dull of hearing and unskilled in the word of righteousness. The cure is not the abolition of handling. The cure is handling under the writing.
 
-This volume will later name the scholarly impetus of the scripture and the intellectual labour 2 Timothy 2:15 commands. Those chapters have their work. The order here is prior: the writing is master before the labour begins. Spoudazō does not create Holy Writ. It sits under it.
+This volume will later name the Scripture’s demand for diligent study of the scripture and the intellectual labour 2 Timothy 2:15 commands. Those chapters have their work. The order here is prior: the writing is master before the labour begins. Σπουδάζω (spoudazō) does not create Holy Writ. It sits under it.
 
 V. What this chapter has established
 
 Interpretation exists and must be shown. The writing remains above the interpreter. Rightly dividing is labour in a word that is already truth. The workman may suffer; the word of God is not bound. One source of truth is not the abolition of handling. It is the mastering of handling.
 
-Part III has stated the thesis: one written source; the scripture cannot be broken; the writing above the interpreter. Part IV will open what that source is for: the oracles of God, and the premiere convention for hearing from God.`,
+Part III has stated the thesis: one written source; the scripture cannot be broken; the writing above the interpreter. Part IV will open what that source is for: the oracles of God, and the appointed written authority for hearing from God.`,
   },
   {
     id: "ch-ost-11",
@@ -534,7 +534,7 @@ Hebrews 5:12 — “For when for the time ye ought to be teachers, ye have need 
 
 The verse does not treat the oracles as a mood. It treats them as content that can be taught, forgotten, and taught again. Time had done its part. They had not. They ought to have been teachers. They had become such as have need of milk. The first principles are the beginning that should have been kept.
 
-A cornerstone is not decoration. It is what the house is set on. If it is not laid, the house is not the house the writer of Hebrews is building. This volume is a straight issue on that essential cornerstone of Christianity — the foundation, the first principles of the oracles of God. It issues on the cornerstone. It is not itself the cornerstone. The graphē remains the writing. The oracles remain God’s speaking bound in that writing.
+A cornerstone is not decoration. It is what the house is set on. If it is not laid, the house is not the house the writer of Hebrews is building. This volume is a direct treatment of that essential cornerstone of Christianity — the foundation, the first principles of the oracles of God. It issues on the cornerstone. It is not itself the cornerstone. The graphē remains the writing. The oracles remain God’s speaking bound in that writing.
 
 II. Oracles of God are not private impressions
 
@@ -542,7 +542,7 @@ Oracle, in this use, is not a whisper a man cannot open. It is not a voice that 
 
 The graphē is writings or sayings of unchallenged-unquestionable authority. The oracles are not a second Bible beside it. They are that writing heard as God speaking. A man may claim an oracle and refuse the page. He has not produced an oracle. He has produced a claim. Chapter 13 will test “God spoke.” This chapter sets the prior fact: the oracles of God have a written location.
 
-Ersatz analogical, nonliteral religiousisms will recruit the word “oracle” for a likeness. They will call a meeting an oracle. They will call a tradition an oracle. They will call this book an oracle. The writing will not grant that. Unleavened sincerity and truth pillow in the graphē. A likeness that will not sit there is not an oracle of God.
+Substitute religious likenesses that refuse Scripture will recruit the word “oracle” for a likeness. They will call a meeting an oracle. They will call a tradition an oracle. They will call this book an oracle. The writing will not grant that. Unleavened sincerity and truth rest under the graphē. A likeness that will not sit there is not an oracle of God.
 
 III. The first principles are named — six, not seven
 
@@ -562,7 +562,7 @@ A people can skip the six and call the skip maturity. A people can relay the six
 
 V. What this chapter has established
 
-The cornerstone of Christianity, as Hebrews names it, is the first principles of the oracles of God. Those oracles are God’s speaking bound in the graphē, not private impressions. The first principles are six, named in Hebrews 6:1-2. This volume issues on that cornerstone. It does not become a seventh stone. Chapter 12 will open what is first in order for hearing from God and for spiritual growth: the premiere convention.`,
+The cornerstone of Christianity, as Hebrews names it, is the first principles of the oracles of God. Those oracles are God’s speaking bound in the graphē, not private impressions. The first principles are six, named in Hebrews 6:1-2. This volume issues on that cornerstone. It does not become a seventh stone. Chapter 12 will open what is first in order for hearing from God and for spiritual growth: the appointed written authority.`,
   },
   {
     id: "ch-ost-12",
@@ -571,49 +571,49 @@ The cornerstone of Christianity, as Hebrews names it, is the first principles of
     title: "The Premiere Convention for Hearing from God",
     body: `What is first in order for hearing from God and for spiritual growth?
 
-Chapter 11 named the cornerstone: the first principles of the oracles of God, bound in the writing. This chapter names the appointed way those oracles are heard, and the appointed way a man grows under them. The premiere convention is the graphē.
+Chapter 11 named the cornerstone: the first principles of the oracles of God, bound in the writing. This chapter names the appointed way those oracles are heard, and the appointed way a man grows under them. The appointed written authority is the graphē.
 
 I. Premiere, and convention
 
 Premiere: first in order, not first in fashion. The writing is not the loudest voice in the age. It is the first court to which hearing and growth are bound. A later voice may be useful. It is not first.
 
-Convention: the appointed way God has given. Not a conference. Not a brand. Not a house custom that has learned to call itself the way. The graphē is the convention for hearing from God and for spiritual growth. Christianity does not invent a first way and then hunt a verse to bless it. The writing is already the way.
+Convention: the appointed way God has given. Not a conference. Not a brand. Not a house custom that has learned to call itself the way. The graphē is the authority for hearing from God and for spiritual growth. Christianity does not invent a first way and then hunt a verse to bless it. The writing is already the way.
 
-John 10:35 still governs the claim. The scripture cannot be broken to make another convention first. If a house, a teacher, a course, or this book is treated as the premiere convention, the writing has been asked to wait. Holy Writ does not wait.
+John 10:35 still governs the claim. The scripture cannot be broken to make another convention first. If a house, a teacher, a course, or this book is treated as the appointed written authority, the writing has been asked to wait. Holy Writ does not wait.
 
-II. The convention is the writing, not the teacher of the writing
+II. The authority is the writing, not the teacher of the writing
 
-A teacher may open the page. A course may drill the page. This book may examine the page. None of those is the convention. If they become the convention, the believer’s hearing is bound to a voice that can be withdrawn, corrected, or corrupted, and he will have no court left except that voice.
+A teacher may open the page. A course may drill the page. This book may examine the page. None of those is the authority. If they become the authority, the believer’s hearing is bound to a voice that can be withdrawn, corrected, or corrupted, and he will have no court left except that voice.
 
-Chapter 5 already named the places: under, beside, or above. A teacher under the writing serves the convention. A teacher beside the writing shares the bench. A teacher above the writing has become the convention. The same is true of a book. The same is true of a school. The same is true of a year program that grants this volume. Grant is not imprimatur. Inclusion is not Holy Writ.
+Chapter 5 already named the places: under, beside, or above. A teacher under the writing serves the authority. A teacher beside the writing shares the bench. A teacher above the writing has become the authority. The same is true of a book. The same is true of a school. The same is true of a year program that grants this volume. Grant is not authority. Inclusion is not Holy Writ.
 
-The error is easy because it sounds loyal. “Stay with the teaching.” “Stay with the house.” “Stay with the method.” Loyalty to a true handling is not the crime. Replacing the writing with the handling is the crime. The premiere convention remains the graphē even when the handling is clean.
+The error is easy because it sounds loyal. “Stay with the teaching.” “Stay with the house.” “Stay with the method.” Loyalty to a true handling is not the crime. Replacing the writing with the handling is the crime. The appointed written authority remains the graphē even when the handling is clean.
 
 III. Hearing and growth are one convention
 
 Hearing from God and spiritual growth are not two religions. You hear where He has spoken — in the graphē. You grow as what He has spoken is known, laid, and used. A people who will not sit under the writing will not hear by inventing a louder room. A people who skip the first principles will not mature by collecting meat they cannot digest.
 
-The sequence is already numbered: from first principles to maturity — perfection. That is not a slogan for a banner. It is the order of growth under the convention. First principles without going on is recession wearing the name of care. Going on without first principles is a house without a cornerstone. Both are refusals of the writing’s order.
+The sequence is already numbered: from first principles to maturity — perfection. That is not a slogan for a banner. It is the order of growth under the authority. First principles without going on is recession wearing the name of care. Going on without first principles is a house without a cornerstone. Both are refusals of the writing’s order.
 
-Christianity has a premiere convention. That convention is not “Christianity” as a culture, and it is not the book that issues on the cornerstone. It is the graphē — Holy Writ — as the appointed first way to hear and to grow. If this volume is heard as if it were the convention, the authority claim has already been moved from the page to the pages under it.
+Christianity has a appointed written authority. That authority is not “Christianity” as a culture, and it is not the book that issues on the cornerstone. It is the graphē — Holy Writ — as the appointed first way to hear and to grow. If this volume is heard as if it were the authority, the authority claim has already been moved from the page to the pages under it.
 
 Hebrews 5:11 — “Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.”
 
-The hard things cannot be uttered because the ear is dull. Dullness is not lack of a Bible. It is lack of hearing the writing as the first convention. A man can hold the book and still not hear. The convention is not possession. It is the writing used as the appointed way.
+The hard things cannot be uttered because the ear is dull. Dullness is not lack of a Bible. It is lack of hearing the writing as the first convention. A man can hold the book and still not hear. The authority is not possession. It is the writing used as the appointed way.
 
 IV. Growth under the writing
 
-If the graphē is first in order, skill in the Word is not a hobby. Hearing, testing, teaching, and going on all sit in the same place the Lord sat: what is written. Later chapters will name apeiros, nēpios, reasonability, and the scholarly impetus. None of that labour has meaning if another convention has already been crowned.
+If the graphē is first in order, skill in the Word is not a hobby. Hearing, testing, teaching, and going on all sit in the same place the Lord sat: what is written. Later chapters will name ἄπειρος (apeiros), νήπιος (nēpios), sound judgment, and the Scripture’s demand for diligent study. None of that labour has meaning if another convention has already been crowned.
 
-If another convention is first, the house will grow in loyalty to that convention. It may grow in numbers. It may grow in vocabulary. It will not grow in the oracles. Dullness can then be called covering. Milk after time can be called heritage. Accepted heresies can be called doctrines.
+If another convention is first, the house will grow in loyalty to that authority. It may grow in numbers. It may grow in vocabulary. It will not grow in the oracles. Dullness can then be called covering. Milk after time can be called heritage. Accepted heresies can be called doctrines.
 
-Persons, organizations, governments, and nations are already under the imprimatur. None of them becomes the premiere convention by being large. An age-old organization ostensibly Christianized can still refuse the first order of hearing. Chapter 7 has already named the result. The convention does not change because the house is old.
+Persons, organizations, governments, and nations are already under the authority. None of them becomes the appointed written authority by being large. An age-old organization ostensibly Christianized can still refuse the first order of hearing. Chapter 7 has already named the result. The authority does not change because the house is old.
 
-The premiere convention does not compete with the oracles. It is the way the oracles are heard. It does not compete with the six first principles. It is the writing in which those six are examined. It does not compete with this book. This book sits under it.
+The appointed written authority does not compete with the oracles. It is the way the oracles are heard. It does not compete with the six first principles. It is the writing in which those six are examined. It does not compete with this book. This book sits under it.
 
 V. What this chapter has established
 
-The premiere convention for hearing from God and for spiritual growth is the graphē — first in order, the appointed way. It is not this book, not a course, and not a teacher. Hearing and growth are one convention: you hear where God has written, and you grow under that writing, first principles then maturity. Chapter 13 will press the test that follows: how is “God spoke” examined when a voice claims to have heard?`,
+The appointed written authority for hearing from God and for spiritual growth is the graphē — first in order, the appointed way. It is not this book, not a course, and not a teacher. Hearing and growth are one convention: you hear where God has written, and you grow under that writing, first principles then maturity. Chapter 13 will press the test that follows: how is “God spoke” examined when a voice claims to have heard?`,
   },
   {
     id: "ch-ost-13",
@@ -622,7 +622,7 @@ The premiere convention for hearing from God and for spiritual growth is the gra
     title: "Hearing God Through What God Has Written",
     body: `How is “God spoke” tested?
 
-Chapter 12 named the premiere convention: the graphē, first in order for hearing and for growth. This chapter applies that convention to the claim men make most quickly and test least: God spoke. A claim that God has spoken is not self-authenticating. The Lord Himself did not treat His own words that way before the writing they already owned.
+Chapter 12 named the appointed written authority: the graphē, first in order for hearing and for growth. This chapter applies that authority to the claim men make most quickly and test least: God spoke. A claim that God has spoken is not self-authenticating. The Lord Himself did not treat His own words that way before the writing they already owned.
 
 I. The Lord’s pattern is already the test
 
@@ -632,9 +632,9 @@ John 10:35 — “If he called them gods, unto whom the word of God came, and th
 
 John 10:36 — “Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?”
 
-He asks whether it is written. He cites what is written. He will not break the writing to answer a charge. That is how hearing is tested when the pressure is highest. If the Lord pillows His claim in the graphē, a later voice will not be asked to pillow a claim in intensity, antiquity, office, or tears.
+He asks whether it is written. He cites what is written. He will not break the writing to answer a charge. That is how hearing is tested when the pressure is highest. If the Lord rests His claim in the graphē, a later voice will not be asked to rest a claim in intensity, antiquity, office, or tears.
 
-“God spoke” is therefore not first a feeling to be protected. It is a claim to be opened beside the page. What has God written? Does the claim sit under that writing, or does it require the writing to move? If it requires the writing to move, the scripture is already being broken, and the convention has already been left.
+“God spoke” is therefore not first a feeling to be protected. It is a claim to be opened beside the page. What has God written? Does the claim sit under that writing, or does it require the writing to move? If it requires the writing to move, the scripture is already being broken, and the authority has already been left.
 
 II. Claimed revelation does not authenticate itself
 
@@ -642,21 +642,21 @@ A prophet may say God has spoken now. A tradition may say God has spoken through
 
 Self-authentication is the error. The voice is true because the voice is sure. The house is true because the house is old. The impression is true because the impression is strong. Chapter 4 asked who has the final word. Chapter 7 asked whether antiquity authenticates doctrine. This chapter asks the same question in the language of hearing. If “God spoke” cannot be examined by what God has written, the speaker has become the court.
 
-Ersatz analogical, nonliteral religiousisms live here. They keep the vocabulary of hearing and refuse the writing as written. They will call a likeness a word from God. They will hunt a verse after the likeness is already enthroned. True Christ-ian experience pillows in the unleavened sincerity and truth of the graphē. A word that will not pillow there is not hearing. It is recruiting.
+Substitute religious likenesses that refuse Scripture live here. They keep the vocabulary of hearing and refuse the writing as written. They will call a likeness a word from God. They will hunt a verse after the likeness is already enthroned. True Christian experience rests under the unleavened sincerity and truth of the graphē. A word that will not rest there is not hearing. It is recruiting.
 
 III. Dull hearing among those who hold the book
 
 Hebrews 5:11 — “Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.”
 
-The charge is not that they had no scripture. The charge is that they could not hear. Possession of the writing is not the convention used. A people can carry Bibles and still be dull. A house can print Holy Writ and still train the ear to another court. Then the hard things cannot be uttered, not because God has gone silent, but because the appointed way of hearing has been refused.
+The charge is not that they had no scripture. The charge is that they could not hear. Possession of the writing is not the authority used. A people can carry Bibles and still be dull. A house can print Holy Writ and still train the ear to another court. Then the hard things cannot be uttered, not because God has gone silent, but because the appointed way of hearing has been refused.
 
 Dullness is already a maturity mark. Later chapters will pair it with unskill in the word of righteousness as the two characteristics of babes. The point here is narrower: Bible-holding does not prove hearing. Hearing is tested by whether the writing is allowed to judge the claim that God has spoken.
 
-A man may say, “The Lord told me,” and refuse the cluster. He has not heard more than the man who opens the page. He has heard less, because he has left the premiere convention while using the name of the Lord. A house may say, “God is speaking in this hour,” and then require the graphē to mean what the hour needs. The hour is not the court. The writing is.
+A man may say, “The Lord told me,” and refuse the Scripture set. He has not heard more than the man who opens the page. He has heard less, because he has left the appointed written authority while using the name of the Lord. A house may say, “God is speaking in this hour,” and then require the graphē to mean what the hour needs. The hour is not the court. The writing is.
 
 IV. How the test is used
 
-The test is not hostility to every claim of present help. It is the refusal to let a claim stand above the page. Open what is written. Hold the cluster. Keep the terms. Distinguish the text from the handling of the text. If the claim survives that sitting, it has not become Scripture. It has been examined under Scripture. If it cannot survive, it must sit down, however useful, however old, however moving.
+The test is not hostility to every claim of present help. It is the refusal to let a claim stand above the page. Open what is written. Hold the Scripture set. Keep the terms. Distinguish the text from the handling of the text. If the claim survives that sitting, it has not become Scripture. It has been examined under Scripture. If it cannot survive, it must sit down, however useful, however old, however moving.
 
 John 10:35 remains the rule over the examination. The scripture cannot be broken to save the claim. 2 Timothy 2:15 remains the labour of the examination. The workman rightly divides a word that is already truth. He does not create a word by dividing.
 
@@ -664,62 +664,62 @@ This is why one source of truth is not a theory for libraries. It is the conditi
 
 V. What this chapter has established
 
-“God spoke” is tested by what God has written. Claimed revelation does not authenticate itself. The Lord’s own pattern is the writing that cannot be broken. Dull hearing can sit among those who hold the book; possession is not the convention used. Hearing through the graphē is the premiere convention applied.
+“God spoke” is tested by what God has written. Claimed revelation does not authenticate itself. The Lord’s own pattern is the writing that cannot be broken. Dull hearing can sit among those who hold the book; possession is not the authority used. Hearing through the graphē is the appointed written authority being obeyed.
 
-Part IV has opened what the one source is for: the oracles of God, bound in the writing; the premiere convention for hearing and growth; and the test of every claim that God has spoken. Part V will name what is missing when that convention is refused: the absence of reasonability, and the presence of unskillfulness.`,
+Part IV has opened what the one source is for: the oracles of God, bound in the writing; the appointed written authority for hearing and growth; and the test of every claim that God has spoken. Part V will name what is missing when that authority is refused: the absence of sound judgment, and the presence of unskillfulness.`,
   },
   {
     id: "ch-ost-14",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 14,
-    title: "Reasonability: Sound Judgment",
+    title: "Sound judgment: Sound Judgment",
     body: `What is missing when heresies are accepted as doctrines?
 
-Part IV named the oracles, the premiere convention, and the test of every claim that God has spoken. This part names what is missing when that convention is refused. Predominantly, the absence of reasonability — sound judgment — and the presence of unskillfulness produce aridity and tergiversation amongst persons, even age-old organizations ostensibly Christianized: ensued in damnable accepted heresies called doctrines.
+Part IV named the oracles, the appointed written authority, and the test of every claim that God has spoken. This part names what is missing when that authority is refused. Predominantly, the absence of sound judgment — sound judgment — and the presence of unskillfulness produce spiritual dryness and doctrinal turning aside amongst persons, even age-old organizations ostensibly Christianized: ensued in damnable accepted heresies called doctrines.
 
-That sentence is the diagnosis of this part. Chapter 7 already used it against antiquity. This chapter opens the first term: reasonability. What is missing is not a softer room. What is missing is sound judgment under the writing.
+That sentence is the diagnosis of this part. Chapter 7 already used it against antiquity. This chapter opens the first term: sound judgment. What is missing is not a softer room. What is missing is sound judgment under the writing.
 
-I. Reasonability is sound judgment
+I. Sound judgment is sound judgment
 
-Reasonability is not a polite temperament. It is not a gift for remaining calm in a dispute. It is sound judgment: the capacity to hold what is written and judge. The writing is its master. The mind sits under the page until the distinction the text makes can be held, taught, and used.
+Sound judgment is not a polite temperament. It is not a gift for remaining calm in a dispute. It is sound judgment: the capacity to hold what is written and judge. The writing is its master. The mind sits under the page until the distinction the text makes can be held, taught, and used.
 
 Hebrews 5:13 — “For every one that useth milk is unskilful in the word of righteousness: for he is a babe.”
 
-The verse is already a judgment. Milk after time is named. Unskill is named. Babe is named. A people who will not let those words judge them have already refused reasonability. They may still be sincere. Sincerity is not sound judgment.
+The verse is already a judgment. Milk after time is named. Unskill is named. Babe is named. A people who will not let those words judge them have already refused sound judgment. They may still be sincere. Sincerity is not sound judgment.
 
-Sound judgment opens the cluster. It keeps the terms. It will not merge what the text keeps apart. It will not call a likeness unleavened sincerity and truth. It will not call a heresy a doctrine because the house has accepted it.
+Sound judgment opens the Scripture set. It keeps the terms. It will not merge what the text keeps apart. It will not call a likeness unleavened sincerity and truth. It will not call a heresy a doctrine because the house has accepted it.
 
-Hebrews 5:12 has already required that judgment. They ought to have been teachers. They had need that one teach them again the first principles of the oracles of God. A teacher who cannot judge by the oracles is not yet a teacher. He is a repeater of a house line. Reasonability is what makes the difference visible.
+Hebrews 5:12 has already required that judgment. They ought to have been teachers. They had need that one teach them again the first principles of the oracles of God. A teacher who cannot judge by the oracles is not yet a teacher. He is a repeater of a house line. Sound judgment is what makes the difference visible.
 
 II. Reason is not a rival court
 
-The error on one side is to make reason itself the court. Then the writing waits until a philosophy has finished with it. The mind becomes Holy Writ. That is not reasonability. That is another court wearing the name of judgment.
+The error on one side is to make reason itself the court. Then the writing waits until a philosophy has finished with it. The mind becomes Holy Writ. That is not sound judgment. That is another court wearing the name of judgment.
 
-John 10:35 still governs the mind: the scripture cannot be broken to make a reasoning come out clean. Reasonability is not a licence to improve the page. It is the labour of judging by the page. A man may be clever and still break the writing. Cleverness without the court is not sound judgment. It is skill in a different house.
+John 10:35 still governs the mind: the scripture cannot be broken to make a reasoning come out clean. Sound judgment is not a licence to improve the page. It is the labour of judging by the page. A man may be clever and still break the writing. Cleverness without the court is not sound judgment. It is skill in a different house.
 
-The graphē remains the one source. Reasonability does not add a second source called “reason.” It is the mind seated where Chapter 10 seated the interpreter: under the writing, not beside it, not above it.
+The graphē remains the one source. Sound judgment does not add a second source called “reason.” It is the mind seated where Chapter 10 seated the interpreter: under the writing, not beside it, not above it.
 
 III. The piety that will not judge
 
 The error on the other side is to refuse judgment and call the refusal holiness. “We do not judge.” “We only love.” “We leave it to God.” A people can then accept what the writing will not bear and name the acceptance peace.
 
-That piety is already the absence of reasonability. The writer of Hebrews judged. He said they ought to have been teachers. He said they had become such as have need of milk. He said they were dull of hearing. He did not wait for a softer hour. Sound judgment is required for growth. A house that will not judge by the writing cannot go on from first principles. It can only protect what it has already accepted.
+That piety is already the absence of sound judgment. The writer of Hebrews judged. He said they ought to have been teachers. He said they had become such as have need of milk. He said they were dull of hearing. He did not wait for a softer hour. Sound judgment is required for growth. A house that will not judge by the writing cannot go on from first principles. It can only protect what it has already accepted.
 
-Absence of reasonability is not humility. Humility sits down when the page corrects. Absence of reasonability will not let the page speak long enough to correct.
+Absence of sound judgment is not humility. Humility sits down when the page corrects. Absence of sound judgment will not let the page speak long enough to correct.
 
 IV. What follows when judgment is gone
 
-The chain is already named. Absence of reasonability and presence of unskillfulness produce aridity and tergiversation. Aridity is dryness where the oracles should yield. Tergiversation is turning from what was said. What ensues is damnable accepted heresies called doctrines. Damnable: not a taste dispute. Accepted: the house diet. Called doctrines: the name “doctrine” has been put on what the graphē will not bear.
+The chain is already named. Absence of sound judgment and presence of unskillfulness produce spiritual dryness and doctrinal turning aside. Spiritual dryness is dryness where the oracles should yield. Doctrinal turning aside is turning from what was said. What ensues is damnable accepted heresies called doctrines. Damnable: not a taste dispute. Accepted: the house diet. Called doctrines: the name “doctrine” has been put on what the graphē will not bear.
 
 This chapter will not write the dryness and the turning in full. It will not let them drop. The point now is prior: those results do not fall from the sky. They follow when sound judgment is missing and unskill is present — in a person, and in an age-old organization ostensibly Christianized.
 
-If reasonability is present, a heresy can still be offered. It cannot be installed as doctrine without a fight the writing can win. If reasonability is absent, the fight never starts. The name “doctrine” is applied, and the house congratulates itself for remaining together.
+If sound judgment is present, a heresy can still be offered. It cannot be installed as doctrine without a fight the writing can win. If sound judgment is absent, the fight never starts. The name “doctrine” is applied, and the house congratulates itself for remaining together.
 
-The authority question is already the maturity question. Where there is no sound judgment under the writing, skill in the Word becomes optional, and growth becomes loyalty. Part II opened the courts. This chapter names what those courts train out of a people: the capacity to judge. A court that will not be tested produces members who will not test. That is the absence of reasonability at scale.
+The authority question is already the maturity question. Where there is no sound judgment under the writing, skill in the Word becomes optional, and growth becomes loyalty. Part II opened the courts. This chapter names what those courts train out of a people: the capacity to judge. A court that will not be tested produces members who will not test. That is the absence of sound judgment at scale.
 
 V. What this chapter has established
 
-Reasonability is sound judgment under the writing. It is not reason as a rival court, and it is not the piety that will not judge. When it is absent, and unskill is present, persons and houses go dry, turn, and accept damnable heresies under the name of doctrine. Sound judgment is required for growth. Chapter 15 will open the second term in the diagnosis: apeiros — unskilled, and unskilled in what.`,
+Sound judgment is sound judgment under the writing. It is not reason as a rival court, and it is not the piety that will not judge. When it is absent, and unskill is present, persons and houses go dry, turn, and accept damnable heresies under the name of doctrine. Sound judgment is required for growth. Chapter 15 will open the second term in the diagnosis: ἄπειρος (apeiros) — unskilled, and unskilled in what.`,
   },
   {
     id: "ch-ost-15",
@@ -728,9 +728,9 @@ Reasonability is sound judgment under the writing. It is not reason as a rival c
     title: "Apeiros",
     body: `Unskilled in what?
 
-Chapter 14 named the absence of reasonability. This chapter names the presence of unskillfulness. The two are not the same defect. A man may judge and still be unskilled. A man may be practised in a room and still be unskilled. Hebrews locates the unskill.
+Chapter 14 named the absence of sound judgment. This chapter names the presence of unskillfulness. The two are not the same defect. A man may judge and still be unskilled. A man may be practised in a room and still be unskilled. Hebrews locates the unskill.
 
-Hebrews 5:13 — “For every one that useth milk is unskilful (Gr. apeiros) in the word of righteousness: for he is a babe: (Gr. nēpios)”
+Hebrews 5:13 — “For every one that useth milk is unskilful (Gr. ἄπειρος (apeiros)) in the word of righteousness: for he is a babe: (Gr. νήπιος (nēpios))”
 
 Apeiros: inexperienced, that is, ignorant — unskillful. The term is not decoration in the margin. It is the writer’s word for the milk-user. He is unskilful in the word of righteousness. That is the field. That is the answer.
 
@@ -738,39 +738,39 @@ I. Inexperienced, ignorant, unskillful
 
 Inexperienced does not mean new to a building. It means without experience in the word of righteousness. Ignorant does not mean without sincerity. It means without skill in that word. Unskillful does not mean without a title. It means the word has not been used until the senses can discern.
 
-Apeiros is a condition of the handling. The page may be owned. The vocabulary may be fluent. The meetings may be full. If the word of righteousness has not been experienced as the court, the man is still apeiros. Format will not cure him. Soft copy and hard copy without labour still leave him where the verse left him.
+Apeiros is a condition of the handling. The page may be owned. The vocabulary may be fluent. The meetings may be full. If the word of righteousness has not been experienced as the court, the man is still ἄπειρος (apeiros). Format will not cure him. Soft copy and hard copy without labour still leave him where the verse left him.
 
 II. Not new-to-the-building
 
-The easy mistake is to hear “unskilled” as “new.” Then time in the house becomes the cure. Years become skill. The writer of Hebrews will not grant that. They had had time. They ought to have been teachers. They had become such as have need of milk. Time without use produced apeiros, not maturity.
+The easy mistake is to hear “unskilled” as “new.” Then time in the house becomes the cure. Years become skill. The writer of Hebrews will not grant that. They had had time. They ought to have been teachers. They had become such as have need of milk. Time without use produced ἄπειρος (apeiros), not maturity.
 
 A man can be old in a fellowship and inexperienced in the word of righteousness. A house can be age-old and still unskilled. Chapter 7 already bound organizations under that diagnosis. This chapter keeps the location of the unskill: not “new to us,” but inexperienced in the writing.
 
-If new-to-the-building is the definition, the cure is orientation. If apeiros is the definition, the cure is labour in the word of righteousness. Those are not the same path. The first produces members. The second produces workmen.
+If new-to-the-building is the definition, the cure is orientation. If ἄπειρος (apeiros) is the definition, the cure is labour in the word of righteousness. Those are not the same path. The first produces members. The second produces workmen.
 
-The blame for this lack of skill will later be named: failure to realize the scholarly impetus of the scripture and to align accordingly — failure to know the scriptures, whether the copy is soft or hard. This chapter will not write that labour in full. It will not let the location of the unskill drift while that labour waits. Apeiros is not cured by a better edition. It is cured by experience in the word.
+The blame for this lack of skill will later be named: failure to realize the Scripture’s demand for diligent study of the scripture and to align accordingly — failure to know the scriptures, whether the copy is soft or hard. This chapter will not write that labour in full. It will not let the location of the unskill drift while that labour waits. Apeiros is not cured by a better edition. It is cured by experience in the word.
 
 III. Not room skill
 
-The second easy mistake is to hear “skilled” as skill in the room: speaking, gathering, managing, moving a people. Room skill is not apeiros reversed. A man may be very able in a house’s voice and remain unskilled in the word of righteousness. Access is not skill. Memory is not skill. Quotation is not skill. Crowding a room is not skill.
+The second easy mistake is to hear “skilled” as skill in the room: speaking, gathering, managing, moving a people. Room skill is not ἄπειρος (apeiros) reversed. A man may be very able in a house’s voice and remain unskilled in the word of righteousness. Access is not skill. Memory is not skill. Quotation is not skill. Crowding a room is not skill.
 
 The verse does not say unskilful in the assembly. It says unskilful in the word of righteousness. If the object of use is the room, the senses will be exercised on the room. Discernment will then follow the room. Good and evil will be named by what the house already accepted. That is how heresies become doctrines while the meetings continue.
 
 IV. The word of righteousness
 
-The word of righteousness is not a topic among topics. It is the word by which a man is aligned — or by which he is left arid. Hebrews attaches apeiros to that word. The field of skill is the writing that judges, not a specialty inside the writing that a man can postpone.
+The word of righteousness is not a topic among topics. It is the word by which a man is aligned — or by which he is left arid. Hebrews attaches ἄπειρος (apeiros) to that word. The field of skill is the writing that judges, not a specialty inside the writing that a man can postpone.
 
-Skill here is the capacity to handle what is written until the distinction the text makes can be held and taught. It is not performance. It is not a pile of quotations. Later chapters will open knowledge as perception, learning, and reasoning, and will name the scholarly impetus of the scripture. The order now is prior: unskill has a location. The location is the word of righteousness.
+Skill here is the capacity to handle what is written until the distinction the text makes can be held and taught. It is not performance. It is not a pile of quotations. Later chapters will open knowledge as perception, learning, and reasoning, and will name the Scripture’s demand for diligent study of the scripture. The order now is prior: unskill has a location. The location is the word of righteousness.
 
-Ersatz analogical, nonliteral religiousisms will relocate the skill. They will call a man skilled because he can move a room, or because he can bless a likeness with a verse. That is not apeiros reversed. That is another field wearing the name of the Word.
+Substitute religious likenesses that refuse Scripture will relocate the skill. They will call a man skilled because he can move a room, or because he can bless a likeness with a verse. That is not ἄπειρος (apeiros) reversed. That is another field wearing the name of the Word.
 
-Anyone — a person or an organization — unskilled in that word is already being named. The verse says every one that useth milk. Every one is not a private diagnosis only. It is the milk-user, wherever he sits, and the house that diets him. Chapter 16 will take the name the verse gives next: nēpios. Apeiros is the unskill. Nēpios is what the unskilled one is called.
+Anyone — a person or an organization — unskilled in that word is already being named. The verse says every one that useth milk. Every one is not a private diagnosis only. It is the milk-user, wherever he sits, and the house that diets him. Chapter 16 will take the name the verse gives next: νήπιος (nēpios). Apeiros is the unskill. Nēpios is what the unskilled one is called.
 
-Hold the cluster. Hebrews 5:11 names dull hearing. 5:12 names time, ought, again, oracles, become, milk, and meat. 5:13 names unskill in the word of righteousness and the babe. Do not take apeiros out of that cluster and make it a Greek ornament. The term is how the writer explains the milk.
+Hold the Scripture set. Hebrews 5:11 names dull hearing. 5:12 names time, ought, again, oracles, become, milk, and meat. 5:13 names unskill in the word of righteousness and the babe. Do not take ἄπειρος (apeiros) out of that Scripture set and make it a Greek ornament. The term is how the writer explains the milk.
 
 V. What this chapter has established
 
-Apeiros is inexperience, ignorance, unskill — in the word of righteousness. It is not newness to a building. It is not lack of room skill. Time, access, memory, quotation, and format do not reverse it. Persons and organizations can be apeiros. Chapter 16 will open the name that follows: nēpios — babe — as diagnosis, not as endearment.`,
+Apeiros is inexperience, ignorance, unskill — in the word of righteousness. It is not newness to a building. It is not lack of room skill. Time, access, memory, quotation, and format do not reverse it. Persons and organizations can be ἄπειρος (apeiros). Chapter 16 will open the name that follows: νήπιος (nēpios) — babe — as diagnosis, not as endearment.`,
   },
   {
     id: "ch-ost-16",
@@ -779,9 +779,9 @@ Apeiros is inexperience, ignorance, unskill — in the word of righteousness. It
     title: "Nēpios",
     body: `What is a babe — a person, or a house?
 
-Hebrews 5:13 — “For every one that useth milk is unskilful (Gr. apeiros) in the word of righteousness: for he is a babe: (Gr. nēpios)”
+Hebrews 5:13 — “For every one that useth milk is unskilful (Gr. ἄπειρος (apeiros)) in the word of righteousness: for he is a babe: (Gr. νήπιος (nēpios))”
 
-Nēpios: implying negation; figuratively a simple-minded person, an immature Christian — babe, child, a babe. The bible highlights anyone — persons or organizations — unskilled, inexperienced, in the word of righteousness as a nēpios. The term is not a pet name. It is the writer’s diagnosis of unreadiness.
+Nēpios: implying negation; figuratively a simple-minded person, an immature Christian — babe, child, a babe. The bible highlights anyone — persons or organizations — unskilled, inexperienced, in the word of righteousness as a νήπιος (nēpios). The term is not a pet name. It is the writer’s diagnosis of unreadiness.
 
 I. Babe is a condition, not a compliment
 
@@ -793,9 +793,9 @@ Hebrews 5:12 already said they had become such as have need of milk. Become name
 
 II. Anyone: person or organization
 
-Anyone is the scope. A man can be a nēpios. An organization can be a nēpios. The imprimatur already bound persons, organizations, governments, and nations under Holy Writ. The diagnosis of unskill uses the same reach. A house unskilled in the word of righteousness is not excused by its minutes, its offices, or its years.
+Anyone is the scope. A man can be a νήπιος (nēpios). An organization can be a νήπιος (nēpios). The authority already bound persons, organizations, governments, and nations under Holy Writ. The diagnosis of unskill uses the same reach. A house unskilled in the word of righteousness is not excused by its minutes, its offices, or its years.
 
-A babe-house will teach its members to remain dependent on its voice. It will call that dependence covering. It will teach the first principles again and call the repetition heritage. It will accept what it has already named doctrine and treat examination as rebellion. The members may be sincere. The house is still a nēpios if it is unskilled in the word of righteousness.
+A babe-house will teach its members to remain dependent on its voice. It will call that dependence covering. It will teach the first principles again and call the repetition heritage. It will accept what it has already named doctrine and treat examination as rebellion. The members may be sincere. The house is still a νήπιος (nēpios) if it is unskilled in the word of righteousness.
 
 This is not a slur against organization. Chapter 6 already said organization is not the issue. The issue is whether the house sits under the writing. If it does not, the house can be a babe at organizational scale — arid, turning, and still ostensibly Christianized.
 
@@ -803,7 +803,7 @@ A person-babe and a house-babe train each other. The house that will not sit und
 
 III. Milk-users are named
 
-Every one that useth milk is unskilful in the word of righteousness: for he is a babe. The three names sit in one verse: milk, apeiros, nēpios. Do not pull them apart. Milk after time is the diet. Apeiros is the unskill. Nēpios is the person or house so dieted and so unskilled.
+Every one that useth milk is unskilful in the word of righteousness: for he is a babe. The three names sit in one verse: milk, ἄπειρος (apeiros), νήπιος (nēpios). Do not pull them apart. Milk after time is the diet. Apeiros is the unskill. Nēpios is the person or house so dieted and so unskilled.
 
 Milk at the beginning is mercy. Chapter 11 already held that. Milk after the time a people ought to be teachers is indictment. Nēpios after time is not a stage to be praised. It is unreadiness that has been allowed to remain.
 
@@ -811,15 +811,15 @@ An immature Christian is not a man who has not yet collected titles. He is a man
 
 IV. Why the name must stay severe
 
-If nēpios is endearment, the premiere convention becomes optional. A babe does not need to hear through what is written. He needs to be kept warm. If nēpios is diagnosis, the convention remains first. The babe must be taught again the first principles of the oracles of God, and he must then go on. The house that is a babe must sit down under the same writing.
+If νήπιος (nēpios) is endearment, the appointed written authority becomes optional. A babe does not need to hear through what is written. He needs to be kept warm. If νήπιος (nēpios) is diagnosis, the authority remains first. The babe must be taught again the first principles of the oracles of God, and he must then go on. The house that is a babe must sit down under the same writing.
 
 The scripture cannot be broken to spare a person the name. It cannot be broken to spare a house the name. The Lord would not break it to spare Himself a charge. A later teacher will not be asked to break it to keep a fellowship from being troubled.
 
-If the name is refused, the two marks will still be present. Dull of hearing and unskill in the Word do not wait for permission to diagnose. They only wait for a house that will not say nēpios, and then they operate under a kinder title.
+If the name is refused, the two marks will still be present. Dull of hearing and unskill in the Word do not wait for permission to diagnose. They only wait for a house that will not say νήπιος (nēpios), and then they operate under a kinder title.
 
 V. What this chapter has established
 
-Nēpios is a babe: a simple-minded person, an immature Christian — and, in the same diagnosis, a house unskilled in the word of righteousness. The term is not endearment. Milk, apeiros, and nēpios belong to one verse. Chapter 17 will name the two characteristics of babes, and only two: dull of hearing, and unskilled in the Word which is the basis for salvation.`,
+Nēpios is a babe: a simple-minded person, an immature Christian — and, in the same diagnosis, a house unskilled in the word of righteousness. The term is not endearment. Milk, ἄπειρος (apeiros), and νήπιος (nēpios) belong to one verse. Chapter 17 will name the two characteristics of babes, and only two: dull of hearing, and unskilled in the Word which is the basis for salvation.`,
   },
   {
     id: "ch-ost-17",
@@ -839,11 +839,11 @@ I. Dull of hearing
 
 Hebrews 5:11 — “Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.”
 
-Chapter 13 already used this verse against Bible-holding as proof of hearing. This chapter uses it as a mark. Dull of hearing is why the hard things cannot be uttered. The oracles are not silent. The ear is. The premiere convention has been refused in practice while the book remains in the hand.
+Chapter 13 already used this verse against Bible-holding as proof of hearing. This chapter uses it as a mark. Dull of hearing is why the hard things cannot be uttered. The oracles are not silent. The ear is. The appointed written authority has been refused in practice while the book remains in the hand.
 
 Dullness is not a quiet temperament. It is the ear that will not let the writing judge. A man can sit under much speech and still be dull. A house can print much Scripture and still be dull. The mark is not volume of Christian noise. The mark is whether the graphē is heard as the court.
 
-Chapter 12 already said the convention is not possession. This mark is that sentence applied to a person and a house. They have the writing. They do not hear it. Then the first principles must be taught again, not because God has withdrawn the oracles, but because the ear has withdrawn from the oracles. Dull of hearing is why “again” becomes the wound of Hebrews 5:12.
+Chapter 12 already said the authority is not possession. This mark is that sentence applied to a person and a house. They have the writing. They do not hear it. Then the first principles must be taught again, not because God has withdrawn the oracles, but because the ear has withdrawn from the oracles. Dull of hearing is why “again” becomes the wound of Hebrews 5:12.
 
 II. Unskilled in the Word which is the basis for salvation
 
@@ -859,13 +859,13 @@ III. Only two
 
 A third mark will always be offered. Zeal. Tears. Attendance. Loyalty. A gift. A title. An experience. Age. Those may be present or absent in a babe. They are not the two characteristics the writing lists here. Adding them as if they were the list is how a house redefines maturity without returning to Hebrews 5:11 and 5:13.
 
-The two marks are enough to explain arrested growth. Dull of hearing: the convention is not used. Unskilled in the Word: the field of skill is empty. Together they produce the need to be taught again, the diet of milk after time, and the name nēpios. Reasonability missing, apeiros present — Chapter 14 and Chapter 15 — sit under the same pair.
+The two marks are enough to explain arrested growth. Dull of hearing: the authority is not used. Unskilled in the Word: the field of skill is empty. Together they produce the need to be taught again, the diet of milk after time, and the name νήπιος (nēpios). Sound judgment missing, ἄπειρος (apeiros) present — Chapter 14 and Chapter 15 — sit under the same pair.
 
 A third mark sold as if it were listed here will always move the court. If the third mark is zeal, the zealous babe is mature. If the third mark is loyalty, the loyal house is mature. If the third mark is experience, the intense man is mature. The writing lists dullness and unskill. Those two keep the court where it is.
 
 IV. Why these two decide maturity
 
-If the marks are dullness and unskill, the path out is hearing and skill under the writing. That path will require the scholarly impetus of the scripture: knowing the scriptures, aligning accordingly, and the intellectual labour 2 Timothy 2:15 commands. Those chapters have their work. The order here is diagnostic. The babe is not first a man who missed a meeting. He is a man — or a house — dull of hearing and unskilled in the Word which is the basis for salvation.
+If the marks are dullness and unskill, the path out is hearing and skill under the writing. That path will require the Scripture’s demand for diligent study of the scripture: knowing the scriptures, aligning accordingly, and the intellectual labour 2 Timothy 2:15 commands. Those chapters have their work. The order here is diagnostic. The babe is not first a man who missed a meeting. He is a man — or a house — dull of hearing and unskilled in the Word which is the basis for salvation.
 
 Maturity is first principles, then perfection, under that Word. A people who will not receive these two marks will not receive the labour that reverses them. They will hunt a third mark they can satisfy without opening the page.
 
@@ -873,40 +873,40 @@ V. What this chapter has established
 
 Babes are marked by two characteristics only: dull of hearing, and unskilled in the Word which is the basis for salvation. A third mark must not be sold as if the writing listed it. The Word as the basis for salvation makes unskill severe. Dullness makes the hard things unutterable even among those who hold the book.
 
-Part V has named what is missing and what is present when the premiere convention is refused: the absence of reasonability; apeiros in the word of righteousness; nēpios as person or house; and two marks, not three. Part VI will open the labour the writing itself requires: the scholarly impetus, and spoudazō.`,
+Part V has named what is missing and what is present when the appointed written authority is refused: the absence of sound judgment; ἄπειρος (apeiros) in the word of righteousness; νήπιος (nēpios) as person or house; and two marks, not three. Part VI will open the labour the writing itself requires: the Scripture’s demand for diligent study, and σπουδάζω (spoudazō).`,
   },
   {
     id: "ch-ost-18",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 18,
-    title: "Spoudazō",
+    title: "Σπουδάζω (spoudazō)",
     body: `What labour does the writing require?
 
-Part V named the diagnosis: absence of reasonability, apeiros in the word of righteousness, nēpios as person or house, and two marks only. This part names the labour the writing itself requires. Lack of skill is blamed on failure to realize the scholarly impetus of the scripture and to align accordingly. That failure requires spoudazō — study, intellectually.
+Part V named the diagnosis: absence of sound judgment, ἄπειρος (apeiros) in the word of righteousness, νήπιος (nēpios) as person or house, and two marks only. This part names the labour the writing itself requires. Lack of skill is blamed on failure to realize the Scripture’s demand for diligent study of the scripture and to align accordingly. That failure requires σπουδάζω (spoudazō) — study, intellectually.
 
-I. The scholarly impetus of the scripture
+I. The Scripture’s demand for diligent study of the scripture
 
-Scholarly impetus is not a degree. It is not a seminary brand. It is the push the writing itself gives toward knowing and aligning. The graphē does not sit on a table as a relic. It presses the reader to know what is written and to order life under it. To realize the impetus is to feel that press and to sit down. To refuse it is to remain apeiros while the copy multiplies.
+Scripture’s demand for diligent study is not a degree. It is not a seminary brand. It is the push the writing itself gives toward knowing and aligning. The graphē does not sit on a table as a relic. It presses the reader to know what is written and to order life under it. To realize the impetus is to feel that press and to sit down. To refuse it is to remain ἄπειρος (apeiros) while the copy multiplies.
 
 Ignorance as holiness is one of the refusals. A people can treat the mind as if reasoning were unbelief. They can call intellectual labour cold, and call an unexamined impression spiritual. The writing will not grant that piety. Holy Writ is writings or sayings of unchallenged-unquestionable authority. Writings must be read. Reading is already handling. Handling that will not think is not humility. It is dull hearing wearing a softer name.
 
-Scholarship as a rival court is the other refusal. A man may make learning itself Holy Writ. Then the degree, the library, or the school becomes the convention. That is not the scholarly impetus of the scripture. That is another court. The impetus belongs to the writing. The labour sits under it.
+Scholarship as a rival court is the other refusal. A man may make learning itself Holy Writ. Then the degree, the library, or the school becomes the authority. That is not the Scripture’s demand for diligent study of the scripture. That is another court. The impetus belongs to the writing. The labour sits under it.
 
-II. Spoudazō, intellectually
+II. Σπουδάζω (spoudazō), intellectually
 
-Spoudazō: to use speed, that is, to make effort, be prompt or earnest; do diligence, be diligent, endeavour, labour, study — intellectually.
+Σπουδάζω (spoudazō): to use speed, that is, to make effort, be prompt or earnest; do diligence, be diligent, endeavour, labour, study — intellectually.
 
 2 Timothy 2:15 — “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.”
 
-Speed here is not haste that skips a cluster. It is earnestness that will not postpone the labour. Effort is not noise. Promptness is not a calendar. Earnestness refuses to treat the oracles as optional once the week fills. Diligence, endeavour, labour, study — these are one family. Intellectually belongs to the definition. This book will not despise the mind as if perception, learning, and reasoning were unbelief.
+Speed here is not haste that skips a Scripture set. It is earnestness that will not postpone the labour. Effort is not noise. Promptness is not a calendar. Earnestness refuses to treat the oracles as optional once the week fills. Diligence, endeavour, labour, study — these are one family. Intellectually belongs to the definition. This book will not despise the mind as if perception, learning, and reasoning were unbelief.
 
 The verse commands study. It does not command a mood of study. It does not command a pile of quotations. It commands labour in the word of truth until the workman can be shown. Chapter 19 will open approval, shame, and right division. This chapter sets the prior fact: the writing requires intellectual labour.
 
 III. Diligence makes knowledge possible
 
-Knowledge — a mental result of perception, learning, and reasoning — becomes possible where spoudazō is present. Quotation without that labour is not skill. Time without that labour produced babes who ought to have been teachers. Format without that labour leaves a man apeiros with a glowing screen or a worn book.
+Knowledge — a mental result of perception, learning, and reasoning — becomes possible where σπουδάζω (spoudazō) is present. Quotation without that labour is not skill. Time without that labour produced babes who ought to have been teachers. Format without that labour leaves a man ἄπειρος (apeiros) with a glowing screen or a worn book.
 
-If the writing does not require labour, Hebrews 5 is cruelty. They had had time. They had not used it in the word of righteousness. The scholarly impetus names the missed requirement. Spoudazō names the labour that would have answered it. A people who will not study intellectually will remain dull of hearing and call the remaining spiritual.
+If the writing does not require labour, Hebrews 5 is cruelty. They had had time. They had not used it in the word of righteousness. The Scripture’s demand for diligent study names the missed requirement. Σπουδάζω (spoudazō) names the labour that would have answered it. A people who will not study intellectually will remain dull of hearing and call the remaining spiritual.
 
 The two refusals often travel together. A house despises the mind in the pew and crowns a scholar in the office. Then ignorance is holiness for the member, and scholarship is the court for the interpreter. Both refuse the impetus. The writing requires the same intellectual labour of the person and of the organization. No one is exempted by office. No one is exempted by a claim to be “simple.”
 
@@ -914,15 +914,15 @@ Persons and organizations are under the same requirement. A house can refuse the
 
 IV. The labour is under the writing
 
-Spoudazō does not create Holy Writ. It sits under it. John 10:35 still governs the shop: the scripture cannot be broken to make the labour come out clean. The premiere convention remains the graphē. This volume, a course, and a teacher may serve the labour. None of them is the convention.
+Σπουδάζω (spoudazō) does not create Holy Writ. It sits under it. John 10:35 still governs the shop: the scripture cannot be broken to make the labour come out clean. The appointed written authority remains the graphē. This volume, a course, and a teacher may serve the labour. None of them is the authority.
 
-Intellectual labour that breaks the cluster to win an argument is not spoudazō. It is haste. The definition’s “speed” will not cover that. Earnestness that will not postpone the work is not the same act as hurry that will not hold the verse.
+Intellectual labour that breaks the Scripture set to win an argument is not σπουδάζω (spoudazō). It is haste. The definition’s “speed” will not cover that. Earnestness that will not postpone the work is not the same act as hurry that will not hold the verse.
 
 Intellectual study that will not sit under the page is only another likeness. Intellectual study that sits under the page is how a workman is made. The next chapter will ask unto whom he is approved, and for what work.
 
 V. What this chapter has established
 
-The scholarly impetus of the scripture is the writing’s own press toward knowing and aligning — not a degree, and not a rival court. The labour it requires is spoudazō: speed, effort, promptness, earnestness, diligence, endeavour, labour, study — intellectually. Diligence makes knowledge possible. Ignorance treated as holiness is already a refusal of the writing. Chapter 19 will open the verse as a workman’s charge: approved unto God, not ashamed, rightly dividing the word of truth.`,
+The Scripture’s demand for diligent study of the scripture is the writing’s own press toward knowing and aligning — not a degree, and not a rival court. The labour it requires is σπουδάζω (spoudazō): speed, effort, promptness, earnestness, diligence, endeavour, labour, study — intellectually. Diligence makes knowledge possible. Ignorance treated as holiness is already a refusal of the writing. Chapter 19 will open the verse as a workman’s charge: approved unto God, not ashamed, rightly dividing the word of truth.`,
   },
   {
     id: "ch-ost-19",
@@ -931,7 +931,7 @@ The scholarly impetus of the scripture is the writing’s own press toward knowi
     title: "Study to Show Thyself Approved",
     body: `Approved unto whom? For what work?
 
-Chapter 18 named the labour: spoudazō, intellectually. This chapter opens the verse that commands it. 2 Timothy 2:15 is not a hobby line. It sits in a war letter. Approval has an audience. Work has a standard. The word of truth can be divided wrongly.
+Chapter 18 named the labour: σπουδάζω (spoudazō), intellectually. This chapter opens the verse that commands it. 2 Timothy 2:15 is not a hobby line. It sits in a war letter. Approval has an audience. Work has a standard. The word of truth can be divided wrongly.
 
 2 Timothy 2:15 — “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.”
 
@@ -949,7 +949,7 @@ Hardness belongs to the work. Approval is not ease. A soldier is not a hobbyist.
 
 II. A workman that needeth not to be ashamed
 
-Shame here is bad workmanship before God. It is not social embarrassment. It is the workman whose handling will not stand when the page is opened in the hearing of others. Rightly dividing assumes the word is truth before it is divided, and that it can be divided wrongly. Dull hearing and apeiros produce wrong division. Right division holds a cluster, keeps a distinction, and will not merge what the text keeps apart.
+Shame here is bad workmanship before God. It is not social embarrassment. It is the workman whose handling will not stand when the page is opened in the hearing of others. Rightly dividing assumes the word is truth before it is divided, and that it can be divided wrongly. Dull hearing and ἄπειρος (apeiros) produce wrong division. Right division holds a Scripture set, keeps a distinction, and will not merge what the text keeps apart.
 
 2 Timothy 2:8-9 — “Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel: Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound.”
 
@@ -959,7 +959,7 @@ A house that will not allow shame before God will invent shame before the house.
 
 III. Rightly dividing the word of truth
 
-The word is truth before the workman divides it. He does not make it true by dividing well. He can make a lie by dividing badly. Wrong division isolates a verse to manufacture a doctrine the cluster will not bear. It merges what the text keeps apart. It postpones the contrary verse. It calls the result “what Scripture teaches.”
+The word is truth before the workman divides it. He does not make it true by dividing well. He can make a lie by dividing badly. Wrong division isolates a verse to manufacture a doctrine the Scripture set will not bear. It merges what the text keeps apart. It postpones the contrary verse. It calls the result “what Scripture teaches.”
 
 Rightly dividing is not a slogan for a method. It is the work the verse names. Later chapters will open that handling as hermeneutics: what the writing says, what it means, how Scripture interprets Scripture. The order now is the charge. Study. Shew. Approved unto God. Workman. Not ashamed. Rightly dividing. The word of truth.
 
@@ -967,13 +967,13 @@ IV. What the work is for
 
 The work is not a private collection. It is so the first principles of the oracles of God can be taught, and so a people can go on to maturity. A workman who cannot divide the word of truth cannot teach the oracles. He can only repeat a house line. Hebrews said they ought to have been teachers. 2 Timothy 2:15 is the labour that would have made that ought possible.
 
-Wrong division is how damnable accepted heresies become doctrines while verses are still quoted. The words are present. The cluster is not held. The distinction is not kept. The house calls the result teaching. The workman who needed not to be ashamed would have sat down. Shame before God is the refusal of that sitting when the page is open.
+Wrong division is how damnable accepted heresies become doctrines while verses are still quoted. The words are present. The Scripture set is not held. The distinction is not kept. The house calls the result teaching. The workman who needed not to be ashamed would have sat down. Shame before God is the refusal of that sitting when the page is open.
 
 Persons and organizations are under the same charge. A house can employ many teachers and still be ashamed in the work, if the writing is not the court of the division. Soft copy and hard copy will not cover that shame. Alignment will.
 
 V. What this chapter has established
 
-Study is commanded so a workman may be shown, approved unto God, not ashamed, rightly dividing the word of truth. Approval is not unto a faction. Shame is bad workmanship before God. The workman may suffer; the word of God is not bound. Hobby study and wrong division refuse the charge. Chapter 20 will ask the question the scholarly impetus already implied: is a copy the same as knowing the scriptures?`,
+Study is commanded so a workman may be shown, approved unto God, not ashamed, rightly dividing the word of truth. Approval is not unto a faction. Shame is bad workmanship before God. The workman may suffer; the word of God is not bound. Hobby study and wrong division refuse the charge. Chapter 20 will ask the question the Scripture’s demand for diligent study already implied: is a copy the same as knowing the scriptures?`,
   },
   {
     id: "ch-ost-20",
@@ -982,7 +982,7 @@ Study is commanded so a workman may be shown, approved unto God, not ashamed, ri
     title: "Knowing the Scriptures",
     body: `Is a copy the same as knowing?
 
-Lack of skill is blamed on failure to realize the scholarly impetus of the scripture and hitherto align themselves accordingly: failure to know the scriptures, appearing across intellectual media, whether soft or hard copy.
+Lack of skill is blamed on failure to realize the Scripture’s demand for diligent study of the scripture and hitherto align themselves accordingly: failure to know the scriptures, appearing across intellectual media, whether soft or hard copy.
 
 The sentence has already answered the question. Knowing is the requirement. The copy is the vehicle. Soft and hard media are named so that neither can be sold as the cure.
 
@@ -992,19 +992,19 @@ To know the scriptures is not to possess them. Possession is not perception. Per
 
 The phrase “appearing across intellectual media” already refuses a nostalgia that treats only one format as serious. The writing appears. It appears in more than one vehicle. Intellectual media are not the enemy of the impetus. Treating any one medium as if it were the knowing is the enemy. The blame is failure to know, not failure to prefer paper or screen.
 
-Hebrews 5:12 already showed the failure. They had had the oracles. They needed to be taught again. Time had passed. The copy — whatever form it took in their hearing — had not produced teachers. Failure to know is how apeiros remains after years. Failure to align is how a people can quote and still turn.
+Hebrews 5:12 already showed the failure. They had had the oracles. They needed to be taught again. Time had passed. The copy — whatever form it took in their hearing — had not produced teachers. Failure to know is how ἄπειρος (apeiros) remains after years. Failure to align is how a people can quote and still turn.
 
-Alignment is the other half of the blame. To know and not to sit down is already tergiversation waiting to be named. The scholarly impetus is not information. It is knowing and aligning. A mind that will not order life under what it has seen has not realized the impetus. It has only noticed that Bibles exist.
+Alignment is the other half of the blame. To know and not to sit down is already doctrinal turning aside waiting to be named. The Scripture’s demand for diligent study is not information. It is knowing and aligning. A mind that will not order life under what it has seen has not realized the impetus. It has only noticed that Bibles exist.
 
 II. Soft copy and hard copy
 
-Appearing across intellectual media, whether soft or hard copy: the writing appears. The format varies. The requirement does not. A glowing screen can hide apeiros as easily as a closed book. A worn book can hide apeiros as easily as an unopened application. Format is not skill.
+Appearing across intellectual media, whether soft or hard copy: the writing appears. The format varies. The requirement does not. A glowing screen can hide ἄπειρος (apeiros) as easily as a closed book. A worn book can hide ἄπειρος (apeiros) as easily as an unopened application. Format is not skill.
 
-The error is to treat the copy as the cure. Buy another edition. Download another application. Fill a device. Fill a shelf. Then call the filling knowing. The verse-cluster of this book will not grant that. Unskill is in the word of righteousness, not in the shortage of media. A people can be rich in copies and poor in knowledge.
+The error is to treat the copy as the cure. Buy another edition. Download another application. Fill a device. Fill a shelf. Then call the filling knowing. The verse set of this book will not grant that. Unskill is in the word of righteousness, not in the shortage of media. A people can be rich in copies and poor in knowledge.
 
-Media are vehicles. Labour is the requirement. Spoudazō uses whatever copy is in the hand. It does not wait for a better vehicle. It does not confuse the vehicle with the knowing.
+Media are vehicles. Labour is the requirement. Σπουδάζω (spoudazō) uses whatever copy is in the hand. It does not wait for a better vehicle. It does not confuse the vehicle with the knowing.
 
-A house can spend its strength upgrading media and call the upgrade a revival of the Word. The screens brighten. The apps multiply. The members remain dull of hearing. The scholarly impetus was never a call to better vehicles. It was a call to know and to align. When the vehicle is treated as the knowing, apeiros has found a modern covering.
+A house can spend its strength upgrading media and call the upgrade a revival of the Word. The screens brighten. The apps multiply. The members remain dull of hearing. The Scripture’s demand for diligent study was never a call to better vehicles. It was a call to know and to align. When the vehicle is treated as the knowing, ἄπειρος (apeiros) has found a modern covering.
 
 III. Knowing is alignment under the writing
 
@@ -1012,17 +1012,17 @@ To know the scriptures, in this diagnosis, is to know them so as to align. The w
 
 John 10:35 still governs the knowing. The scripture cannot be broken to make alignment easier. Knowing that requires a safer Bible is not knowing. It is editing. Chapter 9 already forbade that break. This chapter forbids the substitute that looks like knowing: ownership of the page without labour in the page.
 
-To align is to let the writing judge the life and the house. A man may know a verse as information and refuse it as court. That refusal is already the absence of reasonability sitting beside a full shelf. The impetus required both halves: know, and align. Drop either half, and the copies will still multiply.
+To align is to let the writing judge the life and the house. A man may know a verse as information and refuse it as court. That refusal is already the absence of sound judgment sitting beside a full shelf. The impetus required both halves: know, and align. Drop either half, and the copies will still multiply.
 
 IV. Why this question decides maturity
 
-If a copy is treated as knowing, the two marks of the babe can be hidden. The man has a Bible; therefore he hears. The house has many Bibles; therefore it is skilled. Hebrews 5:11-13 will not allow the hiding. Dull of hearing and unskilled in the Word sit among those who already had the oracles. The scholarly impetus names the missed labour. Knowing, not possessing, is how that labour begins.
+If a copy is treated as knowing, the two marks of the babe can be hidden. The man has a Bible; therefore he hears. The house has many Bibles; therefore it is skilled. Hebrews 5:11-13 will not allow the hiding. Dull of hearing and unskilled in the Word sit among those who already had the oracles. The Scripture’s demand for diligent study names the missed labour. Knowing, not possessing, is how that labour begins.
 
 Persons and organizations fail here in the same way. They upgrade the media. They do not upgrade the sitting. Then damnable accepted heresies can be called doctrines while the copies multiply. The copies did not fail. The knowing failed.
 
 V. What this chapter has established
 
-A copy is not knowing. Soft copy and hard copy are vehicles. The scholarly impetus of the scripture requires knowing the scriptures and aligning accordingly. Format will not reverse apeiros. Ownership will not reverse dull hearing. Chapter 21 will define the knowledge that labour is after: a mental result of perception, learning, and reasoning.`,
+A copy is not knowing. Soft copy and hard copy are vehicles. The Scripture’s demand for diligent study of the scripture requires knowing the scriptures and aligning accordingly. Format will not reverse ἄπειρος (apeiros). Ownership will not reverse dull hearing. Chapter 21 will define the knowledge that labour is after: a mental result of perception, learning, and reasoning.`,
   },
   {
     id: "ch-ost-21",
@@ -1037,11 +1037,11 @@ I. A mental result — three, not one
 
 Perception and learning and reasoning are not three slogans for the same act. They are three works that produce one result. Collapse them, and a man will call a feeling knowledge, or a memory knowledge, or a speculation knowledge. Keep them, and the writing can be known.
 
-Perception: you see what the text says, not what you wish it said. You see the words in their place. You see who speaks, to whom, and why. You see the cluster the verse sits in. Perception is not a mystical extra. It is the refusal to skip what is on the page.
+Perception: you see what the text says, not what you wish it said. You see the words in their place. You see who speaks, to whom, and why. You see the Scripture set the verse sits in. Perception is not a mystical extra. It is the refusal to skip what is on the page.
 
 Learning: you take it in, and you keep it. You write it. You can return it. A verse you cannot write is a verse you have not yet learned, however often you have heard it. Learning is not a feeling of familiarity.
 
-Reasoning: you hold a cluster together and draw the distinction the text itself makes. You can say why “ought to be teachers” and “become” belong in one verse. You can say why milk is kindness in one man and indictment in another. Reasoning is not speculation. It is the mind working the writing until the distinction is teachable.
+Reasoning: you hold a Scripture set together and draw the distinction the text itself makes. You can say why “ought to be teachers” and “become” belong in one verse. You can say why milk is kindness in one man and indictment in another. Reasoning is not speculation. It is the mind working the writing until the distinction is teachable.
 
 II. Illustration from Hebrews 5:12
 
@@ -1055,11 +1055,11 @@ Reasoning holds the words until the distinctions are forced. Ought is obligation
 
 III. Quotation is not knowledge
 
-A man may quote a verse and still be a babe. Information collected is not that mental result. A pile of texts can sit in a notebook while apeiros remains. The Hebrews readers had heard. They still needed to be taught again. Time had passed. Familiarity had not made them teachers.
+A man may quote a verse and still be a babe. Information collected is not that mental result. A pile of texts can sit in a notebook while ἄπειρος (apeiros) remains. The Hebrews readers had heard. They still needed to be taught again. Time had passed. Familiarity had not made them teachers.
 
 The error is to treat the pile as the cure. More verses. More headings. More recordings. If perception has not seen, learning has not kept, and reasoning has not distinguished, the pile is still milk after time. Cognitive skill is not a larger pile. It is the mental result the definition named.
 
-Logic may serve reasoning. It is not an authority above Scripture. A syllogism must not manufacture a doctrine the text does not support. Reasonability remains sound judgment under the writing. Knowledge is that judgment having perceived, learned, and reasoned.
+Logic may serve reasoning. It is not an authority above Scripture. A syllogism must not manufacture a doctrine the text does not support. Sound judgment remains sound judgment under the writing. Knowledge is that judgment having perceived, learned, and reasoned.
 
 Do not skip perception and call your opinion reasoning. Do not skip learning and call a memory of a heading knowledge. Do not skip reasoning and call a quotation a doctrine. The three works guard one another. Perception without the other two is noticing. Learning without the other two is storage. Reasoning without the other two is invention.
 
@@ -1067,7 +1067,7 @@ IV. Cognitive skill and the babe
 
 A lack of this cognitive skill explains the two marks without adding a third. Dull of hearing is perception refused. Unskilled in the Word is learning and reasoning unfinished. The babe is not first a man who missed a meeting. He is a man — or a house — who has not come to this mental result in the word of righteousness.
 
-Knowledge is required for leaving babe status. First principles must be known, not only named, before a people can go on to maturity. A house can name repentance, faith, baptisms, hands, resurrection, and judgment, and still be a nēpios if those names have not been perceived, learned, and reasoned in the writing. Naming is not the mental result.
+Knowledge is required for leaving babe status. First principles must be known, not only named, before a people can go on to maturity. A house can name repentance, faith, baptisms, hands, resurrection, and judgment, and still be a νήπιος (nēpios) if those names have not been perceived, learned, and reasoned in the writing. Naming is not the mental result.
 
 Chapter 22 will open the practice named beside the definition: Word exercise, Word drill — use, until the senses are exercised.
 
@@ -1094,7 +1094,7 @@ Word exercise: you use the word. You do not only hear it. You do not only admire
 
 II. A method under the writing — not the writing
 
-What follows is a labour method under that writing. It is not Holy Writ. It is not a printed checklist from the oracles. It is not the premiere convention. It is how a student may put a verse through the work this book has been describing. Treat these steps as labour that serves Scripture. Do not treat them as Scripture.
+What follows is a labour method under that writing. It is not Holy Writ. It is not a written checklist from the oracles. It is not the appointed written authority. It is how a student may put a verse through the work this book has been describing. Treat these steps as labour that serves Scripture. Do not treat them as Scripture.
 
 1. Read
 2. Observe
@@ -1111,11 +1111,11 @@ What follows is a labour method under that writing. It is not Holy Writ. It is n
 13. Repeat
 14. Demonstrate competency
 
-Read what is written. Observe what is on the page before you explain it. Identify the load-bearing words. Define them as the cluster uses them. Contextualize: who speaks, to whom, why, in what argument. Compare scripture with scripture. Connect the verse to its cluster, not to a likeness you already chose. Reason the distinctions the text forces. Test the result by John 10:35: the scripture cannot be broken to save the conclusion. Conclude only what the writing will bear. Articulate so another man can open the same page. Apply under the writing, not over it. Repeat until use has exercised the senses. Demonstrate competency in the material — not perfection of the human being.
+Read what is written. Observe what is on the page before you explain it. Identify the load-bearing words. Define them as the Scripture set uses them. Contextualize: who speaks, to whom, why, in what argument. Compare scripture with scripture. Connect the verse to its Scripture set, not to a likeness you already chose. Reason the distinctions the text forces. Test the result by John 10:35: the scripture cannot be broken to save the conclusion. Conclude only what the writing will bear. Articulate so another man can open the same page. Apply under the writing, not over it. Repeat until use has exercised the senses. Demonstrate competency in the material — not perfection of the human being.
 
 III. Why the list must stay under the court
 
-A numbered method can become a third court. Then the student is approved unto the steps, not unto God. Then disagreement with the method is treated as disagreement with the Word. That is already the interpreter above the writing. The steps serve 2 Timothy 2:15. They do not replace it. Rightly dividing remains the charge. Spoudazō remains the labour. The graphē remains the convention.
+A numbered method can become a third court. Then the student is approved unto the steps, not unto God. Then disagreement with the method is treated as disagreement with the Word. That is already the interpreter above the writing. The steps serve 2 Timothy 2:15. They do not replace it. Rightly dividing remains the charge. Σπουδάζω (spoudazō) remains the labour. The graphē remains the authority.
 
 If a house attributes this list to the oracles, it has already left unleavened sincerity and truth. The oracles named use. They did not print fourteen steps. Honesty is part of sitting under the writing. Inference, synthesis, and method may be used. They must be shown as what they are.
 
@@ -1131,7 +1131,7 @@ A drill that never returns to the same verse is not use. It is tourism. Repeat i
 
 V. What this chapter has established
 
-Knowledge is practised by Word exercise and Word drill — use, until the senses are exercised. A fourteen-step method may serve that use. It is not Holy Writ, not a checklist from the oracles, and not the premiere convention. Competency is demonstrated handling of the material, not perfection of the person. Chapter 23 will open the fruit of that use: exercised senses, discernment of good and evil, full age, and strong meat.`,
+Knowledge is practised by Word exercise and Word drill — use, until the senses are exercised. A fourteen-step method may serve that use. It is not Holy Writ, not a checklist from the oracles, and not the appointed written authority. Competency is demonstrated handling of the material, not perfection of the person. Chapter 23 will open the fruit of that use: exercised senses, discernment of good and evil, full age, and strong meat.`,
   },
   {
     id: "ch-ost-23",
@@ -1154,25 +1154,25 @@ II. Senses exercised
 
 Senses here are the faculties by which the word is handled until good and evil can be told apart. They are exercised — trained by use — not granted by a feeling in a meeting. Unexercised senses cannot discern. They can only repeat what the last court trained them to call good.
 
-If the object of use is the room, the senses will be exercised on the room. If the object of use is the writing, the senses will be exercised on the writing. Chapter 15 already said room skill is not apeiros reversed. This chapter says the same of discernment. A man may be very able at reading a house and still unable to discern by the word of righteousness.
+If the object of use is the room, the senses will be exercised on the room. If the object of use is the writing, the senses will be exercised on the writing. Chapter 15 already said room skill is not ἄπειρος (apeiros) reversed. This chapter says the same of discernment. A man may be very able at reading a house and still unable to discern by the word of righteousness.
 
-Hebrews 5:12-14 must be held as one movement. Time and ought. Again and become. Milk and meat. Apeiros and nēpios. Then use, exercise, discernment. Full age is not a fourth mark of babes. It is what the two marks have not yet become. The path from milk to meat is this use.
+Hebrews 5:12-14 must be held as one movement. Time and ought. Again and become. Milk and meat. Apeiros and νήπιος (nēpios). Then use, exercise, discernment. Full age is not a fourth mark of babes. It is what the two marks have not yet become. The path from milk to meat is this use.
 
 III. Discernment is not a mood
 
 The error is to treat discernment as atmosphere. “I just discerned.” “The Spirit showed me.” “I had a check.” Those sentences may describe a real caution. They do not replace Hebrews 5:14. If the caution cannot sit under what is written, it is a claim that must be tested as Chapter 13 tested “God spoke.” If it requires the writing to move, it is not discernment. It is another court.
 
-Good and evil, in this cluster, are not first a private taste. They are what the word of righteousness distinguishes. A heresy called a doctrine is evil named as good. Sound judgment under the writing is how that naming is refused. Exercised senses are how a people become able to refuse it without waiting for the house to speak first.
+Good and evil, in this Scripture set, are not first a private taste. They are what the word of righteousness distinguishes. A heresy called a doctrine is evil named as good. Sound judgment under the writing is how that naming is refused. Exercised senses are how a people become able to refuse it without waiting for the house to speak first.
 
 A person can discern and still be unheard in a babe-house. An organization can refuse discernment and still call itself of full age. The verse does not ask the house for permission. It attaches strong meat to use. Where use is refused, meat is refused, whatever the house prints on the door.
 
-Ersatz analogical, nonliteral religiousisms live on unexercised senses. They keep the vocabulary of discernment and refuse the use that would make discernment possible. They will call a likeness good because it felt clean. True Christ-ian experience pillows in the unleavened sincerity and truth of the graphē. Discernment that will not pillow there is not full age. It is mood.
+Substitute religious likenesses that refuse Scripture live on unexercised senses. They keep the vocabulary of discernment and refuse the use that would make discernment possible. They will call a likeness good because it felt clean. True Christian experience rests under the unleavened sincerity and truth of the graphē. Discernment that will not rest there is not full age. It is mood.
 
 IV. Why this fruit requires hermeneutics next
 
 To discern by the writing, the writing must be handled. What does it say? What does it mean? How does Scripture interpret Scripture? How is a contradiction in the reader distinguished from a contradiction in the page? How is the word of truth rightly divided? Those are the next questions. They are not a second epistemology. They are the workman’s questions under 2 Timothy 2:15 and John 10:35.
 
-Part VI has named the labour: the scholarly impetus; spoudazō intellectually; approval unto God; knowing, not a copy; knowledge as perception, learning, and reasoning; Word exercise and Word drill; senses exercised to discern. Part VII will open the handling itself.
+Part VI has named the labour: the Scripture’s demand for diligent study; σπουδάζω (spoudazō) intellectually; approval unto God; knowing, not a copy; knowledge as perception, learning, and reasoning; Word exercise and Word drill; senses exercised to discern. Part VII will open the handling itself.
 
 V. What this chapter has established
 
@@ -1187,15 +1187,15 @@ Part VI has opened the labour the writing requires. Part VII will open how that 
     title: "What Does the Writing Say?",
     body: `What does the writing say?
 
-That is the first work of handling. Part VI named the labour: spoudazō, knowing, perception, learning, reasoning, use. This part opens how that labour sits with a page. The first sitting is not “What do I hear?” It is not “What does this mean to me?” It is the Lord’s own question: Is it not written?
+That is the first work of handling. Part VI named the labour: σπουδάζω (spoudazō), knowing, perception, learning, reasoning, use. This part opens how that labour sits with a page. The first sitting is not “What do I hear?” It is not “What does this mean to me?” It is the Lord’s own question: Is it not written?
 
 John 10:34 — “Jesus answered them, Is it not written in your law, I said, Ye are gods?”
 
-He asked whether it was written. He cited what was written. He would not break the writing to answer a charge. Handling that skips what the writing says has already left the premiere convention, however spiritual the skip sounds.
+He asked whether it was written. He cited what was written. He would not break the writing to answer a charge. Handling that skips what the writing says has already left the appointed written authority, however spiritual the skip sounds.
 
 I. Saying is prior to meaning
 
-Perception, as Chapter 21 defined it, is seeing what the text says, not what you wish it said. Hermeneutics begins there or it does not begin. A man who starts with meaning has already supplied a court. The words then wait to be recruited. Ersatz analogical, nonliteral religiousisms live on that skip. They keep the vocabulary of Scripture and refuse the words as written.
+Perception, as Chapter 21 defined it, is seeing what the text says, not what you wish it said. Hermeneutics begins there or it does not begin. A man who starts with meaning has already supplied a court. The words then wait to be recruited. Substitute religious likenesses that refuse Scripture live on that skip. They keep the vocabulary of Scripture and refuse the words as written.
 
 What the writing says includes the words in their place: who speaks, to whom, why, what is commanded, what is promised, what is distinguished, what is repeated, what is denied. It includes the load-bearing terms. Hebrews 5:12 says time, ought, teachers, again, first principles, oracles of God, become, milk, strong meat. Those are not ornaments. They are what the verse says. Explain them later. See them first.
 
@@ -1207,7 +1207,7 @@ The Lord did not ask whether they felt the psalm. He asked whether it was writte
 
 John 10:35 — “If he called them gods, unto whom the word of God came, and the scripture cannot be broken;”
 
-Cannot be broken includes cannot be skipped. A safer Bible can be assembled by leaving hard words on the table. “Become” can be left off Hebrews 5:12. “Intellectually” can be left off spoudazō. “Persons or organizations” can be left off nēpios. The remaining words still sound like Scripture. They are Scripture after the skip. That skip is already apeiros in the word of righteousness.
+Cannot be broken includes cannot be skipped. A safer Bible can be assembled by leaving hard words on the table. “Become” can be left off Hebrews 5:12. “Intellectually” can be left off σπουδάζω (spoudazō). “Persons or organizations” can be left off νήπιος (nēpios). The remaining words still sound like Scripture. They are Scripture after the skip. That skip is already ἄπειρος (apeiros) in the word of righteousness.
 
 III. What refusing the saying produces
 
@@ -1215,7 +1215,7 @@ Wrong handling here is not a small academic fault. It is how unskill remains aft
 
 A house can train this refusal. It can teach the meaning first and the verse second. It can call that teaching covering. The member then cannot examine the claim. Chapter 5 named that place: the interpreter above the writing. This chapter names the first move that puts him there: he will not let the writing speak its own words before he speaks.
 
-Write what the verse says before you write what it means. That is not a schoolroom trick. It is how unleavened sincerity begins. If you cannot return the words, you have not yet perceived them. If you will not return the hard words, you have already chosen a safer saying. The scholarly impetus of the scripture is not a call to skip this sitting. It is a call to know what is written.
+Write what the verse says before you write what it means. That is not a schoolroom trick. It is how unleavened sincerity begins. If you cannot return the words, you have not yet perceived them. If you will not return the hard words, you have already chosen a safer saying. The Scripture’s demand for diligent study of the scripture is not a call to skip this sitting. It is a call to know what is written.
 
 IV. What this chapter has established
 
@@ -1238,7 +1238,7 @@ Interpretation must exist. Chapter 10 already held that sentence with its compan
 
 The word is truth before it is divided. Meaning is not created by a clever division. Meaning is reached by labour in a word that is already truth. A workman can be ashamed of a meaning that will not survive the page opened in the hearing of others.
 
-John 10:35 still governs the meaning: the scripture cannot be broken to make a sense come out clean. If the sense requires a word to be emptied, or a cluster to be trimmed, or a contrary verse to be postponed, the sense is not the writing’s meaning. It is the interpreter’s convenience.
+John 10:35 still governs the meaning: the scripture cannot be broken to make a sense come out clean. If the sense requires a word to be emptied, or a Scripture set to be trimmed, or a contrary verse to be postponed, the sense is not the writing’s meaning. It is the interpreter’s convenience.
 
 II. How meaning is reached
 
@@ -1246,7 +1246,7 @@ Perception has seen the words. Learning has kept them. Reasoning now holds them 
 
 The Lord reasoned from what was written. He cited Psalm 82:6. He named those unto whom the word of God came. He set the rule. He reasoned from the rule to His own claim. Meaning followed the writing. It did not recruit the writing after the claim was finished.
 
-Ersatz analogical, nonliteral religiousisms reverse that order. They have a meaning first — a likeness, a tradition, an experience. They then hunt a verse. The verse is made to mean the likeness. That is not meaning. That is recruiting. Unleavened sincerity and truth pillow in the graphē. A meaning that will not pillow there is not the writing’s meaning.
+Substitute religious likenesses that refuse Scripture reverse that order. They have a meaning first — a likeness, a tradition, an experience. They then hunt a verse. The verse is made to mean the likeness. That is not meaning. That is recruiting. Unleavened sincerity and truth rest under the graphē. A meaning that will not rest there is not the writing’s meaning.
 
 III. “What it means to me” is not the court
 
@@ -1258,32 +1258,32 @@ Hebrews 5:12 means what its words force, not what a house wishes “ought” to 
 
 IV. Wrong meaning is already unskill
 
-A people who will not labour for meaning remain unskilful in the word of righteousness. They may quote. They may feel. They may follow a house sense. They do not know. Then heresies can be accepted and called doctrines, because the name “meaning” has been put on what the graphē will not bear. Sound judgment would have tested the sense by the words. Absence of reasonability lets the sense stand.
+A people who will not labour for meaning remain unskilful in the word of righteousness. They may quote. They may feel. They may follow a house sense. They do not know. Then heresies can be accepted and called doctrines, because the name “meaning” has been put on what the graphē will not bear. Sound judgment would have tested the sense by the words. Absence of sound judgment lets the sense stand.
 
 V. What this chapter has established
 
-Meaning is the second work of handling, and it remains under the words. The word of truth is already truth; the workman can divide it wrongly. A sense that requires the writing to break is not the writing’s meaning. “What it means to me” is not the court. Chapter 26 will open what must stay attached to the verse if saying and meaning are to remain honest: the cluster — the context.`,
+Meaning is the second work of handling, and it remains under the words. The word of truth is already truth; the workman can divide it wrongly. A sense that requires the writing to break is not the writing’s meaning. “What it means to me” is not the court. Chapter 26 will open what must stay attached to the verse if saying and meaning are to remain honest: the Scripture set — the context.`,
   },
   {
     id: "ch-ost-26",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 26,
-    title: "Hold the Cluster",
+    title: "Hold the Scripture set",
     body: `What must stay attached to the verse?
 
-A verse isolated to manufacture a doctrine the cluster will not bear is already a break. Chapter 1 forbade taking John 10:35 as a motto and leaving 10:34 and 10:36 on the table. Chapter 9 named that isolation as breaking. This chapter makes the rule of handling: hold the cluster. Context is not a seminary ornament. It is how the writing is kept from being broken in practice.
+A verse isolated to manufacture a doctrine the Scripture set will not bear is already a break. Chapter 1 forbade taking John 10:35 as a motto and leaving 10:34 and 10:36 on the table. Chapter 9 named that isolation as breaking. This chapter makes the rule of handling: hold the Scripture set. Context is not a seminary ornament. It is how the writing is kept from being broken in practice.
 
-I. The cluster is the verse’s place
+I. The Scripture set is the verse’s place
 
-John 10:34-36 is one answer. The Lord asks whether it is written. He cites the psalm. He sets the rule that the scripture cannot be broken. He reasons to His own claim. Remove 10:34, and “cannot be broken” becomes a banner without a method. Remove 10:36, and the rule floats free of the pressure that proved it. The cluster is the argument’s place.
+John 10:34-36 is one answer. The Lord asks whether it is written. He cites the psalm. He sets the rule that the scripture cannot be broken. He reasons to His own claim. Remove 10:34, and “cannot be broken” becomes a banner without a method. Remove 10:36, and the rule floats free of the pressure that proved it. The Scripture set is the argument’s place.
 
-Hebrews 5:11-14 is one diagnosis. Dull of hearing. Time, ought, again, oracles, become, milk, meat. Apeiros in the word of righteousness; nēpios. Use, senses exercised, discernment. Remove 5:11, and unskill has no ear. Remove 5:14, and milk has no meat. Remove “become,” and recession becomes patience. The cluster is the diagnosis’s place.
+Hebrews 5:11-14 is one diagnosis. Dull of hearing. Time, ought, again, oracles, become, milk, meat. Apeiros in the word of righteousness; νήπιος (nēpios). Use, senses exercised, discernment. Remove 5:11, and unskill has no ear. Remove 5:14, and milk has no meat. Remove “become,” and recession becomes patience. The Scripture set is the diagnosis’s place.
 
-2 Timothy 2:3, 8-9, and 15 is one charge. Hardness. A word not bound. Study, approved unto God, workman, not ashamed, rightly dividing. Remove the hardness, and study becomes a hobby. Remove “the word of God is not bound,” and the workman’s bonds become a safer Bible. The cluster is the charge’s place.
+2 Timothy 2:3, 8-9, and 15 is one charge. Hardness. A word not bound. Study, approved unto God, workman, not ashamed, rightly dividing. Remove the hardness, and study becomes a hobby. Remove “the word of God is not bound,” and the workman’s bonds become a safer Bible. The Scripture set is the charge’s place.
 
 II. Context is not a tool for emptying words
 
-The error on one side is motto use: the verse without its place. The error on the other is context used as a solvent: the place used to empty the words. “In context” then means “it does not mean what it says.” That is not holding the cluster. That is breaking the saying by appeal to the neighbourhood.
+The error on one side is motto use: the verse without its place. The error on the other is context used as a solvent: the place used to empty the words. “In context” then means “it does not mean what it says.” That is not holding the Scripture set. That is breaking the saying by appeal to the neighbourhood.
 
 John 10:35 will not grant the solvent. The scripture cannot be broken — including by a context that requires the words to mean what they do not say. True context keeps the words and shows their argument. False context protects a conclusion the words would judge.
 
@@ -1291,19 +1291,19 @@ John 10:35 will not grant the solvent. The scripture cannot be broken — includ
 
 III. Why isolation produces heresies called doctrines
 
-A doctrine can be manufactured from a fragment. The fragment is still Bible. The doctrine is not therefore the graphē. Age-old organizations ostensibly Christianized can live on fragments. They can print the cluster and teach the fragment. The members hear a verse. They do not hear the argument. Dull of hearing is then compatible with much quotation.
+A doctrine can be manufactured from a fragment. The fragment is still Bible. The doctrine is not therefore the graphē. Age-old organizations ostensibly Christianized can live on fragments. They can print the Scripture set and teach the fragment. The members hear a verse. They do not hear the argument. Dull of hearing is then compatible with much quotation.
 
-Wrong handling of this kind is already apeiros. The word of righteousness is not experienced as a court that has a place. It is experienced as a resource of lines. Reasonability cannot judge a line that has been cut off from the words that would correct it. What ensues can be damnable accepted heresies called doctrines — still wearing a verse.
+Wrong handling of this kind is already ἄπειρος (apeiros). The word of righteousness is not experienced as a court that has a place. It is experienced as a resource of lines. Sound judgment cannot judge a line that has been cut off from the words that would correct it. What ensues can be damnable accepted heresies called doctrines — still wearing a verse.
 
-IV. How the workman holds the cluster
+IV. How the workman holds the Scripture set
 
-He reads what is written. He observes the argument, not only the sentence. He identifies the load-bearing words. He defines them as the cluster uses them. He asks who speaks, to whom, why. He will not conclude from 10:35 what 10:34-36 will not bear. He will not conclude from 5:13 what 5:11-14 will not bear. He will not conclude from 2:15 what 2:3 and 2:8-9 will not bear.
+He reads what is written. He observes the argument, not only the sentence. He identifies the load-bearing words. He defines them as the Scripture set uses them. He asks who speaks, to whom, why. He will not conclude from 10:35 what 10:34-36 will not bear. He will not conclude from 5:13 what 5:11-14 will not bear. He will not conclude from 2:15 what 2:3 and 2:8-9 will not bear.
 
 This is not a second method besides Word drill. It is the drill’s “contextualize” and “connect” named as a rule. The rule serves the writing. It is not the writing.
 
 V. What this chapter has established
 
-The cluster must stay attached to the verse. Context keeps the argument; it does not empty the words. Motto use and solvent context are two ways of breaking the writing. Isolation is a path to heresies called doctrines. Chapter 27 will ask who interprets the writing when two passages are opened: Scripture interprets Scripture.`,
+The Scripture set must stay attached to the verse. Context keeps the argument; it does not empty the words. Motto use and solvent context are two ways of breaking the writing. Isolation is a path to heresies called doctrines. Chapter 27 will ask who interprets the writing when two passages are opened: Scripture interprets Scripture.`,
   },
   {
     id: "ch-ost-27",
@@ -1324,7 +1324,7 @@ He cited Psalm 82:6. He did not cite a house line. He did not cite a private imp
 
 II. Other interpreters must sit down
 
-Tradition may preserve a true connection. It may also preserve a false one and teach the connection as the faith. Office may open a cluster. It may also forbid the member to open the second text. Experience may send a man to a verse. It may also forbid the verse to correct the experience. Each of these may have a place under the writing. None of them becomes the first interpreter by existing.
+Tradition may preserve a true connection. It may also preserve a false one and teach the connection as the faith. Office may open a Scripture set. It may also forbid the member to open the second text. Experience may send a man to a verse. It may also forbid the verse to correct the experience. Each of these may have a place under the writing. None of them becomes the first interpreter by existing.
 
 Chapter 6 named the kinds of court. This chapter names the hermeneutical form of the same test. When the authentic interpreter and a second passage appear to conflict, which interprets which? If the second passage cannot be allowed to speak, the interpreter has become the court. John 10:35 will not grant that. The scripture cannot be broken — including by an interpreter who will not let Scripture interpret Scripture.
 
@@ -1334,13 +1334,13 @@ Chapter 20 already said a copy is not knowing. A pile of cross-references is not
 
 The workman compares what the text itself joins, and what the same words require elsewhere. He does not join what the text keeps apart in order to manufacture a doctrine. He does not refuse a join the text makes in order to spare a tradition. Hebrews 5:12-14 interprets “babe” by milk, unskill, and use. 2 Timothy 2:15 interprets study by approval, shame, and right division. John 10:34-36 interprets “cannot be broken” by a cited psalm and a charged claim. Those are the writing’s own joins.
 
-A later chapter will take the six first principles as a test of this method — one chapter each, not six books. The test will be whether Scripture is still allowed to interpret Scripture when doctrine is named. If a companion, a course, or this volume becomes the first interpreter of those six, the convention has already moved. The writing remains first.
+A later chapter will take the six first principles as a test of this method — one chapter each, not six books. The test will be whether Scripture is still allowed to interpret Scripture when doctrine is named. If a companion, a course, or this volume becomes the first interpreter of those six, the authority has already moved. The writing remains first.
 
 IV. Why this keeps maturity possible
 
 If Scripture interprets Scripture, another man can open the same two pages. Teachers can be made when the time requires them. If a house interprets Scripture, the member must wait. Dull hearing is then institutionalized. Apeiros is then called loyalty. Heresies can be accepted and called doctrines because the second text was never allowed in the room.
 
-The premiere convention remains the graphē. Comparing writing with writing is the convention used, not replaced. This volume may point to joins. It does not become the join.
+The appointed written authority remains the graphē. Comparing writing with writing is the authority used, not replaced. This volume may point to joins. It does not become the join.
 
 V. What this chapter has established
 
@@ -1365,23 +1365,23 @@ John 10:35 assumes the distinction. The scripture cannot be broken. If the inter
 
 II. How the merge happens in handling
 
-It happens when a house calls its reading “the Word.” Disagreement with the reading is then disagreement with God. It happens when a commentary is treated as if it were the cluster. It happens when this book is treated as if it were the graphē. It happens when a student cannot tell, on a page he has written, which sentences are quotation and which are his reasoning.
+It happens when a house calls its reading “the Word.” Disagreement with the reading is then disagreement with God. It happens when a commentary is treated as if it were the Scripture set. It happens when this book is treated as if it were the graphē. It happens when a student cannot tell, on a page he has written, which sentences are quotation and which are his reasoning.
 
 Intellectual honesty is part of sitting under the writing. Mark the text. Mark the inference. Mark the application. If the inference falls, the text remains. If the application falls, the text remains. If the house will not allow that marking, the house has chosen a different source, whatever it prints on the cover.
 
-Word drill already required this marking. Observe before you explain. Define as the cluster uses the term. Test the conclusion by whether the scripture is being broken. Demonstrate competency means another man can follow the work. Hermeneutics that will not mark the acts cannot be tested. Untestable handling is already the interpreter above the writing.
+Word drill already required this marking. Observe before you explain. Define as the Scripture set uses the term. Test the conclusion by whether the scripture is being broken. Demonstrate competency means another man can follow the work. Hermeneutics that will not mark the acts cannot be tested. Untestable handling is already the interpreter above the writing.
 
 III. Under, beside, or above — in a single sitting
 
-Under the writing: the handler opens the cluster, lets the page correct the sense, and will shew the work. Beside the writing: the handler and the text are treated as a pair that must agree, and the text is made to mean what the handler already taught. Above the writing: the handler decides what the writing is permitted to say, and quotes as a magistrate quotes a statute he has already ruled on.
+Under the writing: the handler opens the Scripture set, lets the page correct the sense, and will shew the work. Beside the writing: the handler and the text are treated as a pair that must agree, and the text is made to mean what the handler already taught. Above the writing: the handler decides what the writing is permitted to say, and quotes as a magistrate quotes a statute he has already ruled on.
 
 Rightly dividing is the first place. Wrong dividing is the third, even when the vocabulary is Christian. The second place is how a people slide. They honour the writing as a companion and will not let it break the companion. Chapter 9 called that breaking. This chapter calls it hermeneutics that has lost its master.
 
 IV. Why the distinction is a maturity rule
 
-When interpretation is master, skill in the Word is replaced by skill in the voice. Dull of hearing can be called covering. Apeiros can be called remaining teachable. A babe-house can then accept what it has named doctrine and never test it by the page. The chain Chapter 14 named is laid by handling: absence of reasonability, presence of unskill, then aridity, tergiversation, damnable accepted heresies called doctrines.
+When interpretation is master, skill in the Word is replaced by skill in the voice. Dull of hearing can be called covering. Apeiros can be called remaining teachable. A babe-house can then accept what it has named doctrine and never test it by the page. The chain Chapter 14 named is laid by handling: absence of sound judgment, presence of unskill, then spiritual dryness, doctrinal turning aside, damnable accepted heresies called doctrines.
 
-When the writing is master, another man can open the same page. Teachers can be made. Shame can do its work. The premiere convention remains first.
+When the writing is master, another man can open the same page. Teachers can be made. Shame can do its work. The appointed written authority remains first.
 
 V. What this chapter has established
 
@@ -1396,35 +1396,35 @@ In every sitting, the writing is master and the interpretation is handling. The 
 
 John 10:35 — “If he called them gods, unto whom the word of God came, and the scripture cannot be broken;”
 
-The rule already answers the question. The writing cannot be broken. Therefore a contradiction that requires one verse to be discarded, emptied, or postponed to save another is not a contradiction in the graphē. It is a break in the handling. The reader has not yet held the clusters. Or he has made a meaning the words will not bear. Or he has joined what the writing keeps apart.
+The rule already answers the question. The writing cannot be broken. Therefore a contradiction that requires one verse to be discarded, emptied, or postponed to save another is not a contradiction in the graphē. It is a break in the handling. The reader has not yet held the Scripture sets. Or he has made a meaning the words will not bear. Or he has joined what the writing keeps apart.
 
 I. The safer Bible is assembled here
 
-A safer Bible is invented whenever the page obstructs a desired conclusion. One text is kept. The other is called a problem. The problem is then solved by a break: a word reassigned, a cluster trimmed, a verse left unused. The result is still called Scripture. It is Scripture after the break.
+A safer Bible is invented whenever the page obstructs a desired conclusion. One text is kept. The other is called a problem. The problem is then solved by a break: a word reassigned, a Scripture set trimmed, a verse left unused. The result is still called Scripture. It is Scripture after the break.
 
 The Lord would not assemble one. The psalm stood. The law stood. His claim stood under that writing. A later workman will not be asked to discard Hebrews 5:12 to save a house that does not want “ought,” or to discard 2 Timothy 2:15 to save a piety that despises the mind, or to discard John 10:35 to save an interpreter who will not sit down.
 
 II. Apparent contradiction is a call to labour
 
-Spoudazō is required here, not haste. Perception must see both places. Learning must keep both. Reasoning must hold both until the distinction or the unity the writing forces is teachable. Scripture interprets Scripture. Context stays attached. Meaning stays under the words. That labour may take time. Time spent in that labour is not unbelief. Discarding a text to end the discomfort is unbelief in the rule.
+Σπουδάζω (spoudazō) is required here, not haste. Perception must see both places. Learning must keep both. Reasoning must hold both until the distinction or the unity the writing forces is teachable. Scripture interprets Scripture. Context stays attached. Meaning stays under the words. That labour may take time. Time spent in that labour is not unbelief. Discarding a text to end the discomfort is unbelief in the rule.
 
-Contradiction in the reader is common. He has not yet defined the terms as each cluster uses them. He has treated a figure as if it were the other cluster’s prose, or prose as if it were a figure. He has merged two subjects the writing keeps apart. He has imported a house sense into one of the places. Those are apeiros problems. They are cured by use, not by a safer page.
+Contradiction in the reader is common. He has not yet defined the terms as each Scripture set uses them. He has treated a figure as if it were the other Scripture set’s prose, or prose as if it were a figure. He has merged two subjects the writing keeps apart. He has imported a house sense into one of the places. Those are ἄπειρος (apeiros) problems. They are cured by use, not by a safer page.
 
 III. Real refusal is also common
 
-Sometimes the reader has seen both places and will not let one of them judge him. Then the “contradiction” is tergiversation waiting for a name. He turns from what was said and calls the turning tension, mystery, or development. Mystery the writing leaves as mystery must be left. Tension the writing does not leave, and the reader manufactures to spare a doctrine, is already the absence of reasonability.
+Sometimes the reader has seen both places and will not let one of them judge him. Then the “contradiction” is doctrinal turning aside waiting for a name. He turns from what was said and calls the turning tension, mystery, or development. Mystery the writing leaves as mystery must be left. Tension the writing does not leave, and the reader manufactures to spare a doctrine, is already the absence of sound judgment.
 
 A house can institutionalize that refusal. It can teach that two texts “must not be pressed.” Pressing, in that use, means letting the writing finish its sentence. The scripture cannot be broken to spare the house a press. Damnable accepted heresies called doctrines often live in the gap between two texts that were never allowed to sit in one room.
 
 IV. What the workman does
 
-He opens both clusters. He keeps both sayings. He will not conclude from one what the other forbids until he has seen whether he has defined badly. He marks inference as inference. He would rather remain short of a synthesis than break a verse to finish one. Approval is still unto God. Shame is still bad workmanship. The word of God is not bound, including by the reader’s need for a tidy page today.
+He opens both Scripture sets. He keeps both sayings. He will not conclude from one what the other forbids until he has seen whether he has defined badly. He marks inference as inference. He would rather remain short of a synthesis than break a verse to finish one. Approval is still unto God. Shame is still bad workmanship. The word of God is not bound, including by the reader’s need for a tidy page today.
 
-Milk and strong meat are not two Bibles in contradiction. They are one graphē taken by two conditions. Right division holds that. A reader who calls them a contradiction has already lost the cluster. Dull of hearing and unskill will manufacture many such fights. Use will retire them without discarding a verse.
+Milk and strong meat are not two Bibles in contradiction. They are one graphē taken by two conditions. Right division holds that. A reader who calls them a contradiction has already lost the Scripture set. Dull of hearing and unskill will manufacture many such fights. Use will retire them without discarding a verse.
 
 V. What this chapter has established
 
-The scripture cannot be broken. Therefore an apparent contradiction is first a call to labour, not a licence to discard. The safer Bible is assembled at this point of pressure. Contradiction in the reader is unskill; refusal to let both texts speak is turning. Chapter 30 will name the work that holds saying, meaning, cluster, comparison, distinction, and pressure in one charge: rightly dividing the word of truth.`,
+The scripture cannot be broken. Therefore an apparent contradiction is first a call to labour, not a licence to discard. The safer Bible is assembled at this point of pressure. Contradiction in the reader is unskill; refusal to let both texts speak is turning. Chapter 30 will name the work that holds saying, meaning, Scripture set, comparison, distinction, and pressure in one charge: rightly dividing the word of truth.`,
   },
   {
     id: "ch-ost-30",
@@ -1435,11 +1435,11 @@ The scripture cannot be broken. Therefore an apparent contradiction is first a c
 
 2 Timothy 2:15 — “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.”
 
-Chapter 19 opened the verse as a workman’s charge. This chapter opens the act the charge names. Rightly dividing is the handling this part has been describing: say what is written; reach meaning under the words; hold the cluster; let Scripture interpret Scripture; keep the writing above the interpretation; refuse a safer Bible when texts press each other. Wrong division is the refusal of that sitting.
+Chapter 19 opened the verse as a workman’s charge. This chapter opens the act the charge names. Rightly dividing is the handling this part has been describing: say what is written; reach meaning under the words; hold the Scripture set; let Scripture interpret Scripture; keep the writing above the interpretation; refuse a safer Bible when texts press each other. Wrong division is the refusal of that sitting.
 
 I. The word is truth before it is divided
 
-Rightly assumes a wrong way. The material is already the word of truth. The workman does not make it true. He can make a lie by dividing badly. Isolating a verse to manufacture a doctrine the cluster will not bear is wrong division. Merging what the text keeps apart is wrong division. Emptying a word by a solvent context is wrong division. Recruiting a verse to bless a likeness is wrong division. Calling the result “what Scripture teaches” does not heal the division.
+Rightly assumes a wrong way. The material is already the word of truth. The workman does not make it true. He can make a lie by dividing badly. Isolating a verse to manufacture a doctrine the Scripture set will not bear is wrong division. Merging what the text keeps apart is wrong division. Emptying a word by a solvent context is wrong division. Recruiting a verse to bless a likeness is wrong division. Calling the result “what Scripture teaches” does not heal the division.
 
 John 10:35 remains the rule over the shop. The scripture cannot be broken to make a division come out clean. A clean wrong division is still a break. Shame is that break shown when the page is opened.
 
@@ -1447,27 +1447,27 @@ II. Right division keeps distinctions the writing makes
 
 Hebrews 5 keeps milk as mercy at the beginning and milk as indictment after time. It keeps first principles as foundation and refuses to despise them as a lesser gospel. It keeps person and organization under the same unskill. It keeps two marks of babes, not three. Right division holds those distinctions. Wrong division collapses them for convenience.
 
-John 10 keeps “is it not written,” the cited psalm, the rule, and the charged claim in one answer. Right division holds the cluster. Wrong division takes the motto and leaves the method.
+John 10 keeps “is it not written,” the cited psalm, the rule, and the charged claim in one answer. Right division holds the Scripture set. Wrong division takes the motto and leaves the method.
 
 2 Timothy 2 keeps hardness, a word not bound, and study intellectually in one charge. Right division will not despise the mind to save a piety, and will not crown the mind as a rival court. Wrong division will do one or the other.
 
 III. Wrong handling ends where the diagnosis said
 
-Dull hearing and apeiros produce wrong division. Wrong division leaves a people unskilled in the word of righteousness. Unskill, with the absence of reasonability, produces aridity and tergiversation among persons and age-old organizations ostensibly Christianized: ensued in damnable accepted heresies called doctrines. Hermeneutics is not an ornament on that chain. It is how the chain is laid — or refused.
+Dull hearing and ἄπειρος (apeiros) produce wrong division. Wrong division leaves a people unskilled in the word of righteousness. Unskill, with the absence of sound judgment, produces spiritual dryness and doctrinal turning aside among persons and age-old organizations ostensibly Christianized: ensued in damnable accepted heresies called doctrines. Hermeneutics is not an ornament on that chain. It is how the chain is laid — or refused.
 
 A house can be very able at wrong division. Room skill is not right division. Loyalty is not right division. Age is not right division. Right division is use under the writing until the senses can discern good and evil. Full age is that use. Strong meat is the same graphē taken by those who can bear it.
 
-This part has not invented a second way of knowing. Perception, learning, and reasoning remain the mental result. Hermeneutics is those three aimed at a page: what it says, what it means, in its place, beside other writing, under the rule that cannot be broken. Spoudazō still supplies the labour. The scholarly impetus still supplies the press. The workman still shews himself approved unto God.
+This part has not invented a second way of knowing. Perception, learning, and reasoning remain the mental result. Hermeneutics is those three aimed at a page: what it says, what it means, in its place, beside other writing, under the rule that cannot be broken. Σπουδάζω (spoudazō) still supplies the labour. The Scripture’s demand for diligent study still supplies the press. The workman still shews himself approved unto God.
 
 IV. The handling serves hearing and growth
 
-The premiere convention remains the graphē. Rightly dividing is the convention used, not replaced. This book, a method, and a teacher serve the dividing. They are not the word of truth. Part VIII will open what continuance in that word is for: disciples indeed, knowing the truth, and the truth making free.
+The appointed written authority remains the graphē. Rightly dividing is the authority used, not replaced. This book, a method, and a teacher serve the dividing. They are not the word of truth. Part VIII will open what continuance in that word is for: disciples indeed, knowing the truth, and the truth making free.
 
 The workman studies to shew himself approved unto God. He endures hardness. He will not break the writing to spare a conclusion. He will mark his interpretation as handling. He will let another man open the same page. That is right division. That is how first principles can be taught, and how a people can go on to maturity.
 
 V. What this chapter has established
 
-Rightly dividing is handling the word of truth without breaking it: saying, meaning, cluster, comparison, distinction, and pressure held under John 10:35. Wrong division manufactures doctrine the writing will not bear. That wrong handling is a path to apeiros and to heresies called doctrines.
+Rightly dividing is handling the word of truth without breaking it: saying, meaning, Scripture set, comparison, distinction, and pressure held under John 10:35. Wrong division manufactures doctrine the writing will not bear. That wrong handling is a path to ἄπειρος (apeiros) and to heresies called doctrines.
 
 Part VII has opened the handling. Part VIII will open the fruit the writing names when a man continues in His word: truth, and freedom, and the path from first principles to maturity.`,
   },
@@ -1478,15 +1478,15 @@ Part VII has opened the handling. Part VIII will open the fruit the writing name
     title: "Continue in My Word",
     body: `If ye continue in my word, then are ye my disciples indeed.
 
-Part VII opened the handling. This part opens the fruit the writing names when that handling is not a visit but a continuance. John 8:32 is printed as the close of the opening movement: Truth makes free. The clause must not be taken to a banner and left without 8:31. Knowing the truth, and the freedom that follows, sit inside continuance in His word.
+Part VII opened the handling. This part opens the fruit the writing names when that handling is not a visit but a continuance. John 8:32 stands as the close of the opening movement: Truth makes free. The clause must not be taken to a banner and separated from 8:31. Knowing the truth, and the freedom that follows, sit inside continuance in His word.
 
 John 8:31 — “Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed;”
 
 He spoke to those who already believed. Belief had begun. Continuance was not therefore optional. Disciples indeed are not those who have used the vocabulary. They are those who remain in His word.
 
-I. Continuance is the premiere convention used
+I. Continuance under the appointed written authority
 
-His word, in this book’s argument, is not a later impression that authenticates itself. It is the word He treated as written and unbreakable. The premiere convention for hearing from God and for spiritual growth is the graphē. Continuance in His word is that convention inhabited — not visited, not quoted, not owned as a copy, but remained in.
+His word, in this book’s argument, is not a later impression that authenticates itself. It is the word He treated as written and unbreakable. The appointed written authority for hearing from God and for spiritual growth is the graphē. Continuance in His word is that authority inhabited — not visited, not quoted, not owned as a copy, but remained in.
 
 John 8:31 will not let a man treat the writing as a gate he has already passed. If ye continue. The condition stands after believing has begun. A people can believe and still refuse continuance. They can hold the book and still be dull of hearing. They can name the oracles and still need to be taught again. Continuance is use over time under the same court.
 
@@ -1494,7 +1494,7 @@ John 8:31 will not let a man treat the writing as a gate he has already passed. 
 
 II. Disciples indeed
 
-Indeed is the word that refuses a likeness. There is a discipleship that uses His name and will not sit under His word. Ersatz analogical, nonliteral religiousisms live there. They keep the vocabulary of following and refuse the writing as written. True Christ-ian experience pillows in the unleavened sincerity and truth of the graphē. A following that will not pillow there is not disciples indeed.
+Indeed is the word that refuses a likeness. There is a discipleship that uses His name and will not sit under His word. Substitute religious likenesses that refuse Scripture live there. They keep the vocabulary of following and refuse the writing as written. True Christian experience rests under the unleavened sincerity and truth of the graphē. A following that will not rest there is not disciples indeed.
 
 The Lord did not say, If ye continue in a house. He did not say, If ye continue in a feeling. He said, If ye continue in my word. A house may serve that continuance. A teacher may serve it. This volume may serve it. None of them is the word. If continuance is relocated to a voice, the disciple is indeed a dependent, not a workman.
 
@@ -1508,13 +1508,13 @@ Continuance is also how teachers are made when the time has required them. A man
 
 IV. What continuance makes possible
 
-Chapter 32 will open the next sentences: ye shall know the truth, and the truth shall make you free. Those futures sit on this condition. Knowledge — perception, learning, and reasoning — is not promised to the man who will not remain. Freedom is not promised to the motto. The cluster is one argument. This chapter holds the first sentence so the later sentences cannot be stolen.
+Chapter 32 will open the next sentences: ye shall know the truth, and the truth shall make you free. Those futures sit on this condition. Knowledge — perception, learning, and reasoning — is not promised to the man who will not remain. Freedom is not promised to the motto. The Scripture set is one argument. This chapter holds the first sentence so the later sentences cannot be stolen.
 
-Persons and organizations are under the same if. A man can begin and not continue. A house can begin and turn. Tergiversation is continuance broken. Aridity is continuance emptied of yield. Damnable accepted heresies called doctrines are what a people can eat when they have left His word and kept His name.
+Persons and organizations are under the same if. A man can begin and not continue. A house can begin and turn. Doctrinal turning aside is continuance broken. Spiritual dryness is continuance emptied of yield. Damnable accepted heresies called doctrines are what a people can eat when they have left His word and kept His name.
 
 V. What this chapter has established
 
-Disciples indeed are those who continue in His word — the graphē inhabited, not visited. Belief that has begun has not finished the condition. Continuance is the premiere convention used over time. Dull hearing and unskill are that continuance refused. Chapter 32 will open the cluster’s next claim: ye shall know the truth, and the truth shall make you free — and will not leave 8:33-36 on the table.`,
+Disciples indeed are those who continue in His word — the graphē inhabited, not visited. Belief that has begun has not finished the condition. Continuance under the appointed written authority over time. Dull hearing and unskill are that continuance refused. Chapter 32 will open the Scripture set’s next claim: ye shall know the truth, and the truth shall make you free — and will not leave 8:33-36 on the table.`,
   },
   {
     id: "ch-ost-32",
@@ -1523,7 +1523,7 @@ Disciples indeed are those who continue in His word — the graphē inhabited, n
     title: "Truth Makes Free",
     body: `Ye shall know the truth, and the truth shall make you free.
 
-John 8:32 is not a motto for a banner. It is the second sentence of a cluster that begins with continuance and ends with the Son making free indeed. Take 8:32 alone, and freedom becomes a slogan. Hold 8:31-36, and freedom is the fruit of remaining in His word, knowing the truth, and being made free from the bondage the room denied.
+John 8:32 is not a motto for a banner. It is the second sentence of a Scripture set that begins with continuance and ends with the Son making free indeed. Take 8:32 alone, and freedom becomes a slogan. Hold 8:31-36, and freedom is the fruit of remaining in His word, knowing the truth, and being made free from the bondage the room denied.
 
 John 8:31 — “Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed;”
 
@@ -1539,29 +1539,29 @@ John 8:36 — “If the Son therefore shall make you free, ye shall be free inde
 
 I. Knowing the truth is not a slogan
 
-Ye shall know. Knowledge, as this book has defined it, is a mental result of perception, learning, and reasoning. It is not a pile of quotations. It is not a feeling of being sure. Continuance in His word is how that knowing becomes possible. The scholarly impetus, spoudazō, and use are not extras beside John 8:32. They are how a man knows the truth the verse names.
+Ye shall know. Knowledge, as this book has defined it, is a mental result of perception, learning, and reasoning. It is not a pile of quotations. It is not a feeling of being sure. Continuance in His word is how that knowing becomes possible. The Scripture’s demand for diligent study, σπουδάζω (spoudazō), and use are not extras beside John 8:32. They are how a man knows the truth the verse names.
 
 The room answered from pedigree. We be Abraham’s seed. We were never in bondage. They had a history. They did not have the hearing. Dull of hearing can sit inside a lineage. Apeiros can sit inside a claim of never having been bound. The Lord did not argue their ancestry. He named the bondage they would not see: whosoever committeth sin is the servant of sin.
 
 II. Freedom from what
 
-The freedom 8:32 names is not first a political deliverance, and it is not a mood of being unburdened. The cluster interprets the clause. Servant of sin. The servant abideth not in the house for ever. The Son abideth ever. If the Son shall make you free, ye shall be free indeed. Free indeed is the Lord’s word against a likeness of freedom — against a room that says it was never bound.
+The freedom 8:32 names is not first a political deliverance, and it is not a mood of being unburdened. The Scripture set interprets the clause. Servant of sin. The servant abideth not in the house for ever. The Son abideth ever. If the Son shall make you free, ye shall be free indeed. Free indeed is the Lord’s word against a likeness of freedom — against a room that says it was never bound.
 
-Ersatz analogical, nonliteral religiousisms will take “truth makes free” and bless a likeness: freedom from restraint, freedom from the page, freedom from the first principles, freedom from labour. That is not the cluster. Continuance in His word is not bondage. It is the path out of serving sin. A people who call the writing bondage have already answered with 8:33.
+Substitute religious likenesses that refuse Scripture will take “truth makes free” and bless a likeness: freedom from restraint, freedom from the page, freedom from the first principles, freedom from labour. That is not the Scripture set. Continuance in His word is not bondage. It is the path out of serving sin. A people who call the writing bondage have already answered with 8:33.
 
 III. The Son, the word, and the house
 
 The Son makes free. The word is His. Continuance is in that word. The servant does not abide in the house for ever. A man can be in a house — even an age-old house ostensibly Christianized — and still be a servant of sin. Membership is not free indeed. The Son abides. The writing that cannot be broken remains the court. Freedom that requires the writing to move is not the freedom He named.
 
-Truth, in this argument, is not a private possession. It is what is known by remaining in His word — Holy Writ, the one source, the premiere convention. The truth shall make you free. The future sits on the condition. A motto without continuance is a promise stolen from a sentence the reader has left.
+Truth, in this argument, is not a private possession. It is what is known by remaining in His word — Holy Writ, the one source, the appointed written authority. The truth shall make you free. The future sits on the condition. A motto without continuance is a promise stolen from a sentence the reader has left.
 
 IV. Why this closes the positive chain
 
 The opening movement ran from the graphē to hearing and growth, to first principles and maturity, to labour, knowledge, use, and then this: truth makes free. The chain does not end in information. It ends in a man no longer the servant of sin, because the Son has made him free indeed, and because he has continued in the word by which that truth is known.
 
-A house can print John 8:32 and refuse 8:31. It can print 8:32 and refuse 8:34. Then freedom is a feeling, and sin is unnamed. That handling is already wrong division. It is a path back to heresies called doctrines. Hold the cluster.
+A house can print John 8:32 and refuse 8:31. It can print 8:32 and refuse 8:34. Then freedom is a feeling, and sin is unnamed. That handling is already wrong division. It is a path back to heresies called doctrines. Hold the Scripture set.
 
-Free indeed is the Lord’s word against a likeness, as disciples indeed was His word against a likeness. The two “indeed” sentences keep the cluster honest. A people can claim they were never bound and still serve sin. A people can claim they already know the truth and still refuse continuance. The writing will not grant either claim.
+Free indeed is the Lord’s word against a likeness, as disciples indeed was His word against a likeness. The two “indeed” sentences keep the Scripture set honest. A people can claim they were never bound and still serve sin. A people can claim they already know the truth and still refuse continuance. The writing will not grant either claim.
 
 V. What this chapter has established
 
@@ -1586,7 +1586,7 @@ First principles are the cornerstone content of the oracles of God. Chapter 11 a
 
 Maturity — perfection — is going on. Full age, in Hebrews 5:14, is use. Strong meat belongs to those who by reason of use have their senses exercised. Going on is not collecting a second scripture. It is the same graphē taken by those who can bear it, because the foundation has been known — perceived, learned, reasoned — and used.
 
-A people can collapse the two movements into “just grow.” Then there is no cornerstone and no going on, only motion. Motion is not maturity. A house can grow in numbers and remain a nēpios. Growth under the premiere convention is this sequence.
+A people can collapse the two movements into “just grow.” Then there is no cornerstone and no going on, only motion. Motion is not maturity. A house can grow in numbers and remain a νήπιος (nēpios). Growth under the appointed written authority is this sequence.
 
 II. Not skip, not endless relay
 
@@ -1600,7 +1600,7 @@ The truth that makes free is not a third movement that skips the first two. A ma
 
 III. Maturity includes knowing
 
-Perfection here is not a boast that the man has finished becoming holy. It is the writer’s word for going on from the beginning — maturity. Maturity includes knowing, not only feeling. The two marks of babes were dull hearing and unskill in the Word. The reverse is hearing and skill: reasonability, spoudazō, knowledge, use, discernment. A man can be sincere and still not mature. Sincerity is not the second movement.
+Perfection here is not a boast that the man has finished becoming holy. It is the writer’s word for going on from the beginning — maturity. Maturity includes knowing, not only feeling. The two marks of babes were dull hearing and unskill in the Word. The reverse is hearing and skill: sound judgment, σπουδάζω (spoudazō), knowledge, use, discernment. A man can be sincere and still not mature. Sincerity is not the second movement.
 
 Persons and organizations are under the same sequence. A house that will not lay the six remains a babe-house. A house that will not go on remains a milk-house. Age does not complete the sequence. Print does not. The writing does, when it is continued in.
 
@@ -1625,21 +1625,21 @@ The opening set the pace for productive living, being in control, and experienci
 
 I. Productive living
 
-Productive, here, is not first a harvest of goods. It is a life that yields what the oracles planted. Aridity was dryness where the oracles should yield. Productive living is the opposite climate: the writing known, reasoned, used, and therefore yielding. A man can be busy and arid. A house can be full and arid. Yield is not motion. Yield is the oracles doing what they were given to do in a person and in a people.
+Productive, here, is not first a harvest of goods. It is a life that yields what the oracles planted. Spiritual dryness was dryness where the oracles should yield. Productive living is the opposite climate: the writing known, reasoned, used, and therefore yielding. A man can be busy and arid. A house can be full and arid. Yield is not motion. Yield is the oracles doing what they were given to do in a person and in a people.
 
-John 8:31-32 still locates the yield. Continue in my word. Know the truth. The truth shall make you free. A productive life that will not continue in His word is another likeness. Ersatz analogical, nonliteral religiousisms will call a crowded calendar fruit. The writing will ask whether the senses have been exercised to discern good and evil.
+John 8:31-32 still locates the yield. Continue in my word. Know the truth. The truth shall make you free. A productive life that will not continue in His word is another likeness. Substitute religious likenesses that refuse Scripture will call a crowded calendar fruit. The writing will ask whether the senses have been exercised to discern good and evil.
 
 II. Be in control
 
 Control, here, is not dominion over other men as a slogan, and it is not a promise of ease. John 8:34 named the bondage: whosoever committeth sin is the servant of sin. The servant is not in control. The Son makes free indeed. Being in control is the man no longer mastered by that servitude — a life aligned under the writing, able to judge, able to refuse a heresy called a doctrine, able to sit down when the page corrects him.
 
-A people who are not in control will be controlled by the last court that trained the ear: a tradition, an hour, an appetite, a house voice. Absence of reasonability is already loss of control. Apeiros is already loss of control in the word of righteousness. The scholarly impetus was alignment. Alignment is how control is recovered: knowing the scriptures and ordering life under them.
+A people who are not in control will be controlled by the last court that trained the ear: a tradition, an hour, an appetite, a house voice. Absence of sound judgment is already loss of control. Apeiros is already loss of control in the word of righteousness. The Scripture’s demand for diligent study was alignment. Alignment is how control is recovered: knowing the scriptures and ordering life under them.
 
 Persons and organizations can lose this control together. A babe-house cannot keep its members free indeed. It can only keep them near. Continuance in His word is how a man, and a house, come back under one court.
 
 III. Godliness in all capacities
 
-Godliness is not a department. All capacities: the same writing governs the man in private and in public, in teaching and in hearing, in work and in rest. The imprimatur already named persons, organizations, governments, and nations. Godliness in all capacities is that scope inhabited, not as a political program, but as a refusal of exemption. No capacity is a second court.
+Godliness is not a department. All capacities: the same writing governs the man in private and in public, in teaching and in hearing, in work and in rest. The authority already named persons, organizations, governments, and nations. Godliness in all capacities is that scope inhabited, not as a political program, but as a refusal of exemption. No capacity is a second court.
 
 This is not a promise that the labourer will be rich, famous, or at ease. Hardness belongs to the workman. The word of God is not bound when the workman is. Godliness can sit in bonds. Prosperity language that treats these three aims as a harvest of goods has already left unleavened sincerity and truth. The aim is a life under the graphē — productive of the oracles’ yield, in control because free indeed, godly in every capacity the writing reaches.
 
@@ -1674,13 +1674,13 @@ Repentance from dead works is the first named foundation. Metanoia is a real cha
 
 Dead works are the works of the old man. Nekros ergon: the old nature — trespasses and sins (Ephesians 2:1); the wages thereof death (Romans 6:23). Two old things pass away when a man is in Christ (2 Corinthians 5:17): the spirit, nature, and power of sin — the old man, the spirit and nature of the devil working in men of disobedience (John 8:44; Ephesians 2:2; 2 Corinthians 4:4; 1 John 3:8-9; 5:18) — and outward sin (Galatians 5:19-21). Merge those two, and repentance becomes either a private mood or a list of behaviours. Hold them, and the writing has named what must die.
 
-The only way out is Christ Jesus (Hebrews 9:14; Ephesians 2:1-5). “Therefore if any man be in Christ, he is a new creature” (2 Corinthians 5:17). “Neither is there salvation in any other” (Acts 4:12). Receive Him: John 1:12; Romans 10:8-9. Salvation from sin is the salvation needed, sin being the cause of death and depravity. Consequence — Hell as Luke 16:19-31 and the lake as Revelation 20:10-15 — is real. It is not the whole of repentance. A safer Bible that keeps only the consequence has already left metanoia.
+The only way out is Christ Jesus (Hebrews 9:14; Ephesians 2:1-5). “Therefore if any man be in Christ, he is a new creature” (2 Corinthians 5:17). “Neither is there salvation in any other” (Acts 4:12). Receive Him: John 1:12; Romans 10:8-9. Salvation from sin is the salvation needed, sin being the cause of death and depravity. Consequence — Hell as Luke 16:19-31 and the lake as Revelation 20:10-15 — is real. It is not the whole of repentance. A safer Bible that keeps only the consequence has already left μετάνοια (metanoia).
 
 II. What another court would do
 
-An experience-court will call tears repentance and never open the cause. A tradition-court will call a rite repentance and never require the new creature. An interpreter-court will soften “dead works” until the old man can remain and still be called a believer. Each of those is apeiros in the word of righteousness wearing a Christian name. Damnable accepted heresies called doctrines begin here: when “repentance” is installed as a word the graphē will not bear.
+An experience-court will call tears repentance and never open the cause. A tradition-court will call a rite repentance and never require the new creature. An interpreter-court will soften “dead works” until the old man can remain and still be called a believer. Each of those is ἄπειρος (apeiros) in the word of righteousness wearing a Christian name. Damnable accepted heresies called doctrines begin here: when “repentance” is installed as a word the graphē will not bear.
 
-John 10:35 still governs the stone. The scripture cannot be broken to make repentance easier. 2 Timothy 2:15 still governs the handling. Rightly dividing keeps metanoia and metamellomai apart, and keeps the two old things apart.
+John 10:35 still governs the stone. The scripture cannot be broken to make repentance easier. 2 Timothy 2:15 still governs the handling. Rightly dividing keeps μετάνοια (metanoia) and μεταμέλομαι (metamellomai) apart, and keeps the two old things apart.
 
 III. Where this chapter stops
 
@@ -1703,7 +1703,7 @@ I. What the writing says
 
 Pistis is credence. That credence defines the state of children of God: acceptance of true nature, and adoption as sons (Galatians 4:5-7; Romans 8:15; Ephesians 1:5). Faith toward God is not first a leap into the dark. It is credence toward the God who made man in His image (Genesis 1:26-27), from whose glory man came short (Romans 3:23-24), and who justifies freely in Christ (2 Corinthians 5:21).
 
-Hold the cluster. Genesis 1:26-27 says what man is from creation. Psalm 82:6 remains in its place — the Lord already used it in John 10 without breaking it; this chapter will not import a later school use to finish Course 2 here. 2 Peter 1:4 names partakers of the divine nature. John 17:20-23 names oneness the Lord prayed. Those texts sit under the same court. They are not a second Bible called “identity.” They are the writing naming what faith toward God receives.
+Hold the Scripture set. Genesis 1:26-27 says what man is from creation. Psalm 82:6 remains in its place — the Lord already used it in John 10 without breaking it; this chapter will not import a later school use to finish Course 2 here. 2 Peter 1:4 names partakers of the divine nature. John 17:20-23 names oneness the Lord prayed. Those texts sit under the same court. They are not a second Bible called “identity.” They are the writing naming what faith toward God receives.
 
 A safer Bible will keep “faith” as intensity and drop image, adoption, and free justification. Then faith becomes a room skill: how hard a man can believe. Hebrews named faith toward God as a foundation stone of the oracles, not as a temperature.
 
@@ -1744,11 +1744,11 @@ Third: baptism in the Holy Spirit — Christ the agent (Matthew 3:11; John 1:31-
 
 II. What another court would do
 
-A tradition-court will make water the saving act and call the tank the oracles. An experience-court will make Spirit-baptism the proof of faith and never test the claim by the page. An interpreter-court will flatten the plural into one rite and then fight the house that kept another rite. Wrong division here is how heresies called doctrines are installed while verses are still quoted. Hold the cluster. Keep the agents. Do not merge what the text keeps apart.
+A tradition-court will make water the saving act and call the tank the oracles. An experience-court will make Spirit-baptism the proof of faith and never test the claim by the page. An interpreter-court will flatten the plural into one rite and then fight the house that kept another rite. Wrong division here is how heresies called doctrines are installed while verses are still quoted. Hold the Scripture set. Keep the agents. Do not merge what the text keeps apart.
 
 III. Where this chapter stops
 
-Fear and dread as the writing charges sons (Genesis 9:2; Deuteronomy 11:25) belong to the Spirit’s witness, not to swagger, and will not be developed here. Foundation School Course 3 — The Doctrine of Baptisms — labours this stone as school doctrine. The independent book Doctrine of Baptism labours it as a companion. This chapter is neither. It has asked whether “baptism” is still allowed to remain plural under the graphē. It is.
+Fear and dread as the writing charges sons (Genesis 9:2; Deuteronomy 11:25) belong to the Spirit’s witness, not to boastful performance, and will not be developed here. Foundation School Course 3 — The Doctrine of Baptisms — labours this stone as school doctrine. The independent book Doctrine of Baptism labours it as a companion. This chapter is neither. It has asked whether “baptism” is still allowed to remain plural under the graphē. It is.
 
 Chapter 38 will take laying on of hands — resultant, not a substitute for the first three.`,
   },
@@ -1781,9 +1781,9 @@ John 10:35 still governs a healing, an ordination, and a gift. The scripture can
 
 II. What another court would do
 
-A prophet-court will make hands the premiere convention: God spoke when hands were laid, and the page must wait. An office-court will make ordination the imprimatur. An experience-court will make a sensation in the hands the meaning of the verse. Each of those can quote Mark 16 and still be apeiros in the word of righteousness. The oracles have a beginning. Hands are in the beginning as a named stone. They are not the court that judges the beginning.
+A prophet-court will make hands the appointed written authority: God spoke when hands were laid, and the page must wait. An office-court will make ordination the authority. An experience-court will make a sensation in the hands the meaning of the verse. Each of those can quote Mark 16 and still be ἄπειρος (apeiros) in the word of righteousness. The oracles have a beginning. Hands are in the beginning as a named stone. They are not the court that judges the beginning.
 
-Acts 8:17-24 already warns the handling. Hands may be laid, and a man may still be in the gall of bitterness. The act did not become the court of his heart. Simon saw power and offered money. The writing judged him. A house that will not let that cluster sit with Hebrews 6:2 will treat hands as substance and then sell what cannot be bought. That is a heresy called a doctrine while the verse is still printed.
+Acts 8:17-24 already warns the handling. Hands may be laid, and a man may still be in the gall of bitterness. The act did not become the court of his heart. Simon saw power and offered money. The writing judged him. A house that will not let that Scripture set sit with Hebrews 6:2 will treat hands as substance and then sell what cannot be bought. That is a heresy called a doctrine while the verse is still being cited.
 
 III. Where this chapter stops
 
@@ -1804,7 +1804,7 @@ I. What the writing says
 
 There are two main kinds.
 
-Spiritual resurrection is the new birth: quickened from being dead in trespasses and sins (Ephesians 2:1-6); renewed in the likeness of God (Ephesians 4:21-24; Colossians 3:10; 1 John 3:9). It takes place in this life. When a man leaves this life, the possibility of that new birth has passed if he is not yet born again (Hebrews 9:27; Revelation 22:11). That claim sits on those two texts. It does not sit on a verse pressed into the cluster that the writing does not join here.
+Spiritual resurrection is the new birth: quickened from being dead in trespasses and sins (Ephesians 2:1-6); renewed in the likeness of God (Ephesians 4:21-24; Colossians 3:10; 1 John 3:9). It takes place in this life. When a man leaves this life, the possibility of that new birth has passed if he is not yet born again (Hebrews 9:27; Revelation 22:11). That claim sits on those two texts. It does not sit on a verse pressed into the Scripture set that the writing does not join here.
 
 Material resurrection is the resurrection of the body, not of the spirit. John 5:28-29 — “Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice, And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.”
 
@@ -1837,7 +1837,7 @@ Eternal punishment is written (Matthew 25:46; Revelation 14:9-11; 20:11-15; Isai
 
 Dead, as this teaching uses the word from the foundation, is separation from God’s purpose (Genesis 1:26-28). Three deaths are distinguished: physical, spiritual, and the second death. Merge them, and the new birth has no meaning, or the lake has no meaning, or the grave has swallowed both. Hold them. Spiritual death is not the second death. The grave is not the lake.
 
-The soul and spirit are not treated as mortal in the way the body dies. Resurrection, as Chapter 39 kept it, is of bodies. Judgment therefore is not the erasure of a man into soil. The book of life is written. Names may be blotted (Exodus 32:32-33; Revelation 3:5; 22:18-19). The second death is the lake of fire (Revelation 20:14; 21:8). Those sentences must stay attached to their clusters.
+The soul and spirit are not treated as mortal in the way the body dies. Resurrection, as Chapter 39 kept it, is of bodies. Judgment therefore is not the erasure of a man into soil. The book of life is written. Names may be blotted (Exodus 32:32-33; Revelation 3:5; 22:18-19). The second death is the lake of fire (Revelation 20:14; 21:8). Those sentences must stay attached to their Scripture sets.
 
 Five prisons are named, and none of them is the grave: Tartarus; Paradise (now empty of the righteous); Hell — sheol, hades; the abyss — Abaddon; the lake of fire — gehenna. A tradition that makes the grave the whole of the unseen has already merged what the writing keeps apart. A piety that empties all five to spare a feeling has already left unleavened sincerity and truth.
 
@@ -1849,7 +1849,7 @@ III. Where this chapter stops — and what the test has done
 
 Foundation School Course 6 — Eternal Judgment — labours this stone as school doctrine. The independent book Doctrine of Eternal Judgment labours it as a companion. This chapter is neither. It has asked whether eternal still means what the writing attached to punishment, death, and the prisons that are not the grave. It does.
 
-Part IX has not become six monographs. It has taken each name Hebrews gave, held a load-bearing distinction, and pointed to the course and the companion. The graphē remained the court. The six remained six. The school remains the school. The companions remain books. This volume remains a straight issue on the cornerstone — not the cornerstone, and not a seventh stone.
+Part IX has not become six monographs. It has taken each name Hebrews gave, held a load-bearing distinction, and pointed to the course and the companion. The graphē remained the court. The six remained six. The school remains the school. The companions remain books. This volume remains a direct treatment of the cornerstone — not the cornerstone, and not a seventh stone.
 
 Part X will close: what remains when every other authority is tested; the path from hearing to maturity; and the thesis said once more. One source of truth: the graphē — Holy Writ.`,
   },
@@ -1880,11 +1880,11 @@ II. The interpreter sat down
 
 Interpretation must exist. Reading is already handling. 2 Timothy 2:15 commands the labour: study, shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. The word is truth before it is divided. The workman can be ashamed. Therefore the workman is not the source.
 
-Under, beside, or above: those places remain the test of every sitting. Meaning that arrives before the words is already another court. A cluster stripped for a motto is already a break. A contradiction used as a licence to discard a verse is already a safer Bible. Scripture interprets Scripture. The writing remains above the interpretation. This volume used inference, synthesis, and method. It did not become the verse.
+Under, beside, or above: those places remain the test of every sitting. Meaning that arrives before the words is already another court. A Scripture set stripped for a motto is already a break. A contradiction used as a licence to discard a verse is already a safer Bible. Scripture interprets Scripture. The writing remains above the interpretation. This volume used inference, synthesis, and method. It did not become the verse.
 
 III. The products sat down
 
-This book is a straight issue on the essential cornerstone of Christianity — the first principles of the oracles of God. It is not the cornerstone. It is not the premiere convention. It is not a seventh first principle. Hebrews named six. A course may drill these pages. A teacher may open them. A year may grant them. Grant is not imprimatur. The graphē remains first in order for hearing from God and for spiritual growth.
+This book is a direct treatment of the essential cornerstone of Christianity — the first principles of the oracles of God. It is not the cornerstone. It is not the appointed written authority. It is not a seventh first principle. Hebrews named six. A course may drill these pages. A teacher may open them. A year may grant them. Grant is not authority. The graphē remains first in order for hearing from God and for spiritual growth.
 
 Persons, organizations, governments, and nations are already under that mark. No exemption by office, size, or piety. A nation cannot baptize its custom and call the baptism Holy Writ. A house cannot print Bibles and become Holy Writ. A man cannot feel a word and become Holy Writ.
 
@@ -1905,19 +1905,19 @@ The authority question is the maturity question. If the final court is not the w
 
 I. Hearing
 
-The premiere convention for hearing from God and for spiritual growth is the graphē. Premiere: first in order. Convention: the appointed way. You hear where He has spoken — in the writing. “God spoke” is tested by what God has written. Claimed revelation does not authenticate itself. Possession of a Bible is not the convention used. Hebrews 5:11 — “Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.” Dullness can sit among those who hold the book.
+The appointed written authority for hearing from God and for spiritual growth is the graphē. It is first in order: God’s appointed written authority. You hear where He has spoken — in the writing. “God spoke” is tested by what God has written. Claimed revelation does not authenticate itself. Possession of a Bible is not the authority used. Hebrews 5:11 — “Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.” Dullness can sit among those who hold the book.
 
 II. Unskill
 
-Reasonability is sound judgment under the writing — not reason as a rival court, and not the piety that will not judge. Apeiros is inexperience in the word of righteousness: not newness to a building, not lack of room skill. Nēpios is a babe — a person or a house — as diagnosis, not endearment. Two marks only: dull of hearing, and unskilled in the Word which is the basis for salvation. A third mark must not be sold as if the writing listed it.
+Sound judgment is sound judgment under the writing — not reason as a rival court, and not the piety that will not judge. Apeiros is inexperience in the word of righteousness: not newness to a building, not lack of room skill. Nēpios is a babe — a person or a house — as diagnosis, not endearment. Two marks only: dull of hearing, and unskilled in the Word which is the basis for salvation. A third mark must not be sold as if the writing listed it.
 
-Absence of reasonability and presence of unskillfulness produce aridity and tergiversation amongst persons, even age-old organizations ostensibly Christianized: ensued in damnable accepted heresies called doctrines. That chain is still the warning. Format will not reverse it. Soft copy and hard copy are vehicles. Knowing and aligning are the requirement.
+Absence of sound judgment and presence of unskillfulness produce spiritual dryness and doctrinal turning aside amongst persons, even age-old organizations ostensibly Christianized: ensued in damnable accepted heresies called doctrines. That chain is still the warning. Format will not reverse it. Soft copy and hard copy are vehicles. Knowing and aligning are the requirement.
 
 III. Labour
 
-The scholarly impetus of the scripture is the writing’s own press toward that knowing. Spoudazō is the labour: speed, effort, diligence, study — intellectually. Approval is unto God. Shame is bad workmanship. The workman may be bound; the word of God is not bound. Knowledge is a mental result of perception, learning, and reasoning. Quotation is not that result. Word exercise and Word drill are use until the senses are exercised. A method may serve that use. It is not Holy Writ.
+The Scripture’s demand for diligent study of the scripture is the writing’s own press toward that knowing. Σπουδάζω (spoudazō) is the labour: speed, effort, diligence, study — intellectually. Approval is unto God. Shame is bad workmanship. The workman may be bound; the word of God is not bound. Knowledge is a mental result of perception, learning, and reasoning. Quotation is not that result. Word exercise and Word drill are use until the senses are exercised. A method may serve that use. It is not Holy Writ.
 
-Full age is use. Strong meat is the same graphē taken by those who can bear it. Discernment of good and evil is not a mood. It is fruit of exercised senses. Rightly dividing holds saying, meaning, cluster, comparison, and pressure under John 10:35.
+Full age is use. Strong meat is the same graphē taken by those who can bear it. Discernment of good and evil is not a mood. It is fruit of exercised senses. Rightly dividing holds saying, meaning, Scripture set, comparison, and pressure under John 10:35.
 
 IV. Continuance, foundation, going on
 
@@ -1942,7 +1942,7 @@ That is the thesis this volume set at the opening, tested through every court it
 
 I. The court
 
-Holy Writ is writings or sayings of unchallenged-unquestionable authority — imprimatur — whether for persons, organizations, governments, or nations. The Lord asked whether it was written. He cited what was written. He set the rule: the scripture cannot be broken.
+Holy Writ is writings or sayings of unchallenged-unquestionable authority — authority — whether for persons, organizations, governments, or nations. The Lord asked whether it was written. He cited what was written. He set the rule: the scripture cannot be broken.
 
 John 10:34 — “Jesus answered them, Is it not written in your law, I said, Ye are gods?”
 
@@ -1950,25 +1950,25 @@ John 10:35 — “If he called them gods, unto whom the word of God came, and th
 
 John 10:36 — “Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?”
 
-True Christ-ian experience pillows in the unleavened sincerity and truth of that graphē. Ersatz analogical, nonliteral religiousisms keep the vocabulary and refuse the words as written. A naturalistic experience follows Christ and does so in conformity with the writing. A likeness that will not sit down under the text is not that experience.
+True Christian experience rests under the unleavened sincerity and truth of that graphē. Substitute religious likenesses that refuse Scripture keep the vocabulary and refuse the words as written. A Scripture-conforming experience follows Christ and does so in conformity with the writing. A likeness that will not sit down under the text is not that experience.
 
-Interpretation exists and must be shown. The writing remains above the interpreter. One source of truth is not the abolition of handling. It is the mastering of handling. Meaning that arrives before the words is already another court. A cluster stripped for a motto is already a break. A contradiction used as a licence to discard a verse is already a safer Bible.
+Interpretation exists and must be shown. The writing remains above the interpreter. One source of truth is not the abolition of handling. It is the mastering of handling. Meaning that arrives before the words is already another court. A Scripture set stripped for a motto is already a break. A contradiction used as a licence to discard a verse is already a safer Bible.
 
-II. The convention
+II. The authority
 
-The premiere convention for hearing from God and for spiritual growth is the graphē — first in order, the appointed way. This book examined that convention. It is not itself the convention. The oracles of God are God’s speaking bound in the writing, not private impressions. “God spoke” is tested by what God has written.
+The appointed written authority for hearing from God and for spiritual growth is the graphē — first in order, the appointed way. This book examined that authority. It is not itself the authority. The oracles of God are God’s speaking bound in the writing, not private impressions. “God spoke” is tested by what God has written.
 
 The first principles of those oracles are six, named in Hebrews 6:1-2. This volume issued on that cornerstone. It did not become a seventh stone. Hebrews named six. A later piety that adds a seventh under another name has already left the list. The six remain the test of the method, not the whole of the school. Foundation School labours them. Companions labour them. This book will not swallow them.
 
 III. The labour and the fruit
 
-Spoudazō — intellectually. Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. Know the scriptures, and align. Perceive, learn, reason. Use the word until the senses discern. Continue in His word: disciples indeed; know the truth; the truth shall make you free. First principles, then maturity. Productive living, being in control, and godliness in all capacities are fruit of that skill — yield, freedom from serving sin, the writing in every capacity — not a prosperity motto, and not a seventh stone.
+Σπουδάζω (spoudazō) — intellectually. Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. Know the scriptures, and align. Perceive, learn, reason. Use the word until the senses discern. Continue in His word: disciples indeed; know the truth; the truth shall make you free. First principles, then maturity. Productive living, being in control, and godliness in all capacities are fruit of that skill — yield, freedom from serving sin, the writing in every capacity — not a prosperity motto, and not a seventh stone.
 
-The other chain remains as severe as it was named. Absence of reasonability and presence of unskillfulness produce aridity and tergiversation among persons and houses: ensued in damnable accepted heresies called doctrines. Two marks of babes: dull of hearing; unskilled in the Word which is the basis for salvation. Time will not complete what use has not begun. They had had time. They ought to have been teachers. Format will not reverse the chain. Soft copy and hard copy are vehicles. Knowing and aligning are the requirement. The cure is not a louder room. The cure is the court used.
+The other chain remains as severe as it was named. Absence of sound judgment and presence of unskillfulness produce spiritual dryness and doctrinal turning aside among persons and houses: ensued in damnable accepted heresies called doctrines. Two marks of babes: dull of hearing; unskilled in the Word which is the basis for salvation. Time will not complete what use has not begun. They had had time. They ought to have been teachers. Format will not reverse the chain. Soft copy and hard copy are vehicles. Knowing and aligning are the requirement. The cure is not a louder room. The cure is the court used.
 
 IV. The charge
 
-Open the page. Ask whether it is written. Hold the cluster. Keep the terms. Distinguish the text from the handling of the text. Let another man open the same writing. Sit down when the writing corrects you. Do not invent a safer Bible. Do not treat a copy as knowing. Do not treat this volume as Holy Writ. Do not treat a course as the premiere convention. Do not treat a teacher as the court.
+Open the page. Ask whether it is written. Hold the Scripture set. Keep the terms. Distinguish the text from the handling of the text. Let another man open the same writing. Sit down when the writing corrects you. Do not invent a safer Bible. Do not treat a copy as knowing. Do not treat this volume as Holy Writ. Do not treat a course as the appointed written authority. Do not treat a teacher as the court.
 
 When claims of truth conflict, the final word is not the oldest voice, the highest office, the largest room, or the strongest feeling. Tradition offered age. Office offered ordination. Confession offered agreement. Prophet offered a present voice. Majority offered numbers. Culture offered the hour. Experience offered the pulse. The interpreter offered the explanation. Each of these may have a place under the writing. None of them remains the court.
 

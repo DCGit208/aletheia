@@ -28,21 +28,21 @@ export const judgmentModules = [
     courseId: "course-fs-judgment" as const,
     number: 1,
     title: "Punishment and the book",
-    description: "Eternal punishment, the book of life, names blotted, death as cutting off. Textbook Chapter 7, I–IV.",
+    description: "Eternal punishment, the book of life, names blotted, death as cutting off. Reference: school handbook, Chapter 7, I–IV.",
   },
   {
     id: "mod-fs-6-deaths",
     courseId: "course-fs-judgment" as const,
     number: 2,
     title: "Three deaths",
-    description: "Physical, spiritual, second. Soul and spirit immortal; bodies rise. Textbook Chapter 7, V–VIII.",
+    description: "Physical, spiritual, second. Soul and spirit immortal; bodies rise. Reference: school handbook, Chapter 7, V–VIII.",
   },
   {
     id: "mod-fs-6-prisons",
     courseId: "course-fs-judgment" as const,
     number: 3,
     title: "Five prisons and year charge",
-    description: "Tartarus, Paradise, hell, abyss, lake of fire. Week 52 examination of the year. Textbook Chapter 7, IX–XV.",
+    description: "Tartarus, Paradise, hell, abyss, lake of fire. Week 52 examination of the year. Reference: school handbook, Chapter 7, IX–XV.",
   },
 ];
 
@@ -59,8 +59,8 @@ Eternal punishment is duration. It is not a metaphor to soften into a slogan. Th
 Key Scripture
 Matthew 25:46; Revelation 14:9-11; Revelation 20:11-15; Isaiah 66:22-24.
 
-Read
-Textbook Chapter 7, section I.
+Reference
+School handbook, Chapter 7, section I.
 
 Teaching
 This is Course 6 of Foundation School. One curriculum. The sixth of the six principles. Hebrews 6:2 names eternal judgment in the same breath as baptisms, hands, and resurrection. This course closes the foundation. It is not taught to manipulate fear. It is taught so students will not treat judgment as a rumor.
@@ -110,8 +110,8 @@ Whosoever was not found written in the book of life was cast into the lake of fi
 Key Scripture
 Revelation 20:15; Acts 10:34.
 
-Read
-Textbook Chapter 7, section II.
+Reference
+School handbook, Chapter 7, section II.
 
 Teaching
 This is the second death. Death and hell are cast into the lake of fire. The books are opened. Another book is opened, which is the book of life. The dead are judged out of those things which were written in the books, according to their works. Then the sentence this teaching will not let you soften: whosoever.
@@ -155,8 +155,8 @@ God blots the names of sinners out of His book. The Psalmist predicted it of Jud
 Key Scripture
 Exodus 32:32-33; Psalm 69:20-28; John 3:36; Revelation 3:5; Revelation 22:18-19.
 
-Read
-Textbook Chapter 7, section III.
+Reference
+School handbook, Chapter 7, section III.
 
 Teaching
 Moses offers himself. The LORD will not take the offer in the place of the sinner. Whosoever hath sinned against Me, him will I blot out of My book. Psalm 69 asks that they be blotted out of the book of the living — this teaching treats that stretch as predicted of Judas. He that overcometh: I will not blot out his name. He that taketh away from the words of this prophecy: God shall take away his part out of the book of life.
@@ -200,8 +200,8 @@ Dead in the Bible predominantly, if not definitely, means man’s separation or 
 Key Scripture
 Genesis 1:26-28.
 
-Read
-Textbook Chapter 7, section IV.
+Reference
+School handbook, Chapter 7, section IV.
 
 Teaching
 Define death without using only “stopped breathing.” The making is the purpose. Cutting off from that purpose is what Foundation School means by dead. Three kinds will be named in the next lessons. This definition keeps them from collapsing into one loose word.
@@ -249,8 +249,8 @@ Physical death is separation of the inner man from the outer man: soul and spiri
 Key Scripture
 James 2:26.
 
-Read
-Textbook Chapter 7, section V.
+Reference
+School handbook, Chapter 7, section V.
 
 Teaching
 For as the body without the spirit is dead, so faith without works is dead also. The comparison stands on a fact this school will not trade away: a body without the spirit is dead. Inner man separated from the body. That is physical death. The soul and spirit do not become nothing when they leave. Lesson 8 will teach immortality. In this lesson the separation.
@@ -294,8 +294,8 @@ Spiritual death is separation of man from God because of sin. A man may be dead 
 Key Scripture
 Matthew 8:22; Colossians 2:14; 1 Timothy 5:6.
 
-Read
-Textbook Chapter 7, section VI.
+Reference
+School handbook, Chapter 7, section VI.
 
 Teaching
 Follow Me; and let the dead bury their dead. She that liveth in pleasure is dead while she liveth. You, being dead in your sins, hath He quickened; blotting out the handwriting of ordinances. Three texts. One kind. Spiritual death. Man separated from God because of sin. The body may still breathe. The grave may still be ahead. The lake may still be future. This death is now if a man is cut off from God.
@@ -341,8 +341,8 @@ The second death is the second and eternal separation from God in the lake of fi
 Key Scripture
 Revelation 20:14; Revelation 2:11; Revelation 20:6; Revelation 21:8.
 
-Read
-Textbook Chapter 7, section VII.
+Reference
+School handbook, Chapter 7, section VII.
 
 Teaching
 Death and hell were cast into the lake of fire. This is the second death. He that overcometh shall not be hurt of the second death. On such as have part in the first resurrection the second death hath no power. The lake which burneth with fire and brimstone — that is the second death. Four addresses. One kind. Eternal separation from God in the lake of fire.
@@ -390,8 +390,8 @@ The soul and spirit of man is immortal. All Scriptures on resurrection of the de
 Key Scripture
 Daniel 12:2; John 5:28-29; 1 Corinthians 15:20-23, 42-44; 1 Thessalonians 4:13-17; Revelation 20:4-6, 11-15.
 
-Read
-Textbook Chapter 7, section VIII.
+Reference
+School handbook, Chapter 7, section VIII.
 
 Teaching
 Soul and spirit do not die. Resurrection texts concern bodies. If you preach resurrection as a spirit-event, you have left this school. If you preach that the inner man ceases when the body falls, you have left this school. What then is raised from the dust? The body.
@@ -437,8 +437,8 @@ There are five distinct prisons in the underworld of the departed. Not one is th
 Key Scripture
 The five Scripture sets: 2 Peter 2:4; Luke 16:19-31 with Luke 23:43; Revelation 20:13; Luke 8:31; Revelation 20:14-15.
 
-Read
-Textbook Chapter 7, section IX.
+Reference
+School handbook, Chapter 7, section IX.
 
 Teaching
 Name them before you open them. Tartarus. Paradise. Hell — sheol-hades. The abyss — Abaddon. The lake of fire — gehenna. Five. Not one room called Hell. Not the grave. If you have been using one word for all five and for the tomb, set that habit aside. This lesson gives the overview. The following lessons will keep each prison distinct.
@@ -484,8 +484,8 @@ Tartarus is a special prison for fallen angels who sinned before the flood. No h
 Key Scripture
 1 Peter 3:19; 2 Peter 2:4; Jude 6-7.
 
-Read
-Textbook Chapter 7, section X.
+Reference
+School handbook, Chapter 7, section X.
 
 Teaching
 Christ preached unto the spirits in prison, which sometime were disobedient when the longsuffering of God waited in the days of Noah. God spared not the angels that sinned, but cast them down to hell — tartarōsas — delivered into chains of darkness, reserved unto judgment. Angels which kept not their first estate, reserved in everlasting chains under darkness unto the judgment of the great day; as Sodom.
@@ -527,8 +527,8 @@ Paradise held the righteous at death until Christ. It is now empty of the righte
 Key Scripture
 Luke 16:19-31; Luke 23:43; Ephesians 4:8-10; Hebrews 2:14-15.
 
-Read
-Textbook Chapter 7, section XI.
+Reference
+School handbook, Chapter 7, section XI.
 
 Teaching
 Lazarus was carried by the angels into Abraham’s bosom. The thief heard: To day shalt thou be with Me in paradise. That was the abode of the righteous at physical death, held captive by Satan against their will, until Christ conquered death, hell, and the grave. Now empty. The righteous go to heaven at death. He led captivity captive. He descended first into the lower parts of the earth. He delivered them who through fear of death were all their lifetime subject to bondage.
@@ -572,8 +572,8 @@ Hell is the torment compartment of sheol-hades. The unsaved have always gone the
 Key Scripture
 Luke 16:22-26; Revelation 20:11-15.
 
-Read
-Textbook Chapter 7, section XII.
+Reference
+School handbook, Chapter 7, section XII.
 
 Teaching
 The rich man died and was buried. In hell he lift up his eyes, being in torments. He seeth Abraham afar off. A great gulf is fixed. That is hell as this school teaches the rich man: Luke 16, not Matthew 16. He is not in Tartarus. He is not in the abyss. He is not yet in the lake. He is a wicked soul in sheol-hades.
@@ -613,8 +613,8 @@ The abyss is the abode of demons and some angelic beings. Abaddon is destruction
 Key Scripture
 Luke 8:31; Revelation 9:1-3, 11; Revelation 20:3. Also Romans 10:7; Revelation 17:8; Revelation 20:1-10; Psalm 88:11.
 
-Read
-Textbook Chapter 7, section XIII.
+Reference
+School handbook, Chapter 7, section XIII.
 
 Teaching
 Aletheia teaches the abyss from Luke 8:31, Revelation 9, and Revelation 20:3. This lesson also uses Romans 10:7, Revelation 17:8, Revelation 20:1-10, and Psalm 88:11. Beast from the pit in the two-witnesses account is Revelation 11:7. Revelation 11:17 is the elders giving thanks. Foundation School reads 11:7 and 11:17 distinctly. Teach both verses as what they are.
@@ -666,8 +666,8 @@ Gehenna (G1067) is the place of future and eternal torment. It is the lake of fi
 Key Scripture
 Luke 12:5; Matthew 10:28; Matthew 25:41, 46; Revelation 19:20; Revelation 20:10-15; Revelation 21:8.
 
-Read
-Textbook Chapter 7, section XIV.
+Reference
+School handbook, Chapter 7, section XIV.
 
 Teaching
 Greek gehenna, G1067, found twelve times, always rendered hell. Same as the lake of fire — five times: Revelation 19:20; 20:10-15; 21:8. Not the grave. God only has power to put into gehenna. Body and soul. After He hath killed. After the judgment. Only the wicked. Tartarus, the abyss, and sheol-hades will be put into it. Fire never quenched. Alive.

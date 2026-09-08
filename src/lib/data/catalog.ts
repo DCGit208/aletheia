@@ -200,7 +200,7 @@ export const catalog: CatalogSnapshot = {
       title: "Repentance from Dead Works",
       subtitle: "Hebrews 6:1",
       description:
-        "Metanoia: a change of mind over sin and its cause, not only its consequence. Christ is the way out of dead works. Eight chapters. The companion volume for Course 1 — Repentance from Dead Works.",
+        "Μετάνοια (metanoia, G3341): a change of mind over sin and its cause, not only its consequence. Christ is the way out of dead works. Eight chapters. The companion volume for Course 1 — Repentance from Dead Works.",
       authors: [achu],
       contributors: [],
       publisher: BRAND.publications,
@@ -226,7 +226,7 @@ export const catalog: CatalogSnapshot = {
       title: "Doctrine of Faith",
       subtitle: "The Gospel That Restores Our True Nature",
       description:
-        "Eight chapters drawn from the Foundation textbook’s teaching on pistis — credence, image, free justification, heirship, and the face of Christ. Companion volume for Course 2; preview Chapter 1 free.",
+        "Eight chapters on πίστις (pistis): credence toward God, image, free justification, heirship, and the face of Christ. Companion volume for Course 2; preview Chapter 1 free.",
       authors: [achu],
       contributors: [],
       publisher: BRAND.publications,
@@ -409,7 +409,7 @@ Identity. Nature. Purpose. Dominion.
 
 Created in His image. Restored in His glory. Called to dominion.
 
-This book treats man as a doctrine, not a trend. The cover is the work as it is printed. The remaining chapters will enter this reader as they are prepared.`,
+This book treats man as a doctrine, not a trend. The published cover is open now. Additional chapters will enter this reader as they are prepared.`,
     },
     {
       id: "ch-real-man-1",
@@ -435,7 +435,7 @@ Matthew 13:44.
 
 A man finds what was hidden, sells what he had, and buys the field. This volume reads that parable as a charge: see the worth, pay the cost, live inside the find.
 
-The printed cover is here. The complete text is being prepared for this reader.`,
+The published cover is open now. The complete text is being prepared for this reader.`,
     },
     {
       id: "ch-baptism-1",
@@ -450,7 +450,7 @@ Born of the Word — Ephesians 5:26; 1 Peter 1:23.
 Baptized into Christ — Galatians 3:26–27; Colossians 2:10.
 Baptized in the Holy Spirit — Spirit without measure; John 3:34.
 
-This volume is the companion reading for Course 3 — The Doctrine of Baptisms. Hebrews 6:2 names the doctrine of baptisms among the first principles. The printed cover and thesis are here now. Full chapters will enter this reader as they are prepared.
+This volume is the companion reading for Course 3 — The Doctrine of Baptisms. Hebrews 6:2 names the doctrine of baptisms among the first principles. The published cover and thesis are open now. Full chapters will enter this reader as they are prepared.
 
 The Word. Into Christ. Water baptism. In the Spirit. Sonship and fullness.`,
     },
@@ -463,7 +463,7 @@ The Word. Into Christ. Water baptism. In the Spirit. Sonship and fullness.`,
 
 This is the fourth first principle of the doctrine of Christ. It is resultant: it follows repentance, faith, and baptisms. It is not a substitute for the foundation already laid.
 
-Nine biblical occasions will open in the full teaching. The printed cover and thesis are here now. Full chapters will enter this reader as they are prepared.
+Nine biblical occasions will open in the full teaching. The published cover and thesis are open now. Full chapters will enter this reader as they are prepared.
 
 This volume is the companion reading for Course 4 — Laying on of Hands.`,
     },
@@ -478,7 +478,7 @@ The tomb is empty. The stone is rolled away. The linen remains.
 
 This is the fifth first principle of the doctrine of Christ. Two kinds of resurrection. Two bodily issues a thousand years apart. Five companies in the first resurrection. Rapture 2 is not the second advent.
 
-This volume is the companion reading for Course 5 — Resurrection of the Dead. The printed cover and thesis are here now. Full chapters will enter this reader as they are prepared.`,
+This volume is the companion reading for Course 5 — Resurrection of the Dead. The published cover and thesis are open now. Full chapters will enter this reader as they are prepared.`,
     },
     {
       id: "ch-judgment-1",
@@ -491,7 +491,7 @@ It is appointed unto men once to die, but after this the judgment.
 
 This is the sixth first principle of the doctrine of Christ. Eternal punishment. The book of life. Three deaths. Five prisons — none of them the grave.
 
-This volume is the companion reading for Course 6 — Eternal Judgment. The printed cover and thesis are here now. Full chapters will enter this reader as they are prepared.`,
+This volume is the companion reading for Course 6 — Eternal Judgment. The published cover and thesis are open now. Full chapters will enter this reader as they are prepared.`,
     },
     {
       id: "ch-deception-1",

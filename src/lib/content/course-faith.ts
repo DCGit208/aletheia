@@ -30,21 +30,21 @@ export const faithModules = [
     courseId: "course-fs-faith" as const,
     number: 1,
     title: "Pistis and the image",
-    description: "Credence, adoption, ’ĕlōhîm, image and likeness. Textbook Chapter 3, I–III.",
+    description: "Credence, adoption, ’ĕlōhîm, image and likeness. Reference: school handbook, Chapter 3, I–III.",
   },
   {
     id: "mod-fs-2-justified",
     courseId: "course-fs-faith" as const,
     number: 2,
     title: "Justified freely",
-    description: "Glory come short, dikaioō, dikaiosynē, ransom in full. Textbook Chapter 3, IV–VI.",
+    description: "Glory come short, dikaioō, dikaiosynē, ransom in full. Reference: school handbook, Chapter 3, IV–VI.",
   },
   {
     id: "mod-fs-2-heir",
     courseId: "course-fs-faith" as const,
     number: 3,
     title: "Heir and oneness",
-    description: "Hebrews 1:8, the heir, John 17, the face of Christ. Textbook Chapter 3, VII–XI.",
+    description: "Hebrews 1:8, the heir, John 17, the face of Christ. Reference: school handbook, Chapter 3, VII–XI.",
   },
 ];
 
@@ -61,8 +61,8 @@ Faith defines our state as children of God. Greek pistis means credence. It is n
 Key Scripture
 Hebrews 6:1 — and of faith toward God.
 
-Read
-Textbook Chapter 3, section I.
+Reference
+School handbook, Chapter 3, section I.
 
 Teaching
 This is Course 2 of Foundation School. One curriculum. The second of the six principles.
@@ -114,8 +114,8 @@ Because ye are sons, God hath sent forth the Spirit of His Son into your hearts,
 Key Scripture
 Galatians 4:5-7; Romans 8:15; Ephesians 1:5.
 
-Read
-Textbook Chapter 3, section I, the adoption sentences.
+Reference
+School handbook, Chapter 3, section I, the adoption sentences.
 
 Teaching
 Galatians 4:4-7 — “But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law, To redeem them that were under the law, that we might receive the adoption of sons. And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father. Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.”
@@ -161,8 +161,8 @@ This acceptance is on the basis of our true nature from creation with respect to
 Key Scripture
 Genesis 1:26.
 
-Read
-Textbook Chapter 3, section II, the ’ĕlōhîm sentences.
+Reference
+School handbook, Chapter 3, section II, the ’ĕlōhîm sentences.
 
 Teaching
 This acceptance is grounded in the true nature God gave man at creation.
@@ -212,8 +212,8 @@ God created man in His own image. Male and female created He them. Image. Likene
 Key Scripture
 Genesis 1:26-28.
 
-Read
-Textbook Chapter 3, section II.
+Reference
+School handbook, Chapter 3, section II.
 
 Teaching
 Genesis 1:26-28 — “And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth. So God created man in his own image, in the image of God created he him; male and female created he them. And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.”
@@ -263,8 +263,8 @@ You are not being invited to invent another nature. You are being returned to th
 Key Scripture
 2 Peter 1:4.
 
-Read
-Textbook Chapter 3, section III.
+Reference
+School handbook, Chapter 3, section III.
 
 Teaching
 2 Peter 1:3-7 — “According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue: Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust. And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge; And to knowledge temperance; and to temperance patience; and to patience godliness; And to godliness brotherly kindness; and to brotherly kindness charity.”
@@ -310,8 +310,8 @@ I have said, Ye are gods; and all of you are children of the most High. The Scri
 Key Scripture
 Psalm 82:6; John 10:34-35.
 
-Read
-Textbook Chapter 3, section II, the psalm and the Lord’s appeal.
+Reference
+School handbook, Chapter 3, section II, the psalm and the Lord’s appeal.
 
 Teaching
 Jesus answered a charge of blasphemy by the writing.
@@ -359,8 +359,8 @@ Jesus came because the glory was come short. He did not come to invent a differe
 Key Scripture
 Romans 3:23-24.
 
-Read
-Textbook Chapter 3, section IV.
+Reference
+School handbook, Chapter 3, section IV.
 
 Teaching
 Romans 3:23-26 — “For all have sinned, and come short of the glory of God; Being justified freely by his grace through the redemption that is in Christ Jesus: Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God; To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus.”
@@ -404,8 +404,8 @@ Man is the image and glory of God. That is the glory Romans 3:23 says was come s
 Key Scripture
 1 Corinthians 11:7.
 
-Read
-Textbook Chapter 3, section IV, the glory clause.
+Reference
+School handbook, Chapter 3, section IV, the glory clause.
 
 Teaching
 1 Corinthians 11:7 — “For a man indeed ought not to cover his head, forasmuch as he is the image and glory of God: but the woman is the glory of the man.”
@@ -453,8 +453,8 @@ Has man been justified? Yes. And freely. Dikaioō: render just or innocent, free
 Key Scripture
 Romans 3:24-26.
 
-Read
-Textbook Chapter 3, section V.
+Reference
+School handbook, Chapter 3, section V.
 
 Teaching
 Has man been justified? Yes. And freely.
@@ -482,7 +482,7 @@ The Walk — one page. Has man been justified? Write the answer: yes, and freely
 
 Intensive — three pages. Page 1 is that tight page. Page 2: write Romans 3:23-26 in full. Define dikaioō: render just or innocent, free from evil or guilt. Page 3: teach freely, by grace, through redemption, as if you had to teach it clearly to another student. Labour belongs to study. Innocence before God is free in Christ.
 
-Write in your own hand. Quote Romans 3:24-26. The source’s answer must be on the page.
+Write in your own hand. Quote Romans 3:24-26. Scripture’s answer must be on the page.
 
 Distinction
 Justification as God’s free rendering vs a righteousness you complete by religious work.
@@ -502,8 +502,8 @@ Dikaiosynē is equity: impartiality to and conformity with the nature of God. Or
 Key Scripture
 Romans 3:21-26 with 2 Peter 1:4.
 
-Read
-Textbook Chapter 3, sections III and V, the equity sentences.
+Reference
+School handbook, Chapter 3, sections III and V, the equity sentences.
 
 Teaching
 Romans 3:21-26 — “But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets; Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference: For all have sinned, and come short of the glory of God; Being justified freely by his grace through the redemption that is in Christ Jesus: Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God; To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus.”
@@ -549,8 +549,8 @@ There is no unpaid remainder on that ransom. Apolutrōsis: redemption; ransom in
 Key Scripture
 Romans 3:24.
 
-Read
-Textbook Chapter 3, section V, the ransom sentences.
+Reference
+School handbook, Chapter 3, section V, the ransom sentences.
 
 Teaching
 Romans 3:24-26 — “Being justified freely by his grace through the redemption that is in Christ Jesus: Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God; To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus.”
@@ -598,8 +598,8 @@ So right now, you are the dikaiosynē of God in Christ. Present tense. Not an as
 Key Scripture
 2 Corinthians 5:21.
 
-Read
-Textbook Chapter 3, section VI.
+Reference
+School handbook, Chapter 3, section VI.
 
 Teaching
 2 Corinthians 5:21 — “For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.”
@@ -645,8 +645,8 @@ After 2 Corinthians 5:21, the question is: according to Hebrews 1:8, what does t
 Key Scripture
 Hebrews 1:8; Hebrews 1:3.
 
-Read
-Textbook Chapter 3, section VII.
+Reference
+School handbook, Chapter 3, section VII.
 
 Teaching
 Hebrews 1:1-8 — “God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds; Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high; Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they. For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son? And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him. And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire. But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.”
@@ -674,7 +674,7 @@ Distinction
 Reasoning from these passages vs inventing a name this lesson does not grant.
 
 Charge
-Write what you will teach: the question is asked; the answer is not printed; you reason from Hebrews 1:1-8 with 2 Corinthians 5:21; you do not invent a title. Then complete the practice assignment. Write only what these passages force.`,
+Write what you will teach: the question is asked; the answer is not supplied; you reason from Hebrews 1:1-8 with 2 Corinthians 5:21; you do not invent a title. Then complete the practice assignment. Write only what these passages force.`,
   ),
   lesson(
     "les-fs-2-14",
@@ -688,8 +688,8 @@ If a son, then an heir of God through Christ. An heir is the one to whom the fat
 Key Scripture
 Galatians 4:5-7; Romans 8:17.
 
-Read
-Textbook Chapter 3, section VIII.
+Reference
+School handbook, Chapter 3, section VIII.
 
 Teaching
 This lesson asks: Who is heir of God? What is the meaning of “heir”?
@@ -737,8 +737,8 @@ Liken the prayer of oneness. The measure in the text is “as thou, Father, art 
 Key Scripture
 John 17:20-23.
 
-Read
-Textbook Chapter 3, section IX.
+Reference
+School handbook, Chapter 3, section IX.
 
 Teaching
 John 17:20-23 — “Neither pray I for these alone, but for them also which shall believe on me through their word; That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me. And the glory which thou gavest me I have given them; that they may be one, even as we are one: I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.”
@@ -782,8 +782,8 @@ Christ is the image of God. The glory of God is known in His face. Faith toward 
 Key Scripture
 2 Corinthians 4:4 and 4:6.
 
-Read
-Textbook Chapter 3, section X.
+Reference
+School handbook, Chapter 3, section X.
 
 Teaching
 2 Corinthians 4:3-6 — “But if our gospel be hid, it is hid to them that are lost: In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them. For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus’ sake. For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.”

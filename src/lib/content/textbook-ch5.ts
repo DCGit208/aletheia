@@ -19,7 +19,7 @@ I. RESULTANT — NOT THE FOUNDATION
 
 Hands do not invent the son.
 Hands do not replace metanoia.
-Hands do not replace pistis.
+Hands do not replace πίστις (pistis).
 Hands do not replace baptism into Christ, water as figure, or the Spirit as witness.
 
 A man who has not laid those stones and then treats hands as if they were the house has not heard “when?”
@@ -30,9 +30,9 @@ Hebrews 6:2 names this among the six. The same verse is cited again under impart
 
 Resultant means what follows from what is already true. A result is not a root. If you treat a result as a root, you will baptize unrepentant men with hands, bless children as if hands were new birth, and sell the gift as Simon tried to buy it.
 
-Viable only as you actualize the more grounding things. Actualize is not a slogan. Course 1: metanoia from dead works; the new creature; Christ the only way. Course 2: pistis; son; heir; image; free justification. Course 3: into Christ; water as sign; Spirit as witness and enduement. Then hands.
+Viable only as you actualize the more grounding things. Actualize is not a slogan. Course 1: metanoia from dead works; the new creature; Christ the only way. Course 2: πίστις (pistis); son; heir; image; free justification. Course 3: into Christ; water as sign; Spirit as witness and enduement. Then hands.
 
-It plays a more resultant role, not substantively to the believer. Substantively is the three stones. Resultant is this file. Both are in Hebrews 6:2. One is not the other.
+It plays a more resultant role, not substantively to the believer. Substantively is the three stones. Resultant is this lesson. Both are in Hebrews 6:2. One is not the other.
 
 When? After the grounding things are actualized. That is not a date on a calendar. It is an order in the man.
 
@@ -128,7 +128,7 @@ Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his h
 
 The occasion is imparting Spirit. Full of the spirit of wisdom — for Moses had laid his hands upon him. The “for” is in the verse. This school will not erase it to protect a slogan from Numbers 27. This school will not erase Numbers 27 to make Deuteronomy 34 the only text.
 
-Hold them beside each other. Do not flatten. Joshua was a man in whom is the spirit before the charge. He is full of the spirit of wisdom after the hands. Do not invent a tenth occasion to explain them. The file already has two: ordaining (F3) and imparting Spirit (F4).
+Hold them beside each other. Do not flatten. Joshua was a man in whom is the spirit before the charge. He is full of the spirit of wisdom after the hands. Do not invent a tenth occasion to explain them. The teaching already has two occasions here: ordaining and imparting Spirit.
 
 Israel hearkened. The fruit of the occasion is not a feeling in Moses. It is a people who hear the man charged, and do as the LORD commanded Moses. Hearkening is the test you can see. A man may claim impartation and have no people who will hear the word as the LORD commanded.
 
@@ -142,7 +142,7 @@ VI. BLESSING CHILDREN — MATTHEW 19:13-15
 
 Matthew 19:13-15 — “Then were there brought unto him little children, that he should put his hands on them, and pray: and the disciples rebuked them. But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven. And he laid his hands on them, and departed thence.”
 
-Matthew 19:15 is the printed verse. The account is 13-15. Then were there brought unto Him little children, that He should put His hands on them, and pray. The disciples rebuked them. Jesus said, Suffer little children, and forbid them not, to come unto Me: for of such is the kingdom of heaven. And He laid His hands on them, and departed thence.
+Matthew 19:13-15 is the passage. Verse 15 closes the account. Then were there brought unto Him little children, that He should put His hands on them, and pray. The disciples rebuked them. Jesus said, Suffer little children, and forbid them not, to come unto Me: for of such is the kingdom of heaven. And He laid His hands on them, and departed thence.
 
 They were brought that He should put His hands on them, and pray. Hands and prayer. The disciples rebuked the bringing. The Lord would not. Suffer. Forbid them not. Of such is the kingdom of heaven. He laid His hands on them. He departed.
 
@@ -202,9 +202,9 @@ The occasion this school names is performing miracles — by the hands. Acts 19:
 
 Do not make Paul the source. God wrought. Do not make the cloth a tenth occasion. The file says miracles, Acts 19:11. The cloths are in verse 12. They are how, in that narrative, the sick were reached. They are not a tenth item in the When? list.
 
-Acts 19:13-17 will show men who treat the Name as a technique without the Lord. The seven sons of Sceva. The evil spirit answers. Jesus I know, and Paul I know; but who are ye? The man leaps on them. The Name is magnified. That narrative is a warning, not a tenth occasion. Hands and miracles in this file remain God’s work by Paul’s hands.
+Acts 19:13-17 will show men who treat the Name as a technique without the Lord. The seven sons of Sceva. The evil spirit answers. Jesus I know, and Paul I know; but who are ye? The man leaps on them. The Name is magnified. That narrative is a warning, not a tenth occasion. Hands and miracles in this lesson remain God’s work by Paul’s hands.
 
-Distinction. Miracles in Acts 19:11 are not the healing file flattened. This teaching separated F6 and F7. Healing has its texts. Miracles has Acts 19:11. God wrought. By the hands of Paul. No tenth from the cloth.
+Distinction. Miracles in Acts 19:11 are not the healing teaching flattened. This chapter separates healing and miracles. Healing has its texts. Miracles has Acts 19:11. God wrought. By the hands of Paul. No tenth from the cloth.
 
 Charge. Who wrought the special miracles? By whose hands? Why is the cloth not a tenth occasion? What happens if you make Paul the source?
 
@@ -220,7 +220,7 @@ The hands of the presbytery sit with prophecy and with a gift not to be neglecte
 
 Unfeigned faith first — grandmother, mother, and Timothy. Then: stir up the gift of God, which is in thee by the putting on of my hands. The gift is in him. By the putting on of Paul’s hands. Stir it up. God hath not given us the spirit of fear, but of power, and of love, and of a sound mind.
 
-Course 3 already taught 2 Timothy 1:7 with the fear-and-dread cluster. Here the verse sits next to the gift in him by the putting on of hands. Do not drop power, love, and a sound mind when you teach the gift. Do not drop the gift when you teach the spirit God has given.
+Course 3 already taught 2 Timothy 1:7 with the fear-and-dread Scripture set. Here the verse sits next to the gift in him by the putting on of hands. Do not drop power, love, and a sound mind when you teach the gift. Do not drop the gift when you teach the spirit God has given.
 
 Hebrews 6:2 names laying on of hands among the first principles, and that same verse is cited again under this occasion. The principle and the gift-occasion are not two religions. One file.
 
@@ -228,7 +228,7 @@ The gift is not to be neglected. It is to be stirred. Hands of the presbytery. H
 
 Do not treat a gift as if it were the foundation. Do not treat the foundation as if it forbade gifts. A man who makes the gift the house has not heard resultant. A man who forbids the gift because he has learned repentance, faith, and baptisms has not heard Hebrews 6:2 twice — as principle and as this occasion.
 
-Distinction. Imparting gifts is not imparting Spirit baptism (F9). It is not ordaining flattened. It is the gift in thee, by prophecy, with the hands of the presbytery; the gift of God in thee by the putting on of Paul’s hands; and the same Hebrews 6:2 that named the principle.
+Distinction. Imparting gifts is not imparting Spirit baptism. It is not ordaining flattened. It is the gift in thee, by prophecy, with the hands of the presbytery; the gift of God in thee by the putting on of Paul’s hands; and the same Hebrews 6:2 that named the principle.
 
 Charge. Write 1 Timothy 4:14, 2 Timothy 1:6, and Hebrews 6:2. What is not to be neglected? What is to be stirred? Why is Hebrews 6:2 in this occasion as well as in the heading of the chapter?
 
@@ -260,7 +260,7 @@ Course 3 already taught that Christ baptizes in the Spirit, and that the Spirit 
 
 Christ remains the baptizer in the Spirit (Matthew 3:11; John 1:31-33). Acts 10 still stands: the Spirit fell while Peter yet spake, before water, without this chapter’s hands as the law. The ninth occasion does not cancel the tenth-not-invented, and it does not cancel the agent. Hands in Acts 8, 9, and 19 are in the file. They are resultant. They are not a second Christ.
 
-Distinction. Imparting Spirit baptism is not imparting gifts (F8). It is not Deuteronomy 34’s imparting Spirit flattened into Acts. It is Acts 8:17-24 with Simon refused, Acts 9:17, and Acts 19:6. Christ remains the Spirit-baptizer.
+Distinction. Imparting Spirit baptism is not imparting gifts. It is not Deuteronomy 34’s imparting Spirit flattened into Acts. It is Acts 8:17-24 with Simon refused, Acts 9:17, and Acts 19:6. Christ remains the Spirit-baptizer.
 
 Charge. Write the three accounts. What did Simon want, and what did Peter say? Who sent Ananias? What came on the men at Ephesus when Paul laid hands? What agent will you not cancel?
 
@@ -280,17 +280,17 @@ Write them until you can teach them without a tenth:
 
 All these attest a record across Holy Scripture. No invented tenth. Each occasion remains itself. Blessing children is not healing. Ordaining is not buying the gift. Simon is in the ninth account so that you will not make the ninth a market.
 
-Hold F3 beside F4. A man in whom is the spirit already; then full of the spirit of wisdom, for Moses had laid his hands upon him. Two texts. One Joshua. No tenth invented to reconcile them.
+Hold ordaining beside imparting Spirit. A man in whom is the spirit already; then full of the spirit of wisdom, for Moses had laid his hands upon him. Two texts. One Joshua. No tenth invented to reconcile them.
 
-Hold F6 beside F7. Healing has its cluster. Miracles has Acts 19:11. God wrought. The cloth is not a tenth.
+Hold healing beside miracles. Healing has its Scripture set. Miracles has Acts 19:11. God wrought. The cloth is not a tenth.
 
-Hold F8 beside F9. A gift stirred is not the Holy Ghost purchased. Timothy is not Simon. The presbytery’s hands and Paul’s hands are not Simon’s money.
+Hold imparting gifts beside imparting Spirit baptism. A gift stirred is not the Holy Ghost purchased. Timothy is not Simon. The presbytery’s hands and Paul’s hands are not Simon’s money.
 
-Hold F5 beside Course 1. The Lord laid His hands on little children. He did not make the hands a second womb. Suffer them. Forbid them not.
+Hold the little-children passage beside Course 1. The Lord laid His hands on little children. He did not make the hands a second womb. Suffer them. Forbid them not.
 
 Hold the whole nine beside Courses 1–3. Resultant. Not the house.
 
-A vague practice called immissions is not this file. Nine accounts. Each its own text. If you cannot write the nine without looking, you are not ready to teach “when?”
+A vague practice called immissions is not this lesson. Nine accounts. Each its own text. If you cannot write the nine without looking, you are not ready to teach “when?”
 
 Charge. Write the nine with their texts from memory. If you added a tenth, put it down. If you merged two, separate them. If you skipped Simon, write Acts 8:18-24.
 

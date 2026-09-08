@@ -18,13 +18,13 @@ Hebrews 6:2 names a doctrine of baptisms. The first word under that heading is w
 
 Ablution is not a metaphor you may ignore. It is the sense of the word. Something is washed. Someone is washed. The question this chapter must answer is: by what agency, into what, in what element, by which agent, and to what end.
 
-If you begin at the river, you have begun late. Begin at baptismos. Washing. Then it takes you to the Word.
+If you begin at the river, you have begun late. Begin at βαπτισμός (baptismos). Washing. Then it takes you to the Word.
 
 A priest’s hands were washed because the priest was to handle holy things. Sacred vessels were washed because they were to bear what was set apart. The washing is not the priesthood. The washing serves a holiness already named.
 
 The washing will not invent the son Course 2 named. It will not replace the new creature Course 1 received. It will be understood: first as the Word’s agency at new birth, then as the seven, then as the three for believers.
 
-Charge. Before you argue immersion or pouring, write the word baptismos as ablution. What is washed? You do not yet answer with a tank. You answer with washing.
+Charge. Before you argue immersion or pouring, write the word βαπτισμός (baptismos) as ablution. What is washed? You do not yet answer with a tank. You answer with washing.
 
 II. THE AGENCY OF THE WORD
 
@@ -50,7 +50,7 @@ Flesh begets flesh. Spirit begets spirit. Ye must be born again. The washing of 
 
 The washing signifies the agency of the Word at new birth. That is the premiere of the three essential baptisms. You do not begin this principle at a river. You begin it where the Word washes.
 
-Charge. Write Ephesians 5:26, 1 Peter 1:23, and John 3:5 as one file. What is the agency? What is not the power? Where does this principle begin?
+Charge. Write Ephesians 5:26, 1 Peter 1:23, and John 3:5 as one Scripture set. What is the agency? What is not the power? Where does this principle begin?
 
 III. SEVEN IN SCRIPTURE — NO EIGHTH
 
@@ -192,7 +192,7 @@ This is not a later improvement on salvation. This is what baptism into Christ i
 
 Romans 6:8-11 — “Now if we be dead with Christ, we believe that we shall also live with him: Knowing that Christ being raised from the dead dieth no more; death hath no more dominion over him. For in that he died, he died unto sin once: but in that he liveth, he liveth unto God. Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.”
 
-Reckon. Dead indeed unto sin. Alive unto God through Jesus Christ our Lord. The reckoning is pistis at work on this baptism. You do not reckon a thing that has not happened. You reckon what baptism into His death already is.
+Reckon. Dead indeed unto sin. Alive unto God through Jesus Christ our Lord. The reckoning is πίστις (pistis) at work on this baptism. You do not reckon a thing that has not happened. You reckon what baptism into His death already is.
 
 Colossians 2:11-12 — “In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ: Buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead.”
 
@@ -357,7 +357,7 @@ Till we all come. Unity of the faith. Knowledge of the Son of God. Unto a perfec
 
 Fullness. Complete in Him. The Spirit not by measure unto you. This is not a slogan for a meeting. It is the son, whelmed, witnessing, complete.
 
-Charge. Write the fullness cluster as one file: Colossians 1:19; 2:9-10; 1 Corinthians 1:24; 12:27; Galatians 2:20; 2 Corinthians 2:14-16; Ephesians 4:13. What does “complete in Him” refuse? What does it not turn into?
+Charge. Write the fullness Scripture set as one teaching: Colossians 1:19; 2:9-10; 1 Corinthians 1:24; 12:27; Galatians 2:20; 2 Corinthians 2:14-16; Ephesians 4:13. What does “complete in Him” refuse? What does it not turn into?
 
 XIV. NOT SLAVES — YOU ARE THE FEAR AND DREAD
 
@@ -377,7 +377,7 @@ Deuteronomy 11:22-25 — “For if ye shall diligently keep all these commandmen
 
 The LORD your God shall lay the fear of you and the dread of you upon all the land that ye shall tread upon. No man shall be able to stand before you. As He hath said unto you.
 
-This school will not teach James 2:9 as this cluster. James 2:9 is respect of persons. It is not the fear-and-dread file. The owner locked Genesis 9:2 and Deuteronomy 11:25. Also Romans 8:17; Genesis 1:26-28; Psalm 139:14.
+This school will not teach James 2:9 as this Scripture set. James 2:9 is respect of persons. It is not the fear-and-dread file. The owner locked Genesis 9:2 and Deuteronomy 11:25. Also Romans 8:17; Genesis 1:26-28; Psalm 139:14.
 
 Romans 8:17 you have: heirs of God, joint-heirs with Christ.
 
@@ -389,9 +389,9 @@ Fearfully and wonderfully made. Heir. Image. Fearfully made. The charge is exact
 
 This school will not soften that charge for babes. Further reading: Why We’re Beyond — its own book, not Fearfully Made.
 
-Do not turn the charge into swagger without the cluster. Power, love, and a sound mind stand in the same breath. An heir who has dropped love and a sound mind is not preaching 2 Timothy 1:7. He is performing. Genesis 9 and Deuteronomy 11 sit with Romans 8:17 and Genesis 1:26-28 and Psalm 139:14. The cluster is the guard. The charge is not withdrawn because someone might swagger. The swagger is refused because it dropped the cluster.
+Do not turn the charge into boastful claim without the Scripture set. Power, love, and a sound mind stand in the same breath. An heir who has dropped love and a sound mind is not preaching 2 Timothy 1:7. He is performing. Genesis 9 and Deuteronomy 11 sit with Romans 8:17 and Genesis 1:26-28 and Psalm 139:14. The Scripture set is the guard. The charge is not withdrawn because someone might boastful claim. The boastful claim is refused because it dropped the Scripture set.
 
-Charge. Teach 2 Timothy 1:7 with Genesis 9:2 and Deuteronomy 11:25. Add Romans 8:17, Genesis 1:26-28, and Psalm 139:14. Do not soften for babes. Do not swagger without the cluster. Do not use James 2:9 here.
+Charge. Teach 2 Timothy 1:7 with Genesis 9:2 and Deuteronomy 11:25. Add Romans 8:17, Genesis 1:26-28, and Psalm 139:14. Do not soften for babes. Do not boastful claim without the Scripture set. Do not use James 2:9 here.
 
 XV. ANANGELLŌ — HE SHALL SHEW YOU MINE
 

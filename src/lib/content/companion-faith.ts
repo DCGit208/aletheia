@@ -8,7 +8,7 @@ export const faithCompanionChapters: BookChapter[] = [
     id: "ch-faith-1",
     bookId,
     number: 1,
-    title: "Pistis — Credence That Defines Sons",
+    title: "Πίστις (pistis) — Credence That Defines Sons",
     body: `Hebrews 6:1 — “Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God.”
 
 Repentance received you into the new creature. Faith names the state you are in. Do not treat this chapter as a mood. Treat it as the second stone.
@@ -17,11 +17,11 @@ This is the textbook of Foundation School, Aletheia Publications, under Dr. Coac
 
 The writer of Hebrews will not let you lay this stone again as a lifestyle. He will also not let you skip it. You leave a foundation after it is laid. You do not leave a heading you never understood.
 
-Faith toward God is not the second feeling after the first tear. It is credence. It defines your state as a child. If you make it a temperature, you have not heard pistis.
+Faith toward God is not the second feeling after the first tear. It is credence. It defines your state as a child. If you make it a temperature, you have not heard πίστις (pistis).
 
 I. PISTIS — CREDENCE THAT DEFINES SONS
 
-Faith essentially defines our state as children of God. Greek pistis: credence. In effect it defines our acceptance — true nature — and our espousal: adoption as sons of God.
+Faith essentially defines our state as children of God. Greek πίστις (pistis, G4102): credence. In effect it defines our acceptance — true nature — and our espousal: adoption as sons of God.
 
 Credence is not a shiver. Credence is the mind’s agreement with what God has said and done. You credit the record. You do not wait to feel like a son before you will be named one.
 
@@ -49,7 +49,7 @@ Ephesians 1:3-5 — “Blessed be the God and Father of our Lord Jesus Christ, w
 
 Adoption here is not an emergency repair God thought of after Adam fell. He predestinated us unto the adoption of children by Jesus Christ to Himself, according to the good pleasure of His will. The will is His. The pleasure is His. The adoption is by Jesus Christ.
 
-Pistis is not a feeling you work up in a meeting. It is credence that agrees with what God has done and who you are by that doing. Servant is not the name. Son is the name. Heir follows son.
+Πίστις (pistis) is not a feeling you work up in a meeting. It is credence that agrees with what God has done and who you are by that doing. Servant is not the name. Son is the name. Heir follows son.
 
 Hold the distinction until you can teach it without a slogan. A man may tremble and still be a servant in his mind. A man may be quiet and still be a son. The state is not measured by the noise of the room.
 
@@ -86,7 +86,7 @@ He blessed them. He spoke to them. Fruitful. Multiply. Replenish. Subdue. Have d
 
 This school will not put a softer sentence in the place of Genesis 1:26-28. Teach the verses as written. Man is who he is by design and by Who designed him.
 
-The owner named a cluster that must sit with these verses. You will not detach the cluster. You will not use the cluster to empty the verses. You will hold them together.
+This chapter keeps a Scripture set that must sit with these verses. You will not detach the Scripture set. You will not use the Scripture set to empty the verses. You will hold them together.
 
 John 14:12 — “Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.”
 
@@ -100,11 +100,11 @@ Psalm 82:6 — “I have said, Ye are gods; and all of you are children of the m
 
 Romans 8:17 you have already heard: if children, then heirs; heirs of God, and joint-heirs with Christ.
 
-John 17:20-23 will be opened in its own section. It belongs in this cluster now as the prayer of oneness and of glory given. Hold the address. Do not wait until section IX to admit that the prayer exists.
+John 17:20-23 will be opened in its own section. It belongs in this Scripture set now as the prayer of oneness and of glory given. Hold the address. Do not wait until section IX to admit that the prayer exists.
 
 This is the image-and-likeness file. You will not be taught a hedge that undoes Genesis 1:26-28. You will be taught the writing.
 
-If you came to this chapter hoping the school would apologize for the text, you came to the wrong house. If you came hoping the school would invent a title the cluster does not grant, you also came to the wrong house. The text is enough. Reason from it.
+If you came to this chapter hoping the school would apologize for the text, you came to the wrong house. If you came hoping the school would invent a title the Scripture set does not grant, you also came to the wrong house. The text is enough. Reason from it.
 
 Further reading at this knot, directed, not as a seventh course: The Doctrine of Man. Why Men Die.`,
   },
@@ -119,7 +119,7 @@ Psalm 82:1-5 — “God standeth in the congregation of the mighty; he judgeth a
 
 The psalm is a judgment scene. God stands. He judges among the gods. The charge is unjust judgment, respect of wicked persons, failure to defend the poor and fatherless. They know not. They walk on in darkness. The foundations of the earth are out of course.
 
-Out of course. Remember that phrase when this chapter reaches dikaiosynē. Equity is conformity with the nature of God. Original: back on course.
+Keep the course order in view when this chapter reaches δικαιοσύνη (dikaiosynē). Equity is conformity with the nature of God. Return to the course order.
 
 Psalm 82:6-8 — “I have said, Ye are gods; and all of you are children of the most High. But ye shall die like men, and fall like one of the princes. Arise, O God, judge the earth: for thou shalt inherit all nations.”
 
@@ -139,7 +139,7 @@ John 10:37-38 — “If I do not the works of my Father, believe me not. But if 
 
 The works are the Father’s works. The knowing is that the Father is in Him and He in the Father. That oneness will return in John 17. Do not pretend John 10 is a different religion from Genesis 1 and from the prayer.
 
-The cluster is Psalm 82:6 with 82:7 and with John 10:34-35. Course 1 already used John 10:35 for the imprimatur of the graphē. The scripture cannot be broken. That imprimatur governs this psalm as it governs every other writing.
+The Scripture set is Psalm 82:6 with 82:7 and with John 10:34-35. Course 1 already used John 10:35 for the authority of the graphē. The scripture cannot be broken. That authority governs this psalm as it governs every other writing.
 
 Charge. Write Psalm 82:6 and 82:7 in one paragraph, then write John 10:34-35 under them. Do not add a slogan. Do not subtract a clause. Say what the three verses force when they are left together.`,
   },
@@ -158,13 +158,13 @@ Knowledge again. Course 1 defined knowledge as perception, learning, and reasoni
 
 Partakers of the divine nature. The promises are the means. Escape from the corruption that is in the world through lust is named in the same sentence. You are not being invited to invent another nature. You are being made partaker of the nature Genesis already named, having escaped the corruption.
 
-This teaching places this verse with man’s true nature and with the glory he came short of through sin. Dikaiosynē, later in this chapter, is equity: impartiality to and conformity with the nature of God — original: back on course.
+This teaching places this verse with man’s true nature and with the glory he came short of through sin. Δικαιοσύνη (dikaiosynē), later in this chapter, is equity: impartiality to and conformity with the nature of God — original: back on course.
 
 Back on course. Psalm 82:5 said the foundations of the earth are out of course. Romans 3 will say all have sinned and come short of the glory of God. 2 Peter 1:4 is not a new species. It is participation in the nature from which man came short, by the promises, in escape from corruption.
 
 2 Peter 1:5-8 — “And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge; And to knowledge temperance; and to temperance patience; and to patience godliness; And to godliness brotherly kindness; and to brotherly kindness charity. For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ.”
 
-Faith is the first named in the adding. Virtue. Knowledge. Temperance. Patience. Godliness. Brotherly kindness. Charity. The partaker is not a man who quotes 1:4 and refuses 1:5. Diligence belongs here as it belonged to spoudazō in Chapter 1.
+Faith is the first named in the adding. Virtue. Knowledge. Temperance. Patience. Godliness. Brotherly kindness. Charity. The partaker is not a man who quotes 1:4 and refuses 1:5. Diligence belongs here as it belonged to σπουδάζω (spoudazō) in Chapter 1.
 
 You are not being invited to invent another nature. You are being returned to the one Genesis named, in Christ.
 
@@ -203,28 +203,28 @@ Charge. Answer the question: Why did Jesus come? Answer in terms of glory and tr
     id: "ch-faith-6",
     bookId,
     number: 6,
-    title: "Dikaioō — Justified Freely",
+    title: "Δικαιόω (dikaioō) — Justified Freely",
     body: `VI. DIKAIOŌ — JUSTIFIED FREELY
 
-Justified: Greek dikaioō — render just or innocent, free from evil or guilt. It is a derivative of dikaiosynē: righteousness, justification. Equity: impartiality to and conformity with the nature of God (2 Peter 1:4). Original: back on course.
+Justified: Greek δικαιόω (dikaioō, G1344) — render just or innocent, free from evil or guilt. It is a derivative of δικαιοσύνη (dikaiosynē): righteousness, justification. Equity: impartiality to and conformity with the nature of God (2 Peter 1:4). Return to the course order.
 
-Has man been justified? Yes. And freely. Through Greek apolutrōsis — redemption; ransom in full.
+Has man been justified? Yes. And freely. Through Greek ἀπολύτρωσις (apolutrōsis, G629) — redemption; ransom in full.
 
 Romans 3:24 again: being justified freely by His grace through the redemption that is in Christ Jesus. Freely. By His grace. Through the redemption. The redemption is in Christ Jesus.
 
-There is no unpaid remainder on that ransom. Apolutrōsis is ransom in full. Do not preach a justification you must finish by labour. Labour belongs to study (Chapter 1). Innocence before God is free in Christ.
+There is no unpaid remainder on that ransom. Ἀπολύτρωσις (apolutrōsis) is ransom in full. Do not preach a justification you must finish by labour. Labour belongs to study (Chapter 1). Innocence before God is free in Christ.
 
-Dikaioō is not a project you complete on a good week. It is a rendering. God renders just. God renders innocent. Free from evil or guilt. The agent is grace. The means is the ransom in full.
+Δικαιόω (dikaioō) is not a project you complete on a good week. It is a rendering. God renders just. God renders innocent. Free from evil or guilt. The agent is grace. The means is the ransom in full.
 
 If you add a fee to a ransom in full, you have not understood the word. If you postpone innocence until you have suffered enough to deserve it, you have not heard “freely.”
 
 Romans 3:27-28 — “Where is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith. Therefore we conclude that a man is justified by faith without the deeds of the law.”
 
-Boasting is excluded. The law of faith excludes it. A man is justified by faith without the deeds of the law. Pistis again. Credence. Not a wage.
+Boasting is excluded. The law of faith excludes it. A man is justified by faith without the deeds of the law. Πίστις (pistis) again. Credence. Not a wage.
 
-The distinction is sharp. Free justification is not earned innocence. Earned innocence is not this principle. A man who is still trying to buy what apolutrōsis already paid is not yet standing on this stone. He may be busy. He is not crediting the ransom.
+The distinction is sharp. Free justification is not earned innocence. Earned innocence is not this principle. A man who is still trying to buy what ἀπολύτρωσις (apolutrōsis) already paid is not yet standing on this stone. He may be busy. He is not crediting the ransom.
 
-Charge. Has man been justified? Write the answer: Yes, and freely. Show apolutrōsis in Romans 3:24. Name what you will not add to a ransom in full.
+Charge. Has man been justified? Write the answer: Yes, and freely. Show ἀπολύτρωσις (apolutrōsis) in Romans 3:24. Name what you will not add to a ransom in full.
 
 VII. YOU ARE THE DIKAIOSYNĒ OF GOD NOW
 
@@ -236,15 +236,15 @@ God has reconciled us to Himself by Jesus Christ. God was in Christ, reconciling
 
 2 Corinthians 5:20-21 — “Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ’s stead, be ye reconciled to God. For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.”
 
-He hath made Him to be sin for us, who knew no sin. That we might be made the righteousness of God in Him. present tense stands: so right now, you are the dikaiosynē of God in Christ.
+He hath made Him to be sin for us, who knew no sin. That we might be made the righteousness of God in Him. present tense stands: so right now, you are the δικαιοσύνη (dikaiosynē) of God in Christ.
 
-Dikaiosynē: righteousness, justification. Equity: impartiality to and conformity with the nature of God. Original: back on course. You are that, in Him, now.
+Δικαιοσύνη (dikaiosynē): righteousness, justification. Equity: impartiality to and conformity with the nature of God. Return to the course order. You are that, in Him, now.
 
-This is not an aspiration you visit on a good day. It is the state pistis credits. Course 1 laid the new creature. This chapter names the righteousness of that creature.
+This is not an aspiration you visit on a good day. It is the state πίστις (pistis) credits. Course 1 laid the new creature. This chapter names the righteousness of that creature.
 
 Do not say “I am becoming the righteousness of God” as if 2 Corinthians 5:21 were a ladder you have not finished. The verse is not a ladder. He made Him to be sin. The purpose clause is that we might be made the righteousness of God in Him. This teaching will not let you postpone the name.
 
-Do not say “I am the righteousness of God” as a swagger that has dropped “in Him.” The location is in Him. The new creature is in Christ. The dikaiosynē is in Him.
+Do not say “I am the righteousness of God” as a boastful claim that has dropped “in Him.” The location is in Him. The new creature is in Christ. The δικαιοσύνη (dikaiosynē) is in Him.
 
 Charge. Write 2 Corinthians 5:21 in full. Then write, in the present tense, what you are in Christ. Do not write a future you hope to earn. Do not write a title you invented. Write the verse.`,
   },
@@ -271,17 +271,17 @@ The angels are not addressed as Son. The firstbegotten is worshipped by angels. 
 
 Hebrews 1:8 — “But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.”
 
-Unto the Son He saith. Thy throne, O God, is for ever and ever. A sceptre of righteousness is the sceptre of Thy kingdom. The Father addresses the Son as God. The sceptre is righteousness — dikaiosynē in the thought of this chapter.
+Unto the Son He saith. Thy throne, O God, is for ever and ever. A sceptre of righteousness is the sceptre of Thy kingdom. The Father addresses the Son as God. The sceptre is righteousness — δικαιοσύνη (dikaiosynē) in the thought of this chapter.
 
 After 2 Corinthians 5:21, the question is: according to Hebrews 1:8, what does that make you? It does not print the answer.
 
-This school will not invent a title the cluster does not grant. You will reason from the cluster. You are the dikaiosynē of God in Christ. The Son is the brightness of His glory and the express image of His person. The Father addresses the Son as God. The sceptre of His kingdom is righteousness. Genesis 1:26-28 has already named image, likeness, and dominion. 1 John 4:17 has said, as He is, so are we in this world.
+This school will not invent a title the Scripture set does not grant. You will reason from the Scripture set. You are the δικαιοσύνη (dikaiosynē) of God in Christ. The Son is the brightness of His glory and the express image of His person. The Father addresses the Son as God. The sceptre of His kingdom is righteousness. Genesis 1:26-28 has already named image, likeness, and dominion. 1 John 4:17 has said, as He is, so are we in this world.
 
-Write what the cluster forces. Do not write what a slogan wants. Do not write a name the cluster does not grant. The charge is the question. The labour is the reasoning.
+Write what the Scripture set forces. Do not write what a slogan wants. Do not write a name the Scripture set does not grant. The charge is the question. The labour is the reasoning.
 
-If you invent a title to sound mature, you have become a babe with a louder word. If you refuse to reason because you are afraid of the cluster, you have also become a babe. Dull of hearing is still dull when it is cautious.
+If you invent a title to sound mature, you have become a babe with a louder word. If you refuse to reason because you are afraid of the Scripture set, you have also become a babe. Dull of hearing is still dull when it is cautious.
 
-Charge. Answer the question from the cluster: 2 Corinthians 5:21; Hebrews 1:3; Hebrews 1:8; Genesis 1:26-28; 1 John 4:17. Do not invent a title. Do not leave the question blank. Reason.
+Charge. Answer the question from the Scripture set: 2 Corinthians 5:21; Hebrews 1:3; Hebrews 1:8; Genesis 1:26-28; 1 John 4:17. Do not invent a title. Do not leave the question blank. Reason.
 
 IX. WHO IS HEIR? WHAT IS AN HEIR?
 
@@ -297,7 +297,7 @@ What is an heir? An heir is not a hired man hoping for a wage. An heir is the on
 
 Romans 8:17 again: heirs of God, and joint-heirs with Christ. Joint-heirs. Not a junior partner who might be cut out if the week goes badly. With Christ.
 
-Do not make heir a metaphor for “someone who likes church.” Do not make heir a career in ministry. Do not make heir a feeling of belonging. Answer from the adoption cluster.
+Do not make heir a metaphor for “someone who likes church.” Do not make heir a career in ministry. Do not make heir a feeling of belonging. Answer from the adoption Scripture set.
 
 The distinction is the household. A servant receives orders and a wage, if he receives anything. A son receives the name and the portion. Course 3 will return to this when the Spirit cries Abba and you are not a slave. Do not wait for that chapter to refuse the hired-man gospel.
 
@@ -338,7 +338,7 @@ I in them, and Thou in Me, that they may be made perfect in one. Perfect in one.
 
 As Thou hast loved Me. The love the Father has for the Son is the measure of the love the world is to know toward them. Do not shrink that “as.”
 
-Liken from the words. You have been made in the image, after the likeness. You are the dikaiosynē of God in Christ. As He is, so are we in this world. The Son is the express image. The Father is in the Son and the Son in the Father. The glory given to the Son is given to those who believe. I in them. Thou in Me.
+Liken from the words. You have been made in the image, after the likeness. You are the δικαιοσύνη (dikaiosynē) of God in Christ. As He is, so are we in this world. The Son is the express image. The Father is in the Son and the Son in the Father. The glory given to the Son is given to those who believe. I in them. Thou in Me.
 
 Write the likeness from those words. Course 3 will open the Spirit who shews “Mine.” Do not wait for that course to refuse a cheap oneness.
 
@@ -354,7 +354,7 @@ This ministry. Received mercy. Renounced hidden things of dishonesty. Not handli
 
 If our gospel be hid, it is hid to them that are lost. The god of this world hath blinded the minds of them which believe not. Lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them.
 
-Christ is the image of God. The gospel is glorious. The light is that gospel. The blinding is lest that light should shine. Course 1 already used 2 Corinthians 4:4 in the old-man cluster: the god of this world blinds minds. The same verse now sits in the faith cluster because the thing blinded against is the image.
+Christ is the image of God. The gospel is glorious. The light is that gospel. The blinding is lest that light should shine. Course 1 already used 2 Corinthians 4:4 in the old-man Scripture set: the god of this world blinds minds. The same verse now sits in the faith Scripture set because the thing blinded against is the image.
 
 That blindness is not a small inconvenience. It is the old opposition to the image. The lost are not merely uninformed. Their minds are blinded lest the image shine.
 
@@ -366,19 +366,19 @@ The glory of God is known in His face. The same God who said “Let there be lig
 
 Faith toward God is credence of this light, this image, this sonship, this free justification. It is not a leap into the dark. The god of this world wants the leap into the dark. The gospel shines.
 
-If you treat faith as a jump without a face, you have not heard 2 Corinthians 4:6. If you treat the face as a picture you admire without becoming the dikaiosynē of God in Him, you have not heard 2 Corinthians 5:21. Hold both.
+If you treat faith as a jump without a face, you have not heard 2 Corinthians 4:6. If you treat the face as a picture you admire without becoming the δικαιοσύνη (dikaiosynē) of God in Him, you have not heard 2 Corinthians 5:21. Hold both.
 
 Charge. Write 2 Corinthians 4:4 and 4:6 as one file. Who is the image of God? Where is the light of the knowledge of the glory of God given? What blinds a mind against that light?
 
 XII. THE SECOND STONE LAID — REASONING AND APPLICATION
 
-You have now walked the second principle. Pistis. Adoption. Image and likeness. Psalm 82 with John 10. Partakers. Glory come short. Dikaioō freely. Apolutrōsis in full. You are the dikaiosynē of God now. Hebrews 1:8 asked. Heir named. John 17 likened. The face of Christ shone.
+You have now walked the second principle. Πίστις (pistis). Adoption. Image and likeness. Psalm 82 with John 10. Partakers. Glory come short. Δικαιόω (dikaioō) freely. Ἀπολύτρωσις (apolutrōsis) in full. You are the δικαιοσύνη (dikaiosynē) of God now. Hebrews 1:8 asked. Heir named. John 17 likened. The face of Christ shone.
 
 Reasoning is not optional decoration. Chapter 1 told you knowledge is perception, learning, and reasoning. This chapter has asked the questions this school asks. A man who can recite the headings and cannot answer the questions is still a babe in the word of righteousness.
 
-Application is not a fourth gospel. It is the credence lived. If you are a son, you will not keep the servant’s name for humility’s sake. That is not humility. That is unbelief wearing manners. If you are the dikaiosynē of God in Christ, you will not postpone innocence until you have paid what the ransom already paid. If you are made in the image, after the likeness, you will not apologize for Genesis 1:26-28.
+Application is not a fourth gospel. It is the credence lived. If you are a son, you will not keep the servant’s name for humility’s sake. That is not humility. That is unbelief wearing manners. If you are the δικαιοσύνη (dikaiosynē) of God in Christ, you will not postpone innocence until you have paid what the ransom already paid. If you are made in the image, after the likeness, you will not apologize for Genesis 1:26-28.
 
-You will also not swagger past the cluster. Joint-heirs suffer with Him. Partakers have escaped the corruption that is in the world through lust. The psalm that says Ye are gods also says ye shall die like men if you walk on in darkness and judge unjustly. John 17’s oneness is as the Father in the Son, not as a crowd in a brand.
+You will also not boastful claim past the Scripture set. Joint-heirs suffer with Him. Partakers have escaped the corruption that is in the world through lust. The psalm that says Ye are gods also says ye shall die like men if you walk on in darkness and judge unjustly. John 17’s oneness is as the Father in the Son, not as a crowd in a brand.
 
 The next chapter will baptize the son this chapter named: into Christ, then in water as a sign, then in the Spirit as witness. Do not carry a hired man’s mind into that chapter. Do not carry a slogan’s title either.
 

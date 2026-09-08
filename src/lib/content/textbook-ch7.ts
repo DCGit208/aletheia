@@ -6,7 +6,7 @@ This is the last of the six. Course 5 mapped the two bodily issues, the thousand
 
 In this present age the righteous who die go to heaven. The wicked go to hell. After the Millennium hell is emptied, the dead stand before the great white throne, and whosoever is not found written in the book of life is cast into the lake of fire. That is the map.
 
-Eternal is duration. Not metaphor. Not annihilation. Soul and spirit are immortal. Resurrection texts in this file are bodies from the dust. Three deaths stay three. Five prisons stay five.
+Eternal is duration. Not metaphor. Not annihilation. Soul and spirit are immortal. Resurrection texts in this lesson are bodies from the dust. Three deaths stay three. Five prisons stay five.
 
 I. ETERNAL PUNISHMENT
 
@@ -30,7 +30,7 @@ Revelation 14:9-11 — “And the third angel followed them, saying with a loud 
 
 Smoke of torment that ascends for ever and ever is not a brief pain and then nothing. No rest day nor night is not sleep, and not a metaphor for regret that later cools. For ever and ever is duration.
 
-Revelation 14:14 is the Son of man on a cloud — harvest. The printed lake range later sits 14:9-11 with 14:14. Do not flatten the angel’s warning into the harvest so that torment disappears.
+Revelation 14:14 is the Son of man on a cloud — harvest. The lake-of-fire passage later sits 14:9-11 with 14:14. Do not flatten the angel’s warning into the harvest so that torment disappears.
 
 Revelation 20:11-15 — “And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them. And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works. And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works. And death and hell were cast into the lake of fire. This is the second death. And whosoever was not found written in the book of life was cast into the lake of fire.”
 
@@ -88,7 +88,7 @@ This blotting was predicted of Judas. Gall and vinegar sit in the psalm. The Gos
 
 Psalm 69:22-28 — “Let their table become a snare before them: and that which should have been for their welfare, let it become a trap. Let their eyes be darkened, that they see not; and make their loins continually to shake. Pour out thine indignation upon them, and let thy wrathful anger take hold of them. Let their habitation be desolate; and let none dwell in their tents. For they persecute him whom thou hast smitten; and they talk to the grief of those whom thou hast wounded. Add iniquity unto their iniquity: and let them not come into thy righteousness. Let them be blotted out of the book of the living, and not be written with the righteous.”
 
-Acts 1:20 sets “let their habitation be desolate” on Judas. Predicted of Judas. You will not move this psalm off him. Course 1 already distinguished metamellomai from metanoia. Judas regretted condemnation. Do not baptize that remorse into new birth.
+Acts 1:20 sets “let their habitation be desolate” on Judas. Predicted of Judas. You will not move this psalm off him. Course 1 already distinguished μεταμέλομαι (metamellomai) from metanoia. Judas regretted condemnation. Do not baptize that remorse into new birth.
 
 John 3:36 — “He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.”
 
@@ -106,7 +106,7 @@ Hold the file as one. Exodus 32:32-33 — God blots the sinner, not Moses in his
 
 The book is not a slogan of unconditional listing. It is not a threat you use to keep babes shivering and never receiving the Son.
 
-Charge of this section. Teach Exodus 32:32-33, Psalm 69:20-28, and Revelation 3:5 as one file. Who is blotted in Exodus? Of whom was Psalm 69 predicted? What does Revelation 3:5 promise the overcomer? Write John 3:36 and Revelation 22:18-19. Name the print 22:1819 and keep the two verses.
+Charge of this section. Teach Exodus 32:32-33, Psalm 69:20-28, and Revelation 3:5 as one Scripture set. Who is blotted in Exodus? Of whom was Psalm 69 predicted? What does Revelation 3:5 promise the overcomer? Write John 3:36 and Revelation 22:18-19. Name the print 22:1819 and keep the two verses.
 
 IV. DEATH AS CUTTING OFF FROM GENESIS 1:26-28
 
@@ -128,7 +128,7 @@ Fruitful. Multiply. Replenish. Subdue. Have dominion. Male and female. The makin
 
 Death is cutting off from realizing that purpose. Not a poetry about sleep that never answers Genesis. A man may still walk and already be cut off. A man may already be in the dust and still be a soul. Sections V–VII will keep three deaths. Here you define the word without using only “stopped breathing.”
 
-The owner named a cluster that must sit with Genesis 1:26-28. You will not detach it. You will not use it to empty the verses.
+This chapter keeps a Scripture set with Genesis 1:26-28. You will not detach it. You will not use it to empty the verses.
 
 John 14:12 — “Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.”
 
@@ -156,7 +156,7 @@ Physical death is the separation of the inner man from the outer man: soul and s
 
 James 2:26 — “For as the body without the spirit is dead, so faith without works is dead also.”
 
-The body without the spirit is dead. Inner from outer. Do not steal the verse from this file to preach only ethics.
+The body without the spirit is dead. Inner from outer. Do not steal the verse from this lesson to preach only ethics.
 
 Genesis 35:18 — “And it came to pass, as her soul was in departing, (for she died) that she called his name Benoni: but his father called him Benjamin.” The soul departs. She dies.
 
@@ -168,7 +168,7 @@ Physical death is not Tartarus. It is not Paradise. It is not hell. It is not th
 
 A man can be physically alive and spiritually dead. Section VI. A man can be physically dead and not yet in the second death. Section VII. Keep this one as this one.
 
-Charge of this section. Write James 2:26. What separates from what? What does physical death not equal among the five prisons? Why is the grave not this file’s prison?
+Charge of this section. Write James 2:26. What separates from what? What does physical death not equal among the five prisons? Why is the grave not this lesson’s prison?
 
 VI. SPIRITUAL DEATH — FROM GOD BECAUSE OF SIN
 
@@ -364,7 +364,7 @@ The abyss is the bottomless pit. Abaddon. Destruction. Abode of demons and some 
 
 Owner texts: Luke 8:31; Revelation 9; Revelation 20:3. Also Romans 10:7; Revelation 17:8; 20:1-10; Psalm 88:11, destruction.
 
-The page printed 11:17 in the abyss list. You will not reopen 11:7 versus 11:17 as a question. Teach both addresses as the files already assigned them. The beast from the pit is Revelation 11:7 — Course 5, the two witnesses. Revelation 11:17 is the elders’ thanksgiving. Both stand. Neither is a riddle for this school to reopen.
+The assigned reference listed 11:17 in the abyss list. You will not reopen 11:7 versus 11:17 as a question. Teach both addresses as the course already assigned them. The beast from the pit is Revelation 11:7 — Course 5, the two witnesses. Revelation 11:17 is the elders’ thanksgiving. Both stand. Neither is a riddle for this school to reopen.
 
 Luke 8:30-31 — “And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him. And they besought him that he would not command them to go out into the deep.”
 
@@ -372,11 +372,11 @@ The deep is abyssos. The man had abode in the tombs — Luke 8:27. The tombs are
 
 Romans 10:6-7 — “But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down from above:) Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)”
 
-This teaching keeps Romans 10:7 in this file. You will not turn it into a claim that Christ is still in the pit. He is raised. You do not descend to fetch Him.
+This teaching keeps Romans 10:7 in this lesson. You will not turn it into a claim that Christ is still in the pit. He is raised. You do not descend to fetch Him.
 
 Revelation 9:1-2 — “And the fifth angel sounded, and I saw a star fall from heaven unto the earth: and to him was given the key of the bottomless pit. And he opened the bottomless pit; and there arose a smoke out of the pit, as the smoke of a great furnace; and the sun and the air were darkened by reason of the smoke of the pit.”
 
-Revelation 9 as the owner named it. Key. Pit. Smoke. Locusts in 9:3.
+Revelation 9 gives the assigned terms: key, pit, smoke, and locusts in 9:3.
 
 Revelation 9:11 — “And they had a king over them, which is the angel of the bottomless pit, whose name in the Hebrew tongue is Abaddon, but in the Greek tongue hath his name Apollyon.”
 
@@ -426,7 +426,7 @@ Matthew 25:41 — “Then shall he say also unto them on the left hand, Depart f
 
 Matthew 25:46 you already wrote: everlasting punishment. Life eternal. The fire prepared for the devil and his angels is this last prison. Men enter it. It was not prepared as a metaphor for earthly misery.
 
-Revelation 14:9-11 you already wrote: fire and brimstone; smoke of torment for ever and ever; no rest day nor night. The printed lake range also sits 14:9-14. Verse 14 is the harvest. Keep torment. Do not let the cloud erase the smoke.
+Revelation 14:9-11 you already wrote: fire and brimstone; smoke of torment for ever and ever; no rest day nor night. The lake-of-fire passage also sits 14:9-14. Verse 14 is the harvest. Keep torment. Do not let the cloud erase the smoke.
 
 Revelation 19:20 — “And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone.”
 
@@ -484,29 +484,29 @@ This principle closes the foundation. It is not laid to produce fear as a produc
 
 No required companion is named for this course. Completing this chapter does not wait on a volume this school does not name at the point of teaching. Course 4 was the same: a further-reading mark with no title. Course 5 named Millennium. Course 6 names none. This school will not invent a book to fill a silence.
 
-Page 5 printed a back-list. FTH. RD.AV. Those titles are not Year-1 courses. You will not promote a back-list title into a seventh principle. You will not make the year a shop of volumes. Directed reading later, if a volume is in your hand and a section is assigned. The $400 school does not grant those books as if they were Hebrews 6:1-2.
+The old reference list named other titles. Faith Toward God and Resurrection of the Dead are not Year-1 courses by those book abbreviations. Those titles are not Year-1 courses. You will not promote a back-list title into a seventh principle. You will not make the year a shop of volumes. Directed reading later, if a volume is in your hand and a section is assigned. The $400 school does not grant those books as if they were Hebrews 6:1-2.
 
 Fearfully Made is its own book. It is not Why We’re Beyond. Why We’re Beyond was named at baptisms / sonship. Fearfully Made sits on the back-list. Proximity on a page is bibliographic, not a merger.
 
 Presence of Sons 1–4 is its own series. It is not Spirit Witness. Spirit Witness was named at baptisms. If a catalogue once set the titles near each other, that proximity is not a series assignment. You will not call Volume 5 of Presence of Sons a witness this teaching gave another title.
 
-The printed back-list, as the page had it, includes Knowing (1 and 2), Makers, Thinking Eternity, He Hath Abounded Toward Us, Fearfully Made, Presence of Sons 1–4, Mind of Christ 1–3, Your Fellowship Your Meditation, The Christ, It Is Finished, The Noetic Church, Doctrine of Faith (Compendium), Doctrine of Man, All Things Are Become New. Also marked available on audio and online PDF. Historic contact lines on the page are not Shop SKUs.
+The old reference list includes other titles: Knowing (1 and 2), Makers, Thinking Eternity, He Hath Abounded Toward Us, Fearfully Made, Presence of Sons 1-4, Mind of Christ 1-3, Your Fellowship Your Meditation, The Christ, It Is Finished, The Noetic Church, Doctrine of Faith (Compendium), Doctrine of Man, and All Things Are Become New. Those titles may serve later directed reading, but historic contact lines on a source page are not Shop SKUs.
 
 Doctrine of Man on page 5 does not make it Course 6. Thinking Eternity is not this chapter. Knowing is not a seventh stone. Week 52 is the final integration, not a seventh doctrine. The six remain the six. You leave them when they are laid, if God permit. You do not leave them by renaming a back-list.
 
-Q37. Whom does “whosoever” refuse to exempt? Revelation 20:15. Acts 10:34. God is no respecter of persons.
+Charge 37. Whom does “whosoever” refuse to exempt? Revelation 20:15. Acts 10:34. God is no respecter of persons.
 
-Q38. God blots names of sinners. Teach Exodus 32:32-33, Psalm 69:20-28 predicted of Judas, and Revelation 3:5 as one file. John 3:36. Revelation 22:18-19, printed 22:1819.
+Charge 38. God blots names of sinners. Teach Exodus 32:32-33, Psalm 69:20-28 predicted of Judas, and Revelation 3:5 as one Scripture set. Add John 3:36 and Revelation 22:18-19.
 
-Q39. Dead means cut off from realizing Genesis 1:26-28. Define death without using only “stopped breathing.” Teach Genesis as written. Image. Likeness. Dominion. TLB marked TLB.
+Charge 39. Dead means cut off from realizing Genesis 1:26-28. Define death without using only “stopped breathing.” Teach Genesis as written. Image. Likeness. Dominion. Keep the translation note where it belongs, but teach the doctrine from Scripture.
 
-Q40. Three kinds of death. One text each. Physical: James 2:26. Spiritual: Matthew 8:22; Colossians 2:14; 1 Timothy 5:6. Second: Revelation 20:14; 2:11; 20:6, 14; 21:8. Do not collapse them.
+Charge 40. Three kinds of death. One text each. Physical: James 2:26. Spiritual: Matthew 8:22; Colossians 2:14; 1 Timothy 5:6. Second: Revelation 20:14; 2:11; 20:6, 14; 21:8. Do not collapse them.
 
-Q41. Soul and spirit immortal. Resurrection is of bodies from dust. Daniel 12:2; John 5:28-29; 1 Corinthians 15; 1 Thessalonians 4:13-17; Revelation 20:4-6, 11-15. What is raised from the dust? The body.
+Charge 41. Soul and spirit immortal. Resurrection is of bodies from dust. Daniel 12:2; John 5:28-29; 1 Corinthians 15; 1 Thessalonians 4:13-17; Revelation 20:4-6, 11-15. What is raised from the dust? The body.
 
-Q42. Five prisons. Not one is the grave. For each: who is there, who is not, what Scripture, what relation to the Millennium and the lake.
+Charge 42. Five prisons. Not one is the grave. For each: who is there, who is not, what Scripture, what relation to the Millennium and the lake.
 
-Q43. Paradise now empty. The righteous go to heaven at death now, because Christ captured the captives. Luke 16:22; Luke 23:43; Ephesians 4:8; Hebrews 2:15. Matthew 27 saints in heaven with their bodies. Do not contradict Course 5.
+Charge 43. Paradise now empty. The righteous go to heaven at death now, because Christ captured the captives. Luke 16:22; Luke 23:43; Ephesians 4:8; Hebrews 2:15. Matthew 27 saints in heaven with their bodies. Do not contradict Course 5.
 
 Write also what this chapter locked at the first stone of duration. Matthew 25:46 — eternal punishment. Revelation 14:9-11. Revelation 20:11-15. Isaiah 66:22-24. Eternal is duration. Not metaphor. Not annihilation.
 
