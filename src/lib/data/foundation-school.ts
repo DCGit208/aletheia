@@ -34,6 +34,75 @@ const principleIds = [
   "course-fs-judgment",
 ] as const;
 
+export const foundationSchoolIntroduction = {
+  lead:
+    "Foundation School is the first house of study in Aletheia. It begins where Hebrews begins: with the first principles of the oracles of God, then trains the student to leave milk without leaving the foundation.",
+  sections: [
+    {
+      title: "Why the school begins with the graphē",
+      body: [
+        "Before doctrine can be tested, taught, or lived, the authority for truth must be settled. That authority is the γραφή (graphē): Holy Writ, the Bible, Scripture, the written Word.",
+        "The graphē is not one voice among many. It is the written court before which persons, organizations, governments, nations, traditions, experiences, and teachers must stand.",
+      ],
+    },
+    {
+      title: "The problem the leaflet identifies",
+      body: [
+        "The Aletheia Libraries 1 leaflet warns that believers can remain unskilled in the word of righteousness even when they possess Scripture. Hebrews calls that condition ἄπειρος (apeiros): inexperienced or unskilled.",
+        "Such a person remains νήπιος (nēpios): a babe, immature in hearing and unable to handle strong meat. Foundation School exists to answer that condition with Scripture, reason, written labour, and tested doctrine.",
+      ],
+    },
+    {
+      title: "What the year teaches",
+      body: [
+        "The school teaches the six principles named in Hebrews 6:1-2: repentance from dead works, faith toward God, the doctrine of baptisms, laying on of hands, resurrection of the dead, and eternal judgment.",
+        "These are not disconnected topics. They are the foundation by which a student learns to hear, distinguish, reason, write, practice, and teach without replacing Scripture with slogans.",
+      ],
+    },
+    {
+      title: "How the student labours",
+      body: [
+        "The leaflet uses σπουδάζω (spoudazō): diligence, earnest effort, labour, and study. Foundation School turns that charge into a weekly discipline of reading, word drill, Scripture writing, distinctions, and written responses.",
+        "The Walk and The Intensive follow the same curriculum. The Intensive adds more labour; it does not create another doctrine or a second school.",
+      ],
+    },
+  ],
+  terms: [
+    {
+      term: "γραφή",
+      transliteration: "graphē",
+      meaning: "Holy Writ: the written authority by which truth is known and tested.",
+    },
+    {
+      term: "λόγια",
+      transliteration: "logia",
+      meaning: "Oracles: the sayings of God entrusted to be taught and obeyed.",
+    },
+    {
+      term: "ἄπειρος",
+      transliteration: "apeiros",
+      meaning: "Unskilled or inexperienced in the word of righteousness.",
+    },
+    {
+      term: "νήπιος",
+      transliteration: "nēpios",
+      meaning: "A babe: immature, still needing milk when maturity is required.",
+    },
+    {
+      term: "σπουδάζω",
+      transliteration: "spoudazō",
+      meaning: "Diligent effort: labour, study, and earnest attention to the Word.",
+    },
+  ],
+  outcomes: [
+    "Students know why Scripture is the court for truth.",
+    "Students can explain each first principle from its governing texts.",
+    "Students can identify the error each lesson refuses.",
+    "Students practice doctrine through written labour, not passive consumption.",
+    "Students move from milk toward maturity without inventing a seventh foundation.",
+  ],
+} as const;
+
 function course(
   id: (typeof principleIds)[number],
   title: string,
@@ -71,7 +140,7 @@ export const foundationSchools: School[] = [
     title: "Foundation School",
     subtitle: "Principles of the Doctrine of Christ",
     description:
-      "Hebrews 5:12–6:3. The first principles of the oracles of God: from milk to meat, from babe to teacher. One curriculum. Two ways to walk the year. Enter through One Source of Truth — The Doctrine of the Graphē.",
+      "A 52-week school of first principles from Hebrews 5:12-6:3. Begin with the graphē, then walk the six foundations from milk toward maturity.",
     coverTone: "ink",
     status: "published",
     courseIds: [oneSourceCourse.id, ...principleIds],
@@ -89,7 +158,7 @@ export const foundationPrograms: Program[] = [
     title: "The Walk",
     subtitle: "The three-hour walk of the year.",
     description:
-      "The ordinary cadence of Foundation School: about three hours each week, fifty-two weeks. Grants One Source of Truth (Doctrine of the Graphē), its Word-drill course, the six first principles in order, and the textbook. Same teaching as The Intensive — a different labour. Does not grant the companion library.",
+      "The ordinary cadence of Foundation School: about three hours each week for fifty-two weeks. The Walk begins with the graphē, then carries the six first principles in order with the textbook. Same doctrine as The Intensive; lighter weekly labour.",
     kind: "year",
     durationWeeks: 52,
     hoursPerWeek: 3,
@@ -105,7 +174,7 @@ export const foundationPrograms: Program[] = [
     title: "The Intensive",
     subtitle: "The same walk. About eight hours a week.",
     description:
-      "The same fifty-two weeks at about eight hours each week. Grants One Source of Truth, its Word-drill course, the six first principles, and the textbook. Not a second syllabus — a fuller load on the same walk. Does not grant the companion library.",
+      "The same fifty-two-week order at about eight hours each week. The Intensive begins with the graphē, then carries the same six first principles and textbook with fuller writing, drill, and examination labour.",
     kind: "intensive",
     durationWeeks: 52,
     hoursPerWeek: 8,

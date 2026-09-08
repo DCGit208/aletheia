@@ -18,7 +18,7 @@ export const oneSourceBook: Book = {
   title: oneSourceBookTitle,
   subtitle: `${oneSourceBookSubtitle} · ${oneSourceBookTag}`,
   description:
-    "Before Christianity can speak authoritatively about what man should believe, how he should live, how he should grow, or how he should hear from God, it must establish the authority by which those claims are known. That authority is the Graphē — Holy Writ: one written source, and the premiere convention for hearing from God and for spiritual growth.",
+    "Before Christianity can speak authoritatively about what man should believe, how he should live, how he should grow, or how he should hear from God, it must establish the authority by which those claims are known. That authority is the Graphē — Holy Writ: one written source, and the primary authority for hearing from God and for spiritual growth.",
   authors: [achu],
   contributors: [],
   publisher: "Aletheia Publications",
@@ -88,7 +88,7 @@ export const oneSourceCourse: Course = {
   title: "One Source of Truth",
   subtitle: "The Doctrine of the Graphē · Word drill course",
   description:
-    "Sixteen Word-drill lessons that labour One Source of Truth: the Graphē as premiere convention, Hebrews 5 diagnosis, apeiros and nēpios, aridity and tergiversation, spoudazō, knowledge as perception–learning–reasoning, and the Word drill method. The course is not the convention; Holy Writ is.",
+    "Sixteen Word-drill lessons on γραφή (graphē), Holy Writ as the written authority for truth. The course opens Hebrews 5: ἄπειρος (apeiros), the unskilled; νήπιος (nēpios), the babe; and σπουδάζω (spoudazō), diligent labour in the Word. The course serves the graphē; it does not replace it.",
   instructor: achu,
   category: "Foundation",
   difficulty: "introductory",

@@ -29,28 +29,28 @@ export const grapheModules: CourseModule[] = [
     courseId: ONE_SOURCE_COURSE_ID,
     number: 1,
     title: "Parts I–II — Writ and experience",
-    description: "Graphē, Holy Writ, imprimatur, naturalistic vs ersatz. Book chs. 1–6.",
+    description: "γραφή (graphē), Holy Writ, written authority, and true experience under Scripture. Book chs. 1–6.",
   },
   {
     id: "mod-graphe-oracles-hearing",
     courseId: ONE_SOURCE_COURSE_ID,
     number: 2,
     title: "Parts III–IV — Oracles and hearing",
-    description: "Oracles, first principles → maturity, hearing vs reading. Book chs. 7–10.",
+    description: "λόγια (logia), the oracles of God; first principles, maturity, hearing, and reading. Book chs. 7–10.",
   },
   {
     id: "mod-graphe-diagnosis",
     courseId: ONE_SOURCE_COURSE_ID,
     number: 3,
     title: "Part V — Hebrews 5:11–14",
-    description: "Ought, again, milk, strong meat, exercised senses. Book chs. 11–14.",
+    description: "Hebrews 5: ought to be teachers, milk, strong meat, and senses exercised by use. Book chs. 11–14.",
   },
   {
     id: "mod-graphe-babe-reason",
     courseId: ONE_SOURCE_COURSE_ID,
     number: 4,
-    title: "Parts VI–VIII — Apeiros, nēpios, reasonability",
-    description: "Unskill, two marks of babes, sound judgment, the warning chain. Book chs. 15–20.",
+    title: "Parts VI–VIII — Unskill, babes, and sound judgment",
+    description: "ἄπειρος (apeiros), the unskilled; νήπιος (nēpios), the babe; and the need for sound judgment. Book chs. 15–20.",
   },
   {
     id: "mod-graphe-labour",
@@ -58,7 +58,7 @@ export const grapheModules: CourseModule[] = [
     number: 5,
     title: "Parts IX–XII — Labour, knowledge, Word drill",
     description:
-      "Aridity and tergiversation; scholarly impetus and spoudazō; knowledge chain; Word drill method. Book chs. 21–32.",
+      "σπουδάζω (spoudazō), diligent labour; knowledge through perception, learning, reasoning, and Word drill. Book chs. 21–32.",
   },
 ];
 
@@ -79,19 +79,19 @@ Word drill
 1. Define graphē without inventing a theory of inspiration.
 2. Stack the names: Holy Writ · Bible · Scripture · written Word.
 3. Write why this book is not Holy Writ.
-4. Affirm: the graphē is the premiere convention; this course is not.
+4. Affirm: the graphē is the primary authority; this course is not.
 
 Assessment
-Fail if the page treats the book or course as the premiere convention.`,
+Fail if the page treats the book or course as the primary authority.`,
   ),
   lesson(
     "les-graphe-02",
     "mod-graphe-writ",
     2,
-    "Imprimatur — persons to nations",
+    "Holy Writ carries authority over persons and nations",
     75,
     `Central proposition
-Holy Writ carries unchallenged-unquestionable authority — imprimatur — over persons, organizations, governments, and nations.
+Holy Writ carries imprimatur: unchallenged and unquestionable authority over persons, organizations, governments, and nations.
 
 Read
 One Source of Truth, Chapter 3. John 10:34-36.
@@ -99,7 +99,7 @@ One Source of Truth, Chapter 3. John 10:34-36.
 Word drill
 1. Quote John 10:34-36 in full.
 2. Name the charge the Lord answered and the writing He cited.
-3. Define imprimatur as the source uses it.
+3. Define imprimatur as unchallenged authority carried by Holy Writ.
 4. Write four lines: person · organization · government · nation under the writing.
 
 Assessment
@@ -109,22 +109,22 @@ No political program invented; no exemption for schools or sincerity.`,
     "les-graphe-03",
     "mod-graphe-writ",
     3,
-    "Naturalistic vs ersatz analogical religiousisms",
+    "True experience under Scripture",
     90,
     `Central proposition
-Naturalistic Christ-ian experience conforms to the writing. Ersatz analogical (nonliteral) religiousisms recruit the writing to justify a likeness.
+True Christ-ian experience conforms to the writing. Religious substitutes imitate the language of faith while refusing the authority of Scripture.
 
 Read
 One Source of Truth, Chapters 4–6.
 
 Word drill
-1. Define naturalistic exactly as the source does.
-2. Define ersatz · analogical · nonliteral · religiousisms.
+1. Define true Christ-ian experience as life that follows Christ and conforms to Scripture.
+2. Explain the error: a religious substitute borrows Scripture words while refusing Scripture authority.
 3. Answer: Does the experience conform to the writing, or is the writing recruited to justify the experience?
 4. Teach “the scripture cannot be broken” as authority reasoning, not a motto.
 
 Assessment
-Preserve unusual terms. No softening into “bad religion.”`,
+Explain the terms clearly. Do not reduce the issue to vague “bad religion.”`,
   ),
   lesson(
     "les-graphe-04",
@@ -133,7 +133,7 @@ Preserve unusual terms. No softening into “bad religion.”`,
     "Oracles, first principles, maturity",
     75,
     `Central proposition
-This book is a straight issue on the cornerstone — first principles of the Oracles of God — and the path first principles → maturity. It is not a seventh doctrine.
+This book gives focused teaching on the cornerstone: the first principles of the λόγια (logia), the oracles of God, and the path from first principles to maturity. It is not a seventh doctrine.
 
 Read
 One Source of Truth, Chapters 7–8. Hebrews 5:12; 6:1.
@@ -141,7 +141,7 @@ One Source of Truth, Chapters 7–8. Hebrews 5:12; 6:1.
 Word drill
 1. Name the six first principles in Hebrews order.
 2. Explain “leaving” without abandoning.
-3. Distinguish skip vs relay vs go on.
+3. Distinguish skipping the foundation, laying it again, and going on to maturity.
 4. Affirm in one sentence: this book is not a seventh first principle.
 
 Assessment
@@ -154,13 +154,13 @@ Fail if a seventh principle is invented.`,
     "Hearing from God vs reading words",
     90,
     `Central proposition
-The graphē is the premiere convention for hearing from God and spiritual growth. Possessing Scripture is not the same as hearing it.
+The γραφή (graphē) is the primary authority for hearing from God and for spiritual growth. Possessing Scripture is not the same as hearing it.
 
 Read
 One Source of Truth, Chapters 9–10. Hebrews 5:11.
 
 Word drill
-1. Write the premiere-convention sentence without naming book/course/teacher as the convention.
+1. Write the primary-authority sentence without naming book, course, or teacher as the authority.
 2. Distinguish seeing / reading / understanding / hearing / knowing / reasoning.
 3. Show how Hebrews can diagnose dull hearing among Bible-holders.
 4. Name one way you have possessed Scripture without hearing it.
@@ -172,22 +172,22 @@ No slogan about “heart hearing” that skips the text.`,
     "les-graphe-06",
     "mod-graphe-diagnosis",
     6,
-    "Ought · again · become",
+    "When students ought to be teachers",
     90,
     `Central proposition
-Time creates obligation. Need of milk after that time is recession. “Again” means the beginning was not kept.
+Hebrews 5 teaches that time creates responsibility. When students still need milk after they ought to be teachers, the foundation has not been kept.
 
 Read
 One Source of Truth, Chapters 11–12. Hebrews 5:11-12.
 
 Word drill
 1. Quote Hebrews 5:11-12 by hand.
-2. Reason ought · time · teachers.
-3. Reason again · become.
-4. Refuse any soft paraphrase that turns indictment into compliment.
+2. Explain ought, time, and teachers from Hebrews 5:12.
+3. Explain why “again” means the beginning was not kept.
+4. Refuse any paraphrase that turns the warning into a compliment.
 
 Assessment
-Severity must stand.`,
+The warning must remain clear.`,
   ),
   lesson(
     "les-graphe-07",
@@ -196,7 +196,7 @@ Severity must stand.`,
     "Milk, strong meat, exercised senses",
     90,
     `Central proposition
-Milk may be kindness or indictment. Strong meat is the same graphē taken by senses exercised by reason of use to discern good and evil.
+Milk may be kindness for a new student or indictment for one who should already be mature. Strong meat is the same γραφή (graphē) handled by senses trained through use to discern good and evil.
 
 Read
 One Source of Truth, Chapters 13–14. Hebrews 5:13-14.
@@ -214,19 +214,19 @@ No “different Bible” for strong meat.`,
     "les-graphe-08",
     "mod-graphe-babe-reason",
     8,
-    "Apeiros and the word of righteousness",
+    "ἄπειρος (apeiros): unskilled in the word of righteousness",
     90,
     `Central proposition
-Apeiros is diagnostic: inexperienced / ignorant / unskilful in the word of righteousness — not in crowding a room.
+ἄπειρος (apeiros) is diagnostic: inexperienced, ignorant, or unskilled in the word of righteousness. It is not measured by crowd size or religious activity.
 
 Read
 One Source of Truth, Chapters 15–16. Hebrews 5:13.
 
 Word drill
-1. Define apeiros; name what it is not.
+1. Define ἄπειρος (apeiros); name what it is not.
 2. Unskilled in what? Answer from the verse.
 3. Distinguish access / memory / quotation from skill.
-4. Soft copy or hard copy without labour still leaves apeiros.
+4. A digital Bible or printed Bible without labour still leaves a student ἄπειρος (apeiros).
 
 Assessment
 Pass only if “word of righteousness” stays attached to Hebrews 5.`,
@@ -235,16 +235,16 @@ Pass only if “word of righteousness” stays attached to Hebrews 5.`,
     "les-graphe-09",
     "mod-graphe-babe-reason",
     9,
-    "Nēpios — two marks only",
+    "νήπιος (nēpios): the babe and the two marks",
     90,
     `Central proposition
-Nēpios is diagnosis for persons and organizations. Two marks only: dull of hearing; unskilled in the Word (basis for salvation).
+νήπιος (nēpios) diagnoses immaturity in persons and organizations. The two marks are dull hearing and unskillfulness in the Word, the basis for salvation.
 
 Read
 One Source of Truth, Chapters 17–18.
 
 Word drill
-1. Define nēpios without affectionate softening.
+1. Define νήπιος (nēpios) without turning the warning into affection.
 2. List the two marks with verses — refuse a third as if the text listed it.
 3. Apply both marks to a person-pattern and an organization-pattern without naming a living target.
 4. Connect productive living / control / godliness to Word skill — not self-help.
@@ -256,64 +256,64 @@ Fail if “babe” is treated as endearment or a third mark is invented as if th
     "les-graphe-10",
     "mod-graphe-babe-reason",
     10,
-    "Reasonability and the warning chain",
+    "Sound judgment under Scripture",
     90,
     `Central proposition
-Absence of reasonability + unskillfulness → aridity → tergiversation → damnable accepted heresies called doctrines. The graphē remains premiere convention; this course remains the gate.
+When sound judgment is absent and Scripture remains unhandled, dryness and doctrinal turning aside follow. The γραφή (graphē) remains the primary authority, and this course remains the gate into the six principles.
 
 Read
 One Source of Truth, Chapters 19–20. John 8:31-36.
 
 Word drill
-1. Define reasonability with the Word as master.
-2. Write the warning chain without softening — aridity and tergiversation named; labour chapters open next.
+1. Define sound judgment with the Word as master.
+2. Write the warning clearly: unskillfulness can produce dryness and doctrinal turning aside; the labour chapters open next.
 3. Keep John 8:32 inside 8:31-36.
-4. One-page bridge: premiere convention; two marks of babes; why sound judgment fails without Word labour.
+4. One-page bridge: primary authority; two marks of babes; why sound judgment fails without Word labour.
 
 Assessment
-Bridge defense required. Soft “different interpretations” language fails.`,
+Bridge defense required. Vague “different interpretations” language is not enough.`,
   ),
   lesson(
     "les-graphe-11",
     "mod-graphe-labour",
     11,
-    "Aridity and tergiversation",
+    "Dryness and doctrinal turning aside",
     90,
     `Central proposition
-Aridity and tergiversation follow when reasonability fails. They attack the premiere convention without always denying it aloud.
+Dryness and doctrinal turning aside follow when sound judgment fails. They attack the primary authority without always denying it aloud.
 
 Read
 One Source of Truth, Chapters 21–22.
 
 Word drill
-1. Define aridity exactly as the book uses it.
-2. Define tergiversation; refuse a soft synonym that erases desertion.
+1. Define aridity as spiritual and doctrinal dryness.
+2. Define tergiversation as turning aside or shifting allegiance; do not erase the danger.
 3. Show how a Bible-holder can affirm Scripture and still go dry or turn aside.
-4. Write the warning chain from unskillfulness through aridity and tergiversation without softening.
+4. Write the warning chain from unskillfulness through dryness and doctrinal turning aside.
 
 Assessment
-Severity must stand. No sentimental “dry season” that excuses tergiversation.`,
+The warning must remain clear. No sentimental “dry season” that excuses tergiversation.`,
   ),
   lesson(
     "les-graphe-12",
     "mod-graphe-labour",
     12,
-    "Scholarly impetus and spoudazō",
+    "σπουδάζω (spoudazō): diligent labour in the Word",
     90,
     `Central proposition
-Scripture itself demands scholarly impetus. Spoudazō (2 Timothy 2:15) names the labour of an approved workman who rightly divides the word of truth.
+Scripture itself demands serious study. σπουδάζω (spoudazō) in 2 Timothy 2:15 names the diligent labour of an approved workman who rightly divides the word of truth.
 
 Read
 One Source of Truth, Chapters 23–25. 2 Timothy 2:15.
 
 Word drill
 1. Quote 2 Timothy 2:15 by hand from the KJV.
-2. Define spoudazō as the book uses it — not mere busyness.
+2. Define σπουδάζω (spoudazō) as diligent labour in the Word, not mere busyness.
 3. What is an approved workman approved for?
-4. Distinguish soft possession of Scripture from hard labour under the writing.
+4. Distinguish passive possession of Scripture from diligent labour under the writing.
 
 Assessment
-Fail if spoudazō is reduced to “try harder” without the word of truth.`,
+Fail if σπουδάζω (spoudazō) is reduced to “try harder” without the word of truth.`,
   ),
   lesson(
     "les-graphe-13",
@@ -322,7 +322,7 @@ Fail if spoudazō is reduced to “try harder” without the word of truth.`,
     "Knowledge — perception, learning, reasoning",
     105,
     `Central proposition
-Knowledge is not quotation alone. It moves through perception, learning, and reasoning under the graphē, and the Word must be exercised.
+Knowledge is not quotation alone. It moves through perception, learning, and reasoning under the γραφή (graphē), and the Word must be exercised.
 
 Read
 One Source of Truth, Chapters 26–30.
@@ -343,7 +343,7 @@ Pass only if the chain stays under Holy Writ — not psychology as rival court.`
     "From quotation to knowledge",
     75,
     `Central proposition
-Quotation is not yet knowledge. The labour is to move from citing the writing to knowing it under the premiere convention.
+Quotation is not yet knowledge. The labour is to move from citing the writing to knowing it under the primary authority of Scripture.
 
 Read
 One Source of Truth, Chapter 31.
@@ -373,7 +373,7 @@ Word drill
 1. State the purpose of the Word drill method in one sentence.
 2. Why must the fourteen-step list not be treated as Holy Writ?
 3. Apply three steps of the method to Hebrews 6:1–2 and write what you find.
-4. Affirm: the graphē remains premiere convention; the method is subordinate labour.
+4. Affirm: the graphē remains the primary authority; the method is subordinate labour.
 
 Assessment
 Fail if the fourteen steps are treated as Holy Writ.`,
@@ -385,18 +385,18 @@ Fail if the fourteen steps are treated as Holy Writ.`,
     "Capstone — Gate and labour",
     90,
     `Central proposition
-The Doctrine of the Graphē is the methodological gate into the six first principles — not a seventh doctrine. Labour under the writing prepares the student for Repentance and the rest.
+The Doctrine of the Graphē is the gate into the six first principles, not a seventh doctrine. Labour under the writing prepares the student for Repentance and the rest.
 
 Read
 Review Parts I–XII thesis lines. Especially Chapters 7–8, 18, 20–22, 24, 26, 32.
 
 Word drill
 1. Restate the Doctrine of the Graphē without making it a seventh first principle.
-2. How do aridity and tergiversation threaten students who already affirm Scripture?
-3. What will you carry from spoudazō and the Word drill into Doctrine of Repentance?
-4. Final defense (one page): premiere convention; hierarchy of authority; gate not seventh doctrine.
+2. How do dryness and doctrinal turning aside threaten students who already affirm Scripture?
+3. What will you carry from σπουδάζω (spoudazō) and the Word drill into Repentance from Dead Works?
+4. Final defense (one page): primary authority; hierarchy of authority; gate not seventh doctrine.
 
 Assessment
-Final written defense required. Soft “different interpretations” language fails.`,
+Final written defense required. Vague “different interpretations” language is not enough.`,
   ),
 ];

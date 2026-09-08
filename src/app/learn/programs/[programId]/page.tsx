@@ -30,6 +30,7 @@ export default function ProgramPage() {
   const currentIndex = enrolment ? currentUnitIndex(enrolment.startedAt, program.unitWeeks) : 0;
   const week = enrolment ? weekInYear(enrolment.startedAt, program.durationWeeks) : null;
   const price = product ? `$${(product.priceCents / 100).toFixed(0)}` : null;
+  const principleCount = school.id === "school-foundation" ? Math.max(school.courseIds.length - 1, 0) : school.courseIds.length;
 
   return (
     <article>
@@ -38,8 +39,7 @@ export default function ProgramPage() {
       <p className="mt-2 text-muted-foreground">{program.subtitle}</p>
       <p className="mt-4 leading-relaxed">{program.description}</p>
       <p className="mt-4 text-sm text-muted-foreground">
-        {program.durationWeeks} weeks · {program.hoursPerWeek} hours each week · {school.courseIds.length}{" "}
-        principles
+        {program.durationWeeks} weeks · {program.hoursPerWeek} hours each week · {principleCount} principles
         {price ? ` · ${price}` : null}
       </p>
       {week ? (

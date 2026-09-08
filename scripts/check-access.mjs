@@ -350,4 +350,26 @@ for (const pattern of forbiddenJudgmentCopy) {
   assert.doesNotMatch(judgmentCopy, pattern, `Course 6 still contains opaque student copy: ${pattern}`);
 }
 
+const foundationIntroCopy = [
+  "../src/lib/data/foundation-school.ts",
+  "../src/lib/data/one-source-of-truth.ts",
+  "../src/lib/content/course-doctrine-of-the-graphe.ts",
+]
+  .map((file) => readFileSync(new URL(file, import.meta.url), "utf8"))
+  .join("\n");
+const forbiddenFoundationIntroCopy = [
+  /Christian truth/i,
+  /premiere convention/i,
+  /Naturalistic vs ersatz/i,
+  /Ersatz analogical/i,
+  /scholarly impetus/i,
+  /Aridity and tergiversation/i,
+  /chronology map/i,
+  /v1 spine/i,
+  /compressed manuscript/i,
+];
+for (const pattern of forbiddenFoundationIntroCopy) {
+  assert.doesNotMatch(foundationIntroCopy, pattern, `Foundation School introduction exposes opaque copy: ${pattern}`);
+}
+
 console.log("access checks passed");
