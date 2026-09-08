@@ -62,6 +62,45 @@ describe("entitlements", () => {
     );
   });
 
+  it("lets publication reviewers read entitled books without a purchase grant", () => {
+    assert.equal(
+      canAccessContent({
+        accessLevel: "entitled",
+        preview: false,
+        entitlements: [],
+        contentKind: "book",
+        contentId: "book-doctrine-of-man",
+        user: { email: "r.coachachu@btheducationgroup.org", role: "member" },
+      }),
+      true,
+    );
+    assert.equal(
+      canAccessContent({
+        accessLevel: "entitled",
+        preview: false,
+        entitlements: [],
+        contentKind: "course",
+        contentId: "course-fs-repentance",
+        user: { email: "r.coachachu@btheducationgroup.org", role: "member" },
+      }),
+      false,
+    );
+  });
+
+  it("lets administrators review all entitled publications", () => {
+    assert.equal(
+      canAccessContent({
+        accessLevel: "entitled",
+        preview: false,
+        entitlements: [],
+        contentKind: "journal",
+        contentId: "journal-aletheia",
+        user: { email: "admin@example.com", role: "administrator" },
+      }),
+      true,
+    );
+  });
+
   it("grants only the Maker Bible book from its product", () => {
     assert.deepEqual(
       grantTargetsForProduct({

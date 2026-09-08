@@ -32,6 +32,7 @@ export function BookDetail({ book, context }: { book: Book; context: "learn" | "
     entitlements,
     contentKind: "book",
     contentId: book.id,
+    user,
   });
 
   return (

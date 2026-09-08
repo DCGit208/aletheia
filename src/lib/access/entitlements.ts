@@ -1,4 +1,12 @@
-import type { AccessLevel, Entitlement, EntitlementSource, Product } from "@/lib/data/types";
+import type { AccessLevel, Entitlement, EntitlementSource, Product, UserRole } from "@/lib/data/types";
+
+const PUBLICATION_REVIEWER_EMAILS = ["r.coachachu@btheducationgroup.org"] as const;
+const PUBLICATION_CONTENT_KINDS = ["book", "journal", "article"] as const;
+
+type AccessUser = {
+  email?: string | null;
+  role?: UserRole | null;
+};
 
 export function canAccessContent(options: {
   accessLevel: AccessLevel;
@@ -6,8 +14,10 @@ export function canAccessContent(options: {
   entitlements: Entitlement[];
   contentKind: Entitlement["contentKind"];
   contentId: string;
+  user?: AccessUser | null;
 }): boolean {
   if (options.accessLevel === "public" || options.accessLevel === "free") return true;
+  if (canReviewPublication(options.user, options.contentKind)) return true;
   if (options.preview) return true;
   if (options.accessLevel === "private") {
     return options.entitlements.some(
@@ -17,6 +27,13 @@ export function canAccessContent(options: {
   return options.entitlements.some(
     (item) => item.contentKind === options.contentKind && item.contentId === options.contentId,
   );
+}
+
+export function canReviewPublication(user: AccessUser | null | undefined, contentKind: Entitlement["contentKind"]): boolean {
+  if (!PUBLICATION_CONTENT_KINDS.includes(contentKind as (typeof PUBLICATION_CONTENT_KINDS)[number])) return false;
+  if (user?.role === "administrator") return true;
+  const email = user?.email?.trim().toLowerCase();
+  return Boolean(email && PUBLICATION_REVIEWER_EMAILS.includes(email as (typeof PUBLICATION_REVIEWER_EMAILS)[number]));
 }
 
 export function holdsEntitlement(

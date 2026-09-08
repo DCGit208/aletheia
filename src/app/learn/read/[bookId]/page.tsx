@@ -7,6 +7,7 @@ import { DeniedState, EmptyState } from "@/components/content/query-state";
 import { buttonVariants } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet";
 import { canAccessContent } from "@/lib/access/entitlements";
+import { useAuth } from "@/lib/auth/provider";
 import { getBook, listChapters } from "@/lib/data/repository";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
@@ -18,6 +19,7 @@ const fieldClass =
 export default function ReaderPage() {
   const { bookId } = useParams<{ bookId: string }>();
   const { t } = useI18n();
+  const { user } = useAuth();
   const { entitlements, progress, setReadingProgress } = useUserLibrary();
   const book = getBook(bookId);
   const chapters = listChapters(bookId);
@@ -37,6 +39,7 @@ export default function ReaderPage() {
         entitlements,
         contentKind: "book",
         contentId: book.id,
+        user,
       })
     : false;
 

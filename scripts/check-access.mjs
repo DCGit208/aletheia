@@ -11,8 +11,15 @@ function hasPermission(role, permission) {
   return permissions[permission].includes(role);
 }
 
-function canAccessContent({ accessLevel, preview, entitlements, contentKind, contentId }) {
+function canReviewPublication(user, contentKind) {
+  if (!["book", "journal", "article"].includes(contentKind)) return false;
+  if (user?.role === "administrator") return true;
+  return user?.email?.trim().toLowerCase() === "r.coachachu@btheducationgroup.org";
+}
+
+function canAccessContent({ accessLevel, preview, entitlements, contentKind, contentId, user }) {
   if (accessLevel === "public" || accessLevel === "free") return true;
+  if (canReviewPublication(user, contentKind)) return true;
   if (preview) return true;
   return entitlements.some((item) => item.contentKind === contentKind && item.contentId === contentId);
 }
@@ -27,6 +34,39 @@ assert.equal(
     entitlements: [],
     contentKind: "book",
     contentId: "book-doctrine-of-man",
+  }),
+  false,
+);
+assert.equal(
+  canAccessContent({
+    accessLevel: "entitled",
+    preview: false,
+    entitlements: [],
+    contentKind: "book",
+    contentId: "book-doctrine-of-man",
+    user: { email: "r.coachachu@btheducationgroup.org", role: "member" },
+  }),
+  true,
+);
+assert.equal(
+  canAccessContent({
+    accessLevel: "entitled",
+    preview: false,
+    entitlements: [],
+    contentKind: "book",
+    contentId: "book-doctrine-of-man",
+    user: { email: "any-admin@example.com", role: "administrator" },
+  }),
+  true,
+);
+assert.equal(
+  canAccessContent({
+    accessLevel: "entitled",
+    preview: false,
+    entitlements: [],
+    contentKind: "course",
+    contentId: "course-fs-repentance",
+    user: { email: "r.coachachu@btheducationgroup.org", role: "member" },
   }),
   false,
 );

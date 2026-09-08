@@ -4,12 +4,14 @@ import { ContentCard } from "@/components/content/content-card";
 import { EmptyState } from "@/components/content/query-state";
 import { PageIntro } from "@/components/content/page-intro";
 import { canAccessContent } from "@/lib/access/entitlements";
+import { useAuth } from "@/lib/auth/provider";
 import { listBooks } from "@/lib/data/repository";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
 
 export default function LibraryPage() {
   const { t } = useI18n();
+  const { user } = useAuth();
   const { entitlements } = useUserLibrary();
   const accessible = listBooks().items.filter((book) =>
     canAccessContent({
@@ -18,6 +20,7 @@ export default function LibraryPage() {
       entitlements,
       contentKind: "book",
       contentId: book.id,
+      user,
     }),
   );
 

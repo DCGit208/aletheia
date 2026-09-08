@@ -4,7 +4,7 @@ import Link from "next/link";
 import { Cover } from "@/components/content/cover";
 import { AddToCartButton } from "@/components/shop/add-to-cart-button";
 import { buttonVariants } from "@/components/ui/button";
-import { grantTargetsForProduct, holdsEntitlement } from "@/lib/access/entitlements";
+import { canReviewPublication, grantTargetsForProduct, holdsEntitlement } from "@/lib/access/entitlements";
 import {
   MAKER_BIBLE_CENTRAL_PROPOSITION,
   MAKER_BIBLE_COMMENTARY_THEMES,
@@ -36,6 +36,7 @@ export function MakerBiblePage() {
 
   const targets = grantTargetsForProduct(product);
   const owned =
+    canReviewPublication(user, "book") ||
     targets.length > 0 &&
     targets.every((target) => holdsEntitlement(entitlements, target.contentKind, target.contentId));
 
