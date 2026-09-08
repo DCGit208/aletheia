@@ -33,7 +33,7 @@ export const oneSourceChapters: BookChapter[] = [
     title: "What Is the Graphē?",
     body: `Before Christianity can speak authoritatively about what man should believe, how man should live, how man should grow, or how man should hear from God, it must establish the authority by which those claims are known. That authority is not tradition. It is not culture. It is not an institution, a consensus, an experience, or a private opinion. It is the Graphē — Holy Writ: the Bible, Scripture, the written Word.
 
-This is the question of the book. When claims of truth conflict, what is the final court of appeal? The answer this volume will establish, examine, and follow to its consequences is simple and severe: there is one authoritative written source by which Christian truth is to be known, tested, reasoned through, taught, discerned, and lived. That source is the graphē.
+This is the question of the book. When claims of truth conflict, what is the final court of appeal? The answer this volume will establish, examine, and follow to its consequences is simple and severe: there is one authoritative written source by which truth is to be known, tested, reasoned through, taught, discerned, and lived. That source is the graphē.
 
 I. The term
 
@@ -360,14 +360,14 @@ IV. What this chapter has established
 
 Antiquity does not authenticate doctrine. Age-old organizations ostensibly Christianized can become arid, can turn from what was written, and can accept damnable heresies under the name of doctrine. Tradition may preserve; it may not judge the graphē. The writing remains the court.
 
-Part II has opened the crisis: who has the final word; when the interpreter becomes the court; the kinds of court men use; and the old house that calls its tradition truth. Part III will state the thesis in full. There is one authoritative written source by which Christian truth is to be known, examined, established, taught, and lived: the graphē — Holy Writ.`,
+Part II has opened the crisis: who has the final word; when the interpreter becomes the court; the kinds of court men use; and the old house that calls its tradition truth. Part III will state the thesis in full. There is one authoritative written source by which truth is to be known, examined, established, taught, and lived: the graphē — Holy Writ.`,
   },
   {
     id: "ch-ost-8",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 8,
     title: "One Source of Truth",
-    body: `There is one authoritative written source by which Christian truth is to be known, examined, established, taught, discerned, and lived: the graphē — Holy Writ.
+    body: `There is one authoritative written source by which truth is to be known, examined, established, taught, discerned, and lived: the graphē — Holy Writ.
 
 That is the thesis of this book. Part I named the source, marked its authority, and seated experience under the writing. Part II opened the crisis: other courts refuse the seat. This chapter states what remains when those courts have been tested. The Bible is not one source among several. It is not one perspective among many. It is not a voice that becomes true when an institution has finished interpreting it. The graphē is the standard by which claims to truth are tested.
 
@@ -1936,7 +1936,7 @@ Hearing through the writing, labour under the writing, and going on from the fou
     bookId: ONE_SOURCE_BOOK_ID,
     number: 43,
     title: "One Source of Truth",
-    body: `There is one authoritative written source by which Christian truth is to be known, examined, established, taught, discerned, and lived: the graphē — Holy Writ.
+    body: `There is one authoritative written source by which truth is to be known, examined, established, taught, discerned, and lived: the graphē — Holy Writ.
 
 That is the thesis this volume set at the opening, tested through every court it named, and now repeats without a safer sentence. The names remain stacked so the claim cannot shrink: graphē · Holy Writ · Bible · Scripture · the written Word. If “Bible” is allowed to mean a product, the source has already been reduced. If “Scripture” is allowed to mean a mood, the source has already been replaced. If “Word” is allowed to mean whatever a speaker felt, the court has already moved.
 

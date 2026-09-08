@@ -70,7 +70,7 @@ export const grapheLessons: Lesson[] = [
     "Graphē and Holy Writ",
     75,
     `Central proposition
-There is one authoritative written source for Christian truth: the graphē — Holy Writ.
+There is one authoritative written source for truth: the graphē — Holy Writ.
 
 Read
 One Source of Truth, Chapters 1–2.

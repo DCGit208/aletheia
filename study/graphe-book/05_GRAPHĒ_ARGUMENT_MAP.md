@@ -5,7 +5,7 @@
 1. **What is the final authority for truth?**  
 2. **What happens to a person or institution when that authority is not known, handled, reasoned through, or obeyed?**
 
-Thesis: There is one authoritative written source by which Christian truth is to be known, examined, reasoned through, established, taught, discerned, and lived: the graphē — Holy Writ.
+Thesis: There is one authoritative written source by which truth is to be known, examined, reasoned through, established, taught, discerned, and lived: the graphē — Holy Writ.
 
 ## Progressive argument (17 steps — working)
 
