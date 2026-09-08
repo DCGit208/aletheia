@@ -7,6 +7,7 @@ import { EmptyState } from "@/components/content/query-state";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { holdsEntitlement } from "@/lib/access/entitlements";
 import { currentUnitIndex, weekInYear } from "@/lib/learn/pacing";
+import { foundationGateCourseId } from "@/lib/data/foundation-school";
 import { getCourse, getProduct, getProgram, getSchool } from "@/lib/data/repository";
 import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";
@@ -30,7 +31,8 @@ export default function ProgramPage() {
   const currentIndex = enrolment ? currentUnitIndex(enrolment.startedAt, program.unitWeeks) : 0;
   const week = enrolment ? weekInYear(enrolment.startedAt, program.durationWeeks) : null;
   const price = product ? `$${(product.priceCents / 100).toFixed(0)}` : null;
-  const principleCount = school.id === "school-foundation" ? Math.max(school.courseIds.length - 1, 0) : school.courseIds.length;
+  const principleCount = school.courseIds.length;
+  const gateCourse = school.id === "school-foundation" ? getCourse(foundationGateCourseId) : null;
 
   return (
     <article>
@@ -39,7 +41,7 @@ export default function ProgramPage() {
       <p className="mt-2 text-muted-foreground">{program.subtitle}</p>
       <p className="mt-4 leading-relaxed">{program.description}</p>
       <p className="mt-4 text-sm text-muted-foreground">
-        {program.durationWeeks} weeks · {program.hoursPerWeek} hours each week · {principleCount} principles
+        {program.durationWeeks} weeks · {program.hoursPerWeek} hours each week · Graphē gate + {principleCount} principles
         {price ? ` · ${price}` : null}
       </p>
       {week ? (
@@ -78,7 +80,18 @@ export default function ProgramPage() {
         </Link>
       </div>
 
-      <ol className="mt-10 overflow-hidden rounded-2xl bg-card">
+      <div className="mt-10 space-y-4">
+        {gateCourse ? (
+          <div className="rounded-2xl border border-primary/25 bg-primary/5">
+            <ListRow
+              href={`/learn/courses/${gateCourse.id}`}
+              title={`Entrance gate · ${gateCourse.title}`}
+              subtitle="Start here before Course 1. The gate establishes Holy Writ as the written authority for truth."
+              meta="First step"
+            />
+          </div>
+        ) : null}
+      <ol className="overflow-hidden rounded-2xl bg-card">
         {school.courseIds.map((id, index) => {
           const course = getCourse(id);
           if (!course) return null;
@@ -88,7 +101,7 @@ export default function ProgramPage() {
             <li key={id}>
               <ListRow
                 href={`/learn/courses/${course.id}`}
-                title={`${index + 1}. ${course.title}`}
+                title={`Course ${index + 1} of 6 · ${course.title}`}
                 subtitle={`${weeks} weeks in this program`}
                 meta={current ? "Now" : undefined}
               />
@@ -96,6 +109,7 @@ export default function ProgramPage() {
           );
         })}
       </ol>
+      </div>
     </article>
   );
 }

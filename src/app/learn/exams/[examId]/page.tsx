@@ -6,7 +6,7 @@ import { useMemo, useState } from "react";
 import { DeniedState, EmptyState } from "@/components/content/query-state";
 import { Button } from "@/components/ui/button";
 import { Textarea } from "@/components/ui/textarea";
-import { canAccessContent, holdsEntitlement } from "@/lib/access/entitlements";
+import { canAccessContent } from "@/lib/access/entitlements";
 import { getExam } from "@/lib/content/exams";
 import { getCourse } from "@/lib/data/repository";
 import { useAuth } from "@/lib/auth/provider";
@@ -34,9 +34,24 @@ export default function ExamPage() {
         entitlements,
         contentKind: "course",
         contentId: exam.courseId,
+        user,
       })
-    : holdsEntitlement(entitlements, "program", "program-foundation-year") ||
-      holdsEntitlement(entitlements, "program", "program-foundation-intensive");
+    : canAccessContent({
+        accessLevel: "entitled",
+        preview: false,
+        entitlements,
+        contentKind: "program",
+        contentId: "program-foundation-year",
+        user,
+      }) ||
+      canAccessContent({
+        accessLevel: "entitled",
+        preview: false,
+        entitlements,
+        contentKind: "program",
+        contentId: "program-foundation-intensive",
+        user,
+      });
 
   if (!allowed) {
     return (

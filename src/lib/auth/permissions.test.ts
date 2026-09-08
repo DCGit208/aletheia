@@ -87,6 +87,43 @@ describe("entitlements", () => {
     );
   });
 
+  it("lets the ddr review account open courses, programs, and publications", () => {
+    const reviewer = { email: "ddr.coachachu@btheducationgroup.org", role: "member" as const };
+    assert.equal(
+      canAccessContent({
+        accessLevel: "entitled",
+        preview: false,
+        entitlements: [],
+        contentKind: "course",
+        contentId: "course-fs-repentance",
+        user: reviewer,
+      }),
+      true,
+    );
+    assert.equal(
+      canAccessContent({
+        accessLevel: "entitled",
+        preview: false,
+        entitlements: [],
+        contentKind: "program",
+        contentId: "program-foundation-year",
+        user: reviewer,
+      }),
+      true,
+    );
+    assert.equal(
+      canAccessContent({
+        accessLevel: "entitled",
+        preview: false,
+        entitlements: [],
+        contentKind: "book",
+        contentId: "book-doctrine-of-man",
+        user: reviewer,
+      }),
+      true,
+    );
+  });
+
   it("lets administrators review all entitled publications", () => {
     assert.equal(
       canAccessContent({
@@ -98,6 +135,27 @@ describe("entitlements", () => {
         user: { email: "admin@example.com", role: "administrator" },
       }),
       true,
+    );
+  });
+
+  it("includes support books with Foundation course products", () => {
+    assert.deepEqual(
+      grantTargetsForProduct({
+        id: "product-course-repentance",
+        title: "Course 1 of 6 — Repentance from Dead Works",
+        description: "",
+        kind: "course",
+        contentId: "course-fs-repentance",
+        includedContentIds: ["course-fs-repentance", "book-principles-doctrine-christ"],
+        priceCents: 10000,
+        currency: "USD",
+        status: "published",
+        coverTone: "ink",
+      }),
+      [
+        { contentKind: "course", contentId: "course-fs-repentance" },
+        { contentKind: "book", contentId: "book-principles-doctrine-christ" },
+      ],
     );
   });
 

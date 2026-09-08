@@ -75,16 +75,21 @@ function courseOffer(
   title: string,
   description: string,
   contentId: string,
-  extras: Pick<StripeOffer, "shopGroup" | "badge" | "kicker" | "coverTone" | "coverImage"> & { priceCents?: number },
+  extras: Pick<StripeOffer, "shopGroup" | "badge" | "kicker" | "coverTone" | "coverImage"> & {
+    priceCents?: number;
+    supportGrants?: GrantTarget[];
+  },
 ): StripeOffer {
+  const grants = [{ contentKind: "course" as const, contentId }, ...(extras.supportGrants ?? [])];
   return {
     productId,
     title,
     description,
     kind: "course",
     contentId,
+    includedContentIds: grants.map((grant) => grant.contentId),
     priceCents: extras.priceCents ?? 10000,
-    grants: [{ contentKind: "course", contentId }],
+    grants,
     shopGroup: extras.shopGroup,
     badge: extras.badge,
     kicker: extras.kicker,
@@ -112,7 +117,7 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
     productId: "product-foundation-year",
     title: "Foundation School — The Walk",
     description:
-      "The year program, not a single course. Fifty-two weeks at about three hours a week. Grants One Source of Truth (Doctrine of the Graphē), its drill course, all six first-principle courses, and the textbook. Does not include Maker Bible or the companion library. $400 instead of à la carte.",
+      "The 52-week Foundation School program. Grants the Graphē gate book and course, The Principles of the Doctrine of Christ handbook, and all six complete first-principle courses. Does not include Maker Bible or the companion library. $400 instead of à la carte.",
     kind: "program",
     contentId: "program-foundation-year",
     includedContentIds: ["program-foundation-year", oneSourceBook, textbook, ...foundationCourses],
@@ -128,7 +133,7 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
     productId: "product-foundation-intensive",
     title: "Foundation School — The Intensive",
     description:
-      "The year program, not a single course. Fifty-two weeks at about eight hours a week. Same grants as The Walk: One Source of Truth, its drill course, six first-principle courses, and the textbook — a fuller load, not a second syllabus. Does not include Maker Bible or the companion library.",
+      "The same 52-week Foundation School order at about eight hours a week. Grants the Graphē gate book and course, the school handbook, and all six complete first-principle courses. Fuller labour, not a second syllabus. Does not include Maker Bible or the companion library.",
     kind: "program",
     contentId: "program-foundation-intensive",
     includedContentIds: ["program-foundation-intensive", oneSourceBook, textbook, ...foundationCourses],
@@ -143,7 +148,7 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
   "product-one-source-of-truth": bookOffer(
     "product-one-source-of-truth",
     "One Source of Truth — The Doctrine of the Graphē",
-    "A hermeneutical and epistemological foundation. Holy Writ is the premiere convention for hearing from God and for spiritual growth. One written source, the scripture that cannot be broken, and the writing above the interpreter. Included with The Walk and The Intensive.",
+    "The gate book for Foundation School. Holy Writ is the written authority for truth, hearing from God, and spiritual growth: one written source, the scripture that cannot be broken, and the writing above the interpreter. Included with The Walk and The Intensive.",
     oneSourceBook,
     10000,
     {
@@ -165,12 +170,13 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
       kicker: "Word drill · gate",
       coverTone: "earth",
       coverImage: "/covers/one-source-of-truth.png",
+      supportGrants: [{ contentKind: "book", contentId: oneSourceBook }],
     },
   ),
   "product-principles-doctrine-christ": bookOffer(
     "product-principles-doctrine-christ",
     "The Principles of the Doctrine of Christ",
-    "The Foundation School textbook. Seven chapters on the oracles and the six first principles. Included with The Walk and The Intensive.",
+    "The Foundation School handbook: a concise reference on the oracles and the six first principles. Included with The Walk, The Intensive, and single Foundation course purchases as support; it does not replace the courses.",
     textbook,
     10000,
     {
@@ -184,44 +190,80 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
   "product-course-repentance": courseOffer(
     "product-course-repentance",
     "Course 1 of 6 — Repentance from Dead Works",
-    "Seventeen lessons on metanoia: a change of mind over sin and its cause. One Foundation School course.",
+    "Seventeen complete lessons on metanoia: a change of mind over sin and its cause. Includes the Foundation School handbook as supporting reference.",
     "course-fs-repentance",
-    { shopGroup: "courses", badge: "Course 1/6", kicker: "Course · single principle", coverTone: "ink" },
+    {
+      shopGroup: "courses",
+      badge: "Course 1/6",
+      kicker: "Course + handbook",
+      coverTone: "ink",
+      supportGrants: [{ contentKind: "book", contentId: textbook }],
+    },
   ),
   "product-course-faith": courseOffer(
     "product-course-faith",
     "Course 2 of 6 — Faith Toward God",
-    "Seventeen lessons on pistis, sonship, and the heir. One Foundation School course.",
+    "Seventeen complete lessons on pistis, sonship, and the heir. Includes the Foundation School handbook as supporting reference.",
     "course-fs-faith",
-    { shopGroup: "courses", badge: "Course 2/6", kicker: "Course · single principle", coverTone: "ink" },
+    {
+      shopGroup: "courses",
+      badge: "Course 2/6",
+      kicker: "Course + handbook",
+      coverTone: "ink",
+      supportGrants: [{ contentKind: "book", contentId: textbook }],
+    },
   ),
   "product-course-baptisms": courseOffer(
     "product-course-baptisms",
     "Course 3 of 6 — The Doctrine of Baptisms",
-    "Sixteen lessons on the baptisms in Scripture. One Foundation School course.",
+    "Sixteen complete lessons on the baptisms in Scripture. Includes the Foundation School handbook as supporting reference.",
     "course-fs-baptisms",
-    { shopGroup: "courses", badge: "Course 3/6", kicker: "Course · single principle", coverTone: "ink" },
+    {
+      shopGroup: "courses",
+      badge: "Course 3/6",
+      kicker: "Course + handbook",
+      coverTone: "ink",
+      supportGrants: [{ contentKind: "book", contentId: textbook }],
+    },
   ),
   "product-course-hands": courseOffer(
     "product-course-hands",
     "Course 4 of 6 — Laying on of Hands",
-    "Twelve lessons on nine biblical occasions. One Foundation School course.",
+    "Twelve complete lessons on nine biblical occasions. Includes the Foundation School handbook as supporting reference.",
     "course-fs-hands",
-    { shopGroup: "courses", badge: "Course 4/6", kicker: "Course · single principle", coverTone: "ink" },
+    {
+      shopGroup: "courses",
+      badge: "Course 4/6",
+      kicker: "Course + handbook",
+      coverTone: "ink",
+      supportGrants: [{ contentKind: "book", contentId: textbook }],
+    },
   ),
   "product-course-resurrection": courseOffer(
     "product-course-resurrection",
     "Course 5 of 6 — Resurrection of the Dead",
-    "Eighteen lessons on two kinds and five companies. One Foundation School course.",
+    "Eighteen complete lessons on two kinds and five companies. Includes the Foundation School handbook as supporting reference.",
     "course-fs-resurrection",
-    { shopGroup: "courses", badge: "Course 5/6", kicker: "Course · single principle", coverTone: "ink" },
+    {
+      shopGroup: "courses",
+      badge: "Course 5/6",
+      kicker: "Course + handbook",
+      coverTone: "ink",
+      supportGrants: [{ contentKind: "book", contentId: textbook }],
+    },
   ),
   "product-course-judgment": courseOffer(
     "product-course-judgment",
     "Course 6 of 6 — Eternal Judgment",
-    "Fifteen lessons on eternal punishment, three deaths, and five prisons. One Foundation School course.",
+    "Fifteen complete lessons on eternal punishment, three deaths, and five prisons. Includes the Foundation School handbook as supporting reference.",
     "course-fs-judgment",
-    { shopGroup: "courses", badge: "Course 6/6", kicker: "Course · single principle", coverTone: "ink" },
+    {
+      shopGroup: "courses",
+      badge: "Course 6/6",
+      kicker: "Course + handbook",
+      coverTone: "ink",
+      supportGrants: [{ contentKind: "book", contentId: textbook }],
+    },
   ),
   "product-foundations-bundle": {
     productId: "product-foundations-bundle",

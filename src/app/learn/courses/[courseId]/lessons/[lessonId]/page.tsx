@@ -5,6 +5,7 @@ import { useParams } from "next/navigation";
 import { DeniedState, EmptyState } from "@/components/content/query-state";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { canAccessContent } from "@/lib/access/entitlements";
+import { useAuth } from "@/lib/auth/provider";
 import { getBook, getCourse, getLesson, listLessons } from "@/lib/data/repository";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
@@ -12,12 +13,16 @@ import { cn } from "@/lib/utils";
 
 const lessonSectionTitles = {
   "Central principle": "Main idea",
+  "Central proposition": "Main idea",
   "Key Scripture": "Key Scriptures",
-  Read: "Reading assignment",
+  Read: "Reference",
+  Reference: "Reference",
   Teaching: "Teaching",
   Labour: "Practice",
+  "Word drill": "Practice",
   Distinction: "What this lesson distinguishes",
   Charge: "Response",
+  Assessment: "Response",
 } as const;
 
 type LessonSectionTitle = keyof typeof lessonSectionTitles;
@@ -30,13 +35,17 @@ interface LessonSection {
 function isLessonSectionTitle(line: string): line is LessonSectionTitle | "Cluster" {
   return (
     line === "Central principle" ||
+    line === "Central proposition" ||
     line === "Key Scripture" ||
     line === "Cluster" ||
     line === "Read" ||
+    line === "Reference" ||
     line === "Teaching" ||
     line === "Labour" ||
+    line === "Word drill" ||
     line === "Distinction" ||
-    line === "Charge"
+    line === "Charge" ||
+    line === "Assessment"
   );
 }
 
@@ -105,6 +114,7 @@ function LessonBody({ body }: { body: string }) {
 export default function LessonPage() {
   const { courseId, lessonId } = useParams<{ courseId: string; lessonId: string }>();
   const { t } = useI18n();
+  const { user } = useAuth();
   const { entitlements, enrollments, completeLesson, enroll } = useUserLibrary();
   const course = getCourse(courseId);
   const lesson = getLesson(lessonId);
@@ -116,6 +126,7 @@ export default function LessonPage() {
     entitlements,
     contentKind: "course",
     contentId: course.id,
+    user,
   });
   if (!allowed) {
     return (
@@ -149,7 +160,7 @@ export default function LessonPage() {
       <LessonBody body={lesson.body} />
       {lesson.resourceIds.length ? (
         <div className="mt-8 space-y-2">
-          <p className="text-xs tracking-[0.16em] text-muted-foreground uppercase">Reading</p>
+          <p className="text-xs tracking-[0.16em] text-muted-foreground uppercase">Support reference</p>
           {lesson.resourceIds.map((id) => {
             const book = getBook(id);
             if (!book) return null;

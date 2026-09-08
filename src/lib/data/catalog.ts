@@ -887,7 +887,7 @@ The cover is published. The full study will enter this reader next.`,
     {
       id: "ann-foundation",
       title: "Foundation School is open",
-      body: "Foundation School Year 1 is written: seven textbook chapters, ninety-five lessons, a written examination per course, and the week-52 final. Enter The Walk or The Intensive. Same year. Different labour. $400.",
+      body: "Foundation School Year 1 is open: the Graphē gate, the school handbook, ninety-five lessons across six first-principle courses, a written examination per course, and the week-52 final. Enter The Walk or The Intensive. Same year. Different labour. $400.",
       publishedAt: "2026-08-28",
       status: "published",
       important: true,

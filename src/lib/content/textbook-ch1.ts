@@ -4,7 +4,7 @@ export const textbookChapter1Body = `This book is not a second Bible. Holy Scrip
 
 The cover of this volume may say Truth · Knowledge · Maturity. That line belongs to this book. The house that holds the book is Aletheia: Truth · Identity · Dominion. Do not confuse the two.
 
-The full treatment of this written authority is the standalone book One Source of Truth: The Doctrine of the Graphē. This chapter remains the school opening into the six first principles. It does not invent a seventh course. It does not replace Holy Writ as the premiere convention.
+The full treatment of this written authority is the standalone book One Source of Truth: The Doctrine of the Graphē. This chapter remains the school opening into the six first principles. It does not invent a seventh course. It does not replace Holy Writ as the written authority.
 
 A student at three hours a week must have something to sit with. An intensive student uses the same text with longer writing. The doctrine does not change with the clock.
 
@@ -64,17 +64,17 @@ Application: you will read this year with the text open. You will not treat a sl
 
 Charge: write one page. Where have you treated a likeness of the faith as if it were the graphē? Name the likeness. Name the verse you used to bless it. Then name the verse you will continue in this week, written in full, and say what it says — not what you wish it said.
 
-II. THE PREMIERE CONVENTION
+II. THE WRITTEN AUTHORITY
 
-A. The graphē is the convention
+A. The graphē is the appointed written authority
 
-The graphē — Holy Writ, the Bible, Scripture — is the premiere convention for hearing from God and for spiritual growth. Premiere: first in order, not first in fashion. Convention: the appointed way God has given for hearing and growth. Not a conference. Not a brand. Not this leaflet. Not this textbook. Not this course.
+The graphē — Holy Writ, the Bible, Scripture — is the appointed written authority for hearing from God and for spiritual growth. It is first in order because God has bound His speaking to the writing He gave. It is not a conference, not a brand, not this handbook, and not this course.
 
 Over the ages the design of God for a naturalistic Christian experience has pillowed in conformity with the unleavened sincerity and truth of that writing. If you will hear, you hear where He has spoken. If you will grow, you grow under that writing — first principles, then maturity.
 
 B. The essential cornerstone
 
-This book is a straight issue on the essential cornerstone of Christianity: the first principles of the oracles of God. It opens the foundation; it does not become the convention in the place of the graphē.
+This book opens the essential cornerstone of Christianity: the first principles of the oracles of God. It opens the foundation; it does not take the place of the graphē.
 
 Hebrews 5:12 — “For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.”
 
@@ -84,7 +84,7 @@ Oracles of God are not private impressions. They are the speaking of God already
 
 C. Two movements, not one slogan
 
-Under that convention, growth is two movements, not one slogan:
+Under the written authority, growth is two movements, not one slogan:
 
 1. First principles.
 2. Maturity — perfection.

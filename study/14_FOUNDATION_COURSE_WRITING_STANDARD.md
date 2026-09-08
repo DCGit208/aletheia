@@ -10,17 +10,41 @@ Every lesson should make the student able to:
 2. Understand the doctrine in ordinary, teachable sentences.
 3. Know which error or collapse the lesson refuses.
 4. Practice the lesson through written labour appropriate to The Walk or The Intensive.
-5. Answer the charge without needing the production map.
+5. Answer the charge without needing the production map or leaving the course for another resource before the lesson makes sense.
 
 ## Required student-facing shape
 
 - **Main idea** — one clear doctrinal sentence.
 - **Key Scriptures** — the exact passages the lesson will use.
-- **Reading assignment** — textbook or companion reading named for the student.
+- **Reference** — textbook or companion reading named as support, not as a prerequisite for understanding the lesson.
 - **Teaching** — Scripture, explanation, distinction, and application in consumable prose.
 - **Practice** — The Walk and Intensive writing work, when both tracks apply.
 - **What this lesson distinguishes** — the mistake the lesson prevents.
 - **Response** — the question or charge the student must answer.
+
+## Locked Foundation School hierarchy
+
+The student-facing hierarchy must remain clear:
+
+1. **Graphē gate:** *One Source of Truth — The Doctrine of the Graphē* establishes Holy Writ as the written authority for truth. It is the entrance to Foundation School, not one of the six first principles.
+2. **School handbook:** *The Principles of the Doctrine of Christ* is the concise Foundation School handbook/reference for the six principles. It supports the courses; it must not replace them.
+3. **Six courses:** the Hebrews 6:1-2 principles are complete guided courses. Each course must stand as a real course with Scripture, teaching, practice, and examination.
+4. **Independent doctrinal books:** the $100 doctrinal books are deeper standalone reading for users who want expanded book treatment. They are not required to complete the $400 Foundation School program.
+
+The $400 Foundation School program grants the gate, the school handbook, and the six courses. A student should know where to start and why each item exists.
+
+## Greek and source handling
+
+Greek terms in student copy must be opened in this order:
+
+1. Greek form.
+2. Transliteration.
+3. Strong's number where applicable.
+4. Verse anchor.
+5. Plain-English meaning.
+6. Doctrinal use in the lesson.
+
+Example: `σπουδάζω (spoudazō, G4704)` is the word behind "study" in 2 Timothy 2:15. It means to make effort, be earnest, be diligent, labour, and study. The approved workman does not merely possess Scripture; he labours in the word of truth.
 
 ## Forbidden in student copy
 

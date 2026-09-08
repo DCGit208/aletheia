@@ -8,6 +8,7 @@ import { Button, buttonVariants } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { canAccessContent } from "@/lib/access/entitlements";
 import { getExamForCourse } from "@/lib/content/exams";
+import { foundationGateCourseId } from "@/lib/data/foundation-school";
 import { getCourse, getProduct, getSchool, listLessons, listModules } from "@/lib/data/repository";
 import { courseProgressPercent, nextLessonForCourse, resumeCourseHref } from "@/lib/learn/continue";
 import { useAuth } from "@/lib/auth/provider";
@@ -29,6 +30,7 @@ export default function CourseDetailPage() {
   const product = course.productId ? getProduct(course.productId) : null;
   const exam = getExamForCourse(course.id);
   const foundationIndex = getSchool("school-foundation")?.courseIds.indexOf(course.id) ?? -1;
+  const foundationGate = course.id === foundationGateCourseId;
   const yearProduct = getProduct("product-foundation-year");
   const foundationCovers: Record<string, string> = {
     "course-fs-repentance": "/covers/repentance-from-dead-works-chains.png",
@@ -44,6 +46,7 @@ export default function CourseDetailPage() {
     entitlements,
     contentKind: "course",
     contentId: course.id,
+    user,
   });
   const next = nextLessonForCourse(course.id, enrollment);
   const percent = courseProgressPercent(course.id, enrollment);
@@ -55,11 +58,15 @@ export default function CourseDetailPage() {
         subtitle={course.subtitle}
         tone={course.coverTone}
         image={foundationCovers[course.id] ?? course.coverImage}
-        badge={foundationIndex >= 0 ? `${foundationIndex + 1}/6` : undefined}
+        badge={foundationGate ? "Gate" : foundationIndex >= 0 ? `${foundationIndex + 1}/6` : undefined}
       />
       <div className="pb-24 md:pb-0">
         <p className="text-[0.7rem] tracking-[0.2em] text-primary uppercase">
-          {foundationIndex >= 0 ? `Foundation School · Course ${foundationIndex + 1} of 6` : course.category}
+          {foundationGate
+            ? "Foundation School · Entrance gate"
+            : foundationIndex >= 0
+              ? `Foundation School · Course ${foundationIndex + 1} of 6`
+              : course.category}
         </p>
         <h1 className="mt-2 font-heading text-3xl tracking-wide">{course.title}</h1>
         <p className="mt-2 text-muted-foreground">{course.subtitle}</p>
@@ -106,7 +113,7 @@ export default function CourseDetailPage() {
               {t("state.buyAccess")} — ${(product.priceCents / 100).toFixed(0)}
             </Link>
           ) : null}
-          {!allowed && foundationIndex >= 0 && yearProduct ? (
+          {!allowed && (foundationIndex >= 0 || foundationGate) && yearProduct ? (
             <Link
               href={`/shop/${yearProduct.id}`}
               className={cn(buttonVariants({ variant: "ghost" }), "h-11 rounded-full px-5")}
@@ -173,7 +180,7 @@ export default function CourseDetailPage() {
               <Link href={`/shop/${product.id}`} className={cn(buttonVariants(), "h-11 rounded-full px-5")}>
                 {t("state.buyAccess")} — ${(product.priceCents / 100).toFixed(0)}
               </Link>
-              {foundationIndex >= 0 && yearProduct ? (
+              {(foundationIndex >= 0 || foundationGate) && yearProduct ? (
                 <Link
                   href={`/shop/${yearProduct.id}`}
                   className={cn(buttonVariants({ variant: "outline" }), "h-11 rounded-full px-5")}

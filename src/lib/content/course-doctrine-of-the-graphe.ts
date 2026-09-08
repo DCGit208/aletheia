@@ -29,28 +29,28 @@ export const grapheModules: CourseModule[] = [
     courseId: ONE_SOURCE_COURSE_ID,
     number: 1,
     title: "Parts I–II — Writ and experience",
-    description: "γραφή (graphē), Holy Writ, written authority, and true experience under Scripture. Book chs. 1–6.",
+    description: "γραφή (graphē, G1124): Holy Writ, written authority, and true experience under Scripture. Reference: One Source of Truth, chapters 1-6.",
   },
   {
     id: "mod-graphe-oracles-hearing",
     courseId: ONE_SOURCE_COURSE_ID,
     number: 2,
     title: "Parts III–IV — Oracles and hearing",
-    description: "λόγια (logia), the oracles of God; first principles, maturity, hearing, and reading. Book chs. 7–10.",
+    description: "λόγια (logia, G3051) in Hebrews 5:12: the oracles of God, first principles, maturity, hearing, and reading. Reference: chapters 7-10.",
   },
   {
     id: "mod-graphe-diagnosis",
     courseId: ONE_SOURCE_COURSE_ID,
     number: 3,
     title: "Part V — Hebrews 5:11–14",
-    description: "Hebrews 5: ought to be teachers, milk, strong meat, and senses exercised by use. Book chs. 11–14.",
+    description: "Hebrews 5:11-14: ought to be teachers, milk, strong meat, and senses exercised by use. Reference: chapters 11-14.",
   },
   {
     id: "mod-graphe-babe-reason",
     courseId: ONE_SOURCE_COURSE_ID,
     number: 4,
     title: "Parts VI–VIII — Unskill, babes, and sound judgment",
-    description: "ἄπειρος (apeiros), the unskilled; νήπιος (nēpios), the babe; and the need for sound judgment. Book chs. 15–20.",
+    description: "ἄπειρος (apeiros, G552) and νήπιος (nēpios, G3516) in Hebrews 5:13: unskill, babes, and sound judgment. Reference: chapters 15-20.",
   },
   {
     id: "mod-graphe-labour",
@@ -58,7 +58,7 @@ export const grapheModules: CourseModule[] = [
     number: 5,
     title: "Parts IX–XII — Labour, knowledge, Word drill",
     description:
-      "σπουδάζω (spoudazō), diligent labour; knowledge through perception, learning, reasoning, and Word drill. Book chs. 21–32.",
+      "σπουδάζω (spoudazō, G4704) in 2 Timothy 2:15: diligent labour, knowledge, rightly dividing, and Word drill. Reference: chapters 21-32.",
   },
 ];
 

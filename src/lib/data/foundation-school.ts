@@ -23,9 +23,10 @@ import type { Book, BookChapter, Course, CourseModule, Lesson, Program, School }
 
 const achu = { id: "author-achu", displayName: "Dr. Coach Achu Gustave" };
 
-const textbook = "book-principles-doctrine-christ";
+export const foundationHandbookBookId = "book-principles-doctrine-christ";
+export const foundationGateCourseId = oneSourceCourse.id;
 
-const principleIds = [
+export const foundationPrincipleCourseIds = [
   "course-fs-repentance",
   "course-fs-faith",
   "course-fs-baptisms",
@@ -36,34 +37,64 @@ const principleIds = [
 
 export const foundationSchoolIntroduction = {
   lead:
-    "Foundation School is the first house of study in Aletheia. It begins where Hebrews begins: with the first principles of the oracles of God, then trains the student to leave milk without leaving the foundation.",
+    "Foundation School is the first house of study in Aletheia. It begins with the written authority for truth, then walks the six first principles named in Hebrews 6:1-2 so the student can leave milk without leaving the foundation.",
+  scriptures: [
+    {
+      reference: "Hebrews 5:12-14",
+      text:
+        "For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat. For every one that useth milk is unskilful in the word of righteousness: for he is a babe. But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.",
+      point:
+        "The school answers the condition of possessing Scripture while remaining unskilled in the word of righteousness.",
+    },
+    {
+      reference: "Hebrews 6:1-2",
+      text:
+        "Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God, of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.",
+      point:
+        "The six courses are not invented categories. They are the named foundation from which the student must go on to maturity.",
+    },
+    {
+      reference: "2 Timothy 2:15",
+      text:
+        "Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.",
+      point:
+        "The approved workman studies, labours, and rightly handles the word of truth.",
+    },
+  ],
   sections: [
     {
-      title: "Why the school begins with the graphē",
+      title: "1. The entrance: the graphē",
       body: [
-        "Before doctrine can be tested, taught, or lived, the authority for truth must be settled. That authority is the γραφή (graphē): Holy Writ, the Bible, Scripture, the written Word.",
-        "The graphē is not one voice among many. It is the written court before which persons, organizations, governments, nations, traditions, experiences, and teachers must stand.",
+        "Before doctrine can be tested, taught, or lived, the authority for truth must be settled. That authority is the γραφή (graphē, G1124): Holy Writ, the Bible, the written Word.",
+        "The Graphē gate is therefore first. It is not counted as one of the six first principles; it establishes the court by which the six principles are read, reasoned, corrected, and obeyed.",
       ],
     },
     {
-      title: "The problem the leaflet identifies",
+      title: "2. The problem: unskilled hearing",
       body: [
-        "The Aletheia Libraries 1 leaflet warns that believers can remain unskilled in the word of righteousness even when they possess Scripture. Hebrews calls that condition ἄπειρος (apeiros): inexperienced or unskilled.",
-        "Such a person remains νήπιος (nēpios): a babe, immature in hearing and unable to handle strong meat. Foundation School exists to answer that condition with Scripture, reason, written labour, and tested doctrine.",
+        "Hebrews 5:12-14 teaches that a person may have time, religious exposure, and access to Scripture, yet still need the first principles taught again. The problem is not the absence of a Bible; it is unskilled handling of the word of righteousness.",
+        "Hebrews calls that condition ἄπειρος (apeiros, G552): without experience, unskilled. It also calls the person νήπιος (nēpios, G3516): a babe who still needs milk when strong meat is required.",
       ],
     },
     {
-      title: "What the year teaches",
+      title: "3. The foundation: six first principles",
       body: [
         "The school teaches the six principles named in Hebrews 6:1-2: repentance from dead works, faith toward God, the doctrine of baptisms, laying on of hands, resurrection of the dead, and eternal judgment.",
-        "These are not disconnected topics. They are the foundation by which a student learns to hear, distinguish, reason, write, practice, and teach without replacing Scripture with slogans.",
+        "These are not disconnected topics, slogans, or a private syllabus. They are the foundation by which a student learns to hear, distinguish, reason, write, practice, and teach under Scripture.",
       ],
     },
     {
-      title: "How the student labours",
+      title: "4. The labour: study before God",
       body: [
-        "The leaflet uses σπουδάζω (spoudazō): diligence, earnest effort, labour, and study. Foundation School turns that charge into a weekly discipline of reading, word drill, Scripture writing, distinctions, and written responses.",
-        "The Walk and The Intensive follow the same curriculum. The Intensive adds more labour; it does not create another doctrine or a second school.",
+        "In 2 Timothy 2:15, the word translated \"study\" is σπουδάζω (spoudazō, G4704): to make effort, be earnest, be diligent, labour, and study. Foundation School turns that charge into weekly reading, word drill, Scripture writing, distinctions, and written responses.",
+        "The Walk and The Intensive follow the same curriculum. The Intensive adds fuller labour; it does not create another doctrine, another foundation, or a second school.",
+      ],
+    },
+    {
+      title: "5. The books and the courses",
+      body: [
+        "One Source of Truth — The Doctrine of the Graphē is the gate book and course: it establishes Holy Writ as the written authority for truth. The Principles of the Doctrine of Christ is the school handbook: a concise reference included with the Foundation School program.",
+        "The six courses must still be complete courses. A student should not need to leave a lesson, read a handbook chapter elsewhere, and return before the doctrine becomes intelligible. Independent $100 doctrinal books serve readers who want expanded standalone treatment beyond the school course.",
       ],
     },
   ],
@@ -71,40 +102,51 @@ export const foundationSchoolIntroduction = {
     {
       term: "γραφή",
       transliteration: "graphē",
-      meaning: "Holy Writ: the written authority by which truth is known and tested.",
+      strong: "G1124",
+      anchor: "2 Timothy 3:16; John 10:35",
+      meaning: "Scripture, Holy Writ: the written authority by which truth is known, tested, taught, and obeyed.",
     },
     {
       term: "λόγια",
       transliteration: "logia",
-      meaning: "Oracles: the sayings of God entrusted to be taught and obeyed.",
+      strong: "G3051",
+      anchor: "Hebrews 5:12",
+      meaning: "Oracles: the sayings of God, entrusted to be taught, learned, and obeyed.",
     },
     {
       term: "ἄπειρος",
       transliteration: "apeiros",
+      strong: "G552",
+      anchor: "Hebrews 5:13",
       meaning: "Unskilled or inexperienced in the word of righteousness.",
     },
     {
       term: "νήπιος",
       transliteration: "nēpios",
-      meaning: "A babe: immature, still needing milk when maturity is required.",
+      strong: "G3516",
+      anchor: "Hebrews 5:13",
+      meaning: "A babe: immature in hearing, still needing milk when maturity is required.",
     },
     {
       term: "σπουδάζω",
       transliteration: "spoudazō",
-      meaning: "Diligent effort: labour, study, and earnest attention to the Word.",
+      strong: "G4704",
+      anchor: "2 Timothy 2:15",
+      meaning: "Diligent effort: to make effort, be earnest, labour, study, and rightly handle the word of truth.",
     },
   ],
   outcomes: [
-    "Students know why Scripture is the court for truth.",
-    "Students can explain each first principle from its governing texts.",
+    "Students know why Scripture is the court for truth before any doctrine is examined.",
+    "Students can explain each first principle from its governing Scriptures.",
     "Students can identify the error each lesson refuses.",
-    "Students practice doctrine through written labour, not passive consumption.",
+    "Students practice doctrine through written labour, not passive consumption or slogans.",
+    "Students understand the role of the gate course, the handbook, the six courses, and independent books.",
     "Students move from milk toward maturity without inventing a seventh foundation.",
   ],
 } as const;
 
 function course(
-  id: (typeof principleIds)[number],
+  id: (typeof foundationPrincipleCourseIds)[number],
   title: string,
   subtitle: string,
   description: string,
@@ -140,16 +182,21 @@ export const foundationSchools: School[] = [
     title: "Foundation School",
     subtitle: "Principles of the Doctrine of Christ",
     description:
-      "A 52-week school of first principles from Hebrews 5:12-6:3. Begin with the graphē, then walk the six foundations from milk toward maturity.",
+      "A 52-week school of first principles from Hebrews 5:12-6:3. Enter through the graphē, then walk the six Hebrews 6 foundations from milk toward maturity.",
     coverTone: "ink",
     status: "published",
-    courseIds: [oneSourceCourse.id, ...principleIds],
+    courseIds: [...foundationPrincipleCourseIds],
     programIds: ["program-foundation-year", "program-foundation-intensive"],
-    resourceBookIds: [ONE_SOURCE_BOOK_ID, textbook],
+    resourceBookIds: [ONE_SOURCE_BOOK_ID, foundationHandbookBookId],
   },
 ];
 
-export const foundationYearGrantIds = [ONE_SOURCE_BOOK_ID, textbook, oneSourceCourse.id, ...principleIds] as const;
+export const foundationYearGrantIds = [
+  ONE_SOURCE_BOOK_ID,
+  foundationHandbookBookId,
+  foundationGateCourseId,
+  ...foundationPrincipleCourseIds,
+] as const;
 
 export const foundationPrograms: Program[] = [
   {
@@ -158,7 +205,7 @@ export const foundationPrograms: Program[] = [
     title: "The Walk",
     subtitle: "The three-hour walk of the year.",
     description:
-      "The ordinary cadence of Foundation School: about three hours each week for fifty-two weeks. The Walk begins with the graphē, then carries the six first principles in order with the textbook. Same doctrine as The Intensive; lighter weekly labour.",
+      "The ordinary cadence of Foundation School: about three hours each week for fifty-two weeks. The Walk begins with the Graphē gate, then carries the six Hebrews 6 first principles as complete courses. The school handbook supports the course; it does not replace the lessons.",
     kind: "year",
     durationWeeks: 52,
     hoursPerWeek: 3,
@@ -174,7 +221,7 @@ export const foundationPrograms: Program[] = [
     title: "The Intensive",
     subtitle: "The same walk. About eight hours a week.",
     description:
-      "The same fifty-two-week order at about eight hours each week. The Intensive begins with the graphē, then carries the same six first principles and textbook with fuller writing, drill, and examination labour.",
+      "The same fifty-two-week order at about eight hours each week. The Intensive begins with the Graphē gate, then walks the same six first principles with fuller writing, drill, and examination labour. It is a deeper load, not another doctrine or a second syllabus.",
     kind: "intensive",
     durationWeeks: 52,
     hoursPerWeek: 8,
@@ -189,11 +236,11 @@ export const foundationPrograms: Program[] = [
 export const foundationBooks: Book[] = [
   oneSourceBook,
   {
-    id: textbook,
+    id: foundationHandbookBookId,
     title: "The Principles of the Doctrine of Christ",
     subtitle: "Foundations for Christian Understanding & Maturity",
     description:
-      "The Foundation School textbook. Seven chapters: the oracles, the six first principles, chronology, and eternal judgment. One Source of Truth — The Doctrine of the Graphē is the standalone volume on the written authority. Aletheia Publications. Truth · Knowledge · Maturity.",
+      "The Foundation School handbook for the six Hebrews 6 first principles. It is included with The Walk and The Intensive as a concise reference beside the complete courses. The independent doctrinal books remain deeper standalone publications for extended reading; the courses do not require them before a lesson can be understood.",
     authors: [achu],
     contributors: [],
     publisher: "Aletheia Publications",
@@ -216,49 +263,49 @@ export const foundationChapters: BookChapter[] = [
   ...oneSourceChapters,
   {
     id: "ch-pdc-1",
-    bookId: textbook,
+    bookId: foundationHandbookBookId,
     number: 1,
     title: textbookChapter1Title,
     body: textbookChapter1Body,
   },
   {
     id: "ch-pdc-2",
-    bookId: textbook,
+    bookId: foundationHandbookBookId,
     number: 2,
     title: textbookChapter2Title,
     body: textbookChapter2Body,
   },
   {
     id: "ch-pdc-3",
-    bookId: textbook,
+    bookId: foundationHandbookBookId,
     number: 3,
     title: textbookChapter3Title,
     body: textbookChapter3Body,
   },
   {
     id: "ch-pdc-4",
-    bookId: textbook,
+    bookId: foundationHandbookBookId,
     number: 4,
     title: textbookChapter4Title,
     body: textbookChapter4Body,
   },
   {
     id: "ch-pdc-5",
-    bookId: textbook,
+    bookId: foundationHandbookBookId,
     number: 5,
     title: textbookChapter5Title,
     body: textbookChapter5Body,
   },
   {
     id: "ch-pdc-6",
-    bookId: textbook,
+    bookId: foundationHandbookBookId,
     number: 6,
     title: textbookChapter6Title,
     body: textbookChapter6Body,
   },
   {
     id: "ch-pdc-7",
-    bookId: textbook,
+    bookId: foundationHandbookBookId,
     number: 7,
     title: textbookChapter7Title,
     body: textbookChapter7Body,
@@ -271,7 +318,7 @@ export const foundationCourses: Course[] = [
     "course-fs-repentance",
     "Repentance from Dead Works",
     "Hebrews 6:1 · 9 weeks · 17 lessons",
-    "Metanoia: a change of mind over sin and its cause, not only its consequence. Christ is the way out of dead works. Read Chapters 1–2, then walk the seventeen lessons.",
+    "Metanoia: a change of mind over sin and its cause, not only its consequence. Christ is the way out of dead works. A complete seventeen-lesson course with the school handbook as supporting reference.",
     17,
     3,
     1290,
@@ -281,7 +328,7 @@ export const foundationCourses: Course[] = [
     "course-fs-faith",
     "Faith Toward God",
     "Hebrews 6:1 · 9 weeks · 17 lessons",
-    "Pistis as credence that defines sons. Image, likeness, free justification, and the heir. Read Chapter 3, then walk the seventeen lessons.",
+    "Pistis as credence that defines sons. Image, likeness, free justification, and the heir. A complete seventeen-lesson course with the school handbook as supporting reference.",
     17,
     3,
     1290,
@@ -291,7 +338,7 @@ export const foundationCourses: Course[] = [
     "course-fs-baptisms",
     "The Doctrine of Baptisms",
     "Hebrews 6:2 · 8 weeks · 16 lessons",
-    "Three essential baptisms among seven in Scripture. Only baptism into Christ saves the soul. Water is the figure after salvation. The Spirit is witness of the son. Read Chapter 4, then walk the sixteen lessons.",
+    "Three essential baptisms among seven in Scripture. Only baptism into Christ saves the soul. Water is the figure after salvation. The Spirit is witness of the son. A complete sixteen-lesson course with the school handbook as supporting reference.",
     16,
     3,
     1215,
@@ -301,7 +348,7 @@ export const foundationCourses: Course[] = [
     "course-fs-hands",
     "Laying on of Hands",
     "Hebrews 6:2 · 8 weeks · 12 lessons",
-    "Nine biblical occasions. Resultant, not a substitute for the foundation. Read Chapter 5, then walk the twelve lessons.",
+    "Nine biblical occasions. Resultant, not a substitute for the foundation. A complete twelve-lesson course with the school handbook as supporting reference.",
     12,
     3,
     915,
@@ -311,7 +358,7 @@ export const foundationCourses: Course[] = [
     "course-fs-resurrection",
     "Resurrection of the Dead",
     "Hebrews 6:2 · 9 weeks · 18 lessons",
-    "Two kinds. Two bodily issues a thousand years apart. Five companies in the first resurrection. Rapture 2 is not the second advent. Read Chapter 6, then walk the eighteen lessons.",
+    "Two kinds. Two bodily issues a thousand years apart. Five companies in the first resurrection. Rapture 2 is not the second advent. A complete eighteen-lesson course with the school handbook as supporting reference.",
     18,
     3,
     1365,
@@ -321,7 +368,7 @@ export const foundationCourses: Course[] = [
     "course-fs-judgment",
     "Eternal Judgment",
     "Hebrews 6:2 · 9 weeks · 15 lessons",
-    "Eternal punishment, the book of life, three deaths, and five prisons — none of them the grave. Read Chapter 7, then walk the fifteen lessons. Week 52 integrates the year.",
+    "Eternal punishment, the book of life, three deaths, and five prisons — none of them the grave. A complete fifteen-lesson course with the school handbook as supporting reference. Week 52 integrates the year.",
     15,
     3,
     1140,

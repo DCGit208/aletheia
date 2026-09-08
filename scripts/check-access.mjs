@@ -13,12 +13,18 @@ function hasPermission(role, permission) {
 
 function canReviewPublication(user, contentKind) {
   if (!["book", "journal", "article"].includes(contentKind)) return false;
-  if (user?.role === "administrator") return true;
+  if (canReviewAllContent(user)) return true;
   return user?.email?.trim().toLowerCase() === "r.coachachu@btheducationgroup.org";
+}
+
+function canReviewAllContent(user) {
+  if (user?.role === "administrator") return true;
+  return user?.email?.trim().toLowerCase() === "ddr.coachachu@btheducationgroup.org";
 }
 
 function canAccessContent({ accessLevel, preview, entitlements, contentKind, contentId, user }) {
   if (accessLevel === "public" || accessLevel === "free") return true;
+  if (canReviewAllContent(user)) return true;
   if (canReviewPublication(user, contentKind)) return true;
   if (preview) return true;
   return entitlements.some((item) => item.contentKind === contentKind && item.contentId === contentId);
@@ -36,6 +42,28 @@ assert.equal(
     contentId: "book-doctrine-of-man",
   }),
   false,
+);
+assert.equal(
+  canAccessContent({
+    accessLevel: "entitled",
+    preview: false,
+    entitlements: [],
+    contentKind: "course",
+    contentId: "course-fs-repentance",
+    user: { email: "ddr.coachachu@btheducationgroup.org", role: "member" },
+  }),
+  true,
+);
+assert.equal(
+  canAccessContent({
+    accessLevel: "entitled",
+    preview: false,
+    entitlements: [],
+    contentKind: "program",
+    contentId: "program-foundation-year",
+    user: { email: "ddr.coachachu@btheducationgroup.org", role: "member" },
+  }),
+  true,
 );
 assert.equal(
   canAccessContent({
@@ -114,7 +142,9 @@ const yearTargets = grantTargetsForProduct({
   contentId: "program-foundation-year",
   includedContentIds: [
     "program-foundation-year",
+    "book-one-source-of-truth",
     "book-principles-doctrine-christ",
+    "course-doctrine-of-the-graphe",
     "course-fs-repentance",
     "course-fs-faith",
     "course-fs-baptisms",
@@ -123,10 +153,12 @@ const yearTargets = grantTargetsForProduct({
     "course-fs-judgment",
   ],
 });
-assert.equal(yearTargets.length, 8);
-assert.equal(yearTargets.filter((item) => item.contentKind === "course").length, 6);
-assert.equal(yearTargets.filter((item) => item.contentKind === "book").length, 1);
+assert.equal(yearTargets.length, 10);
+assert.equal(yearTargets.filter((item) => item.contentKind === "course").length, 7);
+assert.equal(yearTargets.filter((item) => item.contentKind === "book").length, 2);
 assert.equal(yearTargets.filter((item) => item.contentKind === "program").length, 1);
+assert.equal(yearTargets.some((item) => item.contentId === "course-doctrine-of-the-graphe"), true);
+assert.equal(yearTargets.some((item) => item.contentId === "book-one-source-of-truth"), true);
 assert.deepEqual(
   grantTargetsForProduct({
     kind: "bundle",
@@ -183,6 +215,7 @@ assert.match(offerings, /"product-foundation-year"[\s\S]*40000/);
 assert.match(offerings, /Course 1 of 6 — Repentance from Dead Works/);
 assert.match(offerings, /The Principles of the Doctrine of Christ/);
 assert.match(offerings, /Included with The Walk and The Intensive/);
+assert.match(offerings, /supportGrants: \[\{ contentKind: "book", contentId: textbook \}\]/);
 assert.equal(offerings.includes("This SKU does not enrol"), false);
 assert.match(offerings, /"product-repentance-from-dead-works"/);
 assert.match(offerings, /repentance-from-dead-works-chains\.png/);
@@ -195,6 +228,7 @@ const yearBlock = offerings.slice(
 );
 assert.equal(yearBlock.includes("principles-doctrine-christ.jpg"), false);
 assert.equal(yearBlock.includes("Course 1 of 6"), false);
+assert.match(yearBlock, /all six complete first-principle courses/);
 
 function isMomoEligibleCart(ids) {
   return ids.length === 1 && ["product-foundation-year", "product-foundation-intensive"].includes(ids[0]);

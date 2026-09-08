@@ -5,8 +5,8 @@ import { useParams } from "next/navigation";
 import { ListRow } from "@/components/content/list-row";
 import { EmptyState } from "@/components/content/query-state";
 import { SectionHeader } from "@/components/content/section-header";
-import { foundationSchoolIntroduction } from "@/lib/data/foundation-school";
-import { getBook, getProduct, getSchool, listPrograms, listSchoolCourses } from "@/lib/data/repository";
+import { foundationGateCourseId, foundationSchoolIntroduction } from "@/lib/data/foundation-school";
+import { getBook, getCourse, getProduct, getSchool, listPrograms, listSchoolCourses } from "@/lib/data/repository";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
 
@@ -17,6 +17,21 @@ function FoundationSchoolIntroduction() {
         <p className="text-[0.62rem] tracking-[0.2em] text-primary uppercase">School introduction</p>
         <p className="mt-3 max-w-3xl text-lg leading-relaxed">{foundationSchoolIntroduction.lead}</p>
       </div>
+
+      <section className="rounded-3xl bg-card p-5 md:p-6">
+        <SectionHeader title="Governing Scriptures" />
+        <div className="mt-4 grid gap-4">
+          {foundationSchoolIntroduction.scriptures.map((scripture) => (
+            <figure key={scripture.reference} className="rounded-2xl border border-foreground/10 bg-background/45 p-4">
+              <blockquote className="font-serif text-base leading-relaxed text-foreground">
+                “{scripture.text}”
+              </blockquote>
+              <figcaption className="mt-3 text-sm text-primary">{scripture.reference}</figcaption>
+              <p className="mt-2 text-sm leading-relaxed text-muted-foreground">{scripture.point}</p>
+            </figure>
+          ))}
+        </div>
+      </section>
 
       <div className="grid gap-4 md:grid-cols-2">
         {foundationSchoolIntroduction.sections.map((section) => (
@@ -37,7 +52,10 @@ function FoundationSchoolIntroduction() {
           {foundationSchoolIntroduction.terms.map((item) => (
             <div key={item.term} className="rounded-2xl border border-foreground/10 p-4">
               <p className="font-heading text-2xl">{item.term}</p>
-              <p className="mt-1 text-xs tracking-[0.16em] text-primary uppercase">{item.transliteration}</p>
+              <p className="mt-1 text-xs tracking-[0.16em] text-primary uppercase">
+                {item.transliteration} · {item.strong}
+              </p>
+              <p className="mt-2 text-xs text-muted-foreground">{item.anchor}</p>
               <p className="mt-3 text-sm leading-relaxed text-muted-foreground">{item.meaning}</p>
             </div>
           ))}
@@ -67,6 +85,7 @@ export default function SchoolPage() {
   const programs = listPrograms(school.id);
   const courses = listSchoolCourses(school.id);
   const active = programEnrollments.find((item) => item.schoolId === school.id);
+  const gateCourse = school.id === "school-foundation" ? getCourse(foundationGateCourseId) : null;
 
   return (
     <article>
@@ -110,6 +129,16 @@ export default function SchoolPage() {
 
       <section className="mt-8">
         <SectionHeader title="Curriculum" />
+        {gateCourse ? (
+          <div className="mb-4 rounded-2xl border border-primary/25 bg-primary/5">
+            <ListRow
+              href={`/learn/courses/${gateCourse.id}`}
+              title={`Entrance gate · ${gateCourse.title}`}
+              subtitle="Begin here. The gate establishes Scripture as the written authority for truth before the six principles are studied."
+              meta="Required entrance"
+            />
+          </div>
+        ) : null}
         <ol className="overflow-hidden rounded-2xl bg-card">
           {courses.map((course, index) => (
             <li key={course.id}>
@@ -126,10 +155,11 @@ export default function SchoolPage() {
       {school.resourceBookIds.map((id) => {
         const book = getBook(id);
         if (!book) return null;
+        const label = book.id === "book-one-source-of-truth" ? "Gate book" : "School handbook";
         return (
           <div key={id} className="mt-8">
             <Link href={`/learn/books/${book.id}`} className="block rounded-2xl bg-card px-4 py-4">
-              <p className="text-[0.62rem] tracking-[0.2em] text-primary uppercase">Textbook</p>
+              <p className="text-[0.62rem] tracking-[0.2em] text-primary uppercase">{label}</p>
               <p className="mt-1 font-heading text-xl">{book.title}</p>
               <p className="mt-1 text-sm text-muted-foreground">{book.subtitle}</p>
               <p className="mt-3 text-xs tracking-wide text-primary uppercase">Open in the reader</p>
