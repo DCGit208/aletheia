@@ -52,7 +52,7 @@ Quickened is revived. The raising here is together with Him, now — not the lat
 
 Context. Course 1 already opened this Scripture set as the only way. The same verses return under another name. Spiritual resurrection is that new birth. It is not a second conversion invented for a later course.
 
-Cluster. Ephesians 2:1-6 with Ephesians 4:21-24, Colossians 3:10, and 1 John 3:9. This six opens the death and the quickening. The three open likeness.
+Scripture set. Ephesians 2:1-6 with Ephesians 4:21-24, Colossians 3:10, and 1 John 3:9. This six opens the death and the quickening. The three open likeness.
 
 Distinction. Ephesians 2:6 is not John 5:28. Seated in heavenly places is not all graves coming forth. If you preach Ephesians 2 as if your body had put on immortality, you have left this teaching. If you preach John 5 as a new attitude only, you have left it the other way.
 
@@ -86,7 +86,7 @@ Ye have put on the new man, renewed in knowledge after the image of Him that cre
 
 Born of God. Seed remaineth. This teaching sets this in the spiritual-resurrection Scripture set, not as a later slogan you may empty. The birth is the rising.
 
-Cluster. Ephesians 4:21-24; Colossians 3:10; 1 John 3:9 with Ephesians 2:1-6. Quickened men put on what God created.
+Scripture set. Ephesians 4:21-24; Colossians 3:10; 1 John 3:9 with Ephesians 2:1-6. Quickened men put on what God created.
 
 Distinction. Likeness restored in new birth is not the immortal body of 1 Corinthians 15. Do not steal Paul’s later chapter to explain John’s new birth. Do not steal John’s new birth to cancel Paul’s later body.
 
@@ -114,7 +114,7 @@ Revelation 22:11 — “He that is unjust, let him be unjust still: and he which
 
 Unjust still. Filthy still. Righteous still. Holy still. The still is not encouragement to delay. It is the fixing of the man as he is. You will not preach a new birth on the far side of that still.
 
-Cluster. Hebrews 9:27 and Revelation 22:11. That is the forfeiture file. Two verses. Use them as a unit. Do not add a proverb the school has dropped. Do not drag 1 Corinthians 15:19 across this door.
+Scripture set. Hebrews 9:27 and Revelation 22:11. That is the forfeiture file. Two verses. Use them as a unit. Do not add a proverb the school has dropped. Do not drag 1 Corinthians 15:19 across this door.
 
 1 Corinthians 15:19 will be taught in the Scripture facts and in the hope of the body, where Paul set it. Hear the warning now so you do not misuse it later.
 
@@ -150,7 +150,7 @@ This teaching prints 5:28-29 as the material text. The graves. The coming forth.
 
 Who speaks? The Son, who has life in Himself and authority to execute judgment because He is the Son of man. The voice that quickens now will empty graves later.
 
-Cluster. John 5:28-29 with Daniel 12 and Revelation 20. Two issues, not one morning. Revelation 20 will set the thousand years between them.
+Scripture set. John 5:28-29 with Daniel 12 and Revelation 20. Two issues, not one morning. Revelation 20 will set the thousand years between them.
 
 Distinction. “Now is” in 5:25 is not “the graves” in 5:28. Material resurrection is not a ghost. The graves hear. They come forth. Bodies.
 
@@ -216,7 +216,7 @@ Seven thunders uttered. Seal up. Write them not. Time no longer. Verse 11 ends t
 
 That is Revelation 10. It is not the first resurrection, the rest of the dead, or the great white throne. Those sit in chapter 20, verses 4-6 and 11-15.
 
-Cluster. John 5:28-29; Daniel 12:2-3; Revelation 20:4-6; Revelation 20:11-15. Revelation 10:4-6 is studied as thunders and time no longer, then left as chapter 10.
+Scripture set. John 5:28-29; Daniel 12:2-3; Revelation 20:4-6; Revelation 20:11-15. Revelation 10:4-6 is studied as thunders and time no longer, then left as chapter 10.
 
 Distinction. First resurrection is not the raising of those without Christ. The lake after the throne is not the Millennium. The wicked do not come forth before the reign.
 
@@ -228,7 +228,7 @@ Application. Place both issues on the chronology before you argue about “the r
 
 Charge. Who rises before the Millennium? Who lives not again until it is finished? Write 10:4-6 as thunders and time no longer. Write 20:4-6 and 20:11-15 as the two issues.
 
-VII. THE SPINE SENTENCE
+VII. THE CORE ORDER
 
 The Millennium is the one thousand years period after the tribulation: the tribulation is seven years after rapture 2, and rapture 2 is not the second advent; the second advent — coming of Christ with the saints — is after tribulation, ushering the Millennium: Revelation 6–19.
 
@@ -334,7 +334,7 @@ Application. Read 19:11-21 as the advent, not as rapture 2, not as the throne of
 
 Charge. Write Revelation 19:11-21 in full. Who follows? What is ushered in chapter 20? What is this appearing not?
 
-X. FACTS-FILE
+X. SCRIPTURE FACTS
 
 This teaching does not leave the body as a late surprise. It keeps a Scripture facts. Not one proof text. A file.
 
@@ -448,9 +448,9 @@ That is 15:19’s home. Bodily hope. Not the forfeiture proof of section IV. If 
 
 Spiritual body is still a body. It is not spiritual resurrection. Do not hear “spiritual” in 15:44 and flee to Ephesians 2 as if Paul had forgotten the grave.
 
-Cluster. Job 19:25-27; Isaiah 26:14-19; Psalm 16:10 with Acts 2; John 20–21; 1 Peter 1:3; 3:21; Romans 1:4; 6:5; 1 Corinthians 15. A file. Ground of hope.
+Scripture set. Job 19:25-27; Isaiah 26:14-19; Psalm 16:10 with Acts 2; John 20–21; 1 Peter 1:3; 3:21; Romans 1:4; 6:5; 1 Corinthians 15. A file. Ground of hope.
 
-Distinction. Facts-file is not a fifth kind. It is why the material kind is not a rumour.
+Distinction. Scripture facts is not a fifth kind. It is why the material kind is not a rumour.
 
 Principle. The dead are raised. In flesh Job will see God. If the dead rise not, the gospel is vain.
 
@@ -570,7 +570,7 @@ Company 2: they that are Christ’s at His coming. Rapture 2. Before the tribula
 
 1 Corinthians 15:54 — “So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory.”
 
-This is permanent. Not Jairus’s child. Company 2 as clustered with 15:23.
+This is permanent. Not Jairus’s child. Company 2 as Scripture seted with 15:23.
 
 2 Corinthians 5:1 — “For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.”
 
@@ -592,7 +592,7 @@ This teaching sets 5:1-8 with they that are Christ’s at His coming. Not unclot
 
 John 14:1-3 and Luke 21:34-36 you have already in full. Receive unto Myself. Escape all these things. They stay on this side of the seven.
 
-Cluster. 1 Corinthians 15:23, 51-54; John 14:1-3; Luke 21:34-36; 2 Corinthians 5:1-8. That is Company 2. Do not add the white horse. Do not add the two witnesses. Do not add the hundred forty and four thousand.
+Scripture set. 1 Corinthians 15:23, 51-54; John 14:1-3; Luke 21:34-36; 2 Corinthians 5:1-8. That is Company 2. Do not add the white horse. Do not add the two witnesses. Do not add the hundred forty and four thousand.
 
 Distinction. Before tribulation. Not advent. Still first resurrection — the same first harvest, a later sheaf, not a different kind. They that are Christ’s at His coming are not “all five companies renamed.”
 
@@ -700,9 +700,9 @@ Recite.
 
 Two kinds. Spiritual: new birth, quickened from trespasses, renewed in likeness, this life only. Ephesians 2:1-6; Ephesians 4:21-24; Colossians 3:10; 1 John 3:9. Forfeiture: Hebrews 9:27 and Revelation 22:11. Not 1 Corinthians 15:19 as that proof.
 
-Material: body, not spirit. John 5:28-29. Two issues, a thousand years: righteous to life before the Millennium; wicked after, to the lake, Revelation 20:10-15. Doctrine carried by John 5, Revelation 20:4-6, Revelation 20:11-15, Daniel 12. Revelation 10:4-6 is thunders and time no longer. Not the two-resurrection chapter. Printed 20:46 is 20:4-6.
+Material: body, not spirit. John 5:28-29. Two issues, a thousand years: righteous to life before the Millennium; wicked after, to the lake, Revelation 20:10-15. Doctrine carried by John 5, Revelation 20:4-6, Revelation 20:11-15, Daniel 12. Revelation 10:4-6 is thunders and time no longer. Not the two-resurrection chapter. The correct reference is Revelation 20:4-6.
 
-Spine. Millennium: one thousand years after tribulation. Tribulation: seven years after rapture 2. Rapture 2 is not the second advent. Second advent: Christ with the saints after tribulation, ushers the Millennium. Range: Revelation 6–19.
+Core order. Millennium: one thousand years after tribulation. Tribulation: seven years after rapture 2. Rapture 2 is not the second advent. Second advent: Christ with the saints after tribulation, ushers the Millennium. Range: Revelation 6–19.
 
 Temporary: Matthew 9:25, dies again. Permanent: immortal body, Christ firstfruits of all permanent, 1 Corinthians 15:1-23. Matthew 27:52-53 saints now in heaven with their bodies. No other Foundation School teaching.
 

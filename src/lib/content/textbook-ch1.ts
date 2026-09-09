@@ -34,7 +34,7 @@ Who speaks in John 10? The Lord Jesus. To whom? Jews who had taken up stones bec
 
 Hold the Scripture set. He does not argue from mood. He does not argue from a private voice. He argues from what is written. He names the persons in the psalm as those unto whom the word of God came. Then He sets the rule that governs this school: the scripture cannot be broken.
 
-Psalm 82:7 remains in the psalm: “But ye shall die like men, and fall like one of the princes.” Chapter 3 will open image and likeness with that verse still in the file. Here the point is narrower. The Lord treats the writing as unbreakable even when men use it against Him. If He will not break it, you will not be asked to break it to make a convenient Christian experience.
+Psalm 82:7 remains in the psalm: “But ye shall die like men, and fall like one of the princes.” Chapter 3 will open image and likeness with that verse still in the teaching. Here the point is narrower. The Lord treats the writing as unbreakable even when men use it against Him. If He will not break it, you will not be asked to break it to make a convenient Christian experience.
 
 C. The authority of Holy Writ
 
@@ -139,7 +139,7 @@ Strong meat is not a different Bible. It is the same graphē taken by senses tha
 
 If you cannot teach repentance from dead works from the Scriptures, you are not ready to speak as if you were past it. That is not a slight on your zeal. It is the writer’s order. This school will not give you Chapter 7 language to hide an unlaid first stone.
 
-D. Cluster, distinction, principle
+D. Scripture set, distinction, principle
 
 Hold 5:11 and 5:12 together. Dull hearing is why the hard things cannot be uttered. Time is why they ought to be teachers. Again is why the first principles must be taught. Become is why a people can need milk after years.
 
@@ -370,7 +370,7 @@ Continue is the condition. If ye continue in my word — then disciples indeed �
 
 They protest from pedigree. Abraham's seed. Never in bondage. He does not argue politics with them. He names sin as bondage. Whosoever committeth sin is the servant of sin. The servant does not abide in the house for ever. The Son does. Freedom, then, is the Son’s freedom: if the Son shall make you free, ye shall be free indeed.
 
-C. Cluster with Hebrews 5:11-14
+C. Scripture set with Hebrews 5:11-14
 
 Hold John 8:31-36 with Hebrews 5:11-14. Dull hearing will not get you that freedom. Unskill in the word of righteousness will not get you that freedom. A man who will not continue in the word cannot claim the freedom the word promises. A babe who will not be exercised cannot discern the bondage he is still in.
 
@@ -497,7 +497,7 @@ On John 8:31-36, reason continue, disciples indeed, know, truth, free, servant o
 
 C. The method, once more
 
-Scripture in full. Term as defined here. Context: who, to whom, why. Cluster held together. Distinction. Principle. Reasoning. Application. Charge.
+Scripture in full. Term as defined here. Context: who, to whom, why. Scripture set held together. Distinction. Principle. Reasoning. Application. Charge.
 
 That is how you will read every chapter. That is how you will write. A student at three hours a week can do this on one Scripture set and be honest. A student at eight hours can do this on the whole chapter and be honest. Neither may replace the method with a summary.
 

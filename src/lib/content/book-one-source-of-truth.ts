@@ -1,5 +1,5 @@
 /** One Source of Truth — The Doctrine of the Graphē
- * Reader-facing manuscript. Production notes live in study/, not in chapter bodies.
+ * Reader-facing manuscript. Draft notes live in study/, not in chapter bodies.
  */
 import type { BookChapter } from "@/lib/data/types";
 
@@ -17,7 +17,7 @@ export const oneSourcePartTitles = [
   "Part III — One Source of Truth",
   "Part IV — The Oracles of God and Hearing from God",
   "Part V — The Problem of Unskillfulness",
-  "Part VI — The Scholarly Impetus",
+  "Part VI — Scripture’s Demand for Diligent Study",
   "Part VII — Hermeneutics: Handling the Writing",
   "Part VIII — Truth, Freedom, and Maturity",
   "Part IX — The First Principles as Test Case",
@@ -568,7 +568,7 @@ The cornerstone of Christianity, as Hebrews names it, is the first principles of
     id: "ch-ost-12",
     bookId: ONE_SOURCE_BOOK_ID,
     number: 12,
-    title: "The Premiere Convention for Hearing from God",
+    title: "The Appointed Written Authority for Hearing from God",
     body: `What is first in order for hearing from God and for spiritual growth?
 
 Chapter 11 named the cornerstone: the first principles of the oracles of God, bound in the writing. This chapter names the appointed way those oracles are heard, and the appointed way a man grows under them. The appointed written authority is the graphē.
