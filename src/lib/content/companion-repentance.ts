@@ -312,7 +312,7 @@ Ephesians 4:24 — “And that ye put on the new man, which after God is created
 
 The former conversation is not a list of quirks. It is the walk of the old man. Do not use 4:22 to hide the list of acts, and do not use the list to hide 4:22.
 
-Cluster held: John 8:44; Ephesians 2:2; 2 Corinthians 4:4; 1 John 3:8-9; 1 John 5:18; Ephesians 4:22. One old thing. Spirit, nature, and power of sin. Nothing more nor less than the spirit and nature of the devil working in men of disobedience.
+Taken together, John 8:44; Ephesians 2:2; 2 Corinthians 4:4; 1 John 3:8-9; 1 John 5:18; and Ephesians 4:22 identify one old thing: the spirit, nature, and power of sin — nothing more nor less than the spirit and nature of the devil working in men of disobedience.
 
 Charge on old thing 1: can you teach John 8:44, Ephesians 2:2, and 1 John 3:8-9 as one Scripture set without calling the old man “a bad habit”? Write the teaching in one page. If you are on The Walk, one tight page. If you are on The Intensive, one page that walks each verse and then the Scripture set.
 

@@ -29,7 +29,7 @@ The 2015 **Aletheia Libraries 1** leaflet is a **compressed manuscript** used to
 | Programs | The Walk (~3 h/week) and The Intensive (~8 h/week). Both **52 weeks**. Same six courses. |
 | Courses | 1. Repentance from Dead Works · 2. Faith Toward God · 3. The Doctrine of Baptisms · 4. Laying on of Hands · 5. Resurrection of the Dead · 6. Eternal Judgment |
 | Prices (owner-approved) | Textbook **$100** · each course **$100** · school program **$400**. Lessons, remaining textbook chapters, and exams require that purchase (or the matching à la carte SKU). Chapter 1 of the textbook remains a preview. |
-| School purchase grants | All six courses **plus** the textbook **only** |
+| School purchase grants | Graphē gate book and course, the handbook, and all six courses |
 | Companion books | Bought separately. *Spirit Witness* is its own book. *Why We’re Beyond* is its own book, not *Fearfully Made*. |
 
 **Recommendation to the student:** enrol in the school program and walk the year in order. À la carte courses remain in Shop for a person who needs one principle without the year.
@@ -114,7 +114,7 @@ Aligned with the current Publications line ($100 a volume; three-book bundle $15
 | --- | --- | --- |
 | Textbook: *The Principles of the Doctrine of Christ* | **$100** | The book only |
 | Each of the six courses | **$100** each | That course only |
-| School program (The Walk **or** The Intensive) | **$400** | All six courses **plus** the textbook |
+| School program (The Walk **or** The Intensive) | **$400** | Graphē gate book and course, all six courses, and the handbook |
 
 Year and Intensive: **same $400**. Same teaching; different hours.
 
@@ -147,7 +147,7 @@ The book is chaptered to match the school:
 
 Each chapter is an **expansion** of the compressed leaflet: the leaflet’s claims, quotes, and scriptures are kept; they are opened until they can be taught. The five-page Libraries leaflet may remain on file as the compressed original. It is not sold as a second full-length rival to this book.
 
-Courses point at these chapters as the primary reading. Other Aletheia books appear only where the leaflet already names them.
+The handbook gives the ordered, concise reference alongside the courses. Each course remains complete in itself: a student must not leave a lesson to read the handbook before the doctrine becomes intelligible. Other Aletheia books appear only where the leaflet already names them, as clearly identified supporting or extended reading.
 
 ---
 

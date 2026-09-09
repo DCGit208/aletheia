@@ -3,7 +3,7 @@
 The textbook and the school are related. They are not the same product.
 
 - **Book:** read → study → understand. Seven **major** chapters, deep subsections. Not fifty thin chapters. Not 52 web pages.
-- **Course:** learn → study → discuss → apply → demonstrate → mature. One chapter yields many lessons. Exercises, charges, and examinations need not appear in the book.
+- **Course:** learn → study → discuss → apply → demonstrate → mature. One chapter yields many lessons. Exercises, charges, and examinations need not appear in the book. The course itself remains intelligible and complete; the handbook supports and deepens it rather than supplying missing teaching.
 
 ---
 
@@ -43,10 +43,11 @@ A single subsection in the book (for example “five companies”) may become fo
 | Product | Grants |
 | --- | --- |
 | Textbook $100 | The book only |
-| One course $100 | That course only |
-| School program $400 (Year or Intensive) | All six courses + the textbook |
+| Graphē gate course $100 | Gate course + *One Source of Truth* gate book |
+| One Foundation course $100 | That course + the Foundation School handbook as support |
+| School program $400 (Year or Intensive) | Graphē gate book and course + all six courses + the handbook |
 
-Does **not** grant the companion library. Book purchase does **not** grant a course. Course purchase does **not** grant a book unless the product says so.
+Does **not** grant the companion library. Book purchase does **not** grant a course. The Foundation course and gate-course products explicitly grant their named supporting book; other product grants must be stated in the product itself.
 
 ---
 

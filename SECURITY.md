@@ -6,6 +6,8 @@
 - Never trust a client-provided payment status
 - Privileged work is authorized by the Firebase custom claim `aletheiaRole`
 - Founding administrator: `dr.coachachu@btheducationgroup.org` (`aletheiaRole: administrator`)
+- All-content review account: `ddr.coachachu@btheducationgroup.org`. This account is granted review access to entitled learner content by the application access layer; it is not, by email alone, a Firebase administrator or Mobile Money reviewer.
+- Publication-only review account: `r.coachachu@btheducationgroup.org` for books, journals, and articles.
 - Administration at `/admin` calls Cloud Functions. The browser does not write roles or purchase entitlements
 - PII (email) lives in `usersPrivate` and is owner-readable only
 - Public `profiles` contain display fields only
