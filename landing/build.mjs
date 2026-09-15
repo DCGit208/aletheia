@@ -361,9 +361,11 @@ const pages = [
         </div>
       </header>
       <section class="section">
-        <div class="wrap measure">
+        <div class="wrap">
+          <div class="measure">
           <p>Aletheia World is the master house. Aletheia is the digital platform of that house — one application for learning, publication, reading, community, and commerce. Aletheia Publications is the imprint inside the platform.</p>
           <p>The work is ordered toward a higher humanity: to know what is true, to stand in the identity given, and to walk in the charge that follows.</p>
+          </div>
         </div>
       </section>
       <section class="section">
