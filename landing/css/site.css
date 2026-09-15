@@ -137,6 +137,18 @@ body.nav-open {
   overflow: hidden;
 }
 
+body.nav-open::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 35;
+  background: var(--bg);
+}
+
+body.nav-open .site-header {
+  backdrop-filter: none;
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -1055,7 +1067,7 @@ html.motion-ok .page-hero.is-in [data-hero-stagger]:nth-child(5) {
     padding: 0.75rem 1.25rem 2rem;
     overflow-y: auto;
     overscroll-behavior: contain;
-    background: rgb(7 6 5 / 98%);
+    background: var(--bg);
     visibility: hidden;
     opacity: 0;
     pointer-events: none;
