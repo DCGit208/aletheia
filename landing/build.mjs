@@ -52,13 +52,13 @@ const ENROLLMENTS = [
     numeral: "I",
     kicker: "Individuals",
     title: "The person",
-    body: "You are not a consumer of content. You are a scholar of life in Elohim — to learn, to operate, to be made complete in the divine identity. Foundation School, the imprint, and the labour of the year are kept for you in Aletheia.",
+    body: "You are not a consumer of content. You are a scholar of life in Elohim — to learn to operate in the completeness of their divine identity. Colossians 2:10. In Aletheia you get Foundation School (a year of first-principles courses), the books from Aletheia Publications, and the study materials for that year.",
   },
   {
     numeral: "II",
     kicker: "Institutions",
     title: "The body",
-    body: "Churches, organizations, and schools that will not leave their people to relative truth. Mathēteuō is Truth Education they can carry together — a shared rule of study, an imprint, a platform — so the body learns and operates in Elohim as one.",
+    body: "Churches, organizations, and schools that will not leave their people to relative truth. Mathēteuō is Truth Education they can carry together — shared teaching, books, and one study platform — so the body learns and operates in Elohim as one. John 17:20–23.",
   },
   {
     numeral: "III",
@@ -280,7 +280,7 @@ const pages = [
         <div class="wrap">
           <p class="kicker">The platform</p>
           <h2 id="home-platform">Aletheia</h2>
-          <p class="lede">The study platform of Aletheia World: LMS, reader, shop, and the main resource environment. Foundation School, the imprint, and the year’s labour are kept there — one place to learn, to read, and to carry the charge.</p>
+          <p class="lede">Aletheia is where you take the courses, read the books, and buy what you need. Foundation School (a year of first-principles courses), the books from Aletheia Publications, and the study materials for that year live here — one place to learn and to read.</p>
           <div class="cta-row">
             <a class="btn btn-gold" href="${urls.app}">Enter Aletheia</a>
             <a class="btn btn-ghost" href="${urls.learn}">Learn in the app</a>
@@ -292,12 +292,12 @@ const pages = [
         <div class="wrap">
           <p class="kicker">Works</p>
           <h2 id="home-works">Foundation School · Publications</h2>
-          <p class="lede">Ordered study and the imprint serve Mathēteuō. They are walked and read in Aletheia.</p>
+          <p class="lede">Foundation School and the books from Aletheia Publications serve Mathēteuō. You take the courses and read the books in Aletheia.</p>
           <div class="split split-2">
             <article class="card">
               <p class="kicker">Foundation School</p>
               <h3>The Walk or The Intensive</h3>
-              <p>Six first principles and the textbook. One year. The Graphē gate first; then the handbook; then the labour of the year. Same teaching. Different labour.</p>
+              <p>Six first principles and the textbook. One year. You begin with the Graphē gate — the written Word as the authority for truth — then the handbook, then a year of first-principles courses and study. Same teaching. The Walk or The Intensive: different weekly work, not different doctrine.</p>
               <p class="price">$400 <span>Either program. Same teaching.</span></p>
               <div class="cta-row">
                 <a class="btn btn-gold" href="${urls.shopYear}">Enter The Walk</a>
@@ -311,7 +311,7 @@ const pages = [
               <p class="price">$150 <span>Lordship Edition. King James Version.</span></p>
               <div class="cta-row">
                 <a class="btn btn-ghost" href="${urls.makerBible}">Open in the shop</a>
-                <a class="btn btn-ghost" href="/publications">The imprint</a>
+                <a class="btn btn-ghost" href="/publications">Publications</a>
               </div>
             </article>
           </div>
@@ -337,7 +337,7 @@ const pages = [
     og: true,
     title: "Mathēteuō · Aletheia World",
     description:
-      "Mathēteuō is the core project of Aletheia World: Truth Education that enrolls the world as scholars. Matthew 28:18–20. Ordered study, imprint, and platform in Aletheia.",
+      "Mathēteuō is the core project of Aletheia World: Truth Education that enrolls the world as scholars. Matthew 28:18–20. Foundation School, the books from Aletheia Publications, and the Aletheia study platform.",
     content: `
       <header class="page-hero" data-reveal="hero">
         <div class="hero-veil" aria-hidden="true"></div>
@@ -362,35 +362,35 @@ const pages = [
       ${enrollmentsBlock({ headingId: "matheteuo-enrollments", intro: false })}
       <section class="carry" aria-labelledby="matheteuo-carry" data-reveal="carry">
         <div class="wrap">
-          <p class="kicker">How it is carried</p>
-          <h2 id="matheteuo-carry">How Aletheia World carries Mathēteuō</h2>
+          <p class="kicker">How the work is done</p>
+          <h2 id="matheteuo-carry">What Aletheia World provides</h2>
           <ol class="carry-list">
             <li>
               <span class="n">I</span>
               <div>
-                <strong>Ordered study</strong>
-                <span>Foundation School: the Graphē gate, the handbook, and the six first principles. The year is walked in Aletheia.</span>
+                <strong>Foundation School</strong>
+                <span>A year of first-principles courses: the Graphē gate (the written Word as the authority for truth), the handbook, and the six first principles. You take the year in Aletheia.</span>
               </div>
             </li>
             <li>
               <span class="n">II</span>
               <div>
-                <strong>Imprint</strong>
-                <span>Aletheia Publications: books that serve the charge. They are read and purchased in Aletheia.</span>
+                <strong>Aletheia Publications</strong>
+                <span>The books that serve Mathēteuō. You read and buy them in Aletheia.</span>
               </div>
             </li>
             <li>
               <span class="n">III</span>
               <div>
-                <strong>Platform</strong>
-                <span>Aletheia: LMS, reader, shop, and the main resource environment of Aletheia World.</span>
+                <strong>Aletheia</strong>
+                <span>The study platform: courses, a book reader, a shop, and the rest of the study materials.</span>
               </div>
             </li>
             <li>
               <span class="n">IV</span>
               <div>
                 <strong>Partnership</strong>
-                <span>Institutions and governments who will carry Mathēteuō with their people — a shared rule of study, an imprint, a platform.</span>
+                <span>Churches, organizations, schools, and governments who will carry Mathēteuō with their people — shared teaching, books, and one study platform.</span>
               </div>
             </li>
           </ol>
@@ -465,9 +465,9 @@ const pages = [
       </section>
       <section class="section" data-reveal>
         <div class="wrap">
-          <p class="kicker">The labour</p>
-          <h2>Same year. Different labour.</h2>
-          <p class="lede">Both programs last fifty-two weeks and teach the same six courses. Intensive is not a second school and not a shortened year.</p>
+          <p class="kicker">The year of study</p>
+          <h2>Same teaching. Two programs.</h2>
+          <p class="lede">Both programs last fifty-two weeks and teach the same six courses. The Intensive is not a second school and not a shortened year — it is the same year with more weekly work.</p>
           <div class="split split-2">
             <article class="panel">
               <p class="kicker">Program</p>
@@ -505,14 +505,14 @@ const pages = [
     og: true,
     title: "Aletheia Publications · Aletheia World",
     description:
-      "Aletheia Publications serves Mathēteuō. Maker Bible and the imprint are read and purchased in Aletheia — the platform of Aletheia World.",
+      "Aletheia Publications is the books that serve Mathēteuō. Maker Bible and the other titles are read and purchased in Aletheia — the study platform of Aletheia World.",
     content: `
       <header class="page-hero" data-reveal="hero">
         <div class="hero-veil" aria-hidden="true"></div>
         <div class="wrap">
           <p class="kicker" data-hero-stagger>Aletheia Publications</p>
-          <h1 data-hero-stagger>The imprint</h1>
-          <p class="lede" data-hero-stagger>Aletheia Publications serves Mathēteuō. Reading and purchase live in Aletheia — the same platform that holds Foundation School. This page does not sell the books a second time.</p>
+          <h1 data-hero-stagger>Books that serve Mathēteuō</h1>
+          <p class="lede" data-hero-stagger>Aletheia Publications is the books of Aletheia World. You read and buy them in Aletheia — the same study platform that holds Foundation School. This page names the titles; it does not sell them a second time.</p>
           <div class="cta-row" data-hero-stagger>
             <a class="btn btn-gold" href="${urls.publications}">Open publications</a>
             <a class="btn btn-ghost" href="${urls.makerBible}">Maker Bible · $150</a>
@@ -535,9 +535,9 @@ const pages = [
       </section>
       <section class="section" data-reveal>
         <div class="wrap">
-          <p class="kicker">The labour of the imprint</p>
-          <h2>Also in the imprint</h2>
-          <p class="lede">Works that serve the same charge. Open them in Aletheia to read or to purchase.</p>
+          <p class="kicker">More titles</p>
+          <h2>Also from Aletheia Publications</h2>
+          <p class="lede">Books that serve Mathēteuō. Open them in Aletheia to read or to buy.</p>
           <ul class="titles">
             <li><strong>Maker Series</strong> Discovery of the Maker, and man as maker under His Lordship</li>
             <li><strong>Power of Salvation</strong> The gospel that restores</li>
@@ -584,7 +584,7 @@ const pages = [
     og: true,
     title: "About · Aletheia World",
     description:
-      "Aletheia World is the organization behind Mathēteuō. Aletheia is the LMS, reader, shop, and main resource platform. Founding teacher Dr. Coach Achu Gustave.",
+      "Aletheia World is the organization behind Mathēteuō. Aletheia is the study platform: courses, books, and shop. Founding teacher Dr. Coach Achu Gustave.",
     content: `
       <header class="page-hero" data-reveal="hero">
         <div class="hero-veil" aria-hidden="true"></div>
@@ -599,7 +599,7 @@ const pages = [
         <div class="wrap">
           <div class="measure">
             <p>Mission defines Aletheia World. The organization exists to deliver Mathēteuō — not a louder feed, and not a set of disconnected sites.</p>
-            <p><strong>Aletheia</strong> is the digital platform of that organization: LMS, reader, shop, and the main resource environment. Foundation School, the imprint, and the labour of the year are kept there. Aletheia Publications is the imprint inside the platform.</p>
+            <p><strong>Aletheia</strong> is the study platform of that organization: courses, a book reader, a shop, and the rest of the study materials. Foundation School (a year of first-principles courses), the books from Aletheia Publications, and the study materials for that year live there.</p>
           </div>
         </div>
       </section>
@@ -614,7 +614,7 @@ const pages = [
         <div class="wrap">
           <p class="kicker">Founding teacher</p>
           <h2>Dr. Coach Achu Gustave</h2>
-          <p class="lede">He writes and publishes under Aletheia Publications. Foundation School, the Graphē gate, and the Maker Bible are taught and kept in Aletheia.</p>
+          <p class="lede">He writes and publishes under Aletheia Publications. Foundation School, the Graphē gate (the written Word as the authority for truth), and the Maker Bible are taught and kept in Aletheia.</p>
           <div class="cta-row">
             <a class="btn btn-gold" href="/matheteuo">Mathēteuō</a>
             <a class="btn btn-ghost" href="${urls.app}">Enter Aletheia</a>
@@ -625,7 +625,7 @@ const pages = [
         <div class="closing" data-reveal="close">
           <p class="kicker">The platform</p>
           <h2>app.aletheiaworld.org</h2>
-          <p>The parent site names the charge. Aletheia holds the school, the books, and the year’s labour.</p>
+          <p>This site names the charge. Aletheia holds Foundation School, the books from Aletheia Publications, and the study materials for that year.</p>
           <div class="cta-row">
             <a class="btn btn-gold" href="${urls.app}">Enter Aletheia</a>
           </div>
