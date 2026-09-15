@@ -4,8 +4,8 @@
 
 | Layer | Name | Role |
 | --- | --- | --- |
-| Master brand | Aletheia World | Global house. Domain: aletheiaworld.org |
-| Platform | Aletheia | This PWA. Hosts: aletheia.web.app → app.aletheiaworld.org |
+| Master brand | Aletheia World | Global house. Domain: aletheiaworld.org (parent site, Hosting target `aletheia-landing`) |
+| Platform | Aletheia | This PWA. Hosts: aletheia-world.web.app and app.aletheiaworld.org |
 | Imprint | Aletheia Publications | Publishing identity inside the platform |
 
 Positioning: **Truth · Identity · Dominion**. One application. No satellite products for Books, Library, Courses, or Boards.

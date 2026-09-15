@@ -5,8 +5,8 @@ Aletheia is the digital platform of **Aletheia World**.
 It is one Progressive Web Application for learning, publication, reading, community, and commerce — not a set of disconnected sites.
 
 - Master brand: Aletheia World — [aletheiaworld.org](https://aletheiaworld.org)
-- Live host: [aletheia-world.web.app](https://aletheia-world.web.app)
-- Later host: [app.aletheiaworld.org](https://app.aletheiaworld.org) (same app)
+- Live platform: [app.aletheiaworld.org](https://app.aletheiaworld.org) (same app as [aletheia-world.web.app](https://aletheia-world.web.app))
+- `landing/` — parent/marketing site for the apex domain (Firebase Hosting site `aletheia-landing`)
 - `MAKER_BIBLE.md` — Lordship Edition product lock (KJV; product page + Genesis 1 sample; $150)
 - `PAYMENTS.md` — Stripe on the existing account; webhook, entitlements, and year Mobile Money
 - Imprint: Aletheia Publications
@@ -41,6 +41,7 @@ Copy `.env.example` to `.env.local` when you have a Firebase web config. See `FI
 ## Documentation
 
 - `FOUNDATION_SCHOOL.md` — consultant brief for Foundation School (school, six courses, textbook, companion books, pricing)
+- `landing/README.md` — parent site at aletheiaworld.org (`firebase deploy --only hosting:aletheia-landing`)
 - `MAKER_BIBLE.md` — Maker Bible first ship ($150)
 - `PAYMENTS.md` — Stripe (same account as SBD Network; separate Aletheia webhook; year Mobile Money)
 - `study/` — writer archive of the 2015 Aletheia Libraries 1 manuscript (not a student resource; not sold)
