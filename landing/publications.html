@@ -4,24 +4,29 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <title>Aletheia Publications · Aletheia World</title>
-    <meta name="description" content="The imprint of Aletheia World. Maker Bible — Lordship Edition, $150, and the books kept in the Aletheia app.">
+    <meta name="description" content="Aletheia Publications serves Mathēteuō. Maker Bible and the imprint are read and purchased in Aletheia — the platform of Aletheia World.">
     <link rel="canonical" href="https://aletheiaworld.org/publications">
     <meta name="theme-color" content="#100e0b">
     <meta name="color-scheme" content="dark">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Aletheia World">
     <meta property="og:title" content="Aletheia Publications · Aletheia World">
-    <meta property="og:description" content="The imprint of Aletheia World. Maker Bible — Lordship Edition, $150, and the books kept in the Aletheia app.">
+    <meta property="og:description" content="Aletheia Publications serves Mathēteuō. Maker Bible and the imprint are read and purchased in Aletheia — the platform of Aletheia World.">
     <meta property="og:url" content="https://aletheiaworld.org/publications">
     <meta property="og:image" content="https://aletheiaworld.org/img/og.png">
     <meta property="og:image:alt" content="Aletheia World — Truth · Identity · Dominion">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Aletheia Publications · Aletheia World">
-    <meta name="twitter:description" content="The imprint of Aletheia World. Maker Bible — Lordship Edition, $150, and the books kept in the Aletheia app.">
+    <meta name="twitter:description" content="Aletheia Publications serves Mathēteuō. Maker Bible and the imprint are read and purchased in Aletheia — the platform of Aletheia World.">
     <meta name="twitter:image" content="https://aletheiaworld.org/img/og.png">
     <link rel="icon" href="/img/favicon.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
     <link rel="stylesheet" href="/css/site.css">
+    <script>
+      if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+        document.documentElement.classList.add("motion-ok");
+      }
+    </script>
   </head>
   <body class="page-publications">
     <a class="skip" href="#content">Skip to content</a>
@@ -33,6 +38,7 @@
         </a>
         <nav id="site-nav" class="site-nav" aria-label="Site">
           <a href="/">Home</a>
+          <a href="/matheteuo">Mathēteuō</a>
           <a href="/foundation-school">Foundation School</a>
           <a href="/publications" aria-current="page">Publications</a>
           <a href="/about">About</a>
@@ -45,18 +51,19 @@
     </header>
     <main id="content">
       
-      <header class="page-hero">
+      <header class="page-hero" data-reveal="hero">
+        <div class="hero-veil" aria-hidden="true"></div>
         <div class="wrap">
-          <p class="kicker">Aletheia Publications</p>
-          <h1>The imprint of the house</h1>
-          <p class="lede">Books, journals, and studies live inside Aletheia — not on a second site. The publishing environment is the same platform that holds Foundation School.</p>
-          <div class="cta-row">
+          <p class="kicker" data-hero-stagger>Aletheia Publications</p>
+          <h1 data-hero-stagger>The imprint</h1>
+          <p class="lede" data-hero-stagger>Aletheia Publications serves Mathēteuō. Reading and purchase live in Aletheia — the same platform that holds Foundation School. This page does not sell the books a second time.</p>
+          <div class="cta-row" data-hero-stagger>
             <a class="btn btn-gold" href="https://app.aletheiaworld.org/publications">Open publications</a>
             <a class="btn btn-ghost" href="https://app.aletheiaworld.org/shop/product-maker-bible">Maker Bible · $150</a>
           </div>
         </div>
       </header>
-      <section class="section">
+      <section class="section" data-reveal>
         <div class="wrap">
           <article class="card">
             <p class="kicker">Lordship Edition</p>
@@ -70,11 +77,29 @@
           </article>
         </div>
       </section>
-      <section class="section">
+      <section class="section" data-reveal>
         <div class="wrap">
-          <p class="kicker">In the house</p>
+          <p class="kicker">The labour of the imprint</p>
+          <h2>Also in the imprint</h2>
+          <p class="lede">Works that serve the same charge. Open them in Aletheia to read or to purchase.</p>
+          <ul class="titles">
+            <li><strong>Maker Series</strong> Discovery of the Maker, and man as maker under His Lordship</li>
+            <li><strong>Power of Salvation</strong> The gospel that restores</li>
+            <li><strong>Presence of Sons (1–4)</strong> Sonship in four movements</li>
+            <li><strong>Maximal Profit — Creator’s Testament</strong> Stewardship under the Maker</li>
+            <li><strong>Mind of Christ (1–3)</strong> The mind that was in Christ Jesus</li>
+            <li><strong>Noetic Church</strong> A people who know</li>
+            <li><strong>True Nature of God</strong> Who He is</li>
+            <li><strong>Doctrine of Man</strong> Identity. Nature. Purpose. Dominion. <a href="https://app.aletheiaworld.org/publications">In Aletheia</a></li>
+            <li><strong>Family Economic–Econometric Science</strong> Household and national life under veracity</li>
+          </ul>
+        </div>
+      </section>
+      <section class="section" data-reveal>
+        <div class="wrap">
+          <p class="kicker">In Aletheia</p>
           <h2>Titles now in the app</h2>
-          <p class="lede">These are already listed in Aletheia. Open them there to read or to purchase. This page does not sell them a second time.</p>
+          <p class="lede">These are already listed in Aletheia. Open them there to read or to purchase.</p>
           <ul class="titles">
             <li><strong>Maker Bible</strong> Lordship Edition</li>
             <li><strong>The Doctrine of Man</strong> Identity. Nature. Purpose. Dominion.</li>
@@ -90,6 +115,7 @@
           <div class="cta-row">
             <a class="btn btn-ghost" href="https://app.aletheiaworld.org/publications">All publications in the app</a>
             <a class="btn btn-ghost" href="https://app.aletheiaworld.org/shop">Shop</a>
+            <a class="btn btn-ghost" href="/matheteuo">Mathēteuō</a>
           </div>
         </div>
       </section>
@@ -99,10 +125,11 @@
         <div>
           <p class="footer-brand">Aletheia World</p>
           <p>Truth · Identity · Dominion</p>
-          <p class="footer-note">The platform lives at <a href="https://app.aletheiaworld.org">app.aletheiaworld.org</a>.</p>
+          <p class="footer-note">Aletheia — the platform — lives at <a href="https://app.aletheiaworld.org">app.aletheiaworld.org</a>.</p>
         </div>
         <nav class="footer-nav" aria-label="Footer">
           <a href="/">Home</a>
+          <a href="/matheteuo">Mathēteuō</a>
           <a href="/foundation-school">Foundation School</a>
           <a href="/publications">Publications</a>
           <a href="/about">About</a>

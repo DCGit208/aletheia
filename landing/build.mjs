@@ -18,6 +18,123 @@ const urls = {
   makerBibleBook: `${APP}/publications/books/book-maker-bible`,
 };
 
+/** Canonical mission — EXACT. Do not paraphrase. */
+const MISSION =
+  "To deliver Mathēteuō — Truth Education that enrolls the world as scholars: individuals, institutions, and governments learning and operating in Elohim; complete in the divine identity.";
+
+const VISION_HEAD = "A world enrolled — not entertained.";
+const VISION_BODY =
+  "Individuals, institutions, and governments who learn in Elohim, operate in Elohim, and stand complete in the divine identity: Truth · Identity · Dominion.";
+const VISION = `${VISION_HEAD} ${VISION_BODY}`;
+
+const VISION_ALT =
+  "That the nations would not inherit noise — but a people, institutions, and governments who know who they are in Elohim, and operate from that completeness.";
+
+const MATTHEW_28 = {
+  verses: [
+    "And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth.",
+    "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:",
+    "Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.",
+  ],
+  cite: "Matthew 28:18–20",
+};
+
+const NAV = [
+  { href: "/", label: "Home", key: "home" },
+  { href: "/matheteuo", label: "Mathēteuō", key: "matheteuo" },
+  { href: "/foundation-school", label: "Foundation School", key: "school" },
+  { href: "/publications", label: "Publications", key: "publications" },
+  { href: "/about", label: "About", key: "about" },
+];
+
+const ENROLLMENTS = [
+  {
+    numeral: "I",
+    kicker: "Individuals",
+    title: "The person",
+    body: "You are not a consumer of content. You are a scholar of life in Elohim — to learn, to operate, to be made complete in the divine identity. Foundation School, the imprint, and the labour of the year are kept for you in Aletheia.",
+  },
+  {
+    numeral: "II",
+    kicker: "Institutions",
+    title: "The body",
+    body: "Churches, organizations, and schools that will not leave their people to relative truth. Mathēteuō is Truth Education they can carry together — a shared rule of study, an imprint, a platform — so the body learns and operates in Elohim as one.",
+  },
+  {
+    numeral: "III",
+    kicker: "Governments",
+    title: "The people under authority",
+    body: "Authority is not excused from scholarship. Governments are enrolled in the same charge: learning and operating in Elohim with regard to household and national life — veracity over ideology, identity over noise.",
+  },
+];
+
+function missionBlock({ headingId, kicker = "The charge" }) {
+  return `
+        <section class="mission" aria-labelledby="${headingId}" data-reveal="mission">
+          <div class="wrap">
+            <p class="kicker">${kicker}</p>
+            <h2 id="${headingId}" class="mission-heading">Mission</h2>
+            <p class="mission-statement">${escapeHtml(MISSION)}</p>
+          </div>
+        </section>`;
+}
+
+function enrollmentsBlock({ headingId, intro = true } = {}) {
+  const items = ENROLLMENTS.map(
+    (item, index) => `
+            <article class="enrollment" role="listitem" tabindex="0" data-reveal="enrollment" style="--reveal-delay: ${index * 140}ms">
+              <p class="enrollment-numeral" aria-hidden="true">${item.numeral}</p>
+              <p class="kicker">${escapeHtml(item.kicker)}</p>
+              <h3>${escapeHtml(item.title)}</h3>
+              <p>${escapeHtml(item.body)}</p>
+            </article>`,
+  ).join("");
+
+  const head = intro
+    ? `
+          <div data-reveal="enrollments-head">
+          <p class="kicker">Enrolled as scholars</p>
+          <h2 id="${headingId}">Three enrollments</h2>
+          <p class="lede">Individuals. Institutions. Governments. One charge — to learn and operate in Elohim, complete in the divine identity.</p>
+          </div>`
+    : `
+          <div data-reveal="enrollments-head">
+          <p class="kicker">Enrolled as scholars</p>
+          <h2 id="${headingId}">The person · the body · the people under authority</h2>
+          </div>`
+
+  return `
+        <section class="enrollments" aria-labelledby="${headingId}">
+          <div class="wrap">
+            ${head}
+            <div class="triptych" role="list">
+              ${items}
+            </div>
+          </div>
+        </section>`;
+}
+
+function sanctumBlock({
+  headingId,
+  href = "/matheteuo",
+  cta = "The core project",
+} = {}) {
+  return `
+        <section class="sanctum" aria-labelledby="${headingId}" data-reveal="sanctum">
+          <div class="wrap sanctum-inner">
+            <p class="kicker">Core project</p>
+            <p class="lemma" lang="el" data-lemma>μαθητεύω</p>
+            <div class="sanctum-rule" aria-hidden="true"></div>
+            <h2 id="${headingId}">Mathēteuō</h2>
+            <p class="lede">Truth Education that enrolls the world as scholars. The core project of Aletheia World — not a product line, and not a quieter feed.</p>
+            <div class="cta-row">
+              <a class="btn btn-gold" href="${href}">${escapeHtml(cta)}</a>
+              <a class="btn btn-ghost" href="${urls.app}">Enter Aletheia</a>
+            </div>
+          </div>
+        </section>`;
+}
+
 function layout({
   id,
   title,
@@ -30,17 +147,15 @@ function layout({
 }) {
   const canonical = `${SITE}${path}`;
   const ogImage = `${SITE}/img/og.png`;
-  const nav = [
-    { href: "/", label: "Home", key: "home" },
-    { href: "/foundation-school", label: "Foundation School", key: "school" },
-    { href: "/publications", label: "Publications", key: "publications" },
-    { href: "/about", label: "About", key: "about" },
-  ]
-    .map((item) => {
-      const currentAttr = item.key === current ? ' aria-current="page"' : "";
-      return `<a href="${item.href}"${currentAttr}>${item.label}</a>`;
-    })
-    .join("\n          ");
+  const nav = NAV.map((item) => {
+    const currentAttr = item.key === current ? ' aria-current="page"' : "";
+    return `<a href="${item.href}"${currentAttr}>${item.label}</a>`;
+  }).join("\n          ");
+
+  const footerNav = [
+    ...NAV.map((item) => `<a href="${item.href}">${item.label}</a>`),
+    `<a href="${urls.app}">Enter Aletheia</a>`,
+  ].join("\n          ");
 
   const ogTags = og
     ? `
@@ -73,6 +188,11 @@ function layout({
     <link rel="icon" href="/img/favicon.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
     <link rel="stylesheet" href="/css/site.css">
+    <script>
+      if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+        document.documentElement.classList.add("motion-ok");
+      }
+    </script>
   </head>
   <body class="page-${id}">
     <a class="skip" href="#content">Skip to content</a>
@@ -99,14 +219,10 @@ function layout({
         <div>
           <p class="footer-brand">Aletheia World</p>
           <p>Truth · Identity · Dominion</p>
-          <p class="footer-note">The platform lives at <a href="${urls.app}">app.aletheiaworld.org</a>.</p>
+          <p class="footer-note">Aletheia — the platform — lives at <a href="${urls.app}">app.aletheiaworld.org</a>.</p>
         </div>
         <nav class="footer-nav" aria-label="Footer">
-          <a href="/">Home</a>
-          <a href="/foundation-school">Foundation School</a>
-          <a href="/publications">Publications</a>
-          <a href="/about">About</a>
-          <a href="${urls.app}">Enter Aletheia</a>
+          ${footerNav}
         </nav>
       </div>
     </footer>
@@ -135,33 +251,53 @@ const pages = [
     path: "/",
     title: "Aletheia World · Truth · Identity · Dominion",
     description:
-      "A house for truth. You were given a charge. Foundation School, Aletheia Publications, and the Aletheia platform live at app.aletheiaworld.org.",
+      "Aletheia World delivers Mathēteuō — Truth Education that enrolls individuals, institutions, and governments as scholars learning and operating in Elohim.",
     og: true,
     content: `
-      <section class="hero">
-        <div class="wrap">
-          <p class="kicker">Truth · Identity · Dominion</p>
-          <h1>A house for truth.<br><span>You were given a charge.</span></h1>
-          <p class="lede">You were not given more noise.</p>
-          <div class="cta-row">
-            <a class="btn btn-gold" href="${urls.app}">Enter the app</a>
-            <a class="btn btn-ghost" href="${urls.school}">Foundation School</a>
-          </div>
-          <div class="house">
-            <p>Aletheia World is the house. Aletheia is the platform — one environment for learning, publication, reading, community, and commerce. The year is walked there. The books are kept there.</p>
+      <section class="hero" data-reveal="hero">
+        <div class="hero-veil" aria-hidden="true"></div>
+        <div class="wrap hero-inner" data-hero-parallax>
+          <p class="kicker" data-hero-stagger>Aletheia World</p>
+          <h1 data-hero-stagger>A world enrolled.<br><span>Not entertained.</span></h1>
+          <p class="lede" data-hero-stagger>${escapeHtml(VISION_ALT)}</p>
+          <div class="cta-row" data-hero-stagger>
+            <a class="btn btn-gold" href="/matheteuo">Mathēteuō</a>
+            <a class="btn btn-ghost" href="${urls.app}">Enter Aletheia</a>
           </div>
         </div>
       </section>
-      <section class="section">
+      ${missionBlock({ headingId: "home-mission" })}
+      <section class="vision" aria-labelledby="home-vision" data-reveal="vision">
         <div class="wrap">
-          <p class="kicker">Foundation School</p>
-          <h2>The Walk · fifty-two weeks</h2>
-          <p class="lede">Six first principles and the textbook. One year. One charge. The Graphē gate first; then the handbook; then the labour of the year.</p>
+          <p class="kicker">Vision</p>
+          <h2 id="home-vision">${escapeHtml(VISION_HEAD)}</h2>
+          <p class="lede">${escapeHtml(VISION_BODY)}</p>
+        </div>
+      </section>
+      ${enrollmentsBlock({ headingId: "home-enrollments" })}
+      ${sanctumBlock({ headingId: "home-matheteuo", cta: "Read Mathēteuō" })}
+      <section class="platform" aria-labelledby="home-platform" data-reveal="platform">
+        <div class="wrap">
+          <p class="kicker">The platform</p>
+          <h2 id="home-platform">Aletheia</h2>
+          <p class="lede">The study platform of Aletheia World: LMS, reader, shop, and the main resource environment. Foundation School, the imprint, and the year’s labour are kept there — one place to learn, to read, and to carry the charge.</p>
+          <div class="cta-row">
+            <a class="btn btn-gold" href="${urls.app}">Enter Aletheia</a>
+            <a class="btn btn-ghost" href="${urls.learn}">Learn in the app</a>
+            <a class="btn btn-ghost" href="${urls.publications}">Publications in the app</a>
+          </div>
+        </div>
+      </section>
+      <section class="works" aria-labelledby="home-works" data-reveal="works">
+        <div class="wrap">
+          <p class="kicker">Works</p>
+          <h2 id="home-works">Foundation School · Publications</h2>
+          <p class="lede">Ordered study and the imprint serve Mathēteuō. They are walked and read in Aletheia.</p>
           <div class="split split-2">
             <article class="card">
-              <p class="kicker">The year</p>
+              <p class="kicker">Foundation School</p>
               <h3>The Walk or The Intensive</h3>
-              <p>Same year. Different labour. About three hours a week, or about eight. Not a second syllabus.</p>
+              <p>Six first principles and the textbook. One year. The Graphē gate first; then the handbook; then the labour of the year. Same teaching. Different labour.</p>
               <p class="price">$400 <span>Either program. Same teaching.</span></p>
               <div class="cta-row">
                 <a class="btn btn-gold" href="${urls.shopYear}">Enter The Walk</a>
@@ -175,19 +311,93 @@ const pages = [
               <p class="price">$150 <span>Lordship Edition. King James Version.</span></p>
               <div class="cta-row">
                 <a class="btn btn-ghost" href="${urls.makerBible}">Open in the shop</a>
+                <a class="btn btn-ghost" href="/publications">The imprint</a>
               </div>
             </article>
           </div>
         </div>
       </section>
       <section class="wrap">
-        <div class="closing">
-          <p class="kicker">Aletheia</p>
-          <h2>The platform is open.</h2>
-          <p>Foundation School, the imprint, and the year’s labour are kept in one place. Enter the house there.</p>
+        <div class="closing" data-reveal="close">
+          <p class="kicker">Aletheia World</p>
+          <h2>The charge stands.</h2>
+          <p>A world enrolled — not entertained. Mathēteuō is the work. Aletheia is where it is carried.</p>
           <div class="cta-row">
-            <a class="btn btn-gold" href="${urls.app}">Enter Aletheia</a>
-            <a class="btn btn-ghost" href="${urls.publications}">Publications in the app</a>
+            <a class="btn btn-gold" href="/matheteuo">Mathēteuō</a>
+            <a class="btn btn-ghost" href="${urls.app}">Enter Aletheia</a>
+          </div>
+        </div>
+      </section>`,
+  },
+  {
+    file: "matheteuo.html",
+    id: "matheteuo",
+    current: "matheteuo",
+    path: "/matheteuo",
+    og: true,
+    title: "Mathēteuō · Aletheia World",
+    description:
+      "Mathēteuō is the core project of Aletheia World: Truth Education that enrolls the world as scholars. Matthew 28:18–20. Ordered study, imprint, and platform in Aletheia.",
+    content: `
+      <header class="page-hero" data-reveal="hero">
+        <div class="hero-veil" aria-hidden="true"></div>
+        <div class="wrap">
+          <p class="kicker" data-hero-stagger>Core project of Aletheia World</p>
+          <p class="lemma lemma-page" lang="el" data-hero-stagger>μαθητεύω</p>
+          <h1 data-hero-stagger>Mathēteuō</h1>
+          <p class="lede" data-hero-stagger>Truth Education that enrolls the world as scholars: individuals, institutions, and governments learning and operating in Elohim.</p>
+        </div>
+      </header>
+      ${missionBlock({ headingId: "matheteuo-mission", kicker: "The charge, named" })}
+      <section class="section liturgy" aria-labelledby="matheteuo-liturgy" data-reveal="liturgy">
+        <div class="wrap">
+          <p class="kicker">The commission</p>
+          <h2 id="matheteuo-liturgy">Matthew 28:18–20</h2>
+          <blockquote class="scripture scripture-liturgy">
+            ${MATTHEW_28.verses.map((verse) => `<p>${escapeHtml(verse)}</p>`).join("\n            ")}
+            <cite>${escapeHtml(MATTHEW_28.cite)}</cite>
+          </blockquote>
+        </div>
+      </section>
+      ${enrollmentsBlock({ headingId: "matheteuo-enrollments", intro: false })}
+      <section class="carry" aria-labelledby="matheteuo-carry" data-reveal="carry">
+        <div class="wrap">
+          <p class="kicker">How it is carried</p>
+          <h2 id="matheteuo-carry">How Aletheia World carries Mathēteuō</h2>
+          <ol class="carry-list">
+            <li>
+              <span class="n">I</span>
+              <div>
+                <strong>Ordered study</strong>
+                <span>Foundation School: the Graphē gate, the handbook, and the six first principles. The year is walked in Aletheia.</span>
+              </div>
+            </li>
+            <li>
+              <span class="n">II</span>
+              <div>
+                <strong>Imprint</strong>
+                <span>Aletheia Publications: books that serve the charge. They are read and purchased in Aletheia.</span>
+              </div>
+            </li>
+            <li>
+              <span class="n">III</span>
+              <div>
+                <strong>Platform</strong>
+                <span>Aletheia: LMS, reader, shop, and the main resource environment of Aletheia World.</span>
+              </div>
+            </li>
+            <li>
+              <span class="n">IV</span>
+              <div>
+                <strong>Partnership</strong>
+                <span>Institutions and governments who will carry Mathēteuō with their people — a shared rule of study, an imprint, a platform.</span>
+              </div>
+            </li>
+          </ol>
+          <div class="cta-row">
+            <a class="btn btn-gold" href="/foundation-school">Foundation School</a>
+            <a class="btn btn-ghost" href="/publications">Publications</a>
+            <a class="btn btn-ghost" href="${urls.app}">Enter Aletheia</a>
           </div>
         </div>
       </section>`,
@@ -200,14 +410,16 @@ const pages = [
     og: true,
     title: "Foundation School · Aletheia World",
     description:
-      "The Graphē gate, the school handbook, and six first principles from Hebrews 6:1–2. The Walk or The Intensive. Same year. Different labour. $400.",
+      "Foundation School is a work of Mathēteuō — ordered study for those enrolled as scholars. The Graphē gate, six first principles, The Walk or The Intensive.",
     content: `
-      <header class="page-hero">
+      <header class="page-hero" data-reveal="hero">
+        <div class="hero-veil" aria-hidden="true"></div>
         <div class="wrap">
-          <p class="kicker">Foundation School</p>
-          <h1>Principles of the Doctrine of Christ</h1>
-          <p class="lede">The first house of study inside Aletheia. It begins with the written authority for truth, then walks the six first principles named in Hebrews 6:1–2. It is not a second website, and not a seventh app tab.</p>
-          <div class="cta-row">
+          <p class="kicker" data-hero-stagger>Foundation School</p>
+          <h1 data-hero-stagger>Principles of the Doctrine of Christ</h1>
+          <p class="lede" data-hero-stagger>The first school of study inside Aletheia. It begins with the written authority for truth, then walks the six first principles named in Hebrews 6:1–2. It is not a second website, and not a seventh app tab.</p>
+          <p class="work-of" data-hero-stagger>A work of Mathēteuō — ordered study for those enrolled as scholars.</p>
+          <div class="cta-row" data-hero-stagger>
             <a class="btn btn-gold" href="${urls.school}">Enter the school</a>
             <a class="btn btn-ghost" href="${urls.shopYear}">The Walk · $400</a>
           </div>
@@ -215,13 +427,13 @@ const pages = [
       </header>
       <section class="section">
         <div class="wrap">
-          <blockquote class="scripture">
+          <blockquote class="scripture" data-reveal="scripture">
             <p>Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God, of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.</p>
             <cite>Hebrews 6:1–2</cite>
           </blockquote>
         </div>
       </section>
-      <section class="section">
+      <section class="section" data-reveal>
         <div class="wrap">
           <p class="kicker">The entrance</p>
           <h2>The Graphē gate</h2>
@@ -229,14 +441,14 @@ const pages = [
           <p class="lede"><cite>One Source of Truth — The Doctrine of the Graphē</cite> is the gate book and course. It is included with the year.</p>
         </div>
       </section>
-      <section class="section">
+      <section class="section" data-reveal>
         <div class="wrap">
           <p class="kicker">The handbook</p>
           <h2>The Principles of the Doctrine of Christ</h2>
           <p class="lede">A concise reference on the oracles and the six first principles. It is included with The Walk and The Intensive. It supports the courses; it does not replace them. A student should not need to leave a lesson before the doctrine becomes intelligible.</p>
         </div>
       </section>
-      <section class="section">
+      <section class="section" data-reveal>
         <div class="wrap">
           <p class="kicker">The foundation</p>
           <h2>Six first principles</h2>
@@ -251,7 +463,7 @@ const pages = [
           </ol>
         </div>
       </section>
-      <section class="section">
+      <section class="section" data-reveal>
         <div class="wrap">
           <p class="kicker">The labour</p>
           <h2>Same year. Different labour.</h2>
@@ -280,6 +492,7 @@ const pages = [
           <div class="cta-row">
             <a class="btn btn-ghost" href="${urls.learn}">Learn in the app</a>
             <a class="btn btn-ghost" href="${urls.shop}">Shop</a>
+            <a class="btn btn-ghost" href="/matheteuo">Mathēteuō</a>
           </div>
         </div>
       </section>`,
@@ -292,20 +505,21 @@ const pages = [
     og: true,
     title: "Aletheia Publications · Aletheia World",
     description:
-      "The imprint of Aletheia World. Maker Bible — Lordship Edition, $150, and the books kept in the Aletheia app.",
+      "Aletheia Publications serves Mathēteuō. Maker Bible and the imprint are read and purchased in Aletheia — the platform of Aletheia World.",
     content: `
-      <header class="page-hero">
+      <header class="page-hero" data-reveal="hero">
+        <div class="hero-veil" aria-hidden="true"></div>
         <div class="wrap">
-          <p class="kicker">Aletheia Publications</p>
-          <h1>The imprint of the house</h1>
-          <p class="lede">Books, journals, and studies live inside Aletheia — not on a second site. The publishing environment is the same platform that holds Foundation School.</p>
-          <div class="cta-row">
+          <p class="kicker" data-hero-stagger>Aletheia Publications</p>
+          <h1 data-hero-stagger>The imprint</h1>
+          <p class="lede" data-hero-stagger>Aletheia Publications serves Mathēteuō. Reading and purchase live in Aletheia — the same platform that holds Foundation School. This page does not sell the books a second time.</p>
+          <div class="cta-row" data-hero-stagger>
             <a class="btn btn-gold" href="${urls.publications}">Open publications</a>
             <a class="btn btn-ghost" href="${urls.makerBible}">Maker Bible · $150</a>
           </div>
         </div>
       </header>
-      <section class="section">
+      <section class="section" data-reveal>
         <div class="wrap">
           <article class="card">
             <p class="kicker">Lordship Edition</p>
@@ -319,11 +533,29 @@ const pages = [
           </article>
         </div>
       </section>
-      <section class="section">
+      <section class="section" data-reveal>
         <div class="wrap">
-          <p class="kicker">In the house</p>
+          <p class="kicker">The labour of the imprint</p>
+          <h2>Also in the imprint</h2>
+          <p class="lede">Works that serve the same charge. Open them in Aletheia to read or to purchase.</p>
+          <ul class="titles">
+            <li><strong>Maker Series</strong> Discovery of the Maker, and man as maker under His Lordship</li>
+            <li><strong>Power of Salvation</strong> The gospel that restores</li>
+            <li><strong>Presence of Sons (1–4)</strong> Sonship in four movements</li>
+            <li><strong>Maximal Profit — Creator’s Testament</strong> Stewardship under the Maker</li>
+            <li><strong>Mind of Christ (1–3)</strong> The mind that was in Christ Jesus</li>
+            <li><strong>Noetic Church</strong> A people who know</li>
+            <li><strong>True Nature of God</strong> Who He is</li>
+            <li><strong>Doctrine of Man</strong> Identity. Nature. Purpose. Dominion. <a href="${urls.publications}">In Aletheia</a></li>
+            <li><strong>Family Economic–Econometric Science</strong> Household and national life under veracity</li>
+          </ul>
+        </div>
+      </section>
+      <section class="section" data-reveal>
+        <div class="wrap">
+          <p class="kicker">In Aletheia</p>
           <h2>Titles now in the app</h2>
-          <p class="lede">These are already listed in Aletheia. Open them there to read or to purchase. This page does not sell them a second time.</p>
+          <p class="lede">These are already listed in Aletheia. Open them there to read or to purchase.</p>
           <ul class="titles">
             <li><strong>Maker Bible</strong> Lordship Edition</li>
             <li><strong>The Doctrine of Man</strong> Identity. Nature. Purpose. Dominion.</li>
@@ -339,6 +571,7 @@ const pages = [
           <div class="cta-row">
             <a class="btn btn-ghost" href="${urls.publications}">All publications in the app</a>
             <a class="btn btn-ghost" href="${urls.shop}">Shop</a>
+            <a class="btn btn-ghost" href="/matheteuo">Mathēteuō</a>
           </div>
         </div>
       </section>`,
@@ -351,41 +584,50 @@ const pages = [
     og: true,
     title: "About · Aletheia World",
     description:
-      "Aletheia World is the house. Dr. Coach Achu Gustave is the founding teacher. The platform Aletheia lives at app.aletheiaworld.org.",
+      "Aletheia World is the organization behind Mathēteuō. Aletheia is the LMS, reader, shop, and main resource platform. Founding teacher Dr. Coach Achu Gustave.",
     content: `
-      <header class="page-hero">
+      <header class="page-hero" data-reveal="hero">
+        <div class="hero-veil" aria-hidden="true"></div>
         <div class="wrap">
-          <p class="kicker">The house</p>
-          <h1>Aletheia World</h1>
-          <p class="lede">A house for truth, identity, and dominion. Not a louder feed. Not a set of disconnected sites.</p>
+          <p class="kicker" data-hero-stagger>The organization</p>
+          <h1 data-hero-stagger>Aletheia World</h1>
+          <p class="lede" data-hero-stagger>${escapeHtml(VISION_ALT)}</p>
         </div>
       </header>
-      <section class="section">
+      ${missionBlock({ headingId: "about-mission", kicker: "What defines the work" })}
+      <section class="section" data-reveal>
         <div class="wrap">
           <div class="measure">
-          <p>Aletheia World is the master house. Aletheia is the digital platform of that house — one application for learning, publication, reading, community, and commerce. Aletheia Publications is the imprint inside the platform.</p>
-          <p>The work is ordered toward a higher humanity: to know what is true, to stand in the identity given, and to walk in the charge that follows.</p>
+            <p>Mission defines Aletheia World. The organization exists to deliver Mathēteuō — not a louder feed, and not a set of disconnected sites.</p>
+            <p><strong>Aletheia</strong> is the digital platform of that organization: LMS, reader, shop, and the main resource environment. Foundation School, the imprint, and the labour of the year are kept there. Aletheia Publications is the imprint inside the platform.</p>
           </div>
         </div>
       </section>
-      <section class="section">
+      <section class="section" data-reveal>
+        <div class="wrap">
+          <p class="kicker">Lineage</p>
+          <h2>A long labour of Truth Education</h2>
+          <p class="lede">Aletheia World continues Mathēteuō work already underway: Truth Education that enrolls persons, bodies, and peoples under authority as scholars — learning and operating in Elohim, complete in the divine identity.</p>
+        </div>
+      </section>
+      <section class="section" data-reveal>
         <div class="wrap">
           <p class="kicker">Founding teacher</p>
           <h2>Dr. Coach Achu Gustave</h2>
-          <p class="lede">He writes and publishes under Aletheia Publications. Foundation School, the Graphē gate, and the Maker Bible are taught and kept in the platform that bears the house’s name.</p>
+          <p class="lede">He writes and publishes under Aletheia Publications. Foundation School, the Graphē gate, and the Maker Bible are taught and kept in Aletheia.</p>
           <div class="cta-row">
-            <a class="btn btn-gold" href="${urls.app}">Enter Aletheia</a>
-            <a class="btn btn-ghost" href="/foundation-school">Foundation School</a>
+            <a class="btn btn-gold" href="/matheteuo">Mathēteuō</a>
+            <a class="btn btn-ghost" href="${urls.app}">Enter Aletheia</a>
           </div>
         </div>
       </section>
       <section class="wrap">
-        <div class="closing">
+        <div class="closing" data-reveal="close">
           <p class="kicker">The platform</p>
           <h2>app.aletheiaworld.org</h2>
-          <p>The parent site invites. The platform holds the school, the books, and the year’s labour.</p>
+          <p>The parent site names the charge. Aletheia holds the school, the books, and the year’s labour.</p>
           <div class="cta-row">
-            <a class="btn btn-gold" href="${urls.app}">Enter the app</a>
+            <a class="btn btn-gold" href="${urls.app}">Enter Aletheia</a>
           </div>
         </div>
       </section>`,
@@ -397,12 +639,13 @@ const pages = [
     path: "/404",
     noindex: true,
     title: "Not found · Aletheia World",
-    description: "This page is not in the house. Return home, or enter the Aletheia app.",
+    description:
+      "This page is not found. Return to Aletheia World, or enter the Aletheia platform.",
     content: `
-      <header class="page-hero">
+      <header class="page-hero" data-reveal="hero">
         <div class="wrap">
           <p class="kicker">Aletheia World</p>
-          <h1>This page is not in the house.</h1>
+          <h1>This page is not found.</h1>
           <p class="lede">Return to the parent site, or enter the platform where the school and the books are kept.</p>
           <div class="cta-row">
             <a class="btn btn-gold" href="/">Home</a>
@@ -436,4 +679,27 @@ writeFileSync(
 `,
 );
 
-console.log(`Wrote ${pages.length + 1} landing pages.`);
+writeFileSync(
+  join(root, "robots.txt"),
+  `User-agent: *
+Allow: /
+
+Sitemap: ${SITE}/sitemap.xml
+`,
+);
+
+const sitemapBody = pages
+  .filter((page) => !page.noindex)
+  .map((page) => `  <url>\n    <loc>${SITE}${page.path}</loc>\n  </url>`)
+  .join("\n");
+
+writeFileSync(
+  join(root, "sitemap.xml"),
+  `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${sitemapBody}
+</urlset>
+`,
+);
+
+console.log(`Wrote ${pages.length + 1} landing pages, robots.txt, and sitemap.xml.`);

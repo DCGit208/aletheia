@@ -72,6 +72,7 @@
 
 :root {
   --bg: #070605;
+  --bg-deep: #050403;
   --bg-elevated: #161412;
   --card: #201e1a;
   --ink: #f4efe4;
@@ -82,11 +83,12 @@
   --line: rgb(255 255 255 / 9%);
   --line-strong: rgb(255 255 255 / 14%);
   --glow: rgb(196 163 90 / 22%);
-  --wrap: 70rem;
+  --wrap: 72rem;
   --header-h: 4.35rem;
   --sans: "Source Sans 3", "Source Sans Pro", ui-sans-serif, system-ui, sans-serif;
   --serif: "Fraunces", "Times New Roman", Times, serif;
   --radius: 1rem;
+  --ease-liturgical: cubic-bezier(0.22, 1, 0.36, 1);
 }
 
 *,
@@ -101,6 +103,22 @@ html {
   scroll-behavior: smooth;
 }
 
+@media (prefers-reduced-motion: no-preference) {
+  html.motion-ok body {
+    animation: page-enter 0.9s var(--ease-liturgical) both;
+  }
+}
+
+@keyframes page-enter {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
 body {
   margin: 0;
   min-height: 100dvh;
@@ -113,6 +131,22 @@ body {
     var(--bg);
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+}
+
+body.nav-open {
+  overflow: hidden;
+}
+
+body.nav-open::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 35;
+  background: var(--bg);
+}
+
+body.nav-open .site-header {
+  backdrop-filter: none;
 }
 
 img {
@@ -173,6 +207,12 @@ a:hover {
   border-bottom: 1px solid var(--line);
   background: rgb(7 6 5 / 88%);
   backdrop-filter: blur(16px);
+  transition: height 320ms var(--ease-liturgical), background-color 320ms ease;
+}
+
+.site-header.is-compact {
+  --header-h: 3.5rem;
+  background: rgb(7 6 5 / 94%);
 }
 
 .site-header .wrap {
@@ -211,6 +251,13 @@ a:hover {
   letter-spacing: 0;
   line-height: 1;
   color: var(--ink);
+  transition: width 320ms var(--ease-liturgical), height 320ms var(--ease-liturgical);
+}
+
+.site-header.is-compact .wordmark-mark {
+  width: 1.45rem;
+  height: 1.45rem;
+  font-size: 0.92rem;
 }
 
 .nav-toggle {
@@ -234,6 +281,7 @@ a:hover {
   margin-inline: auto;
   background: currentColor;
   content: "";
+  transition: transform 280ms var(--ease-liturgical), opacity 200ms ease;
 }
 
 .nav-toggle-bars::before {
@@ -244,10 +292,22 @@ a:hover {
   transform: translateY(3.5px);
 }
 
+.nav-toggle[aria-expanded="true"] .nav-toggle-bars {
+  background: transparent;
+}
+
+.nav-toggle[aria-expanded="true"] .nav-toggle-bars::before {
+  transform: translateY(0) rotate(45deg);
+}
+
+.nav-toggle[aria-expanded="true"] .nav-toggle-bars::after {
+  transform: translateY(-1.5px) rotate(-45deg);
+}
+
 .site-nav {
   display: flex;
   align-items: center;
-  gap: 1.55rem;
+  gap: 1.45rem;
   margin-right: 0.35rem;
 }
 
@@ -311,11 +371,47 @@ a:hover {
 }
 
 main {
-  padding-bottom: 5.5rem;
+  padding-bottom: 6.5rem;
+}
+
+.hero,
+.page-hero {
+  position: relative;
+  overflow: hidden;
 }
 
 .hero {
-  padding: 4.5rem 0 3.25rem;
+  display: flex;
+  align-items: center;
+  min-height: calc(100dvh - var(--header-h));
+  padding: 5.5rem 0 6.5rem;
+}
+
+.hero-inner {
+  position: relative;
+  z-index: 1;
+  will-change: transform;
+}
+
+.hero-veil {
+  display: none;
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  pointer-events: none;
+  background: var(--bg);
+  transform-origin: top;
+}
+
+html.motion-ok .hero-veil {
+  display: block;
+  transform: translateY(0);
+}
+
+html.motion-ok .hero.is-in .hero-veil,
+html.motion-ok .page-hero.is-in .hero-veil {
+  transform: translateY(-101%);
+  transition: transform 1.2s var(--ease-liturgical);
 }
 
 .kicker {
@@ -330,8 +426,16 @@ main {
 .hero h1,
 .page-hero h1,
 .section h2,
+.vision h2,
+.enrollments h2,
+.sanctum h2,
+.platform h2,
+.works h2,
+.carry h2,
 .panel h3,
-.card h3 {
+.card h3,
+.enrollment h3,
+.closing h2 {
   font-family: var(--serif);
   font-weight: 500;
   letter-spacing: -0.02em;
@@ -339,9 +443,10 @@ main {
 }
 
 .hero h1 {
-  margin: 1.15rem 0 0;
-  font-size: clamp(2.45rem, 7.4vw, 4.7rem);
-  line-height: 0.95;
+  margin: 1.25rem 0 0;
+  max-width: 14ch;
+  font-size: clamp(2.7rem, 8vw, 5.4rem);
+  line-height: 0.92;
 }
 
 .hero h1 span {
@@ -350,10 +455,10 @@ main {
 
 .lede,
 .hero .lede {
-  margin: 1.35rem 0 0;
-  max-width: 34rem;
+  margin: 1.5rem 0 0;
+  max-width: 36rem;
   color: var(--muted);
-  font-size: 1.12rem;
+  font-size: 1.14rem;
 }
 
 .cta-row {
@@ -363,20 +468,14 @@ main {
   margin-top: 1.85rem;
 }
 
-.house {
-  max-width: 38rem;
-  margin-top: 2.75rem;
-  padding-top: 1.75rem;
-  border-top: 1px solid var(--line);
-  color: var(--ink);
-}
-
-.house p {
-  margin: 0;
-}
-
-.house p + p {
-  margin-top: 1em;
+.work-of {
+  margin: 1.35rem 0 0;
+  max-width: 36rem;
+  color: var(--gold);
+  font-family: var(--serif);
+  font-size: 1.12rem;
+  font-style: italic;
+  line-height: 1.5;
 }
 
 .measure {
@@ -391,17 +490,200 @@ main {
   margin-top: 1.05em;
 }
 
-.section {
-  padding: 3.25rem 0 0;
+.section,
+.vision,
+.enrollments,
+.platform,
+.works,
+.carry {
+  padding: 6rem 0 0;
 }
 
-.section h2 {
+.section h2,
+.vision h2,
+.enrollments h2,
+.platform h2,
+.works h2,
+.carry h2 {
   margin: 0.7rem 0 0;
-  font-size: clamp(1.7rem, 3.4vw, 2.35rem);
+  font-size: clamp(1.85rem, 3.6vw, 2.65rem);
 }
 
-.section .lede {
-  margin-top: 0.85rem;
+.section .lede,
+.vision .lede,
+.enrollments .lede,
+.platform .lede,
+.works .lede,
+.carry .lede {
+  margin-top: 0.95rem;
+}
+
+.vision h2 {
+  max-width: 18ch;
+}
+
+.mission {
+  padding: 7.5rem 0 6.5rem;
+}
+
+.mission .wrap {
+  max-width: 46rem;
+}
+
+.mission-heading {
+  margin: 0.85rem 0 0;
+  font-family: var(--serif);
+  font-size: clamp(1.15rem, 2vw, 1.35rem);
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.mission-statement {
+  margin: 1.75rem 0 0;
+  max-width: 22.5em;
+  font-family: var(--serif);
+  font-size: clamp(1.55rem, 3.4vw, 2.25rem);
+  font-weight: 400;
+  letter-spacing: -0.025em;
+  line-height: 1.42;
+  color: var(--ink);
+}
+
+html.motion-ok .mission[data-reveal] .mission-statement {
+  opacity: 0;
+  transform: translateY(1.1rem);
+}
+
+html.motion-ok .mission.is-in .mission-statement {
+  opacity: 1;
+  transform: none;
+  transition: opacity 1.15s var(--ease-liturgical) 0.12s, transform 1.15s var(--ease-liturgical) 0.12s;
+}
+
+.triptych {
+  display: grid;
+  gap: 0;
+  margin-top: 3.25rem;
+  border-top: 1px solid var(--line);
+}
+
+.enrollment {
+  padding: 2.6rem 0 2.8rem;
+  border-top: 1px solid var(--line);
+  background: transparent;
+  transition: transform 480ms var(--ease-liturgical), background-color 480ms ease;
+}
+
+.enrollment:first-child {
+  border-top: 0;
+}
+
+.enrollment-numeral {
+  margin: 0 0 1.15rem;
+  color: var(--gold);
+  font-family: var(--serif);
+  font-size: 0.92rem;
+  font-weight: 500;
+  letter-spacing: 0.28em;
+}
+
+.enrollment h3 {
+  margin: 0.45rem 0 0;
+  font-size: 1.65rem;
+}
+
+.enrollment p:last-child {
+  margin: 0.85rem 0 0;
+  color: var(--muted);
+  max-width: 34rem;
+}
+
+@media (hover: hover) {
+  .enrollment:hover {
+    transform: translateY(-0.4rem);
+  }
+}
+
+.enrollment:focus-visible {
+  transform: translateY(-0.4rem);
+  outline-offset: 6px;
+}
+
+
+.sanctum {
+  margin-top: 7rem;
+  padding: 7.25rem 0 6.75rem;
+  background:
+    radial-gradient(900px 420px at 50% -10%, rgb(196 163 90 / 16%), transparent 62%),
+    var(--bg-deep);
+  border-block: 1px solid var(--line);
+}
+
+.sanctum-inner {
+  max-width: 42rem;
+}
+
+.lemma {
+  margin: 1.35rem 0 0;
+  color: var(--gold);
+  font-family: var(--sans);
+  font-size: clamp(2.6rem, 9vw, 5.6rem);
+  font-weight: 400;
+  letter-spacing: 0.14em;
+  line-height: 1;
+}
+
+.lemma-page {
+  margin-top: 1.6rem;
+  font-size: clamp(2.1rem, 7vw, 3.8rem);
+}
+
+.sanctum-rule {
+  width: 3.25rem;
+  height: 1px;
+  margin: 1.75rem 0 0;
+  background: var(--gold);
+}
+
+.sanctum h2 {
+  margin: 1.5rem 0 0;
+  font-size: clamp(2.4rem, 5vw, 3.8rem);
+}
+
+.sanctum .lede {
+  max-width: 34rem;
+}
+
+html.motion-ok .sanctum .lemma,
+html.motion-ok .page-hero .lemma {
+  opacity: 0;
+  letter-spacing: 0.32em;
+  transform: translateY(0.45rem);
+}
+
+html.motion-ok .sanctum.is-in .lemma,
+html.motion-ok .page-hero.is-in .lemma {
+  opacity: 1;
+  letter-spacing: 0.14em;
+  transform: none;
+  transition:
+    opacity 1.45s var(--ease-liturgical) 0.18s,
+    letter-spacing 1.65s var(--ease-liturgical) 0.18s,
+    transform 1.45s var(--ease-liturgical) 0.18s;
+}
+
+.platform {
+  padding-top: 6.5rem;
+}
+
+.works {
+  padding-top: 6.5rem;
+}
+
+.works .card {
+  background: var(--bg-elevated);
 }
 
 .split {
@@ -413,6 +695,28 @@ main {
 @media (min-width: 760px) {
   .split-2 {
     grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 960px) {
+  .triptych {
+    grid-template-columns: 1fr 1fr 1fr;
+    border-top: 1px solid var(--line);
+  }
+
+  .enrollment {
+    padding: 2.75rem 1.85rem 3rem;
+    border-top: 0;
+    border-left: 1px solid var(--line);
+  }
+
+  .enrollment:first-child {
+    border-left: 0;
+    padding-left: 0;
+  }
+
+  .enrollment:last-child {
+    padding-right: 0;
   }
 }
 
@@ -463,7 +767,8 @@ main {
   letter-spacing: 0;
 }
 
-.principles {
+.principles,
+.carry-list {
   list-style: none;
   margin: 1.5rem 0 0;
   padding: 0;
@@ -473,7 +778,8 @@ main {
   background: var(--bg-elevated);
 }
 
-.principles li {
+.principles li,
+.carry-list li {
   display: grid;
   grid-template-columns: 2.6rem 1fr;
   gap: 0.85rem;
@@ -481,23 +787,31 @@ main {
   border-top: 1px solid var(--line);
 }
 
-.principles li:first-child {
+.principles li:first-child,
+.carry-list li:first-child {
   border-top: 0;
 }
 
-.principles .n {
+.principles .n,
+.carry-list .n {
   color: var(--gold);
   font-family: var(--serif);
   font-size: 1.15rem;
   line-height: 1.4;
 }
 
-.principles strong {
+.carry-list .n {
+  letter-spacing: 0.12em;
+}
+
+.principles strong,
+.carry-list strong {
   display: block;
   font-weight: 600;
 }
 
-.principles span {
+.principles span,
+.carry-list span:not(.n) {
   color: var(--muted);
   font-size: 0.92rem;
 }
@@ -509,11 +823,26 @@ main {
   border-left: 2px solid var(--gold-deep);
 }
 
+.scripture-liturgy {
+  max-width: 44rem;
+  padding: 2rem 1.7rem 1.7rem;
+  background: var(--bg-deep);
+}
+
 .scripture p {
   margin: 0;
   font-family: var(--serif);
   font-size: 1.12rem;
   line-height: 1.7;
+}
+
+.scripture-liturgy p {
+  font-size: 1.2rem;
+  line-height: 1.75;
+}
+
+.scripture-liturgy p + p {
+  margin-top: 1em;
 }
 
 .scripture cite {
@@ -560,19 +889,23 @@ main {
 }
 
 .page-hero {
-  padding: 3.6rem 0 0.5rem;
+  padding: 4.25rem 0 0.5rem;
 }
 
 .page-hero h1 {
-  margin: 0.9rem 0 0;
+  margin: 0.95rem 0 0;
   max-width: 28rem;
-  font-size: clamp(2.2rem, 5.5vw, 3.6rem);
+  font-size: clamp(2.3rem, 5.8vw, 3.85rem);
   line-height: 0.96;
 }
 
+.page-matheteuo .page-hero h1 {
+  max-width: none;
+}
+
 .closing {
-  margin-top: 3.75rem;
-  padding: 2rem 1.5rem;
+  margin-top: 4.5rem;
+  padding: 2.4rem 1.5rem;
   border: 1px solid var(--line);
   border-radius: calc(var(--radius) * 1.15);
   background:
@@ -583,9 +916,7 @@ main {
 
 .closing h2 {
   margin: 0.35rem 0 0;
-  font-family: var(--serif);
   font-size: clamp(1.7rem, 3vw, 2.2rem);
-  font-weight: 500;
 }
 
 .closing p {
@@ -641,6 +972,65 @@ main {
   color: var(--ink);
 }
 
+html.motion-ok [data-reveal]:not(.hero):not(.page-hero) {
+  opacity: 0;
+  transform: translateY(1.15rem);
+}
+
+html.motion-ok [data-reveal]:not(.hero):not(.page-hero).is-in {
+  opacity: 1;
+  transform: none;
+  transition:
+    opacity 0.95s var(--ease-liturgical) var(--reveal-delay, 0ms),
+    transform 0.95s var(--ease-liturgical) var(--reveal-delay, 0ms);
+}
+
+html.motion-ok [data-reveal="sanctum"] {
+  transform: translateY(1.6rem);
+}
+
+html.motion-ok [data-reveal="sanctum"].is-in {
+  transition-duration: 1.25s, 1.25s;
+}
+
+html.motion-ok .hero [data-hero-stagger],
+html.motion-ok .page-hero [data-hero-stagger] {
+  opacity: 0;
+  transform: translateY(0.85rem);
+}
+
+html.motion-ok .hero.is-in [data-hero-stagger],
+html.motion-ok .page-hero.is-in [data-hero-stagger] {
+  opacity: 1;
+  transform: none;
+  transition: opacity 0.95s var(--ease-liturgical), transform 0.95s var(--ease-liturgical);
+}
+
+html.motion-ok .hero.is-in [data-hero-stagger]:nth-child(1),
+html.motion-ok .page-hero.is-in [data-hero-stagger]:nth-child(1) {
+  transition-delay: 0.28s;
+}
+
+html.motion-ok .hero.is-in [data-hero-stagger]:nth-child(2),
+html.motion-ok .page-hero.is-in [data-hero-stagger]:nth-child(2) {
+  transition-delay: 0.42s;
+}
+
+html.motion-ok .hero.is-in [data-hero-stagger]:nth-child(3),
+html.motion-ok .page-hero.is-in [data-hero-stagger]:nth-child(3) {
+  transition-delay: 0.56s;
+}
+
+html.motion-ok .hero.is-in [data-hero-stagger]:nth-child(4),
+html.motion-ok .page-hero.is-in [data-hero-stagger]:nth-child(4) {
+  transition-delay: 0.7s;
+}
+
+html.motion-ok .hero.is-in [data-hero-stagger]:nth-child(5),
+html.motion-ok .page-hero.is-in [data-hero-stagger]:nth-child(5) {
+  transition-delay: 0.84s;
+}
+
 @media (min-width: 820px) {
   .site-footer .wrap {
     grid-template-columns: 1.4fr 1fr;
@@ -652,7 +1042,7 @@ main {
   }
 }
 
-@media (max-width: 820px) {
+@media (max-width: 1080px) {
   .nav-toggle {
     display: grid;
     place-items: center;
@@ -664,19 +1054,32 @@ main {
   }
 
   .site-nav {
-    position: absolute;
-    inset: var(--header-h) 0 auto;
-    display: none;
+    position: fixed;
+    top: var(--header-h);
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 30;
+    display: flex;
     flex-direction: column;
     align-items: stretch;
     gap: 0;
-    padding: 0.5rem 1.25rem 1rem;
-    border-bottom: 1px solid var(--line);
-    background: rgb(7 6 5 / 96%);
+    padding: 0.75rem 1.25rem 2rem;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    background: var(--bg);
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(-0.45rem);
+    transition: opacity 280ms var(--ease-liturgical), transform 280ms var(--ease-liturgical), visibility 280ms;
   }
 
   .site-nav.is-open {
-    display: flex;
+    visibility: visible;
+    opacity: 1;
+    pointer-events: auto;
+    transform: none;
   }
 
   .site-nav a {
@@ -695,7 +1098,8 @@ main {
   }
 
   .hero {
-    padding-top: 3rem;
+    padding-top: 3.25rem;
+    min-height: calc(92dvh - var(--header-h));
   }
 
   .cta-row .btn {
@@ -710,6 +1114,15 @@ main {
     letter-spacing: 0.14em;
     font-size: 0.64rem;
   }
+
+  .mission {
+    padding: 5rem 0 4.25rem;
+  }
+
+  .sanctum {
+    margin-top: 4.5rem;
+    padding: 4.75rem 0 4.5rem;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -723,5 +1136,26 @@ main {
     animation-duration: 0.01ms !important;
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
+  }
+
+  html.motion-ok [data-reveal],
+  html.motion-ok [data-reveal].is-in,
+  html.motion-ok .hero [data-hero-stagger],
+  html.motion-ok .page-hero [data-hero-stagger],
+  html.motion-ok .sanctum .lemma,
+  html.motion-ok .page-hero .lemma,
+  html.motion-ok .mission[data-reveal] .mission-statement {
+    opacity: 1 !important;
+    transform: none !important;
+    letter-spacing: inherit;
+  }
+
+  .hero-veil {
+    display: none !important;
+  }
+
+  .enrollment:hover,
+  .enrollment:focus-visible {
+    transform: none;
   }
 }
