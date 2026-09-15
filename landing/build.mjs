@@ -505,14 +505,14 @@ const pages = [
     og: true,
     title: "Aletheia Publications · Aletheia World",
     description:
-      "Aletheia Publications is the books that serve Mathēteuō. Maker Bible and the other titles are read and purchased in Aletheia — the study platform of Aletheia World.",
+      "Aletheia Publications publishes the books that serve Mathēteuō. Maker Bible and the other titles are read and purchased in Aletheia — the study platform of Aletheia World.",
     content: `
       <header class="page-hero" data-reveal="hero">
         <div class="hero-veil" aria-hidden="true"></div>
         <div class="wrap">
           <p class="kicker" data-hero-stagger>Aletheia Publications</p>
           <h1 data-hero-stagger>Books that serve Mathēteuō</h1>
-          <p class="lede" data-hero-stagger>Aletheia Publications is the books of Aletheia World. You read and buy them in Aletheia — the same study platform that holds Foundation School. This page names the titles; it does not sell them a second time.</p>
+          <p class="lede" data-hero-stagger>These are the books of Aletheia World. You read and buy them in Aletheia — the same study platform that holds Foundation School. This page names the titles; it does not sell them a second time.</p>
           <div class="cta-row" data-hero-stagger>
             <a class="btn btn-gold" href="${urls.publications}">Open publications</a>
             <a class="btn btn-ghost" href="${urls.makerBible}">Maker Bible · $150</a>
