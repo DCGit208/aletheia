@@ -37,13 +37,29 @@ Public Firebase values may live in the client. Service-account keys, payment sec
 
 ## Hosting
 
+Two Classic Hosting sites on project `aletheia-world`:
+
+| Site | Target | Public | URL |
+| --- | --- | --- | --- |
+| `aletheia-world` | `aletheia-world` | `out/` | [app.aletheiaworld.org](https://app.aletheiaworld.org) and [aletheia-world.web.app](https://aletheia-world.web.app) |
+| `aletheia-landing` | `aletheia-landing` | `landing/` | [aletheiaworld.org](https://aletheiaworld.org) |
+
+PWA (does not upload the parent site):
+
 ```bash
 npm run deploy:hosting
 ```
 
-That builds a static export into `out/` (`FIREBASE_HOSTING=1`) and deploys Classic Hosting to the active project.
+That builds a static export into `out/` (`FIREBASE_HOSTING=1`) and deploys `--only hosting:aletheia-world`.
 
-Firebase App Hosting remains the later path if a server is required. Do not stand up a second codebase for the branded domain.
+Parent site (does not replace the PWA):
+
+```bash
+npm run build:landing
+npx -y firebase-tools@latest deploy --only hosting:aletheia-landing
+```
+
+See `landing/README.md`. Firebase App Hosting remains the later path if a server is required. Do not fold the marketing pages into the PWA routes.
 
 ## Emulators (optional)
 

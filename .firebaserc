@@ -2,5 +2,17 @@
   "projects": {
     "default": "aletheia-world",
     "intended": "aletheia"
+  },
+  "targets": {
+    "aletheia-world": {
+      "hosting": {
+        "aletheia-world": [
+          "aletheia-world"
+        ],
+        "aletheia-landing": [
+          "aletheia-landing"
+        ]
+      }
+    }
   }
 }
