@@ -3,7 +3,7 @@
 
 **Authoritative plan:** `One_Source_of_Truth_Final_TOC_and_Guidance.md` (locked TOC, Chapters 1–85). This file is a short disk map of that plan, not a rival outline.
 
-**Manuscript status:** Working manuscript, not a finished Graphē-gate curriculum. Front matter and Chapters 1–37 exist as drafted prose on disk. Chapters 38–85 are planned in the locked TOC and are outstanding.
+**Manuscript status:** Working manuscript, not a finished Graphē-gate curriculum. Front matter and Chapters 1–41 exist as drafted prose on disk. Chapter 42 is the remaining Movement V chapter. Chapters 42–85 are planned in the locked TOC and are outstanding.
 
 ```text
 ONE SOURCE OF TRUTH
@@ -54,16 +54,16 @@ The Doctrine of the Graphē
 │   31 “All Scripture”
 │   32 From Divine Communication to Written Testimony
 │
-├── MOVEMENT V — How the Claim Is Authenticated           [33–37 on disk; 38–42 outstanding]
+├── MOVEMENT V — How the Claim Is Authenticated           [33–41 on disk; 42 outstanding]
 │   33 What Is Authentication?
 │   34 Evidence and Historical Testimony
 │   35 Eyewitnesses and Credible Witness
 │   36 Divine Manifestation and Miracles
 │   37 Prophecy and Fulfillment
-│   38 Unity, Continuity, and Internal Coherence          [outstanding]
-│   39 Historical and External Corroboration              [outstanding]
-│   40 Manuscripts, Transmission, and Preservation        [outstanding]
-│   41 The Cumulative Evidential Case                     [outstanding]
+│   38 Unity, Continuity, and Internal Coherence
+│   39 Historical and External Corroboration
+│   40 Manuscripts, Transmission, and Preservation
+│   41 The Cumulative Evidential Case
 │   42 From Evidence to Rational Warrant                  [outstanding]
 │
 ├── MOVEMENT VI — Christ as the Central Witness           [43–50 outstanding]
