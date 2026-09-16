@@ -22,7 +22,7 @@
 **Publisher:** ____________________________  
 **Year:** _________________________________
 
-**Manuscript status:** Drafted through Chapter 37. Chapters 38–85 remain outstanding. This is a working manuscript, not a finished Graphē-gate curriculum. The locked Final TOC remains the plan.
+**Manuscript status:** Drafted through Chapter 42. Chapters 43–85 remain outstanding. This is a working manuscript, not a finished Graphē-gate curriculum. The locked Final TOC remains the plan.
 
 All rights reserved.
 
@@ -360,7 +360,7 @@ The book will therefore distinguish the lexical meaning of the word from the the
 
 # Table of Contents
 
-The locked table of contents is the plan for the whole book (Chapters 1–85). Prose is presently drafted through Chapter 37; Chapters 38–85 remain outstanding. This is a working manuscript, not a finished Graphē-gate curriculum.
+The locked table of contents is the plan for the whole book (Chapters 1–85). Prose is presently drafted through Chapter 42; Chapters 43–85 remain outstanding. This is a working manuscript, not a finished Graphē-gate curriculum.
 
 ## MOVEMENT I — TRUTH AND THE POSSIBILITY OF KNOWLEDGE
 
