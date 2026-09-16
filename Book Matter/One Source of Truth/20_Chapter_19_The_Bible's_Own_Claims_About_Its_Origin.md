@@ -751,7 +751,7 @@ The written record preserves the testimony.
 
 And the convergence of testimony, where independently established, provides evidence that can be examined.
 
-Thus the human dimension of Scripture is not merely something that must be reconciled with its divine character. **It is part of the very historical form through which the Bible presents its claim to divine revelation.**The Bible contains writings produced through genuinely human activity:
+Thus the human dimension of Scripture is not merely something that must be reconciled with its divine character. **It is part of the very historical form through which the Bible presents its claim to divine revelation.**
 
 ---
 
@@ -1101,7 +1101,7 @@ Only after its lexical range and biblical usage are established can the book pro
 
 ## Principal Biblical Texts
 
-- **Hebrews 1:1–2** — God spoke in different times and ways through the prophets and climactically through the Son. citeturn0search6
+- **Hebrews 1:1–2** — God spoke in different times and ways through the prophets and climactically through the Son.
 - **Exodus 19:19** — divine speech in the Sinai context.
 - **Deuteronomy 5** — covenantal divine speech.
 - **Matthew 3:16–17** — heavenly speech at Christ's baptism.
@@ -1109,10 +1109,10 @@ Only after its lexical range and biblical usage are established can the book pro
 - **Acts 7:38** — divine communication in the Mosaic context.
 - **Hebrews 2:2** — angelic mediation.
 - **Acts 3:21** — prophetic speech.
-- **John 14:26** — the Spirit teaches and brings Christ's words to remembrance. citeturn1search2
-- **John 16:13** — the Spirit of truth guides and declares. citeturn1search0
+- **John 14:26** — the Spirit teaches and brings Christ's words to remembrance.
+- **John 16:13** — the Spirit of truth guides and declares.
 - **Luke 1:1–4** — eyewitness testimony, investigation, orderly writing, and certainty.
-- **1 Thessalonians 2:13** — the received apostolic message described as the Word of God. citeturn0search2
+- **1 Thessalonians 2:13** — the received apostolic message described as the Word of God.
 - **1 Corinthians 15:3–8** — received and delivered apostolic proclamation.
 - **1 Corinthians 2:10–13** — divine revelation and Spirit-mediated communication.
 - **2 Peter 1:20–21** — prophecy and divine initiative through the Holy Spirit.
@@ -1133,13 +1133,13 @@ Basic lexical field: **writing, written thing**; in biblical usage, Scripture/Ho
 
 It must not be defined merely as “the Bible.” Its basic lexical field concerns writing, while context establishes the specific referent.
 
-In 2 Timothy 3:16, *graphē* is the noun described as *theopneustos*. citeturn0search0
+In 2 Timothy 3:16, *graphē* is the noun described as *theopneustos*.
 
 ## θεόπνευστος — *theopneustos* — G2315
 
 A term describing Scripture as **God-breathed**.
 
-The lexical observation matters, but the doctrine must be established from the sentence, context, and wider biblical evidence rather than from etymology alone. citeturn0search0
+The lexical observation matters, but the doctrine must be established from the sentence, context, and wider biblical evidence rather than from etymology alone.
 
 ## ἀποκάλυψις — *apokalypsis* — G602
 
