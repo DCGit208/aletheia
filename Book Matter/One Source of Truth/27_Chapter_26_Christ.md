@@ -72,7 +72,7 @@ Then:
 
 > **“The Word was made flesh, and dwelt among us.”**
 
-The movement is therefore from eternal identity to historical incarnation, not merely from one human prophet to another. John 1:1–14 presents the Word as divine, active in creation, and subsequently manifested in flesh. citeturn0search0turn0search5
+The movement is therefore from eternal identity to historical incarnation, not merely from one human prophet to another. John 1:1–14 presents the Word as divine, active in creation, and subsequently manifested in flesh.
 
 ---
 
@@ -110,7 +110,7 @@ The revelation is therefore no longer described merely as information delivered 
 
 This creates an extraordinary evidential consequence: the revelation is attached to a historical person who could be seen, heard, followed, questioned, opposed, touched, and remembered.
 
-John's Gospel explicitly joins incarnation and witness: the Word became flesh, and the witnesses say that they saw His glory. citeturn0search1
+John's Gospel explicitly joins incarnation and witness: the Word became flesh, and the witnesses say that they saw His glory.
 
 ---
 

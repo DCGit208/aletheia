@@ -1100,7 +1100,7 @@ Before writing **any chapter**, perform the following sequence.
 
 ### Step 1 — Read the entire locked TOC
 
-Not merely the current chapter.
+The locked TOC is `One_Source_of_Truth_Final_TOC_and_Guidance.md`. Read that whole file, not merely the current chapter.
 
 Determine:
 

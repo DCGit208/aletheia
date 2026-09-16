@@ -22,6 +22,8 @@
 **Publisher:** ____________________________  
 **Year:** _________________________________
 
+**Manuscript status:** Drafted through Chapter 37. Chapters 38–85 remain outstanding. This is a working manuscript, not a finished Graphē-gate curriculum. The locked Final TOC remains the plan.
+
 All rights reserved.
 
 This manuscript is a controlled work in development. Publication details, edition information, ISBN, acknowledgements, permissions, and final bibliographical data should be completed at the publication stage.
@@ -357,6 +359,8 @@ The book will therefore distinguish the lexical meaning of the word from the the
 ---
 
 # Table of Contents
+
+The locked table of contents is the plan for the whole book (Chapters 1–85). Prose is presently drafted through Chapter 37; Chapters 38–85 remain outstanding. This is a working manuscript, not a finished Graphē-gate curriculum.
 
 ## MOVEMENT I — TRUTH AND THE POSSIBILITY OF KNOWLEDGE
 
@@ -845,7 +849,7 @@ Yet the existence of literary diversity does not by itself explain the Bible's u
 
 Nor does calling it a "book" explain its claims of divine origin.
 
-The Bible Introduction supplied for this work describes it as a **divine library** and as God's inspired revelation concerning the origin and destiny of all things. It emphasizes its unity, superiority of content, preservation, fulfilled prophecy, miracles, historical and scientific claims, moral and spiritual power, internal claims, external historical confirmation, and cumulative evidential character. fileciteturn138file9L1-L8
+The Bible Introduction supplied for this work describes it as a **divine library** and as God's inspired revelation concerning the origin and destiny of all things. It emphasizes its unity, superiority of content, preservation, fulfilled prophecy, miracles, historical and scientific claims, moral and spiritual power, internal claims, external historical confirmation, and cumulative evidential character.
 
 Those claims are not to be repeated as slogans.
 
@@ -869,7 +873,7 @@ That is how evidence becomes reasoning rather than a list.
 
 ## The Bible Is a Written Record of More Than Human Speculation
 
-The Bible Introduction explicitly distinguishes revelation from inspiration and explains that revelation concerns the discovery of new truth while inspiration concerns the divine superintendence of its communication and recording. It also makes an important distinction: inspiration can accurately record statements made by God, angels, Satan, demons, and human beings without thereby making every statement uttered by those characters true. fileciteturn138file9L8-L8
+The Bible Introduction explicitly distinguishes revelation from inspiration and explains that revelation concerns the discovery of new truth while inspiration concerns the divine superintendence of its communication and recording. It also makes an important distinction: inspiration can accurately record statements made by God, angels, Satan, demons, and human beings without thereby making every statement uttered by those characters true.
 
 That distinction will require careful treatment later in the book.
 
@@ -895,7 +899,7 @@ The task is therefore not to flatten all these categories into one undifferentia
 
 ## How Was the Written Record Given?
 
-The Bible Introduction identifies multiple modes through which biblical material was given: the audible voice of God, angels, prophets, Jesus Christ, apostles, visions, dreams, revelation, and inspiration. It specifically directs attention to passages such as Exodus 19:19, Deuteronomy 5, Matthew 3:16–17, John 12:28, Acts 7:38, Hebrews 2:2, Acts 3:21, Hebrews 1:1, Revelation 1, Acts 1:2, Ephesians 4, Isaiah 6, Daniel 7–8, Ezekiel 1, Daniel 2, Matthew 1:20, Matthew 2:12, and 2 Timothy 3:15–17. fileciteturn138file9L1-L2
+The Bible Introduction identifies multiple modes through which biblical material was given: the audible voice of God, angels, prophets, Jesus Christ, apostles, visions, dreams, revelation, and inspiration. It specifically directs attention to passages such as Exodus 19:19, Deuteronomy 5, Matthew 3:16–17, John 12:28, Acts 7:38, Hebrews 2:2, Acts 3:21, Hebrews 1:1, Revelation 1, Acts 1:2, Ephesians 4, Isaiah 6, Daniel 7–8, Ezekiel 1, Daniel 2, Matthew 1:20, Matthew 2:12, and 2 Timothy 3:15–17.
 
 This is more than a catalogue.
 
@@ -923,7 +927,7 @@ And there is the final written record.
 
 The investigation must therefore avoid simplistic theories that confuse revelation with dictation or inspiration with the elimination of human authorship.
 
-The Bible Introduction itself says that inspiration guarantees unity of truth rather than sameness of words and expressions. fileciteturn138file9L4-L5
+The Bible Introduction itself says that inspiration guarantees unity of truth rather than sameness of words and expressions.
 
 That observation is crucial for understanding the Bible as a genuine written record rather than as an artificial document stripped of human literary expression.
 
@@ -1187,7 +1191,7 @@ A person may know terminology and remain unskilled in the Word.
 
 This is why the Bible Introduction's discussion of understanding is so important.
 
-It emphasizes that Scripture is to be studied and that the difficulty often lies not in some inherent impossibility of truth but in the learner's dullness, ignorance, lack of study, hardness, poor perception, and failure to engage the text properly. It also identifies Hebrews 5:11–14 as a diagnosis of dull hearing and unskillfulness, with the mature possessing exercised powers of discrimination. fileciteturn138file9L22-L24
+It emphasizes that Scripture is to be studied and that the difficulty often lies not in some inherent impossibility of truth but in the learner's dullness, ignorance, lack of study, hardness, poor perception, and failure to engage the text properly. It also identifies Hebrews 5:11–14 as a diagnosis of dull hearing and unskillfulness, with the mature possessing exercised powers of discrimination.
 
 This is not a minor pedagogical point.
 
@@ -1233,7 +1237,7 @@ That is why the intellectual labour of Scripture becomes a major part of the lat
 
 ## The Scholarly Impetus of Scripture
 
-The Bible Introduction presents the Bible as remarkable not merely because it is ancient or historically influential but because of its extraordinary breadth, literary diversity, doctrinal content, prophetic claims, moral teaching, historical claims, unity, depth, and intellectual comprehensiveness. It describes Scripture as reasonable in its teachings, comprehensive in knowledge, exact in its claims, and demanding sustained study. fileciteturn138file9L19-L20
+The Bible Introduction presents the Bible as remarkable not merely because it is ancient or historically influential but because of its extraordinary breadth, literary diversity, doctrinal content, prophetic claims, moral teaching, historical claims, unity, depth, and intellectual comprehensiveness. It describes Scripture as reasonable in its teachings, comprehensive in knowledge, exact in its claims, and demanding sustained study.
 
 This is the **scholarly impetus** of Scripture.
 

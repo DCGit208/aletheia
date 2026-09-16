@@ -336,7 +336,7 @@ The biblical record presents Nebuchadnezzar as king of Babylon and places him wi
 
 Outside the Bible, Nebuchadnezzar II is extensively attested in Babylonian material remains.
 
-The British Museum, for example, preserves inscriptions on bricks, cylinders, tablets, and other objects bearing his name and titles. One Babylonian chronicle records Nebuchadnezzar's campaign against Jerusalem in 597 BC. Another British Museum tablet identifies a Babylonian official corresponding to a figure named in Jeremiah 39. The museum's description specifically notes the significance of this correspondence between a biblical figure and a contemporary cuneiform text. citeturn0search0turn0search1turn0search3
+The British Museum, for example, preserves inscriptions on bricks, cylinders, tablets, and other objects bearing his name and titles. One Babylonian chronicle records Nebuchadnezzar's campaign against Jerusalem in 597 BC. Another British Museum tablet identifies a Babylonian official corresponding to a figure named in Jeremiah 39. The museum's description specifically notes the significance of this correspondence between a biblical figure and a contemporary cuneiform text.
 
 This is exactly the kind of evidence that belongs in a rigorous historical argument.
 
@@ -366,7 +366,7 @@ It traces Israel through:
 
 The external historical record also contains references to Israel.
 
-The Merneptah Stele, for example, contains an early extra-biblical reference to Israel. The inscription describes Israel as a people rather than merely as a city-state. The existence of such a reference does not prove every biblical account concerning Israel, but it independently establishes that a group identified as Israel was part of the historical landscape of the ancient Near East. citeturn1search7turn1search10turn1search14
+The Merneptah Stele, for example, contains an early extra-biblical reference to Israel. The inscription describes Israel as a people rather than merely as a city-state. The existence of such a reference does not prove every biblical account concerning Israel, but it independently establishes that a group identified as Israel was part of the historical landscape of the ancient Near East.
 
 This is an important distinction:
 
@@ -384,7 +384,7 @@ The same principle applies to David.
 
 The biblical record gives David a central place in Israel's monarchy and subsequently connects the Davidic line to later biblical history and, ultimately, to the genealogical claims concerning Christ.
 
-The Tel Dan Stele provides an especially important example of extra-biblical correspondence. The ninth-century BCE inscription contains the expression commonly rendered **“House of David.”** The Jewish Museum, drawing on the Israel Museum and Israel Antiquities Authority material, describes it as the earliest known mention of the royal House of David outside the Hebrew Bible. The inscription therefore provides archaeological evidence corresponding to the biblical presentation of a Davidic dynasty. citeturn1search0turn1search3
+The Tel Dan Stele provides an especially important example of extra-biblical correspondence. The ninth-century BCE inscription contains the expression commonly rendered **“House of David.”** The Jewish Museum, drawing on the Israel Museum and Israel Antiquities Authority material, describes it as the earliest known mention of the royal House of David outside the Hebrew Bible. The inscription therefore provides archaeological evidence corresponding to the biblical presentation of a Davidic dynasty.
 
 The evidential conclusion should again be properly bounded:
 
@@ -765,7 +765,7 @@ The Roman context is especially important for the New Testament.
 
 The world of Jesus includes Roman political authority, Roman administration, local rulers, Jewish leadership, taxation, military presence, and the institutions of the period.
 
-Pontius Pilate is not merely a character in a theological story. He is independently attested historically. An inscription discovered at Caesarea identifies Pontius Pilate as the Roman prefect of Judea and connects him with the reign of Tiberius. citeturn1search8
+Pontius Pilate is not merely a character in a theological story. He is independently attested historically. An inscription discovered at Caesarea identifies Pontius Pilate as the Roman prefect of Judea and connects him with the reign of Tiberius.
 
 This kind of evidence does not prove every detail in the Gospel narratives.
 
