@@ -456,13 +456,13 @@ It establishes the evidential standard by which alleged incoherence must be judg
 
 A forged anthology, a late compilation of unrelated legends, or a merely institutional collection would not be expected to exhibit deep, cross-temporal coherence of the same God, the same moral demand, the same promise-structure, and the same culminating figure.
 
-Coherence is not a magic proof.
+Coherence is evidence; it is not a complete proof by itself.
 
 A well-edited propaganda corpus could also be made to look coherent.
 
 Therefore unity cannot be treated as self-authenticating.
 
-But neither is it evidentially idle.
+But neither is it without evidential significance.
 
 If independent writers, across many centuries, without a modern editorial board overseeing the whole from the beginning, produce writings that continue one story and one doctrine of God, that fact requires explanation.
 
@@ -495,7 +495,7 @@ The proposition here is not:
 
 The proposition is:
 
-> **The writings function as one testimony rather than as an accidental heap of documents.**
+> **The writings function as one testimony rather than as an uncoordinated collection of unrelated documents.**
 
 That proposition is authentication-relevant.
 
@@ -754,7 +754,7 @@ The later doctrinal formulation of that relation belongs to later theological la
 
 What is evidentially relevant now is observational:
 
-> **The corpus does not read as a scrapbook of competing gods. It reads as a sustained testimony concerning one God.**
+> **The corpus does not read as a miscellany of competing gods. It reads as a sustained testimony concerning one God.**
 
 That is a form of unity.
 
@@ -926,7 +926,7 @@ The two questions confirm one another without becoming identical.
 
 A corpus could have a few striking predictions and still be doctrinally chaotic.
 
-A corpus could be thematically tidy and still lack genuine predictive correspondence.
+A corpus could be thematically consistent and still lack genuine predictive correspondence.
 
 The biblical writings present both claims.
 
@@ -1292,7 +1292,7 @@ It does not yet ask how that corpus is to be mastered, how the unskillful are to
 
 Those questions remain reserved.
 
-The present point is only that the writings already behave as related Holy Writ rather than as a pile of unrelated pamphlets.
+The present point is only that the writings already behave as related Holy Writ rather than as a collection of unrelated documents.
 
 ---
 
@@ -1489,9 +1489,9 @@ Both answers can be true of different parts of the corpus.
 
 The chapter does not need every connecting line to be independent in order for the whole to cohere.
 
-It needs the whole to be more than a single writer's echo chamber.
+It needs the whole to be more than the restatement of a single writer's voice.
 
-The span and plurality already established make that more than a single writer's echo chamber.
+The span and plurality already established make that more than the restatement of a single writer's voice.
 
 ---
 
@@ -1561,7 +1561,7 @@ This is evidence concerning the **character of the testimony**.
 
 It supports the proposition:
 
-> **The written record presents a coherent, continuous testimony rather than an accidental heap of documents.**
+> **The written record presents a coherent, continuous testimony rather than an uncoordinated collection of unrelated documents.**
 
 That proposition is relevant to authentication because a claimed divine revelation that was internally chaotic in its portrayal of God, history, and purpose would be evidentially weaker as a single revelation.
 
