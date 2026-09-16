@@ -2,7 +2,7 @@
 ## Final Table of Contents & Authoring / Conceptual Guidance
 
 > **Status:** Locked TOC proposition for comparative source audit and full-book development.  
-> **Manuscript:** Working manuscript, not a finished Graphē-gate curriculum. Drafted through Chapter 37; Chapters 38–85 remain outstanding. The locked TOC below is the plan and is not reduced to the chapters now on disk.  
+> **Manuscript:** Working manuscript, not a finished Graphē-gate curriculum. Drafted through Chapter 42; Chapters 43–85 remain outstanding. The locked TOC below is the plan and is not reduced to the chapters now on disk.  
 > **Purpose:** Master reference for the structure, knowledge flow, conceptual boundaries, and authoring discipline of *One Source of Truth — The Doctrine of the Graphē*.
 
 ---
