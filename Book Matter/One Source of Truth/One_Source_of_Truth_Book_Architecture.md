@@ -3,7 +3,7 @@
 
 **Authoritative plan:** `One_Source_of_Truth_Final_TOC_and_Guidance.md` (locked TOC, Chapters 1–85). This file is a short disk map of that plan, not a rival outline.
 
-**Manuscript status:** Working manuscript, not a finished Graphē-gate curriculum. Front matter and Chapters 1–49 exist as drafted prose on disk. Movement V is complete on disk. Chapters 43–49 stand on disk in Movement VI. Chapters 50–85 are planned in the locked TOC and are outstanding.
+**Manuscript status:** Working manuscript, not a finished Graphē-gate curriculum. Front matter and Chapters 1–50 exist as drafted prose on disk. Movements V and VI are complete on disk. Chapters 51–85 are planned in the locked TOC and are outstanding.
 
 ```text
 ONE SOURCE OF TRUTH
@@ -66,7 +66,7 @@ The Doctrine of the Graphē
 │   41 The Cumulative Evidential Case
 │   42 From Evidence to Rational Warrant
 │
-├── MOVEMENT VI — Christ as the Central Witness           [43–49 on disk; 50 outstanding]
+├── MOVEMENT VI — Christ as the Central Witness           [43–50 on disk]
 │   43 Jesus Christ in the Historical Record              [on disk]
 │   44 Christ, Truth, and Divine Revelation               [on disk]
 │   45 The Claims and Works of Christ                     [on disk]
@@ -74,7 +74,7 @@ The Doctrine of the Graphē
 │   47 The Eyewitness Testimony                           [on disk]
 │   48 Christ's Confirmation of Scripture                 [on disk]
 │   49 Christ and the Apostolic Witness                   [on disk]
-│   50 The Authority of the Apostolic Testimony           [outstanding]
+│   50 The Authority of the Apostolic Testimony           [on disk]
 │
 ├── MOVEMENT VII — Scripture, Canon, and Infallibility    [51–58 outstanding]
 │   51 The Scriptural Corpus
