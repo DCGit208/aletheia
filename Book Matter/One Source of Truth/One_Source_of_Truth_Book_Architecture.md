@@ -3,7 +3,7 @@
 
 **Authoritative plan:** `One_Source_of_Truth_Final_TOC_and_Guidance.md` (locked TOC, Chapters 1–85). This file is a short disk map of that plan, not a rival outline.
 
-**Manuscript status:** Working manuscript, not a finished Graphē-gate curriculum. Front matter and Chapters 1–56 exist as drafted prose on disk. Movements V and VI are complete on disk. Chapters 51–56 open Movement VII on disk. Chapters 57–85 are planned in the locked TOC and are outstanding.
+**Manuscript status:** Working manuscript, not a finished Graphē-gate curriculum. Front matter and Chapters 1–57 exist as drafted prose on disk. Movements V and VI are complete on disk. Chapters 51–57 open Movement VII on disk. Chapters 58–85 are planned in the locked TOC and are outstanding.
 
 ```text
 ONE SOURCE OF TRUTH
@@ -76,14 +76,14 @@ The Doctrine of the Graphē
 │   49 Christ and the Apostolic Witness                   [on disk]
 │   50 The Authority of the Apostolic Testimony           [on disk]
 │
-├── MOVEMENT VII — Scripture, Canon, and Infallibility    [51–56 on disk; 57–58 outstanding]
+├── MOVEMENT VII — Scripture, Canon, and Infallibility    [51–57 on disk; 58 outstanding]
 │   51 The Scriptural Corpus                              [on disk]
 │   52 The Canon and Its Recognition                      [on disk]
 │   53 Prophetic and Apostolic Authority                  [on disk]
 │   54 The Unity of the Written Testimony                 [on disk]
 │   55 Revelation, Inspiration, and Canon Distinguished   [on disk]
 │   56 What Inspiration Guarantees                        [on disk]
-│   57 Why Scripture Is an Infallible Record
+│   57 Why Scripture Is an Infallible Record              [on disk]
 │   58 Truth, Authority, and the Written Word
 │
 ├── MOVEMENT VIII — Christ's Verdict on the Graphē        [59–65 outstanding]
