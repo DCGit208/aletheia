@@ -3,7 +3,7 @@
 
 **Authoritative plan:** `One_Source_of_Truth_Final_TOC_and_Guidance.md` (locked TOC, Chapters 1–85). This file is a short disk map of that plan, not a rival outline.
 
-**Manuscript status:** Working manuscript, not a finished Graphē-gate curriculum. Front matter and Chapters 1–58 exist as drafted prose on disk. Movements V, VI, and VII are complete on disk. Chapters 59–85 are planned in the locked TOC and are outstanding.
+**Manuscript status:** Working manuscript, not a finished Graphē-gate curriculum. Front matter and Chapters 1–59 exist as drafted prose on disk. Movements V, VI, and VII are complete on disk. Chapter 59 is on disk as Movement VIII's opening. Chapters 60–85 are planned in the locked TOC and are outstanding.
 
 ```text
 ONE SOURCE OF TRUTH
@@ -86,8 +86,8 @@ The Doctrine of the Graphē
 │   57 Why Scripture Is an Infallible Record              [on disk]
 │   58 Truth, Authority, and the Written Word             [on disk]
 │
-├── MOVEMENT VIII — Christ's Verdict on the Graphē        [59–65 outstanding]
-│   59 John 10:34–36
+├── MOVEMENT VIII — Christ's Verdict on the Graphē        [59 on disk; 60–65 outstanding]
+│   59 John 10:34–36                                      [on disk]
 │   60 “I Said, Ye Are Gods” — Psalm 82:6
 │   61 Christ's Reasoning From What Is Written
 │   62 “The Scripture Cannot Be Broken”
