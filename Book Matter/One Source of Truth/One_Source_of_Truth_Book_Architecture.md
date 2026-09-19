@@ -3,7 +3,7 @@
 
 **Authoritative plan:** `One_Source_of_Truth_Final_TOC_and_Guidance.md` (locked TOC, Chapters 1–85). This file is a short disk map of that plan, not a rival outline.
 
-**Manuscript status:** Working manuscript, not a finished Graphē-gate curriculum. Front matter and Chapters 1–63 exist as drafted prose on disk. Movements V, VI, and VII are complete on disk. Chapters 59–63 are on disk as Movement VIII's opening. Chapters 64–85 are planned in the locked TOC and are outstanding.
+**Manuscript status:** Working manuscript, not a finished Graphē-gate curriculum. Front matter and Chapters 1–64 exist as drafted prose on disk. Movements V, VI, and VII are complete on disk. Chapters 59–64 are on disk as Movement VIII's opening. Chapter 65 and Chapters 66–85 are planned in the locked TOC and are outstanding.
 
 ```text
 ONE SOURCE OF TRUTH
@@ -86,13 +86,13 @@ The Doctrine of the Graphē
 │   57 Why Scripture Is an Infallible Record              [on disk]
 │   58 Truth, Authority, and the Written Word             [on disk]
 │
-├── MOVEMENT VIII — Christ's Verdict on the Graphē        [59–63 on disk; 64–65 outstanding]
+├── MOVEMENT VIII — Christ's Verdict on the Graphē        [59–64 on disk; 65 outstanding]
 │   59 John 10:34–36                                      [on disk]
 │   60 “I Said, Ye Are Gods” — Psalm 82:6                 [on disk]
 │   61 Christ's Reasoning From What Is Written            [on disk]
 │   62 “The Scripture Cannot Be Broken”                   [on disk]
 │   63 Why Scripture Cannot Be Broken                     [on disk]
-│   64 John 17:17 — “Thy Word Is Truth”
+│   64 John 17:17 — “Thy Word Is Truth”                   [on disk]
 │   65 Why the Graphē Is the Primary Written Authority
 │
 ├── MOVEMENT IX — When Authoritative Truth Is Mishandled  [66–73 outstanding]
