@@ -40,39 +40,41 @@ Sources are reconstructed as arguments, not cited as “the source says.” Bibl
 | Chapters 1–65 | On disk (Movements I–VIII complete) |
 | Chapter 66 | On disk (Movement IX opened) |
 | Chapter 67 | On disk (Movement IX continues) |
-| Chapters 68–73 | Outstanding (remainder of Movement IX) |
+| Chapter 68 | On disk (Movement IX continues) |
+| Chapters 69–73 | Outstanding (remainder of Movement IX) |
 | Chapters 74–85 | Outstanding (Movement X) |
 | Back matter | Planned; not yet a separate file |
 
-**Latest chapter file:** `68_Chapter_67_How_Scripture_Is_Misread.md`
+**Latest chapter file:** `69_Chapter_68_Theology_Philosophy_Tradition_and_Institution.md`
 
 ---
 
-# 4. Chapter 67 — How Scripture Is Misread
+# 4. Chapter 68 — Theology, Philosophy, Tradition, and Institution
 
 **Movement:** IX — When Authoritative Truth Is Mishandled  
-**Assignment (locked TOC):** Examine errors arising from poor perception, deficient understanding, faulty inference, context failure, or improper handling of the text.  
-**Counts:** ~21,800 words; 51 numbered sections (67.1–67.51), plus What Has Been Established, Chapter Summary, and Transition to Chapter 68.
+**Assignment (locked TOC):** Examine secondary intellectual and institutional systems in relation to the Graphē. None becomes primary authority merely by claiming Christian identity, academic status, antiquity, or institutional recognition.  
+**Counts:** ~27,000 words; 53 numbered sections (68.1–68.53), plus What Has Been Established, Chapter Summary, and Transition to Chapter 69.
 
 ## Thesis (accepted)
 
-Scripture is misread when the later act of stating sense fails to correspond to what the Graphē actually communicates. That failure is inspectable as five operations: poor perception, deficient understanding, faulty inference, context failure, and improper handling. The writing remains the measure. A correct reading remains possible. An incorrect reading remains incorrect. This continues Movement IX. It is not Chapter 66 retried, not Chapters 68–73, and not Movement X.
+Theology, philosophy, tradition, and institution are secondary systems in relation to the Graphē. Each may serve under the writing: sound doctrine holds the faithful word; reason examines and does not replace revelation; apostolic delivery transmits the deposit, including by epistle; the house upholds a truth it does not author. None becomes the primary written authority merely by claiming Christian identity, academic status, antiquity, or institutional recognition. The writing remains the measure. This continues Movement IX. It is not Chapter 67 retried, not Chapter 69, not Chapters 70–73, and not Movement X.
 
 ## Premises used, not retried
 
-- Chapters 1–7: truth, knowledge, reason, warrant.
-- Chapters 56–57: inspiration’s guarantees; infallibility of the record, not of the interpreter.
+- Chapters 1–7 and 13–14: truth, reason, revelation rather than speculation, human accounts accountable.
+- Chapters 51–53: corpus; recognition is not creation; prophetic and apostolic authority.
+- Chapter 57: infallibility of the record, not of the interpreter, the church, or every later tradition.
 - Chapter 65: Graphē as primary written authority.
 - Chapter 66: authority of Scripture versus authority of interpretation; transfer and despair already refused.
+- Chapter 67: five modes of misreading; the writing remains the measure of the later act.
 
 ## Sources reconstructed (not quoted as authority)
 
-- Bible Introduction: why the writing is simple and why it is not understood; literal rule and rejection of novel opinion; ten classes who find the Bible hard; “as it is written”; two-or-three-witness discipline; speaker-distinction; notes are not the writing.
-- Aletheia leaflet: Graphē as premiere convention; analogical / nonliteral religiousism as a failed likeness; absence of sound judgment as the join of the modes. Causal chain to aridity, tergiversation, accepted heresies, *apeiros*, and *spoudazō* named as neighbourhood only.
+- Bible Introduction: notes are a secondary system proved by the passages; the canon was not created by ecclesiastical authority (council-as-origin not adopted); philosophical construction does not supply revelation (census of philosophers not adopted; ban on stating sense not adopted).
+- Aletheia leaflet: Graphē as premiere convention for persons and for organizations; “imprimatur” only as a gloss of the writing’s own standing, not as a later office; age and the Christian name do not remove an organization from the writing. Causal chain to aridity, tergiversation, accepted heresies, *apeiros*, and *spoudazō* named as neighbourhood only.
 
-## Reserved (not established in Chapter 67)
+## Reserved (not established in Chapter 68)
 
-- Ch 68: Theology, Philosophy, Tradition, and Institution as systems.
 - Ch 69: When Secondary Sources Become Primary Authorities.
 - Ch 70: Tergiversation and Doctrinal Turning Aside.
 - Ch 71: Accepted Heresies.
@@ -83,9 +85,9 @@ Scripture is misread when the later act of stating sense fails to correspond to 
 
 ## Next necessary question
 
-> How do theology, philosophy, tradition, and institution stand toward the Graphē, now that the modes of misreading have been examined?
+> What happens when secondary sources become primary authorities, now that theology, philosophy, tradition, and institution have been ranked?
 
-That is Chapter 68.
+That is Chapter 69.
 
 ---
 
@@ -102,4 +104,4 @@ When a later chapter is accepted:
 
 # 6. Immediate predecessor (one-line memory)
 
-**Chapter 66** distinguished the Graphē’s standing as primary written authority from the fallibility of the interpreter. Transfer fails. Despair fails. An authoritative truthful text does not make every interpretation authoritative. The fact that readers err does not make all readings equal. That distinction is a premise of Chapter 67, not a file to reprint.
+**Chapter 67** examined how Scripture is misread: poor perception, deficient understanding, faulty inference, context failure, and improper handling. The writing remains the measure. A correct reading remains possible. An incorrect reading remains incorrect. That catalog is a premise of Chapter 68, not a file to reprint.
