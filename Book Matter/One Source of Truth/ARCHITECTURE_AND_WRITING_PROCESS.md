@@ -41,41 +41,42 @@ Sources are reconstructed as arguments, not cited as “the source says.” Bibl
 | Chapter 66 | On disk (Movement IX opened) |
 | Chapter 67 | On disk (Movement IX continues) |
 | Chapter 68 | On disk (Movement IX continues) |
-| Chapters 69–73 | Outstanding (remainder of Movement IX) |
+| Chapter 69 | On disk (Movement IX continues) |
+| Chapters 70–73 | Outstanding (remainder of Movement IX) |
 | Chapters 74–85 | Outstanding (Movement X) |
 | Back matter | Planned; not yet a separate file |
 
-**Latest chapter file:** `69_Chapter_68_Theology_Philosophy_Tradition_and_Institution.md`
+**Latest chapter file:** `70_Chapter_69_When_Secondary_Sources_Become_Primary_Authorities.md`
 
 ---
 
-# 4. Chapter 68 — Theology, Philosophy, Tradition, and Institution
+# 4. Chapter 69 — When Secondary Sources Become Primary Authorities
 
 **Movement:** IX — When Authoritative Truth Is Mishandled  
-**Assignment (locked TOC):** Examine secondary intellectual and institutional systems in relation to the Graphē. None becomes primary authority merely by claiming Christian identity, academic status, antiquity, or institutional recognition.  
-**Counts:** ~27,000 words (27,036); 53 numbered sections (68.1–68.53), plus What Has Been Established, Chapter Summary, and Transition to Chapter 69.
+**Assignment (locked TOC):** Examine what happens when commentaries, traditions, institutions, teachers, systems, or experiences govern the meaning of Scripture instead of serving under it.  
+**Counts:** ~32,500 words (32,464); 65 numbered sections (69.1–69.65), plus What Has Been Established, Chapter Summary, and Transition to Chapter 70.
 
 ## Thesis (accepted)
 
-Theology, philosophy, tradition, and institution are secondary systems in relation to the Graphē. Each may serve under the writing: sound doctrine holds the faithful word; reason examines and does not replace revelation; apostolic delivery transmits the deposit, including by epistle; the house upholds a truth it does not author. None becomes the primary written authority merely by claiming Christian identity, academic status, antiquity, or institutional recognition. The writing remains the measure. This continues Movement IX. It is not Chapter 67 retried, not Chapter 69, not Chapters 70–73, and not Movement X.
+When commentaries, traditions, institutions, teachers, systems, or experiences govern the meaning of Scripture instead of serving under it, the secondary source occupies the seat of sense and the test is reversed: the question becomes whether the writing can be made to speak according to the source. The Graphē is not broken by the seizure, and its primary written authority does not transfer. Service — sense given under the book, the deposit held, the house upholding, the teacher opening the scripture, the prophecy proved — remains a commanded good and is not the event. This continues Movement IX. It is not Chapter 68 retried, not Chapters 70–73, and not Movement X.
 
 ## Premises used, not retried
 
 - Chapters 1–7 and 13–14: truth, reason, revelation rather than speculation, human accounts accountable.
-- Chapters 51–53: corpus; recognition is not creation; prophetic and apostolic authority.
+- Chapters 51–53 and 62–63: corpus; recognition is not creation; the Scripture cannot be broken.
 - Chapter 57: infallibility of the record, not of the interpreter, the church, or every later tradition.
 - Chapter 65: Graphē as primary written authority.
-- Chapter 66: authority of Scripture versus authority of interpretation; transfer and despair already refused.
-- Chapter 67: five modes of misreading; the writing remains the measure of the later act.
+- Chapter 66: authority of Scripture versus authority of interpretation; transfer and despair already refused; quotation is not the Graphē.
+- Chapter 67: five modes of misreading; a correct reading remains possible; an incorrect reading remains incorrect.
+- Chapter 68: theology, philosophy, tradition, and institution are secondary systems; identity, academy, antiquity, and recognition do not confer primary standing.
 
 ## Sources reconstructed (not quoted as authority)
 
-- Bible Introduction: notes are a secondary system proved by the passages; the canon was not created by ecclesiastical authority (council-as-origin not adopted); philosophical construction does not supply revelation (census of philosophers not adopted; ban on stating sense not adopted).
-- Aletheia leaflet: Graphē as premiere convention for persons and for organizations; “imprimatur” only as a gloss of the writing’s own standing, not as a later office; age and the Christian name do not remove an organization from the writing. Causal chain to aridity, tergiversation, accepted heresies, *apeiros*, and *spoudazō* named as neighbourhood only.
+- Bible Introduction: the note is proved by the passages, or it does not govern them (a printed dispensational grid is not adopted as governor); self-interpretation is received only as refusal of a necessary secondary governor and as naming teachers who explain the writing away (ban on stating sense not adopted; “Christ never interpreted” not adopted); “as it is written” is the direction of the test (a mechanical two-or-three-verse rule is not adopted as a new primary method).
+- Aletheia leaflet: experience and analogical religiousism stand under the Graphē as premiere convention; an experience is not the imprimatur. The leaflet’s own system (baptism counts, rapture sequences, underworld map) is refused as a governor of the passages it cites. Causal chain to aridity, tergiversation, accepted heresies, *apeiros*, and *spoudazō* remains reserved.
 
-## Reserved (not established in Chapter 68)
+## Reserved (not established in Chapter 69)
 
-- Ch 69: When Secondary Sources Become Primary Authorities.
 - Ch 70: Tergiversation and Doctrinal Turning Aside.
 - Ch 71: Accepted Heresies.
 - Ch 72: Aridity and the Loss of Reasonability.
@@ -85,9 +86,9 @@ Theology, philosophy, tradition, and institution are secondary systems in relati
 
 ## Next necessary question
 
-> What happens when secondary sources become primary authorities, now that theology, philosophy, tradition, and institution have been ranked?
+> What are the causes and mechanisms of doctrinal turning aside, now that secondary sources have been shown governing the meaning of Scripture?
 
-That is Chapter 69.
+That is Chapter 70.
 
 ---
 
@@ -104,4 +105,4 @@ When a later chapter is accepted:
 
 # 6. Immediate predecessor (one-line memory)
 
-**Chapter 67** examined how Scripture is misread: poor perception, deficient understanding, faulty inference, context failure, and improper handling. The writing remains the measure. A correct reading remains possible. An incorrect reading remains incorrect. That catalog is a premise of Chapter 68, not a file to reprint.
+**Chapter 68** ranked theology, philosophy, tradition, and institution as secondary systems toward the Graphē. They may serve under the writing. None becomes primary written authority by Christian identity, academic status, antiquity, or institutional recognition. That rank is a premise of Chapter 69, not a file to reprint.
