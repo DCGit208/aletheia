@@ -53,7 +53,7 @@ Sources are reconstructed as arguments, not cited as “the source says.” Bibl
 
 **Movement:** IX — When Authoritative Truth Is Mishandled  
 **Assignment (locked TOC):** Examine secondary intellectual and institutional systems in relation to the Graphē. None becomes primary authority merely by claiming Christian identity, academic status, antiquity, or institutional recognition.  
-**Counts:** ~27,000 words; 53 numbered sections (68.1–68.53), plus What Has Been Established, Chapter Summary, and Transition to Chapter 69.
+**Counts:** ~27,000 words (27,036); 53 numbered sections (68.1–68.53), plus What Has Been Established, Chapter Summary, and Transition to Chapter 69.
 
 ## Thesis (accepted)
 
