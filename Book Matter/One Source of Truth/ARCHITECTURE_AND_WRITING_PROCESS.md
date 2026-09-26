@@ -43,23 +43,24 @@ Sources are reconstructed as arguments, not cited as “the source says.” Bibl
 | Chapter 68 | On disk (Movement IX continues) |
 | Chapter 69 | On disk (Movement IX continues) |
 | Chapter 70 | On disk (Movement IX continues) |
-| Chapters 71–73 | Outstanding (remainder of Movement IX) |
+| Chapter 71 | On disk (Movement IX continues) |
+| Chapters 72–73 | Outstanding (remainder of Movement IX) |
 | Chapters 74–85 | Outstanding (Movement X) |
 | Back matter | Planned; not yet a separate file |
 
-**Latest chapter file:** `71_Chapter_70_Tergiversation_and_Doctrinal_Turning_Aside.md`
+**Latest chapter file:** `72_Chapter_71_Accepted_Heresies.md`
 
 ---
 
-# 4. Chapter 70 — Tergiversation and Doctrinal Turning Aside
+# 4. Chapter 71 — Accepted Heresies
 
 **Movement:** IX — When Authoritative Truth Is Mishandled  
-**Assignment (locked TOC):** Examine the causes and mechanisms of doctrinal turning aside and identify the intellectual failures that permit departure from truth.  
-**Counts:** ~35,800 words (35,792); 62 numbered sections (70.1–70.62), plus What Has Been Established, Chapter Summary, and Transition to Chapter 71.
+**Assignment (locked TOC):** Examine how erroneous doctrines can become normalized or institutionalized and why institutional acceptance does not transform error into truth.  
+**Counts:** ~44,400 words (44,409); 66 numbered sections (71.1–71.66), plus What Has Been Established, Chapter Summary, and Transition to Chapter 72.
 
 ## Thesis (accepted)
 
-Doctrinal turning aside is the movement of a person or a people from a truth the Graphē has given toward another object that claims that truth’s place. The causes and mechanisms are inspectable in the writings: substitution that keeps the holy sentence and reassigns it; the small contrary that spreads; teachers heaped by an ear that will not endure sound doctrine; heed transferred or withheld; twist and beguilement; covert introduction; drawing disciples after the speaker; drift; departure by unbelief. The intellectual failures that permit the departure are failures of understanding what is affirmed, of consent to sound words, of learning and stability before what is hard, of endurance of sound doctrine, of the direction of heed, and of knowing the scriptures one possesses. Those failures join unbelief, lust, and deceit, and do not excuse the turn. The truth left remains the measure. Continuance, earnest heed, and conversion remain real contraries. This continues Movement IX. It is not Chapter 69 retried, not Chapters 71–73, and not Movement X.
+An accepted heresy is an erroneous doctrine that a body has received as its ordinary teaching or installed in the forms by which it orders belief, worship, and discipline. The settlement is inspectable: installation that imitates an authorized feast; unison of an official mouth; appeal to the king’s chapel; popular love of a false order; a claim to possess the law while the word is rejected; the manner of the fathers; teaching the commandments of men as doctrines; a school’s named doctrine; penalty and assembly-command; a false sending; social carrying-away; the following of many and the slander of the way of truth; holding and suffering a doctrine; a show of wisdom; standing prohibitions; borrowed names. Institutional acceptance does not transform error into truth. Truth remains conformity to reality. The Graphē remains the measure. Refusal of the multitude, the chapel, the fathers’ manner, and the suffered teacher remains a real contrary. This continues Movement IX. It is not Chapter 70 retried, not Chapters 72–73, and not Movement X.
 
 ## Premises used, not retried
 
@@ -67,19 +68,19 @@ Doctrinal turning aside is the movement of a person or a people from a truth the
 - Chapters 51–53 and 62–63: corpus; recognition is not creation; the Scripture cannot be broken.
 - Chapter 57: infallibility of the record, not of the interpreter, the church, or every later tradition.
 - Chapter 65: Graphē as primary written authority.
-- Chapter 66: authority of Scripture versus authority of interpretation; transfer and despair already refused; quotation is not the Graphē.
-- Chapter 67: five modes of misreading, used as instruments of a turning, not as a second catalog; a correct reading remains possible; an incorrect reading remains incorrect.
+- Chapter 66: authority of Scripture versus authority of interpretation; transfer and despair already refused.
+- Chapter 67: five modes of misreading; a correct reading remains possible; an incorrect reading remains incorrect. Modes may carry a doctrine into a receivable form and are not re-catalogued.
 - Chapter 68: theology, philosophy, tradition, and institution are secondary systems; identity, academy, antiquity, and recognition do not confer primary standing.
-- Chapter 69: secondary sources governing meaning occupy the seat of sense and reverse the test; the writing is not broken; service is not the event. Governance is a condition of disguised fidelity, not the whole cause of turning.
+- Chapter 69: secondary sources governing meaning occupy the seat of sense and reverse the test; the writing is not broken; service is not the event.
+- Chapter 70: doctrinal turning aside is an inspectable movement with named causes, mechanisms, and intellectual failures that permit and do not excuse. “Many shall follow,” leaven, and privy bringing-in are used in the function Chapter 70 reserved: the following and the settlement, not a second account of the departure.
 
 ## Sources reconstructed (not quoted as authority)
 
-- Bible Introduction: classes who find the writing hard are received where they locate wresting, bias, teachers who explain the writing away, and self-interested handling in men rather than in a speechless book (a total willfulness that erases hinderers is not adopted; a simplicity that erases hard texts and real expounding is not adopted). “As it is written” is received as the direction by which a turning is detected (a mechanical two-or-three-verse rule is not reinstalled as the detector; a dispensational grid is not adopted). Dull hearing can leave a delivered word unheld (aridity, *apeiros*, and the first principles are not thereby written).
-- Aletheia leaflet: the asserted chain is received only where intellectual failure is joined to doctrinal turning among persons and among bodies that claim Christ’s name. It is not adopted as a finished sequence through aridity, accepted heresies, *apeiros*, and *spoudazō*. The leaflet’s own system (baptism counts, rapture sequences, underworld map) is refused the offices of cause-list and of cure. A warning against tergiversation does not certify the warner’s grid.
+- Bible Introduction: inspiration’s record of false doctrines is received as record without sanction, and that non-sanction is kin to the weaker non-sanction of institutional acceptance (a theory of degrees of inspiration is not reopened). “As it is written” is received as the detector of an accepted doctrine inside its own house (a mechanical verse-count, isolation of a clause, and a dispensational grid are not adopted as the detector). Bias, teachers who explain the commandment away, and religious background are received where an ordinary human doctrine makes the written law seem strange (the ten classes are not a complete causal theory; aridity, *apeiros*, and the first principles are not thereby written).
+- Aletheia leaflet: the asserted chain is received where accepted heresies are called doctrines, where age and a Christian name do not shield a body, and where the measure for organizations remains conformity with the Graphē. It is not adopted as a finished sequence through aridity, *apeiros*, and *spoudazō*, and the book’s order is not rearranged to match the leaflet’s syntax. The leaflet’s own system (baptism counts, rapture sequences, underworld map) is refused the office of the list of heresies and the office of replacement orthodoxy. A warning against accepted heresies does not certify the doctrines printed after the warning.
 
-## Reserved (not established in Chapter 70)
+## Reserved (not established in Chapter 71)
 
-- Ch 71: Accepted Heresies.
 - Ch 72: Aridity and the Loss of Reasonability.
 - Ch 73: Ἄπειρος — Unskillfulness in the Word.
 - Entire Movement X (Chs 74–85): scholarly labour; *spoudazō*; rightly dividing; First Principles gate.
@@ -87,9 +88,9 @@ Doctrinal turning aside is the movement of a person or a people from a truth the
 
 ## Next necessary question
 
-> How do erroneous doctrines become normalized or institutionalized, now that doctrinal turning aside has been shown in its causes and mechanisms?
+> What is aridity, and what is the loss of reasonability, now that erroneous doctrines have been shown becoming the ordinary and official teaching of a body without becoming true?
 
-That is Chapter 71.
+That is Chapter 72.
 
 ---
 
@@ -106,4 +107,4 @@ When a later chapter is accepted:
 
 # 6. Immediate predecessor (one-line memory)
 
-**Chapter 69** showed what happens when commentaries, traditions, institutions, teachers, systems, or experiences govern the meaning of Scripture instead of serving under it. The seat of sense is occupied. The test is reversed. The writing is not broken. Service is not the event. That displacement is a premise of Chapter 70, not a file to reprint.
+**Chapter 70** showed that doctrinal turning aside is the movement of a person or a people from a truth the Graphē has given toward another object that claims that truth’s place. The causes and mechanisms are inspectable. Intellectual failures permit the departure and do not excuse it. The truth left remains the measure. Continuance is a real contrary. That turning is a premise of Chapter 71, not a file to reprint.
