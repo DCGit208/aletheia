@@ -3,7 +3,7 @@
 
 **Authoritative plan:** `One_Source_of_Truth_Final_TOC_and_Guidance.md` (locked TOC, Chapters 1–85). This file is a short disk map of that plan, not a rival outline.
 
-**Manuscript status:** Working manuscript, not a finished Graphē-gate curriculum. Front matter and Chapters 1–70 exist as drafted prose on disk. Movements V, VI, VII, and VIII are complete on disk. Chapters 66–70 are on disk. Chapters 71–85 are planned in the locked TOC and are outstanding.
+**Manuscript status:** Working manuscript, not a finished Graphē-gate curriculum. Front matter and Chapters 1–71 exist as drafted prose on disk. Movements V, VI, VII, and VIII are complete on disk. Chapters 66–71 are on disk. Chapters 72–85 are planned in the locked TOC and are outstanding.
 
 ```text
 ONE SOURCE OF TRUTH
@@ -95,13 +95,13 @@ The Doctrine of the Graphē
 │   64 John 17:17 — “Thy Word Is Truth”                   [on disk]
 │   65 Why the Graphē Is the Primary Written Authority    [on disk]
 │
-├── MOVEMENT IX — When Authoritative Truth Is Mishandled  [66–70 on disk / 71–73 outstanding]
+├── MOVEMENT IX — When Authoritative Truth Is Mishandled  [66–71 on disk / 72–73 outstanding]
 │   66 Authority of Scripture Versus Authority of Interpretation  [on disk]
 │   67 How Scripture Is Misread                                  [on disk]
 │   68 Theology, Philosophy, Tradition, and Institution          [on disk]
 │   69 When Secondary Sources Become Primary Authorities         [on disk]
 │   70 Tergiversation and Doctrinal Turning Aside                [on disk]
-│   71 Accepted Heresies
+│   71 Accepted Heresies                                         [on disk]
 │   72 Aridity and the Loss of Reasonability
 │   73 Ἄπειρος — Unskillfulness in the Word
 │
