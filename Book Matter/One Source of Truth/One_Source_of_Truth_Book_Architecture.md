@@ -3,7 +3,7 @@
 
 **Authoritative plan:** `One_Source_of_Truth_Final_TOC_and_Guidance.md` (locked TOC, Chapters 1–85). This file is a short disk map of that plan, not a rival outline.
 
-**Manuscript status:** Working manuscript, not a finished Graphē-gate curriculum. Front matter and Chapters 1–72 exist as drafted prose on disk. Movements V, VI, VII, and VIII are complete on disk. Chapters 66–72 are on disk. Chapters 73–85 are planned in the locked TOC and are outstanding.
+**Manuscript status:** Working manuscript, not a finished Graphē-gate curriculum. Front matter and Chapters 1–73 exist as drafted prose on disk. Movements V, VI, VII, VIII, and IX are complete on disk. Chapters 66–73 are on disk. Chapters 74–85 are planned in the locked TOC and are outstanding.
 
 ```text
 ONE SOURCE OF TRUTH
@@ -95,7 +95,7 @@ The Doctrine of the Graphē
 │   64 John 17:17 — “Thy Word Is Truth”                   [on disk]
 │   65 Why the Graphē Is the Primary Written Authority    [on disk]
 │
-├── MOVEMENT IX — When Authoritative Truth Is Mishandled  [66–72 on disk / 73 outstanding]
+├── MOVEMENT IX — When Authoritative Truth Is Mishandled  [66–73 on disk]
 │   66 Authority of Scripture Versus Authority of Interpretation  [on disk]
 │   67 How Scripture Is Misread                                  [on disk]
 │   68 Theology, Philosophy, Tradition, and Institution          [on disk]
@@ -103,7 +103,7 @@ The Doctrine of the Graphē
 │   70 Tergiversation and Doctrinal Turning Aside                [on disk]
 │   71 Accepted Heresies                                         [on disk]
 │   72 Aridity and the Loss of Reasonability                     [on disk]
-│   73 Ἄπειρος — Unskillfulness in the Word
+│   73 Ἄπειρος — Unskillfulness in the Word                      [on disk]
 │
 ├── MOVEMENT X — The Scholarly Labour of the Graphē       [74–85 outstanding]
 │   74 The Scholarly Impetus of Scripture
