@@ -45,54 +45,56 @@ Sources are reconstructed as arguments, not cited as “the source says.” Bibl
 | Chapter 70 | On disk (Movement IX continues) |
 | Chapter 71 | On disk (Movement IX continues) |
 | Chapter 72 | On disk (Movement IX continues) |
-| Chapter 73 | Outstanding (Movement IX closes with *apeiros*) |
+| Chapter 73 | On disk (Movement IX complete) |
 | Chapters 74–85 | Outstanding (Movement X) |
 | Back matter | Planned; not yet a separate file |
 
-**Latest chapter file:** `73_Chapter_72_Aridity_and_the_Loss_of_Reasonability.md`
+**Latest chapter file:** `74_Chapter_73_Apeiros_Unskillfulness_in_the_Word.md`
 
 ---
 
-# 4. Chapter 72 — Aridity and the Loss of Reasonability
+# 4. Chapter 73 — Ἄπειρος — Unskillfulness in the Word
 
-**Movement:** IX — When Authoritative Truth Is Mishandled  
-**Assignment (locked TOC):** Examine aridity in connection with deficient intellectual engagement, poor judgment, and failure to labour properly in the Word.  
-**Counts:** ~39,200 words (39,231); 58 numbered sections (72.1–72.58), plus What Has Been Established, Chapter Summary, and Transition to Chapter 73.
+**Movement:** IX — When Authoritative Truth Is Mishandled (movement closed)  
+**Assignment (locked TOC):** Develop Hebrews 5:13 and *apeiros*: inexperienced/unskillful. Explain the relationship between lack of skill, immaturity, and inability to handle the Word appropriately.  
+**Counts:** ~31,900 words (31,861); 59 numbered sections (73.1–73.59), plus What Has Been Established, Chapter Summary, and Transition to Chapter 74.  
+**File:** `74_Chapter_73_Apeiros_Unskillfulness_in_the_Word.md`
 
 ## Thesis (accepted)
 
-Aridity is the dryness in which the Word given to be heard, judged, and laboured in does not yield, in the hearer, the sound judgment that engagement requires. Reasonability is that sound judgment already defined. Its loss is the failure of proving, considering, and discriminating toward the writing, not the silence of the mind and not the obscurity of the Graphē. The dryness stands in three inspectable connections: deficient intellectual engagement, poor judgment, and failure to labour properly in the Word. The writings exhibit the condition — not-considering, knowledge-thirst, dull organs, a sealed book, ashes, broken cisterns, parched places, rejected knowledge, a famine of hearing, the answer before hearing, unfruitful reasoning, omitted judgment, an unapproved mind, ever-learning, and dullness after time. The writing is not broken by dull ears. A correct reading remains possible. The hearer is not excused. Consideration, righteous judgment, and seeking remain real contraries. Judicial hardening follows refusal and does not pardon it. This continues Movement IX. It is not Chapter 71 retried, not Chapter 73, and not Movement X.
+Ἄπειρος (*apeiros*, G552) in Hebrews 5:13 is unskillfulness in the word of righteousness. Everyone who partakes of milk is inexperienced in that word, for he is a babe. Lack of skill is the want of trial in the word of righteousness. Immaturity is the sentence’s own ground, measured by a time that already owed teachers. Inability to handle the Word appropriately is the use: elements taught again, milk rather than solid food, faculties not trained to discern good and evil. The three are one condition and are not synonyms. The Word remains handleable. Unskill does not break the Scripture and does not excuse the hearer after time. The newborn’s milk, the humble child, the hour not yet come, and the reader who asks for a guide are different objects. Dullness of hearing remains Chapter 72’s mark. This closes Movement IX. It is not Chapter 72 retried, and it is not Movement X.
 
 ## Premises used, not retried
 
-- Chapters 1–7 and 13–14: truth, sound judgment, the call to reason, revelation rather than speculation, human accounts accountable. Reasonability is Chapter 6’s sound judgment under the assignment’s name.
-- Chapters 62–63: the Scripture cannot be broken. Dull ears are not a new breakage.
+- Chapters 1–7 and 13–14: truth, sound judgment, the call to reason, revelation rather than speculation, human accounts accountable. Skill in a word is accountable to those operations.
+- Chapters 20–22: γραφή as Holy Writ. The Word in which one is unskilled is this writing.
+- Chapters 62–63: the Scripture cannot be broken. An unskilled partaker is not a new breakage.
 - Chapter 57: infallibility of the record, not of the interpreter, the church, or every later tradition.
-- Chapter 65: Graphē as primary written authority.
-- Chapters 66 and 67: authority of Scripture versus authority of interpretation; transfer and despair already refused; five modes of misreading; a correct reading remains possible; an incorrect reading remains incorrect. Mark 8 and Matthew 13 are used again for unfruitful reasoning and judicial dullness, not as a reprint of the mode-catalog.
-- Chapter 68: theology, philosophy, tradition, and institution are secondary systems.
-- Chapter 69: secondary sources governing meaning occupy the seat of sense; the writing is not broken; service is not the event.
-- Chapter 70: doctrinal turning aside, with intellectual failures that permit and do not excuse. Dullness of hearing was reserved there and is performed here.
-- Chapter 71: accepted heresy is an erroneous doctrine received as ordinary or official teaching, and reception does not transform error into truth. The strange law and the chapel’s voice are the world in which judgment can dry. They are not re-narrated as the how of acceptance.
+- Chapter 65: Graphē as primary written authority. Handling is measured by that authority.
+- Chapters 66 and 67: authority of Scripture versus authority of interpretation; transfer and despair already refused; a correct reading remains possible; an incorrect reading remains incorrect. Improper handling is not re-catalogued. Matthew 22:29 is used for the skill-fact of not knowing the Scriptures, not as a reprint of the mode-catalog.
+- Chapter 68: theology, philosophy, tradition, and institution are secondary systems. Antiquity does not constitute skill.
+- Chapter 69: secondary sources governing meaning occupy the seat of sense; service is not the event. Nehemiah 8:8 is service, not a second authority.
+- Chapter 70: doctrinal turning aside, with intellectual failures that permit and do not excuse. Second Peter 3:16 and Ephesians 4:14 are used for the unlearned and infant handler, not as a second turning-file.
+- Chapter 71: accepted heresy does not transform error into truth. The age of a body does not create skill and does not make an unskilled handling true.
+- Chapter 72: aridity and the loss of reasonability; dullness of hearing is the first mark and stays that file. Hebrews 5:11 is cited, not re-expounded.
 
 ## Sources reconstructed (not quoted as authority)
 
-- Bible Introduction (Hebrews 5:11 notes): hardness of utterance is received as a fact about the hearers’ dullness, not about the subject as a mystery; νωθρός is received as slowness and sloth, including Hebrews 6:12; time is received as an insufficient substitute for hearing. The two babe-marks are not adopted as one file: dull of hearing is this chapter; inexperience in the Word remains Chapter 73. The first principles are not taught.
-- Bible Introduction (Mark 8 notes): the seven reasons are received where they restate unused perception, memory, and hardness, and where the feedings make the disciples’ failure blameworthy. They are not adopted where “reasoning” as such is glossed as unbelief, where one scene is made the whole psychology of aridity, or where willfulness is used to erase a later judicial sleep.
-- Bible Introduction (ten classes): ignorance of contents, laziness, and the theory that the book is hard are received as coherence with unreadness and with failure to labour. The ten classes are not a complete causal theory. The witness-count, the dispensational grid, the percentage of plain text, and the claim that simply reading cancels exposition are not adopted. The remark that the book is large and mastery takes time is received as the distinction between unfinished labour and sloth.
-- Aletheia leaflet: reasonability as sound judgment is received, and the loss of that judgment is received in connection with aridity and with failure to labour in the Word. The sentence is not adopted as a finished order in which *apeiros*, tergiversation, accepted heresies, and *spoudazō* are established by the leaflet’s syntax, and the book’s order is not rearranged. “Predominantly” is not adopted as a statistic. A warning against dryness does not certify the grid printed after it. The grid is not the water poured on the dry ground.
+- Bible Introduction (Hebrews 5:13): *apeiros* as inexperienced, only here, is received. The two babe-marks are received as two: dull of hearing already established; inexperience in the Word established here.
+- Bible Introduction (Hebrews 5:12): the time-clause and the second teaching are received. “Not grown at all” as a universal inner history, the fusion of 1 Peter 2:2 with the rebuke, the added “simple,” and the unverified claim that milk was the metaphor of many profane writers are not adopted.
+- Bible Introduction (Hebrews 5:14): τέλειος as maturity and διάκρισις as discernment are received as the paragraph’s contrary. “Capable of instruction” as a second textual mark, the soul-sense system, the subsequent rule-list, and the right-division gloss are not adopted. The contrary is named and not methodized.
+- Aletheia leaflet: “inexperienced” and “unskillful” are received. “That is, ignorant” is received only as not-knowing by trial, not as stupidity or as never having heard. The babe-join is the verse’s own γάρ. “Simple-minded” is limited to undeveloped judgment. “Basis for salvation” does not replace “word of righteousness.” The lack is intellectual; the stages and the word-drill are not written. Persons are the subject; a body’s handling can be unskilled, and age does not cure it. The leaflet’s order, in which unskill produces aridity, tergiversation, and accepted heresies, is not adopted. Σπουδάζω and the scholarly impetus are named as the question Movement X answers and are not written.
 
-## Reserved (not established in Chapter 72)
+## Reserved (not established in Chapter 73)
 
-- Ch 73: Ἄπειρος — Unskillfulness in the Word (Hebrews 5:13; lack of skill, immaturity, inability to handle the Word). Closes Movement IX.
-- Entire Movement X (Chs 74–85): scholarly labour; *spoudazō*; rightly dividing; First Principles gate.
+- Entire Movement X (Chs 74–85): the scholarly impetus of Scripture; perception, learning, and understanding; reasoning through the Word; quotation, meaning, and knowledge; *spoudazō*; the exercise of the Word; maturity, skill, and strong meat; the babe and the unskillful as a canon-wide diagnosis; rightly dividing; the approved workman; the discipline of biblical interpretation; the gate from the Graphē to the Six First Principles.
 - The Six First Principles themselves.
 
 ## Next necessary question
 
-> What is *apeiros*, unskillfulness in the Word, now that aridity and the loss of reasonability have been shown in connection with deficient engagement, poor judgment, and failure to labour properly in the Word?
+> What is the scholarly impetus of Scripture, now that unskillfulness in the Word has been shown as inexperience in the word of righteousness, joined to immaturity and to inability to handle the Word appropriately?
 
-That is Chapter 73.
+That is Chapter 74. Movement X opens there. Movement IX is complete.
 
 ---
 
@@ -109,4 +111,4 @@ When a later chapter is accepted:
 
 # 6. Immediate predecessor (one-line memory)
 
-**Chapter 71** showed that an accepted heresy is an erroneous doctrine a body has received as its ordinary teaching or installed in the forms by which it orders belief, worship, and discipline. Institutional acceptance does not transform error into truth. The Graphē remains the measure. Refusal remains a real contrary. That settlement is a premise of Chapter 72, not a file to reprint.
+**Chapter 72** showed that aridity is the dryness in which the Word given to be heard, judged, and laboured in does not yield sound judgment in the hearer. The loss of reasonability is that failure, not the obscurity of the Graphē. Dullness of hearing is the first mark of the babe-paragraph. The writing is not broken. The hearer is not excused. That dryness is a premise of Chapter 73, not a file to reprint.
