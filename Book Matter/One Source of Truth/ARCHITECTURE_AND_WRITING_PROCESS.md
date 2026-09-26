@@ -44,53 +44,55 @@ Sources are reconstructed as arguments, not cited as “the source says.” Bibl
 | Chapter 69 | On disk (Movement IX continues) |
 | Chapter 70 | On disk (Movement IX continues) |
 | Chapter 71 | On disk (Movement IX continues) |
-| Chapters 72–73 | Outstanding (remainder of Movement IX) |
+| Chapter 72 | On disk (Movement IX continues) |
+| Chapter 73 | Outstanding (Movement IX closes with *apeiros*) |
 | Chapters 74–85 | Outstanding (Movement X) |
 | Back matter | Planned; not yet a separate file |
 
-**Latest chapter file:** `72_Chapter_71_Accepted_Heresies.md`
+**Latest chapter file:** `73_Chapter_72_Aridity_and_the_Loss_of_Reasonability.md`
 
 ---
 
-# 4. Chapter 71 — Accepted Heresies
+# 4. Chapter 72 — Aridity and the Loss of Reasonability
 
 **Movement:** IX — When Authoritative Truth Is Mishandled  
-**Assignment (locked TOC):** Examine how erroneous doctrines can become normalized or institutionalized and why institutional acceptance does not transform error into truth.  
-**Counts:** ~44,400 words (44,409); 66 numbered sections (71.1–71.66), plus What Has Been Established, Chapter Summary, and Transition to Chapter 72.
+**Assignment (locked TOC):** Examine aridity in connection with deficient intellectual engagement, poor judgment, and failure to labour properly in the Word.  
+**Counts:** ~39,200 words (39,231); 58 numbered sections (72.1–72.58), plus What Has Been Established, Chapter Summary, and Transition to Chapter 73.
 
 ## Thesis (accepted)
 
-An accepted heresy is an erroneous doctrine that a body has received as its ordinary teaching or installed in the forms by which it orders belief, worship, and discipline. The settlement is inspectable: installation that imitates an authorized feast; unison of an official mouth; appeal to the king’s chapel; popular love of a false order; a claim to possess the law while the word is rejected; the manner of the fathers; teaching the commandments of men as doctrines; a school’s named doctrine; penalty and assembly-command; a false sending; social carrying-away; the following of many and the slander of the way of truth; holding and suffering a doctrine; a show of wisdom; standing prohibitions; borrowed names. Institutional acceptance does not transform error into truth. Truth remains conformity to reality. The Graphē remains the measure. Refusal of the multitude, the chapel, the fathers’ manner, and the suffered teacher remains a real contrary. This continues Movement IX. It is not Chapter 70 retried, not Chapters 72–73, and not Movement X.
+Aridity is the dryness in which the Word given to be heard, judged, and laboured in does not yield, in the hearer, the sound judgment that engagement requires. Reasonability is that sound judgment already defined. Its loss is the failure of proving, considering, and discriminating toward the writing, not the silence of the mind and not the obscurity of the Graphē. The dryness stands in three inspectable connections: deficient intellectual engagement, poor judgment, and failure to labour properly in the Word. The writings exhibit the condition — not-considering, knowledge-thirst, dull organs, a sealed book, ashes, broken cisterns, parched places, rejected knowledge, a famine of hearing, the answer before hearing, unfruitful reasoning, omitted judgment, an unapproved mind, ever-learning, and dullness after time. The writing is not broken by dull ears. A correct reading remains possible. The hearer is not excused. Consideration, righteous judgment, and seeking remain real contraries. Judicial hardening follows refusal and does not pardon it. This continues Movement IX. It is not Chapter 71 retried, not Chapter 73, and not Movement X.
 
 ## Premises used, not retried
 
-- Chapters 1–7 and 13–14: truth, reason, revelation rather than speculation, human accounts accountable.
-- Chapters 51–53 and 62–63: corpus; recognition is not creation; the Scripture cannot be broken.
+- Chapters 1–7 and 13–14: truth, sound judgment, the call to reason, revelation rather than speculation, human accounts accountable. Reasonability is Chapter 6’s sound judgment under the assignment’s name.
+- Chapters 62–63: the Scripture cannot be broken. Dull ears are not a new breakage.
 - Chapter 57: infallibility of the record, not of the interpreter, the church, or every later tradition.
 - Chapter 65: Graphē as primary written authority.
-- Chapter 66: authority of Scripture versus authority of interpretation; transfer and despair already refused.
-- Chapter 67: five modes of misreading; a correct reading remains possible; an incorrect reading remains incorrect. Modes may carry a doctrine into a receivable form and are not re-catalogued.
-- Chapter 68: theology, philosophy, tradition, and institution are secondary systems; identity, academy, antiquity, and recognition do not confer primary standing.
-- Chapter 69: secondary sources governing meaning occupy the seat of sense and reverse the test; the writing is not broken; service is not the event.
-- Chapter 70: doctrinal turning aside is an inspectable movement with named causes, mechanisms, and intellectual failures that permit and do not excuse. “Many shall follow,” leaven, and privy bringing-in are used in the function Chapter 70 reserved: the following and the settlement, not a second account of the departure.
+- Chapters 66 and 67: authority of Scripture versus authority of interpretation; transfer and despair already refused; five modes of misreading; a correct reading remains possible; an incorrect reading remains incorrect. Mark 8 and Matthew 13 are used again for unfruitful reasoning and judicial dullness, not as a reprint of the mode-catalog.
+- Chapter 68: theology, philosophy, tradition, and institution are secondary systems.
+- Chapter 69: secondary sources governing meaning occupy the seat of sense; the writing is not broken; service is not the event.
+- Chapter 70: doctrinal turning aside, with intellectual failures that permit and do not excuse. Dullness of hearing was reserved there and is performed here.
+- Chapter 71: accepted heresy is an erroneous doctrine received as ordinary or official teaching, and reception does not transform error into truth. The strange law and the chapel’s voice are the world in which judgment can dry. They are not re-narrated as the how of acceptance.
 
 ## Sources reconstructed (not quoted as authority)
 
-- Bible Introduction: inspiration’s record of false doctrines is received as record without sanction, and that non-sanction is kin to the weaker non-sanction of institutional acceptance (a theory of degrees of inspiration is not reopened). “As it is written” is received as the detector of an accepted doctrine inside its own house (a mechanical verse-count, isolation of a clause, and a dispensational grid are not adopted as the detector). Bias, teachers who explain the commandment away, and religious background are received where an ordinary human doctrine makes the written law seem strange (the ten classes are not a complete causal theory; aridity, *apeiros*, and the first principles are not thereby written).
-- Aletheia leaflet: the asserted chain is received where accepted heresies are called doctrines, where age and a Christian name do not shield a body, and where the measure for organizations remains conformity with the Graphē. It is not adopted as a finished sequence through aridity, *apeiros*, and *spoudazō*, and the book’s order is not rearranged to match the leaflet’s syntax. The leaflet’s own system (baptism counts, rapture sequences, underworld map) is refused the office of the list of heresies and the office of replacement orthodoxy. A warning against accepted heresies does not certify the doctrines printed after the warning.
+- Bible Introduction (Hebrews 5:11 notes): hardness of utterance is received as a fact about the hearers’ dullness, not about the subject as a mystery; νωθρός is received as slowness and sloth, including Hebrews 6:12; time is received as an insufficient substitute for hearing. The two babe-marks are not adopted as one file: dull of hearing is this chapter; inexperience in the Word remains Chapter 73. The first principles are not taught.
+- Bible Introduction (Mark 8 notes): the seven reasons are received where they restate unused perception, memory, and hardness, and where the feedings make the disciples’ failure blameworthy. They are not adopted where “reasoning” as such is glossed as unbelief, where one scene is made the whole psychology of aridity, or where willfulness is used to erase a later judicial sleep.
+- Bible Introduction (ten classes): ignorance of contents, laziness, and the theory that the book is hard are received as coherence with unreadness and with failure to labour. The ten classes are not a complete causal theory. The witness-count, the dispensational grid, the percentage of plain text, and the claim that simply reading cancels exposition are not adopted. The remark that the book is large and mastery takes time is received as the distinction between unfinished labour and sloth.
+- Aletheia leaflet: reasonability as sound judgment is received, and the loss of that judgment is received in connection with aridity and with failure to labour in the Word. The sentence is not adopted as a finished order in which *apeiros*, tergiversation, accepted heresies, and *spoudazō* are established by the leaflet’s syntax, and the book’s order is not rearranged. “Predominantly” is not adopted as a statistic. A warning against dryness does not certify the grid printed after it. The grid is not the water poured on the dry ground.
 
-## Reserved (not established in Chapter 71)
+## Reserved (not established in Chapter 72)
 
-- Ch 72: Aridity and the Loss of Reasonability.
-- Ch 73: Ἄπειρος — Unskillfulness in the Word.
+- Ch 73: Ἄπειρος — Unskillfulness in the Word (Hebrews 5:13; lack of skill, immaturity, inability to handle the Word). Closes Movement IX.
 - Entire Movement X (Chs 74–85): scholarly labour; *spoudazō*; rightly dividing; First Principles gate.
 - The Six First Principles themselves.
 
 ## Next necessary question
 
-> What is aridity, and what is the loss of reasonability, now that erroneous doctrines have been shown becoming the ordinary and official teaching of a body without becoming true?
+> What is *apeiros*, unskillfulness in the Word, now that aridity and the loss of reasonability have been shown in connection with deficient engagement, poor judgment, and failure to labour properly in the Word?
 
-That is Chapter 72.
+That is Chapter 73.
 
 ---
 
@@ -107,4 +109,4 @@ When a later chapter is accepted:
 
 # 6. Immediate predecessor (one-line memory)
 
-**Chapter 70** showed that doctrinal turning aside is the movement of a person or a people from a truth the Graphē has given toward another object that claims that truth’s place. The causes and mechanisms are inspectable. Intellectual failures permit the departure and do not excuse it. The truth left remains the measure. Continuance is a real contrary. That turning is a premise of Chapter 71, not a file to reprint.
+**Chapter 71** showed that an accepted heresy is an erroneous doctrine a body has received as its ordinary teaching or installed in the forms by which it orders belief, worship, and discipline. Institutional acceptance does not transform error into truth. The Graphē remains the measure. Refusal remains a real contrary. That settlement is a premise of Chapter 72, not a file to reprint.
