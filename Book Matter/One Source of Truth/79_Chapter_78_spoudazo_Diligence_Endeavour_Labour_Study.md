@@ -58,7 +58,7 @@ The King James Version renders 2 Timothy 2:15:
 
 > “Study to shew thyself approved unto God…”
 
-Other translations render the opening command with expressions such as **“give diligence,” “be diligent,” “make every effort,”** or **“do your best.”** The variation is not itself proof that one translation is correct and the others are wrong. It is evidence that translators have recognized a semantic range that cannot be reduced to one English word. citeturn0search0turn0search10
+Other translations render the opening command with expressions such as **“give diligence,” “be diligent,” “make every effort,”** or **“do your best.”** The variation is not itself proof that one translation is correct and the others are wrong. It is evidence that translators have recognized a semantic range that cannot be reduced to one English word.
 
 The question, therefore, is not:
 
@@ -113,7 +113,7 @@ This is a form of:
 
 > **σπουδάζω — *spoudazō***
 
-The lexical identification is commonly given as **Strong’s G4704**. The form in 2 Timothy 2:15 is an **aorist active imperative, second person singular**: a direct command addressed to Timothy. Greek text resources identify the form as **σπούδασον** and gloss it with such expressions as “hasten,” “be diligent,” or “make every effort.” citeturn0search2turn1search4
+The lexical identification is commonly given as **Strong’s G4704**. The form in 2 Timothy 2:15 is an **aorist active imperative, second person singular**: a direct command addressed to Timothy. Greek text resources identify the form as **σπούδασον** and gloss it with such expressions as “hasten,” “be diligent,” or “make every effort.”
 
 The morphology matters, but it must not be abused.
 
@@ -162,7 +162,7 @@ A person who endeavours is not merely wishing.
 
 The verb concerns action characterized by purposeful urgency or earnest exertion.
 
-Thayer’s lexical treatment distinguishes a use meaning **“to hasten, make haste”** from a use meaning **“to exert oneself, endeavor, give diligence.”** It identifies the New Testament occurrences in both categories. Other lexical summaries similarly give “make haste,” “give diligence,” “be diligent,” “be eager,” and “make every effort.” citeturn0search12turn1search9
+Thayer’s lexical treatment distinguishes a use meaning **“to hasten, make haste”** from a use meaning **“to exert oneself, endeavor, give diligence.”** It identifies the New Testament occurrences in both categories. Other lexical summaries similarly give “make haste,” “give diligence,” “be diligent,” “be eager,” and “make every effort.”
 
 This is why **study** can be an appropriate contextual rendering in 2 Timothy 2:15 while still being an inadequate definition of the Greek verb.
 
@@ -216,7 +216,7 @@ The New Testament contains eleven occurrences of the **σπουδάζω** lemma 
 10. 2 Peter 1:15
 11. 2 Peter 3:14
 
-The forms include aorist indicative forms, a present participle, aorist imperatives, an aorist subjunctive, and a future indicative. The normalized lexical form is the same verb. citeturn1search4turn1search8
+The forms include aorist indicative forms, a present participle, aorist imperatives, an aorist subjunctive, and a future indicative. The normalized lexical form is the same verb.
 
 This distribution is immediately instructive.
 
@@ -366,7 +366,7 @@ Timothy is to come.
 
 The verb therefore carries the idea of urgency or haste.
 
-This is one of the contexts in which lexical sources identify **σπουδάζω** with “make haste.” citeturn0search12turn1search9
+This is one of the contexts in which lexical sources identify **σπουδάζω** with “make haste.”
 
 The command does not mean:
 
@@ -432,7 +432,7 @@ Hebrews 4:11 gives one of the most important occurrences for understanding the r
 
 > “Let us labour therefore to enter into that rest…”
 
-The underlying verb is **σπουδάζω** in the first-person plural aorist subjunctive, **σπουδάσωμεν**. citeturn1search4
+The underlying verb is **σπουδάζω** in the first-person plural aorist subjunctive, **σπουδάσωμεν**.
 
 The English translations vary:
 
@@ -517,7 +517,7 @@ Peter says:
 
 > “Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance.”
 
-The verb is **σπουδάσω**, a future active indicative form of **σπουδάζω**. citeturn1search4
+The verb is **σπουδάσω**, a future active indicative form of **σπουδάζω**.
 
 The object is remarkable.
 
@@ -615,7 +615,7 @@ The occurrences can now be placed together.
 | 2 Peter 1:15 | Enable future remembrance | Endeavour |
 | 2 Peter 3:14 | Be found in peace, without spot, blameless | Diligence |
 
-The lexical sources and Greek occurrence data support this broad distribution. citeturn1search4turn1search9
+The lexical sources and Greek occurrence data support this broad distribution.
 
 Several conclusions follow.
 
@@ -912,7 +912,7 @@ The Greek text begins:
 
 > **σπούδασον σεαυτὸν δόκιμον παραστῆσαι τῷ Θεῷ, ἐργάτην ἀνεπαίσχυντον, ὀρθοτομοῦντα τὸν λόγον τῆς ἀληθείας.**
 
-Greek text resources identify **σπούδασον** as the form of **σπουδάζω**, followed by the reflexive pronoun “yourself,” **δόκιμον** “approved,” **παραστῆσαι** “to present,” **τῷ Θεῷ** “to God,” and the description of the person as a workman who accurately handles the word of truth. citeturn0search2turn0search5
+Greek text resources identify **σπούδασον** as the form of **σπουδάζω**, followed by the reflexive pronoun “yourself,” **δόκιμον** “approved,” **παραστῆσαι** “to present,” **τῷ Θεῷ** “to God,” and the description of the person as a workman who accurately handles the word of truth.
 
 The command therefore contains a structure:
 
@@ -981,7 +981,7 @@ The English translations already demonstrate the range:
 - NIV: “Do your best”
 - other translations: “make every effort,” “strive diligently,” and similar formulations.
 
-The translation evidence therefore confirms that the semantic field extends beyond the modern academic sense of **study**. citeturn0search0turn0search10
+The translation evidence therefore confirms that the semantic field extends beyond the modern academic sense of **study**.
 
 This does not make the KJV rendering wrong.
 
@@ -2178,7 +2178,7 @@ The NIV says:
 
 > “Do your best…”
 
-Other translations use expressions such as “make every effort” and “strive diligently.” citeturn0search0turn0search10
+Other translations use expressions such as “make every effort” and “strive diligently.”
 
 These translations should not be treated as independent authorities capable of defining the Greek word by majority vote.
 
@@ -2695,17 +2695,17 @@ This chapter has established the following.
 
 ### 1. σπουδάζω is the Greek verb assigned to Chapter 78.
 
-The principal form in 2 Timothy 2:15 is **σπούδασον**, from **σπουδάζω**, commonly identified as Strong’s G4704. citeturn0search2turn1search4
+The principal form in 2 Timothy 2:15 is **σπούδασον**, from **σπουδάζω**, commonly identified as Strong’s G4704.
 
 ### 2. The word has a semantic range.
 
 It can express:
 
-> **to hasten, make haste, exert oneself, endeavour, give diligence, be diligent, be eager, make every effort.** citeturn0search12turn1search9
+> **to hasten, make haste, exert oneself, endeavour, give diligence, be diligent, be eager, make every effort.**
 
 ### 3. Its New Testament usage is broader than Bible study.
 
-The eleven occurrences include contexts involving practical action, unity, reunion, haste, entering rest, spiritual development, remembrance, and being found in a particular condition. citeturn1search4turn1search8
+The eleven occurrences include contexts involving practical action, unity, reunion, haste, entering rest, spiritual development, remembrance, and being found in a particular condition.
 
 ### 4. Context determines the contextual force.
 
@@ -2945,7 +2945,7 @@ The principal New Testament occurrences examined are:
 - 2 Peter 1:15;
 - 2 Peter 3:14.
 
-The complete occurrence list is independently reflected in Greek lexical databases keyed to the SBL Greek New Testament. citeturn1search4turn1search8
+The complete occurrence list is independently reflected in Greek lexical databases keyed to the SBL Greek New Testament.
 
 ### F. Greek Lexical Evidence
 
@@ -2959,9 +2959,9 @@ The investigation uses:
 - New Testament distribution;
 - contextual usage.
 
-Greek text resources identify σπούδασον in 2 Timothy 2:15 as an aorist active imperative, second-person singular. citeturn0search2turn1search4
+Greek text resources identify σπούδασον in 2 Timothy 2:15 as an aorist active imperative, second-person singular.
 
-Lexical resources identify the semantic range around haste, earnest exertion, diligence, endeavour, eagerness, and effort. citeturn0search12turn1search9
+Lexical resources identify the semantic range around haste, earnest exertion, diligence, endeavour, eagerness, and effort.
 
 ### G. Translation Evidence
 
@@ -2974,7 +2974,7 @@ Translation comparison was used specifically to identify the range of English re
 - make every effort;
 - strive diligently.
 
-These renderings were treated as translation evidence rather than as independent lexical authorities. citeturn0search0turn0search10
+These renderings were treated as translation evidence rather than as independent lexical authorities.
 
 ---
 
