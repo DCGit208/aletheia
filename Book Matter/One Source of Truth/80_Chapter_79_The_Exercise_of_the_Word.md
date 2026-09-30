@@ -128,7 +128,7 @@ The form **γεγυμνασμένα** comes from:
 
 > **γυμνάζω — *gumnazō***
 
-The verb can refer literally to training or exercising and can be used figuratively of training or disciplining the mind and faculties. Hebrews 5:14 uses its perfect passive participial form in describing the senses or faculties as having been trained. citeturn0search9turn0search10
+The verb can refer literally to training or exercising and can be used figuratively of training or disciplining the mind and faculties. Hebrews 5:14 uses its perfect passive participial form in describing the senses or faculties as having been trained.
 
 This is important.
 
@@ -158,7 +158,7 @@ The verse contains another important term:
 
 > **ἕξις**
 
-The noun **ἕξις** can refer to a condition, habit, or settled state and is translated in Hebrews 5:14 in ways such as “use,” “practice,” or “habit.” citeturn0search0turn0search7
+The noun **ἕξις** can refer to a condition, habit, or settled state and is translated in Hebrews 5:14 in ways such as “use,” “practice,” or “habit.”
 
 The phrase therefore does not describe a single moment of contact with the Word.
 
@@ -414,7 +414,7 @@ The King James Version renders the relevant expression:
 
 > “by reason of use have their senses exercised…”
 
-Other translations render the idea with words such as **practice** or **constant use**. The underlying noun is **ἕξις**, which can carry the sense of habit, practice, or a settled condition. citeturn0search0turn0search8
+Other translations render the idea with words such as **practice** or **constant use**. The underlying noun is **ἕξις**, which can carry the sense of habit, practice, or a settled condition.
 
 This is one of the most important lexical observations in the chapter.
 
@@ -592,7 +592,7 @@ The form **γεγυμνασμένα** is significant.
 
 It is a perfect passive participle.
 
-The grammatical form presents the senses as having been trained, with the resulting condition being relevant to their present state. The lexical form is **γυμνάζω**, “to train” or “exercise.” citeturn0search5turn0search9
+The grammatical form presents the senses as having been trained, with the resulting condition being relevant to their present state. The lexical form is **γυμνάζω**, “to train” or “exercise.”
 
 The point should not be exaggerated.
 
@@ -1223,7 +1223,7 @@ This is the developmental architecture of the chapter.
 
 # 79.25 Exercise and the Meaning of “Faculties”
 
-Hebrews speaks of **αἰσθητήρια**, a term associated literally with organs of sense and used here for the faculties or capacities by which discernment occurs. citeturn0search0turn0search4
+Hebrews speaks of **αἰσθητήρια**, a term associated literally with organs of sense and used here for the faculties or capacities by which discernment occurs.
 
 The metaphor is significant.
 
