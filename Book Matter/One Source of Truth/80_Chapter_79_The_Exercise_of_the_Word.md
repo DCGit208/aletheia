@@ -480,7 +480,7 @@ He is becoming capable of discrimination.
 
 This is why the word **διάκρισις** matters.
 
-The noun is related to judgment or distinguishing. Hebrews uses it for the capacity to discriminate between good and evil. citeturn0search0turn0search10
+The noun is related to judgment or distinguishing. Hebrews uses it for the capacity to discriminate between good and evil.
 
 Exercise therefore has an epistemic consequence.
 
@@ -2119,7 +2119,7 @@ Hebrews answers through its own vocabulary:
 
 > **ἕξις → γεγυμνασμένα → διάκρισις**
 
-A developed condition or practice is associated with trained faculties, and those trained faculties are directed toward discernment. citeturn0search0turn0search10
+A developed condition or practice is associated with trained faculties, and those trained faculties are directed toward discernment.
 
 The chapter therefore need not claim more than the text.
 
