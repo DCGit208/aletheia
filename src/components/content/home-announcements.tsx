@@ -14,7 +14,6 @@ export function HomeAnnouncements() {
     const catalogItems = listAnnouncements();
     const db = getFirebaseDb();
     if (!db) {
-      setItems(catalogItems);
       return;
     }
     const q = query(collection(db, "announcements"), where("status", "==", "published"));
