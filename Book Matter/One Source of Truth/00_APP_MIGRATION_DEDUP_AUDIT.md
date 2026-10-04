@@ -425,3 +425,52 @@ It is **not**:
 The existing independent works, six principle books, Foundation handbook, courses, programs, and products are preserved unless a later dependency audit proves a specific relationship must change.
 
 **Current gate:** DO NOT perform the production content replacement until the remaining Phase 1 dependency checks are complete.
+
+
+---
+
+# AUDIT UPDATE — 2026-10-04
+
+## Authoritative 85-Chapter Source Verification
+
+The completed 85-chapter prose manuscript is confirmed to exist in the repository under:
+
+`Book Matter/One Source of Truth/`
+
+The repository contains the complete numbered sequence **1–85**, with Chapter 85 titled **From Graphē to the Six First Principles**. There are no missing or duplicate chapter numbers in the manuscript file set.
+
+Therefore the earlier Phase 1 blocker concerning unavailable authoritative prose is closed.
+
+### Updated migration state
+
+- **Source:** PASS
+- **Architecture:** PASS
+- **Legacy app payload:** UPDATE / REPLACE
+- **Course:** RETAIN / REMAP
+- **Foundation handbook:** RETAIN
+- **Six First Principles:** RETAIN
+- **Independent works:** RETAIN
+- **Production replacement:** READY FOR CONTROLLED IMPLEMENTATION
+
+### Important implementation constraint
+
+The authoritative chapter files must be transferred into the application **exactly as source content**, not reconstructed from chapter titles, summaries, or memory.
+
+The migration must preserve the existing canonical identity:
+
+`book-one-source-of-truth`
+
+and replace the old 43-chapter payload in one controlled operation.
+
+The old six-principle chapters 35–40 must not survive as active One Source chapters.
+
+### Remaining Phase 1 checks
+
+Before declaring Phase 1 PASS:
+
+1. Complete the One Source repository-wide reference inventory.
+2. Complete the Graphē Course lesson/resource crosswalk.
+3. Verify Foundation School chapter aggregation after replacement.
+4. Verify product/entitlement grants.
+5. Verify publication/reader/catalog routes.
+6. Record the final migration crosswalk.
