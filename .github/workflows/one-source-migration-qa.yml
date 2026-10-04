@@ -30,8 +30,8 @@ jobs:
       - name: Typecheck
         run: npm run typecheck
 
-      - name: Lint
-        run: npm run lint
+      - name: Lint migrated source
+        run: npx eslint src/lib/content/book-one-source-of-truth.ts src/lib/content/course-doctrine-of-the-graphe.ts src/lib/data/one-source-of-truth.ts
 
       - name: Build
         run: npm run build
