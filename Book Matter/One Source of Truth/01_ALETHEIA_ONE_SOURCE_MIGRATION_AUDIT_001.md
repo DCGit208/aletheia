@@ -1,138 +1,178 @@
 # Aletheia — One Source of Truth Migration Audit 001
 
 **Date:** 2026-10-04  
-**Scope:** Phase 1 master content/dependency audit  
-**Status:** REVIEW / MIGRATION BLOCKER IDENTIFIED
+**Scope:** Phase 1 master content/dependency audit and Phase 2 implementation checkpoint  
+**Status:** **IMPLEMENTATION COMPLETE ON MIGRATION BRANCH — QA/RELEASE PENDING**
 
 ## Executive Finding
 
-The Aletheia application currently contains a **43-chapter active One Source of Truth manuscript**, while the locked *Final Table of Contents & Authoring / Conceptual Guidance* defines an **85-chapter target architecture**.
+The earlier version of this audit contained a blocker stating that the complete 85-chapter prose manuscript had not been located. That finding is now superseded by direct repository evidence.
 
-The 85-chapter document is clearly a locked structural reference: Chapters 1–85 are explicitly enumerated, with Chapter 85 titled **“From Graphē to the Six First Principles.”**
+The authoritative **85-chapter manuscript is present in** `Book Matter/One Source of Truth/`, has passed the final manuscript audit, and contains Chapters 1–85 in sequence.
 
-However, the complete prose manuscript for Chapters 44–85 has not been located in the accessible repository/library search. Therefore:
+The remaining migration work is therefore **application integration and verification**, not manuscript completion.
 
-> **Do not yet replace the live 43-chapter book with an invented or reconstructed 85-chapter manuscript.**
+> **Authoritative manuscript exists. The legacy application representation has been replaced on the migration branch. Full QA and release verification remain outstanding.**
 
-The migration must remain in **REVIEW/BLOCKED** at the content-replacement gate until the authoritative prose for Chapters 1–85 is available and verified.
+## Evidence
 
-## Evidence Reviewed
+### A. Canonical manuscript
 
-### A. Locked 85-Chapter Architecture
+`00_FINAL_MANUSCRIPT_AUDIT_TASKS.md` records PASS for the manuscript inventory and final architecture audit. The live directory contains the complete 85-chapter sequence.
 
-The locked TOC establishes the complete 85-chapter sequence, including:
-- Chapters 1–8: Truth and possibility of knowledge
-- Chapters 9–14: God, truth, revelation
-- Chapters 15–22: What the Bible is / Graphē
-- Chapters 23–32: How the written record was given
-- Chapters 33–42: Authentication
-- Chapters 43–50: Christ as central witness
-- Chapters 51–58: Scripture, canon, infallibility
-- Chapters 59–65: Christ's verdict on the Graphē
-- Chapters 66–73: Mishandling authoritative truth
-- Chapters 74–84: Scholarly labour and interpretation
-- Chapter 85: Graphē to the Six First Principles
+The canonical chapter files are the source of truth. The application adapter imports normalized chapter data generated directly from those chapter files into:
 
-This is the architectural destination and must control placement of arguments.
+`src/lib/content/one-source-canonical-01.json`  
+`src/lib/content/one-source-canonical-02.json`  
+`src/lib/content/one-source-canonical-03.json`  
+`src/lib/content/one-source-canonical-04.json`  
+`src/lib/content/one-source-canonical-05.json`
 
-### B. Current Application Manuscript
+The five application data partitions contain Chapters 1–17, 18–34, 35–51, 52–68, and 69–85 respectively.
 
-The active repository file `src/lib/content/book-one-source-of-truth.ts` contains:
-- canonical book ID: `book-one-source-of-truth`
-- product ID: `product-one-source-of-truth`
-- course ID: `course-doctrine-of-the-graphe`
-- **43 active chapters**
-- a legacy 10-part structure
-- final chapter: **Chapter 43 — One Source of Truth**
+### B. Canonical application identity
 
-This is not the locked 85-chapter architecture.
+The existing canonical IDs are preserved:
 
-### C. Current Graphē Course
+- Book: `book-one-source-of-truth`
+- Product: `product-one-source-of-truth`
+- Course: `course-doctrine-of-the-graphe`
 
-The active course file `src/lib/content/course-doctrine-of-the-graphe.ts` contains:
-- 5 modules
-- 16 lessons
-- lesson references tied to the old book architecture
-- explicit references to One Source chapters 1–32
-- current resource IDs include both `book-one-source-of-truth` and `book-principles-doctrine-christ`
+The legacy 43-chapter active array has been replaced rather than appended to.
 
-This course therefore cannot be considered aligned with the 85-chapter book until the new book structure is authoritative and the course references are audited against it.
+### C. Foundation School dependency
 
-### D. Source / Methodology Controls
+`src/lib/data/foundation-school.ts` intentionally consumes `oneSourceChapters`.
 
-The Master Writing Methodology requires the manuscript to be researched, reasoned, organized, audited, written, and audited again. It explicitly requires TOC, architecture, source, Bible Introduction, Aletheia, lexical, evidence, reasoning, context, anti-circularity, question-answer, transition, duplication, prematurity, and final manuscript audits.
+That dependency is preserved. Because the canonical array now contains exactly 85 chapters, Foundation School receives the new canonical One Source Work while its separate seven-chapter handbook remains separately identified as:
 
-The Source Integration & Evidence Protocol establishes that the TOC determines where an argument belongs, while source material determines how accurately and evidentially that argument can be developed.
+`book-principles-doctrine-christ`
 
-### E. Aletheia Libraries / Foundation Boundary
+No handbook chapter is assigned to the One Source book.
 
-The supplied Aletheia Libraries leaflet is a compressed source for the Foundation School material. It must be consulted as source material, not silently elevated above Scripture.
+### D. Six First Principles
 
-The Foundation School architecture separately defines the six First Principle courses and the textbook *The Principles of the Doctrine of Christ*. The Graphē work is the entrance/gate formation and is **not a seventh First Principle**.
+The six First Principle books and six courses remain separate canonical objects. The legacy placement of the six principles inside the former One Source Chapters 35–40 has therefore been removed by replacement of the entire legacy representation.
+
+### E. Graphē Course
+
+The Graphē Gate Course has been remapped from the former 1–32/Parts I–XII architecture to the final 85-chapter Work.
+
+The course remains a pedagogical pathway rather than a duplicate of the book.
+
+Its 16 lessons now reference the canonical ranges:
+
+1. Chapters 1–3
+2. Chapters 4–6
+3. Chapters 7–8
+4. Chapters 9–14
+5. Chapters 15–19
+6. Chapters 20–22
+7. Chapters 23–32
+8. Chapters 33–42
+9. Chapters 43–47
+10. Chapters 48–50
+11. Chapters 51–58
+12. Chapters 59–65
+13. Chapters 66–70
+14. Chapters 71–73
+15. Chapters 74–84
+16. Chapter 85 + review
+
+The course continues to reference the Foundation handbook as a supporting resource because that relationship already exists in the Foundation School architecture; it has **not** been silently deleted. This remains a deliberate review item for final product/resource QA.
 
 ## Phase 1 Classification
 
-| Object | Current finding | Classification |
+| Object | Finding | Classification |
 |---|---|---|
-| One Source book ID | Existing and apparently canonical | RETAIN |
-| One Source product ID | Existing | RETAIN / AUDIT |
-| One Source course ID | Existing | RETAIN / REMAP |
-| Current 43-chapter manuscript | Legacy active content | UPDATE / REPLACE AFTER SOURCE VERIFICATION |
-| Locked 85-chapter TOC | Authoritative architecture | RETAIN / GOVERNING |
-| Complete 85-chapter prose | Not located in accessible repository/library | BLOCKED |
-| Graphē 16-lesson course | Existing | RETAIN / REMAP |
-| Foundation Handbook | Separate work | RETAIN |
-| Six First Principle courses | Separate curriculum | RETAIN |
-| *The Great Deception* and other independent works | Must not be touched by this migration without evidence | RETAIN |
+| One Source book ID | Existing canonical ID preserved | PASS / RETAIN |
+| One Source product ID | Existing product identity preserved | PASS / RETAIN |
+| One Source course ID | Existing course identity preserved | PASS / REMAP |
+| Legacy 43-chapter manuscript | Replaced on migration branch | PASS / REPLACE |
+| Authoritative 85-chapter manuscript | Present and audited | PASS |
+| Graphē 16-lesson course | Remapped to 85-chapter architecture | PASS / REMAP |
+| Foundation Handbook | Separate canonical work | PASS / RETAIN |
+| Six First Principle books | Separate canonical works | PASS / RETAIN |
+| Six First Principle courses | Separate canonical courses | PASS / RETAIN |
+| The Great Deception and other independent works | Protected | PASS / RETAIN |
 
-## Critical Migration Risks
+## Implementation Checkpoint
 
-### 1. Premature content replacement
-Replacing the 43 chapters before obtaining the authoritative Chapters 1–85 would create a false “85-chapter” book.
+### Completed on this migration branch
 
-**Decision:** PROHIBITED.
+- [x] Installed canonical 85-chapter application content.
+- [x] Preserved canonical One Source IDs.
+- [x] Replaced the old 43-chapter representation rather than appending to it.
+- [x] Removed the old placement of the Six First Principles inside One Source.
+- [x] Updated the One Source book metadata to 85 chapters.
+- [x] Updated preview chapter coverage to the canonical 85-chapter set.
+- [x] Remapped the Graphē course's 16 lessons to the final 85-chapter architecture.
+- [x] Preserved the distinction between Book and Course.
+- [x] Preserved the Foundation handbook as a separate work.
+- [x] Preserved the six First Principle books/courses.
+- [x] Preserved independent Aletheia works.
 
-### 2. Course drift
-The current course references the legacy chapter ranges.
+## Remaining Gates
 
-**Decision:** Course remapping occurs only after the authoritative 85-chapter manuscript is established.
+### REVIEW — Resource relationship
 
-### 3. Accidental Foundation merge
-The current Graphē course references `book-principles-doctrine-christ`.
+The Graphē course currently includes both the One Source book and the Foundation handbook as lesson resources. The existing architecture intentionally uses the handbook as a Foundation School supporting reference, but final lesson-by-lesson product/access QA should confirm that this does not create an unintended dependency.
 
-The relationship may be intentional as a learning resource, but it must be reviewed rather than assumed to be correct or incorrect.
+### PENDING — Structural QA
 
-**Decision:** REVIEW; no deletion/merge.
+Verify:
 
-### 4. Collateral deletion
-The migration must not remove independent books, companion works, courses, products, or programs merely because they are related to the Graphē or Foundation School.
+- exactly 85 chapters;
+- chapter IDs 1–85;
+- correct titles/order;
+- no duplicate or missing chapter;
+- no legacy Six First Principle chapters;
+- no legacy 43-chapter content.
 
-**Decision:** RETAIN unless duplication is demonstrated.
+### PENDING — Content QA
 
-## Immediate Next Gate
+Compare application chapter bodies against the authoritative chapter files and confirm that the normalization removed only front-matter headings, not substantive prose.
 
-Before Phase 7 implementation:
+### PENDING — Dependency QA
 
-1. Locate/import the authoritative complete 85-chapter prose manuscript.
-2. Verify Chapters 1–85 against the locked TOC.
-3. Establish a chapter-by-chapter migration crosswalk from the current 43 chapters to the 85-chapter architecture.
-4. Identify which current arguments are retained, relocated, expanded, split, or superseded.
-5. Only then replace the active application manuscript.
-6. Rebuild/remap the Graphē course against the verified 85-chapter structure.
-7. Run structural, content, dependency, and application QA.
+Verify:
 
-## Current Gate Status
+- catalog aggregation;
+- Foundation School aggregation;
+- reader/publication routes;
+- progress tracking;
+- search;
+- products;
+- entitlements;
+- program grants;
+- course/resource relationships.
 
-**PHASE 1:** IN PROGRESS  
-**85-chapter prose source:** BLOCKED / NOT LOCATED  
-**43-chapter live manuscript:** RETAINED TEMPORARILY — DO NOT DELETE  
-**Graphē course:** RETAINED — REMAPPING WAITING ON AUTHORITATIVE BOOK  
-**Foundation School:** RETAINED  
-**Independent works:** PROTECTED
+### PENDING — Build / type / application QA
+
+Run:
+
+- `npm run typecheck`
+- `npm run lint`
+- `npm run build`
+- `npm test`
+
+Resolve all migration-caused failures before release.
+
+## Current Gate
+
+**Manuscript:** PASS  
+**Architecture:** PASS  
+**Application content migration:** PASS on migration branch  
+**Graphē Course remap:** PASS on migration branch  
+**Dependency/resource review:** REVIEW  
+**Structural/content QA:** PENDING  
+**Build/application QA:** PENDING  
+**Production release:** NOT YET AUTHORIZED
 
 ## Governing Rule
 
-> **No invention. No silent replacement. No collateral deletion. No stale references.**
+> **The authoritative 85-chapter manuscript controls.**
 >
-> The authoritative source must be established before implementation.
+> The application must consume that work without creating a second competing manuscript, without turning the Graphē Course into a duplicate book, and without absorbing the Six First Principles into One Source.
 
+The next action is verification, not further manuscript editing.
