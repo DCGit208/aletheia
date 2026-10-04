@@ -1,7 +1,6 @@
 import type { CourseModule, Lesson } from "@/lib/data/types";
 import { ONE_SOURCE_BOOK_ID, ONE_SOURCE_COURSE_ID } from "@/lib/content/book-one-source-of-truth";
 
-const textbookId = "book-principles-doctrine-christ";
 
 function lesson(
   id: string,
@@ -18,7 +17,7 @@ function lesson(
     number,
     title,
     durationMinutes,
-    resourceIds: [ONE_SOURCE_BOOK_ID, textbookId],
+    resourceIds: [ONE_SOURCE_BOOK_ID],
     body,
   };
 }
