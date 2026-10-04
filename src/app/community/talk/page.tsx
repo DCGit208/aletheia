@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { Suspense, useEffect, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { doc, onSnapshot } from "firebase/firestore";
 import { toast } from "sonner";
@@ -78,7 +78,7 @@ function ProductTalk({ productId }: { productId: string }) {
   );
 }
 
-export default function TalkPage() {
+function TalkContent() {
   const { t } = useI18n();
   const searchParams = useSearchParams();
   const query = {
@@ -90,4 +90,12 @@ export default function TalkPage() {
   const topicId = query.id || (query.product ? productTopicId(query.product) : "");
   if (!topicId) return <EmptyState title={t("community.missingTopic")} />;
   return <TopicThread topicId={topicId} />;
+}
+
+export default function TalkPage() {
+  return (
+    <Suspense fallback={null}>
+      <TalkContent />
+    </Suspense>
+  );
 }
