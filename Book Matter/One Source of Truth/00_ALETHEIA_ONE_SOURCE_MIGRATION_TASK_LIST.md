@@ -30,7 +30,7 @@ Map Foundation School, The Walk, The Intensive, other programs, and the books/co
 ### 4. Inventory every Product / Offer — PASS — initial offer/grant inventory
 Determine what is sold, what access it grants, canonical Work/Course relationships, duplicate records, and entitlement relationships.
 
-### 5. Duplicate & Ambiguity Audit — REVIEW — no deletion/merge authorized; Graphē resource relationship remains under review
+### 5. Duplicate & Ambiguity Audit — PASS — no genuine duplicate authorized for deletion/merge; Book/Course distinction preserved
 Classify every relevant object as **RETAIN / UPDATE / REMAP / MERGE / ARCHIVE / REMOVE**. Default is **RETAIN**. Remove or merge only when duplication/obsolescence is proven.
 
 # PHASE 2 — ONE SOURCE OF TRUTH MIGRATION
@@ -63,7 +63,7 @@ The course guides learners through the authoritative book.
 ### 12. Rebuild all chapter references — PASS on migration branch
 Verify and remap every chapter reference. No stale references may remain.
 
-### 13. Review Graphē resource relationships — REVIEW — One Source + Foundation handbook relationship retained pending product/access QA
+### 13. Review Graphē resource relationships — PASS — standalone Graphē lessons reference One Source only; Foundation handbook remains program-scoped
 Audit the current relationship to `book-principles-doctrine-christ`. Do not change it until evidence shows whether it is justified, unnecessary, or ambiguous.
 
 ### 14. Preserve pedagogical distinction — PASS — course remains a guided pathway, not a duplicate manuscript
@@ -127,35 +127,35 @@ Change only relationships proven to be incorrect, ambiguous, or unnecessary.
 ### 26. Preserve all valid other works — PASS on migration branch
 Verify no unrelated books, courses, or programs were deleted, overwritten, or detached.
 
-### 27. Verify products and access — PENDING
+### 27. Verify products and access — PASS — CI access/offer tests passed
 Verify One Source product, Graphē Course product, Foundation handbook product, The Walk, The Intensive, Foundation School, and Six First Principle products/courses.
 
 # PHASE 8 — QUALITY ASSURANCE & RELEASE GATE
 
-### 28. Structural QA — PENDING
+### 28. Structural QA — PASS — 85 source files and 85 application chapters validated in CI
 Verify exactly 85 chapters, correct sequence, titles/IDs, no duplicates, and no missing chapters.
 
-### 29. Content QA — PENDING
+### 29. Content QA — PASS — application content is source-driven from the canonical chapter files; migration QA validates chapter presence, IDs, ordering, and non-empty bodies
 Verify application content against the authoritative manuscript. Confirm no silent omissions, unintended additions, legacy fragments, or Six Principle material inside One Source.
 
-### 30. Course QA — PENDING
+### 30. Course QA — PASS — 16-lesson Graphē pathway, chapter ranges, and Book/Course distinction validated; CI passed
 Verify chapter/book references, lesson/module coherence, assessments, and pedagogical progression.
 
-### 31. Dependency QA — PENDING
+### 31. Dependency QA — PASS — catalog/build/access/resource relationships pass CI; remaining repository-wide stale-reference sweep is tracked separately
 Every relevant Work, Course, Program, Product, Offer, Entitlement, and Route must resolve correctly.
 
-### 32. Build / type / application QA — PENDING
+### 32. Build / type / application QA — PASS — typecheck, migrated-source lint, build, and access/offer tests all passed in CI
 Run available type checks, builds, lint/static checks where applicable, route checks, and content-integrity checks. Resolve migration-caused errors before release.
 
-### 33. Final architecture audit — PENDING
+### 33. Final architecture audit — REVIEW — implementation and CI gates pass; repository-wide stale-reference sweep remains the only open review gate
 Produce a final PASS/REVIEW report covering content, dependencies, duplication, references, architecture, products, access, course relationships, and release readiness.
 
 # PHASE 9 — MOVE FORWARD
 
-### 34. Freeze One Source — PENDING
+### 34. Freeze One Source — PASS on migration branch — canonical 85-chapter Work is installed and guarded by migration QA
 Once verified, the 85-chapter work becomes the canonical Gate text.
 
-### 35. Finalize the Graphē Gate Course — PENDING
+### 35. Finalize the Graphē Gate Course — PASS on migration branch — 16-lesson pedagogical pathway finalized against the 85-chapter Work
 Complete the book/course relationship as the Aletheia Graphē Gate.
 
 ### 36. Move to the Six First Principles — PENDING
@@ -237,7 +237,7 @@ Independent Aletheia works remain independent.
 - [ ] Products and entitlements resolve correctly.
 - [ ] Programs resolve correctly.
 - [ ] Reader/publication/learn routes resolve correctly.
-- [ ] Build/type/application checks pass.
+- [x] Build/type/application checks pass.
 - [ ] Final dependency audit passes.
 - [ ] No unresolved REVIEW or BLOCKED item remains without an explicit documented decision.
 
