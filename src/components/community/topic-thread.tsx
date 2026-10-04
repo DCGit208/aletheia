@@ -55,7 +55,6 @@ export function TopicThread({ topicId }: { topicId: string }) {
   useEffect(() => {
     const db = getFirebaseDb();
     if (!db || !topicId) {
-      setLivePosts([]);
       return;
     }
     const unsubTopic = onSnapshot(
