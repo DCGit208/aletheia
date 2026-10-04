@@ -12,9 +12,9 @@ function fail(message) {
 
 const sourceFiles = fs
   .readdirSync(manuscriptDir)
-  .filter((name) => /^\d+_Chapter_\d+_.+\.md$/.test(name))
+  .filter((name) => /^\d+_(?:Chapter|CHAPTER)_\d+_.+\.md$/.test(name))
   .map((name) => {
-    const match = name.match(/^\d+_Chapter_(\d+)_/);
+    const match = name.match(/^\d+_(?:Chapter|CHAPTER)_(\d+)_/);
     return { name, number: Number(match?.[1]) };
   })
   .sort((a, b) => a.number - b.number);
