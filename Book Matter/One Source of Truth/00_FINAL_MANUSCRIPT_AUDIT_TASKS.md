@@ -312,6 +312,68 @@ Check that defined terms are not silently broadened, narrowed, or used inconsist
 
 ## TASK 06 — Scripture & Context Audit
 
+**Status: PASS — strong contextual controls verified; no material Scripture-context defect identified in the audited Movement X material**
+
+### Verified Findings
+
+The manuscript's governing methodology explicitly requires the distinction between:
+
+- what Scripture says;
+- what a commentator says Scripture means;
+- what the author infers from Scripture.
+
+The late-manuscript chapters operationalize that rule rather than merely stating it.
+
+Chapter 74 repeatedly warns against sloganizing individual verses, emphasizes surrounding and immediate context, and identifies speaker, audience, conditions, and paragraph-level meaning as relevant to responsible understanding.
+
+Chapter 78 provides an especially clear lexical-context control:
+
+> **Grammar identifies the form. Lexicon identifies the semantic range. Context determines the contextual sense.**
+
+It also explicitly prevents the lexical meaning of σπουδάζω from being treated as though one English rendering automatically determines its meaning in every occurrence.
+
+Chapters 79–81 keep Hebrews 5:11–14 as the governing paragraph for exercise, maturity, skill, babe, and unskillfulness rather than treating isolated phrases as independent doctrines.
+
+Chapter 82 makes contextual handling an explicit requirement of “rightly dividing,” including:
+
+- speaker;
+- audience;
+- subject;
+- scope;
+- conditions;
+- qualifiers;
+- immediate context;
+- larger context;
+- genre;
+- quotation versus endorsement;
+- interpretation versus inference.
+
+Chapter 83 carries those same controls into the workman's responsibility, explicitly warning that removing conditions, negatives, or scope changes the proposition.
+
+Chapter 84 formalizes the contextual method: immediate context first, followed by larger context where required, while warning that “more context” is not automatically “better context.”
+
+Chapter 85 carries the same discipline into preparation for the Six First Principles, explicitly requiring examination of context, scope, surrounding argument, and distinctions within terms such as baptisms and faith.
+
+### Source Cross-Check
+
+The supplied **BIBLE INTRODUCTION** independently supports the contextual direction used in these chapters. Its material on “Rightly Dividing Truth” connects 2 Timothy 2:15 with *orthotomeō*, correct meaning/application, gathering meaning from Scripture itself, common sense and reason, grammatical rules, and attention to literal versus figurative language. fileciteturn300file1
+
+This is significant because the manuscript is not importing a contextual methodology that contradicts the supplied source. It is developing the source's stated interpretive concerns into the more systematic discipline of Movement X.
+
+### Qualification
+
+This audit establishes **contextual discipline**, not automatic correctness of every individual exegetical conclusion. A later Scripture-level audit can still identify a specific passage where an application, inference, or contextual conclusion needs correction.
+
+### Task 06 Conclusion
+
+**PASS — the audited manuscript demonstrates strong Scripture-context discipline, preserves speaker/audience/scope/condition distinctions, and is consistent with the supplied Bible Introduction on the governing interpretive principles.**
+
+**Deliverable:** Scripture and context control established; no material correction currently required.
+
+---
+
+## TASK 06 — Scripture & Context Audit
+
 **Objective:** Examine the manuscript's use of Scripture for contextual and interpretive fidelity.
 
 Check:
