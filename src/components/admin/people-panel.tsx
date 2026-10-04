@@ -42,11 +42,11 @@ export function PeoplePanel() {
     void listMembers()
       .then(setMembers)
       .catch((error) => toast.error(error instanceof Error ? error.message : t("state.error")));
-  };
+  }, [t]);
 
   useEffect(() => {
     loadList();
-  }, []);
+  }, [loadList]);
 
   const load = (target = email) => {
     if (!target.trim()) return;
