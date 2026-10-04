@@ -33,6 +33,9 @@ jobs:
       - name: Lint migrated source
         run: npx eslint src/lib/content/book-one-source-of-truth.ts src/lib/content/course-doctrine-of-the-graphe.ts src/lib/data/one-source-of-truth.ts
 
+      - name: Canonical manuscript parity
+        run: node scripts/check-one-source-migration.mjs
+
       - name: Build
         run: npm run build
 
