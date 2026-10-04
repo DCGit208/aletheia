@@ -1,7 +1,7 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import { useRouter } from "next/navigation";
+import { Suspense, useEffect, useState } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
 import { doc, onSnapshot } from "firebase/firestore";
 import { toast } from "sonner";
 import { TopicThread } from "@/components/community/topic-thread";
@@ -14,15 +14,6 @@ import { getProduct } from "@/lib/data/repository";
 import { getFirebaseDb } from "@/lib/firebase/client";
 import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";
-
-function readTalkQuery() {
-  if (typeof window === "undefined") return { id: "", product: "" };
-  const search = new URLSearchParams(window.location.search);
-  return {
-    id: (search.get("id") ?? "").trim(),
-    product: (search.get("product") ?? "").trim(),
-  };
-}
 
 function ProductTalk({ productId }: { productId: string }) {
   const { t } = useI18n();
@@ -87,17 +78,24 @@ function ProductTalk({ productId }: { productId: string }) {
   );
 }
 
-export default function TalkPage() {
+function TalkContent() {
   const { t } = useI18n();
-  const [query, setQuery] = useState<{ id: string; product: string } | null>(null);
+  const searchParams = useSearchParams();
+  const query = {
+    id: (searchParams.get("id") ?? "").trim(),
+    product: (searchParams.get("product") ?? "").trim(),
+  };
 
-  useEffect(() => {
-    setQuery(readTalkQuery());
-  }, []);
-
-  if (!query) return <p className="text-sm text-muted-foreground">{t("state.loading")}</p>;
   if (query.product && !query.id) return <ProductTalk productId={query.product} />;
   const topicId = query.id || (query.product ? productTopicId(query.product) : "");
   if (!topicId) return <EmptyState title={t("community.missingTopic")} />;
   return <TopicThread topicId={topicId} />;
+}
+
+export default function TalkPage() {
+  return (
+    <Suspense fallback={null}>
+      <TalkContent />
+    </Suspense>
+  );
 }

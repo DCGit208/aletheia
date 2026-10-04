@@ -25,8 +25,6 @@ const MISSION =
 const VISION_HEAD = "A world enrolled — not entertained.";
 const VISION_BODY =
   "Individuals, institutions, and governments who learn in Elohim, operate in Elohim, and stand complete in the divine identity: Truth · Identity · Dominion.";
-const VISION = `${VISION_HEAD} ${VISION_BODY}`;
-
 const VISION_ALT =
   "That the nations would not inherit noise — but a people, institutions, and governments who know who they are in Elohim, and operate from that completeness.";
 

@@ -374,6 +374,7 @@ export const catalog: CatalogSnapshot = {
       productId: "product-great-deception",
       chapterCount: 1,
     },
+
     ...foundationBooks,
   ],
   chapters: [

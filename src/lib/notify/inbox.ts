@@ -29,12 +29,10 @@ export function useInbox() {
 
   useEffect(() => {
     if (!user) {
-      setItems([]);
       return;
     }
     const db = getFirebaseDb();
     if (!db) {
-      setItems([]);
       return;
     }
     const q = query(collection(db, "usersPrivate", user.uid, "notifications"), orderBy("createdAt", "desc"));

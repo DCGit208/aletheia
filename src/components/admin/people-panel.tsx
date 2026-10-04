@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { toast } from "sonner";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
@@ -38,15 +38,15 @@ export function PeoplePanel() {
   const [contentKind, setContentKind] = useState("course");
   const [contentId, setContentId] = useState("");
 
-  const loadList = () => {
+  const loadList = useCallback(() => {
     void listMembers()
       .then(setMembers)
       .catch((error) => toast.error(error instanceof Error ? error.message : t("state.error")));
-  };
+  }, [t]);
 
   useEffect(() => {
     loadList();
-  }, []);
+  }, [loadList]);
 
   const load = (target = email) => {
     if (!target.trim()) return;
