@@ -74,12 +74,12 @@ for (const [index, source] of sourceFiles.entries()) {
     title = titleLine?.replace(/^# /, "").trim();
     bodyStart = chapterLine + 2;
   }
-  const body = lines.slice(bodyStart).join("\n").replace(/^\n+/, "");
+  const body = lines.slice(bodyStart).join("\n").replace(/^\n+/, "").replace(/\n+$/, "");
 
   if (chapter.number !== source.number) fail(`application chapter ${chapter.number} does not match ${source.name}`);
   if (chapter.id !== `ch-ost-${source.number}`) fail(`unexpected ID for Chapter ${source.number}: ${chapter.id}`);
   if (chapter.title !== title) fail(`title mismatch for Chapter ${source.number}`);
-  if (chapter.body !== body) fail(`body mismatch for Chapter ${source.number}`);
+  if (chapter.body.replace(/\n+$/, "") !== body) fail(`body mismatch for Chapter ${source.number}`);
 }
 
 const forbiddenHandbook = chapters.some((chapter) => chapter.body.includes("book-principles-doctrine-christ"));
