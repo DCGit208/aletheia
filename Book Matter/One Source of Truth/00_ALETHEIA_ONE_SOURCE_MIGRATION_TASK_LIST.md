@@ -30,51 +30,51 @@ Map Foundation School, The Walk, The Intensive, other programs, and the books/co
 ### 4. Inventory every Product / Offer — PASS — initial offer/grant inventory
 Determine what is sold, what access it grants, canonical Work/Course relationships, duplicate records, and entitlement relationships.
 
-### 5. Duplicate & Ambiguity Audit — IN PROGRESS
+### 5. Duplicate & Ambiguity Audit — REVIEW — no deletion/merge authorized; Graphē resource relationship remains under review
 Classify every relevant object as **RETAIN / UPDATE / REMAP / MERGE / ARCHIVE / REMOVE**. Default is **RETAIN**. Remove or merge only when duplication/obsolescence is proven.
 
 # PHASE 2 — ONE SOURCE OF TRUTH MIGRATION
 
-### 6. Establish canonical One Source identity — PENDING
+### 6. Establish canonical One Source identity — PASS
 Canonical ID: `book-one-source-of-truth`.  
 Canonical title: **One Source of Truth — The Doctrine of the Graphē**.  
 Canonical content: the completed 85-chapter manuscript.
 
-### 7. Replace; do not append — PENDING
+### 7. Replace; do not append — PASS — implemented on migration branch
 Replace the legacy 43-chapter active representation with the authoritative 85-chapter structure. Do **not** create Chapters 44–85 on top of the old book.
 
-### 8. Preserve valid application infrastructure — PENDING
+### 8. Preserve valid application infrastructure — PASS — IDs/routes/reader/progress/access identities preserved for QA
 Preserve canonical ID, routes, reader, progress, search, publication identity, access/entitlement, and product identity wherever valid.
 
-### 9. Verify the 85-chapter sequence — PENDING
+### 9. Verify the 85-chapter sequence — PASS — canonical app partitions cover Chapters 1–85 in order
 Confirm exactly 85 chapters, correct order/titles, no missing or duplicate chapters, no active legacy content, and no Six First Principles chapters inside One Source.
 
 # PHASE 3 — GRAPHĒ GATE COURSE
 
-### 10. Audit existing Graphē Course — IN PROGRESS
+### 10. Audit existing Graphē Course — PASS — legacy chapter/Part references remapped
 Find every legacy One Source chapter/Part reference, lesson reference, capstone reference, description, and resource relationship.
 
-### 11. Remap course to the 85-chapter book — PENDING
+### 11. Remap course to the 85-chapter book — PASS — 16 lessons remapped
 The course guides learners through the authoritative book.
 
 **Book = scholarly/textual work.**  
 **Course = pedagogical pathway through the work.**
 
-### 12. Rebuild all chapter references — PENDING
+### 12. Rebuild all chapter references — PASS on migration branch
 Verify and remap every chapter reference. No stale references may remain.
 
-### 13. Review Graphē resource relationships — REVIEW
+### 13. Review Graphē resource relationships — REVIEW — One Source + Foundation handbook relationship retained pending product/access QA
 Audit the current relationship to `book-principles-doctrine-christ`. Do not change it until evidence shows whether it is justified, unnecessary, or ambiguous.
 
-### 14. Preserve pedagogical distinction — PENDING
+### 14. Preserve pedagogical distinction — PASS — course remains a guided pathway, not a duplicate manuscript
 The course must not become an electronic duplicate of the book. Preserve appropriate orientation, guided study, questions, exercises, reflection, comprehension, application, assessment, and readiness.
 
 # PHASE 4 — FOUNDATION SCHOOL BOUNDARY
 
-### 15. Verify Foundation Handbook — PENDING
+### 15. Verify Foundation Handbook — PASS — separate canonical work retained
 Preserve **The Principles of the Doctrine of Christ**, canonical ID `book-principles-doctrine-christ`, as a separate work. Never merge the 85 One Source chapters into it.
 
-### 16. Verify Six First Principle books — PENDING
+### 16. Verify Six First Principle books — PASS — six independent canonical works retained
 Establish actual canonical IDs/content sources for:
 1. Repentance from Dead Works
 2. Faith Toward God
@@ -85,10 +85,10 @@ Establish actual canonical IDs/content sources for:
 
 Each remains an independent canonical Work unless evidence proves otherwise.
 
-### 17. Verify Six First Principle courses — PENDING
+### 17. Verify Six First Principle courses — PASS — six independent canonical courses retained
 Verify the book/course relationship for each. Target: **One Principle → One canonical Book + One canonical Course**.
 
-### 18. Enforce Graphē → Principles boundary — PENDING
+### 18. Enforce Graphē → Principles boundary — PASS — Chapter 85 is the gateway; principles are not One Source chapters
 Maintain:
 
 > Graphē → Doctrine of the Graphē → Preparation → Readiness → Six First Principles
@@ -97,34 +97,34 @@ The Six First Principles are not chapters inside One Source.
 
 # PHASE 5 — PROTECTION OF OTHER WORKS
 
-### 19. Verify independent works — PENDING
+### 19. Verify independent works — PASS — independent works retained
 Explicitly audit *The Great Deception* and every other existing publication. Independent works are **RETAINED**.
 
-### 20. Identify only genuine duplicates — PENDING
+### 20. Identify only genuine duplicates — PASS — no deletion/merge authorized by current audit
 Merge/archive/remove only where two records demonstrably represent the same canonical work or an obsolete duplicate. Related works are not duplicates merely because they share themes or educational relationships.
 
 # PHASE 6 — CROSS-SYSTEM DEPENDENCY CHECK
 
-### 21. Audit every One Source reference — IN PROGRESS
+### 21. Audit every One Source reference — REVIEW — known application dependency graph audited; final repository-wide QA remains
 Search the repository for `book-one-source-of-truth` and `One Source of Truth`. Review Learn, Publications, Reader, Catalog, Foundation School, Graphē Course, Programs, Shop, Products, Offers, Entitlements, Search, navigation, and metadata.
 
-### 22. Audit all legacy chapter references — IN PROGRESS
+### 22. Audit all legacy chapter references — REVIEW — Graphē course remapped; final repository-wide stale-reference QA remains
 Search for old Parts I–XII, old Chapters 1–32, legacy 43-chapter references, and old Six First Principles placement. Every active reference must be remapped or explicitly proven unrelated.
 
 # PHASE 7 — IMPLEMENTATION
 
 **Gate:** Phases 1–6 must be sufficiently resolved before production content is changed.
 
-### 23. Replace One Source content — PENDING
+### 23. Replace One Source content — PASS on migration branch
 Implement the verified 85-chapter canonical content.
 
-### 24. Remap the Graphē Course — PENDING
+### 24. Remap the Graphē Course — PASS on migration branch
 Update chapter, lesson, module, capstone, and pedagogical sequencing references.
 
-### 25. Clean resource relationships — PENDING
+### 25. Clean resource relationships — REVIEW — no silent relationship removal; final QA pending
 Change only relationships proven to be incorrect, ambiguous, or unnecessary.
 
-### 26. Preserve all valid other works — PENDING
+### 26. Preserve all valid other works — PASS on migration branch
 Verify no unrelated books, courses, or programs were deleted, overwritten, or detached.
 
 ### 27. Verify products and access — PENDING
