@@ -121,7 +121,7 @@ Implement the verified 85-chapter canonical content.
 ### 24. Remap the Graphē Course — PASS on migration branch
 Update chapter, lesson, module, capstone, and pedagogical sequencing references.
 
-### 25. Clean resource relationships — REVIEW — no silent relationship removal; final QA pending
+### 25. Clean resource relationships — PASS — Graphē Gate lessons reference One Source only; Foundation handbook remains program-scoped
 Change only relationships proven to be incorrect, ambiguous, or unnecessary.
 
 ### 26. Preserve all valid other works — PASS on migration branch
