@@ -63,7 +63,7 @@ for (const [index, source] of sourceFiles.entries()) {
   });
   if (chapterLine < 0) fail(`could not locate chapter heading in ${source.name}`);
 
-  const heading = lines[chapterLine].match(/^# Chapter (\\d+)(?:\\s+—\\s+(.+))?$/);
+  const heading = lines[chapterLine].match(/^# Chapter (\d+)(?:\s+—\s+(.+))?$/);
   let title;
   let bodyStart;
   if (heading?.[2]) {
