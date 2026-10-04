@@ -114,9 +114,9 @@ The course continues to reference the Foundation handbook as a supporting resour
 
 ## Remaining Gates
 
-### REVIEW — Resource relationship
+### PASS — Resource relationship
 
-The Graphē course currently includes both the One Source book and the Foundation handbook as lesson resources. The existing architecture intentionally uses the handbook as a Foundation School supporting reference, but final lesson-by-lesson product/access QA should confirm that this does not create an unintended dependency.
+The Graphē course lessons now reference the canonical One Source book only. The Foundation handbook remains a separate Foundation School resource and is not an implicit prerequisite/resource of the standalone Graphē Gate Course. This prevents a purchaser of the Graphē Course from being presented with an ungranted handbook dependency.
 
 ### PENDING — Structural QA
 
