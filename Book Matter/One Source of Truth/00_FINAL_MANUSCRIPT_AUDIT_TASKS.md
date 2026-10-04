@@ -844,6 +844,122 @@ Check:
 
 ## TASK 11 — Graphē → Six Principles Gateway Audit
 
+**Status: PASS — Chapter 85 establishes the gateway exactly as architecturally required**
+
+### Verified Gateway
+
+The chapter explicitly establishes:
+
+> **Graphē → preparation → readiness → Six First Principles**
+
+and, within the doctrinal architecture:
+
+> **Doctrine of the Graphē = foundation/gate**
+
+The chapter repeatedly and explicitly states that the Doctrine of the Graphē is **not the seventh first principle**.
+
+### Source / Subject Distinction
+
+Chapter 85 makes the required category distinction:
+
+> **Graphē = written source**
+
+versus:
+
+> **Six First Principles = subjects of foundational instruction**
+
+This distinction is reinforced by the governing source protocol: the written biblical record is the primary written authority of the investigation, while subsequent doctrinal development must remain accountable to it.
+
+Thus authority and content are not collapsed.
+
+### The Six Remain Six
+
+Chapter 85 explicitly names the six in their biblical order:
+
+1. **Repentance from Dead Works**
+2. **Faith Toward God**
+3. **The Doctrine of Baptisms**
+4. **Laying on of Hands**
+5. **Resurrection of the Dead**
+6. **Eternal Judgment**
+
+Nothing from the Doctrine of the Graphē is inserted into Hebrews 6:1–2 as an additional principle.
+
+### Foundation School Boundary
+
+Chapter 85 explicitly states that the present book:
+
+- does not replace the Foundation School;
+- is not a seventh course;
+- does not absorb the Six First Principles;
+- does not exhaust their detailed treatment.
+
+It identifies the Foundation School as the instructional field beyond the gate.
+
+This preserves the architectural distinction between **preparation** and **curriculum**.
+
+### Readiness
+
+The chapter correctly refuses to define readiness as mere enrollment or memorization.
+
+Readiness includes the capacity to:
+
+- distinguish quotation from interpretation;
+- distinguish explicit statement from inference;
+- test conclusions;
+- recognize limits of evidence;
+- remain correctable;
+- handle the written Word responsibly.
+
+Thus the gateway is not merely administrative. It is intellectual and moral formation.
+
+### No Seventh Principle / No New Authority
+
+Chapter 85 explicitly prevents several category errors:
+
+- the Doctrine of the Graphē is not a seventh principle;
+- the book is not the authority;
+- the teacher is not the authority;
+- the method is not the authority;
+- scholarship is not the authority;
+- the Foundation School is not a rival to the Graphē;
+- the gateway is not a new revelation or new canon.
+
+This is especially important because the book itself has developed a substantial interpretive method. The chapter deliberately prevents that method from becoming the object of doctrinal substitution.
+
+### Boundary of Chapter 85
+
+The chapter names the Six Principles and explains how they are to be approached, but it deliberately stops short of mastering their detailed doctrinal content.
+
+It explicitly recognizes that:
+
+> **A gate can identify what lies beyond it without becoming everything beyond it.**
+
+This is precisely the correct boundary for the final chapter.
+
+### Final Gateway Logic
+
+The final architecture is therefore:
+
+> **Graphē → Doctrine of the Graphē → Preparation → Readiness → Six First Principles**
+
+with the crucial category distinction:
+
+> **Gate ≠ Principle**  
+> **Source ≠ Subject**  
+> **Authority ≠ Content**  
+> **Preparation ≠ Curriculum**
+
+### Task 11 Conclusion
+
+**PASS — Chapter 85 fulfills the locked gateway objective without adding a seventh principle, collapsing source and subject, substituting the book or method for the Graphē, or prematurely consuming the Six First Principles. The transition into Foundation School is structurally sound.**
+
+**Deliverable:** Graphē → Six Principles gateway assessment established.
+
+---
+
+## TASK 11 — Graphē → Six Principles Gateway Audit
+
 **Objective:** Verify that Chapter 85 correctly establishes the transition into the Six First Principles.
 
 Required architecture:
