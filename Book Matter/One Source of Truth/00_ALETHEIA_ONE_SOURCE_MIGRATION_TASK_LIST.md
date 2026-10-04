@@ -18,19 +18,19 @@ No task is complete merely because code was changed. Completion requires verific
 
 # PHASE 1 — MASTER CONTENT & DEPENDENCY AUDIT
 
-### 1. Inventory every existing Work — PENDING
+### 1. Inventory every existing Work — PASS
 Record canonical ID, title, content source, chapter count, author, publication status, related courses/products/programs, companions, and independent/dependent status. Special attention: *The Great Deception*, the six First Principle books, and all other existing works.
 
-### 2. Inventory every Course — PENDING
+### 2. Inventory every Course — PASS — initial catalog/dependency inventory
 Map IDs, titles, modules, lessons, referenced books/chapters, exercises, assessments, products/offers, and program relationships.
 
-### 3. Inventory every Program — PENDING
+### 3. Inventory every Program — PASS — initial program inventory
 Map Foundation School, The Walk, The Intensive, other programs, and the books/courses each grants, requires, or references.
 
-### 4. Inventory every Product / Offer — PENDING
+### 4. Inventory every Product / Offer — PASS — initial offer/grant inventory
 Determine what is sold, what access it grants, canonical Work/Course relationships, duplicate records, and entitlement relationships.
 
-### 5. Duplicate & Ambiguity Audit — PENDING
+### 5. Duplicate & Ambiguity Audit — IN PROGRESS
 Classify every relevant object as **RETAIN / UPDATE / REMAP / MERGE / ARCHIVE / REMOVE**. Default is **RETAIN**. Remove or merge only when duplication/obsolescence is proven.
 
 # PHASE 2 — ONE SOURCE OF TRUTH MIGRATION
@@ -51,7 +51,7 @@ Confirm exactly 85 chapters, correct order/titles, no missing or duplicate chapt
 
 # PHASE 3 — GRAPHĒ GATE COURSE
 
-### 10. Audit existing Graphē Course — PENDING
+### 10. Audit existing Graphē Course — IN PROGRESS
 Find every legacy One Source chapter/Part reference, lesson reference, capstone reference, description, and resource relationship.
 
 ### 11. Remap course to the 85-chapter book — PENDING
@@ -63,7 +63,7 @@ The course guides learners through the authoritative book.
 ### 12. Rebuild all chapter references — PENDING
 Verify and remap every chapter reference. No stale references may remain.
 
-### 13. Review Graphē resource relationships — PENDING
+### 13. Review Graphē resource relationships — REVIEW
 Audit the current relationship to `book-principles-doctrine-christ`. Do not change it until evidence shows whether it is justified, unnecessary, or ambiguous.
 
 ### 14. Preserve pedagogical distinction — PENDING
@@ -105,10 +105,10 @@ Merge/archive/remove only where two records demonstrably represent the same cano
 
 # PHASE 6 — CROSS-SYSTEM DEPENDENCY CHECK
 
-### 21. Audit every One Source reference — PENDING
+### 21. Audit every One Source reference — IN PROGRESS
 Search the repository for `book-one-source-of-truth` and `One Source of Truth`. Review Learn, Publications, Reader, Catalog, Foundation School, Graphē Course, Programs, Shop, Products, Offers, Entitlements, Search, navigation, and metadata.
 
-### 22. Audit all legacy chapter references — PENDING
+### 22. Audit all legacy chapter references — IN PROGRESS
 Search for old Parts I–XII, old Chapters 1–32, legacy 43-chapter references, and old Six First Principles placement. Every active reference must be remapped or explicitly proven unrelated.
 
 # PHASE 7 — IMPLEMENTATION
