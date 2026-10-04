@@ -130,11 +130,11 @@ export const oneSourceCourse: Course = {
   title: "One Source of Truth",
   subtitle: "The Doctrine of the Graphē · Word drill course",
   description:
-    "Sixteen Word-drill lessons on γραφή (graphē), Holy Writ as the written authority for truth. The course opens Hebrews 5: ἄπειρος (apeiros), the unskilled; νήπιος (nēpios), the babe; and σπουδάζω (spoudazō), diligent labour in the Word. The course serves the graphē; it does not replace it.",
+    "Sixteen Word-drill lessons on γραφή (graphē), Holy Writ as the written authority for truth. The course opens Hebrews 5: ἄπειρος (apeiros), the unskilled; νήπιος (nēpios), the babe; and σπουδάζω (spoudazō), diligent labour in the Word. The course is a pedagogical pathway through the complete 85-chapter Work. It serves the Graphē; it does not replace the Work, and it is not a seventh first principle.",
   instructor: achu,
   category: "Foundation",
   difficulty: "introductory",
-  durationMinutes: 1410,
+  durationMinutes: 1350,
   coverTone: "earth",
   coverImage: "/covers/one-source-of-truth.png",
   status: "published",
