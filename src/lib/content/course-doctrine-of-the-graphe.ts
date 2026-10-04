@@ -1,7 +1,6 @@
 import type { CourseModule, Lesson } from "@/lib/data/types";
 import { ONE_SOURCE_BOOK_ID, ONE_SOURCE_COURSE_ID } from "@/lib/content/book-one-source-of-truth";
 
-const textbookId = "book-principles-doctrine-christ";
 
 function lesson(
   id: string,
@@ -18,7 +17,7 @@ function lesson(
     number,
     title,
     durationMinutes,
-    resourceIds: [ONE_SOURCE_BOOK_ID, textbookId],
+    resourceIds: [ONE_SOURCE_BOOK_ID],
     body,
   };
 }
@@ -29,28 +28,28 @@ export const grapheModules: CourseModule[] = [
     courseId: ONE_SOURCE_COURSE_ID,
     number: 1,
     title: "Parts I–II — Writ and experience",
-    description: "γραφή (graphē, G1124): Holy Writ, written authority, and true experience under Scripture. Reference: One Source of Truth, chapters 1-6.",
+    description: "γραφή (graphē, G1124): Holy Writ, written authority, and true experience under Scripture. Reference: One Source of Truth, Chapters 20–22 and 59–65.",
   },
   {
     id: "mod-graphe-oracles-hearing",
     courseId: ONE_SOURCE_COURSE_ID,
     number: 2,
     title: "Parts III–IV — Oracles and hearing",
-    description: "λόγια (logia, G3051) in Hebrews 5:12: the oracles of God, first principles, maturity, hearing, and reading. Reference: chapters 7-10.",
+    description: "λόγια (logia, G3051) in Hebrews 5:12: the oracles of God, first principles, maturity, hearing, and reading. Reference: Chapters 23–32 and 85.",
   },
   {
     id: "mod-graphe-diagnosis",
     courseId: ONE_SOURCE_COURSE_ID,
     number: 3,
     title: "Part V — Hebrews 5:11–14",
-    description: "Hebrews 5:11-14: ought to be teachers, milk, strong meat, and senses exercised by use. Reference: chapters 11-14.",
+    description: "Hebrews 5:11-14: ought to be teachers, milk, strong meat, and senses exercised by use. Reference: Chapters 80–81.",
   },
   {
     id: "mod-graphe-babe-reason",
     courseId: ONE_SOURCE_COURSE_ID,
     number: 4,
     title: "Parts VI–VIII — Unskill, babes, and sound judgment",
-    description: "ἄπειρος (apeiros, G552) and νήπιος (nēpios, G3516) in Hebrews 5:13: unskill, babes, and sound judgment. Reference: chapters 15-20.",
+    description: "ἄπειρος (apeiros, G552) and νήπιος (nēpios, G3516) in Hebrews 5:13: unskill, babes, and sound judgment. Reference: Chapters 66–73.",
   },
   {
     id: "mod-graphe-labour",
@@ -58,7 +57,7 @@ export const grapheModules: CourseModule[] = [
     number: 5,
     title: "Parts IX–XII — Labour, knowledge, Word drill",
     description:
-      "σπουδάζω (spoudazō, G4704) in 2 Timothy 2:15: diligent labour, knowledge, rightly dividing, and Word drill. Reference: chapters 21-32.",
+      "σπουδάζω (spoudazō, G4704) in 2 Timothy 2:15: diligent labour, knowledge, rightly dividing, and Word drill. Reference: Chapters 74–84.",
   },
 ];
 
@@ -73,7 +72,7 @@ export const grapheLessons: Lesson[] = [
 There is one authoritative written source for truth: the graphē — Holy Writ.
 
 Reference
-One Source of Truth, Chapters 1–2.
+One Source of Truth, Chapters 20–22.
 
 Word drill
 1. Define graphē without inventing a theory of inspiration.
@@ -94,7 +93,7 @@ Fail if the page treats the book or course as the primary authority.`,
 Holy Writ carries unchallenged authority over persons, organizations, governments, and nations.
 
 Reference
-One Source of Truth, Chapter 3. John 10:34-36.
+One Source of Truth, Chapters 59–63. John 10:34–36.
 
 Word drill
 1. Quote John 10:34-36 in full.
@@ -115,7 +114,7 @@ No political program invented; no exemption for schools or sincerity.`,
 True Christian experience conforms to the writing. Religious substitutes imitate the language of faith while refusing the authority of Scripture.
 
 Reference
-One Source of Truth, Chapters 4–6.
+One Source of Truth, Chapters 64–65.
 
 Word drill
 1. Define true Christian experience as life that follows Christ and conforms to Scripture.
@@ -136,7 +135,7 @@ Explain the terms clearly. Do not reduce the issue to vague “bad religion.”`
 This book gives focused teaching on the cornerstone: the first principles of the λόγια (logia), the oracles of God, and the path from first principles to maturity. It is not a seventh doctrine.
 
 Reference
-One Source of Truth, Chapters 7–8. Hebrews 5:12; 6:1.
+One Source of Truth, Chapter 85. Hebrews 5:12; 6:1.
 
 Word drill
 1. Name the six first principles in Hebrews order.
@@ -157,7 +156,7 @@ Fail if a seventh principle is invented.`,
 The γραφή (graphē) is the primary authority for hearing from God and for spiritual growth. Possessing Scripture is not the same as hearing it.
 
 Reference
-One Source of Truth, Chapters 9–10. Hebrews 5:11.
+One Source of Truth, Chapters 23–32. Hebrews 5:11.
 
 Word drill
 1. Write the primary-authority sentence without naming book, course, or teacher as the authority.
@@ -178,7 +177,7 @@ No slogan about “heart hearing” that skips the text.`,
 Hebrews 5 teaches that time creates responsibility. When students still need milk after they ought to be teachers, the foundation has not been kept.
 
 Reference
-One Source of Truth, Chapters 11–12. Hebrews 5:11-12.
+One Source of Truth, Chapters 80–81. Hebrews 5:11–12.
 
 Word drill
 1. Quote Hebrews 5:11-12 by hand.
@@ -199,7 +198,7 @@ The warning must remain clear.`,
 Milk may be kindness for a new student or indictment for one who should already be mature. Strong meat is the same γραφή (graphē) handled by senses trained through use to discern good and evil.
 
 Reference
-One Source of Truth, Chapters 13–14. Hebrews 5:13-14.
+One Source of Truth, Chapters 79–81. Hebrews 5:13–14.
 
 Word drill
 1. Write both uses of milk.
@@ -220,7 +219,7 @@ No “different Bible” for strong meat.`,
 ἄπειρος (apeiros) is diagnostic: inexperienced, ignorant, or unskilled in the word of righteousness. It is not measured by crowd size or religious activity.
 
 Reference
-One Source of Truth, Chapters 15–16. Hebrews 5:13.
+One Source of Truth, Chapter 73. Hebrews 5:13.
 
 Word drill
 1. Define ἄπειρος (apeiros); name what it is not.
@@ -241,7 +240,7 @@ Pass only if “word of righteousness” stays attached to Hebrews 5.`,
 νήπιος (nēpios) diagnoses immaturity in persons and organizations. The two marks are dull hearing and unskillfulness in the Word that must be heard, handled, and obeyed.
 
 Reference
-One Source of Truth, Chapters 17–18.
+One Source of Truth, Chapter 81. Hebrews 5:13–14.
 
 Word drill
 1. Define νήπιος (nēpios) without turning the warning into affection.
@@ -262,7 +261,7 @@ Fail if “babe” is treated as endearment or a third mark is invented as if th
 When sound judgment is absent and Scripture remains unhandled, dryness and doctrinal turning aside follow. The γραφή (graphē) remains the primary authority, and this course remains the gate into the six principles.
 
 Reference
-One Source of Truth, Chapters 19–20. John 8:31-36.
+One Source of Truth, Chapters 72, 74–76. John 8:31–36.
 
 Word drill
 1. Define sound judgment with the Word as master.
@@ -283,7 +282,7 @@ Bridge defense required. Vague “different interpretations” language is not e
 Dryness and doctrinal turning aside follow when sound judgment fails. They attack the primary authority without always denying it aloud.
 
 Reference
-One Source of Truth, Chapters 21–22.
+One Source of Truth, Chapters 70–72.
 
 Word drill
 1. Define spiritual and doctrinal dryness in plain words.
@@ -304,7 +303,7 @@ The warning must remain clear. No sentimental “dry season” that excuses turn
 Scripture itself demands serious study. σπουδάζω (spoudazō) in 2 Timothy 2:15 names the diligent labour of an approved workman who rightly divides the word of truth.
 
 Reference
-One Source of Truth, Chapters 23–25. 2 Timothy 2:15.
+One Source of Truth, Chapters 78, 82–83. 2 Timothy 2:15.
 
 Word drill
 1. Quote 2 Timothy 2:15 by hand from the KJV.
@@ -325,7 +324,7 @@ Fail if σπουδάζω (spoudazō) is reduced to “try harder” without the 
 Knowledge is not quotation alone. It moves through perception, learning, and reasoning under the γραφή (graphē), and the Word must be exercised.
 
 Reference
-One Source of Truth, Chapters 26–30.
+One Source of Truth, Chapters 75–77.
 
 Word drill
 1. Define knowledge as the book uses it.
@@ -346,7 +345,7 @@ Pass only if the chain stays under Holy Writ — not psychology as rival court.`
 Quotation is not yet knowledge. The labour is to move from citing the writing to knowing it under the primary authority of Scripture.
 
 Reference
-One Source of Truth, Chapter 31.
+One Source of Truth, Chapter 77.
 
 Word drill
 1. State the difference between quoting Scripture and knowing Scripture.
@@ -367,7 +366,7 @@ No technique that bypasses the text.`,
 The Word drill method is labour under Holy Writ — not a printed checklist from the oracles, and not Holy Writ itself.
 
 Reference
-One Source of Truth, Chapter 32.
+One Source of Truth, Chapters 82–84.
 
 Word drill
 1. State the purpose of the Word drill method in one sentence.
@@ -388,7 +387,7 @@ Fail if the fourteen steps are treated as Holy Writ.`,
 The Doctrine of the Graphē is the gate into the six first principles, not a seventh doctrine. Labour under the writing prepares the student for Repentance and the rest.
 
 Reference
-Review Parts I–XII thesis lines. Especially Chapters 7–8, 18, 20–22, 24, 26, 32.
+Review Chapters 20–22, 59–65, 73–85.
 
 Word drill
 1. Restate the Doctrine of the Graphē without making it a seventh first principle.
