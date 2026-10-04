@@ -3,7 +3,7 @@
 
 **Authoritative plan:** `One_Source_of_Truth_Final_TOC_and_Guidance.md` (locked TOC, Chapters 1–85). This file is a short disk map of that plan, not a rival outline.
 
-**Manuscript status:** Working manuscript, not a finished Graphē-gate curriculum. Front matter and Chapters 1–73 exist as drafted prose on disk. Movements V, VI, VII, VIII, and IX are complete on disk. Chapters 66–73 are on disk. Chapters 74–85 are planned in the locked TOC and are outstanding.
+**Manuscript status:** Complete through Chapter 85 on disk. The book is not itself the Six First Principles curriculum; it is the completed Graphē-foundation/gate manuscript that prepares the learner for that phase.
 
 ```text
 ONE SOURCE OF TRUTH
@@ -105,7 +105,7 @@ The Doctrine of the Graphē
 │   72 Aridity and the Loss of Reasonability                     [on disk]
 │   73 Ἄπειρος — Unskillfulness in the Word                      [on disk]
 │
-├── MOVEMENT X — The Scholarly Labour of the Graphē       [74–85 outstanding]
+├── MOVEMENT X — The Scholarly Labour of the Graphē       [74–85 on disk]
 │   74 The Scholarly Impetus of Scripture
 │   75 Perception, Learning, and Understanding
 │   76 Reasoning Through the Word
