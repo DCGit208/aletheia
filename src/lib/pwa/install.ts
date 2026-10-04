@@ -23,13 +23,11 @@ export function isIosSafari() {
 }
 
 export function useInstallPrompt() {
-  const [standalone, setStandalone] = useState(false);
-  const [ios, setIos] = useState(false);
+  const [standalone, setStandalone] = useState(() => isStandaloneDisplay());
+  const [ios] = useState(() => isIosSafari());
   const [deferred, setDeferred] = useState<BeforeInstallPromptEvent | null>(null);
 
   useEffect(() => {
-    setStandalone(isStandaloneDisplay());
-    setIos(isIosSafari());
     const onPrompt = (event: Event) => {
       event.preventDefault();
       setDeferred(event as BeforeInstallPromptEvent);
