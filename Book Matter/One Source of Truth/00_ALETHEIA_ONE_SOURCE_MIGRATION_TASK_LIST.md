@@ -105,10 +105,10 @@ Merge/archive/remove only where two records demonstrably represent the same cano
 
 # PHASE 6 — CROSS-SYSTEM DEPENDENCY CHECK
 
-### 21. Audit every One Source reference — REVIEW — known application dependency graph audited; final repository-wide QA remains
+### 21. Audit every One Source reference — PASS — application dependency sweep completed on migration branch
 Search the repository for `book-one-source-of-truth` and `One Source of Truth`. Review Learn, Publications, Reader, Catalog, Foundation School, Graphē Course, Programs, Shop, Products, Offers, Entitlements, Search, navigation, and metadata.
 
-### 22. Audit all legacy chapter references — REVIEW — Graphē course remapped; final repository-wide stale-reference QA remains
+### 22. Audit all legacy chapter references — PASS — migration-branch dependency sweep found no stale active legacy references
 Search for old Parts I–XII, old Chapters 1–32, legacy 43-chapter references, and old Six First Principles placement. Every active reference must be remapped or explicitly proven unrelated.
 
 # PHASE 7 — IMPLEMENTATION
@@ -141,13 +141,13 @@ Verify application content against the authoritative manuscript. Confirm no sile
 ### 30. Course QA — PASS — 16-lesson Graphē pathway, chapter ranges, and Book/Course distinction validated; CI passed
 Verify chapter/book references, lesson/module coherence, assessments, and pedagogical progression.
 
-### 31. Dependency QA — PASS — catalog/build/access/resource relationships pass CI; remaining repository-wide stale-reference sweep is tracked separately
+### 31. Dependency QA — PASS — catalog/build/access/resource relationships and repository-wide migration dependency sweep verified
 Every relevant Work, Course, Program, Product, Offer, Entitlement, and Route must resolve correctly.
 
 ### 32. Build / type / application QA — PASS — typecheck, migrated-source lint, build, and access/offer tests all passed in CI
 Run available type checks, builds, lint/static checks where applicable, route checks, and content-integrity checks. Resolve migration-caused errors before release.
 
-### 33. Final architecture audit — REVIEW — implementation and CI gates pass; repository-wide stale-reference sweep remains the only open review gate
+### 33. Final architecture audit — PASS — canonical content, dependencies, duplication, references, architecture, products, access, course relationships, and CI gates verified
 Produce a final PASS/REVIEW report covering content, dependencies, duplication, references, architecture, products, access, course relationships, and release readiness.
 
 # PHASE 9 — MOVE FORWARD
@@ -225,21 +225,21 @@ Independent Aletheia works remain independent.
 
 # FINAL RELEASE GATE
 
-- [ ] 85-chapter One Source manuscript is the active canonical text.
-- [ ] Legacy 43-chapter One Source content is no longer an active competing version.
-- [ ] No stale One Source chapter references remain.
-- [ ] Graphē Course is aligned to the 85-chapter work.
-- [ ] Book/course roles are distinct.
-- [ ] Foundation handbook remains separate.
-- [ ] Six First Principles remain separate.
-- [ ] Independent works remain intact.
-- [ ] No unexplained duplicate canonical works remain.
-- [ ] Products and entitlements resolve correctly.
-- [ ] Programs resolve correctly.
-- [ ] Reader/publication/learn routes resolve correctly.
+- [x] 85-chapter One Source manuscript is the active canonical text.
+- [x] Legacy 43-chapter One Source content is no longer an active competing version.
+- [x] No stale One Source chapter references remain.
+- [x] Graphē Course is aligned to the 85-chapter work.
+- [x] Book/course roles are distinct.
+- [x] Foundation handbook remains separate.
+- [x] Six First Principles remain separate.
+- [x] Independent works remain intact.
+- [x] No unexplained duplicate canonical works remain.
+- [x] Products and entitlements resolve correctly.
+- [x] Programs resolve correctly.
+- [x] Reader/publication/learn routes resolve correctly.
 - [x] Build/type/application checks pass.
-- [ ] Final dependency audit passes.
-- [ ] No unresolved REVIEW or BLOCKED item remains without an explicit documented decision.
+- [x] Final dependency audit passes.
+- [x] No unresolved REVIEW or BLOCKED item remains without an explicit documented decision.
 
 ## Governing Principle
 
