@@ -53,48 +53,48 @@ Sources are reconstructed as arguments, not cited as “the source says.” Bibl
 
 ---
 
-# 4. Chapter 73 — Ἄπειρος — Unskillfulness in the Word
+# 4. Chapter 85 — From Graphē to the Six First Principles
 
-**Movement:** IX — When Authoritative Truth Is Mishandled (movement closed)  
-**Assignment (locked TOC):** Develop Hebrews 5:13 and *apeiros*: inexperienced/unskillful. Explain the relationship between lack of skill, immaturity, and inability to handle the Word appropriately.  
-**Counts:** ~31,900 words (31,861); 59 numbered sections (73.1–73.59), plus What Has Been Established, Chapter Summary, and Transition to Chapter 74.  
-**File:** `74_Chapter_73_Apeiros_Unskillfulness_in_the_Word.md`
+**Movement:** X — The Scholarly Labour of the Graphē (movement complete)  
+**Assignment (locked TOC):** Conclude by demonstrating why the Doctrine of the Graphē functions as the foundation/gate for entering the Six First Principles without becoming a seventh principle.  
+**File:** `86_Chapter_85_From_Graphe_to_the_Six_First_Principles.md`
 
 ## Thesis (accepted)
 
-Ἄπειρος (*apeiros*, G552) in Hebrews 5:13 is unskillfulness in the word of righteousness. Everyone who partakes of milk is inexperienced in that word, for he is a babe. Lack of skill is the want of trial in the word of righteousness. Immaturity is the sentence’s own ground, measured by a time that already owed teachers. Inability to handle the Word appropriately is the use: elements taught again, milk rather than solid food, faculties not trained to discern good and evil. The three are one condition and are not synonyms. The Word remains handleable. Unskill does not break the Scripture and does not excuse the hearer after time. The newborn’s milk, the humble child, the hour not yet come, and the reader who asks for a guide are different objects. Dullness of hearing remains Chapter 72’s mark. This closes Movement IX. It is not Chapter 72 retried, and it is not Movement X.
+The Doctrine of the Graphē is not the seventh First Principle. It is the gate.
 
-## Premises used, not retried
+Chapter 85 establishes the architecture:
 
-- Chapters 1–7 and 13–14: truth, sound judgment, the call to reason, revelation rather than speculation, human accounts accountable. Skill in a word is accountable to those operations.
-- Chapters 20–22: γραφή as Holy Writ. The Word in which one is unskilled is this writing.
-- Chapters 62–63: the Scripture cannot be broken. An unskilled partaker is not a new breakage.
-- Chapter 57: infallibility of the record, not of the interpreter, the church, or every later tradition.
-- Chapter 65: Graphē as primary written authority. Handling is measured by that authority.
-- Chapters 66 and 67: authority of Scripture versus authority of interpretation; transfer and despair already refused; a correct reading remains possible; an incorrect reading remains incorrect. Improper handling is not re-catalogued. Matthew 22:29 is used for the skill-fact of not knowing the Scriptures, not as a reprint of the mode-catalog.
-- Chapter 68: theology, philosophy, tradition, and institution are secondary systems. Antiquity does not constitute skill.
-- Chapter 69: secondary sources governing meaning occupy the seat of sense; service is not the event. Nehemiah 8:8 is service, not a second authority.
-- Chapter 70: doctrinal turning aside, with intellectual failures that permit and do not excuse. Second Peter 3:16 and Ephesians 4:14 are used for the unlearned and infant handler, not as a second turning-file.
-- Chapter 71: accepted heresy does not transform error into truth. The age of a body does not create skill and does not make an unskilled handling true.
-- Chapter 72: aridity and the loss of reasonability; dullness of hearing is the first mark and stays that file. Hebrews 5:11 is cited, not re-expounded.
+> **Graphē → Doctrine of the Graphē → Preparation → Readiness → Six First Principles**
 
-## Sources reconstructed (not quoted as authority)
+The Graphē remains the written source; the Six First Principles remain the subjects of foundational instruction. The chapter names the six in their established order without consuming their detailed curriculum.
 
-- Bible Introduction (Hebrews 5:13): *apeiros* as inexperienced, only here, is received. The two babe-marks are received as two: dull of hearing already established; inexperience in the Word established here.
-- Bible Introduction (Hebrews 5:12): the time-clause and the second teaching are received. “Not grown at all” as a universal inner history, the fusion of 1 Peter 2:2 with the rebuke, the added “simple,” and the unverified claim that milk was the metaphor of many profane writers are not adopted.
-- Bible Introduction (Hebrews 5:14): τέλειος as maturity and διάκρισις as discernment are received as the paragraph’s contrary. “Capable of instruction” as a second textual mark, the soul-sense system, the subsequent rule-list, and the right-division gloss are not adopted. The contrary is named and not methodized.
-- Aletheia leaflet: “inexperienced” and “unskillful” are received. “That is, ignorant” is received only as not-knowing by trial, not as stupidity or as never having heard. The babe-join is the verse’s own γάρ. “Simple-minded” is limited to undeveloped judgment. “Basis for salvation” does not replace “word of righteousness.” The lack is intellectual; the stages and the word-drill are not written. Persons are the subject; a body’s handling can be unskilled, and age does not cure it. The leaflet’s order, in which unskill produces aridity, tergiversation, and accepted heresies, is not adopted. Σπουδάζω and the scholarly impetus are named as the question Movement X answers and are not written.
+## Six First Principles
 
-## Reserved (not established in Chapter 73)
+1. Repentance from Dead Works
+2. Faith Toward God
+3. The Doctrine of Baptisms
+4. Laying on of Hands
+5. Resurrection of the Dead
+6. Eternal Judgment
 
-- Entire Movement X (Chs 74–85): the scholarly impetus of Scripture; perception, learning, and understanding; reasoning through the Word; quotation, meaning, and knowledge; *spoudazō*; the exercise of the Word; maturity, skill, and strong meat; the babe and the unskillful as a canon-wide diagnosis; rightly dividing; the approved workman; the discipline of biblical interpretation; the gate from the Graphē to the Six First Principles.
-- The Six First Principles themselves.
+## Boundary preserved
 
-## Next necessary question
+Chapter 85 explicitly does not:
 
-> What is the scholarly impetus of Scripture, now that unskillfulness in the Word has been shown as inexperience in the word of righteousness, joined to immaturity and to inability to handle the Word appropriately?
+- make the Doctrine of the Graphē a seventh principle;
+- replace the Foundation School;
+- turn the present book into the Six First Principles curriculum;
+- absorb or exhaust the detailed treatment of the six;
+- make the book, teacher, method, or scholarship a rival authority to the Graphē.
 
-That is Chapter 74. Movement X opens there. Movement IX is complete.
+Readiness is substantive: the learner must be able to distinguish quotation from interpretation, explicit statement from inference, test conclusions, recognize evidential limits, remain correctable, and handle the written Word responsibly.
+
+## Final transition
+
+Chapter 85 closes Movement X and the 85-chapter manuscript.
+
+The next phase is therefore not another chapter of *One Source of Truth*. It is the separate **Six First Principles / Foundation School Development** phase, governed by the supplied source material and its own source-preservation rules.
 
 ---
 
