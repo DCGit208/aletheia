@@ -57,12 +57,24 @@ for (const [index, source] of sourceFiles.entries()) {
   const chapter = chapters[index];
   const sourceText = fs.readFileSync(path.join(manuscriptDir, source.name), "utf8");
   const lines = sourceText.split("\n");
-  const chapterLine = lines.findIndex((line) => line === `# Chapter ${source.number}`);
+  const chapterLine = lines.findIndex((line) => {
+    const match = line.match(/^# Chapter (\\d+)(?:\\s+—\\s+(.+))?$/);
+    return Number(match?.[1]) === source.number;
+  });
   if (chapterLine < 0) fail(`could not locate chapter heading in ${source.name}`);
 
-  const titleLine = lines[chapterLine + 1];
-  const title = titleLine?.replace(/^# /, "").trim();
-  const body = lines.slice(chapterLine + 2).join("\n").replace(/^\n+/, "");
+  const heading = lines[chapterLine].match(/^# Chapter (\\d+)(?:\\s+—\\s+(.+))?$/);
+  let title;
+  let bodyStart;
+  if (heading?.[2]) {
+    title = heading[2].trim();
+    bodyStart = chapterLine + 1;
+  } else {
+    const titleLine = lines[chapterLine + 1];
+    title = titleLine?.replace(/^# /, "").trim();
+    bodyStart = chapterLine + 2;
+  }
+  const body = lines.slice(bodyStart).join("\n").replace(/^\n+/, "");
 
   if (chapter.number !== source.number) fail(`application chapter ${chapter.number} does not match ${source.name}`);
   if (chapter.id !== `ch-ost-${source.number}`) fail(`unexpected ID for Chapter ${source.number}: ${chapter.id}`);
