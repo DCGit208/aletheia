@@ -58,7 +58,7 @@ for (const [index, source] of sourceFiles.entries()) {
   const sourceText = fs.readFileSync(path.join(manuscriptDir, source.name), "utf8");
   const lines = sourceText.split("\n");
   const chapterLine = lines.findIndex((line) => {
-    const match = line.match(/^# Chapter (\d+)(?:\s+—\s+(.+))?$/);
+    const match = line.match(/^# Chapter (\d+)(?:\s+—\s+(.+))?$/ii);
     return Number(match?.[1]) === source.number;
   });
   if (chapterLine < 0) fail(`could not locate chapter heading in ${source.name}`);
