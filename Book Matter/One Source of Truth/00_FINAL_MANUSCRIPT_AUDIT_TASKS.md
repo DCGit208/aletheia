@@ -44,25 +44,6 @@
 
 ---
 
-## TASK 01 — Manuscript Inventory & Sequence Audit
-
-**Objective:** Verify the actual repository manuscript from Chapter 1 through Chapter 85.
-
-Check:
-
-- Every chapter exists.
-- Chapter numbering is complete and sequential.
-- Chapter titles match the locked TOC.
-- Filenames correspond correctly to chapter numbers and titles.
-- No chapter is duplicated or missing.
-- No non-chapter file is being mistaken for a chapter.
-- Actual repository state is distinguished from stale metadata.
-
-**Deliverable:** Authoritative Chapter 1–85 inventory.
-
-**Status:** PASS
-
----
 
 ## TASK 02 — Movement & Structural Architecture Audit
 
