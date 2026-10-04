@@ -136,3 +136,104 @@ Before Phase 7 implementation:
 >
 > The authoritative source must be established before implementation.
 
+
+
+---
+
+# AUDIT UPDATE — 2026-10-04
+
+## Finding Correction: Authoritative 85-Chapter Prose Is Present
+
+The earlier statement in this audit that the complete 85-chapter prose manuscript had **not been located** is now superseded.
+
+A direct repository inspection of:
+
+`Book Matter/One Source of Truth/`
+
+confirmed the authoritative chapter files through:
+
+- Chapter 1 — `02_CHAPTER_01_WHAT_IS_TRUTH.md`
+- Chapter 2 — `03_CHAPTER_02_TRUTH_AND_REALITY.md`
+- …
+- Chapter 84 — `85_Chapter_84_The_Discipline_of_Biblical_Interpretation.md`
+- Chapter 85 — `86_Chapter_85_From_Graphe_to_the_Six_First_Principles.md`
+
+The repository therefore contains the complete **85-chapter prose manuscript** required by the migration guardrails.
+
+### Structural verification
+
+Repository inspection confirms:
+
+- **85 canonical chapter numbers:** 1–85
+- **No missing chapter numbers**
+- **No duplicate chapter numbers**
+- **Chapter 85 exists and is titled:** *From Graphē to the Six First Principles*
+- The authoritative manuscript is distinct from the current 43-chapter application payload.
+
+The locked TOC likewise enumerates Chapters 1–85 and places the Six First Principles boundary at Chapter 85.
+
+## Revised Phase 1 Finding
+
+The migration is **no longer blocked by missing source prose**.
+
+The current gate is now:
+
+> **SOURCE VERIFIED → APPLICATION REPLACEMENT READY, SUBJECT TO DEPENDENCY CROSS-CHECK**
+
+The application still contains the obsolete 43-chapter representation in:
+
+`src/lib/content/book-one-source-of-truth.ts`
+
+and the corresponding metadata in:
+
+`src/lib/data/one-source-of-truth.ts`
+
+still exposes the legacy 43-chapter count/preview set.
+
+## Confirmed Migration Boundary
+
+The correct operation remains:
+
+**Authoritative 85-chapter manuscript**
+→ **replace**
+→ **legacy 43-chapter application payload**
+
+It is **not**:
+
+**legacy 43 chapters**
+→ append chapters 44–85.
+
+The Six First Principles currently embedded as legacy Chapters 35–40 must disappear from the active One Source representation as part of the whole-book replacement.
+
+## New Implementation Gate
+
+Before the production payload is changed, the following final checks must be completed:
+
+1. Verify all 85 manuscript chapter headings against the locked TOC.
+2. Verify the authoritative chapter source is copied exactly into the application representation without invented/reconstructed prose.
+3. Verify One Source metadata exposes 85 chapters.
+4. Verify the Foundation School aggregation receives the new 85-chapter canonical array without duplicating or reclassifying Foundation handbook chapters.
+5. Verify the Graphē Course has no stale chapter references after migration.
+6. Verify the Graphē Course's relationship to `book-principles-doctrine-christ` lesson by lesson.
+7. Verify product and entitlement references remain unchanged unless a dependency audit proves otherwise.
+8. Run structural, content, dependency, type/build, and route QA.
+
+## Current Gate Status
+
+| Area | Status |
+|---|---|
+| 85-chapter authoritative prose | **PASS — located and structurally verified** |
+| Locked 85-chapter TOC | **PASS** |
+| Current app One Source | **LEGACY 43 — REPLACE** |
+| One Source canonical ID | **RETAIN** |
+| One Source product ID | **RETAIN / AUDIT** |
+| One Source course ID | **RETAIN / REMAP** |
+| Foundation handbook | **RETAIN** |
+| Six First Principle books/courses | **RETAIN** |
+| Independent works | **PROTECTED** |
+| Graphē course references | **REMAP REQUIRED** |
+| Production replacement | **READY AFTER FINAL CROSS-CHECK** |
+
+> **No invention. No silent replacement. No collateral deletion.**
+>
+> The source is now verified. The remaining work is controlled migration and verification.
