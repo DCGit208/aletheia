@@ -2,7 +2,7 @@
 ## Final Table of Contents & Authoring / Conceptual Guidance
 
 > **Status:** Locked TOC proposition for comparative source audit and full-book development.  
-> **Manuscript:** Working manuscript, not a finished Graphē-gate curriculum. Drafted through Chapter 37; Chapters 38–85 remain outstanding. The locked TOC below is the plan and is not reduced to the chapters now on disk.  
+> **Manuscript:** Complete through Chapter 85 on disk. The locked TOC remains the authoritative plan and has now been fulfilled at the chapter-file level. The manuscript is not yet a finished Graphē-gate curriculum; it is the completed 85-chapter *One Source of Truth — The Doctrine of the Graphē* manuscript that prepares the learner for the Six First Principles.  
 > **Purpose:** Master reference for the structure, knowledge flow, conceptual boundaries, and authoring discipline of *One Source of Truth — The Doctrine of the Graphē*.
 
 ---
