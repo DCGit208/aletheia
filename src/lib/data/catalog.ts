@@ -14,6 +14,7 @@ import {
 import { productsFromOffers } from "@/lib/commerce/offerings";
 import { faithCompanionChapters } from "@/lib/content/companion-faith";
 import { repentanceCompanionChapters } from "@/lib/content/companion-repentance";
+import { oneSourceChapters } from "@/lib/content/book-one-source-of-truth";
 
 const achu = { id: "author-achu", displayName: "Dr. Coach Achu Gustave" };
 const faculty = { id: "author-faculty", displayName: "Aletheia Faculty" };
@@ -374,6 +375,28 @@ export const catalog: CatalogSnapshot = {
       productId: "product-great-deception",
       chapterCount: 1,
     },
+    {
+      id: "book-one-source-of-truth",
+      title: "One Source of Truth",
+      subtitle: "The Doctrine of the Graphē",
+      description:
+        "The complete 85-chapter canonical manuscript: a cumulative investigation from truth, knowledge, evidence, and ultimate authority through revelation, the Bible, Graphē, authentication, Christ, Scripture, and the scholarly labour that prepares the learner for the Six First Principles.",
+      authors: [achu],
+      contributors: [],
+      publisher: BRAND.publications,
+      publishedAt: "2026-10-04",
+      language: "en",
+      edition: "Canonical 85-Chapter Manuscript",
+      categories: ["Truth", "Formation"],
+      tags: ["graphē", "holy-writ", "scripture", "truth", "hermeneutics", "foundation"],
+      coverTone: "ink",
+      status: "published",
+      accessLevel: "entitled",
+      previewChapterIds: ["ch-ost-1"],
+      productId: "product-one-source-of-truth",
+      chapterCount: 85,
+    },
+
     ...foundationBooks,
   ],
   chapters: [
@@ -508,6 +531,7 @@ The cover is published. The full study will enter this reader next.`,
     },
     ...repentanceCompanionChapters,
     ...faithCompanionChapters,
+    ...oneSourceChapters,
     ...foundationChapters,
   ],
   courses: [
