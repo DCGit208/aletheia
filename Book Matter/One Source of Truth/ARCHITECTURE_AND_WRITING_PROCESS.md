@@ -46,10 +46,10 @@ Sources are reconstructed as arguments, not cited as “the source says.” Bibl
 | Chapter 71 | On disk (Movement IX continues) |
 | Chapter 72 | On disk (Movement IX continues) |
 | Chapter 73 | On disk (Movement IX complete) |
-| Chapters 74–85 | Outstanding (Movement X) |
+| Chapters 74–85 | On disk (Movement X complete) |
 | Back matter | Planned; not yet a separate file |
 
-**Latest chapter file:** `74_Chapter_73_Apeiros_Unskillfulness_in_the_Word.md`
+**Latest chapter file:** `86_Chapter_85_From_Graphe_to_the_Six_First_Principles.md`
 
 ---
 
