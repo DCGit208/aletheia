@@ -710,6 +710,113 @@ Check:
 
 ## TASK 10 — Movement X Scholarly Labour Audit
 
+**Status: PASS — Movement X fulfills its assigned scholarly-development function and advances the reader toward the Six First Principles without collapsing scholarship into institutional authority**
+
+### Verified Findings
+
+Movement X is not simply a collection of study-skills chapters. It forms a deliberate intellectual-development architecture.
+
+Its progression is:
+
+> **Scholarly impetus → Perception → Learning → Understanding → Reasoning → Quotation/Meaning → Diligence → Exercise → Skill/Maturity → Unskilfulness → Right Handling → Workmanship → Interpretation → Readiness.**
+
+### Chapter 74: The Scholarly Impetus
+
+Chapter 74 fulfills the locked objective: it establishes that Scripture itself presses the reader toward serious intellectual engagement.
+
+It carefully defines “scholarly” functionally rather than institutionally. Academic credentials, universities, professional guilds, and human scholarship are not made into authorities over the Graphē.
+
+The chapter identifies attention, searching, comparison, judgment, proving, reasoning, discernment, verification, and accountable judgment as forms of intellectual engagement demanded by the biblical record.
+
+It also deliberately creates curiosity for the deeper intellectual formation developed in the remaining chapters.
+
+### Chapters 75–77: Cognitive and Reasoning Formation
+
+Chapter 75 distinguishes:
+
+> **Perception → Learning → Understanding → Reasoning**
+
+and explicitly prevents understanding from being confused with interpretation or skill.
+
+Chapter 76 develops the reasoning operation itself: propositions, premises, relationships, inference, conditions, scope, objections, quotation, and conclusion.
+
+Chapter 77 protects the source/interpreter boundary through:
+
+> **Source → Quotation → Proposition → Meaning → Inference → Conclusion**
+
+Thus Movement X does not equate “study” with mere information acquisition.
+
+### Chapters 78–83: Formation Through Practice
+
+Chapter 78's treatment of **σπουδάζω** establishes purposeful exertion rather than reducing the command to the modern activity called “study.”
+
+Chapter 79 develops exercise through repeated responsible use toward trained discernment.
+
+Chapter 80 defines maturity in terms of developed capacity rather than age, information, status, or confidence.
+
+Chapter 81 establishes the babe and ἄπειρος/unskilful condition without degrading the learner or treating lack of skill as lack of intelligence.
+
+Chapter 82 turns developed capacity toward **right handling** of the Word of Truth.
+
+Chapter 83 completes the workmanship dimension: the worker is accountable to God but never becomes a second source of revelation. Approval does not equal infallibility or interpretive authority.
+
+### Chapter 84: Integrated Interpretive Discipline
+
+Chapter 84 appropriately functions as a synthesis rather than merely another isolated skill chapter.
+
+It integrates:
+
+> **Perception → Identification → Definition → Contextualization → Understanding → Comparison → Distinction → Reasoning → Inference → Testing → Conclusion → Limitation → Application.**
+
+It also operationalizes source hierarchy, lexical controls, historical/literary setting, source tracking, alternative explanations, evidence testing, and correction.
+
+This is the point at which the preceding intellectual formation becomes a coherent discipline of biblical interpretation.
+
+### Chapter 85: Gateway to the Six First Principles
+
+Chapter 85 fulfills the locked objective.
+
+It distinguishes:
+
+> **Graphē = written source**
+
+from:
+
+> **Six First Principles = foundational doctrinal subjects**
+
+and establishes:
+
+> **Graphē → preparation → readiness → Six First Principles**
+
+The Doctrine of the Graphē is therefore correctly presented as **foundation/gate**, not as a seventh principle.
+
+The chapter also prevents *One Source of Truth* itself, the teacher, method, scholarship, or secondary sources from becoming a substitute authority.
+
+### Scholarly-Labour Integrity
+
+A major strength is that Movement X does not drift into:
+
+- academic credentialism;
+- intellectual elitism;
+- information accumulation for its own sake;
+- commentary dependence;
+- lexical reductionism;
+- autonomous human reasoning;
+- private interpretive authority;
+- or scholarship replacing the Graphē.
+
+Instead, intellectual labour remains accountable to the authoritative written source.
+
+### Audit Conclusion
+
+**PASS — Movement X performs the precise architectural function assigned to it: it establishes the intellectual labour demanded by Scripture, develops the learner's capacity progressively, integrates that development into disciplined interpretation, and prepares the learner to enter the Six First Principles while keeping the Graphē as the governing written authority.**
+
+**Deliverable:** Movement X Scholarly Labour assessment established.
+
+---
+
+## TASK 10 — Movement X Scholarly Labour Audit
+
 **Objective:** Perform a dedicated deep audit of Chapters 74–85 as the scholarly-development sequence.
 
 Verify the progression:
