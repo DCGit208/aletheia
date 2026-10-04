@@ -134,7 +134,7 @@ export const oneSourceCourse: Course = {
   instructor: achu,
   category: "Foundation",
   difficulty: "introductory",
-  durationMinutes: 1350,
+  durationMinutes: 1455,
   coverTone: "earth",
   coverImage: "/covers/one-source-of-truth.png",
   status: "published",
