@@ -237,6 +237,45 @@ Check:
 
 ## TASK 05 — Core Terminology & Definition Audit
 
+**Status: PASS — no material terminology or definition defect identified; continued local definition checks remain appropriate during Tasks 06–09**
+
+### Verified Findings
+
+The governing methodology establishes the manuscript's principal conceptual distinctions rather than permitting terminology to drift:
+
+- **Truth** is treated as an ontological question: what is true/real.
+- **Knowledge** is treated epistemologically: how truth can be known.
+- **Evidence / warrant** is treated evidentially: what warrants concluding that something is true.
+- **Interpretation** is treated hermeneutically: how an authoritative truthful text is correctly understood.
+- **Scripture / Graphē / Holy Writ / written Word** are not casually collapsed into whatever a commentator says about them; the methodology expressly requires distinguishing what Scripture says from what someone says Scripture means and from what the author infers.
+- **Text, interpretation, inference, and application** remain distinct categories in Movement X.
+- **Diligence, exercise, skill, maturity, discernment, right handling, workmanship, and approval** are developed as successive but related stages rather than synonyms.
+- **The Doctrine of the Graphē** remains distinct from the Six First Principles and functions as their foundation/gate rather than a seventh principle.
+
+The direct review of Chapters 82–85 shows particularly strong preservation of these distinctions. Chapter 82 explicitly distinguishes quotation, interpretation, inference, application, context, scope, and related categories. Chapter 83 carries the source/interpreter distinction into the concept of the workman. Chapter 84 makes definition auditing and distinction central to interpretation. Chapter 85 preserves source/subject, Graphē/interpretation, and gateway/First-Principles distinctions.
+
+### Definition-Control Finding
+
+The manuscript does not merely repeat preferred vocabulary. Its methodology requires:
+
+> **Define it → Distinguish it → Establish premises → Present evidence → Reason → State explicit versus inferred → Draw warranted conclusion.**
+
+That control is materially consistent with the terminology used in the verified later chapters.
+
+### Risk Identified for Continuing Audits
+
+Some terms necessarily have layered meanings depending on whether they are being treated as biblical terms, lexical terms, methodological categories, or the author's synthesized definitions. This is not presently a defect. Tasks 06–09 should continue checking that a specialized meaning is not silently transferred between categories.
+
+### Task 05 Conclusion
+
+**PASS — the manuscript's core terminology is controlled, distinctions are actively maintained, and no material definition drift was identified in the verified governing methodology and late-manuscript chapters.**
+
+**Deliverable:** Core terminology and definition-control assessment established.
+
+---
+
+## TASK 05 — Core Terminology & Definition Audit
+
 **Objective:** Verify consistency and disciplined use of the manuscript's governing terminology.
 
 Check:
