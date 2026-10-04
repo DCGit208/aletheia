@@ -614,6 +614,80 @@ Check:
 
 ## TASK 09 — Duplication, Prematurity & Gap Audit
 
+**Status: PASS — no architectural duplication, premature consumption, or material gap identified in the audited sequence**
+
+### Verified Findings
+
+The Movement X sequence is deliberately cumulative rather than repetitive:
+
+> **Scholarly impetus → Perception/Learning/Understanding → Reasoning → Quotation/Meaning/Knowledge → Diligence → Exercise → Maturity/Skill → Babe/Unskilful → Right Handling → Approved Workman → Interpretation → Graphē/Six First Principles.**
+
+The apparent repetition of terms such as *understanding*, *reasoning*, *discernment*, *skill*, *context*, *inference*, and *authority* is functional recurrence. Each later chapter reuses an established concept for a new argumentative function rather than simply restating the previous chapter.
+
+### Prematurity Audit
+
+The chapter files contain explicit boundary controls.
+
+- **Chapter 74** expressly reserves *spoudazō*, perception/learning/understanding, reasoning, quotation, exercise, maturity, rightly dividing, the workman, and interpretation for their later chapters.
+- **Chapter 75** explicitly states that understanding is not yet reasoning, interpretation, or skill, and points those questions forward.
+- **Chapter 76** explicitly does not consume Chapters 77–84 and hands the next question to quotation.
+- **Chapter 77** explicitly reserves diligence, exercise, maturity, rightly dividing, the workman, and interpretation.
+- **Chapter 78** reserves exercise and the later workman/handling material.
+- **Chapter 79** establishes exercise without prematurely consuming maturity or the approved-workman treatment.
+- **Chapter 80** establishes maturity/skill while deliberately handing the babe/unskilful distinction to Chapter 81.
+- **Chapter 81** establishes the condition of the babe and unskilful and then hands “handling” to Chapter 82.
+- **Chapter 82** explicitly reserves the approved-workman material for Chapter 83.
+- **Chapter 83** explicitly reserves the synthesis/discipline of interpretation for Chapter 84.
+- **Chapter 84** functions as the synthesis of the interpretive disciplines rather than consuming the Six First Principles themselves.
+- **Chapter 85** deliberately names and orders the Six First Principles without turning the Doctrine of the Graphē into a seventh principle or prematurely writing their full courses.
+
+These boundaries demonstrate that later chapters still have genuine work to perform.
+
+### Duplication Audit
+
+No material architectural duplication was identified in the audited Movement X sequence.
+
+Recurring concepts have distinct functions:
+
+| Recurring concept | Earlier function | Later function |
+|---|---|---|
+| Understanding | What the learner grasps | Input to reasoning/interpretation |
+| Reasoning | How conclusions follow | Applied to interpretation |
+| Discernment | Emerging trained capacity | Mature handling |
+| Context | Meaning-control | Full interpretive discipline |
+| Inference | Distinguishing conclusion from text | Testing interpretive conclusions |
+| Authority | Submission to Graphē | Preventing substitution by book/teacher/method |
+| Skill | Developed capacity | Workmanship and approval |
+| Six First Principles | Future destination | Named only at the gateway |
+
+The repetition therefore operates as **dependency reinforcement**, not chapter duplication.
+
+### Gap Audit
+
+No material missing bridge was identified between Chapters 74–85.
+
+The transitions are explicit and form a continuous chain:
+
+> **Engagement → Perception → Understanding → Reasoning → Quotation → Diligence → Exercise → Skill/Maturity → Unskilfulness → Right Handling → Workmanship → Interpretation → Readiness → Six First Principles.**
+
+Chapter 85 correctly stops at the gateway. It does not attempt to teach the six principles inside *One Source of Truth*, preserving the locked architecture.
+
+### Residual Note
+
+The audit does identify a **controlled risk of thematic recurrence**: because the same intellectual vocabulary is necessarily used across Movement X, a final line-level editorial pass could still identify sentences that are unnecessarily repeated. This is an editorial refinement issue, not an architectural duplication or gap requiring restructuring.
+
+No chapter should presently be removed, merged, reordered, or expanded merely on the basis of this audit.
+
+### Task 09 Conclusion
+
+**PASS — the audited sequence has genuine argumentative progression, explicit anti-prematurity boundaries, no material architectural duplication, and no material gap requiring structural intervention.**
+
+**Deliverable:** Duplication/prematurity/gap register established.
+
+---
+
+## TASK 09 — Duplication, Prematurity & Gap Audit
+
 **Objective:** Identify material that is repeated, introduced too early, omitted, or assigned to the wrong architectural location.
 
 Check:
