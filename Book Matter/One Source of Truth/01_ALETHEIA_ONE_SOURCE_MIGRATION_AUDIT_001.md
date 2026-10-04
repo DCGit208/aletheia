@@ -2,7 +2,7 @@
 
 **Date:** 2026-10-04  
 **Scope:** Phase 1 master content/dependency audit and Phase 2 implementation checkpoint  
-**Status:** **IMPLEMENTATION COMPLETE ON MIGRATION BRANCH — QA/RELEASE PENDING**
+**Status:** **MIGRATION IMPLEMENTED AND QA-PASSED ON MIGRATION BRANCH — RELEASE PENDING**
 
 ## Executive Finding
 
@@ -118,7 +118,7 @@ The course continues to reference the Foundation handbook as a supporting resour
 
 The Graphē course lessons now reference the canonical One Source book only. The Foundation handbook remains a separate Foundation School resource and is not an implicit prerequisite/resource of the standalone Graphē Gate Course. This prevents a purchaser of the Graphē Course from being presented with an ungranted handbook dependency.
 
-### PENDING — Structural QA
+### PASS — Structural QA
 
 Verify:
 
@@ -129,11 +129,11 @@ Verify:
 - no legacy Six First Principle chapters;
 - no legacy 43-chapter content.
 
-### PENDING — Content QA
+### PASS — Content QA
 
 Compare application chapter bodies against the authoritative chapter files and confirm that the normalization removed only front-matter headings, not substantive prose.
 
-### PENDING — Dependency QA
+### PASS — Dependency QA
 
 Verify:
 
@@ -147,7 +147,7 @@ Verify:
 - program grants;
 - course/resource relationships.
 
-### PENDING — Build / type / application QA
+### PASS — Build / type / application QA
 
 Run:
 
@@ -164,9 +164,10 @@ Resolve all migration-caused failures before release.
 **Architecture:** PASS  
 **Application content migration:** PASS on migration branch  
 **Graphē Course remap:** PASS on migration branch  
-**Dependency/resource review:** REVIEW  
-**Structural/content QA:** PENDING  
-**Build/application QA:** PENDING  
+**Dependency/resource review:** PASS  
+**Structural/content QA:** PASS  
+**Build/application QA:** PASS  
+**Repository-wide stale-reference sweep:** REVIEW  
 **Production release:** NOT YET AUTHORIZED
 
 ## Governing Rule
@@ -175,4 +176,4 @@ Resolve all migration-caused failures before release.
 >
 > The application must consume that work without creating a second competing manuscript, without turning the Graphē Course into a duplicate book, and without absorbing the Six First Principles into One Source.
 
-The next action is verification, not further manuscript editing.
+The remaining action is a repository-wide stale-reference sweep. No production release should be treated as complete until that review is closed.
