@@ -127,8 +127,8 @@ export { oneSourceChapters };
 /** Companion course — operationalizes the book; not Course 1 of the six. */
 export const oneSourceCourse: Course = {
   id: ONE_SOURCE_COURSE_ID,
-  title: "One Source of Truth",
-  subtitle: "The Doctrine of the Graphē · Word drill course",
+  title: "One Source of Truth — Guided Study & Mastery",
+  subtitle: "The Doctrine of the Graphē · Guided study, Word drill, and mastery",
   description:
     "Sixteen Word-drill lessons on γραφή (graphē), Holy Writ as the written authority for truth. The course opens Hebrews 5: ἄπειρος (apeiros), the unskilled; νήπιος (nēpios), the babe; and σπουδάζω (spoudazō), diligent labour in the Word. The course serves the graphē; it does not replace it.",
   instructor: achu,
