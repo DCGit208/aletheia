@@ -46,7 +46,7 @@ interface UserLibraryValue {
   checkout: () => Order | null;
   pay: () => Promise<Order | null>;
   toggleBookmark: (kind: ContentKind, targetId: string, label: string) => void;
-  setReadingProgress: (bookId: string, chapterId: string, percent: number) => void;
+  setReadingProgress: (bookId: string, chapterId: string, percent: number, scrollPercent?: number) => void;
 }
 
 const UserLibraryContext = createContext<UserLibraryValue | null>(null);
@@ -279,13 +279,14 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
               ],
         );
       },
-      setReadingProgress(bookId, chapterId, percent) {
+      setReadingProgress(bookId, chapterId, percent, scrollPercent) {
         if (!user) return;
         const record: ReadingProgress = {
           userId: user.uid,
           bookId,
           chapterId,
           percent,
+          scrollPercent,
           updatedAt: new Date().toISOString(),
         };
         setProgress([...progress.filter((item) => item.bookId !== bookId), record]);
