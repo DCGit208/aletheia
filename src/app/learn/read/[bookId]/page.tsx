@@ -113,7 +113,7 @@ function ReaderContent() {
   function selectChapter(nextChapterId: string) {
     readingPositionRef.current = { chapterId: nextChapterId, scrollPercent: 0 };
     setScrollPercent(0);
-    window.scrollTo({ top: 0, behavior: "instant" });
+    window.scrollTo({ top: 0, behavior: "auto" });
     router.replace(`/learn/read/${book.id}?chapter=${encodeURIComponent(nextChapterId)}`, { scroll: false });
   }
 
@@ -298,12 +298,12 @@ function ReaderContent() {
                     <li key={verse.n} id={`v${verse.n}`} className="mb-6 scroll-mt-24">
                       <p>
                         <sup className="mr-2 font-heading text-sm text-[var(--reader-accent)]">{verse.n}</sup>
-                        {verse.text}
+                        <ReaderText text={verse.text} highlightTerms={[...bookHighlights.map((item) => item.text), ...(query.trim() ? [query.trim()] : [])]} />
                       </p>
                       {verse.commentary ? (
                         <p className="mt-2 border-l-2 border-[var(--reader-border)] pl-3 text-[0.92em] leading-relaxed text-[var(--reader-muted)]">
                           <span className="mr-2 text-[0.62rem] tracking-[0.16em] uppercase">Commentary</span>
-                          {verse.commentary}
+                          <ReaderText text={verse.commentary} highlightTerms={bookHighlights.map((item) => item.text)} />
                         </p>
                       ) : null}
                     </li>
