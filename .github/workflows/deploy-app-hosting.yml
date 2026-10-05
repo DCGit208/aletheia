@@ -1,0 +1,57 @@
+name: Deploy Aletheia App to Firebase Hosting
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/deploy-app-hosting.yml"
+      - "src/**"
+      - "public/**"
+      - "Book Matter/One Source of Truth/**"
+      - "package.json"
+      - "package-lock.json"
+      - "firebase.json"
+      - ".firebaserc"
+      - "next.config.ts"
+      - "postcss.config.mjs"
+      - "tsconfig.json"
+      - "scripts/check-one-source-migration.mjs"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: firebase-hosting-app
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Verify canonical manuscript parity
+        run: node scripts/check-one-source-migration.mjs
+
+      - name: Build app for Firebase Hosting
+        run: npm run build:hosting
+
+      - name: Deploy only app.aletheiaworld.org
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_ALETHEIA_WORLD }}
+          projectId: aletheia-world
+          target: aletheia-world
+          channelId: live
