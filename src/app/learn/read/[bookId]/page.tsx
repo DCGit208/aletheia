@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useParams, useRouter, useSearchParams } from "next/navigation";
-import { Suspense, useEffect, useMemo, useRef, useState } from "react";
+import { Suspense, useEffect, useMemo, useRef, useState, useSyncExternalStore } from "react";
 import { DeniedState, EmptyState } from "@/components/content/query-state";
 import { buttonVariants } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet";
@@ -13,6 +13,9 @@ import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
 import { cn } from "@/lib/utils";
 import { ReaderMarkdown } from "@/components/books/reader-markdown";
+import { Bookmark, Highlighter } from "lucide-react";
+import { createClientStore } from "@/lib/storage/client-store";
+import { DEFAULT_READER_SETTINGS, loadReaderSettings, READER_THEMES, saveReaderSettings, type ReaderThemeKey } from "@/lib/reader/settings";
 
 const fieldClass =
   "h-8 w-full rounded-lg border border-input bg-transparent px-2.5 text-sm outline-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50";
@@ -32,7 +35,18 @@ function ReaderContent() {
   const [query, setQuery] = useState("");
   const [fontSize, setFontSize] = useState(1.15);
   const [tocOpen, setTocOpen] = useState(false);
+  const [scrollPercent, setScrollPercent] = useState(0);
+  const [selectedText, setSelectedText] = useState("");
   const savedKey = useRef("");
+  const restoredScrollKey = useRef("");
+  const readingPositionRef = useRef({ chapterId, scrollPercent: 0 });
+  const userId = user?.uid ?? "guest";
+  const settingsStore = useMemo(
+    () => createClientStore(() => loadReaderSettings(userId), (value) => saveReaderSettings(userId, value)),
+    [userId],
+  );
+  const settings = useSyncExternalStore(settingsStore.subscribe, settingsStore.getSnapshot, () => DEFAULT_READER_SETTINGS);
+  const theme = READER_THEMES[settings.theme];
 
   const chapter = chapters.find((item) => item.id === chapterId) ?? chapters[0];
   const index = chapters.findIndex((item) => item.id === chapter?.id);
@@ -48,12 +62,79 @@ function ReaderContent() {
     : false;
 
   useEffect(() => {
+    let frame = 0;
+    const update = () => {
+      if (frame) return;
+      frame = window.requestAnimationFrame(() => {
+        frame = 0;
+        const total = document.documentElement.scrollHeight - window.innerHeight;
+        const next = total > 0 ? Math.min(100, Math.max(0, (window.scrollY / total) * 100)) : 0;
+        if (readingPositionRef.current.chapterId === chapter?.id) {
+          readingPositionRef.current = { chapterId: chapter?.id ?? "", scrollPercent: next };
+          setScrollPercent(next);
+        }
+      });
+    };
+    window.addEventListener("scroll", update, { passive: true });
+    update();
+    return () => {
+      window.removeEventListener("scroll", update);
+      if (frame) window.cancelAnimationFrame(frame);
+    };
+  }, [chapter?.id]);
+
+  const currentScroll = readingPositionRef.current.chapterId === chapter?.id ? scrollPercent : 0;
+  const bookProgress = chapters.length
+    ? Math.min(100, Math.max(0, ((index + currentScroll / 100) / chapters.length) * 100))
+    : 0;
+  const persistedScroll = Math.floor(currentScroll / 5) * 5;
+
+  useEffect(() => {
     if (authLoading || !book || !chapter || !allowed) return;
-    const key = `${book.id}:${chapter.id}`;
+    const key = `${book.id}:${chapter.id}:${Math.floor(persistedScroll / 5)}`;
     if (savedKey.current === key) return;
     savedKey.current = key;
-    setReadingProgress(book.id, chapter.id, Math.round(((index + 1) / chapters.length) * 100));
-  }, [allowed, authLoading, book, chapter, chapters.length, index, setReadingProgress]);
+    setReadingProgress(book.id, chapter.id, Number(bookProgress.toFixed(1)), persistedScroll);
+  }, [allowed, authLoading, book, bookProgress, chapter, persistedScroll, setReadingProgress]);
+
+  useEffect(() => {
+    if (authLoading || !book || !chapter || !allowed) return;
+    const key = `${book.id}:${chapter.id}`;
+    if (restoredScrollKey.current === key) return;
+    restoredScrollKey.current = key;
+    if (saved?.chapterId !== chapter.id || !saved.scrollPercent) return;
+    const frame = window.requestAnimationFrame(() => {
+      const total = document.documentElement.scrollHeight - window.innerHeight;
+      window.scrollTo({ top: Math.max(0, total * (saved.scrollPercent! / 100)), behavior: "instant" });
+    });
+    return () => window.cancelAnimationFrame(frame);
+  }, [allowed, authLoading, book, chapter, saved?.chapterId, saved?.scrollPercent]);
+
+  function selectChapter(nextChapterId: string) {
+    readingPositionRef.current = { chapterId: nextChapterId, scrollPercent: 0 };
+    setScrollPercent(0);
+    window.scrollTo({ top: 0, behavior: "instant" });
+    router.replace(`/learn/read/${book.id}?chapter=${encodeURIComponent(nextChapterId)}`, { scroll: false });
+  }
+
+  const chapterBookmarks = bookmarks.filter((item) => item.kind === "book" && item.targetId === `${book.id}::${chapter.id}`);
+  const bookHighlights = settings.highlights.filter((item) => item.bookId === book.id && item.chapterId === chapter.id);
+  const selectedHighlightExists = bookHighlights.some((item) => item.text === selectedText);
+
+  function saveHighlight() {
+    const text = selectedText.trim().replace(/\\s+/g, " ");
+    if (!user || text.length < 3 || text.length > 240) return;
+    const nextHighlights = selectedHighlightExists
+      ? settings.highlights.filter((item) => !(item.bookId === book.id && item.chapterId === chapter.id && item.text === text))
+      : [...settings.highlights, { bookId: book.id, chapterId: chapter.id, text }];
+    settingsStore.set({ ...settings, highlights: nextHighlights });
+    setSelectedText("");
+    window.getSelection()?.removeAllRanges();
+  }
+
+  function captureSelection() {
+    setSelectedText(window.getSelection()?.toString().replace(/\\s+/g, " ").trim().slice(0, 241) ?? "");
+  }
 
   const highlighted = useMemo(() => {
     if (!chapter) return "";
@@ -74,44 +155,88 @@ function ReaderContent() {
   }
 
   return (
-    <div className="min-h-dvh bg-[#f3eee4] text-[#1a1712]">
-      <header className="sticky top-0 z-30 border-b border-[#1a1712]/10 bg-[#f3eee4]/95 backdrop-blur" style={{ paddingTop: "env(safe-area-inset-top)" }}>
-        <div className="mx-auto flex max-w-3xl items-center gap-2 px-4 py-2">
-          <Link href={`/learn/books/${book.id}`} className={cn(buttonVariants({ variant: "ghost", size: "sm" }))}>
-            Close
-          </Link>
-          <div className="min-w-0 flex-1">
-            <p className="truncate font-heading text-sm">{book.title}</p>
-            <p className="text-xs text-muted-foreground">
-              {t("reader.progress")}: {Math.round(((index + 1) / chapters.length) * 100)}%
-            </p>
+    <div className="min-h-dvh" style={{ backgroundColor: theme.background, color: theme.ink, ["--reader-size" as string]: `${fontSize}rem`, ["--reader-ink" as string]: theme.ink, ["--reader-heading" as string]: theme.heading, ["--reader-muted" as string]: theme.muted, ["--reader-accent" as string]: theme.accent, ["--reader-border" as string]: theme.border, ["--reader-highlight" as string]: theme.highlight }}>
+      <div
+        className="sticky top-0 z-30 border-b backdrop-blur"
+        style={{ paddingTop: "env(safe-area-inset-top)", backgroundColor: theme.background, borderColor: theme.border }}
+      >
+        <header className="mx-auto max-w-3xl px-4 py-2">
+          <div className="flex items-center gap-2">
+            <Link href={`/learn/books/${book.id}`} className={cn(buttonVariants({ variant: "ghost", size: "sm" }))}>
+              Back to book
+            </Link>
+            <div className="min-w-0 flex-1">
+              <p className="truncate font-heading text-sm">{book.title}</p>
+              <p className="text-xs" style={{ color: theme.muted }}>{chapter.number}. {chapter.title}</p>
+            </div>
+            <button
+              type="button"
+              className={cn(buttonVariants({ variant: "outline", size: "sm" }))}
+              aria-expanded={tocOpen}
+              onClick={() => setTocOpen(true)}
+            >
+              {t("reader.contents")}
+            </button>
           </div>
-          <button
-            type="button"
-            className={cn(buttonVariants({ variant: "outline", size: "sm" }))}
-            aria-expanded={tocOpen}
-            onClick={() => setTocOpen(true)}
-          >
-            {t("reader.contents")}
-          </button>
-          <button
-            type="button"
-            className={cn(buttonVariants({ variant: "ghost", size: "sm" }))}
-            onClick={() => setFontSize((size) => Math.min(1.5, size + 0.1))}
-            aria-label="Increase type"
-          >
-            A+
-          </button>
-          <button
-            type="button"
-            className={cn(buttonVariants({ variant: "ghost", size: "sm" }))}
-            onClick={() => setFontSize((size) => Math.max(0.95, size - 0.1))}
-            aria-label="Decrease type"
-          >
-            A-
-          </button>
-        </div>
-      </header>
+          <div className="mt-2 flex flex-wrap items-center justify-between gap-2">
+            <div className="flex flex-wrap items-center gap-2">
+              <button
+                type="button"
+                className={cn(buttonVariants({ variant: chapterBookmarks.length ? "secondary" : "outline", size: "sm" }))}
+                aria-pressed={chapterBookmarks.length > 0}
+                onClick={() => toggleBookmark("book", `${book.id}::${chapter.id}`, `${book.title} · ${chapter.number}. ${chapter.title}`)}
+              >
+                <Bookmark aria-hidden="true" />
+                {chapterBookmarks.length ? "Bookmarked" : "Bookmark chapter"}
+              </button>
+              <button
+                type="button"
+                className={cn(buttonVariants({ variant: selectedHighlightExists ? "secondary" : "outline", size: "sm" }))}
+                disabled={!user || selectedText.length < 3}
+                title={!user ? "Sign in to save highlights" : selectedText.length < 3 ? "Select a passage first" : "Save or remove the selected highlight"}
+                onClick={saveHighlight}
+              >
+                <Highlighter aria-hidden="true" />
+                {selectedHighlightExists ? "Remove highlight" : "Highlight selection"}
+              </button>
+              <label className="sr-only" htmlFor="reader-theme">Reading color</label>
+              <select
+                id="reader-theme"
+                className="h-9 rounded-lg border bg-transparent px-2 text-sm"
+                style={{ borderColor: theme.border, color: theme.ink }}
+                value={settings.theme}
+                onChange={(event) => settingsStore.set({ ...settings, theme: event.target.value as ReaderThemeKey })}
+              >
+                {Object.entries(READER_THEMES).map(([key, option]) => (
+                  <option key={key} value={key}>{option.label}</option>
+                ))}
+              </select>
+            </div>
+            <div className="flex items-center gap-1">
+              <button type="button" className={cn(buttonVariants({ variant: "ghost", size: "sm" }))} onClick={() => setFontSize((size) => Math.min(1.5, size + 0.1))} aria-label="Increase type">A+</button>
+              <button type="button" className={cn(buttonVariants({ variant: "ghost", size: "sm" }))} onClick={() => setFontSize((size) => Math.max(0.95, size - 0.1))} aria-label="Decrease type">A-</button>
+            </div>
+          </div>
+          <div className="mt-2 flex items-center gap-2">
+            <span className="whitespace-nowrap text-xs" style={{ color: theme.muted }}>Book progress</span>
+            <div
+              className="h-1.5 flex-1 overflow-hidden rounded-full"
+              role="progressbar"
+              aria-label="Book reading progress"
+              aria-valuemin={0}
+              aria-valuemax={100}
+              aria-valuenow={Number(bookProgress.toFixed(1))}
+              style={{ backgroundColor: theme.border }}
+            >
+              <div className="h-full rounded-full transition-[width] duration-150" style={{ width: `${bookProgress}%`, backgroundColor: theme.accent }} />
+            </div>
+            <span className="min-w-10 text-right text-xs tabular-nums" style={{ color: theme.muted }}>{bookProgress.toFixed(1)}%</span>
+          </div>
+          {selectedText.length > 0 && selectedText.length <= 240 ? (
+            <p className="mt-1 text-xs" style={{ color: theme.muted }}>Selected passage ready to highlight.</p>
+          ) : null}
+        </header>
+      </div>
 
       <Sheet open={tocOpen} onOpenChange={setTocOpen}>
         <SheetContent side="left" className="p-0">
@@ -129,7 +254,7 @@ function ReaderContent() {
                       item.id === chapter.id && "bg-secondary font-medium",
                     )}
                     onClick={() => {
-                      router.replace(`/learn/read/${book.id}?chapter=${encodeURIComponent(item.id)}`, { scroll: false });
+                      selectChapter(item.id);
                       setTocOpen(false);
                     }}
                   >
@@ -155,11 +280,11 @@ function ReaderContent() {
         />
       </div>
 
-      <article className="mx-auto px-4 py-6">
+      <article className="mx-auto px-4 py-6" onMouseUp={captureSelection} onKeyUp={captureSelection}>
         <h1 className="mx-auto mb-4 max-w-[38rem] font-heading text-3xl tracking-wide">{chapter.title}</h1>
           {chapter.verses?.length ? (
             <>
-              <p className="mx-auto mb-8 max-w-[38rem] text-sm tracking-[0.16em] text-[#6a542c] uppercase">
+              <p className="mx-auto mb-8 max-w-[38rem] text-sm tracking-[0.16em] text-[var(--reader-accent)] uppercase">
                 King James Version
               </p>
               <ol className="reader-prose mx-auto max-w-[38rem] list-none p-0" style={{ ["--reader-size" as string]: `${fontSize}rem` }}>
@@ -176,7 +301,7 @@ function ReaderContent() {
                         {verse.text}
                       </p>
                       {verse.commentary ? (
-                        <p className="mt-2 border-l-2 border-[#6a542c]/50 pl-3 text-[0.92em] leading-relaxed text-[#4a4033]">
+                        <p className="mt-2 border-l-2 border-[var(--reader-border)] pl-3 text-[0.92em] leading-relaxed text-[var(--reader-muted)]">
                           <span className="mr-2 text-[0.62rem] tracking-[0.16em] uppercase">Commentary</span>
                           {verse.commentary}
                         </p>
@@ -203,7 +328,7 @@ function ReaderContent() {
           <button
             type="button"
             className={cn(buttonVariants({ variant: "outline" }))}
-            onClick={() => router.replace(`/learn/read/${book.id}?chapter=${encodeURIComponent(chapters[index - 1].id)}`, { scroll: false })}
+            onClick={() => selectChapter(chapters[index - 1].id)}
           >
             {t("reader.previous")}
           </button>
@@ -211,7 +336,7 @@ function ReaderContent() {
           <span />
         )}
         {chapters[index + 1] ? (
-          <button type="button" className={cn(buttonVariants())} onClick={() => router.replace(`/learn/read/${book.id}?chapter=${encodeURIComponent(chapters[index + 1].id)}`, { scroll: false })}>
+          <button type="button" className={cn(buttonVariants())} onClick={() => selectChapter(chapters[index + 1].id)}>
             {t("reader.next")}
           </button>
         ) : (
