@@ -192,8 +192,8 @@ function ReaderContent() {
               <button
                 type="button"
                 className={cn(buttonVariants({ variant: selectedHighlightExists ? "secondary" : "outline", size: "sm" }))}
-                disabled={!user || selectedText.length < 3}
-                title={!user ? "Sign in to save highlights" : selectedText.length < 3 ? "Select a passage first" : "Save or remove the selected highlight"}
+                disabled={!user || selectedText.length < 3 || selectedText.length > 240}
+                title={!user ? "Sign in to save highlights" : selectedText.length < 3 ? "Select a passage first" : selectedText.length > 240 ? "Select a shorter passage" : "Save or remove the selected highlight"}
                 onClick={saveHighlight}
               >
                 <Highlighter aria-hidden="true" />
