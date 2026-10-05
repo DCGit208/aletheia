@@ -60,6 +60,9 @@ npx -y firebase-tools@latest deploy --only hosting:aletheia-landing
 ```
 
 See `landing/README.md`. Firebase App Hosting remains the later path if a server is required. Do not fold the marketing pages into the PWA routes.
+## Automatic app deploymentThe `.github/workflows/deploy-app-hosting.yml` workflow runs on app or manuscript changes pushed to `main`. It checks canonical manuscript parity, builds the app, and deploys only the `aletheia-world` Hosting target for [app.aletheiaworld.org](https://app.aletheiaworld.org). It does not deploy the parent `aletheiaworld.org` site.
+
+Before the workflow can deploy, add the GitHub Actions repository secret `FIREBASE_SERVICE_ACCOUNT_ALETHEIA_WORLD` containing a service-account JSON key with Firebase Hosting deployment access to project `aletheia-world`. Store the key only in GitHub Actions Secrets; do not commit it to the repository.
 
 ## Emulators (optional)
 
