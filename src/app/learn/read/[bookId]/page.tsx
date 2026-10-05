@@ -50,6 +50,7 @@ function ReaderContent() {
   const currentBookId = book?.id ?? bookId;
   const chapter = chapters.find((item) => item.id === chapterId) ?? chapters[0];
   const index = chapters.findIndex((item) => item.id === chapter?.id);
+  const activeChapterId = chapter?.id ?? "";
   const allowed = book
     ? canAccessContent({
         accessLevel: book.accessLevel,
@@ -69,8 +70,8 @@ function ReaderContent() {
         frame = 0;
         const total = document.documentElement.scrollHeight - window.innerHeight;
         const next = total > 0 ? Math.min(100, Math.max(0, (window.scrollY / total) * 100)) : 0;
-        if (chapter) {
-          setScrollPosition((current) => current.chapterId === chapter.id ? { chapterId: chapter.id, percent: next } : current);
+        if (activeChapterId) {
+          setScrollPosition({ chapterId: activeChapterId, percent: next });
         }
       });
     };
@@ -82,7 +83,7 @@ function ReaderContent() {
       window.removeEventListener("resize", update);
       if (frame) window.cancelAnimationFrame(frame);
     };
-  }, [chapter?.id]);
+  }, [activeChapterId]);
 
   const currentScroll = scrollPosition.chapterId === chapter?.id ? scrollPosition.percent : 0;
   const bookProgress = chapters.length
