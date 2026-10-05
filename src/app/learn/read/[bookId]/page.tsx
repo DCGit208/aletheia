@@ -12,7 +12,7 @@ import { getBook, listChapters } from "@/lib/data/repository";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
 import { cn } from "@/lib/utils";
-import { ReaderMarkdown } from "@/components/books/reader-markdown";
+import { ReaderMarkdown, ReaderText } from "@/components/books/reader-markdown";
 import { Bookmark, Highlighter } from "lucide-react";
 import { createClientStore } from "@/lib/storage/client-store";
 import { DEFAULT_READER_SETTINGS, loadReaderSettings, READER_THEMES, saveReaderSettings, type ReaderThemeKey } from "@/lib/reader/settings";
@@ -105,7 +105,7 @@ function ReaderContent() {
     if (saved?.chapterId !== chapter.id || !saved.scrollPercent) return;
     const frame = window.requestAnimationFrame(() => {
       const total = document.documentElement.scrollHeight - window.innerHeight;
-      window.scrollTo({ top: Math.max(0, total * (saved.scrollPercent! / 100)), behavior: "instant" });
+      window.scrollTo({ top: Math.max(0, total * (saved.scrollPercent! / 100)), behavior: "auto" });
     });
     return () => window.cancelAnimationFrame(frame);
   }, [allowed, authLoading, book, chapter, saved?.chapterId, saved?.scrollPercent]);
@@ -297,7 +297,7 @@ function ReaderContent() {
                   .map((verse) => (
                     <li key={verse.n} id={`v${verse.n}`} className="mb-6 scroll-mt-24">
                       <p>
-                        <sup className="mr-2 font-heading text-sm text-[#6a542c]">{verse.n}</sup>
+                        <sup className="mr-2 font-heading text-sm text-[var(--reader-accent)]">{verse.n}</sup>
                         {verse.text}
                       </p>
                       {verse.commentary ? (
@@ -309,7 +309,7 @@ function ReaderContent() {
                     </li>
                   ))}
               </ol>
-              <p className="mx-auto mt-12 max-w-[38rem] text-sm leading-relaxed text-[#4a4033]">
+              <p className="mx-auto mt-12 max-w-[38rem] text-sm leading-relaxed text-[var(--reader-muted)]">
                 Genesis 1 is the open sample of MAKER BIBLE — Lordship Edition. The biblical text is Scripture. Notes
                 marked Commentary are editorial, not the text.
               </p>
