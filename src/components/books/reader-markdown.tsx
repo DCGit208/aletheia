@@ -25,6 +25,10 @@ function highlightText(text: string, keyPrefix: string, terms: string[]): ReactN
   return parts.length ? parts : [text];
 }
 
+export function ReaderText({ text, highlightTerms = [] }: { text: string; highlightTerms?: string[] }) {
+  return <>{highlightText(text, "reader-text", highlightTerms)}</>;
+}
+
 function inline(text: string, keyPrefix: string, depth = 0, highlightTerms: string[] = []): ReactNode[] {
   if (depth > 5) return [text];
   const token = /(\[\[.+?\]\]|\*\*.+?\*\*|__.+?__|\*[^*\n]+\*|_[^_\n]+_|\x60[^\x60]+\x60|\[[^\]]+\]\([^\s)]+\))/g;
@@ -136,9 +140,9 @@ export function ReaderMarkdown({
         }
         if (block.type === "table") {
           const [head, ...body] = block.rows;
-          return <div key={key} className="my-6 overflow-x-auto rounded-lg border border-[#6a542c]/20"><table className="w-full border-collapse text-left text-[0.92em]"><thead style={{ backgroundColor: "color-mix(in srgb, var(--reader-accent) 12%, transparent)" }}><tr>{head.map((cell, cellIndex) => <th key={cellIndex} className="border-b border-[var(--reader-border)] px-3 py-2 font-semibold">{inline(cell, `${key}-h-${cellIndex}`, 0, highlightTerms)}</th>)}</tr></thead><tbody>{body.map((row, rowIndex) => <tr key={rowIndex}>{head.map((_, cellIndex) => <td key={cellIndex} className="border-b border-[var(--reader-border)] px-3 py-2 align-top last:border-0">{inline(row[cellIndex] ?? "", `${key}-r-${rowIndex}-${cellIndex}`, 0, highlightTerms)}</td>)}</tr>)}</tbody></table></div>;
+          return <div key={key} className="my-6 overflow-x-auto rounded-lg border border-[var(--reader-border)]"><table className="w-full border-collapse text-left text-[0.92em]"><thead style={{ backgroundColor: "color-mix(in srgb, var(--reader-accent) 12%, transparent)" }}><tr>{head.map((cell, cellIndex) => <th key={cellIndex} className="border-b border-[var(--reader-border)] px-3 py-2 font-semibold">{inline(cell, `${key}-h-${cellIndex}`, 0, highlightTerms)}</th>)}</tr></thead><tbody>{body.map((row, rowIndex) => <tr key={rowIndex}>{head.map((_, cellIndex) => <td key={cellIndex} className="border-b border-[var(--reader-border)] px-3 py-2 align-top last:border-0">{inline(row[cellIndex] ?? "", `${key}-r-${rowIndex}-${cellIndex}`, 0, highlightTerms)}</td>)}</tr>)}</tbody></table></div>;
         }
-        return <p key={key} className="mb-5 leading-relaxed">{inline(block.text, key)}</p>;
+        return <p key={key} className="mb-5 leading-relaxed">{inline(block.text, key, 0, highlightTerms)}</p>;
       })}
     </div>
   );
