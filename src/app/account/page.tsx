@@ -77,11 +77,22 @@ export default function AccountPage() {
           <p className="text-sm text-muted-foreground">{t("state.empty")}</p>
         ) : (
           <div className="overflow-hidden rounded-2xl bg-card">
-            {bookmarks.map((item) => (
-              <p key={item.id} className="border-b border-white/6 px-4 py-3 last:border-0">
-                {item.label}
-              </p>
-            ))}
+            {bookmarks.map((item) => {
+              const [bookId, chapterId] = item.kind === "book" ? item.targetId.split("::") : [item.targetId, ""];
+              const href = item.kind === "book"
+                ? chapterId
+                  ? `/learn/read/${bookId}?chapter=${encodeURIComponent(chapterId)}`
+                  : `/learn/books/${bookId}`
+                : item.kind === "course"
+                  ? `/learn/courses/${item.targetId}`
+                  : "/account/library";
+              return (
+                <Link key={item.id} href={href} className="block border-b border-white/6 px-4 py-3 text-sm transition-colors hover:bg-card last:border-0">
+                  {item.label}
+                  <span className="ml-2 text-xs text-primary">Open</span>
+                </Link>
+              );
+            })}
           </div>
         )}
       </section>
