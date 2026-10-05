@@ -133,7 +133,8 @@ function ReaderContent() {
   }
 
   function captureSelection() {
-    setSelectedText(window.getSelection()?.toString().replace(/\\s+/g, " ").trim().slice(0, 241) ?? "");
+    const rawSelection = window.getSelection()?.toString().trim() ?? "";
+    setSelectedText(rawSelection.includes("\n") ? "" : rawSelection.replace(/\s+/g, " ").slice(0, 241));
   }
 
   const highlighted = useMemo(() => {
@@ -184,10 +185,12 @@ function ReaderContent() {
                 type="button"
                 className={cn(buttonVariants({ variant: chapterBookmarks.length ? "secondary" : "outline", size: "sm" }))}
                 aria-pressed={chapterBookmarks.length > 0}
+                disabled={!user}
+                title={!user ? "Sign in to save bookmarks" : "Save this chapter to Account"}
                 onClick={() => toggleBookmark("book", `${book.id}::${chapter.id}`, `${book.title} · ${chapter.number}. ${chapter.title}`)}
               >
                 <Bookmark aria-hidden="true" />
-                {chapterBookmarks.length ? "Bookmarked" : "Bookmark chapter"}
+                {chapterBookmarks.length ? "Bookmarked" : user ? "Bookmark chapter" : "Sign in to bookmark"}
               </button>
               <button
                 type="button"
