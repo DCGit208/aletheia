@@ -2,6 +2,9 @@
 
 import { Suspense, useEffect, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
+import Link from "next/link";
+import { buttonVariants } from "@/components/ui/button";
+import { cn } from "@/lib/utils";
 import { doc, onSnapshot } from "firebase/firestore";
 import { toast } from "sonner";
 import { TopicThread } from "@/components/community/topic-thread";
@@ -15,7 +18,7 @@ import { getFirebaseDb } from "@/lib/firebase/client";
 import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";
 
-function ProductTalk({ productId }: { productId: string }) {
+function ProductTalk({ productId, returnTo, returnTitle }: { productId: string; returnTo: string; returnTitle: string }) {
   const { t } = useI18n();
   const { user } = useAuth();
   const router = useRouter();
@@ -59,7 +62,12 @@ function ProductTalk({ productId }: { productId: string }) {
             })
               .then((result) => {
                 toast.success(t("community.threadOpened"));
-                router.replace(result.href);
+                const target = new URL(result.href, window.location.origin);
+                if (returnTo.startsWith("/") && !returnTo.startsWith("//")) {
+                  target.searchParams.set("returnTo", returnTo);
+                  target.searchParams.set("returnTitle", returnTitle);
+                }
+                router.replace(`${target.pathname}${target.search}`);
               })
               .catch((error) => toast.error(error instanceof Error ? error.message : t("state.error")))
               .finally(() => setBusy(false));
@@ -84,12 +92,20 @@ function TalkContent() {
   const query = {
     id: (searchParams.get("id") ?? "").trim(),
     product: (searchParams.get("product") ?? "").trim(),
+    returnTo: (searchParams.get("returnTo") ?? "").trim(),
+    returnTitle: (searchParams.get("returnTitle") ?? "").trim(),
   };
+  const safeReturnTo = query.returnTo.startsWith("/") && !query.returnTo.startsWith("//") ? query.returnTo : "";
+  const returnLink = safeReturnTo ? (
+    <Link href={safeReturnTo} className={cn(buttonVariants({ variant: "outline", size: "sm" }), "mb-5")}>
+      Back to {query.returnTitle || "the book"}
+    </Link>
+  ) : null;
 
-  if (query.product && !query.id) return <ProductTalk productId={query.product} />;
+  if (query.product && !query.id) return <div>{returnLink}<ProductTalk productId={query.product} returnTo={safeReturnTo} returnTitle={query.returnTitle} /></div>;
   const topicId = query.id || (query.product ? productTopicId(query.product) : "");
   if (!topicId) return <EmptyState title={t("community.missingTopic")} />;
-  return <TopicThread topicId={topicId} />;
+  return <div>{returnLink}<TopicThread topicId={topicId} /></div>;
 }
 
 export default function TalkPage() {

@@ -318,6 +318,7 @@ export interface ReadingProgress {
   bookId: string;
   chapterId: string;
   percent: number;
+  scrollPercent?: number;
   updatedAt: string;
 }
 
