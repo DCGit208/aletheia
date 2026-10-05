@@ -47,6 +47,7 @@ function ReaderContent() {
   const settings = useSyncExternalStore(settingsStore.subscribe, settingsStore.getSnapshot, () => DEFAULT_READER_SETTINGS);
   const theme = READER_THEMES[settings.theme];
 
+  const currentBookId = book?.id ?? bookId;
   const chapter = chapters.find((item) => item.id === chapterId) ?? chapters[0];
   const index = chapters.findIndex((item) => item.id === chapter?.id);
   const allowed = book
@@ -113,19 +114,19 @@ function ReaderContent() {
   function selectChapter(nextChapterId: string) {
     setScrollPosition({ chapterId: nextChapterId, percent: 0 });
     window.scrollTo({ top: 0, behavior: "auto" });
-    router.replace(`/learn/read/${book.id}?chapter=${encodeURIComponent(nextChapterId)}`, { scroll: false });
+    router.replace(`/learn/read/${bookId}?chapter=${encodeURIComponent(nextChapterId)}`, { scroll: false });
   }
 
-  const chapterBookmarks = bookmarks.filter((item) => item.kind === "book" && item.targetId === `${book.id}::${chapter.id}`);
-  const bookHighlights = settings.highlights.filter((item) => item.bookId === book.id && item.chapterId === chapter.id);
+  const chapterBookmarks = bookmarks.filter((item) => item.kind === "book" && item.targetId === `${currentBookId}::${chapter.id}`);
+  const bookHighlights = settings.highlights.filter((item) => item.bookId === currentBookId && item.chapterId === chapter.id);
   const selectedHighlightExists = bookHighlights.some((item) => item.text === selectedText);
 
   function saveHighlight() {
     const text = selectedText.trim().replace(/\s+/g, " ");
     if (!user || text.length < 3 || text.length > 240) return;
     const nextHighlights = selectedHighlightExists
-      ? settings.highlights.filter((item) => !(item.bookId === book.id && item.chapterId === chapter.id && item.text === text))
-      : [...settings.highlights, { bookId: book.id, chapterId: chapter.id, text }];
+      ? settings.highlights.filter((item) => !(item.bookId === currentBookId && item.chapterId === chapter.id && item.text === text))
+      : [...settings.highlights, { bookId: currentBookId, chapterId: chapter.id, text }];
     settingsStore.set({ ...settings, highlights: nextHighlights });
     setSelectedText("");
     window.getSelection()?.removeAllRanges();
