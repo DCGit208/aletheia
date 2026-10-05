@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useParams } from "next/navigation";
+import { useParams, useRouter, useSearchParams } from "next/navigation";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { DeniedState, EmptyState } from "@/components/content/query-state";
 import { buttonVariants } from "@/components/ui/button";
@@ -19,26 +19,20 @@ const fieldClass =
 
 export default function ReaderPage() {
   const { bookId } = useParams<{ bookId: string }>();
+  const router = useRouter();
+  const searchParams = useSearchParams();
   const { t } = useI18n();
   const { user, loading: authLoading } = useAuth();
   const { entitlements, progress, setReadingProgress } = useUserLibrary();
   const book = getBook(bookId);
   const chapters = listChapters(bookId);
   const saved = progress.find((item) => item.bookId === bookId);
-  const [chapterId, setChapterId] = useState(saved?.chapterId ?? chapters[0]?.id ?? "");
-  const [chapterInitialized, setChapterInitialized] = useState(false);
+  const requestedChapterId = searchParams.get("chapter");
+  const chapterId = chapters.find((item) => item.id === requestedChapterId)?.id ?? saved?.chapterId ?? chapters[0]?.id ?? "";
   const [query, setQuery] = useState("");
   const [fontSize, setFontSize] = useState(1.15);
   const [tocOpen, setTocOpen] = useState(false);
   const savedKey = useRef("");
-
-  useEffect(() => {
-    if (authLoading || chapterInitialized) return;
-    const requestedChapter = new URLSearchParams(window.location.search).get("chapter");
-    const initialChapter = chapters.find((item) => item.id === requestedChapter)?.id ?? saved?.chapterId ?? chapters[0]?.id ?? "";
-    setChapterId(initialChapter);
-    setChapterInitialized(true);
-  }, [authLoading, chapterInitialized, chapters, saved?.chapterId]);
 
   const chapter = chapters.find((item) => item.id === chapterId) ?? chapters[0];
   const index = chapters.findIndex((item) => item.id === chapter?.id);
@@ -54,12 +48,12 @@ export default function ReaderPage() {
     : false;
 
   useEffect(() => {
-    if (!chapterInitialized || !book || !chapter || !allowed) return;
+    if (authLoading || !book || !chapter || !allowed) return;
     const key = `${book.id}:${chapter.id}`;
     if (savedKey.current === key) return;
     savedKey.current = key;
     setReadingProgress(book.id, chapter.id, Math.round(((index + 1) / chapters.length) * 100));
-  }, [allowed, book, chapter, chapterInitialized, chapters.length, index, setReadingProgress]);
+  }, [allowed, authLoading, book, chapter, chapters.length, index, setReadingProgress]);
 
   const highlighted = useMemo(() => {
     if (!chapter) return "";
@@ -135,7 +129,7 @@ export default function ReaderPage() {
                       item.id === chapter.id && "bg-secondary font-medium",
                     )}
                     onClick={() => {
-                      setChapterId(item.id);
+                      router.replace(`/learn/read/${book.id}?chapter=${encodeURIComponent(item.id)}`, { scroll: false });
                       setTocOpen(false);
                     }}
                   >
@@ -209,7 +203,7 @@ export default function ReaderPage() {
           <button
             type="button"
             className={cn(buttonVariants({ variant: "outline" }))}
-            onClick={() => setChapterId(chapters[index - 1].id)}
+            onClick={() => router.replace(`/learn/read/${book.id}?chapter=${encodeURIComponent(chapters[index - 1].id)}`, { scroll: false })}
           >
             {t("reader.previous")}
           </button>
@@ -217,7 +211,7 @@ export default function ReaderPage() {
           <span />
         )}
         {chapters[index + 1] ? (
-          <button type="button" className={cn(buttonVariants())} onClick={() => setChapterId(chapters[index + 1].id)}>
+          <button type="button" className={cn(buttonVariants())} onClick={() => router.replace(`/learn/read/${book.id}?chapter=${encodeURIComponent(chapters[index + 1].id)}`, { scroll: false })}>
             {t("reader.next")}
           </button>
         ) : (
