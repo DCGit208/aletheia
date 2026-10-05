@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useParams, useRouter, useSearchParams } from "next/navigation";
-import { useEffect, useMemo, useRef, useState } from "react";
+import { Suspense, useEffect, useMemo, useRef, useState } from "react";
 import { DeniedState, EmptyState } from "@/components/content/query-state";
 import { buttonVariants } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet";
@@ -17,7 +17,7 @@ import { ReaderMarkdown } from "@/components/books/reader-markdown";
 const fieldClass =
   "h-8 w-full rounded-lg border border-input bg-transparent px-2.5 text-sm outline-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50";
 
-export default function ReaderPage() {
+function ReaderContent() {
   const { bookId } = useParams<{ bookId: string }>();
   const router = useRouter();
   const searchParams = useSearchParams();
@@ -221,5 +221,14 @@ export default function ReaderPage() {
         )}
       </footer>
     </div>
+  );
+}
+
+
+export default function ReaderPage() {
+  return (
+    <Suspense fallback={<div className="min-h-dvh bg-[#f3eee4]" aria-busy="true" />}>
+      <ReaderContent />
+    </Suspense>
   );
 }
