@@ -8,6 +8,10 @@ import { Label } from "@/components/ui/label";
 import { InstallCard } from "@/components/pwa/install-card";
 import { canReviewManualPayments } from "@/lib/auth/permissions";
 import { useAuth } from "@/lib/auth/provider";
+import { createClientStore } from "@/lib/storage/client-store";
+import { DEFAULT_READER_SETTINGS, loadReaderSettings, saveReaderSettings } from "@/lib/reader/settings";
+import { listChapters } from "@/lib/data/repository";
+import { useMemo, useSyncExternalStore } from "react";
 import { getBook, getCourse } from "@/lib/data/repository";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
@@ -26,6 +30,11 @@ export default function AccountPage() {
   const { t, locale, setLocale } = useI18n();
   const { user, signOut } = useAuth();
   const { bookmarks, progress, enrollments } = useUserLibrary();
+  const settingsStore = useMemo(
+    () => createClientStore(() => loadReaderSettings(user?.uid ?? "guest"), (value) => saveReaderSettings(user?.uid ?? "guest", value)),
+    [user?.uid],
+  );
+  const readerSettings = useSyncExternalStore(settingsStore.subscribe, settingsStore.getSnapshot, () => DEFAULT_READER_SETTINGS);
 
   if (!user) {
     return (
@@ -90,6 +99,32 @@ export default function AccountPage() {
                 <Link key={item.id} href={href} className="block border-b border-white/6 px-4 py-3 text-sm transition-colors hover:bg-card last:border-0">
                   {item.label}
                   <span className="ml-2 text-xs text-primary">Open</span>
+                </Link>
+              );
+            })}
+          </div>
+        )}
+      </section>
+
+      <section className="mb-8">
+        <h2 className="mb-3 font-heading text-xl">Highlights</h2>
+        {readerSettings.highlights.length === 0 ? (
+          <p className="text-sm text-muted-foreground">Select a passage in a book and save it with Highlight selection.</p>
+        ) : (
+          <div className="overflow-hidden rounded-2xl bg-card">
+            {readerSettings.highlights.map((item, index) => {
+              const book = getBook(item.bookId);
+              const chapter = listChapters(item.bookId).find((entry) => entry.id === item.chapterId);
+              return (
+                <Link
+                  key={item.bookId + "-" + item.chapterId + "-" + index}
+                  href={"/learn/read/" + item.bookId + "?chapter=" + encodeURIComponent(item.chapterId)}
+                  className="block border-b border-white/6 px-4 py-3 transition-colors hover:bg-background last:border-0"
+                >
+                  <span className="block text-xs text-muted-foreground">
+                    {book?.title ?? item.bookId} · {chapter ? chapter.number + ". " + chapter.title : ""}
+                  </span>
+                  <span className="mt-1 block text-sm">{item.text}</span>
                 </Link>
               );
             })}
