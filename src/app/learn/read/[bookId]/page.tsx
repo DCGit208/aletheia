@@ -12,6 +12,7 @@ import { getBook, listChapters } from "@/lib/data/repository";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
 import { cn } from "@/lib/utils";
+import { ReaderMarkdown } from "@/components/books/reader-markdown";
 
 const fieldClass =
   "h-8 w-full rounded-lg border border-input bg-transparent px-2.5 text-sm outline-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50";
@@ -19,16 +20,25 @@ const fieldClass =
 export default function ReaderPage() {
   const { bookId } = useParams<{ bookId: string }>();
   const { t } = useI18n();
-  const { user } = useAuth();
+  const { user, loading: authLoading } = useAuth();
   const { entitlements, progress, setReadingProgress } = useUserLibrary();
   const book = getBook(bookId);
   const chapters = listChapters(bookId);
   const saved = progress.find((item) => item.bookId === bookId);
   const [chapterId, setChapterId] = useState(saved?.chapterId ?? chapters[0]?.id ?? "");
+  const [chapterInitialized, setChapterInitialized] = useState(false);
   const [query, setQuery] = useState("");
   const [fontSize, setFontSize] = useState(1.15);
   const [tocOpen, setTocOpen] = useState(false);
   const savedKey = useRef("");
+
+  useEffect(() => {
+    if (authLoading || chapterInitialized) return;
+    const requestedChapter = new URLSearchParams(window.location.search).get("chapter");
+    const initialChapter = chapters.find((item) => item.id === requestedChapter)?.id ?? saved?.chapterId ?? chapters[0]?.id ?? "";
+    setChapterId(initialChapter);
+    setChapterInitialized(true);
+  }, [authLoading, chapterInitialized, chapters, saved?.chapterId]);
 
   const chapter = chapters.find((item) => item.id === chapterId) ?? chapters[0];
   const index = chapters.findIndex((item) => item.id === chapter?.id);
@@ -44,12 +54,12 @@ export default function ReaderPage() {
     : false;
 
   useEffect(() => {
-    if (!book || !chapter || !allowed) return;
+    if (!chapterInitialized || !book || !chapter || !allowed) return;
     const key = `${book.id}:${chapter.id}`;
     if (savedKey.current === key) return;
     savedKey.current = key;
     setReadingProgress(book.id, chapter.id, Math.round(((index + 1) / chapters.length) * 100));
-  }, [allowed, book, chapter, chapters.length, index, setReadingProgress]);
+  }, [allowed, book, chapter, chapterInitialized, chapters.length, index, setReadingProgress]);
 
   const highlighted = useMemo(() => {
     if (!chapter) return "";
@@ -186,21 +196,11 @@ export default function ReaderPage() {
               </p>
             </>
           ) : (
-            <div className="reader-prose mx-auto whitespace-pre-line" style={{ ["--reader-size" as string]: `${fontSize}rem` }}>
-              {highlighted.split("\n").map((paragraph, paragraphIndex) => (
-                <p key={paragraphIndex}>
-                  {paragraph.split(/(\[\[.*?\]\])/g).map((part, partIndex) =>
-                    part.startsWith("[[") ? (
-                      <mark key={partIndex} className="bg-accent">
-                        {part.slice(2, -2)}
-                      </mark>
-                    ) : (
-                      <span key={partIndex}>{part}</span>
-                    ),
-                  )}
-                </p>
-              ))}
-            </div>
+            <ReaderMarkdown
+              content={highlighted}
+              className="reader-prose mx-auto max-w-[38rem]"
+              fontSize={fontSize}
+            />
           )}
       </article>
 
