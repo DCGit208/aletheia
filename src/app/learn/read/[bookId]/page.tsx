@@ -122,7 +122,7 @@ function ReaderContent() {
   const selectedHighlightExists = bookHighlights.some((item) => item.text === selectedText);
 
   function saveHighlight() {
-    const text = selectedText.trim().replace(/\\s+/g, " ");
+    const text = selectedText.trim().replace(/\s+/g, " ");
     if (!user || text.length < 3 || text.length > 240) return;
     const nextHighlights = selectedHighlightExists
       ? settings.highlights.filter((item) => !(item.bookId === book.id && item.chapterId === chapter.id && item.text === text))
