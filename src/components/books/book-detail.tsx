@@ -98,7 +98,7 @@ export function BookDetail({ book, context }: { book: Book; context: "learn" | "
             </Button>
           ) : null}
           <Link
-            href={`/community/talk?product=${encodeURIComponent(product?.id ?? book.productId ?? book.id)}`}
+            href={`/community/talk?product=${encodeURIComponent(product?.id ?? book.productId ?? book.id)}&returnTo=${encodeURIComponent(`/learn/books/${book.id}`)}&returnTitle=${encodeURIComponent(book.title)}`}
             className={cn(buttonVariants({ variant: "outline" }), "h-11 rounded-full px-5")}
           >
             {t("community.discuss")}
