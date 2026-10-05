@@ -35,11 +35,10 @@ function ReaderContent() {
   const [query, setQuery] = useState("");
   const [fontSize, setFontSize] = useState(1.15);
   const [tocOpen, setTocOpen] = useState(false);
-  const [scrollPercent, setScrollPercent] = useState(0);
+  const [scrollPosition, setScrollPosition] = useState({ chapterId, percent: 0 });
   const [selectedText, setSelectedText] = useState("");
   const savedKey = useRef("");
   const restoredScrollKey = useRef("");
-  const readingPositionRef = useRef({ chapterId, scrollPercent: 0 });
   const userId = user?.uid ?? "guest";
   const settingsStore = useMemo(
     () => createClientStore(() => loadReaderSettings(userId), (value) => saveReaderSettings(userId, value)),
@@ -69,21 +68,22 @@ function ReaderContent() {
         frame = 0;
         const total = document.documentElement.scrollHeight - window.innerHeight;
         const next = total > 0 ? Math.min(100, Math.max(0, (window.scrollY / total) * 100)) : 0;
-        if (readingPositionRef.current.chapterId === chapter?.id) {
-          readingPositionRef.current = { chapterId: chapter?.id ?? "", scrollPercent: next };
-          setScrollPercent(next);
+        if (chapter) {
+          setScrollPosition((current) => current.chapterId === chapter.id ? { chapterId: chapter.id, percent: next } : current);
         }
       });
     };
     window.addEventListener("scroll", update, { passive: true });
+    window.addEventListener("resize", update);
     update();
     return () => {
       window.removeEventListener("scroll", update);
+      window.removeEventListener("resize", update);
       if (frame) window.cancelAnimationFrame(frame);
     };
   }, [chapter?.id]);
 
-  const currentScroll = readingPositionRef.current.chapterId === chapter?.id ? scrollPercent : 0;
+  const currentScroll = scrollPosition.chapterId === chapter?.id ? scrollPosition.percent : 0;
   const bookProgress = chapters.length
     ? Math.min(100, Math.max(0, ((index + currentScroll / 100) / chapters.length) * 100))
     : 0;
@@ -111,8 +111,7 @@ function ReaderContent() {
   }, [allowed, authLoading, book, chapter, saved?.chapterId, saved?.scrollPercent]);
 
   function selectChapter(nextChapterId: string) {
-    readingPositionRef.current = { chapterId: nextChapterId, scrollPercent: 0 };
-    setScrollPercent(0);
+    setScrollPosition({ chapterId: nextChapterId, percent: 0 });
     window.scrollTo({ top: 0, behavior: "auto" });
     router.replace(`/learn/read/${book.id}?chapter=${encodeURIComponent(nextChapterId)}`, { scroll: false });
   }
