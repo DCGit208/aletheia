@@ -138,12 +138,16 @@ function ReaderContent() {
     setSelectedText(rawSelection.includes("\n") ? "" : rawSelection.replace(/\s+/g, " ").slice(0, 241));
   }
 
-  const highlighted = useMemo(() => {
+  const highlighted = !chapter
+    ? ""
+    : !query.trim()
+      ? chapter.body
+      : chapter.body.replace(new RegExp(query.replace(/[.*+?^${}()|[\]\\]/g, "\\  const highlighted = useMemo(() => {
     if (!chapter) return "";
     if (!query.trim()) return chapter.body;
     const escaped = query.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
     return chapter.body.replace(new RegExp(escaped, "ig"), (match) => `[[${match}]]`);
-  }, [chapter, query]);
+  }, [chapter, query]);"), "ig"), (match) => `[[${match}]]`);
 
   if (!book || !chapter) return <EmptyState title="Book not found." />;
   if (!allowed) {
