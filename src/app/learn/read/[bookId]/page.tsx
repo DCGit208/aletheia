@@ -26,7 +26,7 @@ function ReaderContent() {
   const searchParams = useSearchParams();
   const { t } = useI18n();
   const { user, loading: authLoading } = useAuth();
-  const { entitlements, progress, setReadingProgress } = useUserLibrary();
+  const { entitlements, progress, bookmarks, setReadingProgress, toggleBookmark } = useUserLibrary();
   const book = getBook(bookId);
   const chapters = listChapters(bookId);
   const saved = progress.find((item) => item.bookId === bookId);
@@ -317,6 +317,7 @@ function ReaderContent() {
           ) : (
             <ReaderMarkdown
               content={highlighted}
+              highlightTerms={bookHighlights.map((item) => item.text)}
               className="reader-prose mx-auto max-w-[38rem]"
               fontSize={fontSize}
             />
