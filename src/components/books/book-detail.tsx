@@ -121,7 +121,7 @@ export function BookDetail({ book, context }: { book: Book; context: "learn" | "
               <li key={chapter.id}>
                 {open ? (
                   <Link
-                    href={`/learn/read/${book.id}`}
+                    href={`/learn/read/${book.id}?chapter=${encodeURIComponent(chapter.id)}`}
                     className="flex justify-between rounded-lg px-3 py-2 ring-1 ring-foreground/10 transition-colors hover:bg-card"
                   >
                     <span>

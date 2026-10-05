@@ -1,8 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import { useParams } from "next/navigation";
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useParams, useRouter, useSearchParams } from "next/navigation";
+import { Suspense, useEffect, useMemo, useRef, useState } from "react";
 import { DeniedState, EmptyState } from "@/components/content/query-state";
 import { buttonVariants } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet";
@@ -12,19 +12,23 @@ import { getBook, listChapters } from "@/lib/data/repository";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
 import { cn } from "@/lib/utils";
+import { ReaderMarkdown } from "@/components/books/reader-markdown";
 
 const fieldClass =
   "h-8 w-full rounded-lg border border-input bg-transparent px-2.5 text-sm outline-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50";
 
-export default function ReaderPage() {
+function ReaderContent() {
   const { bookId } = useParams<{ bookId: string }>();
+  const router = useRouter();
+  const searchParams = useSearchParams();
   const { t } = useI18n();
-  const { user } = useAuth();
+  const { user, loading: authLoading } = useAuth();
   const { entitlements, progress, setReadingProgress } = useUserLibrary();
   const book = getBook(bookId);
   const chapters = listChapters(bookId);
   const saved = progress.find((item) => item.bookId === bookId);
-  const [chapterId, setChapterId] = useState(saved?.chapterId ?? chapters[0]?.id ?? "");
+  const requestedChapterId = searchParams.get("chapter");
+  const chapterId = chapters.find((item) => item.id === requestedChapterId)?.id ?? saved?.chapterId ?? chapters[0]?.id ?? "";
   const [query, setQuery] = useState("");
   const [fontSize, setFontSize] = useState(1.15);
   const [tocOpen, setTocOpen] = useState(false);
@@ -44,12 +48,12 @@ export default function ReaderPage() {
     : false;
 
   useEffect(() => {
-    if (!book || !chapter || !allowed) return;
+    if (authLoading || !book || !chapter || !allowed) return;
     const key = `${book.id}:${chapter.id}`;
     if (savedKey.current === key) return;
     savedKey.current = key;
     setReadingProgress(book.id, chapter.id, Math.round(((index + 1) / chapters.length) * 100));
-  }, [allowed, book, chapter, chapters.length, index, setReadingProgress]);
+  }, [allowed, authLoading, book, chapter, chapters.length, index, setReadingProgress]);
 
   const highlighted = useMemo(() => {
     if (!chapter) return "";
@@ -125,7 +129,7 @@ export default function ReaderPage() {
                       item.id === chapter.id && "bg-secondary font-medium",
                     )}
                     onClick={() => {
-                      setChapterId(item.id);
+                      router.replace(`/learn/read/${book.id}?chapter=${encodeURIComponent(item.id)}`, { scroll: false });
                       setTocOpen(false);
                     }}
                   >
@@ -186,21 +190,11 @@ export default function ReaderPage() {
               </p>
             </>
           ) : (
-            <div className="reader-prose mx-auto whitespace-pre-line" style={{ ["--reader-size" as string]: `${fontSize}rem` }}>
-              {highlighted.split("\n").map((paragraph, paragraphIndex) => (
-                <p key={paragraphIndex}>
-                  {paragraph.split(/(\[\[.*?\]\])/g).map((part, partIndex) =>
-                    part.startsWith("[[") ? (
-                      <mark key={partIndex} className="bg-accent">
-                        {part.slice(2, -2)}
-                      </mark>
-                    ) : (
-                      <span key={partIndex}>{part}</span>
-                    ),
-                  )}
-                </p>
-              ))}
-            </div>
+            <ReaderMarkdown
+              content={highlighted}
+              className="reader-prose mx-auto max-w-[38rem]"
+              fontSize={fontSize}
+            />
           )}
       </article>
 
@@ -209,7 +203,7 @@ export default function ReaderPage() {
           <button
             type="button"
             className={cn(buttonVariants({ variant: "outline" }))}
-            onClick={() => setChapterId(chapters[index - 1].id)}
+            onClick={() => router.replace(`/learn/read/${book.id}?chapter=${encodeURIComponent(chapters[index - 1].id)}`, { scroll: false })}
           >
             {t("reader.previous")}
           </button>
@@ -217,7 +211,7 @@ export default function ReaderPage() {
           <span />
         )}
         {chapters[index + 1] ? (
-          <button type="button" className={cn(buttonVariants())} onClick={() => setChapterId(chapters[index + 1].id)}>
+          <button type="button" className={cn(buttonVariants())} onClick={() => router.replace(`/learn/read/${book.id}?chapter=${encodeURIComponent(chapters[index + 1].id)}`, { scroll: false })}>
             {t("reader.next")}
           </button>
         ) : (
@@ -227,5 +221,14 @@ export default function ReaderPage() {
         )}
       </footer>
     </div>
+  );
+}
+
+
+export default function ReaderPage() {
+  return (
+    <Suspense fallback={<div className="min-h-dvh bg-[#f3eee4]" aria-busy="true" />}>
+      <ReaderContent />
+    </Suspense>
   );
 }
