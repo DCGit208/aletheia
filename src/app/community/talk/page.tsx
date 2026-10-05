@@ -2,6 +2,9 @@
 
 import { Suspense, useEffect, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
+import Link from "next/link";
+import { buttonVariants } from "@/components/ui/button";
+import { cn } from "@/lib/utils";
 import { doc, onSnapshot } from "firebase/firestore";
 import { toast } from "sonner";
 import { TopicThread } from "@/components/community/topic-thread";
@@ -84,12 +87,20 @@ function TalkContent() {
   const query = {
     id: (searchParams.get("id") ?? "").trim(),
     product: (searchParams.get("product") ?? "").trim(),
+    returnTo: (searchParams.get("returnTo") ?? "").trim(),
+    returnTitle: (searchParams.get("returnTitle") ?? "").trim(),
   };
+  const safeReturnTo = query.returnTo.startsWith("/") && !query.returnTo.startsWith("//") ? query.returnTo : "";
+  const returnLink = safeReturnTo ? (
+    <Link href={safeReturnTo} className={cn(buttonVariants({ variant: "outline", size: "sm" }), "mb-5")}>
+      Back to {query.returnTitle || "the book"}
+    </Link>
+  ) : null;
 
-  if (query.product && !query.id) return <ProductTalk productId={query.product} />;
+  if (query.product && !query.id) return <div>{returnLink}<ProductTalk productId={query.product} /></div>;
   const topicId = query.id || (query.product ? productTopicId(query.product) : "");
   if (!topicId) return <EmptyState title={t("community.missingTopic")} />;
-  return <TopicThread topicId={topicId} />;
+  return <div>{returnLink}<TopicThread topicId={topicId} /></div>;
 }
 
 export default function TalkPage() {
