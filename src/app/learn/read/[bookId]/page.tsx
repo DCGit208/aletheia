@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useParams, useRouter, useSearchParams } from "next/navigation";
 import { Suspense, useEffect, useMemo, useRef, useState } from "react";
+import type { CSSProperties } from "react";
 import { DeniedState, EmptyState } from "@/components/content/query-state";
 import { buttonVariants } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet";
@@ -150,7 +151,7 @@ function ReaderContent() {
         color: theme.foreground,
         "--reader-accent": theme.accent,
         "--reader-muted": theme.muted,
-      } as React.CSSProperties}
+      } as CSSProperties}
     >
       <header
         className="sticky top-0 z-30 border-b backdrop-blur"
