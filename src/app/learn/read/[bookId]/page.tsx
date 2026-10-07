@@ -32,7 +32,9 @@ function ReaderContent() {
   const [query, setQuery] = useState("");
   const [fontSize, setFontSize] = useState(1.15);
   const [tocOpen, setTocOpen] = useState(false);
+  const articleRef = useRef<HTMLElement | null>(null);
   const savedKey = useRef("");
+  const [readingPercent, setReadingPercent] = useState(0);
 
   const chapter = chapters.find((item) => item.id === chapterId) ?? chapters[0];
   const index = chapters.findIndex((item) => item.id === chapter?.id);
@@ -53,7 +55,33 @@ function ReaderContent() {
     if (savedKey.current === key) return;
     savedKey.current = key;
     setReadingProgress(book.id, chapter.id, Math.round(((index + 1) / chapters.length) * 100));
+    setReadingPercent(Math.round(((index + 1) / chapters.length) * 1000) / 10);
   }, [allowed, authLoading, book, chapter, chapters.length, index, setReadingProgress]);
+
+  useEffect(() => {
+    if (!allowed || !chapter || index < 0) return;
+    const article = articleRef.current;
+    if (!article) return;
+    const update = () => {
+      const top = article.getBoundingClientRect().top + window.scrollY;
+      const max = Math.max(article.scrollHeight - window.innerHeight, 0);
+      const position = max > 0 ? Math.min(Math.max(window.scrollY - top, 0), max) / max : 1;
+      setReadingPercent(Math.round(Math.min(100, ((index + position) / chapters.length) * 100) * 10) / 10);
+    };
+    let frame = 0;
+    const onScroll = () => {
+      if (frame) return;
+      frame = window.requestAnimationFrame(() => { frame = 0; update(); });
+    };
+    window.addEventListener("scroll", onScroll, { passive: true });
+    window.addEventListener("resize", onScroll);
+    update();
+    return () => {
+      window.removeEventListener("scroll", onScroll);
+      window.removeEventListener("resize", onScroll);
+      if (frame) window.cancelAnimationFrame(frame);
+    };
+  }, [allowed, chapter, chapters.length, index]);
 
   const highlighted = useMemo(() => {
     if (!chapter) return "";
@@ -83,8 +111,11 @@ function ReaderContent() {
           <div className="min-w-0 flex-1">
             <p className="truncate font-heading text-sm">{book.title}</p>
             <p className="text-xs text-muted-foreground">
-              {t("reader.progress")}: {Math.round(((index + 1) / chapters.length) * 100)}%
+              {t("reader.progress")}: {readingPercent.toFixed(1)}% · Chapter {index + 1} of {chapters.length}
             </p>
+            <div className="mt-1 h-1 w-full overflow-hidden rounded-full bg-[#1a1712]/10" role="progressbar" aria-label="Reading progress" aria-valuemin={0} aria-valuemax={100} aria-valuenow={readingPercent}>
+              <div className="h-full rounded-full bg-[#6a542c]" style={{ width: `${readingPercent}%` }} />
+            </div>
           </div>
           <button
             type="button"
@@ -155,7 +186,7 @@ function ReaderContent() {
         />
       </div>
 
-      <article className="mx-auto px-4 py-6">
+      <article ref={articleRef} className="mx-auto px-4 py-6">
         <h1 className="mx-auto mb-4 max-w-[38rem] font-heading text-3xl tracking-wide">{chapter.title}</h1>
           {chapter.verses?.length ? (
             <>
