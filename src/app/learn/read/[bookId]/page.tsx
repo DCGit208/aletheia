@@ -33,6 +33,11 @@ const READER_THEMES: Record<ReaderTheme, {
   "deep-dark": { label: "Deep Dark", background: "#080808", foreground: "#e8e8e8", muted: "#969696", accent: "#d2b278", border: "rgba(232,232,232,0.14)", track: "rgba(232,232,232,0.12)" },
 };
 
+
+const fieldClass =
+  "h-8 w-full rounded-lg border px-2.5 text-sm outline-none focus-visible:ring-3";
+
+
 function ReaderContent() {
   const { bookId } = useParams<{ bookId: string }>();
   const router = useRouter();
