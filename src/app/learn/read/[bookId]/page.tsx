@@ -16,6 +16,20 @@ import { cn } from "@/lib/utils";
 import { ReaderMarkdown } from "@/components/books/reader-markdown";
 
 type ReaderTheme = "light" | "sepia" | "gray" | "dark" | "deep-dark";
+type ReaderFont = "fraunces" | "georgia" | "sans";
+type ReaderLeading = "comfortable" | "relaxed" | "airy";
+
+const READER_FONTS: Record<ReaderFont, { label: string; family: string }> = {
+  fraunces: { label: "Aletheia Serif", family: "var(--font-heading), ui-serif, Georgia, serif" },
+  georgia: { label: "Classic Serif", family: "Georgia, 'Times New Roman', serif" },
+  sans: { label: "Modern Sans", family: "var(--font-source-sans), ui-sans-serif, sans-serif" },
+};
+
+const READER_LEADING: Record<ReaderLeading, { label: string; value: number }> = {
+  comfortable: { label: "Comfortable", value: 1.72 },
+  relaxed: { label: "Relaxed", value: 1.84 },
+  airy: { label: "Airy", value: 1.98 },
+};
 
 const READER_THEMES: Record<ReaderTheme, {
   label: string;
@@ -52,6 +66,16 @@ function ReaderContent() {
   const chapterId = chapters.find((item) => item.id === requestedChapterId)?.id ?? saved?.chapterId ?? chapters[0]?.id ?? "";
   const [query, setQuery] = useState("");
   const [fontSize, setFontSize] = useState(1.15);
+  const [readerFont, setReaderFont] = useState<ReaderFont>(() => {
+    if (typeof window === "undefined") return "fraunces";
+    const stored = window.localStorage.getItem("aletheia-reader-font");
+    return stored && stored in READER_FONTS ? (stored as ReaderFont) : "fraunces";
+  });
+  const [readerLeading, setReaderLeading] = useState<ReaderLeading>(() => {
+    if (typeof window === "undefined") return "comfortable";
+    const stored = window.localStorage.getItem("aletheia-reader-leading");
+    return stored && stored in READER_LEADING ? (stored as ReaderLeading) : "comfortable";
+  });
   const [tocOpen, setTocOpen] = useState(false);
   const articleRef = useRef<HTMLElement | null>(null);
   const savedKey = useRef("");
@@ -78,6 +102,14 @@ function ReaderContent() {
   useEffect(() => {
     window.localStorage.setItem("aletheia-reader-theme", readerTheme);
   }, [readerTheme]);
+
+  useEffect(() => {
+    window.localStorage.setItem("aletheia-reader-font", readerFont);
+  }, [readerFont]);
+
+  useEffect(() => {
+    window.localStorage.setItem("aletheia-reader-leading", readerLeading);
+  }, [readerLeading]);
 
   useEffect(() => {
     if (authLoading || !book || !chapter || !allowed) return;
@@ -146,6 +178,8 @@ function ReaderContent() {
   }
 
   const theme = READER_THEMES[readerTheme];
+  const font = READER_FONTS[readerFont];
+  const leading = READER_LEADING[readerLeading];
 
   return (
     <div
@@ -214,10 +248,52 @@ function ReaderContent() {
               ))}
             </div>
           </details>
+          <details className="relative shrink-0">
+            <summary
+              className="flex h-8 cursor-pointer list-none items-center rounded-lg border px-2 text-sm [&::-webkit-details-marker]:hidden"
+              style={{ borderColor: theme.border }}
+              aria-label="Reading typography"
+              title="Reading typography"
+            >
+              Aa
+            </summary>
+            <div className="absolute right-0 top-10 z-50 w-56 rounded-xl border p-2 shadow-xl" style={{ backgroundColor: theme.background, borderColor: theme.border }}>
+              <p className="px-2 pb-1 text-[0.68rem] font-medium uppercase tracking-[0.14em]" style={{ color: theme.muted }}>Typeface</p>
+              {(Object.entries(READER_FONTS) as [ReaderFont, (typeof READER_FONTS)[ReaderFont]][]).map(([key, option]) => (
+                <button
+                  key={key}
+                  type="button"
+                  className="flex w-full items-center justify-between rounded-lg px-2 py-2 text-left text-sm"
+                  style={{ backgroundColor: key === readerFont ? theme.track : "transparent", color: theme.foreground }}
+                  onClick={(event) => {
+                    setReaderFont(key);
+                    event.currentTarget.closest("details")?.removeAttribute("open");
+                  }}
+                >
+                  <span style={{ fontFamily: option.family }}>{option.label}</span>
+                  {key === readerFont ? <span aria-hidden="true">✓</span> : null}
+                </button>
+              ))}
+              <div className="my-1 border-t" style={{ borderColor: theme.border }} />
+              <p className="px-2 pb-1 text-[0.68rem] font-medium uppercase tracking-[0.14em]" style={{ color: theme.muted }}>Line spacing</p>
+              {(Object.entries(READER_LEADING) as [ReaderLeading, (typeof READER_LEADING)[ReaderLeading]][]).map(([key, option]) => (
+                <button
+                  key={key}
+                  type="button"
+                  className="flex w-full items-center justify-between rounded-lg px-2 py-2 text-left text-sm"
+                  style={{ backgroundColor: key === readerLeading ? theme.track : "transparent", color: theme.foreground }}
+                  onClick={() => setReaderLeading(key)}
+                >
+                  <span>{option.label}</span>
+                  {key === readerLeading ? <span aria-hidden="true">✓</span> : null}
+                </button>
+              ))}
+            </div>
+          </details>
           <button
             type="button"
             className={cn(buttonVariants({ variant: "ghost", size: "sm" }))}
-            onClick={() => setFontSize((size) => Math.min(1.5, size + 0.1))}
+            onClick={() => setFontSize((size) => Math.min(1.5, Math.round((size + 0.1) * 100) / 100))}
             aria-label="Increase type"
           >
             A+
@@ -225,7 +301,7 @@ function ReaderContent() {
           <button
             type="button"
             className={cn(buttonVariants({ variant: "ghost", size: "sm" }))}
-            onClick={() => setFontSize((size) => Math.max(0.95, size - 0.1))}
+            onClick={() => setFontSize((size) => Math.max(0.95, Math.round((size - 0.1) * 100) / 100))}
             aria-label="Decrease type"
           >
             A-
@@ -276,7 +352,7 @@ function ReaderContent() {
         />
       </div>
 
-      <article ref={articleRef} className="mx-auto px-4 py-6" style={{ color: theme.foreground }}>
+      <article ref={articleRef} className="mx-auto px-4 py-6" style={{ color: theme.foreground, "--reader-font-family": font.family, "--reader-leading": leading.value } as CSSProperties}>
         <h1 className="mx-auto mb-4 max-w-[38rem] font-heading text-3xl tracking-wide">{chapter.title}</h1>
           {chapter.verses?.length ? (
             <>
