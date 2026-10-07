@@ -49,7 +49,8 @@ function ReaderContent() {
   const [tocOpen, setTocOpen] = useState(false);
   const articleRef = useRef<HTMLElement | null>(null);
   const savedKey = useRef("");
-  const [chapterPercent, setChapterPercent] = useState(0);\n  const [readerTheme, setReaderTheme] = useState<ReaderTheme>("sepia");
+  const [chapterPercent, setChapterPercent] = useState(0);
+  const [readerTheme, setReaderTheme] = useState<ReaderTheme>("sepia");
 
   const chapter = chapters.find((item) => item.id === chapterId) ?? chapters[0];
   const index = chapters.findIndex((item) => item.id === chapter?.id);
@@ -63,6 +64,15 @@ function ReaderContent() {
         user,
       })
     : false;
+
+  useEffect(() => {
+    const stored = window.localStorage.getItem("aletheia-reader-theme");
+    if (stored && stored in READER_THEMES) setReaderTheme(stored as ReaderTheme);
+  }, []);
+
+  useEffect(() => {
+    window.localStorage.setItem("aletheia-reader-theme", readerTheme);
+  }, [readerTheme]);
 
   useEffect(() => {
     if (authLoading || !book || !chapter || !allowed) return;
@@ -130,9 +140,26 @@ function ReaderContent() {
     );
   }
 
+  const theme = READER_THEMES[readerTheme];
+
   return (
-    <div className="min-h-dvh bg-[#f3eee4] text-[#1a1712]">
-      <header className="sticky top-0 z-30 border-b border-[#1a1712]/10 bg-[#f3eee4]/95 backdrop-blur" style={{ paddingTop: "env(safe-area-inset-top)" }}>
+    <div
+      className="min-h-dvh transition-colors"
+      style={{
+        backgroundColor: theme.background,
+        color: theme.foreground,
+        "--reader-accent": theme.accent,
+        "--reader-muted": theme.muted,
+      } as React.CSSProperties}
+    >
+      <header
+        className="sticky top-0 z-30 border-b backdrop-blur"
+        style={{
+          paddingTop: "env(safe-area-inset-top)",
+          borderColor: theme.border,
+          backgroundColor: theme.background + "f2",
+        }}
+      >
         <div className="mx-auto flex max-w-3xl items-center gap-2 px-4 py-2">
           <Link href={`/learn/books/${book.id}`} className={cn(buttonVariants({ variant: "ghost", size: "sm" }))}>
             Close
@@ -237,6 +264,7 @@ function ReaderContent() {
         <input
           id="book-search"
           className={fieldClass}
+          style={{ borderColor: theme.border, backgroundColor: theme.background, color: theme.foreground }}
           value={query}
           onChange={(event) => setQuery(event.target.value)}
           placeholder={t("reader.search")}
