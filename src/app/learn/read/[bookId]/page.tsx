@@ -62,11 +62,27 @@ function ReaderContent() {
     if (!allowed || !chapter || index < 0) return;
     const article = articleRef.current;
     if (!article) return;
+    const clamp = (value: number) => Math.min(1, Math.max(0, value));
+
     const update = () => {
-      const top = article.getBoundingClientRect().top + window.scrollY;
-      const max = Math.max(article.scrollHeight - window.innerHeight, 0);
-      const position = max > 0 ? Math.min(Math.max(window.scrollY - top, 0), max) / max : 1;
-      setReadingPercent(Math.round(Math.min(100, ((index + position) / chapters.length) * 100) * 10) / 10);
+      const rect = article.getBoundingClientRect();
+      const articleTop = rect.top + window.scrollY;
+      const articleBottom = articleTop + article.offsetHeight;
+      const viewportHeight = window.innerHeight;
+
+      // Count progress across the visible reading span of the actual chapter,
+      // rather than using the article's internal scrollHeight.
+      const readableStart = Math.max(0, articleTop - viewportHeight * 0.15);
+      const readableEnd = Math.max(
+        readableStart + 1,
+        articleBottom - viewportHeight * 0.85,
+      );
+      const position = clamp(
+        (window.scrollY - readableStart) / (readableEnd - readableStart),
+      );
+      const percent = ((index + position) / chapters.length) * 100;
+
+      setReadingPercent(Math.round(Math.min(100, percent) * 10) / 10);
     };
     let frame = 0;
     const onScroll = () => {
