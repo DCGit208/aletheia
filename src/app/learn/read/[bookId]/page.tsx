@@ -14,8 +14,23 @@ import { useUserLibrary } from "@/lib/state/user-library";
 import { cn } from "@/lib/utils";
 import { ReaderMarkdown } from "@/components/books/reader-markdown";
 
-const fieldClass =
-  "h-8 w-full rounded-lg border border-input bg-transparent px-2.5 text-sm outline-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50";
+type ReaderTheme = "light" | "sepia" | "gray" | "dark" | "deep-dark";
+
+const READER_THEMES: Record<ReaderTheme, {
+  label: string;
+  background: string;
+  foreground: string;
+  muted: string;
+  accent: string;
+  border: string;
+  track: string;
+}> = {
+  light: { label: "Light", background: "#faf9f6", foreground: "#1c1b19", muted: "#68645d", accent: "#66502a", border: "rgba(28,27,25,0.12)", track: "rgba(28,27,25,0.10)" },
+  sepia: { label: "Sepia", background: "#f3eee4", foreground: "#1a1712", muted: "#6d6457", accent: "#6a542c", border: "rgba(26,23,18,0.12)", track: "rgba(26,23,18,0.10)" },
+  gray: { label: "Soft Gray", background: "#eef0f2", foreground: "#20242a", muted: "#66707a", accent: "#465f73", border: "rgba(32,36,42,0.12)", track: "rgba(32,36,42,0.10)" },
+  dark: { label: "Dark", background: "#171614", foreground: "#eee9e1", muted: "#aaa39a", accent: "#c9a96e", border: "rgba(238,233,225,0.14)", track: "rgba(238,233,225,0.12)" },
+  "deep-dark": { label: "Deep Dark", background: "#080808", foreground: "#e8e8e8", muted: "#969696", accent: "#d2b278", border: "rgba(232,232,232,0.14)", track: "rgba(232,232,232,0.12)" },
+};
 
 function ReaderContent() {
   const { bookId } = useParams<{ bookId: string }>();
@@ -34,7 +49,7 @@ function ReaderContent() {
   const [tocOpen, setTocOpen] = useState(false);
   const articleRef = useRef<HTMLElement | null>(null);
   const savedKey = useRef("");
-  const [chapterPercent, setChapterPercent] = useState(0);
+  const [chapterPercent, setChapterPercent] = useState(0);\n  const [readerTheme, setReaderTheme] = useState<ReaderTheme>("sepia");
 
   const chapter = chapters.find((item) => item.id === chapterId) ?? chapters[0];
   const index = chapters.findIndex((item) => item.id === chapter?.id);
@@ -124,11 +139,11 @@ function ReaderContent() {
           </Link>
           <div className="min-w-0 flex-1">
             <p className="truncate font-heading text-sm">{book.title}</p>
-            <p className="text-xs text-muted-foreground">
+            <p className="text-xs" style={{ color: theme.muted }}>
               {t("reader.progress")}: {chapterPercent.toFixed(1)}% · Chapter {index + 1} of {chapters.length}
             </p>
-            <div className="mt-1 h-1 w-full overflow-hidden rounded-full bg-[#1a1712]/10" role="progressbar" aria-label="Reading progress" aria-valuemin={0} aria-valuemax={100} aria-valuenow={chapterPercent}>
-              <div className="h-full rounded-full bg-[#6a542c]" style={{ width: `${chapterPercent}%` }} />
+            <div className="mt-1 h-1 w-full overflow-hidden rounded-full" style={{ backgroundColor: theme.track }} role="progressbar" aria-label="Reading progress" aria-valuemin={0} aria-valuemax={100} aria-valuenow={chapterPercent}>
+              <div className="h-full rounded-full" style={{ width: `${chapterPercent}%`, backgroundColor: theme.accent }} />
             </div>
           </div>
           <button
@@ -139,6 +154,34 @@ function ReaderContent() {
           >
             {t("reader.contents")}
           </button>
+          <details className="relative shrink-0">
+            <summary
+              className="flex h-8 cursor-pointer list-none items-center gap-1.5 rounded-lg border px-2 text-sm [&::-webkit-details-marker]:hidden"
+              style={{ borderColor: theme.border }}
+              aria-label="Reading theme"
+              title="Reading theme"
+            >
+              <span className="h-3.5 w-3.5 rounded-full border" style={{ backgroundColor: theme.background, borderColor: theme.border }} />
+              <span className="hidden sm:inline">{theme.label}</span>
+            </summary>
+            <div className="absolute right-0 top-10 z-50 w-44 rounded-xl border p-1.5 shadow-xl" style={{ backgroundColor: theme.background, borderColor: theme.border }}>
+              {(Object.entries(READER_THEMES) as [ReaderTheme, (typeof READER_THEMES)[ReaderTheme]][]).map(([key, option]) => (
+                <button
+                  key={key}
+                  type="button"
+                  className="flex w-full items-center gap-2 rounded-lg px-2.5 py-2 text-left text-sm"
+                  style={{ backgroundColor: key === readerTheme ? theme.track : "transparent", color: theme.foreground }}
+                  onClick={(event) => {
+                    setReaderTheme(key);
+                    event.currentTarget.closest("details")?.removeAttribute("open");
+                  }}
+                >
+                  <span className="h-4 w-4 rounded-full border" style={{ backgroundColor: option.background, borderColor: option.border }} />
+                  <span>{option.label}</span>
+                </button>
+              ))}
+            </div>
+          </details>
           <button
             type="button"
             className={cn(buttonVariants({ variant: "ghost", size: "sm" }))}
@@ -200,11 +243,11 @@ function ReaderContent() {
         />
       </div>
 
-      <article ref={articleRef} className="mx-auto px-4 py-6">
+      <article ref={articleRef} className="mx-auto px-4 py-6" style={{ color: theme.foreground }}>
         <h1 className="mx-auto mb-4 max-w-[38rem] font-heading text-3xl tracking-wide">{chapter.title}</h1>
           {chapter.verses?.length ? (
             <>
-              <p className="mx-auto mb-8 max-w-[38rem] text-sm tracking-[0.16em] text-[#6a542c] uppercase">
+              <p className="mx-auto mb-8 max-w-[38rem] text-sm tracking-[0.16em] text-[var(--reader-accent)] uppercase">
                 King James Version
               </p>
               <ol className="reader-prose mx-auto max-w-[38rem] list-none p-0" style={{ ["--reader-size" as string]: `${fontSize}rem` }}>
@@ -217,11 +260,11 @@ function ReaderContent() {
                   .map((verse) => (
                     <li key={verse.n} id={`v${verse.n}`} className="mb-6 scroll-mt-24">
                       <p>
-                        <sup className="mr-2 font-heading text-sm text-[#6a542c]">{verse.n}</sup>
+                        <sup className="mr-2 font-heading text-sm text-[var(--reader-accent)]">{verse.n}</sup>
                         {verse.text}
                       </p>
                       {verse.commentary ? (
-                        <p className="mt-2 border-l-2 border-[#6a542c]/50 pl-3 text-[0.92em] leading-relaxed text-[#4a4033]">
+                        <p className="mt-2 border-l-2 border-[var(--reader-accent)]/50 pl-3 text-[0.92em] leading-relaxed text-[var(--reader-muted)]">
                           <span className="mr-2 text-[0.62rem] tracking-[0.16em] uppercase">Commentary</span>
                           {verse.commentary}
                         </p>
@@ -229,7 +272,7 @@ function ReaderContent() {
                     </li>
                   ))}
               </ol>
-              <p className="mx-auto mt-12 max-w-[38rem] text-sm leading-relaxed text-[#4a4033]">
+              <p className="mx-auto mt-12 max-w-[38rem] text-sm leading-relaxed text-[var(--reader-muted)]">
                 Genesis 1 is the open sample of MAKER BIBLE — Lordship Edition. The biblical text is Scripture. Notes
                 marked Commentary are editorial, not the text.
               </p>
@@ -272,7 +315,7 @@ function ReaderContent() {
 
 export default function ReaderPage() {
   return (
-    <Suspense fallback={<div className="min-h-dvh bg-[#f3eee4]" aria-busy="true" />}>
+    <Suspense fallback={<div className="min-h-dvh" style={{ backgroundColor: READER_THEMES.sepia.background }} aria-busy="true" />}>
       <ReaderContent />
     </Suspense>
   );
