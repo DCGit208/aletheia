@@ -56,7 +56,11 @@ function ReaderContent() {
   const articleRef = useRef<HTMLElement | null>(null);
   const savedKey = useRef("");
   const [chapterPercent, setChapterPercent] = useState(0);
-  const [readerTheme, setReaderTheme] = useState<ReaderTheme>("sepia");
+  const [readerTheme, setReaderTheme] = useState<ReaderTheme>(() => {
+    if (typeof window === "undefined") return "sepia";
+    const stored = window.localStorage.getItem("aletheia-reader-theme");
+    return stored && stored in READER_THEMES ? (stored as ReaderTheme) : "sepia";
+  });
 
   const chapter = chapters.find((item) => item.id === chapterId) ?? chapters[0];
   const index = chapters.findIndex((item) => item.id === chapter?.id);
@@ -70,11 +74,6 @@ function ReaderContent() {
         user,
       })
     : false;
-
-  useEffect(() => {
-    const stored = window.localStorage.getItem("aletheia-reader-theme");
-    if (stored && stored in READER_THEMES) setReaderTheme(stored as ReaderTheme);
-  }, []);
 
   useEffect(() => {
     window.localStorage.setItem("aletheia-reader-theme", readerTheme);
