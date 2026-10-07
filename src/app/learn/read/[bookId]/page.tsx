@@ -113,6 +113,9 @@ function ReaderContent() {
             <p className="text-xs text-muted-foreground">
               {t("reader.progress")}: {readingPercent.toFixed(1)}% · Chapter {index + 1} of {chapters.length}
             </p>
+            <div className="mt-1 h-1 w-full overflow-hidden rounded-full bg-[#1a1712]/10" role="progressbar" aria-label="Reading progress" aria-valuemin={0} aria-valuemax={100} aria-valuenow={readingPercent}>
+              <div className="h-full rounded-full bg-[#6a542c]" style={{ width: `${readingPercent}%` }} />
+            </div>
           </div>
           <button
             type="button"
