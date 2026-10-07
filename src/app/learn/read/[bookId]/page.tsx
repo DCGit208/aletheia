@@ -34,7 +34,7 @@ function ReaderContent() {
   const [tocOpen, setTocOpen] = useState(false);
   const articleRef = useRef<HTMLElement | null>(null);
   const savedKey = useRef("");
-  const [readingPercent, setReadingPercent] = useState(0);
+  const [chapterPercent, setChapterPercent] = useState(0);
 
   const chapter = chapters.find((item) => item.id === chapterId) ?? chapters[0];
   const index = chapters.findIndex((item) => item.id === chapter?.id);
@@ -55,7 +55,7 @@ function ReaderContent() {
     if (savedKey.current === key) return;
     savedKey.current = key;
     setReadingProgress(book.id, chapter.id, Math.round(((index + 1) / chapters.length) * 100));
-    setReadingPercent(Math.round(((index + 1) / chapters.length) * 1000) / 10);
+    setChapterPercent(0);
   }, [allowed, authLoading, book, chapter, chapters.length, index, setReadingProgress]);
 
   useEffect(() => {
@@ -80,9 +80,7 @@ function ReaderContent() {
       const position = clamp(
         (window.scrollY - readableStart) / (readableEnd - readableStart),
       );
-      const percent = ((index + position) / chapters.length) * 100;
-
-      setReadingPercent(Math.round(Math.min(100, percent) * 10) / 10);
+      setChapterPercent(Math.round(position * 1000) / 10);
     };
     let frame = 0;
     const onScroll = () => {
@@ -127,10 +125,10 @@ function ReaderContent() {
           <div className="min-w-0 flex-1">
             <p className="truncate font-heading text-sm">{book.title}</p>
             <p className="text-xs text-muted-foreground">
-              {t("reader.progress")}: {readingPercent.toFixed(1)}% · Chapter {index + 1} of {chapters.length}
+              {t("reader.progress")}: {chapterPercent.toFixed(1)}% · Chapter {index + 1} of {chapters.length}
             </p>
-            <div className="mt-1 h-1 w-full overflow-hidden rounded-full bg-[#1a1712]/10" role="progressbar" aria-label="Reading progress" aria-valuemin={0} aria-valuemax={100} aria-valuenow={readingPercent}>
-              <div className="h-full rounded-full bg-[#6a542c]" style={{ width: `${readingPercent}%` }} />
+            <div className="mt-1 h-1 w-full overflow-hidden rounded-full bg-[#1a1712]/10" role="progressbar" aria-label="Reading progress" aria-valuemin={0} aria-valuemax={100} aria-valuenow={chapterPercent}>
+              <div className="h-full rounded-full bg-[#6a542c]" style={{ width: `${chapterPercent}%` }} />
             </div>
           </div>
           <button
