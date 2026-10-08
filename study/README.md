@@ -41,6 +41,13 @@ Greek and Hebrew are studied as the leaflet uses them, plus the owner-supplied l
 | `09_LESSON_MAP.md` | Proposed ~95 lessons (content map, not written lessons) |
 | `10_OWNER_QUESTIONS.md` | Original question list (mostly answered) |
 | `11_OWNER_DECISIONS.md` | Locked owner answers and remaining yes/no |
+| `15_ADDITIONAL_NOTES_FAITH_SONSHIP_DESIGN.md` | **Standing owner-supplied reference notes** on faith, sonship, design, Christ as representation, redemption, justification, oneness, and present reality |
+
+## Additional owner-reference notes
+
+`15_ADDITIONAL_NOTES_FAITH_SONSHIP_DESIGN.md` records substantive notes supplied during ongoing development. These notes are to be **integrated into the study and manuscript architecture wherever they belong**, not merely remembered loosely or appended as disconnected commentary.
+
+The file also preserves the methodological guardrail that Scripture, source teaching, synthesis, and owner interpretation must remain distinguishable.
 
 ## What this study will not do
 
