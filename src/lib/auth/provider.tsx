@@ -19,6 +19,7 @@ import {
   type SessionUser,
 } from "@/lib/auth/session";
 import { createClientStore } from "@/lib/storage/client-store";
+import { isLocalDemoModeEnabled } from "@/lib/firebase/config";
 import type { UserRole } from "@/lib/data/types";
 
 interface AuthContextValue {
@@ -112,6 +113,7 @@ async function refreshSession() {
 
 export function AuthProvider({ children }: { children: ReactNode }) {
   const configured = isFirebaseConfigured();
+  const demoModeEnabled = isLocalDemoModeEnabled();
   const localUser = useSyncExternalStore(
     localSessionStore.subscribe,
     localSessionStore.getSnapshot,
@@ -123,7 +125,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     firebaseUserStore.getServerSnapshot,
   );
 
-  const user = configured ? firebaseState.user : localUser;
+  const user = configured ? firebaseState.user : demoModeEnabled ? localUser : null;
   const loading = configured ? firebaseState.loading : false;
 
   const value = useMemo<AuthContextValue>(
@@ -133,6 +135,11 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       configured,
       async signIn(email, password) {
         if (!configured) {
+          if (!demoModeEnabled) {
+            throw new Error(
+              "Local demo sign-in is disabled. Provide Firebase credentials or set NEXT_PUBLIC_ENABLE_LOCAL_DEMO_MODE=true in local development only.",
+            );
+          }
           localSessionStore.set(authenticateLocal(email, password));
           return;
         }
@@ -143,6 +150,11 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       },
       async signUp(input) {
         if (!configured) {
+          if (!demoModeEnabled) {
+            throw new Error(
+              "Local demo sign-up is disabled. Provide Firebase credentials or set NEXT_PUBLIC_ENABLE_LOCAL_DEMO_MODE=true in local development only.",
+            );
+          }
           localSessionStore.set(registerLocal(input));
           return;
         }
@@ -153,7 +165,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       },
       async signOut() {
         if (!configured) {
-          localSessionStore.set(null);
+          if (demoModeEnabled) localSessionStore.set(null);
           return;
         }
         const auth = getFirebaseAuth();
@@ -161,7 +173,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       },
       refreshSession,
     }),
-    [configured, loading, user],
+    [configured, demoModeEnabled, loading, user],
   );
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;

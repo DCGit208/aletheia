@@ -2,6 +2,7 @@ import { getAuth } from "firebase-admin/auth";
 import { FieldValue, getFirestore } from "firebase-admin/firestore";
 import { HttpsError, onCall } from "firebase-functions/v2/https";
 import { logger } from "firebase-functions";
+import { normalizeGrantTarget } from "../../src/lib/admin/grant-validation";
 import { getOffer, isMomoYearProduct, uniqueGrants, type GrantKind } from "./offerings.js";
 import { ensureVapid, listMemberUids, notifyUsers, vapidPrivateKey } from "./notify.js";
 
@@ -226,10 +227,15 @@ async function writeGrants(uid: string, grants: { contentKind: GrantKind; conten
 
 export const grantProductAccess = onCall({ region: REGION, cors: true }, async (request) => {
   const actor = requireAdmin(request);
-  const uid = typeof request.data?.uid === "string" ? request.data.uid : "";
-  const productId = typeof request.data?.productId === "string" ? request.data.productId : "";
+  const uid = typeof request.data?.uid === "string" ? request.data.uid.trim() : "";
+  const productId = typeof request.data?.productId === "string" ? request.data.productId.trim() : "";
   if (!uid || !productId) throw new HttpsError("invalid-argument", "Member and product are required.");
+  const offer = getOffer(productId);
+  if (!offer) throw new HttpsError("not-found", `Unknown product: ${productId}`);
   const grants = uniqueGrants([productId]);
+  if (grants.length === 0) {
+    throw new HttpsError("failed-precondition", `Product ${productId} does not grant access.`);
+  }
   await writeGrants(uid, grants, [productId]);
   const user = await getAuth().getUser(uid);
   await writeAudit({
@@ -244,38 +250,58 @@ export const grantProductAccess = onCall({ region: REGION, cors: true }, async (
 
 export const grantContentAccess = onCall({ region: REGION, cors: true }, async (request) => {
   const actor = requireAdmin(request);
-  const uid = typeof request.data?.uid === "string" ? request.data.uid : "";
-  const contentKind = request.data?.contentKind;
-  const contentId = typeof request.data?.contentId === "string" ? request.data.contentId.trim() : "";
-  if (!uid || !contentId) throw new HttpsError("invalid-argument", "Member and content are required.");
-  if (!GRANT_KINDS.includes(contentKind as GrantKind)) {
-    throw new HttpsError("invalid-argument", "Grant a book, course, or program.");
+  const uid = typeof request.data?.uid === "string" ? request.data.uid.trim() : "";
+  if (!uid) throw new HttpsError("invalid-argument", "Member is required.");
+  let grant: { contentKind: GrantKind; contentId: string };
+  try {
+    grant = normalizeGrantTarget(request.data?.contentKind, request.data?.contentId);
+  } catch (error) {
+    throw new HttpsError("invalid-argument", error instanceof Error ? error.message : "Invalid content grant.");
   }
-  await writeGrants(uid, [{ contentKind, contentId }], []);
+  await writeGrants(uid, [grant], []);
   const user = await getAuth().getUser(uid);
   await writeAudit({
     actorUid: actor.uid,
     actorEmail: actorEmail(actor),
     action: "access.grantContent",
     target: user.email ?? uid,
-    detail: `${contentKind}:${contentId}`,
+    detail: `${grant.contentKind}:${grant.contentId}`,
   });
   return { success: true as const };
 });
 
 export const revokeContentAccess = onCall({ region: REGION, cors: true }, async (request) => {
   const actor = requireAdmin(request);
-  const uid = typeof request.data?.uid === "string" ? request.data.uid : "";
-  const entitlementId = typeof request.data?.entitlementId === "string" ? request.data.entitlementId : "";
+  const uid = typeof request.data?.uid === "string" ? request.data.uid.trim() : "";
+  const entitlementId = typeof request.data?.entitlementId === "string" ? request.data.entitlementId.trim() : "";
   if (!uid || !entitlementId) throw new HttpsError("invalid-argument", "Missing entitlement.");
-  await getFirestore().doc(`usersPrivate/${uid}/entitlements/${entitlementId}`).delete();
+
+  const db = getFirestore();
+  const entitlementRef = db.doc(`usersPrivate/${uid}/entitlements/${entitlementId}`);
+  const snap = await entitlementRef.get();
+  if (!snap.exists) throw new HttpsError("not-found", "Entitlement not found.");
+
+  const entitlementData = snap.data() ?? {};
+  let grant: { contentKind: GrantKind; contentId: string };
+  try {
+    grant = normalizeGrantTarget(entitlementData.contentKind, entitlementData.contentId);
+  } catch (error) {
+    throw new HttpsError("invalid-argument", error instanceof Error ? error.message : "Invalid entitlement grant.");
+  }
+  const batch = db.batch();
+  batch.delete(entitlementRef);
+  if (grant.contentKind === "program") {
+    batch.delete(db.doc(`usersPrivate/${uid}/programEnrollments/${uid}:${grant.contentId}`));
+  }
+  await batch.commit();
+
   const user = await getAuth().getUser(uid);
   await writeAudit({
     actorUid: actor.uid,
     actorEmail: actorEmail(actor),
     action: "access.revoke",
     target: user.email ?? uid,
-    detail: entitlementId,
+    detail: `${grant.contentKind}:${grant.contentId}`,
   });
   return { success: true as const };
 });

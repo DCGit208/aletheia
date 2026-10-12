@@ -5,6 +5,7 @@ import { collection, onSnapshot } from "firebase/firestore";
 import { useAuth } from "@/lib/auth/provider";
 import { makeEntitlement, grantTargetsForProduct, holdsEntitlement } from "@/lib/access/entitlements";
 import { isLiveCheckout } from "@/lib/commerce/mode";
+import { isLocalDemoModeEnabled } from "@/lib/firebase/config";
 import { redirectToStripeCheckout } from "@/lib/commerce/stripe-client";
 import { getCourse, getProduct, getProgram, getSchool } from "@/lib/data/repository";
 import { getFirebaseDb } from "@/lib/firebase/client";
@@ -182,6 +183,11 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
 
     const pay = async (): Promise<Order | null> => {
       if (!user || cart.length === 0) return null;
+      if (!isLiveCheckout(user) && !isLocalDemoModeEnabled()) {
+        throw new Error(
+          "Checkout is unavailable because Firebase is not configured and local mock mode is disabled. Set Firebase config or enable NEXT_PUBLIC_ENABLE_LOCAL_DEMO_MODE=true for local development only.",
+        );
+      }
       if (isLiveCheckout(user)) {
         if (user.source !== "firebase") {
           throw new Error("Card payment requires an Aletheia account created with email, not a local demo session.");
@@ -189,8 +195,7 @@ export function UserLibraryProvider({ children }: { children: ReactNode }) {
         await redirectToStripeCheckout(cart, window.location.origin);
         return null;
       }
-      return checkout();
-    };
+      return checkout();    };
 
     return {
       entitlements,

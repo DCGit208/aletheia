@@ -36,3 +36,8 @@ export function readFirebaseConfig(): PublicFirebaseConfig | null {
 export function isFirebaseConfigured(): boolean {
   return readFirebaseConfig() !== null;
 }
+
+export function isLocalDemoModeEnabled(): boolean {
+  const value = process.env.NEXT_PUBLIC_ENABLE_LOCAL_DEMO_MODE ?? "";
+  return value === "true" || value === "1" || value === "yes";
+}

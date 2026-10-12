@@ -59,8 +59,9 @@ service cloud.firestore {
     }
 
     function isAdmin() {
-      return role() == 'administrator';
+      return isAuthenticated() && role() == 'administrator';
     }
+
 
     function isModerator() {
       return role() == 'moderator' || isAdmin();
