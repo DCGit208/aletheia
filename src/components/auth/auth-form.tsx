@@ -13,13 +13,16 @@ const fieldClass =
 
 export function AuthForm({ mode }: { mode: "sign-in" | "sign-up" }) {
   const { t } = useI18n();
-  const { signIn, signUp } = useAuth();
+  const { configured, requestPasswordReset, signIn, signUp } = useAuth();
   const router = useRouter();
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [displayName, setDisplayName] = useState("");
   const [error, setError] = useState<string | null>(null);
   const [pending, setPending] = useState(false);
+  const [resetMessage, setResetMessage] = useState<string | null>(null);
+  const [resetError, setResetError] = useState<string | null>(null);
+  const [resetPending, setResetPending] = useState(false);
 
   async function handleSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
@@ -37,6 +40,30 @@ export function AuthForm({ mode }: { mode: "sign-in" | "sign-up" }) {
       setError(err instanceof Error ? err.message : t("state.error"));
     } finally {
       setPending(false);
+    }
+  }
+
+  async function handlePasswordReset() {
+    setResetMessage(null);
+    setResetError(null);
+    if (!email.trim()) {
+      setResetError(t("auth.resetEmailRequired"));
+      return;
+    }
+
+    setResetPending(true);
+    try {
+      await requestPasswordReset(email.trim());
+      setResetMessage(t("auth.resetSent"));
+    } catch (err) {
+      const code = typeof err === "object" && err !== null && "code" in err ? err.code : null;
+      if (code === "auth/user-not-found") {
+        setResetMessage(t("auth.resetSent"));
+      } else {
+        setResetError(err instanceof Error ? err.message : t("state.error"));
+      }
+    } finally {
+      setResetPending(false);
     }
   }
 
@@ -83,6 +110,20 @@ export function AuthForm({ mode }: { mode: "sign-in" | "sign-up" }) {
           onChange={(event) => setPassword(event.target.value)}
         />
       </div>
+      {mode === "sign-in" && configured ? (
+        <div>
+          <button
+            type="button"
+            className="text-sm underline underline-offset-4"
+            onClick={() => void handlePasswordReset()}
+            disabled={resetPending}
+          >
+            {resetPending ? t("state.loading") : t("auth.forgotPassword")}
+          </button>
+          {resetMessage ? <p className="mt-2 text-sm text-muted-foreground" role="status">{resetMessage}</p> : null}
+          {resetError ? <p className="mt-2 text-sm text-destructive" role="alert">{resetError}</p> : null}
+        </div>
+      ) : null}
       {error ? <p className="text-sm text-destructive">{error}</p> : null}
       <button type="submit" className={cn(buttonVariants({ size: "lg" }), "h-11 w-full justify-center rounded-full")} disabled={pending}>
         {t("auth.submit")}

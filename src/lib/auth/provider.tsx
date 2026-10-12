@@ -4,6 +4,7 @@ import { createContext, useContext, useMemo, useSyncExternalStore, type ReactNod
 import {
   createUserWithEmailAndPassword,
   onAuthStateChanged,
+  sendPasswordResetEmail,
   signInWithEmailAndPassword,
   signOut as firebaseSignOut,
   updateProfile,
@@ -27,6 +28,7 @@ interface AuthContextValue {
   loading: boolean;
   configured: boolean;
   signIn: (email: string, password: string) => Promise<void>;
+  requestPasswordReset: (email: string) => Promise<void>;
   signUp: (input: { email: string; password: string; displayName: string }) => Promise<void>;
   signOut: () => Promise<void>;
   refreshSession: () => Promise<void>;
@@ -147,6 +149,14 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         if (!auth) throw new Error("Firebase Auth is not available.");
         await signInWithEmailAndPassword(auth, email, password);
         if (auth.currentUser) await applyFirebaseUser(auth.currentUser, true);
+      },
+      async requestPasswordReset(email) {
+        if (!configured) {
+          throw new Error("Password reset requires a connected Firebase account.");
+        }
+        const auth = getFirebaseAuth();
+        if (!auth) throw new Error("Firebase Auth is not available.");
+        await sendPasswordResetEmail(auth, email);
       },
       async signUp(input) {
         if (!configured) {
