@@ -45,7 +45,39 @@ jobs:
       - name: Verify canonical manuscript parity
         run: node scripts/check-one-source-migration.mjs
 
+      - name: Validate public Firebase web configuration
+        env:
+          NEXT_PUBLIC_FIREBASE_API_KEY: ${{ secrets.NEXT_PUBLIC_FIREBASE_API_KEY }}
+          NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN: ${{ secrets.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN }}
+          NEXT_PUBLIC_FIREBASE_PROJECT_ID: ${{ secrets.NEXT_PUBLIC_FIREBASE_PROJECT_ID }}
+          NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET: ${{ secrets.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET }}
+          NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID: ${{ secrets.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID }}
+          NEXT_PUBLIC_FIREBASE_APP_ID: ${{ secrets.NEXT_PUBLIC_FIREBASE_APP_ID }}
+        run: |
+          test -n "$NEXT_PUBLIC_FIREBASE_API_KEY" || { echo "::error::NEXT_PUBLIC_FIREBASE_API_KEY is missing from GitHub Actions repository variables."; exit 1; }
+          test -n "$NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN" || { echo "::error::NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN is missing from GitHub Actions repository variables."; exit 1; }
+          test -n "$NEXT_PUBLIC_FIREBASE_PROJECT_ID" || { echo "::error::NEXT_PUBLIC_FIREBASE_PROJECT_ID is missing from GitHub Actions repository variables."; exit 1; }
+          test -n "$NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET" || { echo "::error::NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET is missing from GitHub Actions repository variables."; exit 1; }
+          test -n "$NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID" || { echo "::error::NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID is missing from GitHub Actions repository variables."; exit 1; }
+          test -n "$NEXT_PUBLIC_FIREBASE_APP_ID" || { echo "::error::NEXT_PUBLIC_FIREBASE_APP_ID is missing from GitHub Actions repository variables."; exit 1; }
+          if [ "$NEXT_PUBLIC_FIREBASE_PROJECT_ID" != "aletheia-world" ]; then
+            echo "::error::NEXT_PUBLIC_FIREBASE_PROJECT_ID must be aletheia-world."
+            exit 1
+          fi
+
       - name: Build app for Firebase Hosting
+        env:
+          NEXT_PUBLIC_FIREBASE_API_KEY: ${{ secrets.NEXT_PUBLIC_FIREBASE_API_KEY }}
+          NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN: ${{ secrets.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN }}
+          NEXT_PUBLIC_FIREBASE_PROJECT_ID: ${{ secrets.NEXT_PUBLIC_FIREBASE_PROJECT_ID }}
+          NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET: ${{ secrets.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET }}
+          NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID: ${{ secrets.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID }}
+          NEXT_PUBLIC_FIREBASE_APP_ID: ${{ secrets.NEXT_PUBLIC_FIREBASE_APP_ID }}
+          NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID: ${{ secrets.NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID }}
+          NEXT_PUBLIC_FIREBASE_VAPID_KEY: ${{ secrets.NEXT_PUBLIC_FIREBASE_VAPID_KEY }}
+          NEXT_PUBLIC_VAPID_PUBLIC_KEY: ${{ secrets.NEXT_PUBLIC_VAPID_PUBLIC_KEY }}
+          NEXT_PUBLIC_CHECKOUT_MODE: stripe
+          NEXT_PUBLIC_ENABLE_LOCAL_DEMO_MODE: "false"
         run: npm run build:hosting
 
       - name: Deploy only app.aletheiaworld.org
