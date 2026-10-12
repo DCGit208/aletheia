@@ -4,6 +4,7 @@ import { HttpsError, onCall, onRequest } from "firebase-functions/v2/https";
 import { defineSecret } from "firebase-functions/params";
 import { logger } from "firebase-functions";
 import Stripe from "stripe";
+import { parseStripeProductIds, validatePaidStripeCheckout } from "./stripe-payment-validation.js";
 import {
   getOffer,
   isMomoYearProduct,
@@ -128,11 +129,21 @@ export const createCheckoutSession = onCall(
   { region: REGION, secrets: [stripeSecret], cors: true },
   async (request) => {
     const auth = requireAuth(request);
-    const productIds = Array.isArray(request.data?.productIds)
-      ? (request.data.productIds as unknown[]).filter((id): id is string => typeof id === "string")
-      : [];
+    const rawProductIds: unknown = request.data?.productIds;
+    if (!Array.isArray(rawProductIds) || rawProductIds.length === 0) {
+      throw new HttpsError("invalid-argument", "Cart is empty.");
+    }
+    const productIds: string[] = [];
+    for (const id of rawProductIds) {
+      if (typeof id !== "string" || !id.trim()) {
+        throw new HttpsError("invalid-argument", "Cart contains an invalid product.");
+      }
+      productIds.push(id.trim());
+    }
+    if (new Set(productIds).size !== productIds.length) {
+      throw new HttpsError("invalid-argument", "Cart contains duplicate products.");
+    }
     const origin = typeof request.data?.origin === "string" ? request.data.origin.replace(/\/$/, "") : "";
-    if (productIds.length === 0) throw new HttpsError("invalid-argument", "Cart is empty.");
     if (!/^https?:\/\//.test(origin)) throw new HttpsError("invalid-argument", "Missing origin.");
 
     let offers;
@@ -195,7 +206,7 @@ export const stripeWebhook = onRequest(
       return;
     }
 
-    if (event.type !== "checkout.session.completed") {
+    if (event.type !== "checkout.session.completed" && event.type !== "checkout.session.async_payment_succeeded") {
       res.status(200).send("ignored");
       return;
     }
@@ -206,13 +217,31 @@ export const stripeWebhook = onRequest(
       return;
     }
 
-    const uid = session.metadata.uid || session.client_reference_id;
-    const productIds = (session.metadata.productIds ?? "")
-      .split(",")
-      .map((id) => id.trim())
-      .filter(Boolean);
-    if (!uid || productIds.length === 0) {
-      res.status(400).send("Missing uid or products");
+    let uid: string;
+    let productIds: string[];
+    let totalCents: number;
+    try {
+      uid = session.metadata.uid ?? "";
+      productIds = parseStripeProductIds(session.metadata.productIds);
+      const offers = offersForProductIds(productIds);
+      totalCents = offers.reduce((total, offer) => total + offer.priceCents, 0);
+      validatePaidStripeCheckout({
+        mode: session.mode,
+        status: session.status,
+        paymentStatus: session.payment_status,
+        currency: session.currency,
+        amountTotal: session.amount_total,
+        metadataUid: uid,
+        clientReferenceId: session.client_reference_id,
+        productIds,
+        expectedAmountCents: totalCents,
+      });
+    } catch (error) {
+      logger.warn("stripe checkout verification failed", {
+        sessionId: session.id,
+        message: error instanceof Error ? error.message : String(error),
+      });
+      res.status(400).send("Invalid checkout session");
       return;
     }
 
@@ -222,7 +251,7 @@ export const stripeWebhook = onRequest(
         productIds,
         orderId: session.id,
         source: "stripe",
-        totalCents: session.amount_total ?? 0,
+        totalCents,
         currency: "USD",
       });
       if (result === "granted") {
@@ -241,7 +270,11 @@ export const stripeWebhook = onRequest(
       }
       res.status(200).send(result);
     } catch (error) {
-      res.status(400).send(error instanceof Error ? error.message : "Grant failed");
+      logger.error("stripe checkout grant failed", {
+        sessionId: session.id,
+        message: error instanceof Error ? error.message : String(error),
+      });
+      res.status(500).send("Grant failed");
     }
   },
 );
@@ -386,7 +419,8 @@ export const confirmManualPayment = onCall(
   }
   const uid = typeof data.uid === "string" ? data.uid : "";
   const productId = typeof data.productId === "string" ? data.productId : "";
-  if (!uid || !isMomoYearProduct(productId)) {
+  const offer = getOffer(productId);
+  if (!uid || !isMomoYearProduct(productId) || !offer) {
     throw new HttpsError("failed-precondition", "Payment record is incomplete.");
   }
 
@@ -395,7 +429,7 @@ export const confirmManualPayment = onCall(
     productIds: [productId],
     orderId: paymentId,
     source: "momo",
-    totalCents: typeof data.priceCents === "number" ? data.priceCents : 40000,
+    totalCents: offer.priceCents,
     currency: "XAF",
     extra: {
       amountXaf: MOMO_YEAR_XAF,
