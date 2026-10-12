@@ -2,7 +2,7 @@ import { getAuth } from "firebase-admin/auth";
 import { FieldValue, getFirestore } from "firebase-admin/firestore";
 import { HttpsError, onCall } from "firebase-functions/v2/https";
 import { logger } from "firebase-functions";
-import { normalizeGrantTarget } from "../../src/lib/admin/grant-validation";
+import { normalizeGrantTarget } from "./grant-validation.js";
 import { getOffer, isMomoYearProduct, uniqueGrants, type GrantKind } from "./offerings.js";
 import { ensureVapid, listMemberUids, notifyUsers, vapidPrivateKey } from "./notify.js";
 

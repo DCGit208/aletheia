@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
 
-import { normalizeGrantTarget } from "./grant-validation";
+import { normalizeGrantTarget } from "../../../functions/src/grant-validation.js";
 
 describe("admin grant validation", () => {
   it("accepts valid content grant targets", () => {
