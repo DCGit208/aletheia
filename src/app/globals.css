@@ -201,10 +201,19 @@
 }
 
 .reader-prose {
-  font-family: var(--font-heading), ui-serif, Georgia, "Times New Roman", serif;
+  font-family: var(--reader-font-family, var(--font-heading)), ui-serif, Georgia, "Times New Roman", serif;
   font-size: var(--reader-size, 1.15rem);
-  line-height: 1.75;
+  line-height: var(--reader-leading, 1.72);
+  letter-spacing: 0.002em;
   max-width: 38rem;
+  text-wrap: pretty;
+  hanging-punctuation: first last;
+}
+.reader-prose p {
+  text-wrap: pretty;
+}
+.reader-prose > p + p {
+  margin-top: 1.18em;
 }
 .reader-prose p + p {
   margin-top: 1.15em;
