@@ -6,6 +6,10 @@ on:
     paths:
       - ".github/workflows/deploy-functions.yml"
       - "functions/**"
+      - "scripts/generate-protected-content.cjs"
+      - "src/lib/content/**"
+      - "src/lib/data/foundation-school.ts"
+      - "src/lib/data/one-source-of-truth.ts"
       - "src/lib/commerce/offerings.ts"
       - "firebase.json"
       - ".firebaserc"

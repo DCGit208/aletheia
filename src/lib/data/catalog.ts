@@ -4,16 +4,13 @@ import { BRAND } from "@/lib/brand";
 import type { CatalogSnapshot } from "@/lib/data/types";
 import {
   foundationBooks,
-  foundationChapters,
   foundationCourses,
-  foundationLessons,
   foundationModules,
   foundationPrograms,
   foundationSchools,
-} from "@/lib/data/foundation-school";
+} from "@/lib/data/foundation-school-metadata";
 import { productsFromOffers } from "@/lib/commerce/offerings";
-import { faithCompanionChapters } from "@/lib/content/companion-faith";
-import { repentanceCompanionChapters } from "@/lib/content/companion-repentance";
+import { protectedChapterIndex, protectedLessonIndex } from "@/lib/data/protected-content-index";
 
 const achu = { id: "author-achu", displayName: "Dr. Coach Achu Gustave" };
 const faculty = { id: "author-faculty", displayName: "Aletheia Faculty" };
@@ -507,9 +504,7 @@ A people that will not receive the truth does not become empty. It becomes occup
 
 The cover is published. The full study will enter this reader next.`,
     },
-    ...repentanceCompanionChapters,
-    ...faithCompanionChapters,
-    ...foundationChapters,
+    ...protectedChapterIndex,
   ],
   courses: [
     {
@@ -697,7 +692,7 @@ The cover is published. The full study will enter this reader next.`,
       resourceIds: ["book-beyond-ai-man"],
       body: "Study how Aletheia separates content, product, order, and entitlement. Design the same separation for one ministry or enterprise you know.",
     },
-    ...foundationLessons,
+    ...protectedLessonIndex,
   ],
   journals: [
     {

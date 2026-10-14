@@ -8,7 +8,7 @@ import { Button, buttonVariants } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { canAccessContent } from "@/lib/access/entitlements";
 import { getExamForCourse } from "@/lib/content/exams";
-import { foundationGateCourseId } from "@/lib/data/foundation-school";
+import { foundationGateCourseId } from "@/lib/data/foundation-school-metadata";
 import { getCourse, getProduct, getSchool, listLessons, listModules } from "@/lib/data/repository";
 import { courseProgressPercent, nextLessonForCourse, resumeCourseHref } from "@/lib/learn/continue";
 import { useAuth } from "@/lib/auth/provider";

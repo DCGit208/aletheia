@@ -5,8 +5,12 @@
   "description": "Aletheia — the digital platform of Aletheia World.",
   "scripts": {
     "dev": "next dev --port 43147 --hostname 0.0.0.0",
+    "prebuild": "npm run generate:protected-content",
     "build": "next build",
+    "prebuild:hosting": "npm run generate:protected-content",
     "build:hosting": "FIREBASE_HOSTING=1 next build",
+    "postbuild:hosting": "node scripts/check-protected-content-build.mjs",
+    "generate:protected-content": "node scripts/generate-protected-content.cjs",
     "build:landing": "node landing/build.mjs",
     "deploy:hosting": "npm run build:hosting && npx -y firebase-tools@latest deploy --only hosting:aletheia-world",
     "deploy:functions": "npm --prefix functions run build && npx -y firebase-tools@latest deploy --only functions",

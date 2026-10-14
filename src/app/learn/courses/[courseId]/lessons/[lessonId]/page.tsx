@@ -2,7 +2,8 @@
 
 import Link from "next/link";
 import { useParams } from "next/navigation";
-import { DeniedState, EmptyState } from "@/components/content/query-state";
+import { useEffect, useState } from "react";
+import { DeniedState, EmptyState, ErrorState, LoadingState } from "@/components/content/query-state";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { canAccessContent } from "@/lib/access/entitlements";
 import { useAuth } from "@/lib/auth/provider";
@@ -10,6 +11,7 @@ import { getBook, getCourse, getLesson, listLessons } from "@/lib/data/repositor
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
 import { cn } from "@/lib/utils";
+import { loadProtectedLesson } from "@/lib/data/protected-content";
 
 const lessonSectionTitles = {
   "Central principle": "Main idea",
@@ -26,6 +28,10 @@ const lessonSectionTitles = {
 } as const;
 
 type LessonSectionTitle = keyof typeof lessonSectionTitles;
+type ProtectedLessonLoadState =
+  | { key: string; status: "loaded"; lesson: NonNullable<ReturnType<typeof getLesson>> }
+  | { key: string; status: "denied" }
+  | { key: string; status: "error"; message: string };
 
 interface LessonSection {
   title: LessonSectionTitle;
@@ -117,17 +123,65 @@ export default function LessonPage() {
   const { user } = useAuth();
   const { entitlements, enrollments, completeLesson, enroll } = useUserLibrary();
   const course = getCourse(courseId);
-  const lesson = getLesson(lessonId);
-  if (!course || !lesson || lesson.courseId !== course.id) return <EmptyState title="Lesson not found." />;
+  const listedLesson = getLesson(lessonId);
+  const allowed = Boolean(
+    course &&
+      canAccessContent({
+        accessLevel: course.accessLevel,
+        preview: false,
+        entitlements,
+        contentKind: "course",
+        contentId: course.id,
+        user,
+      }),
+  );
+  const [loadState, setLoadState] = useState<ProtectedLessonLoadState | null>(null);
+  const [retryToken, setRetryToken] = useState(0);
+  const needsProtectedFetch = Boolean(listedLesson && !listedLesson.body.trim());
+  const contentLoadKey = `${courseId}:${lessonId}:${user?.uid ?? "anonymous"}:${retryToken}`;
+  const currentLoad = loadState?.key === contentLoadKey ? loadState : null;
+  const loadedLesson = currentLoad?.status === "loaded" ? currentLoad.lesson : null;
+  const contentError = currentLoad?.status === "error" ? currentLoad.message : null;
+  const serverDenied = currentLoad?.status === "denied";
+  const contentLoading = needsProtectedFetch && allowed && !currentLoad;
 
-  const allowed = canAccessContent({
-    accessLevel: course.accessLevel,
-    preview: false,
-    entitlements,
-    contentKind: "course",
-    contentId: course.id,
-    user,
-  });
+  useEffect(() => {
+    if (!needsProtectedFetch || !allowed || !course) return;
+
+    let active = true;
+    void loadProtectedLesson(course.id, lessonId)
+      .then((result) => {
+        if (active) setLoadState({ key: contentLoadKey, status: "loaded", lesson: result });
+      })
+      .catch((error: unknown) => {
+        if (!active) return;
+        const code =
+          typeof error === "object" && error !== null && "code" in error && typeof error.code === "string"
+            ? error.code
+            : "";
+        if (code === "functions/permission-denied" || code === "functions/unauthenticated") {
+          setLoadState({ key: contentLoadKey, status: "denied" });
+        } else {
+          console.error("Unable to load protected course content.", error);
+          setLoadState({ key: contentLoadKey, status: "error", message: "The lesson text could not be loaded. Try again." });
+        }
+      });
+    return () => {
+      active = false;
+    };
+  }, [allowed, contentLoadKey, course, lessonId, needsProtectedFetch]);
+
+  const lesson = loadedLesson ?? listedLesson;
+  if (!course || !lesson || lesson.courseId !== course.id) return <EmptyState title="Lesson not found." />;
+  if (serverDenied) {
+    return (
+      <DeniedState
+        productId={course.productId}
+        yearProductId="product-foundation-year"
+        showYear={Boolean(course.productId?.startsWith("product-course-") || course.id.startsWith("course-fs-"))}
+      />
+    );
+  }
   if (!allowed) {
     return (
       <DeniedState
@@ -136,6 +190,12 @@ export default function LessonPage() {
         showYear={Boolean(course.productId?.startsWith("product-course-") || course.id.startsWith("course-fs-"))}
       />
     );
+  }
+  if (contentLoading || (needsProtectedFetch && !loadedLesson && !contentError)) {
+    return <LoadingState label="Loading lesson text" />;
+  }
+  if (contentError) {
+    return <ErrorState message={contentError} onRetry={() => setRetryToken((value) => value + 1)} />;
   }
 
   const lessons = listLessons(course.id);

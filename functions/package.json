@@ -3,7 +3,8 @@
   "private": true,
   "main": "lib/index.js",
   "scripts": {
-    "build": "cp ../src/lib/commerce/offerings.ts src/offerings.ts && tsc"
+    "build": "node ../scripts/generate-protected-content.cjs && cp ../src/lib/commerce/offerings.ts src/offerings.ts && tsc",
+    "test": "npm run build && node --test lib/protected-content-access.test.js"
   },
   "engines": {
     "node": "20"

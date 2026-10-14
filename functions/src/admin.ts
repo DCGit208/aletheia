@@ -1,5 +1,5 @@
 import { getAuth } from "firebase-admin/auth";
-import { FieldValue, getFirestore } from "firebase-admin/firestore";
+import { FieldValue, getFirestore, type QueryDocumentSnapshot } from "firebase-admin/firestore";
 import { HttpsError, onCall } from "firebase-functions/v2/https";
 import { logger } from "firebase-functions";
 import { normalizeGrantTarget } from "./grant-validation.js";
@@ -304,6 +304,46 @@ export const revokeContentAccess = onCall({ region: REGION, cors: true }, async 
     detail: `${grant.contentKind}:${grant.contentId}`,
   });
   return { success: true as const };
+});
+
+export const revokeAllOneSourceAccess = onCall({ region: REGION, cors: true }, async (request) => {
+  const actor = requireAdmin(request);
+  const confirmation = typeof request.data?.confirmation === "string" ? request.data.confirmation.trim() : "";
+  if (confirmation !== "REVOKE ONE SOURCE") {
+    throw new HttpsError("failed-precondition", "Explicit One Source revocation confirmation is required.");
+  }
+
+  const db = getFirestore();
+  const entitlementQuery = db
+    .collectionGroup("entitlements")
+    .where("contentId", "==", "book-one-source-of-truth")
+    .limit(400);
+  let deletedCount = 0;
+  let lastDocument: QueryDocumentSnapshot | undefined;
+
+  while (true) {
+    const query = lastDocument ? entitlementQuery.startAfter(lastDocument) : entitlementQuery;
+    const page = await query.get();
+    if (page.empty) break;
+
+    const batch = db.batch();
+    for (const entitlement of page.docs) {
+      if (entitlement.data().contentKind !== "book") continue;
+      batch.delete(entitlement.ref);
+    }
+    await batch.commit();
+    deletedCount += page.docs.filter((entitlement) => entitlement.data().contentKind === "book").length;
+    lastDocument = page.docs[page.docs.length - 1];
+  }
+
+  await writeAudit({
+    actorUid: actor.uid,
+    actorEmail: actorEmail(actor),
+    action: "access.revokeAll",
+    target: "book-one-source-of-truth",
+    detail: `${deletedCount} entitlement(s) revoked`,
+  });
+  return { success: true as const, deletedCount };
 });
 
 export const listAllOrders = onCall({ region: REGION, cors: true }, async (request) => {

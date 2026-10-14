@@ -35,6 +35,10 @@ Public Firebase values may live in the client. Service-account keys, payment sec
 | Cloud Functions | Stripe Checkout session + webhook; later custom claims, search, FCM |
 | Cloud Messaging (later) | Push. VAPID key is reserved in env |
 
+Paid book chapters and Foundation School lessons are generated into the Cloud Functions package and served only by the `getProtectedContent` callable. The callable verifies the user's entitlement (or an administrator claim) before returning text. One Source of Truth has no free preview; its book entitlement must be granted by a verified purchase or by an administrator. Do not import the full-content source modules from browser code; regenerate indexes and the server content manifest with `npm run generate:protected-content` after editing manuscripts or lessons. Hosting builds also scan `out/` and fail if protected sample passages appear in public assets.
+
+Administrators can grant or revoke content for individual users under **Administration → People**. The same panel provides a confirmation-protected operation to revoke the One Source book entitlement from every account while preserving order records; access can then be granted individually again.
+
 ## Hosting
 
 Two Classic Hosting sites on project `aletheia-world`:

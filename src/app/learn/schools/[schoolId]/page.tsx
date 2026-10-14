@@ -5,7 +5,7 @@ import { useParams } from "next/navigation";
 import { ListRow } from "@/components/content/list-row";
 import { EmptyState } from "@/components/content/query-state";
 import { SectionHeader } from "@/components/content/section-header";
-import { foundationGateCourseId, foundationSchoolIntroduction } from "@/lib/data/foundation-school";
+import { foundationGateCourseId, foundationSchoolIntroduction } from "@/lib/data/foundation-school-metadata";
 import { getBook, getCourse, getProduct, getSchool, listPrograms, listSchoolCourses } from "@/lib/data/repository";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";

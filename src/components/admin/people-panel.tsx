@@ -11,6 +11,7 @@ import {
   grantProductAccess,
   listMembers,
   lookupMember,
+  revokeAllOneSourceAccess,
   revokeContentAccess,
   setMemberDisabled,
   setMemberRole,
@@ -73,8 +74,38 @@ export function PeoplePanel() {
       .finally(() => setBusy(false));
   };
 
+  const revokeOneSourceForAll = () => {
+    const confirmation = window.prompt(
+      "This removes the One Source book entitlement from every account, including purchasers. Type REVOKE ONE SOURCE to confirm.",
+    );
+    if (confirmation !== "REVOKE ONE SOURCE") return;
+    setBusy(true);
+    void revokeAllOneSourceAccess(confirmation)
+      .then((count) => {
+        toast.success(`Revoked One Source access for ${count} account(s).`);
+        if (detail) load(detail.member.email);
+      })
+      .catch((error) => toast.error(error instanceof Error ? error.message : t("state.error")))
+      .finally(() => setBusy(false));
+  };
+
   return (
     <div className="space-y-6">
+      <Card>
+        <CardHeader>
+          <CardTitle>One Source access</CardTitle>
+        </CardHeader>
+        <CardContent className="space-y-3">
+          <p className="text-sm text-muted-foreground">
+            Remove the One Source of Truth book entitlement from every account. Existing orders remain as payment
+            records; access can be granted again to individual staff or purchasers below.
+          </p>
+          <Button type="button" variant="destructive" disabled={busy} onClick={revokeOneSourceForAll}>
+            Revoke One Source access for all accounts
+          </Button>
+        </CardContent>
+      </Card>
+
       <div className="flex flex-col gap-2 sm:flex-row">
         <Input
           type="email"

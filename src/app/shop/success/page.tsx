@@ -6,13 +6,13 @@ import { Cover } from "@/components/content/cover";
 import { PageIntro } from "@/components/content/page-intro";
 import { buttonVariants } from "@/components/ui/button";
 import { grantTargetsForProduct } from "@/lib/access/entitlements";
-import { ONE_SOURCE_BOOK_ID } from "@/lib/content/book-one-source-of-truth";
 import { getBook, getCourse, getProduct, getProgram } from "@/lib/data/repository";
 import {
+  ONE_SOURCE_BOOK_ID,
   foundationGateCourseId,
   foundationHandbookBookId,
   foundationPrincipleCourseIds,
-} from "@/lib/data/foundation-school";
+} from "@/lib/data/foundation-school-metadata";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
 import { cn } from "@/lib/utils";

@@ -12,7 +12,6 @@ import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
 import { track } from "@/lib/analytics/events";
-import { cacheBookForOffline } from "@/lib/reader/offline-db";
 import type { Book } from "@/lib/data/types";
 import { cn } from "@/lib/utils";
 
@@ -49,7 +48,8 @@ export function BookDetail({ book, context }: { book: Book; context: "learn" | "
         <h1 className="mt-2 font-heading text-3xl tracking-wide">{book.title}</h1>
         <p className="mt-2 text-muted-foreground">{book.subtitle}</p>
         <p className="mt-4 leading-relaxed">{book.description}</p>
-        {chapters.every((chapter) => !chapter.verses?.length && chapter.body.trim().length < 2500) ? (
+        {book.chapterCount === 1 &&
+        chapters.every((chapter) => !chapter.verses?.length && chapter.body.trim().length < 2500) ? (
           <p className="mt-3 text-sm text-muted-foreground">
             The published cover is shown here. Full chapter text is being prepared for the reader; the thesis is
             open as a preview.
@@ -69,7 +69,6 @@ export function BookDetail({ book, context }: { book: Book; context: "learn" | "
             className={cn(buttonVariants(), "h-11 rounded-full px-5")}
             onClick={() => {
               track({ name: "book_open", bookId: book.id });
-              if (fullAccess) void cacheBookForOffline(book, chapters);
             }}
           >
             {reading ? t("action.resume") : t("action.read")}

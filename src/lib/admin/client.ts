@@ -85,6 +85,13 @@ export async function revokeContentAccess(uid: string, entitlementId: string) {
   await call<{ uid: string; entitlementId: string }, { success: true }>("revokeContentAccess")({ uid, entitlementId });
 }
 
+export async function revokeAllOneSourceAccess(confirmation: string) {
+  const result = await call<{ confirmation: string }, { success: true; deletedCount: number }>(
+    "revokeAllOneSourceAccess",
+  )({ confirmation });
+  return result.data.deletedCount;
+}
+
 export async function listAllOrders(): Promise<AdminOrder[]> {
   const result = await call<Record<string, never>, { orders: AdminOrder[] }>("listAllOrders")({});
   return result.data.orders ?? [];

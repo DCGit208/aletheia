@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useParams, useRouter, useSearchParams } from "next/navigation";
 import { Suspense, useEffect, useMemo, useRef, useState } from "react";
 import type { CSSProperties } from "react";
-import { DeniedState, EmptyState } from "@/components/content/query-state";
+import { DeniedState, EmptyState, ErrorState, LoadingState } from "@/components/content/query-state";
 import { buttonVariants } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet";
 import { canAccessContent } from "@/lib/access/entitlements";
@@ -14,8 +14,14 @@ import { useI18n } from "@/lib/i18n/provider";
 import { useUserLibrary } from "@/lib/state/user-library";
 import { cn } from "@/lib/utils";
 import { ReaderMarkdown } from "@/components/books/reader-markdown";
+import { loadProtectedBookChapters } from "@/lib/data/protected-content";
+import type { BookChapter } from "@/lib/data/types";
 
 type ReaderTheme = "light" | "sepia" | "gray" | "dark" | "deep-dark";
+type ProtectedBookLoadState =
+  | { key: string; status: "loaded"; chapters: BookChapter[] }
+  | { key: string; status: "denied" }
+  | { key: string; status: "error"; message: string };
 
 const READER_THEMES: Record<ReaderTheme, {
   label: string;
@@ -46,10 +52,30 @@ function ReaderContent() {
   const { user, loading: authLoading } = useAuth();
   const { entitlements, progress, setReadingProgress } = useUserLibrary();
   const book = getBook(bookId);
-  const chapters = listChapters(bookId);
+  const listedChapters = listChapters(bookId);
+  const [loadState, setLoadState] = useState<ProtectedBookLoadState | null>(null);
+  const [retryToken, setRetryToken] = useState(0);
   const saved = progress.find((item) => item.bookId === bookId);
   const requestedChapterId = searchParams.get("chapter");
-  const chapterId = chapters.find((item) => item.id === requestedChapterId)?.id ?? saved?.chapterId ?? chapters[0]?.id ?? "";
+  const fullAccess = book
+    ? canAccessContent({
+        accessLevel: book.accessLevel,
+        preview: false,
+        entitlements,
+        contentKind: "book",
+        contentId: book.id,
+        user,
+      })
+    : false;
+  const savedChapterAllowed = Boolean(
+    saved?.chapterId && (fullAccess || book?.previewChapterIds.includes(saved.chapterId)),
+  );
+  const chapterId =
+    listedChapters.find((item) => item.id === requestedChapterId)?.id ??
+    (savedChapterAllowed ? saved?.chapterId : undefined) ??
+    listedChapters.find((item) => book?.previewChapterIds.includes(item.id))?.id ??
+    listedChapters[0]?.id ??
+    "";
   const [query, setQuery] = useState("");
   const [fontSize, setFontSize] = useState(1.15);
   const [tocOpen, setTocOpen] = useState(false);
@@ -62,18 +88,52 @@ function ReaderContent() {
     return stored && stored in READER_THEMES ? (stored as ReaderTheme) : "sepia";
   });
 
+  const needsProtectedFetch = listedChapters.some((item) => !item.body.trim());
+  const contentLoadKey = `${bookId}:${user?.uid ?? "anonymous"}:${retryToken}`;
+  const currentLoad = loadState?.key === contentLoadKey ? loadState : null;
+  const loadedChapters = currentLoad?.status === "loaded" ? currentLoad.chapters : [];
+  const chapters = loadedChapters.length > 0 ? loadedChapters : listedChapters;
   const chapter = chapters.find((item) => item.id === chapterId) ?? chapters[0];
   const index = chapters.findIndex((item) => item.id === chapter?.id);
   const allowed = book
-    ? canAccessContent({
-        accessLevel: book.accessLevel,
-        preview: Boolean(chapter && book.previewChapterIds.includes(chapter.id)),
-        entitlements,
-        contentKind: "book",
-        contentId: book.id,
-        user,
+      ? canAccessContent({
+          accessLevel: book.accessLevel,
+          preview: Boolean(chapter && book.previewChapterIds.includes(chapter.id)),
+          entitlements,
+          contentKind: "book",
+          contentId: book.id,
+          user,
+        })
+      : false;
+  const contentError = currentLoad?.status === "error" ? currentLoad.message : null;
+  const serverDenied = currentLoad?.status === "denied";
+  const contentLoading = needsProtectedFetch && allowed && !currentLoad;
+
+  useEffect(() => {
+    if (!needsProtectedFetch || authLoading || !book || !allowed) return;
+
+    let active = true;
+    void loadProtectedBookChapters(book.id)
+      .then((result) => {
+        if (active) setLoadState({ key: contentLoadKey, status: "loaded", chapters: result });
       })
-    : false;
+      .catch((error: unknown) => {
+        if (!active) return;
+        const code =
+          typeof error === "object" && error !== null && "code" in error && typeof error.code === "string"
+            ? error.code
+            : "";
+        if (code === "functions/permission-denied" || code === "functions/unauthenticated") {
+          setLoadState({ key: contentLoadKey, status: "denied" });
+        } else {
+          console.error("Unable to load protected book content.", error);
+          setLoadState({ key: contentLoadKey, status: "error", message: "The chapter text could not be loaded. Try again." });
+        }
+      });
+    return () => {
+      active = false;
+    };
+  }, [allowed, authLoading, book, contentLoadKey, needsProtectedFetch]);
 
   useEffect(() => {
     window.localStorage.setItem("aletheia-reader-theme", readerTheme);
@@ -135,6 +195,15 @@ function ReaderContent() {
   }, [chapter, query]);
 
   if (!book || !chapter) return <EmptyState title="Book not found." />;
+  if (serverDenied) {
+    return (
+      <DeniedState
+        productId={book.productId}
+        yearProductId="product-foundation-year"
+        showYear={book.id === "book-principles-doctrine-christ" || Boolean(book.productId?.includes("doctrine") || book.productId?.includes("repentance"))}
+      />
+    );
+  }
   if (!allowed) {
     return (
       <DeniedState
@@ -143,6 +212,12 @@ function ReaderContent() {
         showYear={book.id === "book-principles-doctrine-christ" || Boolean(book.productId?.includes("doctrine") || book.productId?.includes("repentance"))}
       />
     );
+  }
+  if (contentLoading || (needsProtectedFetch && !loadedChapters.length && !contentError)) {
+    return <LoadingState label="Loading chapter text" />;
+  }
+  if (contentError) {
+    return <ErrorState message={contentError} onRetry={() => setRetryToken((value) => value + 1)} />;
   }
 
   const theme = READER_THEMES[readerTheme];

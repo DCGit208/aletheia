@@ -19,6 +19,7 @@ import { ensureVapid, notifyAdministrators, notifyQuietly, vapidPrivateKey } fro
 
 export * from "./admin.js";
 export * from "./community.js";
+export * from "./protected-content.js";
 
 initializeApp();
 

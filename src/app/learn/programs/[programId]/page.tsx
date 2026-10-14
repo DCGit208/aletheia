@@ -7,7 +7,7 @@ import { EmptyState } from "@/components/content/query-state";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { holdsEntitlement } from "@/lib/access/entitlements";
 import { currentUnitIndex, weekInYear } from "@/lib/learn/pacing";
-import { foundationGateCourseId } from "@/lib/data/foundation-school";
+import { foundationGateCourseId } from "@/lib/data/foundation-school-metadata";
 import { getCourse, getProduct, getProgram, getSchool } from "@/lib/data/repository";
 import { useAuth } from "@/lib/auth/provider";
 import { useI18n } from "@/lib/i18n/provider";

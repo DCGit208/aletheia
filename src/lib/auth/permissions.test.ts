@@ -62,7 +62,7 @@ describe("entitlements", () => {
     );
   });
 
-  it("lets publication reviewers read entitled books without a purchase grant", () => {
+  it("does not grant paid publication access without an entitlement", () => {
     assert.equal(
       canAccessContent({
         accessLevel: "entitled",
@@ -72,7 +72,7 @@ describe("entitlements", () => {
         contentId: "book-doctrine-of-man",
         user: { email: "r.coachachu@btheducationgroup.org", role: "member" },
       }),
-      true,
+      false,
     );
     assert.equal(
       canAccessContent({
@@ -87,7 +87,7 @@ describe("entitlements", () => {
     );
   });
 
-  it("lets the ddr review account open courses, programs, and publications", () => {
+  it("does not grant all-content reviewer access by email", () => {
     const reviewer = { email: "ddr.coachachu@btheducationgroup.org", role: "member" as const };
     assert.equal(
       canAccessContent({
@@ -98,7 +98,7 @@ describe("entitlements", () => {
         contentId: "course-fs-repentance",
         user: reviewer,
       }),
-      true,
+      false,
     );
     assert.equal(
       canAccessContent({
@@ -109,7 +109,7 @@ describe("entitlements", () => {
         contentId: "program-foundation-year",
         user: reviewer,
       }),
-      true,
+      false,
     );
     assert.equal(
       canAccessContent({
@@ -120,7 +120,7 @@ describe("entitlements", () => {
         contentId: "book-doctrine-of-man",
         user: reviewer,
       }),
-      true,
+      false,
     );
   });
 
