@@ -56,7 +56,7 @@ export function BookDetail({ book, context }: { book: Book; context: "learn" | "
               content={
                 introductionExpanded
                   ? book.description
-                  : book.description.split(/\n\s*\n/).slice(0, 4).join("\n\n")
+                  : book.description.split(/\n\s*\n/).slice(0, 3).join("\n\n")
               }
               className="mt-4"
               fontSize={1}

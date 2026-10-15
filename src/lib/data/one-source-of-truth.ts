@@ -17,10 +17,7 @@ export const oneSourceBook: Book = {
   id: ONE_SOURCE_BOOK_ID,
   title: oneSourceBookTitle,
   subtitle: `${oneSourceBookSubtitle} · ${oneSourceBookTag}`,
-  description: `# ONE SOURCE OF TRUTH
-
-## The Doctrine of the Graphē
-**What makes something true—and how can we know?**
+  description: `**What makes something true—and how can we know?**
 
 We live among competing claims about what is true. Some are inherited. Others are taught, discovered, interpreted, or accepted because we trust the people who present them. Some become so familiar that questioning them feels unnecessary. Others are defended with such confidence that confidence itself begins to look like evidence.
 
