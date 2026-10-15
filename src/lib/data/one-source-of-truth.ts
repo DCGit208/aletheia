@@ -17,8 +17,22 @@ export const oneSourceBook: Book = {
   id: ONE_SOURCE_BOOK_ID,
   title: oneSourceBookTitle,
   subtitle: `${oneSourceBookSubtitle} · ${oneSourceBookTag}`,
-  description:
-    "Before Christianity can speak authoritatively about what man should believe, how he should live, how he should grow, or how he should hear from God, it must establish the authority by which those claims are known. That authority is the Graphē — Holy Writ: one written source, and the primary authority for hearing from God and for spiritual growth.",
+  description: `# ONE SOURCE OF TRUTH
+
+## The Doctrine of the Graphē
+**What makes something true—and how can we know?**
+
+We live among competing claims about what is true. Some are inherited. Others are taught, discovered, interpreted, or accepted because we trust the people who present them. Some become so familiar that questioning them feels unnecessary. Others are defended with such confidence that confidence itself begins to look like evidence.
+
+Yet a claim may be sincerely believed, widely accepted, logically appealing, institutionally endorsed, and repeatedly asserted—and still be false.
+
+The difficulty is not simply that people disagree about truth. It is that **the very grounds on which we accept something as true may themselves require examination.** We may trust a source without having established its reliability, accept an explanation without examining its foundations, or mistake the strength of our conviction for the strength of the evidence behind it.
+
+When competing claims cannot all be true, what determines which one deserves to be accepted? What makes a source authoritative, and on what grounds can that authority itself be established?
+
+These questions reach beyond individual beliefs. They lead us to the foundation upon which claims to truth must stand—and to whether what we accept as knowledge rests on grounds that can withstand examination.
+
+*One Source of Truth — The Doctrine of the Graphē* brings the reader to the foundation of this inquiry: the source and authority of truth, and the grounds upon which it can be known.`,
   authors: [achu],
   contributors: [],
   publisher: "Aletheia Publications",

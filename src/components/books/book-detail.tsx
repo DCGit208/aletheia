@@ -1,6 +1,8 @@
 "use client";
 
 import Link from "next/link";
+import { useState } from "react";
+import { ReaderMarkdown } from "@/components/books/reader-markdown";
 import { Cover } from "@/components/content/cover";
 import { CoverArtworkPicker } from "@/components/content/cover-artwork-picker";
 import { Badge } from "@/components/ui/badge";
@@ -16,6 +18,7 @@ import type { Book } from "@/lib/data/types";
 import { cn } from "@/lib/utils";
 
 export function BookDetail({ book, context }: { book: Book; context: "learn" | "publications" }) {
+  const [introductionExpanded, setIntroductionExpanded] = useState(false);
   const { t } = useI18n();
   const { user } = useAuth();
   const { entitlements, bookmarks, toggleBookmark, progress } = useUserLibrary();
@@ -47,7 +50,29 @@ export function BookDetail({ book, context }: { book: Book; context: "learn" | "
         </p>
         <h1 className="mt-2 font-heading text-3xl tracking-wide">{book.title}</h1>
         <p className="mt-2 text-muted-foreground">{book.subtitle}</p>
-        <p className="mt-4 leading-relaxed">{book.description}</p>
+        {book.id === "book-one-source-of-truth" ? (
+          <>
+            <ReaderMarkdown
+              content={
+                introductionExpanded
+                  ? book.description
+                  : book.description.split(/\n\s*\n/).slice(0, 4).join("\n\n")
+              }
+              className="mt-4"
+              fontSize={1}
+            />
+            <button
+              type="button"
+              className="mt-1 text-sm font-medium text-primary underline underline-offset-4"
+              aria-expanded={introductionExpanded}
+              onClick={() => setIntroductionExpanded((expanded) => !expanded)}
+            >
+              {introductionExpanded ? "Read less" : "Read more"}
+            </button>
+          </>
+        ) : (
+          <p className="mt-4 leading-relaxed">{book.description}</p>
+        )}
         {book.chapterCount === 1 &&
         chapters.every((chapter) => !chapter.verses?.length && chapter.body.trim().length < 2500) ? (
           <p className="mt-3 text-sm text-muted-foreground">
