@@ -132,4 +132,4 @@ The current drafts were checked by chapter headings, major argument passages, an
 
 The ten-chapter structure is the current working recommendation, not a locked decision. After inspecting the first-pass drafts, the Hebrews 11:2, 5–6 / Matthew 3:17 Sonship-and-pleasing-God inquiry is best integrated into the *pistis* chapter because it directly extends the source's faith/state/Sonship argument; a standalone chapter would risk repeating that same argument after the design chapters. This remains open to revision if the full prose rewrite reveals a genuine independent movement that cannot be handled coherently in Chapter 2.
 
-**No wholesale chapter rewrites have been made.** Limited corrections were made only where existing draft text directly contradicted the owner's corrected Book I / Book II boundary.
+**No wholesale rewrites of the existing nine drafts have been made.** A new first working draft for the foundation chapter has been created after the source/argument reconstruction; limited corrections were also made where existing draft text directly contradicted the owner's corrected Book I / Book II boundary.
