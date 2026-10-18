@@ -15,13 +15,11 @@
 **Status:** Approved to proceed by the owner's “Go ahead” on 2026-10-18. The nine-chapter structure is the working controlled architecture. Revisions remain possible through an explicit owner decision; unresolved doctrinal questions below remain open.
 
 ### A2. Book I's boundary with Book II
-**Question:** How much of Hebrews 11:2, 5–6 and the faith/pleasing-God relationship belongs in Book I, and what should be reserved for *Faith Is Evidence*?
+**Question:** How should Book I establish the foundation of faith while Book II develops faith as evidence?
 
-**Constraint:** Book II's distinctive focus includes Hebrews 11:1, *hypostasis*, substance, and evidence. Do not merge the books.
+**Corrected direction (owner, 2026-10-18):** Hebrews 11:1 and *hypostasis* are foundational to Book I because the Aletheia notes and etymological inquiry connect substance with the person's underlying nature and state. Book II's distinctive focus is faith as evidence, building on this foundation. Hebrews 11:1 can be revisited in Book II, but the foundational treatment cannot be deferred there.
 
-**Working recommendation:** Book I may establish a controlled bridge where necessary, but should not become the full Book II argument.
-
-**Status:** Open.
+**Status:** Direction clarified; detailed architecture revision required.
 
 ### A3. Standalone-book treatment of course language
 **Question:** Which phrases in the app companion referring to “Course 1,” “this school,” “Course 3,” “this course,” “the next chapter will baptize,” and course further-reading instructions should be removed, adapted, or retained as provenance?
@@ -97,6 +95,15 @@
 **Question:** How should its “as he is, so are we in this world” statement support the wider present-reality thesis while preserving its context of love and confidence?
 
 **Status:** Open.
+
+### A3. Foundational role of Hebrews 11:1 and *hypostasis*
+**Question:** What is the correct chapter sequence when Book I is built from faith as *hypostasis* / substance and the person's underlying nature and state?
+
+**Owner direction (2026-10-18):** This is the foundation and core of Book I, not a topic reserved for Book II. The manuscript must develop the source notes and etymological argument carefully, distinguish lexical evidence from Aletheia teaching and owner synthesis, and then show how the remaining doctrinal clusters relate to the foundation.
+
+**Required action:** Reassess the current nine-chapter architecture before treating it as validated. Preserve all current chapter drafts as working material. Do not settle lexical or doctrinal details by assumption.
+
+**Status:** Open for detailed architecture work; governing direction established.
 
 ## D. Source and publication decisions
 
