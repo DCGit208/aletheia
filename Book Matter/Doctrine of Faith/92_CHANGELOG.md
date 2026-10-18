@@ -35,3 +35,11 @@
 - Created `04_TRUE_NATURE_PARTAKERS_OF_DIVINE_NATURE.md`, preserving the app-companion exposition of 2 Peter 1:2–8. It keeps the promises, participation in divine nature, escape from corruption, and the diligence/virtue/knowledge sequence together. It retains “back on course” as the Aletheia source's conceptual formulation rather than an exhaustive lexical definition.
 - Created `05_WHY_DID_JESUS_COME_GLORY_DEVIATION_REPRESENTATION.md`, preserving the app-companion argument from Romans 3:21–26 and 1 Corinthians 11:7. It distinguishes the source's interpretation of coming short of glory as deviation from true nature from the wider owner-supplied design/restoration synthesis.
 - Existing app content remains untouched. Chapters 4 and 5 are working drafts; the remaining chapters and book-level source-fidelity audit are still pending.
+
+
+## 2026-10-18 — Canonical Chapter 6 draft
+
+- Created `06_DIKAIOO_JUSTIFIED_FREELY_RIGHTEOUSNESS_IN_CHRIST.md`, preserving both existing app-companion movements: free justification through redemption and the present-tense reading of 2 Corinthians 5:21.
+- Preserved the Aletheia leaflet's gloss for `dikaioō` (“render just or innocent, free from evil or guilt”) and the owner's additional working formulation (“to render righteous or such as he ought to be”) as distinct recorded formulations.
+- Preserved the source gloss for `apolutrōsis` (“redemption; ransom in full”) and the “in Him” wording in 2 Corinthians 5:21.
+- The lexical relationship remains open for deliberate review; existing app prose remains untouched.
