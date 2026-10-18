@@ -518,3 +518,43 @@ They are now part of the Aletheia Faith study reference and should be consulted 
 - evidence;
 - or the relationship between God's nature, human design, and faith.
 
+
+
+---
+
+## 22. Owner direction — Hypostasis is foundational to Book I
+
+**Direction recorded: 2026-10-18.** The owner has clarified that *hypostasis* is the very basis and core of Book I, *The Doctrine of Faith*. Hebrews 11:1 and the study of *hypostasis* are not to be reserved for Book II merely because the verse also contains “evidence.” The owner's governing thesis is that faith as substance, examined through the word and the connected scriptural argument, explains faith as the person's underlying nature and state.
+
+### Required architecture consequence
+
+- Book I must establish Hebrews 11:1 / *hypostasis* as a foundation and then develop the Aletheia source's teaching that *pistis* / credence defines the state of children of God.
+- Book II, *Faith Is Evidence*, develops faith as evidence from the foundation established in Book I. It may revisit Hebrews 11:1 but must not be the first or only book to explain *hypostasis* as foundational.
+- The existing nine Book I drafts are preserved working material, not a validated final sequence. Reassess the chapter order from the foundation and its conceptual dependencies; do not merely insert a short *hypostasis* section into the old outline.
+- Keep the earlier master conceptual chain in Section 13 as a map of relationships to investigate. Its placement of substance/evidence near the end must not override this later architecture direction. Distinguish the **foundational order of explanation** (start by establishing the governing *hypostasis* proposition) from the **doctrinal relationships unfolded in the book** (God's nature, image/likeness, design, Sonship, faith, deviation, Christ, redemption, righteousness, heirship, divine nature, oneness, present reality). The final synthesis can return to how the full argument illuminates faith as substance without making the foundational subject an afterthought.
+- Preserve the four categories: explicit Aletheia source teaching; explicit Scripture wording and context; synthesis; owner's developing doctrinal formulation.
+
+### Source-fidelity clarification
+
+The 2015 *Aletheia Libraries 1* leaflet's “Faith toward God” section explicitly begins from Hebrews 6:1 and teaches *pistis* / credence as defining our state as children of God, linking it to acceptance / true nature, adoption, image and likeness, divine nature, coming short of glory, justification, righteousness, redemption, heirship, oneness, and Christ as the image of God.
+
+The leaflet does **not** itself explicitly quote Hebrews 11:1 or use the term *hypostasis*. Therefore the manuscript must not attribute the *hypostasis* argument to the leaflet. Instead, it must develop a reasoned connection between Hebrews 11:1 and the leaflet's explicit *pistis* / state / nature teaching, with lexical and contextual evidence clearly distinguished from synthesis.
+
+### Lexical and contextual discipline
+
+- Examine the semantic range of *hypostasis*, including substance / actual reality / nature and confidence / assurance; do not treat etymology alone as a complete definition.
+- Compare Hebrews 11:1 with Hebrews 1:3 and 3:14 in context. The same noun across passages is a reason to compare uses, not proof that every occurrence has an identical nuance.
+- Read Hebrews 11:1 in the flow from Hebrews 10:32–39 and into Hebrews 11:2–6, preserving hope, endurance, testimony, pleasing God, and the unseen.
+- The owner's thesis about faith as underlying nature/state must be developed and demonstrated rather than falsely presented as a direct quotation from the leaflet or as a conclusion proven by word parts alone.
+
+### Coordinated project records
+
+This direction is implemented in:
+- Book Matter/Doctrine of Faith/94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md
+- Book Matter/Doctrine of Faith/95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md
+- Book Matter/Doctrine of Faith/00_DOCTRINE_OF_FAITH_MASTER_MANUSCRIPT_BLUEPRINT.md
+- Book Matter/Doctrine of Faith/90_OPEN_QUESTIONS_AND_OWNER_DECISIONS.md
+- Book Matter/Doctrine of Faith/91_SOURCE_AND_SCRIPTURE_COVERAGE_AUDIT.md
+- Book Matter/Doctrine of Faith/92_CHANGELOG.md
+
+The previous instruction in the first architecture proposal to reserve the foundation for Book II is superseded. Existing app companion content remains untouched.
