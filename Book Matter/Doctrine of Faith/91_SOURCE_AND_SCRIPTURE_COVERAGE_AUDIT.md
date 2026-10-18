@@ -321,3 +321,16 @@ The approved-to-proceed nine-chapter working architecture now has canonical Mark
 
 
 **Follow-on review record:** The first-draft source-fidelity review is documented in `93_FIRST_DRAFT_SOURCE_FIDELITY_REVIEW.md`. That review also records the Chapter 2 contextual additions for Mark 11:22 and Matthew 5:48 and the substantive integration of Ephesians 1:7 / Colossians 1:13–14 in Chapter 5. See the open-decision register for questions that remain unresolved despite the passages now being included.
+
+
+## 12. Foundation-first architecture correction — 2026-10-18
+
+The original nine-chapter structure and its source-fidelity review remain useful as records of the first drafting pass, but they do not validate the architecture after the owner's clarification that Hebrews 11:1 and hypostasis are the foundation and core of Book I. The former instruction to reserve that foundation primarily for Book II is superseded.
+
+**Critical source finding:** The 2015 leaflet's Faith Toward God section explicitly uses Hebrews 6:1 and says pistis / credence defines the state of children of God. It connects that state with true nature, adoption, image/likeness, divine nature, justification, righteousness, heirship, and oneness. It does not explicitly quote Hebrews 11:1 or use hypostasis. The book must not attribute the latter to the leaflet; it must reason from the wider Scripture/lexical study into the leaflet's state/nature teaching.
+
+**Lexical control:** The initial public lexical cross-check confirms a semantic range including substance/actual reality/nature and confidence/assurance. Hebrews 1:3, 3:14, and 11:1 must be compared contextually. Etymology alone is not a sufficient proof of the owner's full doctrinal thesis.
+
+**Current architecture work:** See `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md` for the source-and-reasoning map and `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md` for the eleven-chapter working proposal. The chapter count is provisional. Existing nine drafts remain preserved and are to be mapped into the corrected structure rather than discarded.
+
+**Next gate:** Validate chapter sequence and argument dependencies against the complete source map, Scripture matrix, owner notes, and all existing drafts. Only then begin coordinated substantive chapter rewrites. Hebrews 1:8 and lexical decisions remain open for owner review.
