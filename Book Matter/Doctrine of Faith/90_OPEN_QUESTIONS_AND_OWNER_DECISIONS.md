@@ -103,7 +103,7 @@
 
 **Required action:** Reassess the current nine-chapter architecture before treating it as validated. Preserve all current chapter drafts as working material. Do not settle lexical or doctrinal details by assumption.
 
-**Status:** Open for detailed architecture work; governing direction established.
+**Status:** Governing direction established. The initial reconstruction and revised proposal are now recorded in `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md` and `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md`; the chapter sequence still requires validation.
 
 ## D. Source and publication decisions
 
@@ -139,4 +139,14 @@ When resolved, update this file, the Master Manuscript Blueprint, the coverage a
 
 The nine-chapter working architecture has canonical Markdown drafts for Chapters 1–9. This completes the first drafting pass, not the doctrinal approval process. The source/Scripture categories remain distinct, and the existing app companion is preserved.
 
-**Next review priority:** B1, the Hebrews 1:8 inference. The manuscript has made the reasoning visible and supplied a provisional answer so the source question is not left blank, but the final doctrinal formulation remains the owner's decision. Other open items—including lexical formulations, the scope of the design/representation thesis, and Book I/Book II boundary—remain open until explicitly decided.
+**Next review priority:** First validate the foundation-first architecture and the relationship among Hebrews 11:1, hypostasis, the owner's underlying-nature/state thesis, and the leaflet's explicit pistis/sonship teaching. The reconstruction and revised proposal are recorded in documents 94 and 95. After that sequence is established, return to B1 (Hebrews 1:8), whose final doctrinal formulation remains the owner's decision, alongside the lexical formulations and the scope of the design/representation thesis.
+
+
+### A4. Relationship between Hebrews 11:1 / hypostasis and the leaflet's pistis / state teaching
+**Question:** How does the foundation in Hebrews 11:1 and the lexical range of hypostasis establish the framework through which the Aletheia leaflet's explicit teaching about pistis, credence, and the state of children of God is to be understood?
+
+**Evidence distinction:** The 2015 leaflet's Faith Toward God section explicitly cites Hebrews 6:1 and discusses pistis / credence, true nature, and Sonship. It does not itself quote Hebrews 11:1 or use hypostasis. The two lines must be joined by an explicit argument, not by false attribution.
+
+**Working direction:** Compare Hebrews 11:1 with Hebrews 1:3 and 3:14; account for the word's semantic range and context; then show how the owner's thesis about faith as substance and underlying nature/state relates to the Aletheia source's pistis/state teaching. Do not treat etymology alone as proof.
+
+**Status:** Active foundation-first reconstruction; see documents 94 and 95.
