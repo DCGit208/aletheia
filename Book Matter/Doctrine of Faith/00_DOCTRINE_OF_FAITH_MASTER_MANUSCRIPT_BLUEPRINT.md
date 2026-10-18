@@ -338,9 +338,9 @@ Do not reopen questions that the owner has already locked in `study/11_OWNER_DEC
 
 The following are review tasks, not assumed decisions:
 
-1. Review and approve or correct the proposed nine-chapter architecture in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md`.
+1. Review the foundation-first proposal in `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md` against the source/dependency audit; treat `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md` as the superseded first proposal.
 2. Reassess placement of Hebrews 11:2, 5–6 and Matthew 3:17 in the foundation-first structure. Hebrews 11:1 / *hypostasis* is foundational to Book I; Book II develops evidence.
-3. Confirm the proposed treatment of Mark 11:22 and Matthew 5:48 in Chapter 2, preserving context and marking synthesis.
+3. Confirm the placement and treatment of Mark 11:22 and Matthew 5:48 in the revised architecture, preserving context and marking synthesis.
 4. Review the explicit reasoning required to answer the source's Hebrews 1:8 question.
 5. Resolve only genuine source, lexical, or argument conflicts that cannot be answered from the existing source and owner decisions.
 
