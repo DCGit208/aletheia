@@ -3,7 +3,7 @@
 **Book:** *The Doctrine of Faith* (Book I)  
 **Repository:** `DCGit208/aletheia`  
 **Audit phase:** Gate A completed; canonical draft implementation status updated  
-**Status:** Initial source audit completed and nine-chapter working architecture implemented in canonical Markdown. This remains a working audit, not owner approval of every doctrinal conclusion or final publication approval. The existing app companion remains preserved.
+**Status:** Initial source audit and first nine-chapter drafting pass completed. The nine drafts are preserved working material; the final architecture is being reconstructed from the owner's direction that Hebrews 11:1 / *hypostasis* is foundational to Book I. This remains a working audit, not final doctrinal or publication approval. The existing app companion remains preserved.
 
 ## 1. Executive finding
 
@@ -237,7 +237,7 @@ This means the eight entries are not a one-to-one match with the current thirtee
 | Faith as state, not merely mental belief/mood | Present throughout | Core working thesis, not a standalone proof. Demonstrate rather than repeat. |
 | *Dikaioō*: “render righteous or such as he ought to be” | Not clearly integrated as the distinct owner formulation | Add to the lexical decision record beside the leaflet's printed gloss. |
 | “Design → deviation → Christ → redemption → restoration → righteousness → sonship/heirship → present reality” | Partly developed | Use as an argument map; do not treat each arrow as explicitly stated in one passage. |
-| Book II: *Faith Is Evidence*, *hypostasis*, substance/evidence | Not developed as a full argument here | Preserve as Book II boundary. Book I may set up the question, but must not become the full Hebrews 11:1 / *hypostasis* volume. |
+| Hebrews 11:1 / *hypostasis* / substance foundation | Not developed in the original nine drafts | This is a major foundational gap to correct in Book I. Book II develops faith as evidence from that foundation. See documents 94–95. |
 
 ## 7. Editorial and doctrinal review flags
 
@@ -303,7 +303,7 @@ When new notes arrive:
 
 ## 11. Implementation status — 2026-10-18
 
-The approved-to-proceed nine-chapter working architecture now has canonical Markdown working drafts for all chapters:
+The original nine-chapter first drafting pass has canonical Markdown working drafts for all chapters. Following the owner's correction, these are preserved source-bearing drafts, not a validated final chapter sequence:
 
 | Chapter | Canonical manuscript | Main audit focus still required |
 |---|---|---|
@@ -334,3 +334,10 @@ The original nine-chapter structure and its source-fidelity review remain useful
 **Current architecture work:** See `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md` for the source-and-reasoning map and `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md` for the eleven-chapter working proposal. The chapter count is provisional. Existing nine drafts remain preserved and are to be mapped into the corrected structure rather than discarded.
 
 **Next gate:** Validate chapter sequence and argument dependencies against the complete source map, Scripture matrix, owner notes, and all existing drafts. Only then begin coordinated substantive chapter rewrites. Hebrews 1:8 and lexical decisions remain open for owner review.
+
+
+## 13. Corrected foundation-first audit direction — 2026-10-18
+
+The previous audit treated the absence of a full Hebrews 11:1 / *hypostasis* exposition as a Book II boundary. That was incorrect. It is now a Book I foundation gap. The 2015 leaflet's Faith Toward God section explicitly teaches *pistis* / credence as defining the state of children of God, but does not itself quote Hebrews 11:1 or use *hypostasis*. The required work is to reason carefully from Hebrews 11:1 and the lexical/contextual study into the Aletheia source's state/nature teaching, preserving source attribution and distinguishing the owner's doctrinal thesis from explicit source wording.
+
+The new reconstruction dossier is `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md`; the revised architecture proposal is `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md`. The eleven-chapter count is provisional. No existing drafts or app companion have been deleted. The next gate is a full dependency/coverage audit of the proposed structure before coordinated substantive rewrites.
