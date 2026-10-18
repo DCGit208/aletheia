@@ -37,6 +37,8 @@ export const catalog: CatalogSnapshot = {
         "book-doctrine-of-resurrection",
         "book-doctrine-of-eternal-judgment",
         "book-one-source-of-truth",
+        "book-god-of-pleasure",
+        "book-death-absence-of-knowledge",
         "book-principles-doctrine-christ",
         "article-unveiled-speech",
         "article-steward-city",
@@ -55,6 +57,8 @@ export const catalog: CatalogSnapshot = {
         "book-doctrine-of-resurrection",
         "book-doctrine-of-eternal-judgment",
         "book-one-source-of-truth",
+        "book-god-of-pleasure",
+        "book-death-absence-of-knowledge",
         "book-principles-doctrine-christ",
       ],
       articleIds: ["article-unveiled-speech", "article-steward-city"],
@@ -372,6 +376,46 @@ export const catalog: CatalogSnapshot = {
       chapterCount: 1,
     },
 
+    {
+      id: "book-god-of-pleasure",
+      title: "The God of Pleasure",
+      subtitle: "Understanding Who He Is, What It Says, and Why This Book",
+      description:
+        "A study framed by Revelation 4:11, examining the pleasure of God and challenging portrayals of God as an oppressor. The book's stated thesis connects God's purpose and the life He gives with the abundant life named in John 10:10. This in-app entry currently contains an introductory study record; the complete manuscript must be supplied before the full book can be represented as available.",
+      authors: [achu],
+      contributors: [],
+      publisher: BRAND.publications,
+      publishedAt: "2026-10-18",
+      language: "en",
+      edition: "First",
+      categories: ["God", "Nature of God", "Truth"],
+      tags: ["god", "pleasure", "revelation-4-11", "john-10-10", "divine-nature"],
+      coverTone: "gold",
+      status: "published",
+      accessLevel: "public",
+      previewChapterIds: ["ch-god-of-pleasure-introduction"],
+      chapterCount: 1,
+    },
+    {
+      id: "book-death-absence-of-knowledge",
+      title: "Death Is the Absence of Knowledge",
+      subtitle: "My People Are Destroyed for Lack of Knowledge",
+      description:
+        "A study framed by Hosea 4:6 and the relationship between knowledge and destruction. This in-app entry currently contains an introductory study record; the complete manuscript must be supplied before the full book can be represented as available.",
+      authors: [achu],
+      contributors: [],
+      publisher: BRAND.publications,
+      publishedAt: "2026-10-18",
+      language: "en",
+      edition: "First",
+      categories: ["Truth", "Knowledge", "Formation"],
+      tags: ["knowledge", "hosea-4-6", "scripture", "learning", "truth"],
+      coverTone: "ink",
+      status: "published",
+      accessLevel: "public",
+      previewChapterIds: ["ch-death-absence-knowledge-introduction"],
+      chapterCount: 1,
+    },
     ...foundationBooks,
   ],
   chapters: [
@@ -503,6 +547,28 @@ A study of 2 Thessalonians 2:3–12.
 A people that will not receive the truth does not become empty. It becomes occupied. This book is a study, not a slogan: how refusal prepares the ground for a lie that feels like home.
 
 The cover is published. The full study will enter this reader next.`,
+    },
+    {
+      id: "ch-god-of-pleasure-introduction",
+      bookId: "book-god-of-pleasure",
+      number: 1,
+      title: "Introduction",
+      body: `Revelation 4:11 is the stated scriptural anchor of The God of Pleasure.
+
+The book's stated thesis challenges the framing of God as an oppressor and examines who He is, what the Scripture says, and why this question matters. Its proposed connection to John 10:10 places the question of God's pleasure alongside the life Christ says He came to give.
+
+This is an introductory catalogue reading, not the complete manuscript. The full author-approved text must be added before the book can be presented as a complete study.`,
+    },
+    {
+      id: "ch-death-absence-knowledge-introduction",
+      bookId: "book-death-absence-of-knowledge",
+      number: 1,
+      title: "Introduction",
+      body: `Hosea 4:6 is the stated scriptural anchor of Death Is the Absence of Knowledge: “My people are destroyed for lack of knowledge.”
+
+This book takes the relationship between knowledge and destruction as its central question. Its full argument, chapter structure, and supporting material must be drawn from the author's manuscript rather than reconstructed from the title alone.
+
+This is an introductory catalogue reading, not the complete manuscript. The full author-approved text must be added before the book can be presented as a complete study.`,
     },
     ...protectedChapterIndex,
   ],
@@ -912,6 +978,8 @@ The cover is published. The full study will enter this reader next.`,
       "book-doctrine-of-laying-on-of-hands",
       "book-doctrine-of-resurrection",
       "book-doctrine-of-eternal-judgment",
+      "book-god-of-pleasure",
+      "book-death-absence-of-knowledge",
     ],
     featuredJournalIds: ["journal-aletheia"],
     announcementIds: ["ann-foundation", "ann-journal"],
