@@ -400,16 +400,16 @@ The audit reviewed the eight existing entries in `src/lib/content/companion-fait
 - The 2015 leaflet remains the controlling compressed source for the Course 2 / Faith Toward God teaching.
 - The supplied Bible introduction is supplementary reference material, not a substitute source for Aletheia's doctrine or lexical glosses.
 - The audit identifies high-priority owner-review points around Hebrews 1:8, lexical formulations, course-specific language in a standalone book, and integration of Hebrews 11:2, 5–6; Matthew 3:17; Mark 11:22; Matthew 5:48; Ephesians 1:7; and Colossians 1:14.
-- The final Book I architecture is **not yet approved**. The ten-movement map in the audit is a review aid, not an automatic ten-chapter decision.
+- The nine-chapter working architecture was approved to proceed by the owner's “Go ahead” on 2026-10-18. The ten-movement map in the audit remains a review aid, not an automatic ten-chapter decision.
 
 ### Status after initial Gate A
 
 - [x] Existing app companion located and audited at chapter-entry level.
 - [x] Initial source and Scripture coverage audit created.
 - [x] Main source-vs-synthesis and structure issues recorded.
-- [ ] Final Book I architecture validated.
+- [x] Nine-chapter working architecture approved to proceed on 2026-10-18; it remains revisable by explicit owner decision.
 - [ ] Every Scripture cluster checked in full against the source matrix and owner decisions.
-- [ ] Canonical Markdown chapter drafts created/revised.
+- [ ] Canonical Markdown chapter drafts created/revised (Chapters 1 and 2 drafted; Chapters 3–9 remain).
 - [ ] Book-level doctrinal and source-fidelity audit completed.
 
 **Next controlled step:** Gate B — validate the book's reader-facing architecture against the audit. Do not draft the canonical chapters as if the current eight-entry structure were already final.
@@ -421,6 +421,10 @@ The initial Gate B proposal is recorded in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOS
 
 **Recommendation:** nine reader-facing chapters. Preserve the first seven existing chapter functions; separate the current app entry 8 into Chapter 8 (John 17:20–23, oneness and glory) and Chapter 9 (2 Corinthians 4:1–6, image/light/face and Book I synthesis). Keep free justification and present righteousness together in Chapter 6, and keep Hebrews 1:8 and heirship together in Chapter 7 with two distinct movements.
 
-This structure is proposed, not owner-approved. The chapter map does not authorize any deletion or overwrite of the existing app prose. Canonical chapter files should be created only after the owner confirms or corrects the architecture.
+This structure is approved to proceed as the working architecture following the owner's “Go ahead” on 2026-10-18. It remains revisable by explicit owner decision. This approval does not settle open doctrinal questions. The chapter map does not authorize deletion or overwrite of existing app prose.
 
-**Next controlled action:** owner review of the proposal, then record the decision and create the canonical Markdown chapters one at a time.
+**Canonical drafts created:**
+- `01_PISTIS_CREDENCE_THAT_DEFINES_SONS.md`
+- `02_ELOHIM_IMAGE_LIKENESS_AND_DESIGN.md`
+
+**Next controlled action:** draft Chapters 3–9 one at a time, preserving source content and marking Scripture, Aletheia source teaching, synthesis, and owner formulations distinctly.
