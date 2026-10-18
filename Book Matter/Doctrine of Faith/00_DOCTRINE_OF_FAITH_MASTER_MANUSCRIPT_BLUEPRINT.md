@@ -428,3 +428,16 @@ This structure is approved to proceed as the working architecture following the 
 - `02_ELOHIM_IMAGE_LIKENESS_AND_DESIGN.md`
 
 **Next controlled action:** draft Chapters 3–9 one at a time, preserving source content and marking Scripture, Aletheia source teaching, synthesis, and owner formulations distinctly.
+
+
+### Drafting update — 2026-10-18
+
+The following canonical chapter drafts are now present:
+
+- `01_PISTIS_CREDENCE_THAT_DEFINES_SONS.md`
+- `02_ELOHIM_IMAGE_LIKENESS_AND_DESIGN.md`
+- `03_PSALM_82_WITH_JOHN_10.md`
+- `04_TRUE_NATURE_PARTAKERS_OF_DIVINE_NATURE.md`
+- `05_WHY_DID_JESUS_COME_GLORY_DEVIATION_REPRESENTATION.md`
+
+Chapters 6–9 remain to be drafted. Existing app content remains unchanged. The chapters are working drafts and do not resolve the open doctrinal decisions recorded in the owner-decision register.
