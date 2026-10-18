@@ -71,19 +71,19 @@ The repository search did not locate an existing file specifically serving as th
 
 ### Book I — *The Doctrine of Faith*
 
-**Function:** Establish and develop the doctrine of faith through the source's teaching and its connected Scripture architecture. The work should make clear what faith is in relation to *pistis*, sonship, adoption, image and likeness, God's nature, the original design of humanity, redemption, justification, righteousness, heirship, oneness, and the present reality in Christ, to the extent established by the source and owner-approved synthesis.
+**Function:** Establish and develop the doctrine of faith from its foundation in Hebrews 11:1 and the Aletheia treatment of *hypostasis* as substance, in relation to the owner's thesis that faith concerns the person's underlying nature and state. This foundational argument must then be developed in relation to *pistis*, sonship, adoption, image and likeness, God's nature, the original design of humanity, redemption, justification, righteousness, heirship, oneness, and the present reality in Christ, to the extent established by the source and owner-approved synthesis. *Hypostasis* is not a peripheral lexical note or a topic to defer to Book II; its precise lexical and doctrinal claims must be established through source study, context, and clearly marked synthesis.
 
 Book I must do more than offer definitions. It must develop a connected doctrinal argument, preserving the sequence and force of the source.
 
 ### Book II — *Faith Is Evidence*
 
-**Function:** Develop the subject further after Book I has established its doctrinal foundation. Book II is not a replacement title for Book I and must not be merged into it. Its distinctive focus includes Hebrews 11:1, *hypostasis*, and the relationship between faith, substance, and evidence.
+**Function:** Build upon the doctrinal foundation established in Book I and examine faith as evidence—its relation to manifestation, demonstration, and what the evidence shows. Book II is not a replacement title for Book I and must not be merged into it. Hebrews 11:1 may be revisited as a necessary premise, but Book II's distinctive centre is faith as evidence, not the first establishment of *hypostasis* as the foundation of faith.
 
 Book II may build on Book I's conclusions, but it should not require readers to encounter a repeated Book I under a different title. Any overlap must be purposeful: concise recap, necessary premise, or explicit forward reference.
 
 ### Boundary rule
 
-Do not make Book I a generic introductory book that follows a prefabricated “What is faith? Why do we need faith?” structure. Let the Aletheia source, Scripture clusters, existing argument, and owner decisions determine the architecture.
+Do not make Book I a generic introductory book that follows a prefabricated “What is faith? Why do we need faith?” structure. Let the Aletheia source, Scripture clusters, existing argument, and owner decisions determine the architecture. Do not postpone the foundational treatment of Hebrews 11:1 and *hypostasis* to Book II merely because the verse also contains the word “evidence.”
 
 ---
 
@@ -120,7 +120,7 @@ Write substantive chapters in canonical Markdown under a dedicated Book I manusc
 
 ## 5. Proposed reader-facing chapter architecture
 
-The initial audit is complete. The detailed proposal is in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md`. The recommended reader-facing architecture has **nine chapters**, but remains **proposed and not owner-approved**.
+The initial audit is complete. The detailed proposal is in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md`. The current nine chapter drafts are a first working arrangement, **not a validated final architecture**. The owner's correction that Hebrews 11:1 and *hypostasis* form the foundation and core of Book I requires a structural review before the table of contents can be treated as sound.
 
 The nine-chapter proposal retains the first seven existing chapter functions and separates the current eighth app entry into two distinct reader-facing chapters: John 17's oneness argument and 2 Corinthians 4's image/light/face argument. It does not mechanically turn thirteen internal sections into thirteen chapters. Free justification and present righteousness remain one integrated chapter; Hebrews 1:8 and heirship remain one chapter with two movements.
 
@@ -480,3 +480,14 @@ Two concrete coverage improvements were made during this review:
 - Chapter 5 now develops Ephesians 1:7 and Colossians 1:13–14 as part of the redemption cluster rather than merely listing them. The wider restoration/design connection is labeled synthesis.
 
 Chapter 1's inference from Ephesians 1:3–5 and Chapter 2's interpretive development of John 14:12 have also been clarified. The highest-priority unresolved owner decision remains the precise answer to the leaflet's Hebrews 1:8 question. The next controlled step is owner review of that inference, followed by lexical and cumulative thesis review—not publication finalization.
+
+
+## 10. Architecture correction — *hypostasis* is foundational to Book I
+
+**Owner direction, 2026-10-18:** The earlier boundary formulation incorrectly reserved the core treatment of Hebrews 11:1, *hypostasis*, and substance for Book II. That was a structural error. The owner's intended argument is that *hypostasis* is foundational to Book I because the source notes and etymological inquiry connect substance with the person's underlying nature and state; faith as substance therefore explains faith as the person's state and underlying nature. This is the controlling thesis to investigate and develop, not a licence to treat etymology alone as proof of every doctrinal conclusion.
+
+**Required correction:** Re-evaluate the nine-chapter architecture from this foundation. Establish what Hebrews 11:1 says; examine *hypostasis* carefully in its lexical, textual, and source context; distinguish the Aletheia source's teaching from the owner's thesis and from any synthesis; then show how the book's teaching on *pistis*, design, sonship, divine nature, redemption, righteousness, heirship, and oneness relates to that foundation. Do not merely insert a short *hypostasis* section into the existing outline if the argument's sequence requires deeper reorganization.
+
+**Book II boundary:** *Faith Is Evidence* builds from the foundation established in Book I and develops faith as evidence. It may revisit Hebrews 11:1 where needed, but it must not be the first or only book to explain the foundational relationship of faith, *hypostasis*, substance, and the person's underlying state/nature.
+
+**Status:** Structural review required. Existing chapter drafts are preserved as working material; do not delete or overwrite them while re-architecting. The companion app content remains untouched.
