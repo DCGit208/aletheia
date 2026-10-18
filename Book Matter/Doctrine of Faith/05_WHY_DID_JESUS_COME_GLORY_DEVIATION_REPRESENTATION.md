@@ -36,6 +36,20 @@ God set forth Christ to be a propitiation through faith in His blood. The declar
 
 This is the textual movement to preserve: the righteousness of God is manifested; all have sinned and come short of the glory; justification is given freely through redemption in Christ Jesus; and Christ is set forth in relation to propitiation and the declaration of God's righteousness.
 
+### Redemption in the wider Scripture cluster
+
+The owner's additional Scripture cluster includes Ephesians 1:7 and Colossians 1:13–14. These passages extend the redemption inquiry beyond the compressed leaflet's direct quotation of Romans 3:23–24.
+
+> **Ephesians 1:7 (KJV)** — “In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace.”
+
+The verse locates redemption “in whom,” identifies the blood, names forgiveness of sins, and grounds it in the riches of His grace. It contributes explicit redemption language to the question of what Christ accomplished.
+
+> **Colossians 1:13–14 (KJV)** — “Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son: In whom we have redemption through his blood, even the forgiveness of sins.”
+
+The surrounding sentence speaks of deliverance from the power of darkness and translation into the kingdom of God's dear Son; verse 14 then names redemption through His blood and forgiveness of sins. Keep those clauses together. They provide a stated movement from deliverance and transfer into the Son's kingdom to redemption and forgiveness.
+
+These passages explicitly speak of redemption, blood, forgiveness, and—within Colossians 1:13—deliverance and translation. Connecting them to the wider thesis of restoration to humanity's intended design is a synthesis across the Scripture set. Do not make either passage say, by itself, every part of the “back on course” formulation.
+
 ## How this connects to the design thesis
 
 The owner's developing thesis is that **Jesus represents who we are by Design**. This chapter contributes one part of that cumulative argument: the source connects the glory humanity came short of with image and true nature, and places Christ's coming, redemption, and free justification in response to that condition.
