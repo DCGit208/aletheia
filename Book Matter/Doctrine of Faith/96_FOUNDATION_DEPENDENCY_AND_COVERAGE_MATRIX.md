@@ -110,3 +110,26 @@ The architecture is ready for substantive rewrites only when:
 - the companion app content and all first-pass drafts remain preserved.
 
 **Current conclusion:** The foundation-first direction is now documented and the main source/owner content has been mapped to a proposed sequence. The next phase is not generic prose polishing. It is validating these dependencies, then revising the chapter briefs and manuscripts in a coordinated order.
+
+
+## 7. First-pass draft dependency findings
+
+The current drafts were checked by chapter headings, major argument passages, and statements about the Book I / Book II boundary. This is an architecture audit, not a complete line edit of every paragraph.
+
+| Existing draft | Finding | Consequence for the revised manuscript |
+|---|---|---|
+| Chapter 1 — *Pistis: Credence That Defines Sons* | Contains the strongest source-faithful account of Hebrews 6:1, *pistis* / credence, state, sonship, adoption, and the Hebrews 11:2,5–6 / Matthew 3:17 inquiry. | Preserve as principal material for revised Chapter 2. Its former Book II boundary statement has been corrected. Assess whether the pleasing-God/Sonship inquiry deserves its own chapter or a substantial section in Chapter 2. |
+| Chapter 2 — *Elohim: Image, Likeness, and Design* | Contains Genesis 1:26–28, the source's stated *'ĕlōhîm* interpretation, the representation thesis, and contextual treatments of Mark 11:22 and Matthew 5:43–48. | Preserve as principal material for revised Chapter 3. Decide whether some faith/pleasing-God material should be cross-referenced to proposed Chapter 6 rather than repeated. |
+| Chapter 3 — *Psalm 82 with John 10* | Focused treatment of Psalm 82's judgment setting and Jesus' appeal to Scripture in John 10. | Preserve as principal material for revised Chapter 4; maintain Psalm 82:6–7 together. |
+| Chapter 4 — *True Nature: Partakers of the Divine Nature* | Develops 2 Peter 1:2–8 and “back on course” as conceptual language. | Preserve as proposed Chapter 5; deepen its explicit connection to the foundational state/nature argument rather than merely adding a reference to *hypostasis*. |
+| Chapter 5 — *Why Did Jesus Come?* | Combines coming short of glory, image/glory, Christ's work, redemption, and representation. | Preserve but divide its argumentative work between proposed Chapter 7 (glory, deviation, Christ's person/representation) and Chapter 8 (redemption, justification, righteousness) if the prose dependencies confirm the split. |
+| Chapter 6 — *Dikaioo: Justified Freely; Righteousness in Christ* | Integrates the source's two connected movements: free justification and present righteousness in Christ. | Preserve as proposed Chapter 8; maintain separate source and owner lexical formulations and explicit “in Him” language. |
+| Chapter 7 — *Hebrews 1:8 and the Heir* | Makes the inference chain visible but the final doctrinal answer remains provisional. | Preserve as proposed Chapter 9. The architecture correction does not resolve the owner's Hebrews 1:8 decision. |
+| Chapter 8 — *Oneness and Glory: John 17* | Tracks the prayer's “as,” indwelling, glory, sending, and purpose. | Preserve as proposed Chapter 10; develop its relation to the state/substance foundation through explicit cross-links, not slogans. |
+| Chapter 9 — *The Image in the Face of Jesus Christ* | Provides a useful cumulative treatment of 2 Corinthians 4:1–6 and Christ's accomplishment/representation, but the first draft had deferred the substance foundation to Book II. | Preserve as proposed Chapter 11. The boundary contradiction has been corrected; its nine-chapter summary is a record of the first pass, not the final architecture. Rebuild its conclusion only after the foundation chapter and intervening chapters have been revised. |
+
+### Structural consequence
+
+The proposed eleven chapters are a plausible working structure, not yet a locked decision. The most important unresolved structural choice is whether the Hebrews 11:2,5–6 / Matthew 3:17 Sonship-and-pleasing-God inquiry needs a standalone Chapter 6 or can be integrated into the *pistis* chapter without losing the argument. This decision should be made after mapping the full prose, avoiding repetition, and confirming how the foundational Chapter 1 hands off to the source's *pistis* / state teaching.
+
+**No wholesale chapter rewrites have been made.** Limited corrections were made only where existing draft text directly contradicted the owner's corrected Book I / Book II boundary.
