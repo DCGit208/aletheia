@@ -95,3 +95,9 @@
 
 
 - Extended `96_FOUNDATION_DEPENDENCY_AND_COVERAGE_MATRIX.md` with first-pass structural findings for each of the nine existing drafts, including where content should move and which doctrinal decisions remain open. The revised eleven-chapter proposal remains provisional; the source/dependency logic governs the final sequence.
+
+
+## 2026-10-18 — Refined chapter count after dependency review
+
+- Revised `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md` from eleven to ten working chapters. The Hebrews 11:2, 5–6 / Matthew 3:17 material is integrated into the *pistis* / Sonship chapter rather than held as a standalone chapter after the design chapters, because its logical dependency is directly with faith as state and Sonship. This avoids an unnecessary structural loop while preserving the full owner-note inquiry.
+- Updated `96_FOUNDATION_DEPENDENCY_AND_COVERAGE_MATRIX.md` to reflect the ten-chapter proposal and re-map chapter homes for the source/owner material. The count remains provisional and must yield to the argument if the full rewrite demonstrates a genuine independent movement.
