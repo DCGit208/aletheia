@@ -468,3 +468,15 @@ Canonical Markdown working drafts now exist for all nine Book I chapters:
 Chapter 7 explicitly develops the inference chain behind the leaflet's question, while leaving the exact doctrinal answer open for owner review. Chapters 8 and 9 separate the John 17 oneness/glory movement from the 2 Corinthians 4 image/light/face movement. Chapter 9 gathers the Book I argument and maintains the boundary with Book II, *Faith Is Evidence*, whose sustained focus on Hebrews 11:1, *hypostasis*, substance, and evidence is not written out here.
 
 **Current status:** All nine chapter drafts exist. The source/Scripture coverage audit, owner review of major doctrinal synthesis (especially Hebrews 1:8), lexical decisions, and final book-level review remain open. Existing src/lib/content/companion-faith.ts has not been overwritten or deleted.
+
+
+### First-draft source-fidelity review — 2026-10-18
+
+Created `93_FIRST_DRAFT_SOURCE_FIDELITY_REVIEW.md` after cross-checking the nine chapter drafts against the 2015 leaflet's “Faith toward God” section, the repository source map, Scripture matrix, glossary, distinctions, and owner notes. The review confirms that the principal leaflet elements and source questions are represented across Chapters 1–9, while keeping doctrinal approval open.
+
+Two concrete coverage improvements were made during this review:
+
+- Chapter 2 now includes Mark 11:22 in its surrounding fig-tree, mountain, prayer, and forgiveness context, and Matthew 5:48 in the surrounding teaching on love toward enemies. The owner’s design/nature reading remains synthesis, and the “faith in God” / “God’s faith” grammatical question remains open.
+- Chapter 5 now develops Ephesians 1:7 and Colossians 1:13–14 as part of the redemption cluster rather than merely listing them. The wider restoration/design connection is labeled synthesis.
+
+Chapter 1's inference from Ephesians 1:3–5 and Chapter 2's interpretive development of John 14:12 have also been clarified. The highest-priority unresolved owner decision remains the precise answer to the leaflet's Hebrews 1:8 question. The next controlled step is owner review of that inference, followed by lexical and cumulative thesis review—not publication finalization.
