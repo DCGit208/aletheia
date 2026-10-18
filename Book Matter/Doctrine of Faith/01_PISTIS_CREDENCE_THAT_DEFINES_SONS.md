@@ -68,7 +68,7 @@ The owner-supplied line of inquiry is:
 
 This is a synthesis to investigate across the passages, not a claim that Matthew 3:17 by itself defines *pistis* as sonship. Hebrews 11 explicitly connects faith with good report and pleasing God; the further formulation that the state of Sonship is the state of faith must be demonstrated through the wider scriptural argument.
 
-This inquiry must not become the full argument of Book II, *Faith Is Evidence*. Hebrews 11:1, *hypostasis*, and the relationship between faith, substance, and evidence belong principally to that distinct work.
+This draft was written before the architecture correction and its former boundary statement is superseded. Hebrews 11:1 and *hypostasis* are foundational to Book I, not topics reserved for Book II. In the revised architecture, this *pistis* / Sonship material must be read in direct relation to the foundation established through Hebrews 11:1. Book II, *Faith Is Evidence*, develops the evidence side of the argument; it does not replace Book I's foundational treatment of faith as substance and state.
 
 ## Charge of this chapter
 
