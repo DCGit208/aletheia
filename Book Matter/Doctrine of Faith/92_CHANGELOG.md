@@ -19,3 +19,12 @@
 - Created `01_PISTIS_CREDENCE_THAT_DEFINES_SONS.md` as the first canonical Book I chapter draft. It preserves the substantive existing app-companion Chapter 1 content and adds the owner-supplied Hebrews 11:2, 5–6 / Matthew 3:17 line of inquiry, explicitly marked as synthesis.
 - Preserved the Book I / Book II boundary: the full Hebrews 11:1, `hypostasis`, substance-and-evidence argument remains principally for *Faith Is Evidence*.
 - No existing app prose was overwritten or deleted. Chapter 1 is a draft, not a final publication approval.
+
+
+## 2026-10-18 — Canonical Chapter 2 draft
+
+- Created `02_ELOHIM_IMAGE_LIKENESS_AND_DESIGN.md` from the existing app-companion Chapter 2 exposition.
+- Preserved the Aletheia teaching's stated reading of `’ĕlōhîm` as “plural: Trinity” without silently substituting a different grammatical/theological claim.
+- Integrated the owner's thesis “Jesus represents who we are by Design” as an owner-supplied inquiry, mapping the related Scripture cluster and retaining guardrails for Mark 11:22, Matthew 5:48, Psalm 82:6, John 10, Hebrews 1:2, and 1 John 4:17.
+- Explicitly distinguished Genesis' wording (image, likeness, dominion) from the owner's phrase “as Gods” and marked the broader representation thesis as cumulative synthesis.
+- Chapter 2 is a draft; doctrinal decisions and source-context review remain open. Existing app prose remains untouched.
