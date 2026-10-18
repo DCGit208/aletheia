@@ -409,10 +409,10 @@ The audit reviewed the eight existing entries in `src/lib/content/companion-fait
 - [x] Main source-vs-synthesis and structure issues recorded.
 - [x] Nine-chapter working architecture approved to proceed on 2026-10-18; it remains revisable by explicit owner decision.
 - [ ] Every Scripture cluster checked in full against the source matrix and owner decisions.
-- [ ] Canonical Markdown chapter drafts created/revised (Chapters 1 and 2 drafted; Chapters 3–9 remain).
+- [x] Canonical Markdown working drafts created for Chapters 1–9; chapter-level review and book-level audit remain open.
 - [ ] Book-level doctrinal and source-fidelity audit completed.
 
-**Next controlled step:** Gate B — validate the book's reader-facing architecture against the audit. Do not draft the canonical chapters as if the current eight-entry structure were already final.
+**Current controlled step:** Gate C/D — review the completed nine-chapter working manuscript against the source, Scripture matrix, glossary, owner notes, and unresolved decisions. Do not treat completion of drafts as final doctrinal or publication approval.
 
 
 ## 15. Gate B architecture proposal — 2026-10-18
@@ -427,7 +427,7 @@ This structure is approved to proceed as the working architecture following the 
 - `01_PISTIS_CREDENCE_THAT_DEFINES_SONS.md`
 - `02_ELOHIM_IMAGE_LIKENESS_AND_DESIGN.md`
 
-**Next controlled action:** draft Chapters 3–9 one at a time, preserving source content and marking Scripture, Aletheia source teaching, synthesis, and owner formulations distinctly.
+**Superseded next action:** Chapters 3–9 have since been drafted as canonical Markdown working manuscripts. Continue with source-fidelity and doctrinal review; preserve the app companion.
 
 
 ### Drafting update — 2026-10-18
@@ -455,3 +455,16 @@ Canonical Markdown drafts now exist for Chapters 1–6:
 6. `06_DIKAIOO_JUSTIFIED_FREELY_RIGHTEOUSNESS_IN_CHRIST.md`
 
 Chapters 7–9 remain. Existing app prose remains unchanged. The source/owner lexical distinction for `dikaioō` is preserved in Chapter 6; its resolution remains open.
+
+
+### Drafting update — 2026-10-18 (Chapters 7–9 complete)
+
+Canonical Markdown working drafts now exist for all nine Book I chapters:
+
+7. [Hebrews 1:8 and the Heir](07_HEBREWS_1_8_AND_THE_HEIR.md)
+8. [Oneness and Glory: Liken John 17:20–23](08_ONENESS_AND_GLORY_JOHN_17.md)
+9. [The Image in the Face of Jesus Christ](09_IMAGE_FACE_OF_JESUS_CHRIST.md)
+
+Chapter 7 explicitly develops the inference chain behind the leaflet's question, while leaving the exact doctrinal answer open for owner review. Chapters 8 and 9 separate the John 17 oneness/glory movement from the 2 Corinthians 4 image/light/face movement. Chapter 9 gathers the Book I argument and maintains the boundary with Book II, *Faith Is Evidence*, whose sustained focus on Hebrews 11:1, *hypostasis*, substance, and evidence is not written out here.
+
+**Current status:** All nine chapter drafts exist. The source/Scripture coverage audit, owner review of major doctrinal synthesis (especially Hebrews 1:8), lexical decisions, and final book-level review remain open. Existing src/lib/content/companion-faith.ts has not been overwritten or deleted.
