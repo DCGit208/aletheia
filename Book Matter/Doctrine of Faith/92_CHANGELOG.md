@@ -107,3 +107,10 @@
 
 
 - Checked `BIBLE INTRODUCTION.pdf` text specifically for hypostasis, substance, Hebrews 11:1, and faith. The document contains general remarks about Scripture becoming part of one's being and generating faith (PDF p. 21), but no specific hypostasis / Hebrews 11:1 lexical treatment. Recorded its supplementary-only role in document 94.
+
+
+## 2026-10-18 — First working draft of the foundation chapter
+
+- Created `00_HYPOSTASIS_SUBSTANCE_FOUNDATION.md` as the first working chapter draft for Book I. It establishes the Hebrews 11:1 question, contextualizes it in Hebrews 10:32–39 / 11:1–6, compares *hypostasis* in Hebrews 1:3 and 3:14, records the lexical alternatives, and relates the owner's underlying-state/nature thesis to the Aletheia leaflet's explicit *pistis* / Sonship teaching.
+- The draft explicitly states that the 2015 leaflet does not itself quote Hebrews 11:1 or use *hypostasis*. It does not present the lexical thesis as final or treat etymology alone as proof.
+- Updated the revised architecture proposal, dependency matrix, blueprint, and source audit to record the new draft. Existing nine chapter drafts and the app companion remain preserved.
