@@ -1,3 +1,5 @@
+> **STATUS CORRECTION — 2026-10-18:** This first-draft review remains a record of the initial source coverage check, but its former claim that the full Hebrews 11:1 / hypostasis / substance argument belongs in Book II is superseded. The corrected source-and-argument reconstruction is in [Document 94](94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md), and the foundation-first architecture proposal is in [Document 95](95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md). Read the review findings below as first-pass coverage notes, not as approval of the former Book I / Book II boundary.
+
 # 93 — First-Draft Source-Fidelity Review
 
 **Book:** *The Doctrine of Faith* (Book I)  
@@ -52,7 +54,7 @@ The page-2 “Faith toward God” section's main content is accounted for across
 | *Dikaioō*: source gloss versus “render righteous or such as he ought to be” | Chapter 6 | Preserved as two separate formulations; owner decision remains open. |
 | Hebrews 1:8 inference | Chapter 7 | Reasoning made explicit; provisional conclusion is clearly labeled for owner review. |
 | John 17:20–23 oneness/glory | Chapter 8 | The repeated “as,” indwelling, glory, sending, and stated purpose are retained. |
-| Book I / Book II distinction | Chapters 1 and 9; blueprint | Preserved. The full Hebrews 11:1 / *hypostasis* / substance / evidence argument remains for *Faith Is Evidence*. |
+| Book I / Book II distinction | Chapters 1 and 9; blueprint | First-pass statement is superseded: Hebrews 11:1 / *hypostasis* / substance is foundational to Book I; Book II develops faith as evidence. |
 
 ## 4. Chapter-by-chapter findings
 
@@ -102,7 +104,7 @@ The page-2 “Faith toward God” section's main content is accounted for across
 ### Chapter 9 — The Image in the Face of Jesus Christ
 - Preserves 2 Corinthians 4:1–6 and the link between Christ as image, blinded minds, light, knowledge, glory, and His face.
 - Brings together accomplishment and representation without treating the entire design thesis as a single-verse statement.
-- Keeps the full *hypostasis* / substance / evidence argument for Book II.
+- First-draft boundary statement is superseded by the owner's correction: Book I establishes *hypostasis* / substance as the foundation; Book II develops faith as evidence.
 - Review status: **Suitable as a first-draft close; book-level synthesis still needs owner review.**
 
 ## 5. Remaining review items
@@ -113,7 +115,7 @@ The page-2 “Faith toward God” section's main content is accounted for across
 4. **Matthew 5:48.** The context of love toward enemies is now included; the broader ontological/design interpretation remains a synthesis requiring owner review.
 5. **Source quotation proofing.** The review checked the chapter architecture and key passages, but every quoted Scripture should still receive a final quotation/proofread pass against the chosen Bible text before publication.
 6. **Editorial voice.** Several forceful teaching lines in the existing companion are retained. A later line edit may improve transitions and remove unintended repetition, but must not soften the source's claims or change the doctrine without an explicit decision.
-7. **Book II boundary.** Maintain Book I as the doctrine/sonship/design/justification/oneness argument; reserve the sustained *hypostasis* / substance / evidence treatment for *Faith Is Evidence*.
+7. **Book II boundary (corrected).** Book I must establish the foundational relationship among Hebrews 11:1, *hypostasis*, substance, and faith as the person's underlying state/nature. Book II develops faith as evidence from that foundation.
 
 ## 6. Review conclusion
 
@@ -121,3 +123,8 @@ The first-draft manuscript is structurally coherent and covers the main content 
 
 This is **not** a declaration that the manuscript is final or that every source interpretation has been settled. The next review should begin with the owner's decision on the Hebrews 1:8 inference, then proceed through the open lexical and design/representation questions.
 
+
+
+## 13. Superseding architecture correction — 2026-10-18
+
+The first-draft review's earlier boundary statement was incorrect. The owner's direction is that Hebrews 11:1 and *hypostasis* form the foundation and core of Book I. The leaflet itself does not explicitly quote Hebrews 11:1 or use *hypostasis*; it explicitly teaches *pistis* / credence as defining the state of children of God. The corrected task is to connect these lines through an explicit, source-grounded argument. See documents 94 and 95. The current nine drafts are preserved working material, not a validated final sequence.
