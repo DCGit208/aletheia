@@ -436,7 +436,6 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
       badge: "Book",
       kicker: "Digital book · $100",
       coverTone: "gold",
-      coverImage: "/covers/the-god-of-pleasure.png",
     },
   ),
   "product-death-absence-of-knowledge": bookOffer(
@@ -450,7 +449,6 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
       badge: "Book",
       kicker: "Digital book · $100",
       coverTone: "ink",
-      coverImage: "/covers/death-is-the-absence-of-knowledge.png",
     },
   ),
   "product-great-deception": bookOffer(
