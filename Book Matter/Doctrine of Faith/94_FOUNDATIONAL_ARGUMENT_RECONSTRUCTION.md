@@ -53,7 +53,7 @@ The notes' earlier conceptual chain placed “substance” and “evidence” ne
 - study/03_SIX_PRINCIPLE_KNOWLEDGE_MAP.md, study/04_BOOK_COURSE_CROSSWALK.md, study/06_GLOSSARY.md, and study/07_DISTINCTIONS.md help establish source terminology and the wider course relationship.
 - src/lib/content/companion-faith.ts is existing app/course companion prose. Preserve it; do not silently overwrite it or assume it is the final canonical Book I manuscript.
 - The nine Book I Markdown chapters are existing working drafts, not a final doctrinally approved table of contents.
-- BIBLE INTRODUCTION.pdf is supplementary study material. It is not the controlling source for Aletheia's particular teaching.
+- BIBLE INTRODUCTION.pdf is supplementary study material. I checked its text for faith, substance, Hebrews 11:1, and hypostasis. It contains general remarks about reading Scripture until it becomes part of one's being and generates faith (PDF p. 21), but it does not provide a specific hypostasis / Hebrews 11:1 lexical argument. That general statement may be considered supplementary context, not evidence for the lexical meaning or a substitute for the Aletheia source.
 
 ## 2. Lexical investigation: what hypostasis can and cannot establish
 
