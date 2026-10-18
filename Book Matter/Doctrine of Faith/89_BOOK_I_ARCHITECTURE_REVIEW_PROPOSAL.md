@@ -33,7 +33,7 @@ The proposal does **not** mechanically turn thirteen internal sections into thir
 
 **Owner-note integration:** A controlled subsection may introduce Hebrews 11:2, 5–6 and Matthew 3:17 as a question about faith, good report, pleasing God, and the Father's declaration over the Son. The claim that Sonship is the state of faith must remain identified as synthesis, not as a direct definition of *pistis* from those verses.
 
-**Boundary:** Do not turn this chapter into the full Hebrews 11:1 / *hypostasis* / substance-and-evidence argument. That belongs principally to Book II, *Faith Is Evidence*.
+**Superseded boundary note:** This original proposal incorrectly deferred Hebrews 11:1 / *hypostasis* / substance to Book II. The owner has clarified that this is foundational to Book I. See documents 94 and 95 for the corrected direction.
 
 ### Chapter 2 — ’Ĕlōhîm: Image, Likeness, and Design
 
