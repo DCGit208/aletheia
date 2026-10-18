@@ -79,19 +79,19 @@
 
 **Constraint:** Do not assert “God's faith” as a grammatical conclusion without evidence.
 
-**Status:** Open.
+**Status:** Passage integrated into Chapter 2 with Mark 11:20–25 context. The Greek/translation issue and the owner's intended doctrinal conclusion remain open.
 
 ### C3. Matthew 5:48
 **Question:** Should this passage appear in Book I as part of the design/nature argument, or be reserved for another treatment?
 
 **Constraint:** Preserve its immediate context concerning love, including love toward enemies. The ontological/design reading is synthesis, not the verse's sole explicit statement.
 
-**Status:** Open.
+**Status:** Passage integrated into Chapter 2 with Matthew 5:43–48 context, including love toward enemies. The broader design/nature conclusion remains open as synthesis.
 
 ### C4. Ephesians 1:7 and Colossians 1:14
 **Question:** What specific role should these redemption passages play alongside Romans 3:23–24 and the source's *apolutrōsis* gloss?
 
-**Status:** Open.
+**Status:** Integrated into Chapter 5's redemption argument with Ephesians 1:7 and Colossians 1:13–14. The owner's intended relationship between these passages, *apolutrōsis*, and restoration/design remains open for review.
 
 ### C5. 1 John 4:17
 **Question:** How should its “as he is, so are we in this world” statement support the wider present-reality thesis while preserving its context of love and confidence?
