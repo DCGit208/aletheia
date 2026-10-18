@@ -101,3 +101,6 @@
 
 - Revised `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md` from eleven to ten working chapters. The Hebrews 11:2, 5–6 / Matthew 3:17 material is integrated into the *pistis* / Sonship chapter rather than held as a standalone chapter after the design chapters, because its logical dependency is directly with faith as state and Sonship. This avoids an unnecessary structural loop while preserving the full owner-note inquiry.
 - Updated `96_FOUNDATION_DEPENDENCY_AND_COVERAGE_MATRIX.md` to reflect the ten-chapter proposal and re-map chapter homes for the source/owner material. The count remains provisional and must yield to the argument if the full rewrite demonstrates a genuine independent movement.
+
+
+- Expanded the lexical section in `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md` to record the interpretive counterposition: some commentary favors assurance/confidence in Hebrews 11:1 even while discussing substance/essence in Hebrews 1:3. Updated the foundation chapter brief in `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md` to require fair engagement with both readings. This does not replace the owner's thesis; it identifies the reasoning burden the manuscript must meet.
