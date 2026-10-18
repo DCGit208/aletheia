@@ -28,3 +28,10 @@
 - Integrated the owner's thesis “Jesus represents who we are by Design” as an owner-supplied inquiry, mapping the related Scripture cluster and retaining guardrails for Mark 11:22, Matthew 5:48, Psalm 82:6, John 10, Hebrews 1:2, and 1 John 4:17.
 - Explicitly distinguished Genesis' wording (image, likeness, dominion) from the owner's phrase “as Gods” and marked the broader representation thesis as cumulative synthesis.
 - Chapter 2 is a draft; doctrinal decisions and source-context review remain open. Existing app prose remains untouched.
+
+
+## 2026-10-18 — Canonical Chapters 4 and 5 drafts
+
+- Created `04_TRUE_NATURE_PARTAKERS_OF_DIVINE_NATURE.md`, preserving the app-companion exposition of 2 Peter 1:2–8. It keeps the promises, participation in divine nature, escape from corruption, and the diligence/virtue/knowledge sequence together. It retains “back on course” as the Aletheia source's conceptual formulation rather than an exhaustive lexical definition.
+- Created `05_WHY_DID_JESUS_COME_GLORY_DEVIATION_REPRESENTATION.md`, preserving the app-companion argument from Romans 3:21–26 and 1 Corinthians 11:7. It distinguishes the source's interpretation of coming short of glory as deviation from true nature from the wider owner-supplied design/restoration synthesis.
+- Existing app content remains untouched. Chapters 4 and 5 are working drafts; the remaining chapters and book-level source-fidelity audit are still pending.
