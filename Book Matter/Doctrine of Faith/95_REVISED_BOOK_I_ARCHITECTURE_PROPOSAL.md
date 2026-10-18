@@ -30,11 +30,11 @@ This sequence is a proposed logic, not an automatic verdict on chapter count. Th
 
 ### Chapter 1 — Faith as Hypostasis: Substance, Reality, and the Foundation of the Doctrine
 
-**Purpose:** Establish Hebrews 11:1 as the foundational scriptural proposition and investigate hypostasis in the sentence. Examine “substance,” “assurance,” “reality,” and “nature” as documented lexical options; compare Hebrews 1:3 and 3:14; read Hebrews 10:32–39 and 11:1–6 in context. Set out the owner's thesis that faith as substance explains faith as the person's underlying nature/state, identifying it as the governing doctrinal argument to be demonstrated.
+**Purpose:** Establish Hebrews 11:1 as the foundational scriptural proposition and investigate hypostasis in the sentence. Examine “substance,” “assurance,” “reality,” and “nature” as documented lexical options; engage the strongest commentary arguments for both substance/reality and assurance/confidence; compare Hebrews 1:3 and 3:14; read Hebrews 10:32–39 and 11:1–6 in context. Set out the owner's thesis that faith as substance explains faith as the person's underlying nature/state, identifying it as the governing doctrinal argument to be demonstrated.
 
 **Required distinction:** Hebrews 11:1 and hypostasis are not explicitly in the 2015 leaflet's Faith Toward God section. The chapter must say so and then establish why the wider Scripture/lexical foundation governs the book.
 
-**Required questions:** What does the sentence actually say? What is the range of hypostasis? What does its use in Hebrews 1:3 contribute? How does Hebrews 3:14 control our interpretation? Why does the author connect faith to things hoped for and not seen? How does the Aletheia claim that pistis defines our state as children relate to this?
+**Required questions:** What does the sentence actually say? What is the range of hypostasis? What are the strongest arguments for substance/reality and for assurance/confidence in Hebrews 11:1? What does its use in Hebrews 1:3 contribute? How does Hebrews 3:14 control our interpretation? Why does the author connect faith to things hoped for and not seen? How does the Aletheia claim that pistis defines our state as children relate to this?
 
 ### Chapter 2 — Pistis: Credence That Defines the State of Sons
 
