@@ -339,7 +339,7 @@ Do not reopen questions that the owner has already locked in `study/11_OWNER_DEC
 The following are review tasks, not assumed decisions:
 
 1. Review and approve or correct the proposed nine-chapter architecture in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md`.
-2. Confirm whether Hebrews 11:2, 5–6 and Matthew 3:17 should receive only a controlled subsection in Chapter 1, leaving the full Hebrews 11:1 / *hypostasis* argument for Book II.
+2. Reassess placement of Hebrews 11:2, 5–6 and Matthew 3:17 in the foundation-first structure. Hebrews 11:1 / *hypostasis* is foundational to Book I; Book II develops evidence.
 3. Confirm the proposed treatment of Mark 11:22 and Matthew 5:48 in Chapter 2, preserving context and marking synthesis.
 4. Review the explicit reasoning required to answer the source's Hebrews 1:8 question.
 5. Resolve only genuine source, lexical, or argument conflicts that cannot be answered from the existing source and owner decisions.
@@ -400,14 +400,14 @@ The audit reviewed the eight existing entries in `src/lib/content/companion-fait
 - The 2015 leaflet remains the controlling compressed source for the Course 2 / Faith Toward God teaching.
 - The supplied Bible introduction is supplementary reference material, not a substitute source for Aletheia's doctrine or lexical glosses.
 - The audit identifies high-priority owner-review points around Hebrews 1:8, lexical formulations, course-specific language in a standalone book, and integration of Hebrews 11:2, 5–6; Matthew 3:17; Mark 11:22; Matthew 5:48; Ephesians 1:7; and Colossians 1:14.
-- The nine-chapter working architecture was approved to proceed by the owner's “Go ahead” on 2026-10-18. The ten-movement map in the audit remains a review aid, not an automatic ten-chapter decision.
+- The original nine-chapter drafting pass was authorized to proceed on 2026-10-18. After the owner's hypostasis correction, that sequence is preserved as working material and is not a validated final architecture. See documents 94–95.
 
 ### Status after initial Gate A
 
 - [x] Existing app companion located and audited at chapter-entry level.
 - [x] Initial source and Scripture coverage audit created.
 - [x] Main source-vs-synthesis and structure issues recorded.
-- [x] Nine-chapter working architecture approved to proceed on 2026-10-18; it remains revisable by explicit owner decision.
+- [x] Original nine-chapter first drafting pass completed; final architecture remains under foundation-first reconstruction.
 - [ ] Every Scripture cluster checked in full against the source matrix and owner decisions.
 - [x] Canonical Markdown working drafts created for Chapters 1–9; chapter-level review and book-level audit remain open.
 - [ ] Book-level doctrinal and source-fidelity audit completed.
@@ -465,7 +465,7 @@ Canonical Markdown working drafts now exist for all nine Book I chapters:
 8. [Oneness and Glory: Liken John 17:20–23](08_ONENESS_AND_GLORY_JOHN_17.md)
 9. [The Image in the Face of Jesus Christ](09_IMAGE_FACE_OF_JESUS_CHRIST.md)
 
-Chapter 7 explicitly develops the inference chain behind the leaflet's question, while leaving the exact doctrinal answer open for owner review. Chapters 8 and 9 separate the John 17 oneness/glory movement from the 2 Corinthians 4 image/light/face movement. Chapter 9 gathers the Book I argument and maintains the boundary with Book II, *Faith Is Evidence*, whose sustained focus on Hebrews 11:1, *hypostasis*, substance, and evidence is not written out here.
+Chapter 7 explicitly develops the inference chain behind the leaflet's question, while leaving the exact doctrinal answer open for owner review. Chapters 8 and 9 separate the John 17 oneness/glory movement from the 2 Corinthians 4 image/light/face movement. Chapter 9 gathers the first-pass Book I argument. Its former boundary statement postponing Hebrews 11:1 / *hypostasis* to Book II is superseded by the foundation-first correction.
 
 **Current status:** All nine chapter drafts exist. The source/Scripture coverage audit, owner review of major doctrinal synthesis (especially Hebrews 1:8), lexical decisions, and final book-level review remain open. Existing src/lib/content/companion-faith.ts has not been overwritten or deleted.
 
