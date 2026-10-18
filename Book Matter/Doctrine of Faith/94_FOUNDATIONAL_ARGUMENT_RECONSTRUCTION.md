@@ -91,6 +91,31 @@ The sentence sets pistis in a relation to (1) things hoped for and (2) things no
 
 The immediate literary context also matters. Hebrews 10:32–39 recalls endurance under suffering, calls for confidence and patience, and warns against drawing back; Hebrews 11 then presents people who act and endure by faith, beginning with the elders' good report (11:2) and Enoch's testimony of pleasing God (11:5–6). Thus hypostasis is not to be detached from hope, God's promise, faithful endurance, testimony, and the unseen.
 
+
+
+### 2.5 The interpretive alternatives must be engaged, not bypassed
+
+The lexical range does not settle Hebrews 11:1 automatically. The initial commentary cross-check surfaced a real interpretive debate:
+
+- The KJV reads “substance.” Some commentaries explain this as underlying essence/reality, a basis or foundation, or a substantial reality associated with what is hoped for.
+- Other translations and commentaries favor “assurance,” “firm confidence,” or a settled posture of confidence toward what is hoped for. The NIV Application Commentary sample favors “firm, solid confidence,” relating the examples that follow to confidence in God's promises before their fulfillment.
+- A Cambridge commentary on Hebrews 1:3 treats *hypostasis* there as “substance” or “essence,” and discusses why “person” can be a misleading English rendering for that context. A commentary on Hebrews 11:1, however, argues that “assurance” better describes faith's relation to its object, rather than claiming faith itself is substantial being.
+
+These alternatives must be represented fairly. They do not veto the owner's intended doctrinal thesis, but they establish the work the thesis must do. The manuscript must not argue: “the word can mean substance; therefore it must mean underlying human nature in Hebrews 11:1; therefore the full doctrine is proven.” That would skip contextual and theological steps.
+
+The required reasoning is more exact:
+
+1. Establish the text's predicate: *pistis* is described as *hypostasis* in relation to things hoped for.
+2. Explain why the KJV's “substance” and the lexical senses of underlying reality / nature are important to the owner's interpretation.
+3. Test the “assurance/confidence” reading against Hebrews 10:32–39, Hebrews 3:14, and the examples in Hebrews 11.
+4. Compare Hebrews 1:3's use of the same noun, while respecting the difference in grammatical relation and referent: the Son is the exact expression of God's *hypostasis* there; faith is *hypostasis* of things hoped for here.
+5. State the doctrinal bridge that the owner intends: the substance/reality of faith is related to the underlying state/nature of the person. Identify the passages and Aletheia propositions that support this bridge.
+6. Show how the Aletheia leaflet's explicit statement that *pistis* defines our state as children of God contributes to that bridge. Do not claim this is a lexical conclusion supplied by the leaflet itself.
+7. Preserve the possibility that “substance,” “reality,” and “assurance” illuminate different aspects of the verse. Do not treat the options as automatically mutually exclusive, but do not declare them identical without argument.
+
+This is a key ratiocination requirement for Chapter 1. A serious treatment of the owner's thesis must be able to state the strongest alternative reading accurately and explain why the book's chosen interpretation is warranted.
+
+
 ### 2.4 Why Hebrews 1:3 is a major internal cross-reference
 
 The same author uses hypostasis in Hebrews 1:3 while describing the Son as the brightness of God's glory and the exact expression of His hypostasis. The Aletheia leaflet itself connects the Son/image/glory line through Hebrews 1:8, 2 Corinthians 4:4,6, 1 Corinthians 11:7, and the question of what the Son represents. The manuscript should therefore investigate Hebrews 1:3 alongside Hebrews 11:1, not as a shortcut but as an author-internal comparison:
