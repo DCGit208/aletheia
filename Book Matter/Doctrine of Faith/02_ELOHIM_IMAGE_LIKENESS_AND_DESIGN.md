@@ -70,11 +70,25 @@ This is a cumulative thesis to investigate through the Scripture set, not a conc
 - **Ephesians 1:7 and Colossians 1:14:** redemption through Christ.
 - **Romans 3:23–24:** coming short of the glory of God and being justified freely through the redemption in Christ Jesus.
 
-### Questions that must remain visible
+### Controlled Scripture inquiry: faith, design, and the Father's nature
 
-**Mark 11:22.** If this verse is used to connect humanity's design with the state of God, its wording and Greek construction must be examined carefully. Do not assert “God's faith” as a grammatical conclusion without evidence.
+**Mark 11:20–25 — the context of “Have faith in God”**
 
-**Matthew 5:48.** The command to be perfect as the heavenly Father is perfect must be read in its context, including Jesus' teaching about love toward enemies. The design/nature reading is a theological synthesis to be demonstrated, not the only explicit statement of the verse.
+> **Mark 11:22 (KJV)** — “And Jesus answering saith unto them, Have faith in God.”
+
+The answer comes after the disciples see that the fig tree Jesus addressed has withered from the roots (Mark 11:20–21). Jesus then speaks about saying to the mountain, believing when praying, and forgiving when standing in prayer (Mark 11:23–25). The verse must be studied inside this sequence, not detached as a motivational slogan.
+
+The owner's question is how “Have faith in God” relates to humanity's design, God's nature, and the operation of faith. The wording and Greek construction behind readings such as “faith in God” and “God's faith” require careful examination before any grammatical conclusion is asserted. This chapter records the question without deciding that lexical issue.
+
+**Matthew 5:43–48 — perfection in the context of love**
+
+> **Matthew 5:43–45 (KJV)** — “Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you; That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.”
+>
+> **Matthew 5:46–48 (KJV)** — “For if ye love them which love you, what reward have ye? do not even the publicans the same? And if ye salute your brethren only, what do ye more than others? do not even the publicans so? Be ye therefore perfect, even as your Father which is in heaven is perfect.”
+
+The command to be perfect occurs in Jesus' teaching about loving enemies, doing good to those who hate, praying for persecutors, and refusing to limit love to those who love us. The design/nature inquiry must therefore include love and conduct; it cannot extract verse 48 from that argument.
+
+The owner's questions remain: **Why would Jesus ask us to be perfectly something we are not? Why would we want to be something we are not?** These questions drive an investigation into design and nature, but the conclusion that Matthew 5:48 proves a particular ontological claim is a synthesis that must be demonstrated from the wider Scripture architecture.
 
 **Psalm 82:6 and John 10:34–35.** The phrase “as Gods” is the owner's framing. Genesis 1:26–28 explicitly says image, likeness, and dominion; Psalm 82:6 and Jesus' appeal in John 10 form a related but distinct Scripture argument. Keep the wording and context of each passage intact.
 
