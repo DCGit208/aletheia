@@ -43,3 +43,13 @@
 - Preserved the Aletheia leaflet's gloss for `dikaioō` (“render just or innocent, free from evil or guilt”) and the owner's additional working formulation (“to render righteous or such as he ought to be”) as distinct recorded formulations.
 - Preserved the source gloss for `apolutrōsis` (“redemption; ransom in full”) and the “in Him” wording in 2 Corinthians 5:21.
 - The lexical relationship remains open for deliberate review; existing app prose remains untouched.
+
+
+## 2026-10-18 — Canonical Chapters 7–9 and first-draft completion
+
+- Created `07_HEBREWS_1_8_AND_THE_HEIR.md`, preserving the existing companion's Hebrews 1:1–8 and heirship movements. The chapter reasons through the leaflet's question “what does that make you?” using 2 Corinthians 5:21, Hebrews 1:3 and 1:8, Genesis 1:26–28, 1 John 4:17, Galatians 4:5–7, and Romans 8:17. It gives a provisional synthesis rather than leaving the question blank, and explicitly leaves the final doctrinal answer open for owner review.
+- Created `08_ONENESS_AND_GLORY_JOHN_17.md`, preserving John 17:1, 18–23 and the source's question about how to liken the prayer. The chapter retains the prayer's “as” comparisons, glory, indwelling, sending, and purpose clauses.
+- Created `09_IMAGE_FACE_OF_JESUS_CHRIST.md`, preserving 2 Corinthians 4:1–6 and adapting the source's book-level synthesis for a standalone Book I close. It holds Christ's accomplishment and representation together while preserving the boundary with Book II, `Faith Is Evidence`.
+- Updated the Master Manuscript Blueprint and source/Scripture coverage audit to record that all nine canonical Markdown working drafts exist.
+- Updated the owner-decision register to record Chapter 7's provisional answer while keeping the Hebrews 1:8 inference open for owner decision.
+- Existing `src/lib/content/companion-faith.ts` remains untouched. Completion of the first drafting pass does not mean the doctrinal synthesis, lexical decisions, or publication manuscript have received final owner approval.
