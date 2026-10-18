@@ -4,7 +4,7 @@
 **Book I:** *The Doctrine of Faith*  
 **Book II:** *Faith Is Evidence*  
 **Repository:** `DCGit208/aletheia`  
-**Control status:** Nine-chapter working architecture approved to proceed by the owner's “Go ahead” on 2026-10-18. Chapter 1 canonical Markdown draft created. Architecture remains revisable by explicit owner decision; unresolved doctrinal questions and later chapter gates remain open. Update this document deliberately when an owner decision changes the manuscript plan.
+**Control status:** The original nine chapter drafts exist as preserved working material. On 2026-10-18, the owner clarified that Hebrews 11:1 and hypostasis are foundational to Book I, not material to defer to Book II. The nine-chapter sequence is therefore not validated as the final architecture. The governing reconstruction is documented in 94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md and the revised proposal in 95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md. Do not begin wholesale chapter rewrites until the foundation-first architecture has been checked against the source and Scripture dependencies.
 
 ---
 
@@ -120,9 +120,9 @@ Write substantive chapters in canonical Markdown under a dedicated Book I manusc
 
 ## 5. Proposed reader-facing chapter architecture
 
-The initial audit is complete. The detailed proposal is in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md`. The current nine chapter drafts are a first working arrangement, **not a validated final architecture**. The owner's correction that Hebrews 11:1 and *hypostasis* form the foundation and core of Book I requires a structural review before the table of contents can be treated as sound.
+The first nine-chapter proposal is preserved in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md` as a historical record, but its boundary assumption that reserved the core *hypostasis* argument for Book II is superseded. The current nine chapter drafts are a first working arrangement, **not a validated final architecture**. The controlling reconstruction is in `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md`; the foundation-first working proposal is in `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md`.
 
-The nine-chapter proposal retains the first seven existing chapter functions and separates the current eighth app entry into two distinct reader-facing chapters: John 17's oneness argument and 2 Corinthians 4's image/light/face argument. It does not mechanically turn thirteen internal sections into thirteen chapters. Free justification and present righteousness remain one integrated chapter; Hebrews 1:8 and heirship remain one chapter with two movements.
+The original nine-chapter proposal retained the first seven existing chapter functions and separated John 17 from 2 Corinthians 4. That analysis remains useful for mapping source material, but it is not the current architecture decision. The revised proposal currently tests an eleven-chapter structure because the foundation of *hypostasis* and the faith/state question must govern the sequence. Chapter count remains provisional; the argument's dependencies, not the number eleven, control.
 
 | ID | Proposed title | Required function | Main source/Scripture anchors | Status |
 |---|---|---|---|---|
@@ -139,11 +139,11 @@ The nine-chapter proposal retains the first seven existing chapter functions and
 ### Architecture rules
 
 - The full chapter-purpose map, section-by-section movement plan, owner-note placement, and review checklist are recorded in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md`.
-- The nine-chapter structure is a proposal for owner review, not a final decision.
+- The original nine-chapter structure is superseded as a final architecture candidate; its drafts remain preserved working material.
 - Do not draft canonical chapters as if this proposal were approved.
 - Preserve all existing app prose; the proposal maps content and does not authorize overwriting or deleting it.
 - Integrate owner notes where they deepen the relevant argument. Do not add chapters merely to hold new notes.
-- Keep the Hebrews 11:1 / *hypostasis* / substance-and-evidence exposition primarily in Book II, *Faith Is Evidence*.
+- Establish Hebrews 11:1 / *hypostasis* / substance as a foundation in Book I. Book II, *Faith Is Evidence*, develops the evidence side from that foundation.
 
 ## 6. Required integration of the additional owner notes
 
@@ -491,3 +491,14 @@ Chapter 1's inference from Ephesians 1:3–5 and Chapter 2's interpretive develo
 **Book II boundary:** *Faith Is Evidence* builds from the foundation established in Book I and develops faith as evidence. It may revisit Hebrews 11:1 where needed, but it must not be the first or only book to explain the foundational relationship of faith, *hypostasis*, substance, and the person's underlying state/nature.
 
 **Status:** Structural review required. Existing chapter drafts are preserved as working material; do not delete or overwrite them while re-architecting. The companion app content remains untouched.
+
+
+## 11. Foundation-first reconstruction — 2026-10-18
+
+The owner's explicit direction corrects the previous architecture: *hypostasis* and Hebrews 11:1 are the foundation and core of Book I because faith as substance is intended to explain faith as the person's underlying nature and state. Book II develops faith as evidence. The source/argument reconstruction is in `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md`; the revised working architecture is in `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md`.
+
+**Source fidelity finding:** The 2015 leaflet's Faith Toward God section explicitly uses Hebrews 6:1 and *pistis* / credence, stating that faith defines the state of children of God and connecting that state with true nature, adoption, design, divine nature, justification, righteousness, heirship, and oneness. The leaflet does not itself explicitly quote Hebrews 11:1 or use *hypostasis*. The manuscript must connect the separate Hebrews 11:1 / lexical investigation to the leaflet's state/nature teaching without falsely attributing one to the other.
+
+**Lexical control:** *Hypostasis* has a context-sensitive semantic range that includes substance/actual reality/nature and confidence/assurance. Compare Hebrews 1:3, 3:14, and 11:1; do not rely on etymology alone or assume every occurrence has identical nuance.
+
+**Next controlled step:** Validate the proposed foundation-first chapter sequence against the source map, Scripture matrix, all nine preserved drafts, and owner notes. Then revise the chapter briefs and manuscript in a coordinated pass. Keep the Hebrews 1:8 inference and the lexical decisions open for owner review; they are not replaced by this architecture correction.
