@@ -63,3 +63,12 @@
 - Updated Chapter 5 to develop Ephesians 1:7 and Colossians 1:13–14 in the redemption argument; the connection to the broader design/restoration thesis is labeled synthesis.
 - Clarified Chapter 1's inference from Ephesians 1:3–5 and Chapter 2's interpretive development of John 14:12.
 - The Hebrews 1:8 answer remains provisional and subject to the owner's explicit review. No existing app companion prose was overwritten or deleted.
+
+
+## 2026-10-18 — Corrected Book I / Book II doctrinal architecture
+
+- Recorded the owner's correction that Hebrews 11:1 and *hypostasis* are foundational to Book I, *The Doctrine of Faith*, because faith as substance is intended to explain faith as the person's underlying nature and state.
+- Corrected the series boundary: Book I must establish the foundation; Book II, *Faith Is Evidence*, develops faith as evidence from that foundation. Book II may revisit Hebrews 11:1 but must not be the first or only place where *hypostasis* is substantively explained.
+- Marked the current nine chapter drafts as working material whose overall sequence requires structural review. Do not simply append a token section or delete/overwrite existing chapters.
+- Required source discipline: distinguish the text of Hebrews 11:1, lexical/etymological evidence, explicit Aletheia source teaching, the owner's developing thesis, and synthesis. Etymology alone must not be presented as proving every doctrinal conclusion.
+- No chapter prose was deleted or overwritten in this correction; existing app companion content remains untouched.
