@@ -53,3 +53,13 @@
 - Updated the Master Manuscript Blueprint and source/Scripture coverage audit to record that all nine canonical Markdown working drafts exist.
 - Updated the owner-decision register to record Chapter 7's provisional answer while keeping the Hebrews 1:8 inference open for owner decision.
 - Existing `src/lib/content/companion-faith.ts` remains untouched. Completion of the first drafting pass does not mean the doctrinal synthesis, lexical decisions, or publication manuscript have received final owner approval.
+
+
+## 2026-10-18 — First-draft source-fidelity review and coverage corrections
+
+- Created `93_FIRST_DRAFT_SOURCE_FIDELITY_REVIEW.md`, cross-checking the nine canonical chapter drafts against the 2015 leaflet's Faith section and the repository's source map, Scripture matrix, glossary, distinctions, and owner notes.
+- Confirmed that the main leaflet claims and open questions are represented across Chapters 1–9; recorded remaining owner decisions and the limits of this first review.
+- Updated Chapter 2 to include Mark 11:22 in its narrative and instruction context and Matthew 5:48 within Matthew 5:43–48, preserving the love/enemies context and leaving the “faith in God” / “God's faith” question unresolved pending lexical verification.
+- Updated Chapter 5 to develop Ephesians 1:7 and Colossians 1:13–14 in the redemption argument; the connection to the broader design/restoration thesis is labeled synthesis.
+- Clarified Chapter 1's inference from Ephesians 1:3–5 and Chapter 2's interpretive development of John 14:12.
+- The Hebrews 1:8 answer remains provisional and subject to the owner's explicit review. No existing app companion prose was overwritten or deleted.
