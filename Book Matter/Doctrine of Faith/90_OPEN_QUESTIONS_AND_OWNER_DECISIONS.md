@@ -6,13 +6,13 @@
 ## A. Architecture decisions
 
 ### A1. Reader-facing chapter structure
-**Question:** Should Book I retain eight chapters, or should some of the thirteen internal argumentative sections in the app companion become separate chapters?
+**Question:** Should Book I use the proposed nine-chapter reader-facing structure, or should the owner correct it?
 
-**Evidence:** The existing app array has eight entries, but entries 6–8 contain multiple distinct movements. See `91_SOURCE_AND_SCRIPTURE_COVERAGE_AUDIT.md`, sections 4–5.
+**Evidence:** The existing app array has eight entries but thirteen internal argumentative sections. The initial audit identifies entries 6–8 as containing multiple movements. See `91_SOURCE_AND_SCRIPTURE_COVERAGE_AUDIT.md` and the detailed proposal in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md`.
 
-**Working recommendation:** Validate chapter functions and argument flow before deciding. Do not mechanically turn thirteen sections into thirteen chapters, and do not preserve eight chapters merely because the app has eight array entries.
+**Current proposal:** Retain the first seven chapter functions; split the current final app entry into a John 17 oneness chapter and a 2 Corinthians 4 image/light/face chapter. Keep justification/righteousness together and Hebrews 1:8/heirship together.
 
-**Status:** Open.
+**Status:** Proposed; owner approval or correction required before canonical chapter files are created.
 
 ### A2. Book I's boundary with Book II
 **Question:** How much of Hebrews 11:2, 5–6 and the faith/pleasing-God relationship belongs in Book I, and what should be reserved for *Faith Is Evidence*?
