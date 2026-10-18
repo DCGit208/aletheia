@@ -118,28 +118,32 @@ Write substantive chapters in canonical Markdown under a dedicated Book I manusc
 
 ---
 
-## 5. Working chapter architecture
+## 5. Proposed reader-facing chapter architecture
 
-The eight existing companion chapter titles provide the **initial baseline**, not a declaration that the final architecture is already approved. The first manuscript phase must audit these eight chapters against the complete source, Scripture clusters, and the additional notes. Keep a chapter if it has a distinct argumentative function; merge only when the content is genuinely duplicative; split only when a substantial argument cannot be developed coherently in one chapter.
+The initial audit is complete. The detailed proposal is in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md`. The recommended reader-facing architecture has **nine chapters**, but remains **proposed and not owner-approved**.
 
-| ID | Existing chapter / working title | Required function in the book | Principal source/Scripture anchors | Initial status |
+The nine-chapter proposal retains the first seven existing chapter functions and separates the current eighth app entry into two distinct reader-facing chapters: John 17's oneness argument and 2 Corinthians 4's image/light/face argument. It does not mechanically turn thirteen internal sections into thirteen chapters. Free justification and present righteousness remain one integrated chapter; Hebrews 1:8 and heirship remain one chapter with two movements.
+
+| ID | Proposed title | Required function | Main source/Scripture anchors | Status |
 |---|---|---|---|---|
-| DF-01 | **Πίστις (*pistis*) — Credence That Defines Sons** | Establish the source's meaning of *pistis* and its relationship to faith toward God, sonship, adoption, and the distinction between state and mood. Preserve the sequence of the adoption texts. | Hebrews 6:1; Galatians 4:1–7; Romans 8:14–17; Ephesians 1:3–5 | Existing app prose; canonical Markdown audit required |
-| DF-02 | **’Ĕlōhîm — Image and Likeness** | Develop the creation/design foundation; image, likeness, blessing, dominion, and the source's treatment of *’ĕlōhîm*. Integrate the relevant owner notes without making a later synthesis appear to be a verbatim phrase in Genesis. | Genesis 1:26–28; 1 John 4:17; Romans 8:17; John 14:12; Psalm 82:6 | Existing app prose; integrate owner notes and audit context |
-| DF-03 | **Psalm 82 with John 10** | Examine Psalm 82 with the response in John 10; preserve the full argumentative context and the source's use of these texts. Do not detach Psalm 82:6 from the judgment and conduct context of the psalm. | Psalm 82:1–8; John 10:31–39 | Existing app prose; canonical Markdown audit required |
-| DF-04 | **True Nature — Partakers** | Develop the source's argument about true nature and partaking of the divine nature, distinguishing source statement, text, and wider doctrinal synthesis. | 2 Peter 1:3–4; connected creation/likeness texts as established in source | Existing app prose; canonical Markdown audit required |
-| DF-05 | **Why Did Jesus Come?** | Develop the source's connection between coming short of God's glory, Christ, redemption, and the restoration argument. Preserve both questions: what Christ accomplished and what Christ represents. | Romans 3:23–24; Ephesians 1:7; Colossians 1:14; Hebrews 1:2 | Existing app prose; integrate owner notes and audit context |
-| DF-06 | **Δικαιόω (*dikaioō*) — Justified Freely** | Examine free justification, *dikaioō*, *dikaiosynē*, redemption, and the owner's “back on course” formulation with explicit distinctions between lexical meaning and theological synthesis. | Romans 3:23–24; Romans 5 where source supports; 2 Corinthians 5:21; Ephesians 1:7; Colossians 1:14 | Existing app prose; lexical/source audit required |
-| DF-07 | **Hebrews 1:8 and the Heir** | Develop the source's question about what the justification/sonship argument makes the believer, and the meaning of heirship. Preserve the exact role of Hebrews 1:8 in the source; use Hebrews 1:2 and Romans 8:17 where appropriate to the connected argument. | Hebrews 1:8; Hebrews 1:2; Galatians 4:5–7; Romans 8:17 | Existing app prose; canonical Markdown audit required |
-| DF-08 | **Oneness, Face, and the Stone Laid** | Bring the source's oneness and image/light texts together; answer the source question about John 17 without flattening its context. Establish the appropriate close of Book I and the bridge to Book II without prematurely turning Book I into a full exposition of Hebrews 11:1. | John 17:20–23; 2 Corinthians 4:4, 6; 1 Corinthians 11:7; Hebrews 6:1 | Existing app prose; integrate owner notes and audit chapter ending |
+| DF-01 | **Πίστις (*pistis*): Credence That Defines Sons** | Establish *pistis* / credence, sonship, adoption, and heirship; examine state versus mood through the source and texts. | Hebrews 6:1; Galatians 4:1–7; Romans 8:14–17; Ephesians 1:3–5 | Existing app entry 1; proposed chapter |
+| DF-02 | **’Ĕlōhîm: Image, Likeness, and Design** | Establish Genesis 1:26–28 as the design foundation and preserve the source's treatment of *’ĕlōhîm*. | Genesis 1:26–28; John 14:12; Psalm 82:6; Romans 8:17; 1 John 4:17 | Existing app entry 2; proposed chapter |
+| DF-03 | **Psalm 82 with John 10** | Read Psalm 82 with its judgment context and Jesus' argument in John 10. | Psalm 82:1–8; John 10:30–39 | Existing app entry 3; proposed chapter |
+| DF-04 | **True Nature: Partakers of the Divine Nature** | Develop 2 Peter 1:3–8 and distinguish source wording from wider synthesis about design and restoration. | 2 Peter 1:2–8; Genesis 1:26–28; Psalm 82:5 | Existing app entry 4; proposed chapter |
+| DF-05 | **Why Did Jesus Come? Glory, Deviation, and Representation** | Develop coming short of glory, Christ's work, and what Christ represents. | Romans 3:21–26; 1 Corinthians 11:7; Hebrews 1:2; Ephesians 1:7; Colossians 1:14 | Existing app entry 5; proposed chapter |
+| DF-06 | **Δικαιόω (*dikaioō*): Justified Freely; Righteousness in Christ** | Integrate free justification, *dikaioō*, *dikaiosynē*, *apolutrōsis*, and present righteousness in Christ. | Romans 3:23–28; 2 Corinthians 5:17–21; Ephesians 1:7; Colossians 1:14 | Existing app entry 6, sections VI–VII; proposed chapter |
+| DF-07 | **Hebrews 1:8 and the Heir** | Reason through the source's Hebrews 1:8 question and the related questions of heirship. | Hebrews 1:1–8; Galatians 4:1–7; Romans 8:17; 2 Corinthians 5:21 | Existing app entry 7, sections VIII–IX; proposed chapter |
+| DF-08 | **Oneness and Glory: Liken John 17:20–23** | Answer the source's oneness question through the prayer's own sequence and language. | John 17:1, 18–23; Genesis 1:26–28; Romans 8:17; 1 John 4:17 | Existing app entry 8, section X; proposed chapter |
+| DF-09 | **The Image in the Face of Jesus Christ: Light and Knowledge** | Develop 2 Corinthians 4:1–6 and close Book I with a cumulative synthesis and controlled bridge to Book II. | 2 Corinthians 4:1–6; 2 Corinthians 5:21; John 17:20–23 | Existing app entry 8, sections XI–XIII; proposed chapter |
 
-### Architecture decision rule
+### Architecture rules
 
-Do not add a ninth chapter simply to accommodate the newly supplied notes. First test whether each note strengthens one or more of DF-01 through DF-08. Add a new chapter only if the source audit reveals a distinct, substantial argument that cannot be placed coherently in the existing structure, and record the rationale and owner decision here.
-
-The final table may change after the source and manuscript audit. Until that review is complete, treat it as a controlled working architecture, not an owner-approved final table of contents.
-
----
+- The full chapter-purpose map, section-by-section movement plan, owner-note placement, and review checklist are recorded in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md`.
+- The nine-chapter structure is a proposal for owner review, not a final decision.
+- Do not draft canonical chapters as if this proposal were approved.
+- Preserve all existing app prose; the proposal maps content and does not authorize overwriting or deleting it.
+- Integrate owner notes where they deepen the relevant argument. Do not add chapters merely to hold new notes.
+- Keep the Hebrews 11:1 / *hypostasis* / substance-and-evidence exposition primarily in Book II, *Faith Is Evidence*.
 
 ## 6. Required integration of the additional owner notes
 
@@ -238,28 +242,31 @@ Each canonical chapter manuscript must contain the following elements where appr
 
 ## 9. Canonical manuscript file plan
 
-Create a dedicated directory:
+Use the dedicated directory:
 
 `Book Matter/Doctrine of Faith/`
 
-Use these canonical Markdown files:
+Current control/reference files:
 
 - `00_DOCTRINE_OF_FAITH_MASTER_MANUSCRIPT_BLUEPRINT.md` — this control document.
-- `01_CHAPTER_01_PISTIS_CREDENCE_THAT_DEFINES_SONS.md`
-- `02_CHAPTER_02_ELOHIM_IMAGE_AND_LIKENESS.md`
-- `03_CHAPTER_03_PSALM_82_WITH_JOHN_10.md`
-- `04_CHAPTER_04_TRUE_NATURE_PARTAKERS.md`
-- `05_CHAPTER_05_WHY_DID_JESUS_COME.md`
-- `06_CHAPTER_06_DIKAIOO_JUSTIFIED_FREELY.md`
-- `07_CHAPTER_07_HEBREWS_1_8_AND_THE_HEIR.md`
-- `08_CHAPTER_08_ONENESS_FACE_AND_THE_STONE_LAID.md`
-- `90_OPEN_QUESTIONS_AND_OWNER_DECISIONS.md` — only real unresolved questions and decisions; do not reopen locked decisions.
-- `91_SOURCE_AND_SCRIPTURE_COVERAGE_AUDIT.md` — coverage ledger for the book.
+- `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md` — proposed nine-chapter reader-facing architecture; owner approval pending.
+- `90_OPEN_QUESTIONS_AND_OWNER_DECISIONS.md` — genuine unresolved questions and decisions.
+- `91_SOURCE_AND_SCRIPTURE_COVERAGE_AUDIT.md` — initial Gate A source and Scripture coverage audit.
 - `92_CHANGELOG.md` — concise record of architecture and owner-approved changes.
 
-The chapter file names are a stable starting convention. If the owner approves an architectural change, update this blueprint and the file plan together before creating, moving, or deleting chapter manuscripts.
+**Proposed canonical chapter files** (create after the owner approves or corrects the architecture):
 
----
+- `01_CHAPTER_01_PISTIS_CREDENCE_THAT_DEFINES_SONS.md`
+- `02_CHAPTER_02_ELOHIM_IMAGE_LIKENESS_AND_DESIGN.md`
+- `03_CHAPTER_03_PSALM_82_WITH_JOHN_10.md`
+- `04_CHAPTER_04_TRUE_NATURE_PARTAKERS_OF_DIVINE_NATURE.md`
+- `05_CHAPTER_05_WHY_DID_JESUS_COME_GLORY_DEVIATION_REPRESENTATION.md`
+- `06_CHAPTER_06_DIKAIOO_JUSTIFIED_FREELY_RIGHTEOUSNESS_IN_CHRIST.md`
+- `07_CHAPTER_07_HEBREWS_1_8_AND_THE_HEIR.md`
+- `08_CHAPTER_08_ONENESS_AND_GLORY_JOHN_17.md`
+- `09_CHAPTER_09_IMAGE_IN_THE_FACE_OF_JESUS_CHRIST.md`
+
+Do not create empty chapter files merely to populate the directory. After architecture approval, create each canonical chapter from the preserved existing prose and source audit, one chapter at a time. The app companion remains intact as an existing publishing surface; canonical manuscript drafting must not overwrite it.
 
 ## 10. Drafting workflow and approval gates
 
@@ -273,10 +280,11 @@ The chapter file names are a stable starting convention. If the owner approves a
 
 ### Gate B — Architecture review
 
-- Validate the eight-chapter working architecture.
-- Decide whether any chapter must be merged, split, renamed, or expanded.
+- Review the nine-chapter proposal in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md`.
+- Confirm or correct chapter functions, titles, and the split between John 17's oneness argument and 2 Corinthians 4's image/light/face argument.
 - Confirm the intended closing boundary between Book I and Book II.
-- Record any required owner decisions in Section 11 or `90_OPEN_QUESTIONS_AND_OWNER_DECISIONS.md`.
+- Record the owner's decision in `90_OPEN_QUESTIONS_AND_OWNER_DECISIONS.md` and `92_CHANGELOG.md`.
+- Do not create canonical chapter files until the architecture is approved or corrected.
 
 ### Gate C — Chapter briefs
 
@@ -330,10 +338,10 @@ Do not reopen questions that the owner has already locked in `study/11_OWNER_DEC
 
 The following are review tasks, not assumed decisions:
 
-1. Confirm whether the eight existing app companion chapters are the approved final chapter architecture for Book I.
-2. Determine whether the canonical Markdown chapters exist elsewhere in the repository or need to be created from audited existing prose.
-3. Decide, after full coverage review, whether Hebrews 11:1 and the detailed *hypostasis* argument belong entirely in Book II or whether Book I needs a short framing transition.
-4. Determine how much of the Hebrews 11:2, 5–6 / Matthew 3:17 connection belongs in Book I without turning it into the full Book II argument.
+1. Review and approve or correct the proposed nine-chapter architecture in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md`.
+2. Confirm whether Hebrews 11:2, 5–6 and Matthew 3:17 should receive only a controlled subsection in Chapter 1, leaving the full Hebrews 11:1 / *hypostasis* argument for Book II.
+3. Confirm the proposed treatment of Mark 11:22 and Matthew 5:48 in Chapter 2, preserving context and marking synthesis.
+4. Review the explicit reasoning required to answer the source's Hebrews 1:8 question.
 5. Resolve only genuine source, lexical, or argument conflicts that cannot be answered from the existing source and owner decisions.
 
 No new doctrinal conclusion is to be silently made to avoid asking a real owner question.
@@ -348,12 +356,12 @@ Status at creation of this blueprint:
 |---|---|---|
 | Book I / Book II distinction | Established by owner | Preserve throughout |
 | Foundation School source study | Exists | Use as reference, not as substitute for Book I architecture |
-| Eight-chapter app companion prose | Exists in `src/lib/content/companion-faith.ts` | Full audit and preservation |
+| Eight-entry app companion prose | Exists in `src/lib/content/companion-faith.ts`; contains thirteen internal sections | Preserve as existing work; use the Gate A audit to draft canonical chapters |
 | Dedicated Book I master blueprint | **Created here** | Owner review; update as decisions are made |
 | Canonical Markdown chapter manuscripts in dedicated directory | Not located in the audited paths; not yet verified elsewhere | Search repository and create/transfer after audit |
 | Additional owner notes | Recorded in `study/15_ADDITIONAL_NOTES_FAITH_SONSHIP_DESIGN.md` | Integrate according to Section 6 |
-| Source and Scripture coverage of each chapter | Not yet fully audited against all manuscript prose | Complete Gate A and maintain coverage ledger |
-| Final approved chapter architecture | Working eight-chapter baseline | Complete Gate B |
+| Initial source and Scripture coverage audit | Created in `91_SOURCE_AND_SCRIPTURE_COVERAGE_AUDIT.md` | Use for Gate B and chapter drafting; detailed passage-by-passage verification continues |
+| Final approved chapter architecture | Nine-chapter proposal created; owner approval pending | Review `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md` |
 | Book I final manuscript | Not yet established as complete | Draft/revise through Gates C–F |
 | Book II manuscript | Later work | Begin after Book I foundation and boundary are reviewed |
 
@@ -405,3 +413,14 @@ The audit reviewed the eight existing entries in `src/lib/content/companion-fait
 - [ ] Book-level doctrinal and source-fidelity audit completed.
 
 **Next controlled step:** Gate B — validate the book's reader-facing architecture against the audit. Do not draft the canonical chapters as if the current eight-entry structure were already final.
+
+
+## 15. Gate B architecture proposal — 2026-10-18
+
+The initial Gate B proposal is recorded in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md`.
+
+**Recommendation:** nine reader-facing chapters. Preserve the first seven existing chapter functions; separate the current app entry 8 into Chapter 8 (John 17:20–23, oneness and glory) and Chapter 9 (2 Corinthians 4:1–6, image/light/face and Book I synthesis). Keep free justification and present righteousness together in Chapter 6, and keep Hebrews 1:8 and heirship together in Chapter 7 with two distinct movements.
+
+This structure is proposed, not owner-approved. The chapter map does not authorize any deletion or overwrite of the existing app prose. Canonical chapter files should be created only after the owner confirms or corrects the architecture.
+
+**Next controlled action:** owner review of the proposal, then record the decision and create the canonical Markdown chapters one at a time.
