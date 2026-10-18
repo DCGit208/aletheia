@@ -83,3 +83,12 @@
 - Marked the original architecture proposal as superseded for the Book I / Book II boundary while preserving it as a historical source-mapping record.
 - Updated the master blueprint, owner-decision register, and source/Scripture coverage audit to reflect the corrected architecture and the next review gate.
 - No existing chapter draft was deleted or rewritten in this phase. The companion app content remains untouched.
+
+
+## 2026-10-18 — Dependency matrix and draft-boundary corrections
+
+- Created `96_FOUNDATION_DEPENDENCY_AND_COVERAGE_MATRIX.md`, mapping the foundational Hebrews 11:1 / *hypostasis* argument, all major leaflet propositions, owner-note Scripture clusters, proposed chapter homes, cross-links, existing draft migration, reasoning questions, and quality gates.
+- Integrated the owner's hypostasis direction into the standing source/interpretive notes in `study/15_ADDITIONAL_NOTES_FAITH_SONSHIP_DESIGN.md`, preserving the earlier conceptual chain while clarifying that the new foundational order governs the book's architecture.
+- Corrected the old boundary statement in Chapter 1's first-pass *pistis* draft and the Book I closing draft so they no longer defer the *hypostasis* foundation to Book II. The drafts remain first-pass material and have not undergone wholesale rewrites.
+- Marked the first-draft source-fidelity review's old Book II boundary conclusion as superseded while retaining its source-coverage findings.
+- Updated the master blueprint, owner-decision register, source audit, and architecture proposal links. No existing app companion content was overwritten or deleted.
