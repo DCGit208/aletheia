@@ -120,7 +120,7 @@ Write substantive chapters in canonical Markdown under a dedicated Book I manusc
 
 ## 5. Proposed reader-facing chapter architecture
 
-The first nine-chapter proposal is preserved in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md` as a historical record, but its boundary assumption that reserved the core *hypostasis* argument for Book II is superseded. The current nine chapter drafts are a first working arrangement, **not a validated final architecture**. The controlling reconstruction is in `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md`; the foundation-first working proposal is in `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md`.
+The first nine-chapter proposal is preserved in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md` as a historical record, but its boundary assumption that reserved the core *hypostasis* argument for Book II is superseded. The current nine chapter drafts are a first working arrangement, **not a validated final architecture**. The controlling reconstruction is in `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md`; the foundation-first working proposal is in `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md`; the detailed source-to-chapter dependency and coverage matrix is in `96_FOUNDATION_DEPENDENCY_AND_COVERAGE_MATRIX.md`.
 
 The original nine-chapter proposal retained the first seven existing chapter functions and separated John 17 from 2 Corinthians 4. That analysis remains useful for mapping source material, but it is not the current architecture decision. The revised proposal currently tests an eleven-chapter structure because the foundation of *hypostasis* and the faith/state question must govern the sequence. Chapter count remains provisional; the argument's dependencies, not the number eleven, control.
 
