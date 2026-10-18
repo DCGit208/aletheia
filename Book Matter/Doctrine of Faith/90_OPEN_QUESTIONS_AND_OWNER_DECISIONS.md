@@ -37,7 +37,7 @@
 
 **Constraint:** The leaflet poses the question but does not print a direct answer. Do not turn the question into an unexamined conclusion or invent a title without showing the argument.
 
-**Status:** Open — high priority.
+**Status:** Open — high priority. A provisional, reasoned answer has been drafted in Chapter 7: in Christ, the believer is a son and heir of God, made the righteousness of God in Him, and called to understand present identity through the Son who is the express image of God's person. This is explicitly labeled a synthesis for owner review, not a direct answer printed in the leaflet. The owner must confirm or revise the exact doctrinal conclusion.
 
 ### B2. “Jesus represents who we are by Design”
 **Question:** What is the final approved formulation and scope of this thesis, and how should the book distinguish what Christ accomplished from what Christ represents?
@@ -126,3 +126,10 @@ For each decision, record:
 - the date of decision.
 
 When resolved, update this file, the Master Manuscript Blueprint, the coverage audit, and `92_CHANGELOG.md` as needed. Do not reopen a resolved item without new evidence or a new owner instruction.
+
+
+## C. Manuscript implementation status — 2026-10-18
+
+The nine-chapter working architecture has canonical Markdown drafts for Chapters 1–9. This completes the first drafting pass, not the doctrinal approval process. The source/Scripture categories remain distinct, and the existing app companion is preserved.
+
+**Next review priority:** B1, the Hebrews 1:8 inference. The manuscript has made the reasoning visible and supplied a provisional answer so the source question is not left blank, but the final doctrinal formulation remains the owner's decision. Other open items—including lexical formulations, the scope of the design/representation thesis, and Book I/Book II boundary—remain open until explicitly decided.
