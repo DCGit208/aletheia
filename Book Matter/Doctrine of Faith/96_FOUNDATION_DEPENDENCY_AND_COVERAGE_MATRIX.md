@@ -36,7 +36,7 @@ This is not discarded. It is a conceptual map to investigate. Its placement of �
 
 ## 3. Source-to-chapter coverage matrix
 
-The proposed chapter numbers below refer to the eleven-chapter working proposal in document 95. They remain provisional until the complete chapter-dependency review is finished.
+The proposed chapter numbers below refer to the ten-chapter working proposal in document 95. They remain provisional until the complete chapter-dependency review is finished.
 
 | Source / owner proposition | Explicit source or Scripture basis | Proposed primary location | Required cross-links | Audit condition |
 |---|---|---|---|---|
@@ -45,25 +45,25 @@ The proposed chapter numbers below refer to the eleven-chapter working proposal 
 | Faith as the state of children of God | 2015 leaflet, Faith Toward God section; Hebrews 6:1 | Ch. 2 | Gal 4:5–7; Rom 8:14–17; Eph 1:3–5 | Preserve the leaflet's actual wording and demonstrate how it relates to Ch. 1 without claiming the leaflet itself cites Heb 11:1. |
 | *Pistis* = credence | 2015 leaflet; source glossary | Ch. 2 | Faith/state; adoption; sonship | Preserve source gloss; do not reduce to a passing feeling or generic positive thinking. |
 | Acceptance / true nature / adoption as sons | 2015 leaflet; Gal 4:5–7; Rom 8:15; Eph 1:5 | Ch. 2 | Genesis design; heirs; Christ's representation | Trace each passage and distinguish source statement from synthesis. |
-| Hebrews 11:2 good report; 11:5–6 pleasing God | Hebrews 11:2, 5–6 | Ch. 6, with bridge in Ch. 2 | Matt 3:17; sonship/state | Show what each text explicitly says before developing the synthesis that Sonship and the state of faith are related. |
-| Father's declaration over the Son | Matthew 3:17 | Ch. 6 | Heb 11:5–6; Heb 1:2–3 | Do not claim Matt 3:17 alone defines faith. |
+| Hebrews 11:2 good report; 11:5–6 pleasing God | Hebrews 11:2, 5–6 | Ch. 2 | Matt 3:17; sonship/state | Integrate with pistis/Sonship/state; show explicit text before developing the synthesis that Sonship and the state of faith are related. |
+| Father's declaration over the Son | Matthew 3:17 | Ch. 2 | Heb 11:5–6; Heb 1:2–3 | Do not claim Matt 3:17 alone defines faith. |
 | Image, likeness, dominion, blessing, fruitfulness | Genesis 1:26–28; source's TLB “like his Maker” gloss | Ch. 3 | Psalm 82; 2 Pet 1:4; Rom 8:17; 1 John 4:17 | Preserve KJV and TLB gloss distinction; preserve the source's reading of *'ĕlōhîm* as source interpretation. |
 | “Ye are gods” and judgment context | Psalm 82:1–8; John 10:30–39 | Ch. 4 | Gen 1:26–28; John 10:34–35; divine nature | Keep Ps 82:6–7 together and do not let one verse carry the entire later synthesis. |
 | Partakers of divine nature | 2 Peter 1:2–8, especially 1:4 | Ch. 5 | Genesis design; corruption escaped; virtues/diligence | Preserve the passage's sequence; do not detach v.4 from vv.5–8. |
-| Faith operates within design / God's nature | Owner's formulation with Gen 1:26–28, Mark 11:22, Matt 5:48 | Ch. 3 and Ch. 6 as needed | Psalm 82; 2 Pet 1; 1 John 4:17 | Mark as owner thesis / synthesis; preserve Mark 11 context and Matt 5:43–48 love/enemies context. |
-| “As he is, so are we in this world” | 1 John 4:17 | Ch. 10 and Ch. 11 | Love/confidence context; John 17; Rom 8:17 | Preserve immediate context and show the wider inference. |
+| Faith operates within design / God's nature | Owner's formulation with Gen 1:26–28, Mark 11:22, Matt 5:48 | Ch. 3, with cross-reference to Ch. 6 only if needed | Psalm 82; 2 Pet 1; 1 John 4:17 | Mark as owner thesis / synthesis; preserve Mark 11 context and Matt 5:43–48 love/enemies context. |
+| “As he is, so are we in this world” | 1 John 4:17 | Ch. 9 and Ch. 10 | Love/confidence context; John 17; Rom 8:17 | Preserve immediate context and show the wider inference. |
 | “Come short of the glory” as deviation from true nature | Rom 3:23–24 as interpreted by the Aletheia leaflet | Ch. 7 | 1 Cor 11:7; Gen 1; Christ's person/work | Attribute “deviation from true nature” to the source's interpretation, not as a word-for-word quotation from Romans. |
 | Man as image and glory of God | 1 Cor 11:7 | Ch. 7 | Immediate 1 Cor 11 headship/covering context; 2 Cor 4:4–6 | Preserve the source's selected phrase while acknowledging context. |
-| Christ as Son, heir, and express image | Heb 1:2–3; Heb 1:8; 2 Cor 4:4,6 | Ch. 7 and Ch. 9; synthesis in Ch. 11 | Design; image; righteousness; heirship | Do not make one verse prove the full representation thesis; compare Heb 1:3 hypostasis use with Heb 11:1. |
-| Christ's accomplishment and representation | Rom 3:21–26; 2 Cor 5:17–21; Eph 1:7; Col 1:13–14; owner thesis | Ch. 7 and Ch. 8 | Sonship; nature; present reality | Hold both questions together: what Christ accomplished and what He represents. |
-| Free justification | Rom 3:23–28; leaflet's “Has man been justified? Yes, and freely!” | Ch. 8 | Redemption; righteousness in Christ | Preserve “freely” and grace; don't replace the source's emphasis with a generic formula. |
-| *Dikaioō* | Leaflet: “render just or innocent (free from evil or guilt)”; owner: “render righteous or such as he ought to be” | Ch. 8 | *Dikaiosynē*; restoration | Keep formulations distinct pending deliberate lexical decision. |
-| *Dikaiosynē* / “back on course” | Leaflet: equity, impartiality to and conformity with God's nature; “original: back on course” | Ch. 8 | 2 Pet 1:4; 2 Cor 5:21 | Separate source gloss, lexical sense, and conceptual synthesis. |
-| *Apolutrōsis* / ransom in full | Leaflet: redemption, ransom in full; owner: riddance, ransom in full | Ch. 8 | Eph 1:7; Col 1:13–14; Rom 3:24 | Preserve both owner/source forms; do not invent a wider ransom theory. |
-| “What does Hebrews 1:8 make you?” | Leaflet's question; Heb 1:1–8; 2 Cor 5:21; Gal 4:5–7; Rom 8:17 | Ch. 9 | Heb 1:3; sonship and heirship | Expose every inferential step; final doctrinal answer remains owner decision. |
-| Heir / joint-heir | Gal 4:5–7; Rom 8:14–17; Heb 1:2 | Ch. 9 | Sonship; Christ; suffering and glory in Rom 8:17 | Do not reduce heirship to a future asset list; preserve whole verse context. |
-| Oneness, glory, indwelling, sending | John 17:20–23 | Ch. 10 | Gen 1; Rom 8:17; 1 John 4:17; 2 Cor 5:21 | Answer the leaflet's “how would you liken” question from the prayer's own sequence and purpose. |
-| Image, light, knowledge, glory in Christ | 2 Cor 4:1–6 | Ch. 11 | Heb 1:3; Gen 1; Rom 3; John 17 | Close Book I by gathering the cumulative argument, not by deferring its foundation. |
+| Christ as Son, heir, and express image | Heb 1:2–3; Heb 1:8; 2 Cor 4:4,6 | Ch. 6 and Ch. 8; synthesis in Ch. 10 | Design; image; righteousness; heirship | Do not make one verse prove the full representation thesis; compare Heb 1:3 hypostasis use with Heb 11:1. |
+| Christ's accomplishment and representation | Rom 3:21–26; 2 Cor 5:17–21; Eph 1:7; Col 1:13–14; owner thesis | Ch. 6 and Ch. 7 | Sonship; nature; present reality | Hold both questions together: what Christ accomplished and what He represents. |
+| Free justification | Rom 3:23–28; leaflet's “Has man been justified? Yes, and freely!” | Ch. 7 | Redemption; righteousness in Christ | Preserve “freely” and grace; don't replace the source's emphasis with a generic formula. |
+| *Dikaioō* | Leaflet: “render just or innocent (free from evil or guilt)”; owner: “render righteous or such as he ought to be” | Ch. 7 | *Dikaiosynē*; restoration | Keep formulations distinct pending deliberate lexical decision. |
+| *Dikaiosynē* / “back on course” | Leaflet: equity, impartiality to and conformity with God's nature; “original: back on course” | Ch. 7 | 2 Pet 1:4; 2 Cor 5:21 | Separate source gloss, lexical sense, and conceptual synthesis. |
+| *Apolutrōsis* / ransom in full | Leaflet: redemption, ransom in full; owner: riddance, ransom in full | Ch. 7 | Eph 1:7; Col 1:13–14; Rom 3:24 | Preserve both owner/source forms; do not invent a wider ransom theory. |
+| “What does Hebrews 1:8 make you?” | Leaflet's question; Heb 1:1–8; 2 Cor 5:21; Gal 4:5–7; Rom 8:17 | Ch. 8 | Heb 1:3; sonship and heirship | Expose every inferential step; final doctrinal answer remains owner decision. |
+| Heir / joint-heir | Gal 4:5–7; Rom 8:14–17; Heb 1:2 | Ch. 8 | Sonship; Christ; suffering and glory in Rom 8:17 | Do not reduce heirship to a future asset list; preserve whole verse context. |
+| Oneness, glory, indwelling, sending | John 17:20–23 | Ch. 9 | Gen 1; Rom 8:17; 1 John 4:17; 2 Cor 5:21 | Answer the leaflet's “how would you liken” question from the prayer's own sequence and purpose. |
+| Image, light, knowledge, glory in Christ | 2 Cor 4:1–6 | Ch. 10 | Heb 1:3; Gen 1; Rom 3; John 17 | Close Book I by gathering the cumulative argument, not by deferring its foundation. |
 | Book II: faith as evidence | Hebrews 11:1's *elenchos* clause and the broader owner-defined book purpose | Book II after Book I | Book I's established *hypostasis* / state foundation | Book I must acknowledge the evidence clause; Book II develops it in depth. |
 
 ## 4. Current-draft migration map
@@ -130,6 +130,6 @@ The current drafts were checked by chapter headings, major argument passages, an
 
 ### Structural consequence
 
-The proposed eleven chapters are a plausible working structure, not yet a locked decision. The most important unresolved structural choice is whether the Hebrews 11:2,5–6 / Matthew 3:17 Sonship-and-pleasing-God inquiry needs a standalone Chapter 6 or can be integrated into the *pistis* chapter without losing the argument. This decision should be made after mapping the full prose, avoiding repetition, and confirming how the foundational Chapter 1 hands off to the source's *pistis* / state teaching.
+The ten-chapter structure is the current working recommendation, not a locked decision. After inspecting the first-pass drafts, the Hebrews 11:2, 5–6 / Matthew 3:17 Sonship-and-pleasing-God inquiry is best integrated into the *pistis* chapter because it directly extends the source's faith/state/Sonship argument; a standalone chapter would risk repeating that same argument after the design chapters. This remains open to revision if the full prose rewrite reveals a genuine independent movement that cannot be handled coherently in Chapter 2.
 
 **No wholesale chapter rewrites have been made.** Limited corrections were made only where existing draft text directly contradicted the owner's corrected Book I / Book II boundary.
