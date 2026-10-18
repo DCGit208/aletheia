@@ -425,32 +425,6 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
       coverImage: "/covers/doctrine-of-eternal-judgment-seal.png",
     },
   ),
-  "product-god-of-pleasure": bookOffer(
-    "product-god-of-pleasure",
-    "The God of Pleasure",
-    "Digital publication. Revelation 4:11. A study of God's pleasure, His nature, and the life He gives.",
-    "book-god-of-pleasure",
-    10000,
-    {
-      shopGroup: "publications",
-      badge: "Book",
-      kicker: "Digital book · $100",
-      coverTone: "gold",
-    },
-  ),
-  "product-death-absence-of-knowledge": bookOffer(
-    "product-death-absence-of-knowledge",
-    "Death Is the Absence of Knowledge",
-    "Digital publication. Hosea 4:6. A study of knowledge and the consequences of its absence.",
-    "book-death-absence-of-knowledge",
-    10000,
-    {
-      shopGroup: "publications",
-      badge: "Book",
-      kicker: "Digital book · $100",
-      coverTone: "ink",
-    },
-  ),
   "product-great-deception": bookOffer(
     "product-great-deception",
     "The Great Deception",
