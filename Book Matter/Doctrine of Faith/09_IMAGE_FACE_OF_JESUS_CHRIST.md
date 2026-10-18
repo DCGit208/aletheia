@@ -72,7 +72,7 @@ The source and Scripture set lead the reader through a connected inquiry:
 
 This is a working conceptual chain, not a claim that each arrow is explicitly stated by a single verse. Its purpose is to make the book's reasoning visible and auditable.
 
-The developing thesis is that faith is not merely a statement someone agrees with while remaining detached from the reality being described. The source begins by calling *pistis* “credence” and connecting it to the state of children of God, acceptance, true nature, and adoption as sons. The broader thesis asks how that credence relates to design, righteousness, representation, and present reality in Christ. The full relation between faith, substance, and evidence is reserved for Book II.
+The developing thesis is that faith is not merely a statement someone agrees with while remaining detached from the reality being described. The source begins by calling *pistis* “credence” and connecting it to the state of children of God, acceptance, true nature, and adoption as sons. The broader thesis asks how that credence relates to design, righteousness, representation, and present reality in Christ. Under the corrected architecture, Book I must establish the foundational relation between Hebrews 11:1, *hypostasis*, substance, and faith as underlying state/nature; Book II then develops faith as evidence from that foundation.
 
 ## What Book I Has—and Has Not—Established
 
@@ -80,7 +80,7 @@ Book I has developed the Aletheia source's faith-toward-God architecture through
 
 This paragraph in the first draft contained an incorrect boundary assumption and is superseded. Book I must establish Hebrews 11:1 and *hypostasis* as foundational to faith as substance and the person's underlying nature/state. Book II, *Faith Is Evidence*, builds on that foundation to develop faith as evidence. The final close of Book I should therefore summarize the foundation established and hand forward the evidence question without postponing the foundation itself.
 
-The forward question is therefore deliberate: **If faith is credence in relation to sonship, design, righteousness, and the reality revealed in Christ, how does Scripture develop faith as substance and evidence?** Book II takes up that question on its own terms.
+The forward question is therefore deliberate: **Having established faith's foundation in *hypostasis* / substance and its relation to the person's state, how does Scripture develop faith as evidence?** Book II takes up that question on its own terms.
 
 ## Final Study and Review Questions
 
