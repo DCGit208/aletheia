@@ -24,7 +24,7 @@ The book's sequence must follow conceptual dependency:
 6. Develop the questions of heirship, oneness, present reality, and the image/glory revealed in Christ.
 7. Close Book I with a clear statement of the foundation established and a controlled handoff to Book II's distinctive treatment of evidence.
 
-This sequence is a proposed logic, not an automatic verdict on chapter count. The eleven-chapter arrangement below is a working recommendation to test against the source material and existing prose.
+This sequence is a proposed logic, not an automatic verdict on chapter count. The ten-chapter arrangement below is a working recommendation to test against the source material and existing prose.
 
 ## 3. Proposed reader-facing structure (11 working chapters)
 
@@ -40,7 +40,7 @@ This sequence is a proposed logic, not an automatic verdict on chapter count. Th
 
 **Purpose:** Develop the leaflet's explicit faith-toward-God teaching from Hebrews 6:1, pistis / credence, acceptance / true nature, adoption, and Sonship. Connect Galatians 4:5–7, Romans 8:14–17, and Ephesians 1:3–5. This chapter must now explicitly connect the source's pistis / state claim to the foundation established in Chapter 1, rather than treating “state” as an independent slogan.
 
-**Owner-note integration:** Introduce Hebrews 11:2,5–6 and Matthew 3:17 as a controlled inquiry into faith, good report, pleasing God, and the Father's declaration over the Son. The claim that Sonship itself is the state of faith remains a synthesis to demonstrate.
+**Owner-note integration:** Integrate Hebrews 11:2, 5–6 and Matthew 3:17 here, because they deepen the chapter's central question about faith, the state of Sonship, good report, and pleasing God. Hebrews explicitly connects faith with good report and Enoch's testimony of pleasing God; Matthew records the Father's declaration over the beloved Son. The synthesis that the state of Sonship is the state of faith must be demonstrated across the passages, not attributed to Matthew 3:17 alone.
 
 ### Chapter 3 — God, Elohim, Image, Likeness, and Human Design
 
@@ -60,37 +60,33 @@ This sequence is a proposed logic, not an automatic verdict on chapter count. Th
 
 **Cross-links:** Genesis 1:26–28; Psalm 82:5–7; Romans 8:17; 1 John 4:17.
 
-### Chapter 6 — Faith, Sonship, Good Report, and Pleasing God
+**Placement decision:** The Hebrews 11:2, 5–6 / Matthew 3:17 material is integrated into Chapter 2 rather than retained as a separate chapter. It directly develops the *pistis* / Sonship / state argument and would be structurally repetitive if reintroduced as a standalone chapter after the design and divine-nature chapters. The relevant content remains fully in scope; only its placement changes.
 
-**Purpose:** Give the Hebrews 11:2,5–6 and Matthew 3:17 cluster its own coherent treatment if the chapter-level audit confirms it needs more than a subsection. Ask what the text says about good report, Enoch's testimony, pleasing God, and the Father's declaration over the Son. Develop—not assume—the synthesis connecting the state of Sonship and the state of faith.
-
-**Architecture note:** This chapter is provisionally separate so the central state/pleasing-God question is not buried inside a lexical chapter. If the source and prose audit shows it can be integrated more coherently into Chapter 2 without losing the reasoning, this chapter may be merged. Do not preserve eleven chapters merely to preserve the number.
-
-### Chapter 7 — Why Did Jesus Come? Glory, Deviation, Accomplishment, and Representation
+### Chapter 6 — Why Did Jesus Come? Glory, Deviation, Accomplishment, and Representation
 
 **Purpose:** Develop Romans 3:21–26 and 1 Corinthians 11:7 in the source's terms: coming short of glory as deviation from true nature, the image/glory language, and the question “Why did Jesus come?” Bring Hebrews 1:2–3 and 2 Corinthians 4:4–6 into the cumulative representation inquiry. Keep Christ's accomplishment and representation together.
 
 **Owner thesis:** “Jesus represents who we are by Design.” The working synthesis “Christ's work restores what Christ's person reveals” must be demonstrated, not presented as a direct biblical quotation.
 
-### Chapter 8 — Redemption, Free Justification, and Righteousness in Christ
+### Chapter 7 — Redemption, Free Justification, and Righteousness in Christ
 
 **Purpose:** Develop dikaioo, dikaiosyne, and apolutrosis from Romans 3:23–28, 2 Corinthians 5:17–21, Ephesians 1:7, and Colossians 1:13–14. Preserve the leaflet's lexical formulations and the owner's additional formulations as distinct. Explain which part of “back on course” is the source's conceptual gloss and which part is synthesis.
 
 **Non-negotiable wording control:** Keep “freely,” grace, redemption, and “in Him” / “in Christ” visible. Do not turn the ransom analogy into a broader theory unsupported by the source.
 
-### Chapter 9 — The Son, Hebrews 1:8, and the Heir
+### Chapter 8 — The Son, Hebrews 1:8, and the Heir
 
 **Purpose:** Work through the leaflet's questions: “According to Hebrews 1:8, what does that make you?”, “Who is heir of God?”, and “What is an heir?” Show the complete reasoning chain through Hebrews 1:1–8, Galatians 4:1–7, Romans 8:14–17, 2 Corinthians 5:21, and Genesis 1:26–28. Do not invent a title or make an unexamined jump from the Father's address to the Son to every believer.
 
 **Status:** Final doctrinal answer remains an owner decision. The chapter must expose the argument and the exact point at which synthesis enters.
 
-### Chapter 10 — Oneness and Glory: Liken John 17:20–23
+### Chapter 9 — Oneness and Glory: Liken John 17:20–23
 
 **Purpose:** Answer the leaflet's question through Jesus' prayer's own progression: the disciples, later believers, being one as the Father and Son are one, indwelling, glory given, the world's knowledge that the Father sent the Son, and the stated purpose. Preserve the prayer's “as” comparisons.
 
 **Cross-links:** Genesis 1:26–28; Romans 8:17; 1 John 4:17; 2 Corinthians 5:21. Do not reduce oneness to a feeling or organizational merger.
 
-### Chapter 11 — The Image in the Face of Jesus Christ: Glory, Knowledge, and Present Reality
+### Chapter 10 — The Image in the Face of Jesus Christ: Glory, Knowledge, and Present Reality
 
 **Purpose:** Develop 2 Corinthians 4:1–6 and close the cumulative Book I argument. Connect the image of God in Christ, the light shining in hearts, and the knowledge of God's glory in the face of Jesus Christ to the book's established foundation and the source's teaching on design, true nature, redemption, righteousness, Sonship, and oneness.
 
@@ -103,16 +99,16 @@ The current nine drafts are **preserved as source-bearing working material**, no
 | Existing draft | Provisional new home / treatment |
 |---|---|
 | 01 — Pistis: Credence That Defines Sons | Primary source for revised Chapter 2; add explicit relation to Chapter 1 foundation. |
-| 02 — Elohim: Image, Likeness, and Design | Primary source for revised Chapter 3; some Mark 11 / Matthew 5 content may be redistributed to Chapter 6 if that improves the argument. |
+| 02 — Elohim: Image, Likeness, and Design | Primary source for revised Chapter 3; retain the Mark 11 / Matthew 5 contextual material here, with a cross-reference to Chapter 6 only where the Christ/representation argument genuinely requires it. |
 | 03 — Psalm 82 with John 10 | Revised Chapter 4. |
 | 04 — True Nature: Partakers of the Divine Nature | Revised Chapter 5. |
-| 05 — Why Did Jesus Come? Glory, Deviation, and Representation | Primary source for revised Chapter 7; maintain cross-links to Chapter 8. |
-| 06 — Dikaioo: Justified Freely; Righteousness in Christ | Revised Chapter 8. |
-| 07 — Hebrews 1:8 and the Heir | Revised Chapter 9; keep final inference open for owner review. |
-| 08 — Oneness and Glory: John 17 | Revised Chapter 10. |
-| 09 — The Image in the Face of Jesus Christ | Revised Chapter 11. |
+| 05 — Why Did Jesus Come? Glory, Deviation, and Representation | Primary source for revised Chapter 6; maintain cross-links to Chapter 7. |
+| 06 — Dikaioo: Justified Freely; Righteousness in Christ | Revised Chapter 7. |
+| 07 — Hebrews 1:8 and the Heir | Revised Chapter 8; keep final inference open for owner review. |
+| 08 — Oneness and Glory: John 17 | Revised Chapter 9. |
+| 09 — The Image in the Face of Jesus Christ | Revised Chapter 10. |
 | New Chapter 1 | Draw from Hebrews 11:1, lexical study, Hebrews 1:3 and 3:14, Hebrews 10:32–39 / 11:1–6, and the owner's foundational direction. Do not fabricate a source-leaflet quotation. |
-| Provisional Chapter 6 | Develop the owner-note cluster; decide whether it needs a standalone chapter after comparing the whole draft. |
+| Hebrews 11:2, 5–6 / Matthew 3:17 | Integrated into revised Chapter 2, alongside pistis, Sonship, and state; no standalone chapter is proposed unless later evidence shows the argument cannot be developed adequately there. |
 
 ## 5. Required review gates before prose rewrites
 
@@ -134,4 +130,4 @@ This proposal is a reconstruction of the architecture, not final owner approval 
 
 ## 7. Dependency audit
 
-The detailed source-to-chapter coverage and argument-dependency matrix is recorded in [96 — Foundation Dependency and Coverage Matrix](96_FOUNDATION_DEPENDENCY_AND_COVERAGE_MATRIX.md). It distinguishes the order of explanation from the broader conceptual relationships in the owner's notes and maps the major leaflet claims, Scripture clusters, owner formulations, and existing drafts into the foundation-first proposal. The eleven-chapter count remains provisional; the matrix and source/context checks govern final architecture decisions.
+The detailed source-to-chapter coverage and argument-dependency matrix is recorded in [96 — Foundation Dependency and Coverage Matrix](96_FOUNDATION_DEPENDENCY_AND_COVERAGE_MATRIX.md). It distinguishes the order of explanation from the broader conceptual relationships in the owner's notes and maps the major leaflet claims, Scripture clusters, owner formulations, and existing drafts into the foundation-first proposal. The ten-chapter count remains provisional; the matrix and source/context checks govern final architecture decisions.
