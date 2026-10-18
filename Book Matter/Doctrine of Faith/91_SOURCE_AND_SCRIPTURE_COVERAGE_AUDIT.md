@@ -318,3 +318,6 @@ The approved-to-proceed nine-chapter working architecture now has canonical Mark
 | 9 | `09_IMAGE_FACE_OF_JESUS_CHRIST.md` | Audit the Book I synthesis and preserve the boundary with *Faith Is Evidence*. |
 
 **Important:** “Draft exists” means the chapter has been created as a canonical working manuscript. It does not mean every claim is approved, every source gap is closed, or the book is ready for publication. The next phase is a controlled source-fidelity and doctrinal review, prioritizing the open owner decisions recorded in `90_OPEN_QUESTIONS_AND_OWNER_DECISIONS.md`.
+
+
+**Follow-on review record:** The first-draft source-fidelity review is documented in `93_FIRST_DRAFT_SOURCE_FIDELITY_REVIEW.md`. That review also records the Chapter 2 contextual additions for Mark 11:22 and Matthew 5:48 and the substantive integration of Ephesians 1:7 / Colossians 1:13–14 in Chapter 5. See the open-decision register for questions that remain unresolved despite the passages now being included.
