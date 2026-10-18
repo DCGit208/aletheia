@@ -12,7 +12,7 @@
 
 **Current proposal:** Retain the first seven chapter functions; split the current final app entry into a John 17 oneness chapter and a 2 Corinthians 4 image/light/face chapter. Keep justification/righteousness together and Hebrews 1:8/heirship together.
 
-**Status:** Proposed; owner approval or correction required before canonical chapter files are created.
+**Status:** Approved to proceed by the owner's “Go ahead” on 2026-10-18. The nine-chapter structure is the working controlled architecture. Revisions remain possible through an explicit owner decision; unresolved doctrinal questions below remain open.
 
 ### A2. Book I's boundary with Book II
 **Question:** How much of Hebrews 11:2, 5–6 and the faith/pleasing-God relationship belongs in Book I, and what should be reserved for *Faith Is Evidence*?
