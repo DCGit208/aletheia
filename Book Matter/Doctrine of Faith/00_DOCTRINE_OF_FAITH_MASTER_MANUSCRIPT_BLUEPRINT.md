@@ -501,4 +501,4 @@ The owner's explicit direction corrects the previous architecture: *hypostasis* 
 
 **Lexical control:** *Hypostasis* has a context-sensitive semantic range that includes substance/actual reality/nature and confidence/assurance. Compare Hebrews 1:3, 3:14, and 11:1; do not rely on etymology alone or assume every occurrence has identical nuance.
 
-**Next controlled step:** Validate the proposed foundation-first chapter sequence against the source map, Scripture matrix, all nine preserved drafts, and owner notes. Then revise the chapter briefs and manuscript in a coordinated pass. Keep the Hebrews 1:8 inference and the lexical decisions open for owner review; they are not replaced by this architecture correction.
+**Next controlled step:** Review the first working draft of the foundation chapter against the source map, Scripture matrix, lexical alternatives, and owner thesis. Then revise the remaining chapter briefs and existing drafts in a coordinated pass. The foundation chapter is a first draft, not final doctrinal approval. Keep the Hebrews 1:8 inference and the lexical decisions open for owner review; they are not replaced by this architecture correction.
