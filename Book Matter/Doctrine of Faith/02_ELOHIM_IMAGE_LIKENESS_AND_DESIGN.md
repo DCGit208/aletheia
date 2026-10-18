@@ -34,7 +34,7 @@ This chapter keeps a Scripture set that must sit with these verses. You will not
 
 John 14:12 — “Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.”
 
-He that believeth on Me. The works that I do shall he do also. Greater works than these shall he do. Because I go unto My Father. The going of the Son is the reason the believer is not left as a spectator of works he can never touch. Do not reduce the verse to a fundraising slogan. Do not empty it because you are afraid of it. Teach it as written, with Genesis 1:26–28.
+He that believeth on Me. The works that I do shall he do also. Greater works than these shall he do. Because I go unto My Father. The existing companion's exposition reads the Son's going as the reason the believer is not left as a spectator of works he can never touch. That is an interpretive development of the verse's stated connection, not a separate quotation from the text. Do not reduce the verse to a fundraising slogan or empty it because it is demanding. Teach it as written, with Genesis 1:26–28.
 
 1 John 4:17 — “Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.”
 
