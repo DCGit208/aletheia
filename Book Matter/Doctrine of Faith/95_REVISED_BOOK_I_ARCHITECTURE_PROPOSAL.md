@@ -130,3 +130,8 @@ The current nine drafts are **preserved as source-bearing working material**, no
 ## 6. Decision protocol
 
 This proposal is a reconstruction of the architecture, not final owner approval of every doctrinal conclusion. After the source/context audit and relationship map are checked, the owner can approve or adjust the chapter structure. Open questions must be listed with the exact evidence and inference that needs a decision. A chapter title or chapter count must never take precedence over the doctrine's actual logical order.
+
+
+## 7. Dependency audit
+
+The detailed source-to-chapter coverage and argument-dependency matrix is recorded in [96 — Foundation Dependency and Coverage Matrix](96_FOUNDATION_DEPENDENCY_AND_COVERAGE_MATRIX.md). It distinguishes the order of explanation from the broader conceptual relationships in the owner's notes and maps the major leaflet claims, Scripture clusters, owner formulations, and existing drafts into the foundation-first proposal. The eleven-chapter count remains provisional; the matrix and source/context checks govern final architecture decisions.
