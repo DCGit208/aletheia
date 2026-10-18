@@ -72,3 +72,14 @@
 - Marked the current nine chapter drafts as working material whose overall sequence requires structural review. Do not simply append a token section or delete/overwrite existing chapters.
 - Required source discipline: distinguish the text of Hebrews 11:1, lexical/etymological evidence, explicit Aletheia source teaching, the owner's developing thesis, and synthesis. Etymology alone must not be presented as proving every doctrinal conclusion.
 - No chapter prose was deleted or overwritten in this correction; existing app companion content remains untouched.
+
+
+## 2026-10-18 — Foundational argument reconstruction and revised architecture
+
+- Created `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md`, documenting the source hierarchy, exact content of the leaflet's Faith Toward God section, the owner's governing hypostasis thesis, initial lexical cross-check, contextual controls from Hebrews 1:3 / 3:14 / 11:1, the reasoning dependency map, and risks against overstatement.
+- Created `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md`, proposing a foundation-first working sequence with Hebrews 11:1 / hypostasis at the opening of Book I and the Aletheia pistis / Sonship teaching developed in direct relation to it. The proposed eleven-chapter count is provisional and subject to source/dependency validation.
+- Recorded a crucial source-fidelity finding: the 2015 leaflet's Faith Toward God section explicitly uses Hebrews 6:1 and pistis / credence to define the state of children of God, but does not itself quote Hebrews 11:1 or use hypostasis. The manuscript must connect these lines without falsely attributing one to the leaflet.
+- Corrected the series boundary: Book I establishes the faith/substance/state foundation; Book II develops faith as evidence. The prior instruction to reserve the foundational hypostasis treatment for Book II is superseded.
+- Marked the original architecture proposal as superseded for the Book I / Book II boundary while preserving it as a historical source-mapping record.
+- Updated the master blueprint, owner-decision register, and source/Scripture coverage audit to reflect the corrected architecture and the next review gate.
+- No existing chapter draft was deleted or rewritten in this phase. The companion app content remains untouched.
