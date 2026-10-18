@@ -373,3 +373,35 @@ Whenever the owner adds a note:
 6. Record unresolved questions rather than silently filling gaps.
 
 **Book I is *The Doctrine of Faith*. Book II is *Faith Is Evidence*. Develop Book I first, from the source and its Scripture architecture, and keep Book II's distinct purpose intact.**
+
+
+---
+
+## 14. Gate A audit update — 2026-10-18
+
+The initial source/manuscript audit has been recorded in:
+
+- `91_SOURCE_AND_SCRIPTURE_COVERAGE_AUDIT.md`
+
+The audit reviewed the eight existing entries in `src/lib/content/companion-faith.ts`, compared their principal claims with the 2015 *Aletheia Libraries 1* Course 2 source, considered the attached *BIBLE INTRODUCTION.pdf* as supplementary Bible-study context, and mapped the principal owner-note Scripture clusters.
+
+### Gate A findings
+
+- The eight app entries contain thirteen internal argumentative sections; the eight-entry array must not be treated automatically as the final book chapter architecture.
+- The app prose is substantive existing work and must be preserved during any reorganization.
+- The 2015 leaflet remains the controlling compressed source for the Course 2 / Faith Toward God teaching.
+- The supplied Bible introduction is supplementary reference material, not a substitute source for Aletheia's doctrine or lexical glosses.
+- The audit identifies high-priority owner-review points around Hebrews 1:8, lexical formulations, course-specific language in a standalone book, and integration of Hebrews 11:2, 5–6; Matthew 3:17; Mark 11:22; Matthew 5:48; Ephesians 1:7; and Colossians 1:14.
+- The final Book I architecture is **not yet approved**. The ten-movement map in the audit is a review aid, not an automatic ten-chapter decision.
+
+### Status after initial Gate A
+
+- [x] Existing app companion located and audited at chapter-entry level.
+- [x] Initial source and Scripture coverage audit created.
+- [x] Main source-vs-synthesis and structure issues recorded.
+- [ ] Final Book I architecture validated.
+- [ ] Every Scripture cluster checked in full against the source matrix and owner decisions.
+- [ ] Canonical Markdown chapter drafts created/revised.
+- [ ] Book-level doctrinal and source-fidelity audit completed.
+
+**Next controlled step:** Gate B — validate the book's reader-facing architecture against the audit. Do not draft the canonical chapters as if the current eight-entry structure were already final.
