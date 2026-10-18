@@ -4,7 +4,7 @@
 **Book I:** *The Doctrine of Faith*  
 **Book II:** *Faith Is Evidence*  
 **Repository:** `DCGit208/aletheia`  
-**Control status:** Initial baseline established; chapter architecture is controlled but remains subject to owner review and source audit. This document must be updated deliberately when an owner decision changes the manuscript plan.
+**Control status:** Nine-chapter working architecture approved to proceed by the owner's “Go ahead” on 2026-10-18. Chapter 1 canonical Markdown draft created. Architecture remains revisable by explicit owner decision; unresolved doctrinal questions and later chapter gates remain open. Update this document deliberately when an owner decision changes the manuscript plan.
 
 ---
 
