@@ -46,7 +46,7 @@ If children, then heirs. The “if” is not a doubt about whether children exis
 
 Ephesians 1:3–5 — “Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ: According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love: Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will.”
 
-Adoption here is not an emergency repair God thought of after Adam fell. He predestinated us unto the adoption of children by Jesus Christ to Himself, according to the good pleasure of His will. The will is His. The pleasure is His. The adoption is by Jesus Christ.
+Ephesians 1:3–5 says that God chose us in Christ before the foundation of the world and predestinated us unto the adoption of children by Jesus Christ, according to the good pleasure of His will. The chapter reads this as evidence that adoption belongs to God's purpose and was not merely an afterthought introduced after the fall. That is an inference drawn from the passage's “before the foundation of the world” language; keep it identified as the chapter's reading rather than as a separate sentence quoted from the verse.
 
 Πίστις (*pistis*) is not a feeling you work up in a meeting. It is credence that agrees with what God has done and who you are by that doing. Servant is not the name. Son is the name. Heir follows son.
 
