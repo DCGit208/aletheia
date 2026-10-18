@@ -28,7 +28,7 @@ This sequence is a proposed logic, not an automatic verdict on chapter count. Th
 
 ## 3. Proposed reader-facing structure (11 working chapters)
 
-### Chapter 1 — Faith as Hypostasis: Substance, Reality, and the Foundation of the Doctrine
+### Chapter 1 — Faith as Hypostasis: Substance, Underlying Reality, and the Foundation of the Doctrine
 
 **Purpose:** Establish Hebrews 11:1 as the foundational scriptural proposition and investigate hypostasis in the sentence. Examine “substance,” “assurance,” “reality,” and “nature” as documented lexical options; engage the strongest commentary arguments for both substance/reality and assurance/confidence; compare Hebrews 1:3 and 3:14; read Hebrews 10:32–39 and 11:1–6 in context. Set out the owner's thesis that faith as substance explains faith as the person's underlying nature/state, identifying it as the governing doctrinal argument to be demonstrated.
 
@@ -107,7 +107,7 @@ The current nine drafts are **preserved as source-bearing working material**, no
 | 07 — Hebrews 1:8 and the Heir | Revised Chapter 8; keep final inference open for owner review. |
 | 08 — Oneness and Glory: John 17 | Revised Chapter 9. |
 | 09 — The Image in the Face of Jesus Christ | Revised Chapter 10. |
-| New Chapter 1 | Draw from Hebrews 11:1, lexical study, Hebrews 1:3 and 3:14, Hebrews 10:32–39 / 11:1–6, and the owner's foundational direction. Do not fabricate a source-leaflet quotation. |
+| New Chapter 1 | First working draft created as `00_HYPOSTASIS_SUBSTANCE_FOUNDATION.md`. It draws from Hebrews 11:1, lexical/contextual study, Hebrews 1:3 and 3:14, Hebrews 10:32–39 / 11:1–6, and the owner's foundational direction. It is a first draft, not final doctrinal approval; it does not fabricate a source-leaflet quotation. |
 | Hebrews 11:2, 5–6 / Matthew 3:17 | Integrated into revised Chapter 2, alongside pistis, Sonship, and state; no standalone chapter is proposed unless later evidence shows the argument cannot be developed adequately there. |
 
 ## 5. Required review gates before prose rewrites
