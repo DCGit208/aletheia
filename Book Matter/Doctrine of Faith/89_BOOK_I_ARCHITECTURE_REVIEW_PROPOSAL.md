@@ -1,3 +1,5 @@
+> **SUPERSEDED ARCHITECTURE RECORD — 2026-10-18:** This was the original nine-chapter proposal. Its instruction to reserve the core Hebrews 11:1 / hypostasis / substance treatment for Book II is incorrect and is superseded by the owner's later direction. See [94 — Foundational Argument Reconstruction](94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md) and [95 — Revised Book I Architecture Proposal](95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md). This file is retained as a record of the original reasoning and source mapping; do not use its former Book I / Book II boundary as current guidance.
+
 # Book I Architecture Review Proposal
 
 **Book:** *The Doctrine of Faith*  
@@ -176,7 +178,7 @@ Book II, *Faith Is Evidence*, should carry the sustained inquiry into Hebrews 11
 
 - [ ] Approve nine chapters as proposed.
 - [ ] Correct any chapter title or chapter function.
-- [ ] Confirm that Hebrews 11:2, 5–6 and Matthew 3:17 receive only a controlled subsection in Chapter 1, leaving the main *hypostasis* / substance / evidence treatment for Book II.
+- [ ] Treat Hebrews 11:1 / hypostasis / substance as foundational to Book I; see revised proposal 95. Decide whether Hebrews 11:2, 5–6 and Matthew 3:17 are best placed within the pistis/Sonship chapter or given a separate chapter.
 - [ ] Confirm placement of Mark 11:22 and Matthew 5:48 in Chapter 2, subject to contextual treatment.
 - [ ] Confirm that Hebrews 1:8 and heirship remain one chapter with two movements.
 - [ ] Confirm that John 17 and 2 Corinthians 4 become separate Chapters 8 and 9.
