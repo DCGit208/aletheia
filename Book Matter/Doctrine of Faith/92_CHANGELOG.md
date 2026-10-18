@@ -92,3 +92,6 @@
 - Corrected the old boundary statement in Chapter 1's first-pass *pistis* draft and the Book I closing draft so they no longer defer the *hypostasis* foundation to Book II. The drafts remain first-pass material and have not undergone wholesale rewrites.
 - Marked the first-draft source-fidelity review's old Book II boundary conclusion as superseded while retaining its source-coverage findings.
 - Updated the master blueprint, owner-decision register, source audit, and architecture proposal links. No existing app companion content was overwritten or deleted.
+
+
+- Extended `96_FOUNDATION_DEPENDENCY_AND_COVERAGE_MATRIX.md` with first-pass structural findings for each of the nine existing drafts, including where content should move and which doctrinal decisions remain open. The revised eleven-chapter proposal remains provisional; the source/dependency logic governs the final sequence.
