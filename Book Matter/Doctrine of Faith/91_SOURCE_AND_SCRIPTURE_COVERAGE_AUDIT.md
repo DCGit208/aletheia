@@ -331,7 +331,7 @@ The original nine-chapter structure and its source-fidelity review remain useful
 
 **Lexical control:** The initial public lexical cross-check confirms a semantic range including substance/actual reality/nature and confidence/assurance. Hebrews 1:3, 3:14, and 11:1 must be compared contextually. Etymology alone is not a sufficient proof of the owner's full doctrinal thesis.
 
-**Current architecture work:** See `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md` for the source-and-reasoning map and `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md` for the eleven-chapter working proposal. The chapter count is provisional. Existing nine drafts remain preserved and are to be mapped into the corrected structure rather than discarded.
+**Current architecture work:** See `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md` for the source-and-reasoning map and `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md` for the ten-chapter working proposal. The chapter count is provisional. Existing nine drafts remain preserved and are to be mapped into the corrected structure rather than discarded.
 
 **Next gate:** Validate chapter sequence and argument dependencies against the complete source map, Scripture matrix, owner notes, and all existing drafts. Only then begin coordinated substantive chapter rewrites. Hebrews 1:8 and lexical decisions remain open for owner review.
 
@@ -340,4 +340,4 @@ The original nine-chapter structure and its source-fidelity review remain useful
 
 The previous audit treated the absence of a full Hebrews 11:1 / *hypostasis* exposition as a Book II boundary. That was incorrect. It is now a Book I foundation gap. The 2015 leaflet's Faith Toward God section explicitly teaches *pistis* / credence as defining the state of children of God, but does not itself quote Hebrews 11:1 or use *hypostasis*. The required work is to reason carefully from Hebrews 11:1 and the lexical/contextual study into the Aletheia source's state/nature teaching, preserving source attribution and distinguishing the owner's doctrinal thesis from explicit source wording.
 
-The new reconstruction dossier is `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md`; the revised architecture proposal is `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md`. The eleven-chapter count is provisional. No existing drafts or app companion have been deleted. The next gate is a full dependency/coverage audit of the proposed structure before coordinated substantive rewrites.
+The new reconstruction dossier is `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md`; the revised architecture proposal is `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md`. The ten-chapter count is provisional. No existing drafts or app companion have been deleted. The next gate is a full dependency/coverage audit of the proposed structure before coordinated substantive rewrites.
