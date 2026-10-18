@@ -441,3 +441,17 @@ The following canonical chapter drafts are now present:
 - `05_WHY_DID_JESUS_COME_GLORY_DEVIATION_REPRESENTATION.md`
 
 Chapters 6–9 remain to be drafted. Existing app content remains unchanged. The chapters are working drafts and do not resolve the open doctrinal decisions recorded in the owner-decision register.
+
+
+### Drafting update — 2026-10-18 (continued)
+
+Canonical Markdown drafts now exist for Chapters 1–6:
+
+1. `01_PISTIS_CREDENCE_THAT_DEFINES_SONS.md`
+2. `02_ELOHIM_IMAGE_LIKENESS_AND_DESIGN.md`
+3. `03_PSALM_82_WITH_JOHN_10.md`
+4. `04_TRUE_NATURE_PARTAKERS_OF_DIVINE_NATURE.md`
+5. `05_WHY_DID_JESUS_COME_GLORY_DEVIATION_REPRESENTATION.md`
+6. `06_DIKAIOO_JUSTIFIED_FREELY_RIGHTEOUSNESS_IN_CHRIST.md`
+
+Chapters 7–9 remain. Existing app prose remains unchanged. The source/owner lexical distinction for `dikaioō` is preserved in Chapter 6; its resolution remains open.
