@@ -2,8 +2,8 @@
 
 **Book:** *The Doctrine of Faith* (Book I)  
 **Repository:** `DCGit208/aletheia`  
-**Audit phase:** Gate A — initial source/manuscript audit  
-**Status:** Initial audit completed against the eight app-companion entries, the 2015 *Aletheia Libraries 1* leaflet, the attached *BIBLE INTRODUCTION.pdf*, and the existing study maps/owner notes. This is a working audit, not owner approval of every doctrinal conclusion or final approval of the table of contents.
+**Audit phase:** Gate A completed; canonical draft implementation status updated  
+**Status:** Initial source audit completed and nine-chapter working architecture implemented in canonical Markdown. This remains a working audit, not owner approval of every doctrinal conclusion or final publication approval. The existing app companion remains preserved.
 
 ## 1. Executive finding
 
@@ -299,3 +299,22 @@ When new notes arrive:
 3. Identify whether it changes the architecture or only strengthens an existing argument.
 4. Preserve any unresolved conflict for owner decision.
 5. Update the blueprint and changelog before making a material chapter reorganization.
+
+
+## 11. Implementation status — 2026-10-18
+
+The approved-to-proceed nine-chapter working architecture now has canonical Markdown working drafts for all chapters:
+
+| Chapter | Canonical manuscript | Main audit focus still required |
+|---|---|---|
+| 1 | `01_PISTIS_CREDENCE_THAT_DEFINES_SONS.md` | Verify source coverage; keep Hebrews 11 / Matthew 3 relationship labeled as synthesis. |
+| 2 | `02_ELOHIM_IMAGE_LIKENESS_AND_DESIGN.md` | Verify owner-note integration; preserve source wording and the contexts of Mark 11:22 and Matthew 5:48. |
+| 3 | `03_PSALM_82_WITH_JOHN_10.md` | Keep Psalm 82:6–7 and John 10 together. |
+| 4 | `04_TRUE_NATURE_PARTAKERS_OF_DIVINE_NATURE.md` | Preserve 2 Peter 1:2–8 sequence and distinguish “back on course” from lexical definition. |
+| 5 | `05_WHY_DID_JESUS_COME_GLORY_DEVIATION_REPRESENTATION.md` | Verify glory/representation synthesis and immediate context of 1 Corinthians 11:7. |
+| 6 | `06_DIKAIOO_JUSTIFIED_FREELY_RIGHTEOUSNESS_IN_CHRIST.md` | Keep the leaflet's and owner's lexical formulations distinct pending decision. |
+| 7 | `07_HEBREWS_1_8_AND_THE_HEIR.md` | High-priority owner review of the provisional answer and each step of the Hebrews 1:8 inference. |
+| 8 | `08_ONENESS_AND_GLORY_JOHN_17.md` | Preserve John 17's “as,” glory, indwelling, sending, and purpose clauses. |
+| 9 | `09_IMAGE_FACE_OF_JESUS_CHRIST.md` | Audit the Book I synthesis and preserve the boundary with *Faith Is Evidence*. |
+
+**Important:** “Draft exists” means the chapter has been created as a canonical working manuscript. It does not mean every claim is approved, every source gap is closed, or the book is ready for publication. The next phase is a controlled source-fidelity and doctrinal review, prioritizing the open owner decisions recorded in `90_OPEN_QUESTIONS_AND_OWNER_DECISIONS.md`.
