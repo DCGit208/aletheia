@@ -346,3 +346,10 @@ The new reconstruction dossier is `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md`; 
 ## 14. First working foundation chapter — 2026-10-18
 
 Created `00_HYPOSTASIS_SUBSTANCE_FOUNDATION.md` as the first working draft of the new foundational chapter. It develops Hebrews 11:1, compares the uses of *hypostasis* in Hebrews 1:3 and 3:14, reads Hebrews 11:1 in the flow of Hebrews 10:32–39 and 11:1–6, distinguishes the lexical alternatives (substance / underlying reality and assurance / confidence), and explicitly connects the investigation to the Aletheia leaflet's *pistis* / state-of-children teaching without falsely attributing Hebrews 11:1 or *hypostasis* to the leaflet. The draft establishes the argument's task and open questions; it is not final doctrinal approval. Existing nine drafts and the app companion remain preserved.
+
+
+## 15. Foundation-first working manuscripts created
+
+The coordinated foundation-first working manuscripts now exist at: 00_HYPOSTASIS_SUBSTANCE_FOUNDATION.md; 02_PISTIS_CREDENCE_AND_SONSHIP.md; 03_ELOHIM_IMAGE_LIKENESS_AND_DESIGN.md; 04_PSALM_82_WITH_JOHN_10.md; 05_TRUE_NATURE_PARTAKERS_OF_DIVINE_NATURE.md; 06_WHY_DID_JESUS_COME_GLORY_DEVIATION_REPRESENTATION.md; 07_REDEMPTION_JUSTIFICATION_RIGHTEOUSNESS.md; 08_THE_SON_HEBREWS_1_8_AND_THE_HEIR.md; 09_ONENESS_AND_GLORY_JOHN_17.md; and 10_IMAGE_FACE_OF_JESUS_CHRIST.md.
+
+The existing nine first-pass drafts remain preserved. The new files carry forward their source-bearing exposition while adding explicit dependencies and transitions under the corrected architecture. This is a working manuscript set; final source quotation proofing, lexical review, owner doctrinal decisions, and book-level editing remain open.
