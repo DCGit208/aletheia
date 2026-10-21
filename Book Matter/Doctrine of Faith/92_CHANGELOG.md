@@ -178,3 +178,11 @@
 - Compared core KJV quotations and verse clusters against Bible Gateway's KJV text: Hebrews 11; Genesis 1:26–28; Psalm 82; John 10; John 14:12; Romans 3; Romans 8:14–17; Galatians 4:4–7; Ephesians 1:3–7; 1 Corinthians 11:7; 2 Peter 1:2–8; Matthew 5:43–48; 1 John 4:17; John 17:20–23; Hebrews 1:1–8; 2 Corinthians 4:1–6; and 2 Corinthians 5:17–21.
 - The KJV wording checked in this initial pass matches the consulted text. This is not yet an exhaustive proof of every quotation, punctuation mark, Greek transliteration, or source paraphrase across all chapters.
 - Recorded the scope and limits of the check in `93_FIRST_DRAFT_SOURCE_FIDELITY_REVIEW.md`. The final Bible edition should be fixed in the style sheet before publication.
+
+
+## 2026-10-21 — Source resource references restored
+
+- Direct comparison with the leaflet revealed that Chapter 3 preserved only The Doctrine of Man and Why Men Die, while omitting the later references to True Nature of God and WHO'S JESUS TO YOU?.
+- Restored all four source-named resources and the Address-page request instruction.
+- Preserved the leaflet's own description of True Nature of God as source wording, while distinguishing it from a claim that Genesis 1:26 alone proves the entire inference.
+- The exact translation edition and the resources themselves remain unverified; no claim is made that those resources have been consulted.
