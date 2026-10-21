@@ -10,7 +10,7 @@ The preceding chapters have established the foundation of faith as *hypostasis*,
 
 The source's use of “true nature from creation” and its appeal to being partakers of divine nature should be examined in the sequence Peter actually gives: knowledge, divine power, promises, participation in divine nature, escape from corruption, and diligence in the qualities that follow. This is not a licence to flatten every passage into one sentence. It is a further movement in the cumulative argument.
 
-## IV. True Nature — Partakers
+## True Nature — Partakers
 
 ### Knowledge, grace, and the call
 
@@ -34,13 +34,13 @@ Second Peter 1:4 speaks of the promises, participation in divine nature, and esc
 
 2 Peter 1:5–8 — “And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge; And to knowledge temperance; and to temperance patience; and to patience godliness; And to godliness brotherly kindness; and to brotherly kindness charity. For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ.”
 
-Faith is the first named in the adding. Virtue. Knowledge. Temperance. Patience. Godliness. Brotherly kindness. Charity. The partaker is not a man who quotes verse 4 and refuses verses 5–8. Diligence belongs here as it belonged to σπουδάζω (*spoudazō*) in Chapter 1.
+Faith is the first named in the sequence of qualities. Virtue. Knowledge. Temperance. Patience. Godliness. Brotherly kindness. Charity. The partaker is not a person who quotes verse 4 and refuses verses 5–8. Verse 5 uses the noun σπουδή (*spoudē*) in the phrase “giving all diligence”; it should not be conflated with the related verb σπουδάζω (*spoudazō*) merely because both concern diligence or earnest effort.
 
 The passage does not stop at participation in divine nature. It proceeds to diligence and the qualities to be added, then describes the consequence of their being present and abounding: fruitfulness in the knowledge of our Lord Jesus Christ. Teach verse 4 with verses 5–8, not instead of them.
 
 You are not being invited to invent another nature. You are being returned to the one Genesis named, in Christ.
 
-## Charge of this chapter
+## Study and argument exercise
 
 Define “true nature” from Genesis 1:26–28 and 2 Peter 1:2–8. What is partaken? What is escaped? What is given through the promises? What sequence follows in verses 5–8?
 
