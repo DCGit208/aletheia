@@ -10,7 +10,7 @@ Chapter 6 developed the source's reading of coming short of glory as deviation f
 
 The source's lexical glosses and the owner's additional formulations must remain distinguishable. The source glosses *dikaioō* as “render just or innocent, free from evil or guilt”; the owner has separately proposed “to render righteous or such as he ought to be.” The source's *dikaiosynē* explanation includes equity and conformity with God's nature and the conceptual phrase “original: back on course.” The owner/source formulation for *apolutrōsis* includes “riddance, ransom in full.” These statements must be evaluated and integrated without silently replacing one with another.
 
-## VI. *Dikaioō* — justified freely
+## *Dikaioō* — justified freely
 
 Justified: Greek δικαιόω (*dikaioō*, G1344) — the Aletheia source glosses it “render just or innocent, free from evil or guilt.” It relates this term to δικαιοσύνη (*dikaiosynē*): righteousness, justification. The source describes equity as impartiality to and conformity with the nature of God, and gives the conceptual formulation “original: back on course.” Return to the course order.
 
