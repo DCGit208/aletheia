@@ -202,3 +202,25 @@ This pass began the second-stage revision of the foundation-first manuscript. Th
 - Reconfirmed that the conclusion must hold Christ's accomplishment and representation together, establish the *hypostasis* foundation in Book I, and hand forward the distinct evidence inquiry of Book II without suggesting that unresolved owner decisions are settled.
 
 **Status:** Chapters 7–10 have received targeted review and selected corrections. The next step is a book-wide consistency and transition pass, followed by Scripture quotation proofing and owner review of open doctrinal decisions.
+
+
+## 18. Continuous-book transitions and direct PDF source check — 2026-10-21
+
+### Current chapter sequence and transitions
+- Replaced Chapter 10's obsolete nine-draft outline with the current ten-chapter foundation-first sequence.
+- Removed an editorial note about a superseded paragraph from Chapter 10's reader-facing conclusion and restored clean book prose for the Book I / Book II boundary.
+- Added explicit transitions across Chapters 3–8 so the movement between design, Psalm 82, divine nature, Christ's coming, redemption/justification, heirship, and John 17 is stated rather than left implicit.
+- The transitions are structural aids, not claims that all links between passages have already been proven. The Hebrews 1:8 inference remains an owner decision.
+
+### Direct check against the uploaded 2015 *Aletheia Libraries 1* PDF
+- The leaflet's “Faith toward God” paragraph explicitly says that *pistis* / credence defines the state of God's children and connects that state with acceptance, true nature, adoption as sons, Genesis 1:26–27, 2 Peter 1:4, Psalm 82:6, Romans 3:23–24, *dikaioō*, *dikaiosynē*, *apolutrōsis*, 2 Corinthians 5:21, Hebrews 1:8, heirship, John 17:20–23, and 2 Corinthians 4:4,6.
+- The leaflet places “So God made man like his Maker” beside its parenthetical interpretation “Man's True Nature (2 Pet 1:4); the glory he came short of through sin,” and attributes the wording “Like God did God make man” to the “Life Application Bible.” Chapter 3 had called the combined wording TLB. That attribution has been corrected to follow the leaflet and flagged for exact-edition verification rather than guessed.
+- The leaflet's wording and punctuation are sometimes compressed and its translation attribution needs edition-level checking. The manuscript should preserve that provenance, not silently tidy it into a different attribution.
+
+### Remaining work
+1. Conduct a full Scripture quotation audit against the selected Bible edition, including punctuation, verse ranges, and whether quotations are complete or excerpted.
+2. Verify lexical statements against identifiable references actually consulted; do not invent citations.
+3. Review the ten chapters as a continuous argument for repetition, unsupported inference, and source wording that has been over-paraphrased.
+4. Obtain owner decisions on the central Hebrews 1:8 inference and the relationship between the source and owner formulations of *dikaioō* and *apolutrōsis*.
+
+**Status:** The current pass has improved sequence, transitions, and one verified source-attribution issue. It is not a completed line-by-line quotation audit or publication approval.
