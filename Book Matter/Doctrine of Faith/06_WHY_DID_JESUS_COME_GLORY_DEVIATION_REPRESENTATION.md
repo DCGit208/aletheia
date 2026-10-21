@@ -67,3 +67,5 @@ Do not reduce the question “Why did Jesus come?” to a slogan that never name
 Answer the question: **Why did Jesus come?** Work from Romans 3:21–26 and 1 Corinthians 11:7. Name the text's sequence: righteousness manifested, sin and coming short of glory, free justification through redemption, and Christ as propitiation in the declaration of God's righteousness.
 
 Then distinguish three things in your answer: the explicit wording of the passages; the Aletheia teaching's gloss that coming short of glory is deviation from true nature; and the wider synthesis that Christ's coming restores humanity to its intended design.
+
+**Transition to Chapter 7:** Having set out the source's account of coming short of glory and Christ's response, the next chapter examines the terms for free justification, redemption, and righteousness in Christ. It keeps the leaflet's printed lexical glosses distinct from the owner's additional formulations.
