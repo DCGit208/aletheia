@@ -107,3 +107,5 @@ Read Genesis 1:26–28 aloud and list the actual terms in the passage: image, li
 Read John 14:12, Psalm 82:6, Romans 8:17, and 1 John 4:17 alongside Genesis. For each passage, write what it explicitly says and what additional conclusion you believe follows from the combined Scripture set. Keep the distinction visible.
 
 Finally, investigate the thesis **“Jesus represents who we are by Design”** through the full cluster named in this chapter. Do not make a single verse carry the whole argument, and do not omit the context of any passage used.
+
+**Transition to Chapter 4:** Genesis has supplied the explicit image-and-likeness language. The next chapter examines Psalm 82:6 with verse 7 and Jesus' use of the passage in John 10, so that the design argument develops without isolating “Ye are gods” from its judgment setting.
