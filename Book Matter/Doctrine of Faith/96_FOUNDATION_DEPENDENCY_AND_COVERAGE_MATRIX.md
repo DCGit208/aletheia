@@ -36,7 +36,7 @@ This is not discarded. It is a conceptual map to investigate. Its placement of â
 
 ## 3. Source-to-chapter coverage matrix
 
-The proposed chapter numbers below refer to the ten-chapter working proposal in document 95. They remain provisional until the complete chapter-dependency review is finished.
+The proposed chapter numbers below refer to the ten-chapter working proposal in document 95; coordinated working manuscripts for all ten positions now exist. They remain provisional until the complete chapter-dependency review is finished.
 
 | Source / owner proposition | Explicit source or Scripture basis | Proposed primary location | Required cross-links | Audit condition |
 |---|---|---|---|---|
