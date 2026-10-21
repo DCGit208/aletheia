@@ -16,7 +16,7 @@ The owner's thesis—**“Jesus represents who we are by Design”**—asks how 
 
 ---
 
-## I. ’Ĕlōhîm — image and likeness
+## ’Ĕlōhîm — image and likeness
 
 The source's preceding argument states that acceptance or approval is grounded in our true nature from creation with respect to God. The present section examines the Genesis passages the source uses to develop that claim; it does not treat this opening sentence as a quotation from Genesis.
 
@@ -58,7 +58,7 @@ John 17:20–23 belongs in this Scripture set as Jesus' prayer concerning onenes
 
 The chapter must neither apologize for the wording of Genesis nor invent a title that the wider Scripture set does not grant. The text is to be read as written, and conclusions are to be reasoned from it. The leaflet names *The Doctrine of Man* and *Why Men Die* in its first further-reading note. It later recommends requesting *True Nature of God*, describing it with the parenthetical claim: “if you know God’s nature, then you’re as Him, unlimited, because we’re made in His image. Genesis 1:26.” That wording is the leaflet's description of the resource; it should not be silently recast as a conclusion proven by Genesis 1:26 alone. The leaflet separately names *WHO'S JESUS TO YOU?* and directs the reader to its Address page for request details. These titles and instructions are retained as source provenance, not as a new course sequence. The exact resource titles and request details should remain in the book's source notes even if the resources themselves are not reproduced here.
 
-## II. Jesus as representation of humanity's design — an owner-supplied inquiry
+## Jesus as representation of humanity's design — an owner-supplied inquiry
 
 The owner's developing thesis is:
 
