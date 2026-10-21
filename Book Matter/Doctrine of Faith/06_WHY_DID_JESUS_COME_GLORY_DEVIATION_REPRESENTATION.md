@@ -10,7 +10,7 @@ The preceding chapters have developed the Aletheia source's teaching about faith
 
 The Aletheia teaching reads “come short of the glory” as deviation from true nature. That is the source's interpretive gloss on Romans 3:23, not a verbatim dictionary definition of the Greek phrase. This chapter preserves that reading and tests its relationship to the wider Scripture set. It must also keep Christ's accomplishment—redemption and free justification—together with the owner's thesis that Jesus represents who humanity is by Design.
 
-## V. Why did Jesus come?
+## Why did Jesus come?
 
 ### Righteousness manifested
 
