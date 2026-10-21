@@ -3,7 +3,7 @@
 **Book I:** *The Doctrine of Faith*  
 **Book II:** *Faith Is Evidence*  
 **Date:** 2026-10-18  
-**Status:** Revised architecture proposal arising from the owner's explicit correction; requires further review before chapter rewrites are approved.  
+**Status:** Foundation-first working architecture in active manuscript implementation; chapter order and doctrinal conclusions remain subject to review.  
 **Supersedes:** The sequencing assumptions in 89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md that reserved the core Hebrews 11:1 / hypostasis treatment for Book II. The older document remains as a record of the first proposal and its rationale.
 
 ## 1. Governing correction
@@ -26,7 +26,7 @@ The book's sequence must follow conceptual dependency:
 
 This sequence is a proposed logic, not an automatic verdict on chapter count. The ten-chapter arrangement below is a working recommendation to test against the source material and existing prose.
 
-## 3. Proposed reader-facing structure (11 working chapters)
+## 3. Proposed reader-facing structure (10 working chapters)
 
 ### Chapter 1 — Faith as Hypostasis: Substance, Underlying Reality, and the Foundation of the Doctrine
 
@@ -131,3 +131,21 @@ This proposal is a reconstruction of the architecture, not final owner approval 
 ## 7. Dependency audit
 
 The detailed source-to-chapter coverage and argument-dependency matrix is recorded in [96 — Foundation Dependency and Coverage Matrix](96_FOUNDATION_DEPENDENCY_AND_COVERAGE_MATRIX.md). It distinguishes the order of explanation from the broader conceptual relationships in the owner's notes and maps the major leaflet claims, Scripture clusters, owner formulations, and existing drafts into the foundation-first proposal. The ten-chapter count remains provisional; the matrix and source/context checks govern final architecture decisions.
+
+
+## 8. Current coordinated manuscript implementation
+
+The foundation-first working manuscripts are now present:
+
+1. [Chapter 1 — Faith as Hypostasis](00_HYPOSTASIS_SUBSTANCE_FOUNDATION.md)
+2. [Chapter 2 — Pistis: Credence, State, and Sonship](02_PISTIS_CREDENCE_AND_SONSHIP.md)
+3. [Chapter 3 — Elohim, Image, Likeness, and Human Design](03_ELOHIM_IMAGE_LIKENESS_AND_DESIGN.md)
+4. [Chapter 4 — Psalm 82 with John 10](04_PSALM_82_WITH_JOHN_10.md)
+5. [Chapter 5 — True Nature and Partaking of Divine Nature](05_TRUE_NATURE_PARTAKERS_OF_DIVINE_NATURE.md)
+6. [Chapter 6 — Why Did Jesus Come? Glory, Deviation, and Representation](06_WHY_DID_JESUS_COME_GLORY_DEVIATION_REPRESENTATION.md)
+7. [Chapter 7 — Redemption, Free Justification, and Righteousness](07_REDEMPTION_JUSTIFICATION_RIGHTEOUSNESS.md)
+8. [Chapter 8 — The Son, Hebrews 1:8, and the Heir](08_THE_SON_HEBREWS_1_8_AND_THE_HEIR.md)
+9. [Chapter 9 — Oneness and Glory: John 17](09_ONENESS_AND_GLORY_JOHN_17.md)
+10. [Chapter 10 — The Image in the Face of Jesus Christ](10_IMAGE_FACE_OF_JESUS_CHRIST.md)
+
+These are coordinated working manuscripts assembled from the preserved first-pass drafts and the corrected foundation-first logic. Their creation does not imply final approval of every doctrinal inference. In particular, the Hebrews 1:8 question, lexical formulations, and design/representation thesis remain subject to the review protocol in document 90. The older files are not deleted or overwritten.
