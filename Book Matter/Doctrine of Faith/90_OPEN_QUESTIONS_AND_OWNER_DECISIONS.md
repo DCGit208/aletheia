@@ -6,20 +6,18 @@
 ## A. Architecture decisions
 
 ### A1. Reader-facing chapter structure
-**Question:** Should Book I use the proposed nine-chapter reader-facing structure, or should the owner correct it?
+**Question:** Does the foundation-first sequence preserve the full source and give each argument a necessary place without repetition?
 
-**Evidence:** The existing app array has eight entries but thirteen internal argumentative sections. The initial audit identifies entries 6–8 as containing multiple movements. See `91_SOURCE_AND_SCRIPTURE_COVERAGE_AUDIT.md` and the detailed proposal in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md`.
+**Current working structure:** Ten coordinated chapters: (1) Hebrews 11:1 / hypostasis; (2) pistis, credence, state, and Sonship; (3) image, likeness, and design; (4) Psalm 82 with John 10; (5) partaking of divine nature; (6) coming short of glory and Christ's representation; (7) redemption, free justification, and righteousness; (8) Hebrews 1:8 and heirship; (9) John 17 oneness; (10) 2 Corinthians 4 and the image/glory in Christ. See documents 95 and 96 and the coordinated working files listed in document 95.
 
-**Current proposal:** Retain the first seven chapter functions; split the current final app entry into a John 17 oneness chapter and a 2 Corinthians 4 image/light/face chapter. Keep justification/righteousness together and Hebrews 1:8/heirship together.
-
-**Status:** Approved to proceed by the owner's “Go ahead” on 2026-10-18. The nine-chapter structure is the working controlled architecture. Revisions remain possible through an explicit owner decision; unresolved doctrinal questions below remain open.
+**Status:** Active working structure, implemented in manuscript drafts. Continue reviewing dependencies, repetition, source coverage, and transitions; chapter count remains provisional. The original nine drafts remain preserved. This does not constitute final doctrinal approval.
 
 ### A2. Book I's boundary with Book II
 **Question:** How should Book I establish the foundation of faith while Book II develops faith as evidence?
 
 **Corrected direction (owner, 2026-10-18):** Hebrews 11:1 and *hypostasis* are foundational to Book I because the Aletheia notes and etymological inquiry connect substance with the person's underlying nature and state. Book II's distinctive focus is faith as evidence, building on this foundation. Hebrews 11:1 can be revisited in Book II, but the foundational treatment cannot be deferred there.
 
-**Status:** Direction clarified; detailed architecture revision required.
+**Status:** Direction clarified and implemented in the current working sequence. Continue the chapter-by-chapter revision and audit.
 
 ### A3. Standalone-book treatment of course language
 **Question:** Which phrases in the app companion referring to “Course 1,” “this school,” “Course 3,” “this course,” “the next chapter will baptize,” and course further-reading instructions should be removed, adapted, or retained as provenance?
@@ -137,7 +135,7 @@ When resolved, update this file, the Master Manuscript Blueprint, the coverage a
 
 ## C. Manuscript implementation status — 2026-10-18
 
-The nine-chapter working architecture has canonical Markdown drafts for Chapters 1–9. This completes the first drafting pass, not the doctrinal approval process. The source/Scripture categories remain distinct, and the existing app companion is preserved.
+The original nine-chapter first-pass drafts remain preserved. Ten foundation-first coordinated working manuscripts now exist, including the new hypostasis foundation chapter. This is active manuscript development, not final doctrinal approval. The source/Scripture categories remain distinct, and the existing app companion is preserved.
 
 **Next review priority:** First validate the foundation-first architecture and the relationship among Hebrews 11:1, hypostasis, the owner's underlying-nature/state thesis, and the leaflet's explicit pistis/sonship teaching. The reconstruction and revised proposal are recorded in documents 94 and 95. After that sequence is established, return to B1 (Hebrews 1:8), whose final doctrinal formulation remains the owner's decision, alongside the lexical formulations and the scope of the design/representation thesis.
 
