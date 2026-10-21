@@ -114,3 +114,17 @@
 - Created `00_HYPOSTASIS_SUBSTANCE_FOUNDATION.md` as the first working chapter draft for Book I. It establishes the Hebrews 11:1 question, contextualizes it in Hebrews 10:32–39 / 11:1–6, compares *hypostasis* in Hebrews 1:3 and 3:14, records the lexical alternatives, and relates the owner's underlying-state/nature thesis to the Aletheia leaflet's explicit *pistis* / Sonship teaching.
 - The draft explicitly states that the 2015 leaflet does not itself quote Hebrews 11:1 or use *hypostasis*. It does not present the lexical thesis as final or treat etymology alone as proof.
 - Updated the revised architecture proposal, dependency matrix, blueprint, and source audit to record the new draft. Existing nine chapter drafts and the app companion remain preserved.
+
+
+## 2026-10-21 — Coordinated foundation-first manuscript drafting
+
+- Created 02_PISTIS_CREDENCE_AND_SONSHIP.md, developing the Aletheia leaflet's explicit pistis / credence / state-of-children teaching in direct relation to Chapter 1's hypostasis foundation. Integrated Hebrews 11:2, 5–6 and Matthew 3:17 into the same argument rather than postponing it as a detached chapter.
+- Created 03_ELOHIM_IMAGE_LIKENESS_AND_DESIGN.md with an explicit bridge from faith as state to Genesis 1:26–28 and the owner's “Jesus represents who we are by Design” thesis.
+- Created 04_PSALM_82_WITH_JOHN_10.md, retaining Psalm 82:6–7 together and placing the claim in its judgment and John 10 contexts.
+- Created 05_TRUE_NATURE_PARTAKERS_OF_DIVINE_NATURE.md, connecting the design/judgment argument to 2 Peter 1:2–8 without detaching verse 4 from the passage's sequence.
+- Created 06_WHY_DID_JESUS_COME_GLORY_DEVIATION_REPRESENTATION.md, preserving the source's “come short of glory” interpretation as source gloss and connecting it to the owner's representation thesis.
+- Created 07_REDEMPTION_JUSTIFICATION_RIGHTEOUSNESS.md, preserving source and owner lexical formulations separately and integrating redemption / justification / righteousness.
+- Created 08_THE_SON_HEBREWS_1_8_AND_THE_HEIR.md, keeping the Hebrews 1:8 inference open for owner review while making its premises and source question explicit.
+- Created 09_ONENESS_AND_GLORY_JOHN_17.md, preserving the sequence and “as” comparisons in Jesus' prayer.
+- Created 10_IMAGE_FACE_OF_JESUS_CHRIST.md as the cumulative Book I close, with a handoff to Book II's evidence focus and without postponing the hypostasis foundation.
+- Updated the revised architecture proposal and owner-decision register to reflect the active ten-chapter working manuscript set. Final doctrinal approval, quotation proofing, lexical decisions, and the Hebrews 1:8 owner decision remain open. The app companion was not changed.
