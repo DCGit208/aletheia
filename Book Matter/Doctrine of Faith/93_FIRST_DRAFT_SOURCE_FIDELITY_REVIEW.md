@@ -240,3 +240,10 @@ Reference consulted: Bible Gateway, King James Version (KJV), https://www.bibleg
 A direct read of the uploaded leaflet showed that the source's resource references were only partially represented in Chapter 3. The manuscript now preserves all four references: *The Doctrine of Man*, *Why Men Die*, *True Nature of God*, and *WHO'S JESUS TO YOU?* It also records the leaflet's description of *True Nature of God*—“if you know God's nature, then you're as Him, unlimited, because we're made in His image. Genesis 1:26”—as the leaflet's own description, not as a conclusion that Genesis 1:26 alone independently proves. The leaflet's instruction to consult the Address page for request details is also preserved.
 
 This correction closes a source-resource coverage gap. The exact edition behind the leaflet's “Life Application Bible” attribution and the availability/content of the named resources remain unverified; no resource has been invented or represented as independently consulted.
+
+
+## 21. Initial lexical-reference integration: hypostasis — 2026-10-21
+
+Chapter 1 now names the references actually consulted in this pass: Thayer's Greek Lexicon and the NAS Exhaustive Concordance entry for hypostasis (G5287) reproduced at BibleHub, BibleHub's Hebrews 11:1 lexicon, and the Cambridge Greek Testament Commentary on Hebrews 11:1. The manuscript summarizes the range these references present—substructure/foundation, substance or actual existence, nature, and confidence/assurance—while stating that the range alone does not decide the contextual sense.
+
+This is an initial research bibliography, not a complete critical lexical study. The final pass should verify publication details and editions and consider specialist Hebrews scholarship before making a final lexical argument. The owner's connection between hypostasis and the believer's underlying state remains a doctrinal thesis to demonstrate, not a conclusion that a lexical entry proves on its own.
