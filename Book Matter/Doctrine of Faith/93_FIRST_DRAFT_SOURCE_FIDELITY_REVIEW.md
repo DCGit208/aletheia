@@ -224,3 +224,12 @@ This pass began the second-stage revision of the foundation-first manuscript. Th
 4. Obtain owner decisions on the central Hebrews 1:8 inference and the relationship between the source and owner formulations of *dikaioō* and *apolutrōsis*.
 
 **Status:** The current pass has improved sequence, transitions, and one verified source-attribution issue. It is not a completed line-by-line quotation audit or publication approval.
+
+
+## 19. Initial KJV quotation check — core passages — 2026-10-21
+
+Compared the main quoted passages in the working chapters against the KJV text displayed by Bible Gateway: Hebrews 11; Genesis 1:26–28; Psalm 82; John 10; John 14:12; Romans 3; Romans 8:14–17; Galatians 4:4–7; Ephesians 1:3–7; 1 Corinthians 11:7; 2 Peter 1:2–8; Matthew 5:43–48; 1 John 4:17; John 17:20–23; Hebrews 1:1–8; 2 Corinthians 4:1–6; and 2 Corinthians 5:17–21.
+
+In the passages checked during this pass, the quoted KJV wording matches the consulted text; the excerpts are presented as excerpts or combined verse ranges rather than as alternate translations. This is an initial check of the core quoted clusters, not a complete proof of every quotation, punctuation mark, Greek transliteration, or source paraphrase in all ten chapters. The Genesis 1:27 paraphrase attribution issue was separate from the KJV quotation and has been corrected as recorded above.
+
+Reference consulted: Bible Gateway, King James Version (KJV), https://www.biblegateway.com/versions/King-James-Version-KJV-Bible/ and the relevant passage pages for the listed references. The selected Bible edition should be fixed in the final style sheet; if another edition is chosen, re-run the quotation check against that edition.
