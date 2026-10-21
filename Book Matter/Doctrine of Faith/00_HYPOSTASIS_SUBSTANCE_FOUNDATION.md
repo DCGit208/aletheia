@@ -51,6 +51,14 @@ One lexical caution is necessary. Hebrews 10:34 uses the KJV phrase “a better 
 
 This is precisely why careful study is required: English renderings can illuminate a theme, but they cannot substitute for identifying the actual Greek words.
 
+### The examples in Hebrews 11: faith as a lived orientation
+
+The chapter itself does not leave faith as an abstract label. Noah responds to a warning about things not yet seen and prepares an ark (Hebrews 11:7). Abraham obeys the call to go out without knowing where he is going (11:8), and later acts in relation to the promise concerning Isaac (11:17–19). Sarah receives strength because she judges the Promiser faithful (11:11). Moses refuses an identity and a life of privilege in Pharaoh's household, choosing affliction with God's people and esteeming the reproach of Christ above Egypt's treasures (11:24–27). These examples portray faith through judgment, allegiance, action, and endurance in relation to what is not yet visible or fully received.
+
+The examples therefore challenge a reduction of faith to a sentence a person agrees with while the rest of the person's life remains unrelated to it. In Hebrews 11, faith is expressed through the person's orientation and conduct. This supports the inquiry into faith as more than detached mental assent, but it does not settle the lexical meaning of *hypostasis* by itself. Nor does it independently prove that *hypostasis* means “the person's underlying nature” in Hebrews 11:1. That is the owner's doctrinal bridge, which must be argued together with the Aletheia leaflet's explicit *pistis* / state / Sonship teaching.
+
+The chapter also preserves an important limit: Hebrews 11:13 says that some died in faith without having received the promises, though they saw them afar off and embraced them. The argument is not that faith makes every hoped-for outcome immediately visible or that every faithful person receives the promised result during this life. Faith's relation to hope, unseen things, endurance, and promise must be kept together.
+
 ## 3. What *hypostasis* contributes
 
 The Greek noun is **ὑπόστασις (*hypostasis*)**. The Thayer entry reproduced in BibleHub records senses including a substructure or foundation, actual existence or substance, the substantial quality or nature of a person or thing, and steadiness of mind or confidence. The NAS Exhaustive Concordance summary there gives “a support, substance, steadiness, hence assurance.” The Cambridge Greek Testament commentary on Hebrews 11:1 discusses “underlying essence,” “basis/foundation,” and “confidence” as competing contextual options. These references support a semantic range; they do not, by themselves, decide which sense is operative in Hebrews 11:1.
