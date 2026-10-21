@@ -201,3 +201,11 @@
 - Chapter 1 now develops the Hebrews 11 examples of Noah, Abraham, Sarah, Moses, and those who died without receiving the promises. The added analysis treats faith as lived orientation and endurance but does not claim that these examples settle the lexical sense of hypostasis or guarantee immediate outcomes.
 - Chapter 8's inference section was rewritten to remove a restrictive negative formulation that could pre-empt the owner's intended doctrinal answer. It now identifies the leaflet's question as a deliberate inference task, distinguishes Hebrews 1:8's direct wording from the broader Scripture-based inference, and preserves the provisional synthesis while leaving the precise answer to the owner.
 - Updated the source-fidelity review with rationale and status.
+
+
+## 2026-10-21 — Source audit synchronized with active revision
+
+- Updated `91_SOURCE_AND_SCRIPTURE_COVERAGE_AUDIT.md` so its header and next-gate language no longer imply that substantive rewrites have not begun.
+- Recorded the current transition, direct leaflet attribution, source-resource, initial KJV quotation, lexical-reference, and Hebrews 1:8 framing work in the audit's active progress section.
+- Normalized the inherited Roman-numeral section labels in Chapter 3 to match the standalone manuscript structure.
+- Verified the ten coordinated chapter files remain nonempty and contain no stale reader-facing nine-chapter outline or the incorrect TLB attribution for the Genesis 1:27 paraphrase. The companion source file remains unchanged.
