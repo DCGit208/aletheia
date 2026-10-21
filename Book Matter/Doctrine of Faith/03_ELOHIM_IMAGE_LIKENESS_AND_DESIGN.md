@@ -30,9 +30,9 @@ Image. Likeness. Dominion. Those are not ornaments. They are the design. Man is 
 
 Genesis 1:27 — “So God created man in his own image, in the image of God created he him; male and female created he them.”
 
-The Living Bible (TLB) gloss, kept as a gloss beside the KJV, not as a rival Bible: “So God made man like his Maker. Like God did God make man; Man and maid did he make them.”
+The 2015 Aletheia leaflet places the paraphrase “So God made man like his Maker” beside Genesis 1:27 and links it to “Man’s True Nature” (2 Peter 1:4) and the glory humanity came short of through sin. The leaflet then prints “Like God did God make man,” attributes that wording to the “Life Application Bible,” and returns to the KJV wording “male and female created he them.” The leaflet's translation attribution should be checked against the exact edition before publication; this draft does not relabel the wording as TLB without that verification.
 
-Like his Maker. That is the use of the gloss. Mark it TLB. Keep the KJV as the text you teach. The gloss is there so you will not miss the sentence: God made man like his Maker.
+The paraphrase is retained as the leaflet's interpretive gloss beside the KJV, not as a replacement for the KJV text. “Like his Maker” expresses the source's intended design connection; the link to true nature and glory is the leaflet's own interpretive note and should be identified as such.
 
 Genesis 1:28 — “And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.”
 
