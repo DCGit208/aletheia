@@ -172,3 +172,8 @@ The next chapter must now develop the Aletheia source's *pistis* / credence / So
 5. How does the Aletheia source's explicit teaching that *pistis* defines the state of children of God connect with Hebrews 11:1?
 6. Which part of the connection between *hypostasis*, substance, and the person's underlying nature/state is lexical evidence, which part is Aletheia source teaching, and which part is the owner's doctrinal synthesis?
 7. What must the later chapters demonstrate about design, Sonship, divine nature, redemption, righteousness, heirship, and oneness for the foundational thesis to become a coherent doctrine rather than a repeated slogan?
+
+
+## Editorial proofing control — lexical sources
+
+This is a working manuscript, not a publication-ready lexical apparatus. Before final publication, identify and cite the specific lexicons, concordance entries, and translation/commentary sources actually consulted for the semantic range summarized above, especially the alternatives “substance / actual reality / nature” and “confidence / assurance.” Do not add bibliographic citations from memory or imply that a resource was consulted if it was not. Keep transparent which claims come from lexical references, which come from the wording and context of Hebrews, and which are the owner's doctrinal synthesis.
