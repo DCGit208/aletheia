@@ -53,3 +53,5 @@ This chapter connects to the wider design and sonship argument, but Psalm 82:6 a
 Write Psalm 82:6 and 82:7 in one paragraph, then write John 10:34–35 beneath them. Do not add a slogan. Do not subtract a clause. Say what the three verses force when they are left together.
 
 Then read John 10:30–38 as one exchange. Record the accusation, Jesus' appeal to the written text, the declaration that Scripture cannot be broken, and the testimony of the works. Separate what the passages explicitly say from the conclusions you draw by reading them together.
+
+**Transition to Chapter 5:** The next movement is 2 Peter 1:2–8. It develops the source's true-nature and participation language through the promises, escape from corruption, and the qualities Peter says must be added to faith. The judgment setting of Psalm 82 remains part of the context; it is not a substitute for that next passage's own argument.
