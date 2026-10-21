@@ -128,3 +128,12 @@
 - Created 09_ONENESS_AND_GLORY_JOHN_17.md, preserving the sequence and “as” comparisons in Jesus' prayer.
 - Created 10_IMAGE_FACE_OF_JESUS_CHRIST.md as the cumulative Book I close, with a handoff to Book II's evidence focus and without postponing the hypostasis foundation.
 - Updated the revised architecture proposal and owner-decision register to reflect the active ten-chapter working manuscript set. Final doctrinal approval, quotation proofing, lexical decisions, and the Hebrews 1:8 owner decision remain open. The app companion was not changed.
+
+
+## 2026-10-21 — Substantive revision pass: Chapters 1–3
+
+- Revised Chapter 1 to distinguish etymology from contextual lexical meaning, sharpen the comparison between Hebrews 1:3 and 11:1, and explicitly separate the owner's substance-to-underlying-state thesis from a dictionary definition. Added a publication proofing requirement for verified lexical citations.
+- Revised Chapter 3 to remove unintended course-bound phrasing, clarify a previously fragmentary opening statement, preserve the source's forceful treatment of Genesis 1:26–28, restore the immediate context of 1 John 4:17, and distinguish the source's ’ĕlōhîm / Trinity interpretation from a claim that morphology alone proves the doctrine.
+- Reviewed Chapter 2 and confirmed that its current text distinguishes the leaflet's explicit pistis / state / Sonship teaching from the owner's synthesis involving Hebrews 11:1, Hebrews 11:2, 5–6, and Matthew 3:17.
+- Updated 93_FIRST_DRAFT_SOURCE_FIDELITY_REVIEW.md with the work completed, remaining tasks, and status boundaries.
+- This is a substantive revision pass, not final doctrinal approval or publication readiness. Hebrews 1:8 and other owner decisions remain open.
