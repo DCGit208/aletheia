@@ -58,13 +58,15 @@ These passages build a connected argument: the Son is the express image and heir
 
 ## What the Inference Does—and Does Not Yet Establish
 
-The Scripture set does not authorize us to jump from “the Father addresses the Son as God” to a bare, unqualified assertion that every believer is independently God in exactly the same sense as the Son. That sentence would require an argument the cited texts have not yet explicitly made. Nor should fear of the question cause us to erase the source's design, sonship, righteousness, and representation claims.
+Hebrews 1:8 explicitly addresses the Son as God. The Aletheia leaflet then asks: **“According to Hebrews 1:8, what does that make you?”** The question deliberately asks the reader to reason from what is said to the Son to what follows for the believer in Christ. It must not be avoided, but neither should the inference be passed off as though Hebrews 1:8 directly addressed the believer in its own wording.
 
-A disciplined provisional answer is this:
+The passages assembled above provide the basis for the inference: the Son is the express image and heir; believers are called sons and heirs through Christ; 2 Corinthians 5:21 says they are made the righteousness of God **in Him**; Genesis 1:26–28 speaks of humanity's image and likeness; and 1 John 4:17 states, in its context of love and confidence, “as he is, so are we in this world.” The relationship among these statements is the argument the chapter must make visible.
 
-**In Christ, the believer is a son and heir of God, made the righteousness of God in Him, and called to understand present identity through the Son who is the express image of God's person.** The wider design/representation thesis asks what this correspondence entails; it must be argued from the whole Scripture cluster rather than settled by a slogan.
+A provisional synthesis for the manuscript is:
 
-This is a **provisional synthesis for owner review**, not a quotation from the leaflet and not a claim that Hebrews 1:8 alone directly gives every part of the answer. The source's question must not remain blank, but the final doctrinal formulation belongs to the owner.
+**In Christ, the believer is a son and heir of God, made the righteousness of God in Him, and called to understand present identity through the Son who is the express image of God's person.**
+
+This synthesis records the connections the draft has established so far. It does **not** settle the full doctrinal force of the leaflet's question, or decide which precise answer the owner intends the book to give. That decision remains open for owner review. The final answer should preserve the force of the source's question and the owner's design/representation thesis without claiming that Hebrews 1:8 alone contains every step of the inference.
 
 ## Who Is Heir of God? What Is an Heir?
 
