@@ -12,7 +12,7 @@ The preceding chapters established the *hypostasis* foundation, the Aletheia sou
 
 The task is twofold: do not empty “Ye are gods” of its force, and do not detach it from the judgment that surrounds it. The owner's broader thesis about humanity's true nature and design must be developed across the Scripture set; Psalm 82:6 alone must not be made to prove every part of that thesis.
 
-## III. Psalm 82 with John 10 — do not empty the verse
+## Psalm 82 with John 10 — do not empty the verse
 
 Psalm 82:1–5 — “God standeth in the congregation of the mighty; he judgeth among the gods. How long will ye judge unjustly, and accept the persons of the wicked? Selah. Defend the poor and fatherless: do justice to the afflicted and needy. Deliver the poor and needy: rid them out of the hand of the wicked. They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.”
 
@@ -42,13 +42,13 @@ The works are the Father’s works. The knowing is that the Father is in Him and
 
 ## Keep the Scripture set together
 
-The Scripture set is Psalm 82:6 with Psalm 82:7 and with John 10:34–35. Course 1 already used John 10:35 for the authority of the *graphē*. The Scripture cannot be broken. That authority governs this psalm as it governs every other writing.
+The Scripture set is Psalm 82:6 read with Psalm 82:7 and with John 10:34–35. Jesus' statement that “the scripture cannot be broken” (John 10:35) is part of His argument in that exchange. It establishes the authority of the writing He quotes; it does not remove the need to read the quotation in the context of the psalm and of Jesus' response.
 
 The chapter's claim must therefore be reasoned from the passages as presented. Psalm 82:6 cannot be reduced to an isolated slogan, and Psalm 82:7 cannot be used to pretend verse 6 was never spoken. Jesus' appeal in John 10 must be read in the exchange in which it occurs, including the accusation, the quotation, the statement that Scripture cannot be broken, and the appeal to the works that show the Father is in Him and He in the Father.
 
 This chapter connects to the wider design and sonship argument, but Psalm 82:6 alone is not made to carry every conclusion about divine nature or present identity. The wider thesis must be developed through the whole Scripture architecture.
 
-## Charge of this chapter
+## Study and argument exercise
 
 Write Psalm 82:6 and 82:7 in one paragraph, then write John 10:34–35 beneath them. Do not add a slogan. Do not subtract a clause. Say what the three verses force when they are left together.
 
