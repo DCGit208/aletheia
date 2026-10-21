@@ -128,3 +128,35 @@ This is **not** a declaration that the manuscript is final or that every source 
 ## 13. Superseding architecture correction — 2026-10-18
 
 The first-draft review's earlier boundary statement was incorrect. The owner's direction is that Hebrews 11:1 and *hypostasis* form the foundation and core of Book I. The leaflet itself does not explicitly quote Hebrews 11:1 or use *hypostasis*; it explicitly teaches *pistis* / credence as defining the state of children of God. The corrected task is to connect these lines through an explicit, source-grounded argument. See documents 94 and 95. The current nine drafts are preserved working material, not a validated final sequence.
+
+
+## 14. Substantive revision pass — Chapters 1–3 — 2026-10-21
+
+This pass began the second-stage revision of the foundation-first manuscript. The aim was not to replace the owner's doctrine or neutralize the source's forceful voice, but to strengthen the reasoning, correct reader-facing carryovers from the course format, and make interpretive boundaries more explicit.
+
+### Chapter 1 — *Hypostasis* / substance foundation
+- Tightened the etymology statement: word formation may be a memory aid, but does not by itself establish contextual meaning.
+- Clarified that the shared noun *hypostasis* in Hebrews 1:3 and 11:1 justifies comparison but does not make the grammar, referent, or nuance identical.
+- Added an explicit statement that the bridge from “substance” to the believer's underlying nature/state is the owner's doctrinal argument, not simply a dictionary gloss.
+- Added a working-manuscript proofing control requiring citations to the actual lexical and translation/commentary resources used before publication. No references are to be invented or represented as consulted without verification.
+
+### Chapter 2 — *Pistis*, credence, and Sonship
+- The present draft already preserves the distinction between the leaflet's explicit *pistis* / state / Sonship teaching and the owner's synthesis connecting that teaching with Hebrews 11:1.
+- It treats Hebrews 11:2, 5–6 and Matthew 3:17 as an inquiry into faith, good report, Sonship, and the Father's pleasure, not as though Matthew 3:17 were a lexical definition of faith.
+- No doctrinal conclusion about the relationship between Sonship and faith has been silently finalized. Further quotation proofing and review of source wording remain required.
+
+### Chapter 3 — *’Ĕlōhîm*, image, likeness, and design
+- Clarified the opening statement about acceptance/approval so it no longer appears as an unanchored fragment.
+- Removed unintended course-bound expressions (“in this school,” references to “section IX”) while retaining the source's strong insistence that Genesis 1:26–28 be taught as written.
+- Restored the immediate context of 1 John 4:17 (love and confidence in the day of judgment) alongside the owner's broader present-reality thesis.
+- Clarified that the source's “’ĕlōhîm — plural: Trinity” is preserved as its stated theological interpretation, while the argument should not claim that morphology alone proves the full doctrinal conclusion.
+- Retained *The Doctrine of Man* and *Why Men Die* as source further-reading provenance rather than course-sequence instructions.
+
+### Remaining tasks for the next pass
+1. Continue substantive review of Chapters 4–6, especially Psalm 82:6–7 with John 10, the full sequence of 2 Peter 1:2–8, and the source's “come short of glory” wording.
+2. Check all Scripture quotations against the selected translation and confirm that each quotation is correctly attributed.
+3. Add verified lexical references only after identifying the actual resources used.
+4. Continue distinguishing explicit Scripture, explicit Aletheia source teaching, owner formulation, and synthesis.
+5. Keep the Hebrews 1:8 decision open for the owner; no editorial pass authorizes the editor to decide it.
+
+**Status:** Chapters 1 and 3 have received targeted substantive revisions; Chapter 2 has been reviewed and its existing source/synthesis distinctions confirmed. This is progress, not a claim that these chapters are publication-ready.
