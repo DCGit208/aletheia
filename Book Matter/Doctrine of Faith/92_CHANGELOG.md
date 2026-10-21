@@ -186,3 +186,11 @@
 - Restored all four source-named resources and the Address-page request instruction.
 - Preserved the leaflet's own description of True Nature of God as source wording, while distinguishing it from a claim that Genesis 1:26 alone proves the entire inference.
 - The exact translation edition and the resources themselves remain unverified; no claim is made that those resources have been consulted.
+
+
+## 2026-10-21 — Initial lexical references added to Chapter 1
+
+- Chapter 1 now cites the actual references consulted for hypostasis: Thayer's Greek Lexicon and the NAS Exhaustive Concordance entry reproduced at BibleHub, BibleHub's Hebrews 11:1 lexicon, and the Cambridge Greek Testament Commentary on Hebrews 11:1.
+- The chapter keeps the documented semantic range distinct from the contextual decision and from the owner's doctrinal thesis connecting substance to underlying state.
+- The references are an initial bibliography, not a completed critical lexical study. Edition details and specialist Hebrews scholarship remain to be verified.
+- The source-fidelity review records the scope and limits of this work.
