@@ -154,3 +154,11 @@
 - Chapter 9: checked the John 17:20–23 progression and retained the book-structure transition to 2 Corinthians 4.
 - Chapter 10: corrected the stale count of nine drafts to ten coordinated working chapters and retained the distinction between Book I's hypostasis foundation and Book II's evidence focus.
 - Updated 93_FIRST_DRAFT_SOURCE_FIDELITY_REVIEW.md with the completed work and remaining requirements.
+
+
+## 2026-10-21 — Book-wide course-language and status consistency check
+
+- Searched all ten coordinated manuscripts for inherited “Course 1/2/3,” “this school,” “this course,” obsolete section numbering, and stale chapter-count references.
+- Replaced the remaining reader-facing “course order” instruction in Chapter 4 with a cross-reference to the source sequence and Chapter 7's fuller treatment of dikaiosynē.
+- Confirmed that Chapter 10 now identifies ten coordinated working chapters, while leaving the final chapter count provisional.
+- Remaining mentions of “Course 2 companion” in the source-basis lines of Chapters 8–10 are editorial provenance notes, not reader-facing course instructions; retain unless the book's final style guide removes source-basis metadata from chapter files.
