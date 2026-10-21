@@ -61,3 +61,5 @@ Finally, record the two formulations of *dikaioō* separately:
 - Owner's additional working formulation: “to render righteous or such as he ought to be.”
 
 Do not silently collapse the two. Explain the argument each formulation is intended to carry, and leave the lexical decision open for deliberate review.
+
+**Transition to Chapter 8:** The leaflet's next question asks what Hebrews 1:8 makes the reader. The next chapter examines the Son, His designation as heir, and the scriptural steps needed to reason from what is said to the Son to the believer's sonship and heirship. The central inference remains open for the owner's decision.
