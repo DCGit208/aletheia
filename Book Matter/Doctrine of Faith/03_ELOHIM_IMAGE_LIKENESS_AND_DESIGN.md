@@ -56,7 +56,7 @@ Romans 8:17 you have already heard: if children, then heirs; heirs of God, and j
 
 John 17:20–23 belongs in this Scripture set as Jesus' prayer concerning oneness and the glory given. Its full argument is developed in Chapter 9; here it functions as a cross-reference, not as a substitute for reading the prayer in context.
 
-The chapter must neither apologize for the wording of Genesis nor invent a title that the wider Scripture set does not grant. The text is to be read as written, and conclusions are to be reasoned from it. The source's associated further-reading references are *The Doctrine of Man* and *Why Men Die*; they are retained here as source provenance rather than as a course-sequence instruction.
+The chapter must neither apologize for the wording of Genesis nor invent a title that the wider Scripture set does not grant. The text is to be read as written, and conclusions are to be reasoned from it. The leaflet names *The Doctrine of Man* and *Why Men Die* in its first further-reading note. It later recommends requesting *True Nature of God* and separately names *WHO'S JESUS TO YOU?*, directing the reader to the leaflet's Address page for request details. These are retained as source-provenance references, not as a new course sequence. The exact titles and request instructions should be preserved in the book's source notes even if the resources themselves are not reproduced here.
 
 ## II. Jesus as representation of humanity's design — an owner-supplied inquiry
 
