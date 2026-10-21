@@ -160,3 +160,23 @@ This pass began the second-stage revision of the foundation-first manuscript. Th
 5. Keep the Hebrews 1:8 decision open for the owner; no editorial pass authorizes the editor to decide it.
 
 **Status:** Chapters 1 and 3 have received targeted substantive revisions; Chapter 2 has been reviewed and its existing source/synthesis distinctions confirmed. This is progress, not a claim that these chapters are publication-ready.
+
+
+## 15. Substantive revision pass — Chapters 4–6 — 2026-10-21
+
+### Chapter 4 — Psalm 82 with John 10
+- Removed inherited course-section numbering and a reference to “Course 1.”
+- Strengthened the explanation that John 10:35's “the scripture cannot be broken” belongs to Jesus' argument in that exchange; it affirms the authority of the writing without removing the need to read Psalm 82:6–7 in context.
+- Preserved the chapter's controlling insistence: neither Psalm 82:6 nor verse 7 may be isolated to erase the other.
+
+### Chapter 5 — Partakers of divine nature
+- Replaced a course-specific definition reference with the source glossary's description of knowledge as the mental result of perception, learning, and reasoning.
+- Corrected a Greek cross-reference: 2 Peter 1:5 uses the noun *spoudē* in “giving all diligence”; it should not be conflated with the related verb *spoudazō*. The previous reference to Chapter 1 was also structurally misplaced because the new foundation chapter does not develop that verb.
+- Removed inherited course-section numbering. Preserved the complete 2 Peter 1:2–8 sequence and the distinction between the source's “back on course” formulation and a lexical definition.
+
+### Chapter 6 — Why did Jesus come?
+- Removed inherited Roman-numeral course-section numbering from the main chapter heading.
+- Reconfirmed that “deviation from true nature” is the Aletheia source's interpretive gloss on coming short of glory, and that the broader restoration/design claim is a synthesis rather than a phrase Romans 3 states in those exact terms.
+- The chapter's Scripture quotations and immediate context still require final quotation proofing.
+
+**Status:** Chapters 4–6 have received targeted substantive revisions. The manuscript is still in progress; later chapters and the book-wide repetition/transition pass remain.
