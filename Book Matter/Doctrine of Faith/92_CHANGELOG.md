@@ -194,3 +194,10 @@
 - The chapter keeps the documented semantic range distinct from the contextual decision and from the owner's doctrinal thesis connecting substance to underlying state.
 - The references are an initial bibliography, not a completed critical lexical study. Edition details and specialist Hebrews scholarship remain to be verified.
 - The source-fidelity review records the scope and limits of this work.
+
+
+## 2026-10-21 — Argument deepening and Hebrews 1:8 framing correction
+
+- Chapter 1 now develops the Hebrews 11 examples of Noah, Abraham, Sarah, Moses, and those who died without receiving the promises. The added analysis treats faith as lived orientation and endurance but does not claim that these examples settle the lexical sense of hypostasis or guarantee immediate outcomes.
+- Chapter 8's inference section was rewritten to remove a restrictive negative formulation that could pre-empt the owner's intended doctrinal answer. It now identifies the leaflet's question as a deliberate inference task, distinguishes Hebrews 1:8's direct wording from the broader Scripture-based inference, and preserves the provisional synthesis while leaving the precise answer to the owner.
+- Updated the source-fidelity review with rationale and status.
