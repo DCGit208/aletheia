@@ -18,7 +18,7 @@ Psalm 82:1–5 — “God standeth in the congregation of the mighty; he judgeth
 
 The psalm is a judgment scene. God stands. He judges among the gods. The charge is unjust judgment, respect of wicked persons, failure to defend the poor and fatherless. They know not. They walk on in darkness. The foundations of the earth are out of course.
 
-Keep the course order in view when this chapter reaches δικαιοσύνη (*dikaiosynē*). Equity is conformity with the nature of God. Return to the course order.
+Keep the source's sequence in view when the discussion reaches δικαιοσύνη (*dikaiosynē*). The source describes equity as conformity with the nature of God. The fuller treatment of that term appears in Chapter 7.
 
 Psalm 82:6–8 — “I have said, Ye are gods; and all of you are children of the most High. But ye shall die like men, and fall like one of the princes. Arise, O God, judge the earth: for thou shalt inherit all nations.”
 
