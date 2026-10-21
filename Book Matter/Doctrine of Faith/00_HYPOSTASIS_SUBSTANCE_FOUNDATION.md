@@ -53,7 +53,9 @@ This is precisely why careful study is required: English renderings can illumina
 
 ## 3. What *hypostasis* contributes
 
-The Greek noun is **ὑπόστασις (*hypostasis*)**. Lexical resources document a semantic range that includes a supporting structure or foundation, actual or substantial reality, the substantial quality or nature of a person or thing, and firmness or confidence. The word's formation is often explained through the idea of standing or being set under. That may serve as a memory aid, but it is not a lexical proof: a compound's parts do not by themselves determine the established meaning of the whole word in a particular passage.
+The Greek noun is **ὑπόστασις (*hypostasis*)**. The Thayer entry reproduced in BibleHub records senses including a substructure or foundation, actual existence or substance, the substantial quality or nature of a person or thing, and steadiness of mind or confidence. The NAS Exhaustive Concordance summary there gives “a support, substance, steadiness, hence assurance.” The Cambridge Greek Testament commentary on Hebrews 11:1 discusses “underlying essence,” “basis/foundation,” and “confidence” as competing contextual options. These references support a semantic range; they do not, by themselves, decide which sense is operative in Hebrews 11:1.
+
+The word's formation is often explained through the idea of standing or being set under. That may serve as a memory aid, but it is not a lexical proof: a compound's parts do not by themselves determine the established meaning of the whole word in a particular passage.
 
 The investigation must distinguish four levels:
 
@@ -176,4 +178,4 @@ The next chapter must now develop the Aletheia source's *pistis* / credence / So
 
 ## Editorial proofing control — lexical sources
 
-This is a working manuscript, not a publication-ready lexical apparatus. Before final publication, identify and cite the specific lexicons, concordance entries, and translation/commentary sources actually consulted for the semantic range summarized above, especially the alternatives “substance / actual reality / nature” and “confidence / assurance.” Do not add bibliographic citations from memory or imply that a resource was consulted if it was not. Keep transparent which claims come from lexical references, which come from the wording and context of Hebrews, and which are the owner's doctrinal synthesis.
+The following online reference entries were consulted for this working pass: [Thayer's Greek Lexicon / NAS Exhaustive Concordance, ὑπόστασις (G5287), reproduced at BibleHub](https://biblehub.com/strongs/new/greek/5287.htm); [BibleHub, Hebrews 11:1 lexicon](https://biblehub.com/lexicon/hebrews/11-1.htm); and [Cambridge Greek Testament Commentary, Hebrews 11:1](https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/hebrews/11/1). These are initial research references, not a complete critical bibliography. Before final publication, verify the bibliographic editions and add any specialist sources actually consulted. Do not imply that a resource was consulted if it was not. Keep transparent which claims come from lexical references, which come from the wording and context of Hebrews, and which are the owner's doctrinal synthesis.
