@@ -8,7 +8,7 @@
 
 Chapter 6 developed the source's reading of coming short of glory as deviation from true nature, while preserving the explicit language of Romans 3:23–24: all have sinned and come short of the glory of God, and are justified freely by grace through the redemption that is in Christ Jesus. This chapter examines the terms through which the Aletheia source describes that response.
 
-The source's lexical glosses and the owner's additional formulations must remain distinguishable. The source glosses *dikaioō* as “render just or innocent, free from evil or guilt”; the owner has separately proposed “to render righteous or such as he ought to be.” The source's *dikaiosynē* explanation includes equity and conformity with God's nature and the conceptual phrase “original: back on course.” The owner/source formulation for *apolutrōsis* includes “riddance, ransom in full.” These statements must be evaluated and integrated without silently replacing one with another.
+The source's lexical glosses and the owner's additional formulations must remain distinguishable. The source glosses *dikaioō* as “render just or innocent, free from evil or guilt”; the owner has separately proposed “to render righteous or such as he ought to be.” The source's *dikaiosynē* explanation includes equity and conformity with God's nature and the conceptual phrase “original: back on course.” The glossary records *apolutrōsis* as “redemption; ransom in full”; the owner's additional note uses “riddance, ransom in full.” Preserve that distinction rather than silently merging the formulations. These statements must be evaluated and integrated without silently replacing one with another.
 
 ## *Dikaioō* — justified freely
 
@@ -36,7 +36,7 @@ The distinction is sharp. Free justification is not earned innocence. A man who 
 
 2 Corinthians 5:17–19 — “Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new. And all things are of God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation; To wit, that God was in Christ, reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation.”
 
-The earlier course material already taught the new creature and the passing of old things. This chapter opens the next sentence of the same passage. God has reconciled us to Himself by Jesus Christ. God was in Christ, reconciling the world unto Himself, not imputing their trespasses unto them. The word of reconciliation is committed unto us.
+The preceding exposition has introduced the new creature and the passing of old things. This section continues the same passage. God has reconciled us to Himself by Jesus Christ. God was in Christ, reconciling the world unto Himself, not imputing their trespasses unto them. The word of reconciliation is committed unto us.
 
 ### Made the righteousness of God in Him
 
