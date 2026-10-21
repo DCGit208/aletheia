@@ -145,3 +145,12 @@
 - Chapter 5: replaced a course-bound knowledge definition reference with the source glossary's formulation; corrected the Greek cross-reference in 2 Peter 1:5 from *spoudazō* to *spoudē* and removed the structurally misplaced Chapter 1 reference; preserved 2 Peter 1:2–8 and the source/synthesis distinction around “back on course.”
 - Chapter 6: removed inherited course-section numbering from the main heading and retained the distinction between the Aletheia source's “deviation from true nature” gloss and the broader design/restoration synthesis.
 - Updated `93_FIRST_DRAFT_SOURCE_FIDELITY_REVIEW.md`. Scripture quotation proofing and review of later chapters remain open.
+
+
+## 2026-10-21 — Substantive revision pass: Chapters 7–10
+
+- Chapter 7: removed inherited course numbering and a course-specific reference; distinguished the glossary's apolutrōsis wording (“redemption; ransom in full”) from the owner's additional “riddance, ransom in full” wording. Kept the source and owner dikaioō formulations separate.
+- Chapter 8: reviewed the Hebrews 1:8 inference and confirmed that it remains provisional for owner decision.
+- Chapter 9: checked the John 17:20–23 progression and retained the book-structure transition to 2 Corinthians 4.
+- Chapter 10: corrected the stale count of nine drafts to ten coordinated working chapters and retained the distinction between Book I's hypostasis foundation and Book II's evidence focus.
+- Updated 93_FIRST_DRAFT_SOURCE_FIDELITY_REVIEW.md with the completed work and remaining requirements.
