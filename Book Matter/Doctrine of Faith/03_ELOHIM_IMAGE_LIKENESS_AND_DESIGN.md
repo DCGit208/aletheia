@@ -22,7 +22,7 @@ The source's preceding argument states that acceptance or approval is grounded i
 
 Genesis 1:26 — “And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.”
 
-God, in the Hebrew of this verse, is ’ĕlōhîm. This teaching reads ’ĕlōhîm as plural: Trinity. “Let us make” is not a committee of angels inventing a lesser thing. God speaks as God. The “us” and the “our” are the speech of God concerning God. Man is made in that image, after that likeness.
+God, in the Hebrew of this verse, is ’ĕlōhîm. This teaching reads ’ĕlōhîm as plural: Trinity. That is the source's stated theological interpretation and must be represented faithfully. The present argument should not pretend that the noun's grammatical form, by itself, completes the case for the Trinity; the source's reading is developed together with “Let us make” and “our image” and with its wider Scripture set. “Let us make” is not a committee of angels inventing a lesser thing. God speaks as God. The “us” and the “our” are read here as the speech of God concerning God. Man is made in that image, after that likeness.
 
 Do not send the plurality to a courtroom of created beings. The Maker is speaking. The thing made is man.
 
