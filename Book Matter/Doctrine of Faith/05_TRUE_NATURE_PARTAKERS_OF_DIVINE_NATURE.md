@@ -45,3 +45,5 @@ You are not being invited to invent another nature. You are being returned to th
 Define “true nature” from Genesis 1:26–28 and 2 Peter 1:2–8. What is partaken? What is escaped? What is given through the promises? What sequence follows in verses 5–8?
 
 Then connect Psalm 82:5, Romans 3:23–24, and the Aletheia source's “back on course” formulation. Label the connection as the teaching's conceptual argument, and distinguish it from a claim that one Greek word by itself proves the whole restoration thesis.
+
+**Transition to Chapter 6:** The next chapter asks why Jesus came. It takes up Romans 3:21–26 and 1 Corinthians 11:7, where righteousness, coming short of glory, and Christ's work enter the argument. The relation between humanity's design and restoration must be shown across those passages rather than assumed from 2 Peter 1:4 alone.
