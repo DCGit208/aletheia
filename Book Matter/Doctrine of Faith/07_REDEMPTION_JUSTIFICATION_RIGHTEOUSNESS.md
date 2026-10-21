@@ -12,7 +12,7 @@ The source's lexical glosses and the owner's additional formulations must remain
 
 ## *Dikaioō* — justified freely
 
-Justified: Greek δικαιόω (*dikaioō*, G1344) — the Aletheia source glosses it “render just or innocent, free from evil or guilt.” It relates this term to δικαιοσύνη (*dikaiosynē*): righteousness, justification. The source describes equity as impartiality to and conformity with the nature of God, and gives the conceptual formulation “original: back on course.” Return to the source's sequence.
+Justified: Greek δικαιόω (*dikaioō*, G1344) — the Aletheia source glosses it “render just or innocent, free from evil or guilt.” It relates this term to δικαιοσύνη (*dikaiosynē*): righteousness, justification. The source describes equity as impartiality to and conformity with the nature of God, and gives the conceptual formulation “original: back on course.” The relationship between the source's glosses and the owner's additional formulation is examined below without silently merging them.
 
 The owner's additional working formulation for *dikaioō* is “to render righteous or such as he ought to be.” This is preserved alongside the leaflet's printed gloss as a separate owner-supplied formulation. It is not silently substituted for the source wording; the relationship between the two remains a deliberate point for review.
 
