@@ -2,8 +2,8 @@
 
 **Book:** *The Doctrine of Faith* (Book I)  
 **Repository:** `DCGit208/aletheia`  
-**Audit phase:** Gate A completed; canonical draft implementation status updated  
-**Status:** Initial source audit and first nine-chapter drafting pass completed. The nine drafts are preserved working material; the final architecture is being reconstructed from the owner's direction that Hebrews 11:1 / *hypostasis* is foundational to Book I. This remains a working audit, not final doctrinal or publication approval. The existing app companion remains preserved.
+**Audit phase:** Source coverage and initial substantive revision underway  
+**Status:** The initial source audit and first-pass drafts are preserved. Ten coordinated foundation-first working chapters now exist, with substantive edits and transition review underway. This remains a working audit, not final doctrinal or publication approval. The existing app companion remains preserved.
 
 ## 1. Executive finding
 
@@ -333,14 +333,14 @@ The original nine-chapter structure and its source-fidelity review remain useful
 
 **Current architecture work:** See `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md` for the source-and-reasoning map and `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md` for the ten-chapter working proposal. The chapter count is provisional. Existing nine drafts remain preserved and are to be mapped into the corrected structure rather than discarded.
 
-**Next gate:** Validate chapter sequence and argument dependencies against the complete source map, Scripture matrix, owner notes, and all existing drafts. Only then begin coordinated substantive chapter rewrites. Hebrews 1:8 and lexical decisions remain open for owner review.
+**Current status:** The ten-chapter foundation-first sequence has been drafted and is now receiving substantive source-fidelity, transition, quotation, and lexical review. Hebrews 1:8 and lexical decisions remain open for owner review.
 
 
 ## 13. Corrected foundation-first audit direction — 2026-10-18
 
 The previous audit treated the absence of a full Hebrews 11:1 / *hypostasis* exposition as a Book II boundary. That was incorrect. It is now a Book I foundation gap. The 2015 leaflet's Faith Toward God section explicitly teaches *pistis* / credence as defining the state of children of God, but does not itself quote Hebrews 11:1 or use *hypostasis*. The required work is to reason carefully from Hebrews 11:1 and the lexical/contextual study into the Aletheia source's state/nature teaching, preserving source attribution and distinguishing the owner's doctrinal thesis from explicit source wording.
 
-The new reconstruction dossier is `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md`; the revised architecture proposal is `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md`. The ten-chapter count is provisional. No existing drafts or app companion have been deleted. The next gate is a full dependency/coverage audit of the proposed structure before coordinated substantive rewrites.
+The reconstruction dossier is `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md`; the revised architecture proposal is `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md`. The ten-chapter count remains provisional. No existing drafts or app companion have been deleted. Coordinated substantive rewrites have begun, and the present gate is to improve the continuous argument, verify source coverage, and complete quotation and lexical checks.
 
 
 ## 14. First working foundation chapter — 2026-10-18
@@ -353,3 +353,15 @@ Created `00_HYPOSTASIS_SUBSTANCE_FOUNDATION.md` as the first working draft of th
 The coordinated foundation-first working manuscripts now exist at: 00_HYPOSTASIS_SUBSTANCE_FOUNDATION.md; 02_PISTIS_CREDENCE_AND_SONSHIP.md; 03_ELOHIM_IMAGE_LIKENESS_AND_DESIGN.md; 04_PSALM_82_WITH_JOHN_10.md; 05_TRUE_NATURE_PARTAKERS_OF_DIVINE_NATURE.md; 06_WHY_DID_JESUS_COME_GLORY_DEVIATION_REPRESENTATION.md; 07_REDEMPTION_JUSTIFICATION_RIGHTEOUSNESS.md; 08_THE_SON_HEBREWS_1_8_AND_THE_HEIR.md; 09_ONENESS_AND_GLORY_JOHN_17.md; and 10_IMAGE_FACE_OF_JESUS_CHRIST.md.
 
 The existing nine first-pass drafts remain preserved. The new files carry forward their source-bearing exposition while adding explicit dependencies and transitions under the corrected architecture. This is a working manuscript set; final source quotation proofing, lexical review, owner doctrinal decisions, and book-level editing remain open.
+
+
+## 16. Continuous-book and source-verification progress — 2026-10-21
+
+- The current ten-chapter foundation-first structure has been checked for stale nine-chapter outlines and inherited course-order instructions. Chapter 10 now presents the current sequence, and Chapters 3–8 have explicit transitions into their next argument stages.
+- The uploaded 2015 leaflet was checked directly. Chapter 3's Genesis 1:27 paraphrase attribution was corrected to preserve the leaflet's “Life Application Bible” label and to flag exact-edition verification. The leaflet's references to *The Doctrine of Man*, *Why Men Die*, *True Nature of God*, and *WHO'S JESUS TO YOU?* are now all preserved, including the source's description of *True Nature of God*.
+- An initial KJV quotation check was performed against Bible Gateway for the main quoted clusters: Hebrews 11; Genesis 1:26–28; Psalm 82; John 10; John 14:12; Romans 3; Romans 8:14–17; Galatians 4:4–7; Ephesians 1:3–7; 1 Corinthians 11:7; 2 Peter 1:2–8; Matthew 5:43–48; 1 John 4:17; John 17:20–23; Hebrews 1:1–8; 2 Corinthians 4:1–6; and 2 Corinthians 5:17–21. This is an initial check, not a complete proof of every quotation and punctuation mark.
+- Chapter 1 now includes the actual lexical references consulted for *hypostasis* and a contextual argument from the examples in Hebrews 11. The semantic range remains distinct from the owner's doctrinal bridge between substance and underlying state.
+- Chapter 8's Hebrews 1:8 inference section was rewritten to avoid prejudging the owner's answer while still making the leaflet's question central and reasoned.
+- The existing `src/lib/content/companion-faith.ts` remains unchanged. Its known SHA remains `cec92de13c9565f9ba249c9b4c6f9c2dcc30916c`.
+
+**Next work:** Continue a line-by-line argument and quotation audit, verify specialist lexical references and editions, and leave all open doctrinal decisions with the owner. This file records progress, not final approval.
