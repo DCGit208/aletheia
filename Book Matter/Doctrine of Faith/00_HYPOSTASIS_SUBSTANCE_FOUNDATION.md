@@ -53,7 +53,7 @@ This is precisely why careful study is required: English renderings can illumina
 
 ## 3. What *hypostasis* contributes
 
-The Greek noun is **ὑπόστασις (*hypostasis*)**. Lexical resources document a semantic range that includes a supporting structure or foundation, actual or substantial reality, the substantial quality or nature of a person or thing, and firmness or confidence. The word is associated with the idea of standing or being set under. That formation is relevant, but etymology alone cannot decide what a word means in a particular sentence.
+The Greek noun is **ὑπόστασις (*hypostasis*)**. Lexical resources document a semantic range that includes a supporting structure or foundation, actual or substantial reality, the substantial quality or nature of a person or thing, and firmness or confidence. The word's formation is often explained through the idea of standing or being set under. That may serve as a memory aid, but it is not a lexical proof: a compound's parts do not by themselves determine the established meaning of the whole word in a particular passage.
 
 The investigation must distinguish four levels:
 
