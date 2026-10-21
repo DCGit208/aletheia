@@ -171,3 +171,10 @@
 - Checked the uploaded 2015 *Aletheia Libraries 1* PDF directly against Chapter 3. The leaflet attributes “Like God did God make man” to the “Life Application Bible” and separately places “So God made man like his Maker” beside its true-nature/glory gloss. Chapter 3 had inaccurately attributed the combined wording to TLB. Corrected the passage to preserve the leaflet's attribution and flag the exact edition for verification rather than silently relabeling it.
 - Removed the unexplained “Return to the source's sequence” phrase in Chapter 7 and replaced it with a statement that distinguishes the source's glosses from the owner's additional formulation.
 - These edits improve continuity and source fidelity. They do not settle the Hebrews 1:8 question or constitute final Scripture-quotation proofing.
+
+
+## 2026-10-21 — Initial KJV quotation check
+
+- Compared core KJV quotations and verse clusters against Bible Gateway's KJV text: Hebrews 11; Genesis 1:26–28; Psalm 82; John 10; John 14:12; Romans 3; Romans 8:14–17; Galatians 4:4–7; Ephesians 1:3–7; 1 Corinthians 11:7; 2 Peter 1:2–8; Matthew 5:43–48; 1 John 4:17; John 17:20–23; Hebrews 1:1–8; 2 Corinthians 4:1–6; and 2 Corinthians 5:17–21.
+- The KJV wording checked in this initial pass matches the consulted text. This is not yet an exhaustive proof of every quotation, punctuation mark, Greek transliteration, or source paraphrase across all chapters.
+- Recorded the scope and limits of the check in `93_FIRST_DRAFT_SOURCE_FIDELITY_REVIEW.md`. The final Bible edition should be fixed in the style sheet before publication.
