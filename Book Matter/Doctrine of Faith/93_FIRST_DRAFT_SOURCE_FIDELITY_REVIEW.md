@@ -247,3 +247,11 @@ This correction closes a source-resource coverage gap. The exact edition behind 
 Chapter 1 now names the references actually consulted in this pass: Thayer's Greek Lexicon and the NAS Exhaustive Concordance entry for hypostasis (G5287) reproduced at BibleHub, BibleHub's Hebrews 11:1 lexicon, and the Cambridge Greek Testament Commentary on Hebrews 11:1. The manuscript summarizes the range these references present—substructure/foundation, substance or actual existence, nature, and confidence/assurance—while stating that the range alone does not decide the contextual sense.
 
 This is an initial research bibliography, not a complete critical lexical study. The final pass should verify publication details and editions and consider specialist Hebrews scholarship before making a final lexical argument. The owner's connection between hypostasis and the believer's underlying state remains a doctrinal thesis to demonstrate, not a conclusion that a lexical entry proves on its own.
+
+
+## 22. Argument deepening and Hebrews 1:8 neutrality correction — 2026-10-21
+
+- Expanded Chapter 1's reading of Hebrews 11 with examples from Noah, Abraham, Sarah, Moses, and those who died without receiving the promises. The examples now show faith as judgment, allegiance, action, and endurance while explicitly not treating the examples as a dictionary definition of hypostasis or as proof that faith guarantees every desired outcome in this life.
+- Reworked Chapter 8's “What the Inference Does—and Does Not Yet Establish” section. The previous draft framed the inference partly through a restrictive negative proposition about believers being “independently God in exactly the same sense as the Son.” That was not a neutral description of the owner's open doctrinal question and risked pre-empting the decision. The revised section states what Hebrews 1:8 explicitly says, identifies the leaflet's question as a deliberate inference task, lays out the supporting Scripture set, and preserves the provisional synthesis while leaving the exact doctrinal force for owner review.
+
+**Status:** This correction is intended to avoid both evasion and premature doctrinal closure. The owner's final answer to the Hebrews 1:8 question remains unresolved.
