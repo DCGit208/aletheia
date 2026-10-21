@@ -162,3 +162,12 @@
 - Replaced the remaining reader-facing “course order” instruction in Chapter 4 with a cross-reference to the source sequence and Chapter 7's fuller treatment of dikaiosynē.
 - Confirmed that Chapter 10 now identifies ten coordinated working chapters, while leaving the final chapter count provisional.
 - Remaining mentions of “Course 2 companion” in the source-basis lines of Chapters 8–10 are editorial provenance notes, not reader-facing course instructions; retain unless the book's final style guide removes source-basis metadata from chapter files.
+
+
+## 2026-10-21 — Continuous-book transition and primary-source verification pass
+
+- Revised Chapter 10's “Book I's Argument” section to describe the current ten-chapter foundation-first sequence rather than the superseded first nine-draft sequence. Removed a reader-facing editorial note that discussed a paragraph from the first draft and stated that it was superseded; replaced it with clean book-level prose preserving the Book I / Book II boundary.
+- Added explicit chapter-to-chapter transitions at the end of Chapters 3–8, linking design to Psalm 82, Psalm 82 to 2 Peter 1, divine nature to the question of Christ's coming, Christ's coming to redemption/justification, righteousness to the Hebrews 1:8 heirship question, and heirship to John 17. The transitions preserve the open owner decision on Hebrews 1:8.
+- Checked the uploaded 2015 *Aletheia Libraries 1* PDF directly against Chapter 3. The leaflet attributes “Like God did God make man” to the “Life Application Bible” and separately places “So God made man like his Maker” beside its true-nature/glory gloss. Chapter 3 had inaccurately attributed the combined wording to TLB. Corrected the passage to preserve the leaflet's attribution and flag the exact edition for verification rather than silently relabeling it.
+- Removed the unexplained “Return to the source's sequence” phrase in Chapter 7 and replaced it with a statement that distinguishes the source's glosses from the owner's additional formulation.
+- These edits improve continuity and source fidelity. They do not settle the Hebrews 1:8 question or constitute final Scripture-quotation proofing.
