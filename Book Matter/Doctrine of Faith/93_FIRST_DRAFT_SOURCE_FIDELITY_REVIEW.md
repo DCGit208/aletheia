@@ -233,3 +233,10 @@ Compared the main quoted passages in the working chapters against the KJV text d
 In the passages checked during this pass, the quoted KJV wording matches the consulted text; the excerpts are presented as excerpts or combined verse ranges rather than as alternate translations. This is an initial check of the core quoted clusters, not a complete proof of every quotation, punctuation mark, Greek transliteration, or source paraphrase in all ten chapters. The Genesis 1:27 paraphrase attribution issue was separate from the KJV quotation and has been corrected as recorded above.
 
 Reference consulted: Bible Gateway, King James Version (KJV), https://www.biblegateway.com/versions/King-James-Version-KJV-Bible/ and the relevant passage pages for the listed references. The selected Bible edition should be fixed in the final style sheet; if another edition is chosen, re-run the quotation check against that edition.
+
+
+## 20. Source-resource coverage correction — 2026-10-21
+
+A direct read of the uploaded leaflet showed that the source's resource references were only partially represented in Chapter 3. The manuscript now preserves all four references: *The Doctrine of Man*, *Why Men Die*, *True Nature of God*, and *WHO'S JESUS TO YOU?* It also records the leaflet's description of *True Nature of God*—“if you know God's nature, then you're as Him, unlimited, because we're made in His image. Genesis 1:26”—as the leaflet's own description, not as a conclusion that Genesis 1:26 alone independently proves. The leaflet's instruction to consult the Address page for request details is also preserved.
+
+This correction closes a source-resource coverage gap. The exact edition behind the leaflet's “Life Application Bible” attribution and the availability/content of the named resources remain unverified; no resource has been invented or represented as independently consulted.
