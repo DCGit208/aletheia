@@ -16,7 +16,7 @@ The source's use of “true nature from creation” and its appeal to being part
 
 2 Peter 1:2–3 — “Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord, According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue.”
 
-Knowledge again. Course 1 defined knowledge as perception, learning, and reasoning. Grace and peace are multiplied through the knowledge of God and of Jesus our Lord. Divine power has given all things that pertain unto life and godliness. The call is to glory and virtue.
+Knowledge is again central. The source glossary describes knowledge as the mental result of perception, learning, and reasoning. In 2 Peter 1:2, grace and peace are multiplied through the knowledge of God and of Jesus our Lord. Divine power has given all things that pertain unto life and godliness. The call is to glory and virtue.
 
 ### Partakers of the divine nature
 
