@@ -18,7 +18,7 @@ The owner's thesis—**“Jesus represents who we are by Design”**—asks how 
 
 ## I. ’Ĕlōhîm — image and likeness
 
-This acceptance or approval is on the basis of our true nature from creation with respect to God.
+The source's preceding argument states that acceptance or approval is grounded in our true nature from creation with respect to God. The present section examines the Genesis passages the source uses to develop that claim; it does not treat this opening sentence as a quotation from Genesis.
 
 Genesis 1:26 — “And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.”
 
@@ -36,31 +36,27 @@ Like his Maker. That is the use of the gloss. Mark it TLB. Keep the KJV as the t
 
 Genesis 1:28 — “And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.”
 
-He blessed them. He spoke to them. Fruitful. Multiply. Replenish. Subdue. Have dominion. The blessing and the charge are one speech. You will not be allowed, in this school, to keep “image” as a pious word and throw away dominion as if it were optional poetry.
+He blessed them. He spoke to them. Fruitful. Multiply. Replenish. Subdue. Have dominion. The blessing and the charge are one speech. The argument will not permit “image” to remain a pious word while dominion is discarded as optional poetry.
 
-This school will not put a softer sentence in the place of Genesis 1:26–28. Teach the verses as written. Man is who he is by design and by Who designed him.
+The exposition must not put a softer sentence in the place of Genesis 1:26–28. Teach the verses as written. The chapter's governing claim is that humanity's identity must be understood in relation to its design and to the One who designed it.
 
-This chapter keeps a Scripture set that must sit with these verses. You will not detach the Scripture set. You will not use the Scripture set to empty the verses. You will hold them together.
+The following Scripture set is to be read alongside these verses. It must neither be detached from Genesis nor used to empty Genesis of its stated terms. The passages are to be held together while their distinct contexts remain visible.
 
 John 14:12 — “Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.”
 
-He that believeth on Me. The works that I do shall he do also. Greater works than these shall he do. Because I go unto My Father. The existing companion's exposition reads the Son's going as the reason the believer is not left as a spectator of works he can never touch. That is an interpretive development of the verse's stated connection, not a separate quotation from the text. Do not reduce the verse to a fundraising slogan or empty it because it is demanding. Teach it as written, with Genesis 1:26–28.
+He that believeth on Me. The works that I do shall he do also. Greater works than these shall he do. Because I go unto My Father. The existing companion's exposition reads the Son's going as the reason the believer is not left as a spectator of works he can never touch. That is an interpretive development of the verse's stated connection, not a separate quotation from the text. Do not reduce the verse to a motivational slogan or empty it because it is demanding. Read it alongside Genesis 1:26–28, while retaining John 14:12's own stated connection between the believer's works and Jesus' going to the Father.
 
 1 John 4:17 — “Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.”
 
-As He is, so are we in this world. Not as He will be, so we hope to be after we die. In this world. The love is made perfect toward boldness in the day of judgment on that ground. Do not turn the sentence into a compliment you pay yourself. Do not refuse the sentence because it is large. It is written.
+The clause “as he is, so are we in this world” is a strong present-tense statement and must not be diluted. Yet the verse itself connects this statement with love being made perfect and boldness in the day of judgment. The broader design thesis should be developed without detaching the clause from that context or turning it into a self-congratulatory slogan.
 
 Psalm 82:6 — “I have said, Ye are gods; and all of you are children of the most High.”
 
 Romans 8:17 you have already heard: if children, then heirs; heirs of God, and joint-heirs with Christ.
 
-John 17:20–23 will be opened in its own section. It belongs in this Scripture set now as the prayer of oneness and of glory given. Hold the address. Do not wait until section IX to admit that the prayer exists.
+John 17:20–23 belongs in this Scripture set as Jesus' prayer concerning oneness and the glory given. Its full argument is developed in Chapter 9; here it functions as a cross-reference, not as a substitute for reading the prayer in context.
 
-This is the image-and-likeness file. You will not be taught a hedge that undoes Genesis 1:26–28. You will be taught the writing.
-
-If you came to this chapter hoping the school would apologize for the text, you came to the wrong house. If you came hoping the school would invent a title the Scripture set does not grant, you also came to the wrong house. The text is enough. Reason from it.
-
-Further reading at this knot, directed, not as a seventh course: *The Doctrine of Man*. *Why Men Die*.
+The chapter must neither apologize for the wording of Genesis nor invent a title that the wider Scripture set does not grant. The text is to be read as written, and conclusions are to be reasoned from it. The source's associated further-reading references are *The Doctrine of Man* and *Why Men Die*; they are retained here as source provenance rather than as a course-sequence instruction.
 
 ## II. Jesus as representation of humanity's design — an owner-supplied inquiry
 
@@ -104,7 +100,7 @@ The owner's questions remain: **Why would Jesus ask us to be perfectly something
 
 The claim that Jesus represents humanity's design must be developed by showing how these passages relate. Hebrews 1:2 alone does not establish the entire thesis, and 1 John 4:17 must not be detached from its context of love and confidence.
 
-## Charge of this chapter
+## Study and argument exercise
 
 Read Genesis 1:26–28 aloud and list the actual terms in the passage: image, likeness, blessing, fruitfulness, multiplication, replenishment, subduing, and dominion. Then distinguish those explicit terms from the owner's synthesis about humanity's design.
 
