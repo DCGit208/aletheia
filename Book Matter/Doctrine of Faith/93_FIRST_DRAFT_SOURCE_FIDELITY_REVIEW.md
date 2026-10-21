@@ -180,3 +180,25 @@ This pass began the second-stage revision of the foundation-first manuscript. Th
 - The chapter's Scripture quotations and immediate context still require final quotation proofing.
 
 **Status:** Chapters 4–6 have received targeted substantive revisions. The manuscript is still in progress; later chapters and the book-wide repetition/transition pass remain.
+
+
+## 16. Substantive revision pass — Chapters 7–10 — 2026-10-21
+
+### Chapter 7 — Redemption, justification, righteousness
+- Removed inherited course numbering from the two principal section headings and adapted a course-specific phrase to refer to the source sequence.
+- Corrected attribution control for *apolutrōsis*: the glossary records “redemption; ransom in full,” while the owner's additional note uses “riddance, ransom in full.” The manuscript now preserves the distinction instead of merging them as one formulation.
+- Removed a course-bound reference in the 2 Corinthians 5 section. The two *dikaioō* formulations remain separately recorded and unresolved for owner review.
+
+### Chapter 8 — Hebrews 1:8 and heirship
+- Re-read the chapter's inference map and confirmed that the key conclusion remains explicitly provisional. The source leaflet poses the question but does not print a direct answer; the draft labels its answer as a synthesis for owner review.
+- No editorial decision has been made on the owner's behalf. This remains the highest-priority doctrinal decision in the manuscript.
+
+### Chapter 9 — Oneness and glory
+- Re-read the chapter's progression through John 17:20–23. The current draft keeps the prayer's “as,” indwelling, glory, sending, and stated purpose visible and labels the full design/representation chain as synthesis.
+- The forward transition to 2 Corinthians 4:1–6 is retained because it is a book-structure transition, not a course-sequence instruction.
+
+### Chapter 10 — Image, face, and Book I conclusion
+- Corrected a stale status statement that said nine drafts formed the sequence; it now accurately describes ten coordinated working chapters and keeps the architecture provisional.
+- Reconfirmed that the conclusion must hold Christ's accomplishment and representation together, establish the *hypostasis* foundation in Book I, and hand forward the distinct evidence inquiry of Book II without suggesting that unresolved owner decisions are settled.
+
+**Status:** Chapters 7–10 have received targeted review and selected corrections. The next step is a book-wide consistency and transition pass, followed by Scripture quotation proofing and owner review of open doctrinal decisions.
