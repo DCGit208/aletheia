@@ -4,7 +4,7 @@
 **Book I:** *The Doctrine of Faith*  
 **Book II:** *Faith Is Evidence*  
 **Repository:** `DCGit208/aletheia`  
-**Control status:** The original nine chapter drafts exist as preserved working material. On 2026-10-18, the owner clarified that Hebrews 11:1 and hypostasis are foundational to Book I, not material to defer to Book II. The nine-chapter sequence is therefore not validated as the final architecture. The governing reconstruction is documented in 94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md and the revised proposal in 95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md. Do not begin wholesale chapter rewrites until the foundation-first architecture has been checked against the source and Scripture dependencies.
+**Control status:** The original nine chapter drafts exist as preserved working material. On 2026-10-18, the owner clarified that Hebrews 11:1 and hypostasis are foundational to Book I, not material to defer to Book II. The nine-chapter sequence is therefore not validated as the final architecture. The governing reconstruction is documented in 94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md and the revised proposal in 95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md. The foundation-first architecture has been mapped against the source and Scripture dependencies, and coordinated working drafts now exist for Chapters 1–10. Continue substantive revision and audit in this order; do not mistake working drafts for final doctrinal approval.
 
 ---
 
@@ -139,7 +139,7 @@ The original nine-chapter proposal retained the first seven existing chapter fun
 ### Architecture rules
 
 - The full chapter-purpose map, section-by-section movement plan, owner-note placement, and review checklist are recorded in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md`.
-- The original nine-chapter structure is superseded as a final architecture candidate; its drafts remain preserved working material.
+- The original nine-chapter structure is superseded as a final architecture candidate; its drafts remain preserved working material. The ten coordinated working manuscripts are listed in document 95.
 - Do not draft canonical chapters as if this proposal were approved.
 - Preserve all existing app prose; the proposal maps content and does not authorize overwriting or deleting it.
 - Integrate owner notes where they deepen the relevant argument. Do not add chapters merely to hold new notes.
@@ -254,7 +254,7 @@ Current control/reference files:
 - `91_SOURCE_AND_SCRIPTURE_COVERAGE_AUDIT.md` — initial Gate A source and Scripture coverage audit.
 - `92_CHANGELOG.md` — concise record of architecture and owner-approved changes.
 
-**Proposed canonical chapter files** (create after the owner approves or corrects the architecture):
+**Foundation-first working chapter files** (active drafts; not final doctrinal approval):
 
 - `01_CHAPTER_01_PISTIS_CREDENCE_THAT_DEFINES_SONS.md`
 - `02_CHAPTER_02_ELOHIM_IMAGE_LIKENESS_AND_DESIGN.md`
@@ -266,7 +266,7 @@ Current control/reference files:
 - `08_CHAPTER_08_ONENESS_AND_GLORY_JOHN_17.md`
 - `09_CHAPTER_09_IMAGE_IN_THE_FACE_OF_JESUS_CHRIST.md`
 
-Do not create empty chapter files merely to populate the directory. After architecture approval, create each canonical chapter from the preserved existing prose and source audit, one chapter at a time. The app companion remains intact as an existing publishing surface; canonical manuscript drafting must not overwrite it.
+Do not create empty chapter files merely to populate the directory. The foundation-first working manuscripts are being created from the preserved existing prose and source audit. Continue coordinated revision one chapter at a time. The app companion remains intact as an existing publishing surface; manuscript drafting must not overwrite it.
 
 ## 10. Drafting workflow and approval gates
 
@@ -412,7 +412,7 @@ The audit reviewed the eight existing entries in `src/lib/content/companion-fait
 - [x] Canonical Markdown working drafts created for Chapters 1–9; chapter-level review and book-level audit remain open.
 - [ ] Book-level doctrinal and source-fidelity audit completed.
 
-**Current controlled step:** Gate C/D — review the completed nine-chapter working manuscript against the source, Scripture matrix, glossary, owner notes, and unresolved decisions. Do not treat completion of drafts as final doctrinal or publication approval.
+**Current controlled step:** Continue coordinated revision and review of the ten foundation-first working manuscripts against the source, Scripture matrix, glossary, owner notes, and unresolved decisions. Do not treat completion of drafts as final doctrinal or publication approval.
 
 
 ## 15. Gate B architecture proposal — 2026-10-18
@@ -467,7 +467,7 @@ Canonical Markdown working drafts now exist for all nine Book I chapters:
 
 Chapter 7 explicitly develops the inference chain behind the leaflet's question, while leaving the exact doctrinal answer open for owner review. Chapters 8 and 9 separate the John 17 oneness/glory movement from the 2 Corinthians 4 image/light/face movement. Chapter 9 gathers the first-pass Book I argument. Its former boundary statement postponing Hebrews 11:1 / *hypostasis* to Book II is superseded by the foundation-first correction.
 
-**Current status:** All nine chapter drafts exist. The source/Scripture coverage audit, owner review of major doctrinal synthesis (especially Hebrews 1:8), lexical decisions, and final book-level review remain open. Existing src/lib/content/companion-faith.ts has not been overwritten or deleted.
+**Historical status:** The original nine first-pass chapter drafts exist and are preserved. Ten foundation-first coordinated working manuscripts have now been created from those drafts and the new foundation chapter. Source/Scripture coverage audit, owner review of major doctrinal synthesis (especially Hebrews 1:8), lexical decisions, and final book-level review remain open. Existing src/lib/content/companion-faith.ts has not been overwritten or deleted.
 
 
 ### First-draft source-fidelity review — 2026-10-18
