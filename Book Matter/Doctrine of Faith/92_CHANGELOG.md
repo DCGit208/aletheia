@@ -137,3 +137,11 @@
 - Reviewed Chapter 2 and confirmed that its current text distinguishes the leaflet's explicit pistis / state / Sonship teaching from the owner's synthesis involving Hebrews 11:1, Hebrews 11:2, 5–6, and Matthew 3:17.
 - Updated 93_FIRST_DRAFT_SOURCE_FIDELITY_REVIEW.md with the work completed, remaining tasks, and status boundaries.
 - This is a substantive revision pass, not final doctrinal approval or publication readiness. Hebrews 1:8 and other owner decisions remain open.
+
+
+## 2026-10-21 — Substantive revision pass: Chapters 4–6
+
+- Chapter 4: removed inherited course numbering and the “Course 1” reference; clarified how John 10:35's statement about Scripture's authority functions within Jesus' argument and why Psalm 82:6–7 must be read together.
+- Chapter 5: replaced a course-bound knowledge definition reference with the source glossary's formulation; corrected the Greek cross-reference in 2 Peter 1:5 from *spoudazō* to *spoudē* and removed the structurally misplaced Chapter 1 reference; preserved 2 Peter 1:2–8 and the source/synthesis distinction around “back on course.”
+- Chapter 6: removed inherited course-section numbering from the main heading and retained the distinction between the Aletheia source's “deviation from true nature” gloss and the broader design/restoration synthesis.
+- Updated `93_FIRST_DRAFT_SOURCE_FIDELITY_REVIEW.md`. Scripture quotation proofing and review of later chapters remain open.
