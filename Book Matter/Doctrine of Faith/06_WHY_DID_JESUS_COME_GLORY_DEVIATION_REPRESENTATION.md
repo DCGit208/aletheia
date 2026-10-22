@@ -42,6 +42,10 @@ God set forth Christ to be a propitiation through faith in His blood. The declar
 
 This is the textual movement to preserve: the righteousness of God is manifested; all have sinned and come short of the glory; justification is given freely through redemption in Christ Jesus; and Christ is set forth in relation to propitiation and the declaration of God's righteousness.
 
+The question “Why did Jesus come?” must therefore keep both the human condition and God's action in view. The text does not describe justification as a human achievement; it says it is freely by grace through redemption in Christ Jesus. It also does not permit the explanation to stop at a generalized statement that Jesus came to forgive: Romans 3:21–26 speaks of God's righteousness being manifested and declared, Christ's blood, propitiation, and God being just and the justifier.
+
+The Aletheia source interprets “come short of the glory” as deviation from true nature and links this to the creation image and glory language. That reading gives the chapter its design/restoration direction. It remains important to distinguish it from the direct wording of Romans 3:23: “come short of the glory of God.” The text states the condition; the source supplies the interpretive connection to true nature; the wider thesis that Christ represents and restores humanity's intended design is a synthesis developed across Genesis, Romans, 1 Corinthians, 2 Corinthians, Hebrews, and John.
+
 ### Redemption in the wider Scripture cluster
 
 The owner's additional Scripture cluster includes Ephesians 1:7 and Colossians 1:13–14. These passages extend the redemption inquiry beyond the compressed leaflet's direct quotation of Romans 3:23–24.
