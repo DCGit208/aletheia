@@ -46,7 +46,13 @@ The Scripture set is Psalm 82:6 read with Psalm 82:7 and with John 10:34–35. J
 
 The chapter's claim must therefore be reasoned from the passages as presented. Psalm 82:6 cannot be reduced to an isolated slogan, and Psalm 82:7 cannot be used to pretend verse 6 was never spoken. Jesus' appeal in John 10 must be read in the exchange in which it occurs, including the accusation, the quotation, the statement that Scripture cannot be broken, and the appeal to the works that show the Father is in Him and He in the Father.
 
-This chapter connects to the wider design and sonship argument, but Psalm 82:6 alone is not made to carry every conclusion about divine nature or present identity. The wider thesis must be developed through the whole Scripture architecture.
+### What Jesus' appeal establishes—and what remains to be argued
+
+Jesus uses Psalm 82:6 in answer to the charge of blasphemy. His argument explicitly appeals to the written Scripture, calls it unbreakable, and contrasts the quoted designation given to those “unto whom the word of God came” with the accusation directed at the One whom the Father sanctified and sent into the world. He then appeals to the works of the Father and to the mutual indwelling language: the Father is in Him and He in the Father.
+
+The passage therefore does not permit the reader to dismiss “Ye are gods” as though Jesus had not invoked it. But neither does the brief quotation, by itself, explain every question about the original referents of “gods” in Psalm 82 or state the whole doctrine of humanity's design. The psalm's own rebuke and judgment remain part of the evidence. The chapter must show how the source reads these texts together rather than importing an unspoken answer to every interpretive question.
+
+The owner's broader design thesis is developed through the full Scripture set: Genesis 1:26–28 supplies image and likeness; Psalm 82 and John 10 supply the “gods” statement and Jesus' use of it; 2 Peter 1:4 speaks of partaking of divine nature; and John 17 later develops oneness and indwelling. This is a cumulative synthesis. No one of these passages should be made to do the work of all the others.
 
 ## Study and argument exercise
 
