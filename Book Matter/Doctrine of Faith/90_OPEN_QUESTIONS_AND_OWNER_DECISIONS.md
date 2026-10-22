@@ -71,11 +71,13 @@
 **Status:** Open.
 
 ### C2. Mark 11:22
-**Question:** Should this passage appear in Book I, and if so, how should its translation/Greek construction be handled?
+**Question:** How does Mark 11:22 (“Have faith in God”) function in the foundation-first argument, and how should its Greek construction and the owner's reading “the faith/state of God” be handled?
 
-**Constraint:** Do not assert “God's faith” as a grammatical conclusion without evidence.
+**Working placement:** Chapter 1 introduces Mark 11:22 as a bridge from *hypostasis* / substance to faith as underlying state. Chapter 3 develops the passage alongside Genesis 1:26–28, while preserving Mark 11:20–25's context. Chapter 2's *pistis* / state-of-children argument supplies an important conceptual connection.
 
-**Status:** Passage integrated into Chapter 2 with Mark 11:20–25 context. The Greek/translation issue and the owner's intended doctrinal conclusion remain open.
+**Constraint:** The Greek phrase is *pistin theou*. The genitive construction can be rendered formally “faith of God,” but that alone does not prove that “state of God” is its literal lexical meaning or settle the relationship intended. Preserve the owner's doctrinal reading as the thesis to be argued; do not dismiss it or falsely present it as an uncontested grammatical fact.
+
+**Status:** Passage integrated into Chapters 1 and 3. The Greek/translation issue and the precise doctrinal conclusion remain open for careful study.
 
 ### C3. Matthew 5:48
 **Question:** Should this passage appear in Book I as part of the design/nature argument, or be reserved for another treatment?
