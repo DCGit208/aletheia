@@ -365,3 +365,11 @@ The existing nine first-pass drafts remain preserved. The new files carry forwar
 - The existing `src/lib/content/companion-faith.ts` remains unchanged. Its known SHA remains `cec92de13c9565f9ba249c9b4c6f9c2dcc30916c`.
 
 **Next work:** Continue a line-by-line argument and quotation audit, verify specialist lexical references and editions, and leave all open doctrinal decisions with the owner. This file records progress, not final approval.
+
+
+## 2026-10-22 — Mark 11:22 integrated as a foundation-to-design hinge
+
+- Chapter 1 now identifies Mark 11:22 as a bridge between the *hypostasis* / substance foundation and the Aletheia teaching about *pistis* as the state of God's children.
+- Chapter 3's Mark 11:20–25 section now develops the owner's question about “faith in God,” “faith of God,” and “the state of God” in relation to Genesis 1:26–28. It preserves the immediate context of the fig tree, speech, the heart, prayer, and forgiveness.
+- The manuscript distinguishes the Greek phrase *pistin theou* and its genitive construction from the owner's doctrinal interpretation “the state of God.” The owner's thesis is neither dismissed nor presented as an uncontested literal translation; it is identified as a cumulative doctrinal argument requiring demonstration.
+- Updated the owner-decision register and dependency matrix. The precise Greek/translation conclusion remains open for further lexical and contextual review.
