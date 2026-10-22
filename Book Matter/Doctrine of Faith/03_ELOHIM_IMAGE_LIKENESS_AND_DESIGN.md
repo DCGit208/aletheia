@@ -22,11 +22,11 @@ The source's preceding argument states that acceptance or approval is grounded i
 
 Genesis 1:26 — “And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.”
 
-God, in the Hebrew of this verse, is ’ĕlōhîm. This teaching reads ’ĕlōhîm as plural: Trinity. That is the source's stated theological interpretation and must be represented faithfully. The present argument should not pretend that the noun's grammatical form, by itself, completes the case for the Trinity; the source's reading is developed together with “Let us make” and “our image” and with its wider Scripture set. “Let us make” is not a committee of angels inventing a lesser thing. God speaks as God. The “us” and the “our” are read here as the speech of God concerning God. Man is made in that image, after that likeness.
+God, in the Hebrew of this verse, is ’ĕlōhîm. The Aletheia leaflet interprets ’ĕlōhîm as plural: Trinity. That is the source's stated theological interpretation and must be represented faithfully. The argument should not pretend that the noun's grammatical form, by itself, completes the case for the Trinity; the source's reading is developed together with “Let us make,” “our image,” and the wider Scripture set.
 
-Do not send the plurality to a courtroom of created beings. The Maker is speaking. The thing made is man.
+The source's reading takes “Let us make” and “our image” as God's own speech concerning God's creative act, rather than as a committee of created beings designing a lesser thing. That is the theological inference the teaching advances; it should be shown as the source's interpretation and then reasoned from the surrounding text, not presented as a grammatical fact established by the noun alone. The thing made is humanity, described in the verse as made in God's image and after His likeness.
 
-Image. Likeness. Dominion. Those are not ornaments. They are the design. Man is who he is by how he was designed and by Who designed him.
+Image. Likeness. Dominion. Those are the explicit terms and commission in Genesis 1:26–28. The further statement that humanity's identity is determined by its design and by the One who designed it is the chapter's synthesis of those terms.
 
 Genesis 1:27 — “So God created man in his own image, in the image of God created he him; male and female created he them.”
 
