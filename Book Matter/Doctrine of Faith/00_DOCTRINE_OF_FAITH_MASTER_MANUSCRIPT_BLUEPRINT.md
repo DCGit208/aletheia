@@ -187,7 +187,7 @@ The following coverage is required for Book I, based on the existing course-comp
 - 2 Peter 1:3–4 — partakers of the divine nature.
 - Romans 3:23–24 — sin, coming short of glory, justification freely by grace, redemption in Christ.
 - *Dikaioō* and *dikaiosynē* according to the source's usage and the owner-approved formulations.
-- *Apolytrōsis* — redemption / ransom in full according to the source's word study.
+- *Apolutrōsis* — redemption / ransom in full according to the source's word study.
 - 2 Corinthians 5:21.
 - Hebrews 1:8 and the source's question, “What does that make you?”
 - Hebrews 1:2, where it serves the connected Son/heir argument.
@@ -479,7 +479,7 @@ Two concrete coverage improvements were made during this review:
 - Chapter 2 now includes Mark 11:22 in its surrounding fig-tree, mountain, prayer, and forgiveness context, and Matthew 5:48 in the surrounding teaching on love toward enemies. The owner’s design/nature reading remains synthesis, and the “faith in God” / “God’s faith” grammatical question remains open.
 - Chapter 5 now develops Ephesians 1:7 and Colossians 1:13–14 as part of the redemption cluster rather than merely listing them. The wider restoration/design connection is labeled synthesis.
 
-Chapter 1's inference from Ephesians 1:3–5 and Chapter 2's interpretive development of John 14:12 have also been clarified. The highest-priority unresolved owner decision remains the precise answer to the leaflet's Hebrews 1:8 question. The next controlled step is owner review of that inference, followed by lexical and cumulative thesis review—not publication finalization.
+Chapter 1's inference from Ephesians 1:3–5 and Chapter 2's interpretive development of John 14:12 were clarified in the earlier review. The current controlled work is the continuous-book argument and source-fidelity pass. The highest-priority unresolved owner decision remains the precise answer to the leaflet's Hebrews 1:8 question, alongside lexical and cumulative-thesis review; none of these open items is treated as final publication approval.
 
 
 ## 10. Architecture correction — *hypostasis* is foundational to Book I
