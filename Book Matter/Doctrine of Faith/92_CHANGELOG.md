@@ -235,3 +235,5 @@
 ## 2026-10-22 — Book I conclusion calibrated
 
 - Chapter 10 now states that Book I has placed Hebrews 11:1 and hypostasis at the foundation and developed the underlying-state thesis, while keeping the lexical and contextual argument open for continued proofing. This avoids implying that the full argument has already passed final review.
+
+- Updated the source-fidelity review header to distinguish the original nine-draft cross-check from the ongoing review of the ten coordinated foundation-first manuscripts and to reflect the current revision date and status.
