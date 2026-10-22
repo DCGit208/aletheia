@@ -237,3 +237,11 @@
 - Chapter 10 now states that Book I has placed Hebrews 11:1 and hypostasis at the foundation and developed the underlying-state thesis, while keeping the lexical and contextual argument open for continued proofing. This avoids implying that the full argument has already passed final review.
 
 - Updated the source-fidelity review header to distinguish the original nine-draft cross-check from the ongoing review of the ten coordinated foundation-first manuscripts and to reflect the current revision date and status.
+
+
+## 2026-10-22 — Mark 11:22 integrated as a foundation-to-design hinge
+
+- Chapter 1 now identifies Mark 11:22 as a bridge between *hypostasis* / substance and the Aletheia source's *pistis* / state-of-children teaching.
+- Chapter 3 now develops Mark 11:20–25 in relation to Genesis 1:26–28 and the owner's thesis that faith involves operating from God's state/nature in humanity's design. The immediate passage context remains intact.
+- Clarified that *pistin theou* is a Greek genitive construction: “faith of God” is a formal rendering, while “the state of God” is the owner's doctrinal interpretation to be argued through the wider Scripture cluster, not asserted as an uncontested literal translation.
+- Updated the open-question register, dependency matrix, source audit, and source-fidelity review. The precise translation/Greek conclusion remains open; no final doctrinal approval is implied.
