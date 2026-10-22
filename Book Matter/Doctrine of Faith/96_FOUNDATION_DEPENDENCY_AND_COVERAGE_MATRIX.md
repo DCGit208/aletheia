@@ -96,9 +96,9 @@ Before substantive chapter rewrites, the reviewer must answer these questions in
 9. **Oneness/present reality:** How do John 17:20–23 and 1 John 4:17 contribute without being reduced to slogans or detached from context?
 10. **Series boundary:** What must Book I establish so that Book II can examine evidence without repeating or repairing the foundation?
 
-## 6. Quality gates
+## 6. Quality gates for continuing revision
 
-The architecture is ready for substantive rewrites only when:
+The following gates govern the active substantive revision and must be rechecked before publication approval:
 
 - every source-map item has a primary chapter and necessary cross-links;
 - every owner note has a substantive home, not just a mention;
@@ -109,7 +109,7 @@ The architecture is ready for substantive rewrites only when:
 - the unresolved Hebrews 1:8 conclusion and lexical formulations remain visible for owner review;
 - the companion app content and all first-pass drafts remain preserved.
 
-**Current conclusion:** The foundation-first direction is now documented and the main source/owner content has been mapped to a proposed sequence. The next phase is not generic prose polishing. It is validating these dependencies, then revising the chapter briefs and manuscripts in a coordinated order.
+**Current conclusion:** The foundation-first direction is implemented in ten coordinated working manuscripts. The present phase is substantive argument and source-fidelity revision, not merely generic prose polishing. The quality gates remain active and must be checked against the revised prose as well as the original source maps.
 
 
 ## 7. First-pass draft dependency findings
@@ -118,15 +118,15 @@ The current drafts were checked by chapter headings, major argument passages, an
 
 | Existing draft | Finding | Consequence for the revised manuscript |
 |---|---|---|
-| Chapter 1 — *Pistis: Credence That Defines Sons* | Contains the strongest source-faithful account of Hebrews 6:1, *pistis* / credence, state, sonship, adoption, and the Hebrews 11:2,5–6 / Matthew 3:17 inquiry. | Preserve as principal material for revised Chapter 2. Its former Book II boundary statement has been corrected. Assess whether the pleasing-God/Sonship inquiry deserves its own chapter or a substantial section in Chapter 2. |
-| Chapter 2 — *Elohim: Image, Likeness, and Design* | Contains Genesis 1:26–28, the source's stated *'ĕlōhîm* interpretation, the representation thesis, and contextual treatments of Mark 11:22 and Matthew 5:43–48. | Preserve as principal material for revised Chapter 3. Decide whether some faith/pleasing-God material should be cross-referenced to proposed Chapter 6 rather than repeated. |
+| Chapter 1 — *Pistis: Credence That Defines Sons* | Contains the strongest source-faithful account of Hebrews 6:1, *pistis* / credence, state, sonship, adoption, and the Hebrews 11:2,5–6 / Matthew 3:17 inquiry. | Preserved principally in current Chapter 2. The former Book II boundary statement is corrected; the Hebrews 11:2, 5–6 / Matthew 3:17 inquiry is integrated as a substantial section rather than a separate chapter. |
+| Chapter 2 — *Elohim: Image, Likeness, and Design* | Contains Genesis 1:26–28, the source's stated *'ĕlōhîm* interpretation, the representation thesis, and contextual treatments of Mark 11:22 and Matthew 5:43–48. | Preserved principally in current Chapter 3. Mark 11:22 and Matthew 5:43–48 remain context-sensitive owner inquiries; cross-references should be used rather than duplicating the faith/Sonship argument. |
 | Chapter 3 — *Psalm 82 with John 10* | Focused treatment of Psalm 82's judgment setting and Jesus' appeal to Scripture in John 10. | Preserve as principal material for revised Chapter 4; maintain Psalm 82:6–7 together. |
-| Chapter 4 — *True Nature: Partakers of the Divine Nature* | Develops 2 Peter 1:2–8 and “back on course” as conceptual language. | Preserve as proposed Chapter 5; deepen its explicit connection to the foundational state/nature argument rather than merely adding a reference to *hypostasis*. |
-| Chapter 5 — *Why Did Jesus Come?* | Combines coming short of glory, image/glory, Christ's work, redemption, and representation. | Preserve but divide its argumentative work between proposed Chapter 7 (glory, deviation, Christ's person/representation) and Chapter 8 (redemption, justification, righteousness) if the prose dependencies confirm the split. |
-| Chapter 6 — *Dikaioo: Justified Freely; Righteousness in Christ* | Integrates the source's two connected movements: free justification and present righteousness in Christ. | Preserve as proposed Chapter 8; maintain separate source and owner lexical formulations and explicit “in Him” language. |
-| Chapter 7 — *Hebrews 1:8 and the Heir* | Makes the inference chain visible but the final doctrinal answer remains provisional. | Preserve as proposed Chapter 9. The architecture correction does not resolve the owner's Hebrews 1:8 decision. |
-| Chapter 8 — *Oneness and Glory: John 17* | Tracks the prayer's “as,” indwelling, glory, sending, and purpose. | Preserve as proposed Chapter 10; develop its relation to the state/substance foundation through explicit cross-links, not slogans. |
-| Chapter 9 — *The Image in the Face of Jesus Christ* | Provides a useful cumulative treatment of 2 Corinthians 4:1–6 and Christ's accomplishment/representation, but the first draft had deferred the substance foundation to Book II. | Preserve as proposed Chapter 11. The boundary contradiction has been corrected; its nine-chapter summary is a record of the first pass, not the final architecture. Rebuild its conclusion only after the foundation chapter and intervening chapters have been revised. |
+| Chapter 4 — *True Nature: Partakers of the Divine Nature* | Develops 2 Peter 1:2–8 and “back on course” as conceptual language. | Preserved as current Chapter 5. The current revision explicitly explains the Genesis-to-2 Peter connection as cross-passage synthesis. |
+| Chapter 5 — *Why Did Jesus Come?* | Combines coming short of glory, image/glory, Christ's work, redemption, and representation. | Its argument is now separated across current Chapter 6 (why Christ came, glory, deviation, representation) and Chapter 7 (redemption, free justification, righteousness). The current sequence should be evaluated as a continuous argument, not re-merged merely to match the old draft. |
+| Chapter 6 — *Dikaioo: Justified Freely; Righteousness in Christ* | Integrates the source's two connected movements: free justification and present righteousness in Christ. | Preserved as current Chapter 7. The source's lexical glosses and the owner's additional formulations remain separate, and “in Him” is retained. |
+| Chapter 7 — *Hebrews 1:8 and the Heir* | Makes the inference chain visible but the final doctrinal answer remains provisional. | Preserved as current Chapter 8. The inference is reasoned from the Scripture set but remains open for the owner's final doctrinal decision. |
+| Chapter 8 — *Oneness and Glory: John 17* | Tracks the prayer's “as,” indwelling, glory, sending, and purpose. | Preserved as current Chapter 9. The prayer's own language, context, glory, indwelling, and purpose are retained; links to the wider thesis are identified as synthesis. |
+| Chapter 9 — *The Image in the Face of Jesus Christ* | Provides a useful cumulative treatment of 2 Corinthians 4:1–6 and Christ's accomplishment/representation, but the first draft had deferred the substance foundation to Book II. | Preserved as current Chapter 10. The conclusion now follows the foundation-first sequence and hands forward the evidence inquiry to Book II without postponing the *hypostasis* foundation. |
 
 ### Structural consequence
 
