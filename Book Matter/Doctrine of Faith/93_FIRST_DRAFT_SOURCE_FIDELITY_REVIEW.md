@@ -269,3 +269,10 @@ The following inferential distinctions were strengthened in the current working 
 - **Chapter 7 / lexical cluster:** *Dikaioō*, *dikaiosynē*, and *apolutrōsis* are treated as related but distinct terms. Source glosses and owner formulations remain separate, with their relation explained rather than silently merged.
 
 This is a substantive argument pass, not a final doctrinal adjudication. The manuscript must continue to distinguish direct source teaching, direct Scripture wording and context, cross-passage synthesis, and the owner's developing formulations.
+
+
+## 2026-10-22 — Mark 11:22 placement and interpretive boundary
+
+- The Mark 11:22 inquiry is now integrated into Chapter 1 as a bridge from *hypostasis* / substance to underlying state and developed in Chapter 3 alongside Genesis 1:26–28. Chapter 2 supplies the source-based *pistis* / state-of-children connection.
+- Chapter 3 preserves Mark 11:20–25's sequence: the withered fig tree, faith, speech and the heart, prayer, and forgiveness.
+- The phrase *pistin theou* is identified as a genitive construction. “Faith of God” is noted as a formal rendering, while “the state of God” is retained as the owner's doctrinal interpretation rather than asserted as the phrase's uncontested literal lexical meaning. The argument remains open for further lexical study and owner review.
