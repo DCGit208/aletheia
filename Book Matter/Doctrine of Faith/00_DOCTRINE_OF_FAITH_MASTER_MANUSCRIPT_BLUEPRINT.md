@@ -118,32 +118,32 @@ Write substantive chapters in canonical Markdown under a dedicated Book I manusc
 
 ---
 
-## 5. Proposed reader-facing chapter architecture
+## 5. Current reader-facing chapter architecture — working manuscript sequence
 
-The first nine-chapter proposal is preserved in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md` as a historical record, but its boundary assumption that reserved the core *hypostasis* argument for Book II is superseded. The current nine chapter drafts are a first working arrangement, **not a validated final architecture**. The controlling reconstruction is in `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md`; the foundation-first working proposal is in `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md`; the detailed source-to-chapter dependency and coverage matrix is in `96_FOUNDATION_DEPENDENCY_AND_COVERAGE_MATRIX.md`.
+The original nine-chapter proposal is preserved in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md` as a historical record. Its boundary assumption that reserved the core *hypostasis* argument for Book II is superseded. Ten coordinated foundation-first working manuscripts now exist. This is the current sequence for substantive revision; it remains subject to owner review and is not a declaration of final publication approval.
 
-The original nine-chapter proposal retained the first seven existing chapter functions and separated John 17 from 2 Corinthians 4. That analysis remains useful for mapping source material, but it is not the current architecture decision. The revised proposal now tests a ten-chapter structure, integrating Hebrews 11:2, 5–6 and Matthew 3:17 into the *pistis* / Sonship chapter rather than creating a separate chapter that risks repeating the same argument. Chapter count remains provisional; the argument's dependencies, not the number ten, control.
-
-| ID | Proposed title | Required function | Main source/Scripture anchors | Status |
+| No. | Current working title | Required function | Main source / Scripture anchors | Status |
 |---|---|---|---|---|
-| DF-01 | **Πίστις (*pistis*): Credence That Defines Sons** | Establish *pistis* / credence, sonship, adoption, and heirship; examine state versus mood through the source and texts. | Hebrews 6:1; Galatians 4:1–7; Romans 8:14–17; Ephesians 1:3–5 | Existing app entry 1; proposed chapter |
-| DF-02 | **’Ĕlōhîm: Image, Likeness, and Design** | Establish Genesis 1:26–28 as the design foundation and preserve the source's treatment of *’ĕlōhîm*. | Genesis 1:26–28; John 14:12; Psalm 82:6; Romans 8:17; 1 John 4:17 | Existing app entry 2; proposed chapter |
-| DF-03 | **Psalm 82 with John 10** | Read Psalm 82 with its judgment context and Jesus' argument in John 10. | Psalm 82:1–8; John 10:30–39 | Existing app entry 3; proposed chapter |
-| DF-04 | **True Nature: Partakers of the Divine Nature** | Develop 2 Peter 1:3–8 and distinguish source wording from wider synthesis about design and restoration. | 2 Peter 1:2–8; Genesis 1:26–28; Psalm 82:5 | Existing app entry 4; proposed chapter |
-| DF-05 | **Why Did Jesus Come? Glory, Deviation, and Representation** | Develop coming short of glory, Christ's work, and what Christ represents. | Romans 3:21–26; 1 Corinthians 11:7; Hebrews 1:2; Ephesians 1:7; Colossians 1:14 | Existing app entry 5; proposed chapter |
-| DF-06 | **Δικαιόω (*dikaioō*): Justified Freely; Righteousness in Christ** | Integrate free justification, *dikaioō*, *dikaiosynē*, *apolutrōsis*, and present righteousness in Christ. | Romans 3:23–28; 2 Corinthians 5:17–21; Ephesians 1:7; Colossians 1:14 | Existing app entry 6, sections VI–VII; proposed chapter |
-| DF-07 | **Hebrews 1:8 and the Heir** | Reason through the source's Hebrews 1:8 question and the related questions of heirship. | Hebrews 1:1–8; Galatians 4:1–7; Romans 8:17; 2 Corinthians 5:21 | Existing app entry 7, sections VIII–IX; proposed chapter |
-| DF-08 | **Oneness and Glory: Liken John 17:20–23** | Answer the source's oneness question through the prayer's own sequence and language. | John 17:1, 18–23; Genesis 1:26–28; Romans 8:17; 1 John 4:17 | Existing app entry 8, section X; proposed chapter |
-| DF-09 | **The Image in the Face of Jesus Christ: Light and Knowledge** | Develop 2 Corinthians 4:1–6 and close Book I with a cumulative synthesis and controlled bridge to Book II. | 2 Corinthians 4:1–6; 2 Corinthians 5:21; John 17:20–23 | Existing app entry 8, sections XI–XIII; proposed chapter |
+| 1 | **Faith as Hypostasis: Substance, Underlying Reality, and the Foundation of the Doctrine** | Establish Hebrews 11:1 as Book I's foundation; examine *hypostasis* in context and relate the lexical question to the owner's underlying-state thesis without treating word study as proof by itself. | Hebrews 10:32–39; 11:1–13; 1:3; 3:14 | Working draft; lexical review remains open |
+| 2 | **Πίστις (*pistis*): Credence, the State of God's Children, and Sonship** | Preserve the leaflet's explicit *pistis* / credence / state-of-children teaching; develop adoption, Sonship, heirship, and the inquiry into pleasing God. | Hebrews 6:1; Galatians 4:4–7; Romans 8:14–17; Ephesians 1:3–5; Hebrews 11:2, 5–6; Matthew 3:17 | Working draft |
+| 3 | **’Ĕlōhîm: Image, Likeness, and Human Design** | Preserve the source's interpretation of *’ĕlōhîm* and develop Genesis' explicit image, likeness, blessing, fruitfulness, and dominion language alongside the owner's representation thesis. | Genesis 1:26–28; John 14:12; Psalm 82:6; Romans 8:17; 1 John 4:17; Matthew 5:43–48 | Working draft; source paraphrase attribution flagged |
+| 4 | **Psalm 82 with John 10: “Ye Are Gods” and the Judgment Context** | Read Psalm 82:6 with verses 1–8 and Jesus' argument in John 10 without erasing either the designation or the judgment context. | Psalm 82:1–8; John 10:30–39 | Working draft |
+| 5 | **True Nature: Partakers of the Divine Nature** | Develop 2 Peter 1:2–8, preserving promises, participation, escape from corruption, diligence, and fruitfulness; identify the link to Genesis as cross-passage synthesis. | 2 Peter 1:2–8; Genesis 1:26–28; Psalm 82:5; Romans 3:23–24 | Working draft |
+| 6 | **Why Did Jesus Come? Glory, Deviation, and Representation** | Develop the source's “come short of glory” interpretation while retaining the text's full movement through manifested righteousness, redemption, justification, propitiation, and Christ's work. | Romans 3:21–26; 1 Corinthians 11:7; Ephesians 1:7; Colossians 1:13–14 | Working draft |
+| 7 | **Δικαιόω (*dikaioō*): Redemption, Free Justification, and Righteousness in Christ** | Preserve the source's separate glosses for *dikaioō*, *dikaiosynē*, and *apolutrōsis* alongside the owner's additional formulations. | Romans 3:23–28; 2 Corinthians 5:17–21; Ephesians 1:7; Colossians 1:13–14 | Working draft; lexical formulations remain open |
+| 8 | **The Son, Hebrews 1:8, and the Heir** | Reason through the leaflet's unanswered Hebrews 1:8 question and its questions about heirship; keep the inference visible and open for the owner's final doctrinal decision. | Hebrews 1:1–8; Galatians 4:4–7; Romans 8:17; 2 Corinthians 5:21; Genesis 1:26–28; 1 John 4:17 | Working draft; owner decision required |
+| 9 | **Oneness and Glory: Liken John 17:20–23** | Read Jesus' prayer in its own sequence, preserving “as,” indwelling, glory given, sending, and the stated purpose. | John 17:1, 18–23; Genesis 1:26–28; Romans 3:23; 1 Corinthians 11:7; 2 Corinthians 5:21; 1 John 4:17 | Working draft |
+| 10 | **The Image in the Face of Jesus Christ: Glory, Knowledge, and Present Reality** | Close Book I cumulatively through 2 Corinthians 4:1–6, holding Christ's accomplishment and representation together and handing the evidence inquiry forward to Book II. | 2 Corinthians 4:1–6; 2 Corinthians 5:17–21; Hebrews 1:2–3; John 17:20–23 | Working draft; book-level review remains open |
 
 ### Architecture rules
 
-- The full chapter-purpose map, section-by-section movement plan, owner-note placement, and review checklist are recorded in `89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md`.
-- The original nine-chapter structure is superseded as a final architecture candidate; its drafts remain preserved working material. The ten coordinated working manuscripts are listed in document 95.
-- Do not draft canonical chapters as if this proposal were approved.
-- Preserve all existing app prose; the proposal maps content and does not authorize overwriting or deleting it.
+- The detailed source-to-chapter dependency and coverage matrix is in `96_FOUNDATION_DEPENDENCY_AND_COVERAGE_MATRIX.md`; the argument reconstruction is in `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md`; and the working architecture history is retained in `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md`.
+- The ten-chapter sequence is a current working arrangement, not a locked final architecture. Revise it if the full argument demonstrates a better dependency order; do not preserve ten chapters merely to preserve a number.
+- Substantive chapter revision is underway. Keep each chapter grounded in the source map, Scripture matrix, glossary, owner notes, and existing companion prose.
+- Preserve all existing app prose. The manuscripts are a separate canonical writing surface; do not overwrite or delete `src/lib/content/companion-faith.ts`.
 - Integrate owner notes where they deepen the relevant argument. Do not add chapters merely to hold new notes.
-- Establish Hebrews 11:1 / *hypostasis* / substance as a foundation in Book I. Book II, *Faith Is Evidence*, develops the evidence side from that foundation.
+- Establish Hebrews 11:1 / *hypostasis* / substance as the foundation in Book I. Book II, *Faith Is Evidence*, develops the evidence side from that foundation.
+- Throughout, distinguish explicit Aletheia source teaching, explicit Scripture wording and context, cross-passage synthesis, and the owner's developing doctrinal formulation.
 
 ## 6. Required integration of the additional owner notes
 
