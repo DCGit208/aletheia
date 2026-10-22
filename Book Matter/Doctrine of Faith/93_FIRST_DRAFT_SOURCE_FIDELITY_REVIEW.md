@@ -3,9 +3,9 @@
 # 93 — First-Draft Source-Fidelity Review
 
 **Book:** *The Doctrine of Faith* (Book I)  
-**Review date:** 2026-10-18  
-**Scope:** First cross-check of the nine canonical Markdown working drafts against the “Faith toward God” section on page 2 of *Aletheia Libraries 1* (2015), the repository's source map, Scripture matrix, glossary, distinctions, and owner-supplied Faith/Sonship/Design notes.  
-**Status:** Initial review completed. This report records verified coverage, corrections made during review, and items that remain open. It is not final doctrinal approval or a complete line-by-line proofread of every Scripture quotation.
+**Review date:** 2026-10-22  
+**Scope:** Initial cross-check of the nine first-pass drafts, followed by ongoing review of the ten coordinated foundation-first manuscripts, against the “Faith toward God” section on page 2 of *Aletheia Libraries 1* (2015), the repository's source map, Scripture matrix, glossary, distinctions, and owner-supplied Faith/Sonship/Design notes.  
+**Status:** Initial review completed; substantive follow-up revisions are ongoing. This report records source coverage, verified corrections, argument/transition improvements, and items that remain open. It is not final doctrinal approval or a complete line-by-line proofread of every Scripture quotation.
 
 ## 1. Review method
 
