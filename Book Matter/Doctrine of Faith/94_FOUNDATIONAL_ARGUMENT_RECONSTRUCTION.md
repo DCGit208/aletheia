@@ -182,9 +182,9 @@ Book I must establish why hypostasis is foundational to the doctrine and how tha
 
 ## 5. Architecture consequence
 
-The current nine chapters are not discarded. Their content becomes a bank of source-preserving material to be re-sequenced under a foundation-first architecture. A new first chapter on Hebrews 11:1 / hypostasis is necessary unless the full architecture review demonstrates a more coherent opening that still establishes this foundation at the outset. The current pistis chapter should then develop the Aletheia source's faith-as-state / sonship teaching in explicit relation to that foundation.
+The original nine chapters remain preserved as source-bearing material. Ten coordinated foundation-first working manuscripts now exist, beginning with Hebrews 11:1 / hypostasis and then developing the Aletheia source's faith-as-state / sonship teaching in explicit relation to that foundation. The current sequence is provisional and remains subject to source coverage, continuity, and owner review.
 
-The revised proposal is recorded separately in 95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md. No existing chapter prose should be mass-rewritten until the revised architecture and the owner-decision gates are sufficiently clear.
+The revised proposal is recorded in 95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md; the active manuscript set is listed there and in document 00. Substantive revision is underway. Open owner decisions—especially the Hebrews 1:8 inference—must remain open while the argument is improved; they are not a reason to pause all writing.
 
 ## 6. Research references consulted
 
