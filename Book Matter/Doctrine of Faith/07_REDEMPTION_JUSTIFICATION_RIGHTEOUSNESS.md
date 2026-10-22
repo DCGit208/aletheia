@@ -50,6 +50,16 @@ This is not presented as an aspiration visited on a good day. The source's inter
 
 The teaching therefore rejects postponing the statement of 2 Corinthians 5:21 as though it were a ladder that has not been completed. It also insists that the claim not be made by dropping the verse's words “in Him.” Both parts belong in the argument.
 
+### Keep the three terms distinct while showing their relationship
+
+The source's sequence brings three Greek terms into relation, but they should not be treated as interchangeable:
+
+- *Dikaioō* is the verb used in the source's question about being justified freely. The leaflet's printed gloss is “render just or innocent (free from evil or guilt).” The owner's additional formulation—“to render righteous or such as he ought to be”—is a separate proposal and remains open for deliberate lexical and doctrinal review.
+- *Dikaiosynē* is the related noun the source connects with righteousness/justification, equity, impartiality, and conformity with God's nature. “Original: back on course” is the source's interpretive formulation in this teaching; it should not be presented as a complete dictionary definition of the noun.
+- *Apolutrōsis* is the source's term for redemption, glossed as “ransom in full.” The owner's notes also use “riddance, ransom in full.” Preserve the source wording and the owner's expanded formulation as separate records until the intended relationship is decided.
+
+Romans 3:24 explicitly joins free justification with redemption in Christ Jesus. Second Corinthians 5:21 explicitly says believers are made the righteousness of God “in Him.” Those are the textual anchors. The source's broader claim that this means being brought “back on course” with God's nature is the interpretive synthesis connecting the terms and passages; it should be presented with the same force as the source, but with the reasoning visible.
+
 ## Charge of this chapter
 
 First answer: **Has man been justified?** Write “Yes, and freely,” then show Romans 3:24 and identify the Aletheia source's gloss for *apolutrōsis*. State what you will not add to the source's “ransom in full” formulation.
