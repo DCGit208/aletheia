@@ -22,7 +22,7 @@ Knowledge is again central. The source glossary describes knowledge as the menta
 
 2 Peter 1:4 — “Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.”
 
-Partakers of the divine nature. The promises are the means. Escape from the corruption that is in the world through lust is named in the same sentence. You are not being invited to invent another nature. You are being made partaker of the nature Genesis already named, having escaped the corruption.
+Partakers of the divine nature. The promises are the means. Escape from the corruption that is in the world through lust is named in the same sentence. The Aletheia teaching reads this promise in relation to the nature and design described in Genesis: not as an unrelated idea of nature, but as participation in divine nature understood through the source's creation-and-restoration argument. That connection is a cross-passage synthesis, developed in the next section; it is not a quotation from 2 Peter 1:4 that names Genesis directly.
 
 This teaching places this verse with man's true nature and with the glory he came short of through sin. The Aletheia source presents δικαιοσύνη (*dikaiosynē*) as equity: impartiality to and conformity with the nature of God — “original: back on course.”
 
