@@ -137,7 +137,7 @@ When resolved, update this file, the Master Manuscript Blueprint, the coverage a
 
 The original nine-chapter first-pass drafts remain preserved. Ten foundation-first coordinated working manuscripts now exist, including the new hypostasis foundation chapter. This is active manuscript development, not final doctrinal approval. The source/Scripture categories remain distinct, and the existing app companion is preserved.
 
-**Next review priority:** First validate the foundation-first architecture and the relationship among Hebrews 11:1, hypostasis, the owner's underlying-nature/state thesis, and the leaflet's explicit pistis/sonship teaching. The reconstruction and revised proposal are recorded in documents 94 and 95. After that sequence is established, return to B1 (Hebrews 1:8), whose final doctrinal formulation remains the owner's decision, alongside the lexical formulations and the scope of the design/representation thesis.
+**Current review priority:** Continue the continuous-book audit of the ten working manuscripts: test the foundation-to-state argument, transitions, source coverage, and the distinction among direct Scripture wording, explicit leaflet teaching, cross-passage synthesis, and owner formulation. The initial foundation-first sequence is implemented but remains provisional. In parallel, preserve B1 (Hebrews 1:8) as an open owner decision; do not resolve it by assumption. Lexical formulations and the scope of the design/representation thesis also remain under review.
 
 
 ### A4. Relationship between Hebrews 11:1 / hypostasis and the leaflet's pistis / state teaching
