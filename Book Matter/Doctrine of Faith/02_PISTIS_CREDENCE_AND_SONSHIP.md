@@ -53,7 +53,7 @@ The order of the passage must be preserved.
 5. “Because ye are sons,” God sends the Spirit of His Son into their hearts, crying, “Abba, Father.”
 6. The conclusion is explicit: no longer a servant, but a son; and if a son, an heir of God through Christ.
 
-The phrase “because ye are sons” matters. The passage does not describe the Spirit's cry as inventing a son where there was none. The cry is presented in relation to Sonship. The verse's sequence therefore supports the source's insistence that the believer's state must be understood through the names and relations the text actually gives.
+The phrase “because ye are sons” matters. The passage places the Spirit's cry in relation to Sonship; it does not present the cry as the event that first creates the relationship. The conclusion that the believer's state must be understood through the names and relations the text gives is an inference from that sequence and accords with the Aletheia source's explicit state-of-children teaching.
 
 The passage also holds redemption and adoption together. It does not permit us to speak of adoption while omitting the Son's coming and redemptive work; neither does it permit us to discuss redemption while ignoring the stated purpose of adoption. Chapter 7 will examine redemption and righteousness more fully. Here, the task is to understand the place of Sonship in the source's account of faith.
 
