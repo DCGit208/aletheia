@@ -70,20 +70,20 @@ The proposed chapter numbers below refer to the ten-chapter working proposal in 
 
 | First-pass draft | Proposed disposition |
 |---|---|
-| 01 — *Pistis: Credence That Defines Sons* | Preserve; re-sequence as proposed Chapter 2 and add an explicit, reasoned relation to Chapter 1. Its old statement that *hypostasis* belongs principally to Book II has been corrected. |
-| 02 — *Elohim: Image, Likeness, and Design* | Preserve as principal material for proposed Chapter 3; assess whether the Mark 11 / Matthew 5 cluster belongs here, in proposed Chapter 6, or in both by controlled cross-reference. |
-| 03 — *Psalm 82 with John 10* | Preserve as principal material for proposed Chapter 4. |
-| 04 — *True Nature: Partakers of the Divine Nature* | Preserve as principal material for proposed Chapter 5. |
-| 05 — *Why Did Jesus Come? Glory, Deviation, and Representation* | Preserve as principal material for proposed Chapter 7; cross-link the redemption and justification argument in Chapter 8. |
-| 06 — *Dikaioo: Justified Freely; Righteousness in Christ* | Preserve as principal material for proposed Chapter 8. |
-| 07 — *Hebrews 1:8 and the Heir* | Preserve as principal material for proposed Chapter 9; retain the owner decision on the final inference. |
-| 08 — *Oneness and Glory: John 17* | Preserve as principal material for proposed Chapter 10. |
-| 09 — *The Image in the Face of Jesus Christ* | Preserve as principal material for proposed Chapter 11; its old boundary statement deferring *hypostasis* to Book II has been corrected. |
-| New foundation chapter | Draft only after the current lexical/contextual study and architecture gate are sufficiently complete. Draw from Heb 11:1, Heb 1:3, Heb 3:14, Heb 10:32–39, Heb 11:1–6, and the owner thesis; do not fabricate an Aletheia leaflet quotation. |
+| 01 — *Pistis: Credence That Defines Sons* | Preserved and integrated into current Chapter 2, with explicit relation to the new Chapter 1 foundation. |
+| 02 — *Elohim: Image, Likeness, and Design* | Preserved as principal material in current Chapter 3. Mark 11:22 and Matthew 5:43–48 remain context-sensitive owner inquiries and should be cross-referenced where necessary, not duplicated without purpose. |
+| 03 — *Psalm 82 with John 10* | Preserved as principal material in current Chapter 4. |
+| 04 — *True Nature: Partakers of the Divine Nature* | Preserved as principal material in current Chapter 5; the Genesis-to-2 Peter relationship is now explained as cross-passage synthesis. |
+| 05 — *Why Did Jesus Come? Glory, Deviation, and Representation* | Its argument is now divided between current Chapter 6 (why Christ came, glory, deviation, representation) and Chapter 7 (redemption, free justification, righteousness). |
+| 06 — *Dikaioo: Justified Freely; Righteousness in Christ* | Preserved as principal material in current Chapter 7, retaining separate source and owner formulations. |
+| 07 — *Hebrews 1:8 and the Heir* | Preserved as principal material in current Chapter 8; retain the owner's decision on the final inference. |
+| 08 — *Oneness and Glory: John 17* | Preserved as principal material in current Chapter 9. |
+| 09 — *The Image in the Face of Jesus Christ* | Preserved as principal material in current Chapter 10; its conclusion now follows the foundation-first sequence and hands forward the evidence inquiry. |
+| New foundation chapter | Created as current Chapter 1 and substantively expanded with Hebrews 11 context and initial lexical references. The semantic range, contextual decision, and owner's doctrinal thesis remain distinct. |
 
 ## 5. Dependency questions to answer during the next pass
 
-Before substantive chapter rewrites, the reviewer must answer these questions in writing:
+The following questions govern the ongoing substantive revision and must be answered or explicitly left open before publication approval:
 
 1. **Definition and context:** What does Hebrews 11:1 actually assert grammatically, and what are the defensible contextual senses of *hypostasis* here?
 2. **Author-internal comparison:** What does Hebrews 1:3's use of *hypostasis* contribute, and what does Hebrews 3:14 caution against?
