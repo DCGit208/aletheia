@@ -151,17 +151,17 @@ The file `study/15_ADDITIONAL_NOTES_FAITH_SONSHIP_DESIGN.md` is a standing refer
 
 | Owner note / conceptual line | Primary chapter placement | Cross-chapter links | Handling rule |
 |---|---|---|---|
-| Hebrews 11:2, 5–6: good report and pleasing God | DF-01 as a supporting inquiry if it advances the Book I argument | DF-02, DF-08; Book II | Do not turn Book I into a full Hebrews 11 exposition. The link between pleasing God and the state of Sonship is synthesis unless the source explicitly states it. |
-| Matthew 3:17: beloved Son, Father's pleasure | DF-01 / DF-02 | DF-05, DF-08; Book II | Treat “Sonship is the state of faith” as a developing doctrinal synthesis, not a direct lexical definition in Matthew 3:17. |
-| Jesus represents who humanity is by design | DF-02 and DF-05 | DF-04, DF-07, DF-08 | Develop cumulatively; do not present one verse as proving the entire thesis. |
-| Romans 8:17: children, heirs, joint-heirs | DF-01 and DF-07 | DF-02, DF-08 | Preserve son → heir logic and the full verse context. |
-| 1 John 4:17: “as he is, so are we in this world” | DF-02 and DF-08 | DF-04, DF-05 | Preserve the immediate context of love and confidence. |
-| John 17:20–23: oneness | DF-08 | DF-02, DF-04, DF-07 | Answer the source's question through the cluster, not a detached proof-text. |
-| Hebrews 1:2: Son, heir of all things, creation through Him | DF-05 and DF-07 | DF-02, DF-08 | Distinguish explicit wording from the wider representation thesis. |
-| *Apolytrōsis*: “riddance, ransom in full”; restoration / back on course | DF-05 and DF-06 | DF-01, DF-07 | Preserve the owner's working gloss and mark the conceptual restoration claim as synthesis where appropriate. |
-| *Dikaioō*: “to render righteous or such as he ought to be” | DF-06 | DF-05, DF-07 | Preserve as owner-supplied lexical formulation pending source/lexical verification; do not silently overwrite. |
-| Genesis 1:26–28, Mark 11:22, Matthew 5:48: design, divine operation, perfection | DF-02, with relevant parts in DF-04 | DF-05, DF-08; Book II | Respect each passage's context; distinguish the owner's ontological/design reading from explicit wording. |
-| Faith as state, not merely a mental belief or mood | DF-01 as governing line | All Book I chapters | Test and demonstrate through source and Scripture, not by slogan alone. |
+| Hebrews 11:2, 5–6: good report and pleasing God | Chapter 2, after the source's *pistis* / Sonship exposition | Chapters 1, 8, 9; Book II | Do not turn Book I into a full Hebrews 11 exposition. The link between pleasing God and the state of Sonship is synthesis unless the source explicitly states it. |
+| Matthew 3:17: beloved Son, Father's pleasure | Chapter 2 | Chapters 8–10; Book II | Treat “Sonship is the state of faith” as a developing doctrinal synthesis, not a direct lexical definition in Matthew 3:17. |
+| Jesus represents who humanity is by design | Chapters 3, 6, and 10 | Chapters 5, 8, 9 | Develop cumulatively; do not present one verse as proving the entire thesis. |
+| Romans 8:17: children, heirs, joint-heirs | Chapters 2 and 8 | Chapters 3, 9 | Preserve son → heir logic and the full verse context. |
+| 1 John 4:17: “as he is, so are we in this world” | Chapters 3, 8, and 9 | Chapters 6, 10 | Preserve the immediate context of love and confidence. |
+| John 17:20–23: oneness | Chapter 9 | Chapters 3, 5, 8, and 10 | Answer the source's question through the cluster, not a detached proof-text. |
+| Hebrews 1:2: Son, heir of all things, creation through Him | Chapters 6 and 8 | Chapters 3, 9, and 10 | Distinguish explicit wording from the wider representation thesis. |
+| *Apolutrōsis*: “riddance, ransom in full”; restoration / back on course | Chapters 6 and 7 | Chapters 1, 8, and 10 | Preserve the owner's working gloss and mark the conceptual restoration claim as synthesis where appropriate. |
+| *Dikaioō*: “to render righteous or such as he ought to be” | Chapter 7 | Chapters 6 and 8 | Preserve as owner-supplied lexical formulation pending source/lexical verification; do not silently overwrite. |
+| Genesis 1:26–28, Mark 11:22, Matthew 5:48: design, divine operation, perfection | Chapter 3, with divine-nature connection in Chapter 5 | Chapters 6, 9, and 10; Book II | Respect each passage's context; distinguish the owner's ontological/design reading from explicit wording. |
+| Faith as state, not merely a mental belief or mood | Chapters 1–2 as governing foundation | All Book I chapters | Test and demonstrate through source and Scripture, not by slogan alone. |
 
 ### Working conceptual chain
 
@@ -169,7 +169,7 @@ Use this as an argument-development aid, not as a claim that every connection is
 
 **God → God's nature → image and likeness → humanity's original design/state → sonship/heirship → faith → pleasing God/good report → deviation/coming short of glory → Christ as representation → redemption → justification/righteousness → restoration → sonship/joint-heirship → divine nature → oneness → present reality → substance → evidence.**
 
-The terminal concepts **substance** and **evidence** must be handled with special care: they form the explicit bridge to Book II and should not consume Book I's distinct purpose.
+The conceptual chain is a map of relationships, not the reader-facing order of explanation. Book I begins with **substance / *hypostasis*** as its foundation, then develops the source's *pistis* / state / Sonship teaching and the connected doctrinal argument. **Evidence** is the downstream development of Book II; it must not displace the foundational work from Book I.
 
 ---
 
