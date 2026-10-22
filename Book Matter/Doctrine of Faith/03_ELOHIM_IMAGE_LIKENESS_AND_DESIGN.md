@@ -78,13 +78,19 @@ This is a cumulative thesis to investigate through the Scripture set, not a conc
 
 ### Controlled Scripture inquiry: faith, design, and the Father's nature
 
-**Mark 11:20–25 — the context of “Have faith in God”**
+**Mark 11:20–25 — “Have faith in God”: faith, substance, and the state of God**
 
 > **Mark 11:22 (KJV)** — “And Jesus answering saith unto them, Have faith in God.”
 
-The answer comes after the disciples see that the fig tree Jesus addressed has withered from the roots (Mark 11:20–21). Jesus then speaks about saying to the mountain, believing when praying, and forgiving when standing in prayer (Mark 11:23–25). The verse must be studied inside this sequence, not detached as a motivational slogan.
+The sequence matters. The disciples see that the fig tree Jesus addressed has withered from the roots (Mark 11:20–21). Jesus answers with the instruction in verse 22, then speaks of saying to the mountain, not doubting in the heart, believing what is said, praying in faith, and forgiving when standing in prayer (Mark 11:23–25). The passage therefore presents faith in relation to speech, the heart, action, prayer, and forgiveness. It must not be reduced to a detached slogan about obtaining whatever one wants.
 
-The owner's question is how “Have faith in God” relates to humanity's design, God's nature, and the operation of faith. The wording and Greek construction behind readings such as “faith in God” and “God's faith” require careful examination before any grammatical conclusion is asserted. This chapter records the question without deciding that lexical issue.
+The owner's doctrinal question presses beyond the familiar English rendering: is Jesus speaking only of faith directed toward God, or does the wording also invite the reading “the faith of God”—understood in this book's developing argument as God's own state or nature? The Greek phrase is *pistin theou* (πίστιν θεοῦ). The noun *pistin* means “faith”; *theou* is the genitive form of “God.” English “faith in God” interprets the genitive as indicating the object toward which faith is directed. “Faith of God” reflects the genitive more formally, but a genitive construction can express different relationships; the form alone does not settle the theological meaning. Nor does the phrase, by itself, lexically translate as “the state of God.” That last expression is the owner's doctrinal interpretation of how Mark 11:22 may relate to the wider argument, not a word-for-word translation established by the grammar alone.
+
+This qualification does not dismiss the owner's reading. It identifies exactly what the manuscript must demonstrate. Chapter 1 establishes the inquiry into *hypostasis* as substance or underlying reality; Chapter 2 develops the Aletheia leaflet's explicit teaching that *pistis* / credence defines the state of God's children; Genesis 1:26–28 supplies the image, likeness, and dominion language for humanity's design. Read together, these passages raise the owner's central question: **does “have faith in/of God” call the human person to operate from the state corresponding to God's nature and humanity's design, rather than treating faith as a detached mental act?** The answer must be developed from the cumulative argument, not smuggled into the Greek as though “state of God” were its uncontested literal translation.
+
+The proposed connection is therefore substantive: *hypostasis* → faith as underlying reality/state → *pistis* and the state of God's children → image, likeness, and design. Mark 11:22 is a hinge in this sequence, not an isolated proof-text. Genesis 1:26–28 does not itself use the word *pistis*, and Mark 11:22 does not itself quote Genesis. Their relationship is a cross-passage doctrinal synthesis, which the manuscript should make explicit and argue rather than conceal.
+
+The immediate context remains a test of the interpretation. Any account of faith as God's state must reckon with Jesus' words about the heart, speech, prayer, and forgiveness in Mark 11:23–25. The passage should neither be softened into generic “trust” nor made to promise that any desired result must occur through the force of belief.
 
 **Matthew 5:43–48 — perfection in the context of love**
 
