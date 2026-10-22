@@ -209,3 +209,15 @@
 - Recorded the current transition, direct leaflet attribution, source-resource, initial KJV quotation, lexical-reference, and Hebrews 1:8 framing work in the audit's active progress section.
 - Normalized the inherited Roman-numeral section labels in Chapter 3 to match the standalone manuscript structure.
 - Verified the ten coordinated chapter files remain nonempty and contain no stale reader-facing nine-chapter outline or the incorrect TLB attribution for the Genesis 1:27 paraphrase. The companion source file remains unchanged.
+
+
+## 2026-10-22 — Continuous argument and inference audit
+
+- Chapter 4 now separates what Jesus' appeal to Psalm 82 explicitly establishes from the further claims that require synthesis. It preserves the force of “Ye are gods,” the psalm's judgment setting, and the sequence of Jesus' argument in John 10 without assigning the whole design doctrine to one verse.
+- Chapter 5 now explains the inferential bridge between Genesis 1:26–28 and 2 Peter 1:4. It preserves the source's creation/true-nature reading while identifying restoration-to-design as a cross-passage synthesis, and keeps Peter's promises, escape from corruption, diligence, and fruitfulness together.
+- Chapter 6 now states the full argumentative movement of Romans 3:21–26 more explicitly: manifested righteousness, sin and coming short of glory, free justification through redemption, and Christ as propitiation in the declaration of God's righteousness. The Aletheia gloss of “come short of the glory” remains distinct from the verse's direct wording.
+- Chapter 7 now distinguishes *dikaioō*, *dikaiosynē*, and *apolutrōsis* while explaining their relation in the source's argument. The source's printed glosses and the owner's additional formulations remain separate and open for review.
+- Chapter 2 now describes the relationship between “because ye are sons” and the Spirit's cry as an inference from Galatians 4:4–7 rather than presenting the explanation as the verse's exact wording.
+- Chapter 3 now labels the Trinity reading of *’ĕlōhîm* as the source's theological interpretation and distinguishes it from a grammatical proof; it also separates Genesis' explicit image/likeness/dominion language from the chapter's design synthesis.
+- Updated the dependency matrix and master blueprint so they describe the active ten-chapter revision rather than saying coordinated rewrites have not yet begun.
+- No owner decision has been made on the full Hebrews 1:8 inference. The app companion remains unchanged.
