@@ -230,3 +230,8 @@
 - Updated the dependency matrix's quality-gate language and mapped the original nine drafts to the current ten chapters, including the split of the former “Why Did Jesus Come?” argument between Chapters 6 and 7 and the current split between John 17 and 2 Corinthians 4 material.
 - Updated the foundational reconstruction and owner-decision register so they describe active substantive revision rather than a future phase that has not begun.
 - Corrected the blueprint's transliteration of *apolutrōsis* and its obsolete “next controlled step” statement. No source companion content was modified.
+
+
+## 2026-10-22 — Book I conclusion calibrated
+
+- Chapter 10 now states that Book I has placed Hebrews 11:1 and hypostasis at the foundation and developed the underlying-state thesis, while keeping the lexical and contextual argument open for continued proofing. This avoids implying that the full argument has already passed final review.
