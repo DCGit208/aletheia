@@ -221,3 +221,12 @@
 - Chapter 3 now labels the Trinity reading of *’ĕlōhîm* as the source's theological interpretation and distinguishes it from a grammatical proof; it also separates Genesis' explicit image/likeness/dominion language from the chapter's design synthesis.
 - Updated the dependency matrix and master blueprint so they describe the active ten-chapter revision rather than saying coordinated rewrites have not yet begun.
 - No owner decision has been made on the full Hebrews 1:8 inference. The app companion remains unchanged.
+
+
+## 2026-10-22 — Control architecture synchronized with working manuscripts
+
+- Replaced the master blueprint's outdated nine-chapter table with the current ten-chapter foundation-first sequence and its actual Scripture anchors, statuses, and open decisions.
+- Updated the owner-note integration map to use current chapter numbers and to clarify that the conceptual chain is not the reader-facing order of explanation: Book I begins with *hypostasis* / substance; Book II develops evidence from that foundation.
+- Updated the dependency matrix's quality-gate language and mapped the original nine drafts to the current ten chapters, including the split of the former “Why Did Jesus Come?” argument between Chapters 6 and 7 and the current split between John 17 and 2 Corinthians 4 material.
+- Updated the foundational reconstruction and owner-decision register so they describe active substantive revision rather than a future phase that has not begun.
+- Corrected the blueprint's transliteration of *apolutrōsis* and its obsolete “next controlled step” statement. No source companion content was modified.
