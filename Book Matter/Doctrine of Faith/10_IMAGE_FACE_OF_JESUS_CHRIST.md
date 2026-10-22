@@ -85,7 +85,7 @@ The developing thesis is that faith is not merely a statement someone agrees wit
 
 Book I has developed the Aletheia source's faith-toward-God architecture through the connected passages on *pistis*, sonship, image and likeness, divine nature, glory, justification, righteousness, heirship, oneness, and the image of God in Christ.
 
-Book I establishes Hebrews 11:1 and *hypostasis* as foundational to faith as substance and the owner's thesis about the person's underlying nature/state. Book II, *Faith Is Evidence*, develops faith as evidence from that foundation. The close of Book I therefore summarizes the foundation established and hands forward the evidence inquiry without postponing the foundation itself.
+Book I has placed Hebrews 11:1 and *hypostasis* at the foundation of the doctrine and has developed the owner's thesis that faith as substance relates to the person's underlying nature and state. The argument connecting the lexical range, the context of Hebrews, and the Aletheia source's explicit *pistis* / state-of-children teaching remains open to continued proofing and review; the foundation must not be deferred to Book II. Book II, *Faith Is Evidence*, develops faith as evidence from this foundation. The close of Book I therefore summarizes the foundation laid and hands forward the evidence inquiry.
 
 The forward question is therefore deliberate: **Having established faith's foundation in *hypostasis* / substance and its relation to the person's state, how does Scripture develop faith as evidence?** Book II takes up that question on its own terms.
 
