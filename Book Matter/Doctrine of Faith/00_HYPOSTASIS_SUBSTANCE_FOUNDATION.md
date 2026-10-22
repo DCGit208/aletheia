@@ -136,6 +136,8 @@ This is a governing doctrinal thesis for the manuscript. It is not to be diluted
 
 The argument to be developed is that faith as *hypostasis* concerns more than a mental statement detached from the person. In the Aletheia source, *pistis* / credence defines the state of children of God and is tied to acceptance, true nature, and Sonship. The owner's thesis brings that state-language into relation with Hebrews 11:1's substance-language.
 
+**Mark 11:22 is a key bridge in this argument.** Jesus says, in the KJV, “Have faith in God.” The Greek phrase *pistin theou* can be rendered formally as “faith of God,” but the genitive construction does not by itself decide whether the relation is “faith in God,” “God's faith,” or the stronger doctrinal interpretation “the state of God.” This book will examine the construction rather than treating the owner's preferred reading as a settled lexical fact. The reason Mark 11:22 matters here is that it raises the question of faith's relation to God's own nature; the Aletheia leaflet's teaching about *pistis* as the state of God's children and Genesis 1:26–28's image/likeness language then become essential to the wider argument. Chapter 3 develops this bridge while preserving Mark 11:20–25's context of the fig tree, speech, the heart, prayer, and forgiveness.
+
 The following chapters must test and unfold the implications through the source and Scripture cluster:
 
 - **Design:** Genesis 1:26–28 — image, likeness, blessing, fruitfulness, and dominion.
