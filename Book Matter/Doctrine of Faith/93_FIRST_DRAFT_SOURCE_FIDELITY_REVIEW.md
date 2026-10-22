@@ -255,3 +255,17 @@ This is an initial research bibliography, not a complete critical lexical study.
 - Reworked Chapter 8's “What the Inference Does—and Does Not Yet Establish” section. The previous draft framed the inference partly through a restrictive negative proposition about believers being “independently God in exactly the same sense as the Son.” That was not a neutral description of the owner's open doctrinal question and risked pre-empting the decision. The revised section states what Hebrews 1:8 explicitly says, identifies the leaflet's question as a deliberate inference task, lays out the supporting Scripture set, and preserves the provisional synthesis while leaving the exact doctrinal force for owner review.
 
 **Status:** This correction is intended to avoid both evasion and premature doctrinal closure. The owner's final answer to the Hebrews 1:8 question remains unresolved.
+
+
+## 23. Continuous argument audit — Chapters 2–7 — 2026-10-22
+
+The following inferential distinctions were strengthened in the current working manuscripts:
+
+- **Chapter 2 / Galatians 4:** The connection between “because ye are sons” and the Spirit's cry is now described as an inference from the passage's sequence, consistent with the leaflet's state-of-children teaching, rather than as a direct explanatory sentence supplied by the verse.
+- **Chapter 3 / Genesis:** The source's reading of *’ĕlōhîm* as plural: Trinity is preserved as its theological interpretation. The manuscript no longer lets the grammatical form of the noun alone carry that claim, and it distinguishes the text's explicit image/likeness/dominion language from the chapter's design synthesis.
+- **Chapter 4 / Psalm 82 and John 10:** The manuscript now identifies what Jesus' appeal establishes and what remains to be argued across the wider Scripture set. Neither Psalm 82:6 nor the judgment context is allowed to erase the other.
+- **Chapter 5 / 2 Peter 1:** The connection between Genesis design and participation in divine nature is articulated as a cross-passage synthesis. The chapter keeps the promises, escape from corruption, diligence, qualities, and fruitfulness in view.
+- **Chapter 6 / Romans 3:** The chapter's sequence now makes explicit the relation among manifested righteousness, coming short of glory, free justification, redemption, propitiation, and God's righteousness. The Aletheia “deviation from true nature” gloss remains distinct from the verse's direct wording.
+- **Chapter 7 / lexical cluster:** *Dikaioō*, *dikaiosynē*, and *apolutrōsis* are treated as related but distinct terms. Source glosses and owner formulations remain separate, with their relation explained rather than silently merged.
+
+This is a substantive argument pass, not a final doctrinal adjudication. The manuscript must continue to distinguish direct source teaching, direct Scripture wording and context, cross-passage synthesis, and the owner's developing formulations.
