@@ -30,6 +30,14 @@ Back on course. Psalm 82:5 says the foundations of the earth are out of course. 
 
 Second Peter 1:4 speaks of the promises, participation in divine nature, and escape from corruption in one sentence. The design/restoration argument must retain all three parts. The relationship to Genesis 1:26–28 is a theological connection developed across passages, not a claim that every phrase in Genesis and 2 Peter is interchangeable.
 
+### The inference from creation to participation
+
+Genesis 1:26–28 explicitly describes humanity as made in God's image and likeness and records the blessing and commission given to humanity. Second Peter 1:4 explicitly speaks of becoming “partakers of the divine nature” through the precious promises and of escaping the world's corruption through lust. The two passages do not use identical wording; the source's argument places them in relation through its teaching about true nature from creation.
+
+The resulting claim—that participation in divine nature is a restoration to humanity's intended design—is the source's conceptual line and the owner's developing synthesis. It should be explained, not merely asserted. The steps are: identify what Genesis says about creation; identify what Peter says is given through the promises; retain Peter's stated contrast with corruption; and then explain why the source reads these together as true nature and restoration. The phrase “back on course” helps name that connection within the Aletheia teaching, but it is not a substitute for the argument.
+
+Nor should “partakers” be used to erase the passage's practical sequence. Peter continues with diligence and qualities to be added to faith. The chapter should neither reduce divine nature to moral self-improvement nor detach participation from the conduct and fruitfulness verses 5–8 explicitly describe.
+
 ### Diligence and the sequence of growth
 
 2 Peter 1:5–8 — “And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge; And to knowledge temperance; and to temperance patience; and to patience godliness; And to godliness brotherly kindness; and to brotherly kindness charity. For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ.”
