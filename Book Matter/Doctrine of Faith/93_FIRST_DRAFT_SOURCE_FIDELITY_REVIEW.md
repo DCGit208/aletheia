@@ -412,3 +412,20 @@ The ten latest coordinated chapter files have been assembled into `11_THE_DOCTRI
 ## 23. Publication-readiness audit opened — 2026-11-05
 
 Created `12_PUBLICATION_READINESS_AUDIT.md` as the consolidated record of owner decisions, source coverage, quotation/translation checks, lexical verification, continuous-manuscript integrity, copyright/permissions requirements, and remaining editorial/production tasks. Its current conclusion is **not yet publication-ready**: the principal owner doctrinal directions are incorporated, but complete quotation proof, specialist lexical review, human line-by-line editing, front/back matter, copyright-page completion, and final production proof remain.
+
+
+## 24. First integrated editorial pass — 2026-11-05
+
+The ten coordinated chapters have received a first integrated editorial revision. The work addressed obsolete owner-decision wording, chapter status, argument continuity, transitions, lexical attribution, and alignment with the owner's settled doctrinal directions.
+
+Key source-fidelity and lexical controls added or strengthened:
+- Chapter 1 distinguishes Thayer's semantic range from Thayer's contextual placement of Hebrews 11:1 under confidence/assurance; it also records the different Cambridge and Expositor's commentary assessments. The owner's substance foundation remains the governing doctrinal direction, but the scholarly disagreement is now stated transparently.
+- Chapter 2 develops the Father's pleasure and Sonship connection from the specified passages without claiming Matthew 3:17 alone says everything about believers.
+- Chapter 3 preserves Mark 11:22 as the owner's design-identity reading while identifying “state of God” as doctrinal interpretation rather than a word-for-word gloss of the Greek genitive.
+- Chapter 7 identifies the actual Romans 3:24 form δικαιούμενοι (*dikaioumenoi*) and its morphology; distinguishes Strong's G1344 core gloss from Thayer's definitions; and includes Thayer's qualification that the “make righteous” sense is extremely rare, if not altogether doubtful.
+- Chapter 7 also distinguishes the Strong's/Thayer lexical wording for G629 from the owner's full doctrinal conclusion that complete ransom means restoration to original design.
+- The supplied Dake Study Bible introduction is noted as a supplementary interpretive-method reference only. It does not displace the 2015 Aletheia leaflet as controlling doctrinal source.
+
+The continuous manuscript was refreshed and automated integrity checks passed for the ten-chapter structure and the principal owner-directed content. The full audit record and its limitations are in document 12.
+
+**Remaining fidelity gates:** complete quotation-by-quotation proof; full bibliographic/source verification; a second human editorial pass; and final owner review of the designed publication proof.
