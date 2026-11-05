@@ -12,7 +12,7 @@ The source's lexical glosses are preserved, and the owner's additional direction
 
 ## *Dikaioō* — justified freely and restored to our designed state
 
-The Greek verb δικαιόω (*dikaioō*, Strong's G1344) is the word translated “justified” in Romans 3:24. The complete G1344 entry supplied for this study is reproduced below, with its parts attributed accurately: Strong's gives the core gloss and AV usage; the three extended definitions are Thayer's Greek Lexicon definitions.
+In Romans 3:24, the Greek form is δικαιούμενοι (*dikaioumenoi*), from the lemma δικαιόω (*dikaioō*, Strong's G1344). It is a present passive participle, nominative masculine plural, rendered “being justified.” The verse therefore presents justification as the condition of those described by the participle, while the surrounding syntax and argument determine how the participle relates to verse 23. The complete G1344 entry supplied for this study is reproduced below, with its parts attributed accurately: Strong's gives the core gloss and AV usage; the three extended definitions are Thayer's Greek Lexicon definitions.
 
 > **δικαιόω — STRONG'S NUMBER: G1344**  
 > *dikaioō*; from 1342; to render (i.e. show or regard as) just or innocent: — free, justify(-ier), be righteous.  
@@ -99,7 +99,8 @@ Finally, preserve the complete G1344 entry with Strong's core definition and AV 
 
 ### Lexical references for G1344 and G629
 
-- Strong's Greek G1344, δικαιόω (*dikaioō*), core definition and AV usage; Thayer's extended definitions reproduced above. Reference consulted: https://kingjamesbibledictionary.com/StrongsNo/G1344/Justified and https://www.studylight.org/lexicons/eng/greek/1344.html.
+- Romans 3:24 Greek form and morphology: δικαιούμενοι (*dikaioumenoi*), present passive participle, nominative masculine plural; see https://www.openbible.com/text/romans/3-24.htm and https://www.studylight.org/interlinear-study-bible/greek/romans/3-24.html.
+- Strong's Greek G1344, δικαιόω (*dikaioō*), core definition and AV usage; Thayer's extended definitions reproduced above. Reference consulted: https://biblehub.com/strongs/greek/1344.htm and https://biblehub.com/thayers/1344.htm.
 - Strong's Greek G629, ἀπολύτρωσις (*apolutrōsis*), from G575 and G3083; “ransom in full,” figuratively “riddance,” or Christian salvation. Reference consulted: https://biblehub.com/strongs/greek/629.htm.
 - Thayer's Greek Lexicon, G629: release effected by payment of ransom; redemption, deliverance, liberation procured by ransom. Reference consulted: https://biblehub.com/thayers/629.htm.
 
