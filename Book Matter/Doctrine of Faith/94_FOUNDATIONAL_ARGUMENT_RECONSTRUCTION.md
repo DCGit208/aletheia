@@ -184,7 +184,7 @@ Book I must establish why hypostasis is foundational to the doctrine and how tha
 
 The original nine chapters remain preserved as source-bearing material. Ten coordinated foundation-first working manuscripts now exist, beginning with Hebrews 11:1 / hypostasis and then developing the Aletheia source's faith-as-state / sonship teaching in explicit relation to that foundation. The current sequence is provisional and remains subject to source coverage, continuity, and owner review.
 
-The revised proposal is recorded in 95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md; the active manuscript set is listed there and in document 00. Substantive revision is underway. Open owner decisions—especially the Hebrews 1:8 inference—must remain open while the argument is improved; they are not a reason to pause all writing.
+The revised proposal is recorded in 95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md; the active manuscript set is listed there and in document 00. Substantive revision is underway. The owner has now abandoned the former Hebrews 1:8 question and supplied the principal directions for representation, faith as designed state, sonship, justification, redemption/restoration, Mark 11:22, and perfection. Those directions are to be implemented rather than treated as unresolved owner decisions.
 
 ## 6. Research references consulted
 
@@ -196,3 +196,10 @@ The following public lexical references were consulted for the initial lexical c
 - Etymonline, historical etymology of hypostasis: https://www.etymonline.com/word/hypostasis
 
 This is an initial research cross-check, not a claim that a full specialist monograph-level lexical study has been completed.
+
+
+## Owner doctrinal direction update — 2026-11-05
+
+The owner's direction now makes the representation thesis explicit and governing: **Jesus represents who we are by Design.** The thesis is to be developed fully, while Christ's redemptive accomplishment remains equally present. Faith is our state by design; humanity is made in the image and likeness of Elohim, partakes of divine nature, and as sons is heir of God. The Father's pleasure is for His sons to operate in that state. Justification and redemption are to be developed as restoration to the designed state; Mark 11:22 underscores the identity; Matthew 5:48 and 1 John 4:17 affirm the identity and likeness. The former Hebrews 1:8 question is abandoned.
+
+The reconstruction remains the argument-control document for Book I's foundation-first logic. It is not a substitute for final source proof, lexical verification, or continuous-manuscript editing.
