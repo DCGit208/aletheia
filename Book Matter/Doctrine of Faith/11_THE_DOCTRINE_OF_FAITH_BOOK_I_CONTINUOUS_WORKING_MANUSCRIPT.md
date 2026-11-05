@@ -57,7 +57,7 @@ The governing question is therefore:
 
 **What does it mean for faith to be the *hypostasis* of things hoped for, and how does that statement relate to the Aletheia teaching that faith defines the state of the children of God?**
 
-That question requires more than repeating the English word “substance.” It requires reading the sentence, examining the word's established range, attending to the context of Hebrews, and then connecting the result to the Aletheia source and the owner's developing doctrinal thesis.
+That question requires more than repeating the English word “substance.” It requires reading the sentence, examining the word's established range, attending to the context of Hebrews, and then connecting the result to the Aletheia source and the owner's settled direction that faith is our state by design.
 
 ## 1. The sentence must govern the investigation
 
@@ -169,7 +169,11 @@ The source's use of “state” is decisive to the structure. The Aletheia argum
 
 ## 7. The doctrinal thesis to be developed through Book I
 
-The owner's developing formulation is:
+The owner's governing doctrinal direction is:
+
+> **Faith is our state by design.**
+
+The owner's explanatory formulation is:
 
 > **Faith is not merely what the mind believes. Faith is the state of the person who exists in the reality of God's nature in Christ.**
 
@@ -621,7 +625,7 @@ Second Peter 1:4 speaks of the promises, participation in divine nature, and esc
 
 Genesis 1:26–28 explicitly describes humanity as made in God's image and likeness and records the blessing and commission given to humanity. Second Peter 1:4 explicitly speaks of becoming “partakers of the divine nature” through the precious promises and of escaping the world's corruption through lust. The two passages do not use identical wording; the source's argument places them in relation through its teaching about true nature from creation.
 
-The resulting claim—that participation in divine nature is a restoration to humanity's intended design—is the source's conceptual line and the owner's developing synthesis. It should be explained, not merely asserted. The steps are: identify what Genesis says about creation; identify what Peter says is given through the promises; retain Peter's stated contrast with corruption; and then explain why the source reads these together as true nature and restoration. The phrase “back on course” helps name that connection within the Aletheia teaching, but it is not a substitute for the argument.
+The owner's doctrinal direction is that humanity's participation in divine nature is integral to our designed state and to the restoration accomplished through Christ. This is not left as a developing owner question. It should be explained through the source's conceptual line and the actual sequence of 2 Peter 1:2–8, not merely asserted. The steps are: identify what Genesis says about creation; identify what Peter says is given through the promises; retain Peter's stated contrast with corruption; and then explain why the source reads these together as true nature and restoration. The phrase “back on course” helps name that connection within the Aletheia teaching, but it is not a substitute for the argument.
 
 Nor should “partakers” be used to erase the passage's practical sequence. Peter continues with diligence and qualities to be added to faith. The chapter should neither reduce divine nature to moral self-improvement nor detach participation from the conduct and fruitfulness verses 5–8 explicitly describe.
 
@@ -807,7 +811,7 @@ The teaching therefore rejects postponing the statement of 2 Corinthians 5:21 as
 
 The source's sequence brings three Greek terms into relation, but they should not be treated as interchangeable:
 
-- *Dikaioō* is the verb used in the source's question about being justified freely. The leaflet's printed gloss is “render just or innocent (free from evil or guilt).” The owner's additional formulation—“to render righteous or such as he ought to be”—is a separate proposal and remains open for deliberate lexical and doctrinal review.
+- *Dikaioō* is the verb used in the source's question about being justified freely. The leaflet's printed gloss is “render just or innocent (free from evil or guilt).” The complete G1344 entry supplied by the owner includes Thayer's definitions “to render righteous or such he ought to be” and “to declare, pronounce, one to be just, righteous, or such as he ought to be.” The owner directs that these definitions be included and developed alongside the leaflet's printed gloss; this treatment is settled, while the lexical sources remain subject to accurate attribution and verification.
 - *Dikaiosynē* is the related noun the source connects with righteousness/justification, equity, impartiality, and conformity with God's nature. “Original: back on course” is the source's interpretive formulation in this teaching; it should not be presented as a complete dictionary definition of the noun.
 - *Apolutrōsis* is the source's term for redemption, glossed as “ransom in full.” The owner's doctrinal direction now develops the source's “ransom in full” as complete ransom and restoration to original design. Preserve the exact source gloss while stating the owner's restoration conclusion as the intended doctrinal meaning and result.
 
