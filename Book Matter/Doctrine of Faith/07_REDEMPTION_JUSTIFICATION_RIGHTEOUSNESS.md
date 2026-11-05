@@ -8,7 +8,7 @@
 
 Chapter 6 developed the source's reading of coming short of glory as deviation from true nature, while preserving the explicit language of Romans 3:23–24: all have sinned and come short of the glory of God, and are justified freely by grace through the redemption that is in Christ Jesus. This chapter examines the terms through which the Aletheia source describes that response.
 
-The source's lexical glosses and the owner's additional formulations must remain distinguishable. The source glosses *dikaioō* as “render just or innocent, free from evil or guilt”; the owner has separately proposed “to render righteous or such as he ought to be.” The source's *dikaiosynē* explanation includes equity and conformity with God's nature and the conceptual phrase “original: back on course.” The glossary records *apolutrōsis* as “redemption; ransom in full”; the owner's additional note uses “riddance, ransom in full.” Preserve that distinction rather than silently merging the formulations. These statements must be evaluated and integrated without silently replacing one with another.
+The source's lexical glosses are preserved, and the owner's additional direction is now incorporated. The leaflet glosses *dikaioō* as “render just or innocent, free from evil or guilt”; the full Strong's G1344 definition supplied by the owner also includes “to render righteous or such he ought to be” and “to declare, pronounce, one to be just, righteous, or such as he ought to be.” The source's *dikaiosynē* explanation includes equity and conformity with God's nature and the conceptual phrase “original: back on course.” The leaflet glosses *apolutrōsis* as “redemption; ransom in full”; the owner directs that this be developed as complete ransom and restoration to original design. These formulations are now integrated as source wording and owner-directed doctrinal explanation, not left as unresolved alternatives.
 
 ## *Dikaioō* — justified freely and restored to our designed state
 
@@ -79,13 +79,13 @@ The source's sequence brings three Greek terms into relation, but they should no
 
 - *Dikaioō* is the verb used in the source's question about being justified freely. The leaflet's printed gloss is “render just or innocent (free from evil or guilt).” The owner's additional formulation—“to render righteous or such as he ought to be”—is a separate proposal and remains open for deliberate lexical and doctrinal review.
 - *Dikaiosynē* is the related noun the source connects with righteousness/justification, equity, impartiality, and conformity with God's nature. “Original: back on course” is the source's interpretive formulation in this teaching; it should not be presented as a complete dictionary definition of the noun.
-- *Apolutrōsis* is the source's term for redemption, glossed as “ransom in full.” The owner's notes also use “riddance, ransom in full.” Preserve the source wording and the owner's expanded formulation as separate records until the intended relationship is decided.
+- *Apolutrōsis* is the source's term for redemption, glossed as “ransom in full.” The owner's doctrinal direction now develops the source's “ransom in full” as complete ransom and restoration to original design. Preserve the exact source gloss while stating the owner's restoration conclusion as the intended doctrinal meaning and result.
 
-Romans 3:24 explicitly joins free justification with redemption in Christ Jesus. Second Corinthians 5:21 explicitly says believers are made the righteousness of God “in Him.” Those are the textual anchors. The source's broader claim that this means being brought “back on course” with God's nature is the interpretive synthesis connecting the terms and passages; it should be presented with the same force as the source, but with the reasoning visible.
+Romans 3:24 explicitly joins free justification with redemption in Christ Jesus. Second Corinthians 5:21 explicitly says believers are made the righteousness of God “in Him.” Those are the textual anchors. The owner's settled doctrinal direction is that justification restores humanity to its designed state. The source's “back on course” language, the full Strong's G1344 definition, and the Scripture set are brought together to show this restoration argument.
 
 ## Charge of this chapter
 
-First answer: **Has man been justified?** Write “Yes, and freely,” then show Romans 3:24 and identify the Aletheia source's gloss for *apolutrōsis*. State what you will not add to the source's “ransom in full” formulation.
+Begin with the source's question: **Has man been justified?** Yes, and freely. Show Romans 3:23–24 in full, the complete Strong's G1344 definition, and the owner's argument that justification restores humanity to its designed state. Then show how complete ransom and restoration belong together in the owner's understanding of *apolutrōsis*.
 
 Next, write 2 Corinthians 5:17–21 in context. What does the passage say about reconciliation, the new creature, Christ being made sin, and being made the righteousness of God in Him?
 
