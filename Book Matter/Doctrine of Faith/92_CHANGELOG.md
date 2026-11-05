@@ -245,3 +245,15 @@
 - Chapter 3 now develops Mark 11:20–25 in relation to Genesis 1:26–28 and the owner's thesis that faith involves operating from God's state/nature in humanity's design. The immediate passage context remains intact.
 - Clarified that *pistin theou* is a Greek genitive construction: “faith of God” is a formal rendering, while “the state of God” is the owner's doctrinal interpretation to be argued through the wider Scripture cluster, not asserted as an uncontested literal translation.
 - Updated the open-question register, dependency matrix, source audit, and source-fidelity review. The precise translation/Greek conclusion remains open; no final doctrinal approval is implied.
+
+
+## 2026-11-05 — Foundation-first continuity audit: Chapters 1 and 8–10
+
+- Audited the current Chapter 1 *hypostasis* foundation and Chapters 8–10 on Hebrews 1:8/heirship, John 17 oneness/glory, and 2 Corinthians 4 image/light/glory.
+- Confirmed the selected chapters preserve the distinction among direct Scripture wording, Aletheia leaflet teaching, cross-passage synthesis, and the owner's developing doctrinal formulations.
+- Confirmed Chapter 1 distinguishes *hypostasis* from *hyparxis* in Hebrews 10:34, reads Hebrews 11 in context, and keeps the lexical range separate from the owner's underlying-state thesis.
+- Confirmed Chapter 8 keeps Hebrews 1:8's address to the Son distinct from the leaflet's inference question, while preserving the provisional answer for owner review.
+- Confirmed Chapter 9 retains John 17's “as,” sending, indwelling, glory, and stated purpose; its connection to the source's glory/deviation framework is labeled synthesis.
+- Confirmed Chapter 10 holds Christ's accomplishment and representation together and labels “Christ's work restores what Christ's person reveals” as synthesis.
+- Identified a control-document issue: the historical tables in 93_FIRST_DRAFT_SOURCE_FIDELITY_REVIEW.md still carry superseded nine-chapter labels/mappings. A dated addendum now warns against using that historical table as the current index. The next editorial synchronization should update the current source-coverage matrix and clearly supersede stale mappings.
+- No owner doctrinal decision was made. The app companion remains untouched.
