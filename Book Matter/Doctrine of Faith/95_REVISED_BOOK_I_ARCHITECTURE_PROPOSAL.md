@@ -74,11 +74,11 @@ This sequence is a proposed logic, not an automatic verdict on chapter count. Th
 
 **Non-negotiable wording control:** Keep “freely,” grace, redemption, and “in Him” / “in Christ” visible. Do not turn the ransom analogy into a broader theory unsupported by the source.
 
-### Chapter 8 — The Son, Hebrews 1:8, and the Heir
+### Chapter 8 — The Son, the Heir, and the Representation of Design
 
-**Purpose:** Work through the leaflet's questions: “According to Hebrews 1:8, what does that make you?”, “Who is heir of God?”, and “What is an heir?” Show the complete reasoning chain through Hebrews 1:1–8, Galatians 4:1–7, Romans 8:14–17, 2 Corinthians 5:21, and Genesis 1:26–28. Do not invent a title or make an unexamined jump from the Father's address to the Son to every believer.
+**Purpose:** Develop the Son as heir of all things and express image of the Father, and develop believers' sonship and heirship through Galatians 4:5–7 and Romans 8:14–17. The owner has abandoned the former question attached to Hebrews 1:8; the verse may remain in the Son's scriptural portrait but is not an open inference. The chapter must fully develop the thesis that Jesus represents who we are by Design and hold this representation together with His accomplishment.
 
-**Status:** Final doctrinal answer remains an owner decision. The chapter must expose the argument and the exact point at which synthesis enters.
+**Status:** Owner direction supplied and incorporated. The chapter's remaining work is editorial integration and Scripture verification.
 
 ### Chapter 9 — Oneness and Glory: Liken John 17:20–23
 
@@ -104,7 +104,7 @@ The current nine drafts are **preserved as source-bearing working material**, no
 | 04 — True Nature: Partakers of the Divine Nature | Revised Chapter 5. |
 | 05 — Why Did Jesus Come? Glory, Deviation, and Representation | Primary source for revised Chapter 6; maintain cross-links to Chapter 7. |
 | 06 — Dikaioo: Justified Freely; Righteousness in Christ | Revised Chapter 7. |
-| 07 — Hebrews 1:8 and the Heir | Revised Chapter 8; keep final inference open for owner review. |
+| 07 — Hebrews 1:8 and the Heir | Revised Chapter 8; preserve the Son/heirship material, abandon the former Hebrews 1:8 question, and develop the full representation thesis. |
 | 08 — Oneness and Glory: John 17 | Revised Chapter 9. |
 | 09 — The Image in the Face of Jesus Christ | Revised Chapter 10. |
 | New Chapter 1 | First working draft created as `00_HYPOSTASIS_SUBSTANCE_FOUNDATION.md`. It draws from Hebrews 11:1, lexical/contextual study, Hebrews 1:3 and 3:14, Hebrews 10:32–39 / 11:1–6, and the owner's foundational direction. It is a first draft, not final doctrinal approval; it does not fabricate a source-leaflet quotation. |
@@ -118,7 +118,7 @@ The current nine drafts are **preserved as source-bearing working material**, no
 4. **Owner thesis:** State clearly how the owner's “underlying nature/state” formulation follows from the combined argument; mark each inferential step.
 5. **Scripture context:** Preserve immediate contexts for Mark 11:22, Matthew 5:48, Psalm 82:6–7, 1 Corinthians 11:7, 1 John 4:17, Romans 8:17, and John 17:20–23.
 6. **Lexical decisions:** Preserve source and owner formulations for dikaioo, dikaiosyne, and apolutrosis until resolved.
-7. **Hebrews 1:8:** Keep the owner's doctrinal decision open; the chapter's reasoning must be explicit.
+7. **Hebrews 1:8:** The former question is abandoned by owner direction; the verse remains part of the Son's biblical portrait.
 8. **Series boundary:** Book I establishes the nature/state/substance foundation; Book II develops faith as evidence.
 9. **Pedagogy:** Move from scriptural/source questions to reasoning and then to formulation; do not begin with a slogan and force verses to fit.
 10. **Preservation:** Do not overwrite src/lib/content/companion-faith.ts or delete existing drafts during restructuring.
@@ -148,4 +148,9 @@ The foundation-first working manuscripts are now present:
 9. [Chapter 9 — Oneness and Glory: John 17](09_ONENESS_AND_GLORY_JOHN_17.md)
 10. [Chapter 10 — The Image in the Face of Jesus Christ](10_IMAGE_FACE_OF_JESUS_CHRIST.md)
 
-These are coordinated working manuscripts assembled from the preserved first-pass drafts and the corrected foundation-first logic. Their creation does not imply final approval of every doctrinal inference. In particular, the Hebrews 1:8 question, lexical formulations, and design/representation thesis remain subject to the review protocol in document 90. The older files are not deleted or overwritten.
+These are coordinated working manuscripts assembled from the preserved first-pass drafts and the corrected foundation-first logic. Their creation does not imply final approval of every doctrinal inference. The owner has since supplied the governing directions on representation, design, Sonship, justification, redemption/restoration, Mark 11:22, and perfection; the former Hebrews 1:8 question is abandoned. These decisions are recorded in document 90 and incorporated in the current manuscripts. The older files are not deleted or overwritten.
+
+
+## Owner direction incorporated — 2026-11-05
+
+The owner has directed that Jesus' representation of humanity's design be developed fully, faith be presented as our state by design, and the design/Sonship argument include image and likeness, partaking of divine nature, sonship and natural heirship, and the Father's pleasure. Justification and redemption are to be developed as restoration to original design; Mark 11:22 underscores design identity; Matthew 5:48 and 1 John 4:17 are treated together as identity affirmations. The former Hebrews 1:8 question is abandoned. The ten-chapter architecture remains the current working structure; remaining work is full audit, editorial completion and publication preparation.
