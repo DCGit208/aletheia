@@ -123,6 +123,7 @@ export const catalog: CatalogSnapshot = {
       categories: ["God", "Nature of God", "Truth"],
       tags: ["god", "pleasure", "revelation-4-11", "john-10-10", "divine-nature"],
       coverTone: "gold",
+      coverImage: "/covers/god-of-pleasure.PNG",
       status: "published",
       accessLevel: "public",
       previewChapterIds: ["ch-god-of-pleasure-introduction"],
