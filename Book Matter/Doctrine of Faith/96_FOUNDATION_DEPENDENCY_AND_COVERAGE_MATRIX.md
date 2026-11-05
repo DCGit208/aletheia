@@ -182,3 +182,8 @@ Document `12_PUBLICATION_READINESS_AUDIT.md` is now the current register of comp
 ## 11. First integrated editorial pass — 2026-11-05
 
 The first integrated editorial pass across all ten chapter files is complete and the continuous manuscript 11 has been refreshed. The pass addressed chapter statuses, transitions, source attribution, Mark 11:22, the Father's pleasure/Sonship connection, Psalm 82/John 10 context, the 2 Peter 1:2–8 sequence, representation and accomplishment, the Romans 3:24 participle, Strong's/Thayer attribution, and the complete-ransom/restoration explanation. The publication-readiness audit in document 12 records each chapter's revisions and the limitations of the automated integrity check. This is not the final copy edit or publication proof.
+
+
+## 12. Targeted Scripture and lexical verification — 2026-11-05
+
+Key KJV passages and the supplied Genesis 1:27 TLB wording have received targeted checks. Romans 3:24 Greek morphology and the G1344/G629 lexical entries have also been checked. Document 12 records the references and the exact scope. The full chapter-by-chapter quotation proof remains open; targeted checks must not be mistaken for complete publication proof.
