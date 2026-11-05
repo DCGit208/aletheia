@@ -16,7 +16,7 @@ The review uses four distinct categories:
 3. **Synthesis:** a conclusion developed by connecting multiple passages.
 4. **Owner-supplied formulation:** a developing thesis or interpretation supplied in the owner's notes.
 
-The leaflet's statements and glosses are preserved as source data. Preserving them does not mean that every interpretation in the leaflet is declared beyond examination; equally, the manuscript must not silently replace the source's claims with generic theology or outside assumptions. Any tension or open question remains visible for owner decision.
+The 2015 leaflet is the controlling doctrinal source for this manuscript. Its teachings, interpretations and glosses are to be faithfully preserved and engaged as authoritative Aletheia teaching; the distinctions in this review exist to identify the wording and reasoning of the leaflet, Scripture, and the owner's further formulations, not to weaken or place the leaflet's authority in doubt. The manuscript must not silently replace the source's claims with generic theology or outside assumptions.
 
 ## 2. Core leaflet coverage check
 
@@ -373,3 +373,28 @@ The owner-decision register's B1 provisional answer reference has been corrected
 
 ### Remaining scope
 The current ten-chapter sequence has now received focused continuity review across Chapters 1–10. This is not yet a complete line-by-line manuscript edit, specialist lexical verification, or final Bible quotation proof. Remaining gates include the owner's open doctrinal decisions, verification of Greek lexical claims and source editions, full quote/proofread against the selected Bible edition, and an editorial repetition/voice pass across the complete manuscript.
+
+
+## 21. Owner doctrinal directions incorporated — 2026-11-05
+
+The owner supplied direct answers to the principal doctrinal questions previously listed as open. The following implementation was checked against the revised manuscripts:
+
+### Owner decisions
+- **Hebrews 1:8 question:** Abandoned. Chapter 8 retains Hebrews 1:8 as part of the Son's scriptural portrait but no longer asks the reader to resolve the former leaflet question or treats it as an open doctrinal decision.
+- **Representation:** The thesis “Jesus represents who we are by Design” is to be developed fully. Chapters 6 and 8 now state that representation and accomplishment belong together.
+- **Faith, design and Sonship:** Chapter 2 now states the owner's direction that faith is our state by design, joining Genesis image/likeness, 2 Peter 1:4, Galatians 4:5–7, Romans 8:16–17, Matthew 3:17 and Hebrews 11:2, 5–6. The relevant Bible verses are quoted or referenced in the manuscript.
+- **Justification:** Chapter 7 now includes the complete Romans 3:23–24 KJV quotation as one movement, the full Strong's G1344 definition supplied by the owner, and the owner's interpretation of sin as falling short of designed glory and justification as restoration to that state. It includes 1 Corinthians 15:41 and the supplied Living Bible wording alongside Genesis 1:26–27.
+- **Redemption:** Chapter 7 now records the owner's direction that *apolutrōsis* means complete ransom and restoration to original design, while preserving the leaflet's “redemption; ransom in full” gloss. It distinguishes the lexical gloss from the full doctrinal interpretation.
+- **Mark 11:22:** Chapter 3 now states the owner's direction that the verse underscores design identity and operating in the state of God, while retaining Mark 11:20–25 context and the grammatical distinction.
+- **Perfection/present identity:** Chapter 3 now develops Matthew 5:48 together with 1 John 4:17 as identity-affirming passages, retaining Matthew's love/enemies context and 1 John's love/confidence context.
+
+### Scripture and source-fidelity checks required
+The new material has been integrated into the working manuscripts, but it is not yet certified publication-ready. Before publication:
+1. Check the exact Living Bible edition, wording, punctuation and attribution for the supplied Genesis 1:27 quotation. The manuscript currently labels it as Living Bible wording supplied by the owner and flags edition-level proof.
+2. Verify the full Strong's G1344 wording against the exact Strong's edition/source the owner intends to cite; preserve the owner's supplied text verbatim if that is the chosen reference.
+3. Verify *apolutrōsis* and the Greek word formation against reliable lexicons. Preserve “ransom in full” as the leaflet's gloss and the restoration conclusion as the owner's doctrinal interpretation; do not claim that etymology alone proves every aspect of restoration.
+4. Proof every Bible quotation, translation label, punctuation mark and verse reference across all ten chapters against the selected editions.
+5. Conduct a complete line-by-line edit for consistency, repetition, chapter transitions, voice, headings, notes, glossary and book front/back matter.
+
+### Audit conclusion
+The owner's major doctrinal directions have been recorded and incorporated into the relevant chapters. The previous owner-decision blockers are resolved or, in the case of the Hebrews 1:8 question, explicitly abandoned. The remaining blockers are source/quotation verification, lexical substantiation, manuscript-wide editorial integration and production. No claim of publication readiness is made until those gates have actually passed.
