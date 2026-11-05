@@ -48,13 +48,11 @@ There is no unpaid remainder on that ransom. *Apolutrōsis* is glossed by the Al
 
 For lexical precision, Strong's G629 derives ἀπολύτρωσις (*apolutrōsis*) from a compound of G575 (*apo*) and G3083 (*lytron*, ransom) and glosses it as “the act [of] ransom in full,” figuratively “riddance,” or Christian salvation. Thayer describes it as “a releasing effected by payment of ransom,” and as redemption, deliverance, or liberation procured by ransom. These lexical details support the complete-ransom and release dimensions of the owner's direction. The owner's conclusion is that the etymology of complete ransom, read with the Aletheia Scripture framework—Genesis 1:26–28, Romans 3:23–24, 2 Corinthians 5:17–21, Ephesians 1:7, Colossians 1:13–14, and 2 Peter 1:4—indicates complete ransom and restoration to original design. The lexical entry directly supplies ransom/release/riddance; the restoration is the doctrinal meaning and result developed through the full Scripture argument, not a claim that the Greek components literally translate as the English phrase “restoration to original design.”
 
-*Dikaioō* is not a project you complete on a good week. The source's printed gloss is a rendering: God renders just; God renders innocent; free from evil or guilt. The agent is grace. The means is the ransom in full.
+*Dikaioō* is not an achievement produced by a period of successful conduct. The source's printed gloss describes God's act of rendering one just or innocent, free from evil or guilt. The agent is grace; the means is the ransom in full.
 
 Romans 3:27–28 — “Where is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith. Therefore we conclude that a man is justified by faith without the deeds of the law.”
 
-Boasting is excluded. The law of faith excludes it. A man is justified by faith without the deeds of the law. *Pistis* again: credence, not a wage.
-
-The distinction is sharp. Free justification is not earned innocence. A man who is still trying to buy what the source calls a ransom in full is not standing on this stone. He may be busy; he is not crediting the ransom.
+Paul excludes boasting and states that a person is justified by faith without the deeds of the law. The Aletheia source's *pistis* / credence language belongs here: justification is not a wage earned by works, but a free act of grace received through faith. The source's “ransom in full” wording reinforces that the redemption is not something the recipient must complete by personal merit.
 
 ## You are the *dikaiosynē* of God in Christ
 
