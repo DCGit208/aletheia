@@ -520,3 +520,12 @@ The following owner directions govern the current Book I revision and supersede 
 
 
 **Current status supersession note — 2026-11-05:** Earlier sections of this blueprint preserve the historical stages of the architecture and audit. Any earlier statement that the Hebrews 1:8 inference remains open, that the representation thesis awaits owner approval, or that the source/owner lexical formulations await an owner decision is superseded by the owner's directions recorded in section 12 and document 90. The remaining publication work is verification and editorial completion.
+
+
+## 13. Continuous Book I reading manuscript — 2026-11-05
+
+Created `11_THE_DOCTRINE_OF_FAITH_BOOK_I_CONTINUOUS_WORKING_MANUSCRIPT.md` by assembling the ten current chapter manuscripts in their working order. It includes a contents list and an editorial control note, then reproduces the ten chapters in sequence.
+
+**Control rule:** The ten individual chapter files remain the controlled chapter sources. Document 11 is the integrated reading copy for continuous-book review, repetition, transition, voice, quotation and publication editing. When a chapter is revised, refresh document 11 from the current chapter sources; do not let the continuous copy silently diverge.
+
+**Current status:** The integrated manuscript contains ten chapter headings and incorporates the owner's directions recorded in document 90. It is a continuous working manuscript, not yet a publication proof. Full line-by-line editorial review, Bible quotation proofing, lexical verification, references/glossary, and front/back matter remain.
