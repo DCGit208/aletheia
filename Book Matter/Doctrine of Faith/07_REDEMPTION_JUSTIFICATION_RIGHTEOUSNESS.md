@@ -80,7 +80,7 @@ The teaching therefore rejects postponing the statement of 2 Corinthians 5:21 as
 
 The source's sequence brings three Greek terms into relation, but they should not be treated as interchangeable:
 
-- *Dikaioō* is the verb used in the source's question about being justified freely. The leaflet's printed gloss is “render just or innocent (free from evil or guilt).” The owner's additional formulation—“to render righteous or such as he ought to be”—is a separate proposal and remains open for deliberate lexical and doctrinal review.
+- *Dikaioō* is the verb used in the source's question about being justified freely. The leaflet's printed gloss is “render just or innocent (free from evil or guilt).” The complete G1344 entry supplied by the owner includes Thayer's definitions “to render righteous or such he ought to be” and “to declare, pronounce, one to be just, righteous, or such as he ought to be.” The owner directs that these definitions be included and developed alongside the leaflet's printed gloss; this treatment is settled, while the lexical sources remain subject to accurate attribution and verification.
 - *Dikaiosynē* is the related noun the source connects with righteousness/justification, equity, impartiality, and conformity with God's nature. “Original: back on course” is the source's interpretive formulation in this teaching; it should not be presented as a complete dictionary definition of the noun.
 - *Apolutrōsis* is the source's term for redemption, glossed as “ransom in full.” The owner's doctrinal direction now develops the source's “ransom in full” as complete ransom and restoration to original design. Preserve the exact source gloss while stating the owner's restoration conclusion as the intended doctrinal meaning and result.
 
