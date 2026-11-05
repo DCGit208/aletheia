@@ -125,9 +125,7 @@ The source connects *pistis* not only with adoption but also with true nature an
 
 These passages are not interchangeable proof-texts. Each contributes something distinct. Genesis concerns creation in image and likeness and the commission given to humanity. Second Peter speaks of promises, partaking of divine nature, escaping corruption, and the qualities that follow. Psalm 82 must be read with its judgment setting and verse 7, and John 10 with Jesus' argument in its own context. Romans 3, 1 Corinthians 11, and 2 Corinthians 4 each have their own immediate contexts.
 
-The source's sequence invites the reader to investigate how these passages relate to faith as the state of God's children. The book must do that work across the following chapters. It must not assert that one isolated verse proves the whole thesis.
-
-The governing synthesis remains the owner's: Jesus represents who we are by Design, not merely what He accomplished for us. This formulation is central to the manuscript's direction, but it is a thesis to be demonstrated from the connected scriptural argument. It must be held together with the explicit passages about what Christ accomplished, including redemption and justification, rather than used to displace them.
+The source's sequence is now developed in accordance with the owner's direction: faith is our state by design, and the state of God's children is joined to image and likeness, divine nature, sonship, and heirship. The governing representation thesis is also settled: **Jesus represents who we are by Design.** It is to be developed fully through the connected Scripture argument and held together with what Christ accomplished, including redemption and justification.
 
 ## 8. How Chapter 1 and this chapter belong together
 
