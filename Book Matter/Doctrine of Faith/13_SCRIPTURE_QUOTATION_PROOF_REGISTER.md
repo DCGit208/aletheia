@@ -35,25 +35,25 @@
 | 4 | Psalm 82:1–8 | KJV | Targeted checked | Full psalm checked; preserve verses 6–7 together with the judgment setting. |
 | 4 | John 10:30–38 | KJV | Targeted checked | Accusation, Psalm 82 quotation, “scripture cannot be broken,” and works/indwelling argument checked. |
 | 5 | 2 Peter 1:2–8 | KJV | Targeted checked | Promises, partaking, escape from corruption, diligence, qualities, and fruitfulness checked. |
-| 6 | Romans 3:21–22 | KJV | Needs final proof | Verify the exact quotation and punctuation in context. |
+| 6 | Romans 3:21–22 | KJV | Targeted checked | Full KJV wording compared with Bible Gateway; retain the “faith of Jesus Christ” wording exactly. | Verify the exact quotation and punctuation in context. |
 | 6 | Romans 3:23–24 | KJV | Targeted checked | Full continuous wording checked. |
-| 6 | 1 Corinthians 11:7 | KJV | Needs final proof | Verify full quotation; retain headship/covering context in exposition. |
-| 6 | Ephesians 1:7 | KJV | Needs final proof | Verify exact wording. |
-| 6 | Colossians 1:13–14 | KJV | Needs final proof | Verify full passage, including deliverance/translation and redemption/forgiveness. |
+| 6 | 1 Corinthians 11:7 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; exposition still requires contextual review of 1 Corinthians 11:2–16. | Verify full quotation; retain headship/covering context in exposition. |
+| 6 | Ephesians 1:7 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Verify exact wording. |
+| 6 | Colossians 1:13–14 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; preserve “translated” and “even the forgiveness of sins.” | Verify full passage, including deliverance/translation and redemption/forgiveness. |
 | 7 | Romans 3:23–24 | KJV | Targeted checked | Full continuous quotation checked. |
-| 7 | 1 Corinthians 15:41 | KJV | Needs final proof | Verify full verse and punctuation. |
+| 7 | 1 Corinthians 15:41 | KJV | Targeted checked | Exact KJV wording located and checked; retain resurrection-body context in exposition. | Verify full verse and punctuation. |
 | 7 | Genesis 1:27 | TLB | Targeted checked | Ensure wording and copyright credit match Chapter 3. |
-| 7 | Romans 3:27–28 | KJV | Needs final proof | Verify the quotation. |
+| 7 | Romans 3:27–28 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Verify the quotation. |
 | 7 | 2 Corinthians 5:17–21 | KJV | Targeted checked | New creation, reconciliation, ambassadors, Christ made sin, righteousness in Him checked. |
-| 8 | Hebrews 1:1–2 | KJV | Needs final proof | Verify the full opening quotation. |
-| 8 | Hebrews 1:3–4 | KJV | Needs final proof | Verify express-image, purging, exaltation, and inheritance wording. |
-| 8 | Hebrews 1:8 | KJV | Needs final proof | Verse remains in the Son's portrait; the former leaflet question is abandoned. |
+| 8 | Hebrews 1:1–2 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; retain “by his Son” and heir-of-all-things wording. | Verify the full opening quotation. |
+| 8 | Hebrews 1:3–4 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; verify final layout punctuation. | Verify express-image, purging, exaltation, and inheritance wording. |
+| 8 | Hebrews 1:8 | KJV | Targeted checked | Exact KJV verse checked; it remains in the Son’s portrait, while the former leaflet question remains abandoned. | Verse remains in the Son's portrait; the former leaflet question is abandoned. |
 | 8 | Galatians 4:5–7 | KJV | Targeted checked | See Chapter 2 proof. |
 | 8 | Romans 8:14–17 | KJV | Targeted checked | See Chapter 2 proof. |
 | 8 | 2 Corinthians 5:21 | KJV | Targeted checked | See Chapter 7 proof. |
 | 8 | 1 John 4:17 | KJV | Targeted checked | See Chapter 3 proof. |
-| 9 | John 17:1 | KJV | Needs final proof | Verify the opening verse. |
-| 9 | John 17:18–19 | KJV | Needs final proof | Verify the sending/sanctification quotation. |
+| 9 | John 17:1 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Verify the opening verse. |
+| 9 | John 17:18–19 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; preserve the “as … even so” comparison. | Verify the sending/sanctification quotation. |
 | 9 | John 17:20–23 | KJV | Targeted checked | Full prayer passage checked, including “as,” glory given, indwelling, and purpose. |
 | 10 | 2 Corinthians 4:1–6 | KJV | Targeted checked | Ministry, veiled gospel, image of God, preaching Christ, and glory in His face checked. |
 
