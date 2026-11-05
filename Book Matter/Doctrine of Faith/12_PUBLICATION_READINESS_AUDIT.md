@@ -203,3 +203,22 @@ Production controls:
 - Publication is not complete until the final manuscript is proofed, the correct content is attached to the existing book record, and the live reader is checked end-to-end.
 
 **Status after owner instruction:** publication destination and artwork are confirmed. Manuscript proofing, front/back matter, final eBook export, Aletheia World CMS upload, and live-reader verification remain open. This section records the production decision; it does not certify the manuscript as publication-ready.
+
+
+## 12. Existing Aletheia World catalogue/content reconciliation — 2026-11-06
+
+Repository inspection identified the existing catalogue record for `book-doctrine-of-faith` in `src/lib/data/catalog.ts`:
+- Display title: **Doctrine of Faith**
+- Subtitle: **The Gospel That Restores Our True Nature**
+- Author: Dr. Coach Achu Gustave
+- Publisher: Aletheia Publications
+- Existing cover asset: `/covers/doctrine-of-faith-seal.png` (with alternate cover artwork choices already configured)
+- Catalogue status: `published`
+- Current catalogue chapter count: **8**
+- Current product description: describes an eight-chapter companion book for Course 2.
+
+The existing app reading content is separately defined in `src/lib/content/companion-faith.ts` as `faithCompanionChapters`, under the same book ID. The new canonical Book I continuous manuscript contains **10 chapters**. This is a material version/content mismatch, not a cover problem.
+
+**Required migration decision and implementation:** preserve the existing book ID, cover artwork, author/publisher identity, and live companion source. Prepare the new ten-chapter Book I as a distinct canonical content source and explicitly map it to the intended reader/catalogue release only after the manuscript is proofed. Reconcile the current eight-chapter companion relationship, product description, chapter count, preview chapter, and protected-content index together. Do not simply change `chapterCount` from 8 to 10 or overwrite `companion-faith.ts`; that would risk a catalogue/reader mismatch and loss of the existing app content.
+
+**Current verified state:** the existing Aletheia World catalogue entry is already marked published and already points to the existing cover asset. The new ten-chapter manuscript has not yet been deployed to that entry. The final manuscript and reader migration must be completed before the listing can accurately represent the new Book I edition.
