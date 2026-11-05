@@ -62,9 +62,9 @@ These passages explicitly speak of redemption, blood, forgiveness, and—within 
 
 ## How this connects to the design thesis
 
-The owner's developing thesis is that **Jesus represents who we are by Design**. This chapter contributes one part of that cumulative argument: the source connects the glory humanity came short of with image and true nature, and places Christ's coming, redemption, and free justification in response to that condition.
+The owner's settled direction is that **Jesus represents who we are by Design—fully**. This is not a minor supplementary theme and must not be left as a tentative possibility. Jesus represents the human identity and nature established in the creation design: image and likeness, participation in divine nature, sonship, heirship, righteousness, perfection, and oneness. He is the Son, the express image of the Father's person, and the one in whom humanity's designed identity is revealed. The argument is cumulative across Genesis 1:26–28; 2 Peter 1:4; Galatians 4:5–7; Romans 8:16–17; Hebrews 1:2–3; Matthew 5:48; 1 John 4:17; and John 17:20–23.
 
-Do not reduce the question “Why did Jesus come?” to a slogan that never names the glory. Equally, do not claim that Romans 3:21–26 alone spells out every aspect of the owner's full design/representation thesis. That thesis must be developed through the connected Scripture set, including Genesis 1:26–28, Romans 8:17, 1 John 4:17, John 17:20–23, Hebrews 1:2, and the redemption passages.
+This representation does not cancel or minimize what Jesus accomplished. Romans 3:23–24 names sin, coming short of glory, free justification, grace, and redemption in Christ. The owner's direction is that sin is falling short of our designed state, and justification and redemption restore us to that state. The book must therefore hold both dimensions together: **Jesus represents who we are by Design, and Jesus accomplished the redemption and restoration by which we are brought back to that design.**
 
 ## Charge of this chapter
 
