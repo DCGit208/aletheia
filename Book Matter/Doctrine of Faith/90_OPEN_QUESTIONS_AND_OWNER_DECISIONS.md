@@ -103,31 +103,10 @@
 **Status:** Resolved — doctrinal direction supplied.
 
 ### E. Foundation-first argument control
-**Question:** What is the correct chapter sequence when Book I is built from faith as *hypostasis* / substance and the person's underlying nature and state?
 
-**Owner direction (2026-10-18):** This is the foundation and core of Book I, not a topic reserved for Book II. The manuscript must develop the source notes and etymological argument carefully, distinguish lexical evidence from Aletheia teaching and owner synthesis, and then show how the remaining doctrinal clusters relate to the foundation.
+The foundation-first direction is settled: Hebrews 11:1 and *hypostasis* belong at the foundation of Book I. The Aletheia leaflet's Faith Toward God section explicitly discusses Hebrews 6:1, *pistis* / credence, true nature, and Sonship; it does not itself quote Hebrews 11:1 or use *hypostasis*. The book connects these two lines by a reasoned argument without false attribution.
 
-**Required action:** Reassess the current nine-chapter architecture before treating it as validated. Preserve all current chapter drafts as working material. Do not settle lexical or doctrinal details by assumption.
-
-**Status:** Governing direction established and implemented in the ten-chapter sequence. Remaining work is final architecture and continuity verification, not owner-decision approval.
-
-## D. Source and publication decisions
-
-### D1. Use of *BIBLE INTRODUCTION.pdf*
-**Question:** Does the owner intend this Dake Study Bible introduction to be a continuing reference for the Faith manuscript, or was it supplied as general background?
-
-**Current audit finding:** It is supplementary reference material. No specific note has yet been identified as changing the Aletheia leaflet's Course 2 architecture. Cite a particular note/page only if actually used.
-
-**Status:** Open.
-
-### D2. Final chapter titles
-**Question:** Should the current app titles remain the reader-facing book titles, or should titles be revised after the architecture is validated?
-
-**Constraint:** No title change should erase or obscure a source-defined doctrinal movement.
-
-**Status:** Open.
-
----
+**Status:** Implemented in Chapters 1 and 2 and carried through the ten-chapter sequence. The contextual sense of *hypostasis* and the full lexical argument remain scholarly verification tasks, not unresolved owner directions.
 
 ## Decision protocol
 
