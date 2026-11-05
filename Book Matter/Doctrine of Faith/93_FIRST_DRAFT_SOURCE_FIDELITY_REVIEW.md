@@ -318,3 +318,36 @@ The historical first-pass tables in this review still contain old nine-chapter l
 ### Scope and remaining gate
 
 This pass confirms the conceptual continuity of the selected chapters, not final doctrinal approval or publication readiness. Remaining work includes: the owner's Hebrews 1:8 decision; the full lexical/contextual proof of *hypostasis*; the Mark 11:22 genitive/translation question; the source's *dikaioō*, *dikaiosynē*, and *apolutrōsis* formulations; and a final quotation/proofread pass against the selected Bible edition.
+
+
+## 16. Foundation-first continuity audit — Chapters 2–5 — 2026-11-05
+
+This pass checked the transition from the new foundation chapter into the source's *pistis* teaching and the following design / divine-nature chapters.
+
+### Chapter 2 — *Pistis*, credence, and Sonship
+- The chapter preserves the leaflet's explicit statement that *pistis* / credence defines the state of God's children, and does not claim that the leaflet itself cites Hebrews 11:1 or uses *hypostasis*.
+- Galatians 4:4–7 is presented in its sequence: the Son sent, redemption, adoption, the Spirit's cry “because ye are sons,” and heirship through Christ. The interpretation of the Spirit's cry as following Sonship is identified as inference from the sequence.
+- Romans 8:14–17 retains adoption, witness, inheritance, suffering, and shared glory. Ephesians 1:3–5 distinguishes the passage's wording from the inference that adoption was not an afterthought.
+- Hebrews 11:2, 5–6 and Matthew 3:17 are treated as a synthesis inquiry into faith, good report, pleasing God, and the Father's declaration over the Son—not as a lexical definition of *pistis*.
+- **Continuity finding:** Chapter 2 is a substantive bridge from Chapter 1's *hypostasis* foundation to the source's explicit *pistis* / state / Sonship teaching.
+
+### Chapter 3 — Image, likeness, and design
+- Genesis 1:26–28 remains the textual anchor. The leaflet's *’ĕlōhîm* / “plural: Trinity” reading is preserved as its theological interpretation and not represented as a grammatical conclusion established by the noun alone.
+- The leaflet's paraphrase and translation attribution are kept distinct from KJV wording; exact edition verification remains open.
+- Mark 11:20–25 is retained in context. The Greek genitive *pistin theou* is not treated as mechanically deciding “faith in God,” “faith of God,” or the owner's “state of God” formulation. The latter remains the owner's doctrinal interpretation to be argued.
+- Matthew 5:43–48 retains the love-of-enemies context for “Be ye therefore perfect.” 1 John 4:17 retains love and confidence context. The design thesis remains cumulative rather than being assigned to either isolated verse.
+- **Continuity finding:** Chapter 3 develops the source's true-nature/design movement after Chapters 1–2, and its handoff to Psalm 82 is clear.
+
+### Chapter 4 — Psalm 82 and John 10
+- Psalm 82:6 is held together with verse 7 and the psalm's judgment setting. John 10:30–38 is treated as one exchange, including the accusation, Jesus' appeal to the written text, “the scripture cannot be broken,” and the appeal to the Father's works and mutual indwelling.
+- The chapter distinguishes what Jesus' appeal explicitly establishes from the wider design / divine-nature synthesis. It neither empties “Ye are gods” nor makes the verse carry the entire doctrine.
+- **Continuity finding:** The chapter receives the Genesis design question and hands forward to 2 Peter's explicit participation / promise / corruption / diligence sequence.
+
+### Chapter 5 — Partakers of divine nature
+- 2 Peter 1:2–8 is developed in sequence: knowledge, divine power, promises, participation in divine nature, escape from corruption, diligence, virtues, and fruitfulness.
+- The relationship to Genesis 1:26–28 is explicitly treated as cross-passage synthesis. “Back on course” is preserved as the Aletheia source's conceptual formulation, not made an exhaustive dictionary definition of *dikaiosynē*.
+- The distinction between the noun *spoudē* in 2 Peter 1:5 and the related verb *spoudazō* is noted; the terms are not silently conflated.
+- **Continuity finding:** Chapter 5 develops the design/nature argument without detaching verse 4 from verses 5–8, and hands to the Romans 3 / Christ argument.
+
+### Remaining scope
+This is a focused audit of Chapters 2–5, not a full line-by-line proofread. The current ten-chapter index is now inserted into document 96 so that historical first-pass tables cannot be mistaken for the authoritative chapter map. Remaining work includes the detailed Chapter 6–7 argument and terminology audit, source quotation proofing, lexical verification, and owner decisions already listed in document 90.
