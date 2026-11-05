@@ -179,3 +179,8 @@ References consulted:
 - [Thayer G1344](https://biblehub.com/thayers/1344.htm); [Strong's G629 and Thayer G629](https://biblehub.com/strongs/greek/629.htm)
 
 **Scope limitation:** These are targeted checks of key quotations and terms, not yet a line-by-line proof of every biblical quotation and reference in all ten chapters. The full quotation audit remains open until each occurrence is checked against the selected edition and marked off in the chapter-level proof record.
+
+
+## 9. Chapter-by-chapter Scripture quotation register
+
+Created document 13, SCRIPTURE_QUOTATION_PROOF_REGISTER.md, to track substantial quotations by chapter, translation/source, current verification status, and final proofing requirements. The register distinguishes targeted checks from final proof and separates Bible quotations from Aletheia source quotations. It must be completed after all quotations have been checked against the selected editions and again after page layout.
