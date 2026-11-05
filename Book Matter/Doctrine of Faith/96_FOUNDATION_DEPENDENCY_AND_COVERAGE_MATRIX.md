@@ -187,3 +187,8 @@ The first integrated editorial pass across all ten chapter files is complete and
 ## 12. Targeted Scripture and lexical verification — 2026-11-05
 
 Key KJV passages and the supplied Genesis 1:27 TLB wording have received targeted checks. Romans 3:24 Greek morphology and the G1344/G629 lexical entries have also been checked. Document 12 records the references and the exact scope. The full chapter-by-chapter quotation proof remains open; targeted checks must not be mistaken for complete publication proof.
+
+
+## 13. Scripture quotation proof register — 2026-11-05
+
+Document 13 now tracks the substantial Scripture quotations chapter by chapter, distinguishes targeted checks from final proof, and records original-language forms and Aletheia-source quotations separately. Complete this register before publication; it is the control against omitted quotation checks.
