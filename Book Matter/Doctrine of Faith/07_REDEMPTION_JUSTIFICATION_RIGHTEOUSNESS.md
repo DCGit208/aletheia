@@ -12,14 +12,17 @@ The source's lexical glosses are preserved, and the owner's additional direction
 
 ## *Dikaioō* — justified freely and restored to our designed state
 
-The Greek verb δικαιόω (*dikaioō*, Strong's G1344) is the word translated “justified” in Romans 3:24. The Strong's definition supplied for this study is reproduced in full:
+The Greek verb δικαιόω (*dikaioō*, Strong's G1344) is the word translated “justified” in Romans 3:24. The complete G1344 entry supplied for this study is reproduced below, with its parts attributed accurately: Strong's gives the core gloss and AV usage; the three extended definitions are Thayer's Greek Lexicon definitions.
 
 > **δικαιόω — STRONG'S NUMBER: G1344**  
 > *dikaioō*; from 1342; to render (i.e. show or regard as) just or innocent: — free, justify(-ier), be righteous.  
-> **AV (40):** justify 37, be freed 1, be righteous 1, justifier 1;  
-> to render righteous or such he ought to be; to show, exhibit, evince, one to be righteous, such as he is and wishes himself to be considered; to declare, pronounce, one to be just, righteous, or such as he ought to be.
+> **AV (40):** justify 37, be freed 1, be righteous 1, justifier 1.  
+> **Thayer's Greek Lexicon — G1344:**  
+> 1. to render righteous or such he ought to be;  
+> 2. to show, exhibit, evince, one to be righteous, such as he is and wishes himself to be considered;  
+> 3. to declare, pronounce, one to be just, righteous, or such as he ought to be.
 
-The Aletheia leaflet's printed gloss is “render just or innocent (free from evil or guilt).” The owner directs that the fuller Strong's definition above be included, especially its wording “to render righteous or such he ought to be” and “to declare, pronounce, one to be just, righteous, or such as he ought to be.” The two are not contradictory statements to be artificially separated into competing doctrines: the full definition contains both the rendering/showing language and the declaring/pronouncing language. Preserve the leaflet's exact wording and the complete supplied definition.
+The Aletheia leaflet's printed gloss is “render just or innocent (free from evil or guilt).” The owner directs that the full supplied G1344 entry be included, especially Thayer's wording “to render righteous or such he ought to be” and “to declare, pronounce, one to be just, righteous, or such as he ought to be.” The two are not contradictory statements to be artificially separated into competing doctrines: the full lexical entry contains rendering/showing language and declaring/pronouncing language. Preserve the leaflet's exact wording and the complete supplied entry.
 
 The owner's doctrinal explanation is that *dikaioō* in Romans 3:24 must be read in the full movement of Romans 3:23–24. Humanity fell short of the glory of God because that glory belongs to the identity and design from which humanity deviated. One cannot fall short of a glory that has no relation to one's designed identity. Justification is therefore not merely a change in a legal label; in the Aletheia teaching's design argument, it is God's gracious act of rendering us righteous—such as we ought to be—and restoring us to the state for which we were made.
 
@@ -43,7 +46,7 @@ Genesis 1:26–27 supplies the design basis: humanity is made in God's image and
 
 There is no unpaid remainder on that ransom. *Apolutrōsis* is glossed by the Aletheia source as “redemption; ransom in full.” The owner's direction is that redemption means we are completely ransomed and restored to original design. The full ransom is not an incomplete transaction that leaves humanity permanently beneath its intended state. In the book's doctrinal argument, redemption and restoration belong together: the ransom is complete, and its purpose and result are our return to the state for which we were made.
 
-For lexical precision, the source's gloss “ransom in full” is the direct lexical statement to preserve. The restoration-to-original-design conclusion is the owner's doctrinal interpretation of redemption in the full Aletheia Scripture framework—Genesis 1:26–28, Romans 3:23–24, 2 Corinthians 5:17–21, Ephesians 1:7, Colossians 1:13–14, and 2 Peter 1:4. Do not claim that the component parts of the Greek word, in isolation, independently spell out every aspect of restoration; show how the full-ransom meaning and the Scripture's restoration/design movement are joined.
+For lexical precision, Strong's G629 derives ἀπολύτρωσις (*apolutrōsis*) from a compound of G575 (*apo*) and G3083 (*lytron*, ransom) and glosses it as “the act [of] ransom in full,” figuratively “riddance,” or Christian salvation. Thayer describes it as “a releasing effected by payment of ransom,” and as redemption, deliverance, or liberation procured by ransom. These lexical details support the complete-ransom and release dimensions of the owner's direction. The restoration-to-original-design conclusion is the owner's doctrinal interpretation of redemption in the full Aletheia Scripture framework—Genesis 1:26–28, Romans 3:23–24, 2 Corinthians 5:17–21, Ephesians 1:7, Colossians 1:13–14, and 2 Peter 1:4. The word's etymology and lexicon support ransom/release/riddance; the full restoration-to-design doctrine is developed from the combined Scripture argument rather than claimed as a separate literal gloss of the Greek components.
 
 *Dikaioō* is not a project you complete on a good week. The source's printed gloss is a rendering: God renders just; God renders innocent; free from evil or guilt. The agent is grace. The means is the ransom in full.
 
@@ -92,3 +95,12 @@ Next, write 2 Corinthians 5:17–21 in context. What does the passage say about 
 Finally, preserve the full Strong's G1344 definition and the leaflet's printed gloss. Explain how Romans 3:23–24, Genesis 1:26–27, 1 Corinthians 15:41, and the redemption passages form the owner's doctrinal argument that justification restores humanity to its designed state. The owner has now supplied the governing interpretation; this is no longer an open decision awaiting formulation.
 
 **Transition to Chapter 8:** The next chapter examines the Son as heir of all things, the express image of the Father, and the pattern and representation of humanity's design. It then develops the believer's sonship and heirship through Galatians 4:5–7 and Romans 8:16–17. Hebrews 1:8 remains part of the Son's scriptural portrait, but the former leaflet question is not an unresolved owner decision.
+
+
+### Lexical references for G1344 and G629
+
+- Strong's Greek G1344, δικαιόω (*dikaioō*), core definition and AV usage; Thayer's extended definitions reproduced above. Reference consulted: https://kingjamesbibledictionary.com/StrongsNo/G1344/Justified and https://www.studylight.org/lexicons/eng/greek/1344.html.
+- Strong's Greek G629, ἀπολύτρωσις (*apolutrōsis*), from G575 and G3083; “ransom in full,” figuratively “riddance,” or Christian salvation. Reference consulted: https://biblehub.com/strongs/greek/629.htm.
+- Thayer's Greek Lexicon, G629: release effected by payment of ransom; redemption, deliverance, liberation procured by ransom. Reference consulted: https://biblehub.com/thayers/629.htm.
+
+These lexical references support the word-level statements. They do not replace the Aletheia source or independently establish every element of the owner's wider restoration-to-design doctrine.
