@@ -317,3 +317,19 @@
 - Added Tyndale's TLB fair-use and copyright-credit requirement for the copyright page; the manuscript uses one TLB verse and the appropriate multiple-translation credit line is specified in the audit.
 - Listed remaining gates: complete Bible quotation proof, specialist lexical review, line-by-line copy edit, references/glossary, front/back matter, layout, cover, metadata, and final owner proof.
 - **Readiness decision:** Not yet publication-ready. The book may proceed to final editorial and production work; no publication-readiness claim is made until the remaining gates pass.
+
+
+## 2026-11-05 — First integrated editorial pass across ten chapters
+
+- Revised Chapters 1–10 for status consistency, doctrinal direction, chapter transitions, source attribution, and reader-facing clarity.
+- Chapter 1 now explicitly reports Thayer's placement of Hebrews 11:1 under confidence/assurance, the substance/nature sense at Hebrews 1:3, and the differing Cambridge and Expositor's commentary readings.
+- Chapter 2 now develops the Father's pleasure and Sonship connection with Ephesians 1:5, Matthew 3:17, Galatians 4:5–7, Romans 8:14–17 and Hebrews 11:2, 5–6.
+- Chapter 3 removes obsolete Mark 11:22 question language and aligns the discussion with the owner's settled design-identity direction.
+- Chapters 4–6 were tightened around the Psalm 82/John 10 context, 2 Peter 1:2–8 sequence, and the joined representation/accomplishment thesis.
+- Chapter 7 adds the Romans 3:24 participle and morphology; distinguishes Strong's from Thayer's definitions; includes Thayer's caution on the “make righteous” sense; and clarifies the complete-ransom/restoration-to-design explanation.
+- Chapter 8 distinguishes the Son's unique appointed heirship from believers' inheritance through Him.
+- Chapters 9–10 received status, title, and synthesis revisions.
+- Refreshed document 11 from the latest ten chapter files; current continuous manuscript is 133,672 characters.
+- Automated integrity checks passed for ten chapter headings and the principal owner-directed passages/formulations; no stale open Hebrews 1:8 decision or provisional representation thesis remains.
+- Updated document 12 with chapter-by-chapter revision record and scope limitation.
+- **Remaining work:** second editorial pass; full quotation-by-quotation proof against the chosen Bible editions; full source/lexical bibliography and references; footnotes/endnotes; glossary; front/back matter; final production design and owner proof. This is not yet a publication proof.
