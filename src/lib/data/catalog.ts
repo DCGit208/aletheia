@@ -113,21 +113,21 @@ export const catalog: CatalogSnapshot = {
       title: "The God of Pleasure",
       subtitle: "Understanding Who He Is, What It Says, and Why This Book",
       description:
-        "A study framed by Revelation 4:11, examining the pleasure of God and challenging portrayals of God as an oppressor. The book's stated thesis connects God's purpose and the life He gives with the abundant life named in John 10:10. This in-app entry currently contains an introductory study record; the complete manuscript must be supplied before the full book can be represented as available.",
+        "What if pleasure is not an embarrassment in the character of God, but belongs to the very purpose of creation? Beginning with Revelation 4:11 and reading its declaration alongside the wider scriptural witness, this book examines the pleasure of the Creator, the meaning of human enjoyment, and the relationship between pleasure, goodness, righteousness, and abundant life. It challenges religious portrayals of God as an oppressor and cultural ideas that reduce pleasure to selfish indulgence. From personal life and moral responsibility to leadership and the flourishing of societies, it argues for the recovery of pleasure rightly understood: delight in what is truly good, ordered by the character and purpose of God.",
       authors: [achu],
       contributors: [],
       publisher: BRAND.publications,
       publishedAt: "2026-10-18",
       language: "en",
       edition: "First",
-      categories: ["God", "Nature of God", "Truth"],
-      tags: ["god", "pleasure", "revelation-4-11", "john-10-10", "divine-nature"],
+      categories: ["God", "Nature of God", "Truth", "Ethics"],
+      tags: ["god", "pleasure", "revelation-4-11", "john-10-10", "divine-nature", "goodness", "ethics", "abundant-life"],
       coverTone: "gold",
       coverImage: "/covers/god-of-pleasure.PNG",
       status: "published",
       accessLevel: "public",
       previewChapterIds: ["ch-god-of-pleasure-introduction"],
-      chapterCount: 1,
+      chapterCount: 11,
     },
     {
       id: "book-death-absence-of-knowledge",
@@ -553,15 +553,159 @@ The cover is published. The full study will enter this reader next.`,
       id: "ch-god-of-pleasure-introduction",
       bookId: "book-god-of-pleasure",
       number: 1,
-      title: "Introduction",
-      body: `Revelation 4:11 is the stated scriptural anchor of The God of Pleasure.
+      title: "Introduction — The Question Religion Was Afraid to Ask",
+      body: `Why should the word pleasure make a religious person uncomfortable? Why is pain so often treated as though it were more spiritual than joy? The existence of corrupt pleasures does not make pleasure itself corrupt. Food can nourish or poison; power can protect or oppress; speech can tell truth or deceive. The misuse of a good does not establish that the good itself is evil.
 
-The book's stated thesis challenges the framing of God as an oppressor and examines who He is, what the Scripture says, and why this question matters. Its proposed connection to John 10:10 places the question of God's pleasure alongside the life Christ says He came to give.
+The governing question of this book is not whether pleasure can be abused. It can. The question is what pleasure means in the order of God's creation, and what the Creator reveals about its place in human life.
 
-This is an introductory catalogue reading, not the complete manuscript. The full author-approved text must be added before the book can be presented as a complete study.`,
+Revelation 4:11 places the question before the throne. The elders declare God worthy because He is the Creator and because all things exist by His will and for His pleasure. John 10:10 brings the question into the mission of Christ: He came that people might have life, and have it more abundantly. Abundant life is not a licence for selfish excess; it is life in the fullness of God's purpose.
+
+This book argues that pleasure, understood as delight in what is truly good, belongs to the purpose of God for creation and human existence. It challenges both religious suspicion of enjoyment and ungoverned appetite. It will define pleasure, examine Scripture, distinguish good pleasure from corrupt gratification, and consider the consequences for people, leaders, institutions, and societies.`,
     },
     {
-      id: "ch-death-absence-knowledge-introduction",
+      id: "ch-god-of-pleasure-02",
+      bookId: "book-god-of-pleasure",
+      number: 2,
+      title: "The Throne and the Declaration of Purpose",
+      body: `Revelation 4:11 is spoken in the setting of the heavenly throne. The elders declare: “Thou art worthy, O Lord, to receive glory and honour and power,” and give the reason: “for thou hast created all things, and for thy pleasure they are and were created” (KJV). Worthiness, glory, honour, power, creation, and pleasure are joined in one declaration.
+
+The KJV wording deserves careful handling. The Greek phrase commonly rendered “because of your will” uses the word thelēma, meaning will, desire, or that which is willed. The KJV renders the thought “for thy pleasure.” This lexical observation does not cancel the theological force of the verse; it helps us see that divine pleasure is bound to divine will and purpose, not an arbitrary mood detached from God's character.
+
+The verse explicitly declares that all things were created by God's will and that their existence is related to His pleasure. This book develops the further theological conclusion that pleasure belongs to the purpose of all things by reading this declaration alongside the wider scriptural witness. God is not judged by creation; creation is understood in relation to God.
+
+The first conclusion is foundational: existence is purposeful, and its purpose must be understood from the One who created it.`,
+    },
+    {
+      id: "ch-god-of-pleasure-03",
+      bookId: "book-god-of-pleasure",
+      number: 3,
+      title: "Who Is the God Whose Pleasure Matters?",
+      body: `God's pleasure must be understood in relation to who He is. Scripture describes Him as good (Psalm 100:5; Mark 10:18), righteous (Psalm 11:7), merciful (Exodus 34:6–7), truthful (Titus 1:2), loving (1 John 4:8), and wise (Romans 16:27). His will is not morally empty. He does not call evil good because He happens to desire it.
+
+Scripture speaks of God taking pleasure in His people (Psalm 149:4), in those who fear Him and hope in His mercy (Psalm 147:11), and in the well-being of His servant (Psalm 35:27). Zephaniah 3:17 portrays God rejoicing over His people; Luke 12:32 says it is the Father's good pleasure to give the kingdom. These are not portraits of a God hostile to the good of His creatures.
+
+God's pleasure is not selfishness. Selfishness seeks gratification by disregarding the good of others. God's pleasure is the delight of perfect goodness; it does not compete with the good of His creation. To call God the God of Pleasure is to recognize that His creative will, His delight in goodness, and His purpose for creation belong together.`,
+    },
+    {
+      id: "ch-god-of-pleasure-04",
+      bookId: "book-god-of-pleasure",
+      number: 4,
+      title: "What Is Pleasure? A Full Account of the Word",
+      body: `Pleasure is not one sensation. It includes delight, enjoyment, satisfaction, gladness, gratification, contentment, joy, appreciation, and fulfilment. It may be bodily, emotional, intellectual, relational, aesthetic, moral, spiritual, or contemplative.
+
+The pleasure of a meal differs from the pleasure of understanding a difficult truth. The delight of music differs from the satisfaction of reconciliation. There is immediate pleasure—the taste of food, laughter, warmth, rest—and reflective pleasure, such as the joy of keeping a promise or seeing a student understand. There is intellectual pleasure in discovery, relational pleasure in affection and belonging, moral pleasure in justice and generosity, and spiritual pleasure in worship, gratitude, hope, and communion with God.
+
+Pleasure must be distinguished from neighbouring ideas. Happiness often describes a broader state of well-being. Joy can persist through difficulty. Gratification is the satisfaction of an appetite and may be good or bad. Contentment is settled sufficiency. Fulfilment concerns the realization of a meaningful purpose. Satisfaction is the experience that a desire, task, or need has been adequately met.
+
+This book defines pleasure as the positive experience of delight, enjoyment, satisfaction, or fulfilment arising from an object, action, relationship, condition, or reality experienced as desirable. Its moral quality depends upon the object, the truth of the desire, the means by which it is pursued, and its consequences for the person and others.`,
+    },
+    {
+      id: "ch-god-of-pleasure-05",
+      bookId: "book-god-of-pleasure",
+      number: 5,
+      title: "Pleasure, Goodness, and the Highest Good",
+      body: `The question “What is pleasurable?” is not identical to “What is good?” A person can enjoy what is destructive. The fact that an action produces pleasure does not, by itself, establish its moral worth. A complete ethical account must explain the relationship between pleasure and goodness.
+
+This book argues that pleasure reaches its highest form when it is the delight of what is truly good. The highest good cannot be an isolated sensation, because sensations pass and can be produced by corrupt objects. If God is the supreme good, then delight in God and in what accords with His goodness has a claim higher than temporary gratification. Psalm 16:11 speaks of fullness of joy in God's presence; Psalm 37:4 calls the reader to delight in the Lord.
+
+Hedonism has several philosophical meanings. Psychological hedonism concerns motivation; ethical hedonism concerns the place of pleasure in moral value. Neither should be reduced to the slogan “do whatever feels good.” The theological argument here is that the Creator is the source and measure of the good; therefore pleasure must be understood in relation to His will and character.
+
+Pleasure divorced from goodness becomes an unreliable guide. Goodness understood as hostility to all delight becomes a distorted account of the life God gives. The pleasure worth defending is consistent with truth, justice, love, and the flourishing of persons.`,
+    },
+    {
+      id: "ch-god-of-pleasure-06",
+      bookId: "book-god-of-pleasure",
+      number: 6,
+      title: "The Difference Between Pleasure and Indulgence",
+      body: `Scripture warns about the pleasures of sin (Hebrews 11:25), disordered desires (James 4:1–3), and people who become lovers of pleasures more than lovers of God (2 Timothy 3:4). These passages must be faced directly. They do not establish that all pleasure is evil; they establish that desire can become disordered and that pleasure can be pursued against God.
+
+Indulgence is the ungoverned or excessive satisfaction of appetite, especially where desire ignores truth, responsibility, proportion, or the well-being of others. The pleasurable feeling does not sanctify the object. The pleasure of exploitation, cruelty, deception, or domination is not made good by the fact that someone enjoys it.
+
+Pain is not automatically virtuous, just as pleasure is not automatically righteous. Pain can warn or accompany sacrifice, but it can also be needless and cruel. Pleasure can be wholesome or corrupt. Both must be understood in relation to truth and the good.
+
+Holiness is not permission for appetite to rule; neither is it a command to despise every form of delight. It is a life ordered toward God, in which desires are examined, disciplined, and directed toward what is good.`,
+    },
+    {
+      id: "ch-god-of-pleasure-07",
+      bookId: "book-god-of-pleasure",
+      number: 7,
+      title: "The Pleasure of God in the Scriptural Record",
+      body: `The theme of divine pleasure does not rest on one verse alone. Psalm 149:4 says that the Lord takes pleasure in His people. Psalm 147:11 says that He takes pleasure in those who fear Him and hope in His mercy. Psalm 35:27 speaks of the Lord taking pleasure in the well-being of His servant. Zephaniah 3:17 describes God rejoicing over His people; Luke 12:32 says it is the Father's good pleasure to give the kingdom. Ephesians 1:5 and 1:9 speak of the good pleasure of His will.
+
+Scripture also speaks of what does not please God. He does not delight in wickedness (Psalm 5:4); He rejects injustice and hypocrisy and calls for righteousness, mercy, and truth. Divine pleasure is morally defined, not indiscriminate approval.
+
+The Bible Introduction supplied for this project emphasizes gathering relevant biblical information across Scripture rather than treating the Bible as a systematic discourse on every subject in one location. This study follows that approach: Revelation 4:11 is the anchor, and the wider scriptural record illuminates God's will, delight, goodness, and the life He gives.
+
+The cumulative picture is not a God embarrassed by pleasure, but a God whose delight is inseparable from His goodness and whose will gives creation its purpose.`,
+    },
+    {
+      id: "ch-god-of-pleasure-08",
+      bookId: "book-god-of-pleasure",
+      number: 8,
+      title: "Human Pleasure: Gift, Responsibility, and Abundant Life",
+      body: `The biblical account of human life includes enjoyment. Ecclesiastes 2:24; 3:12–13; and 5:18–20 speak of eating, drinking, and finding satisfaction in labour as gifts from God. First Timothy 6:17 describes God as the One who gives richly all things to enjoy. These texts resist the claim that enjoyment is inherently suspect.
+
+The gift carries responsibility. Enjoyment is not an excuse to forget the Giver, waste what has been entrusted, or harm another person. John 10:10 declares Christ's purpose in terms of abundant life. Abundance is not reducible to possessions, constant excitement, or the fulfilment of every appetite. It includes reconciliation with God, truth, freedom from destructive bondage, meaningful relationships, purposeful work, peace, wisdom, and the capacity to give and receive good.
+
+The connection between Revelation 4:11 and John 10:10 is theological: the life Christ gives is consistent with the Creator's purpose, not a rival to it. Human pleasure is a gift to receive with gratitude, a capacity to exercise with wisdom, and a responsibility to order toward the good.`,
+    },
+    {
+      id: "ch-god-of-pleasure-09",
+      bookId: "book-god-of-pleasure",
+      number: 9,
+      title: "The Ethics of Pleasure: The Good of the Other",
+      body: `If pleasure is to be defended as an ethical principle, the argument must pass beyond the private individual. The ethical question is not only “What gives me pleasure?” but “What kind of pleasure can be pursued without denying the good, dignity, and rightful claims of another?”
+
+A pleasure founded on another person's degradation contradicts the goodness this book seeks to defend. Exploitation may gratify the exploiter, but it is not a worthy expression of the Creator's purpose. The pleasure of power must be distinguished from the goodness of responsible authority.
+
+Human beings can take pleasure in another's success, recovery, learning, freedom, or happiness. Such delight expands rather than diminishes the good. Families, institutions, economies, and communities are transformed when they make room for truthful relationships, meaningful work, education, safety, justice, creativity, rest, and the flourishing of persons.
+
+The principle is not that every preference must be satisfied. Some desires are unjust. The principle is that enjoyment worthy of the Creator's goodness must be consistent with truth, justice, love, and the good of others.`,
+    },
+    {
+      id: "ch-god-of-pleasure-10",
+      bookId: "book-god-of-pleasure",
+      number: 10,
+      title: "Kings, Power, and the Pleasure of a Just Society",
+      body: `Those who govern shape the conditions in which people live. Power can create conditions for flourishing, or manufacture misery. A ruler may take pleasure in wealth, praise, control, and obedience, but these pleasures are not proof of worthy leadership.
+
+Revelation 4:11 places every ruler under an ultimate truth: the Creator is worthy; the ruler is not the creator. Authority is accountable. A king who treats people as instruments for personal gratification has confused office with ownership.
+
+A just ruler should take pleasure in the good of the people: security, honest courts, meaningful work, education, opportunity, peace, and protection of the vulnerable. Scripture condemns rulers who exploit the poor, manipulate justice, and use power for private gain. The issue is not pleasure itself, but pleasure detached from righteousness.
+
+Kings should tremble—not because the book threatens them with theatre, but because it reminds them that power is not ultimate and that the Creator's goodness is the measure by which human authority is judged.`,
+    },
+    {
+      id: "ch-god-of-pleasure-11",
+      bookId: "book-god-of-pleasure",
+      number: 11,
+      title: "The Stigma of Pleasure and the Awakening of Society",
+      body: `The stigma surrounding pleasure often grows from confusion. Some treat the abuse of pleasure as proof that pleasure itself is evil. Others use religious language to justify control, deprivation, or suspicion toward ordinary human enjoyment. Commercial culture can make the opposite error by reducing pleasure to consumption and instant gratification.
+
+The recovery of pleasure requires intellectual honesty. We must acknowledge biblical warnings against corrupt desire while also acknowledging the celebration of joy, delight, gratitude, feasting, beauty, rest, friendship, and the enjoyment of God's gifts. Neither group of texts should be silenced.
+
+This book challenges religious beliefs that portray God as an oppressor who begrudges human happiness. It also challenges cultural beliefs that define freedom as the right to satisfy every appetite without regard for consequence. The first produces needless guilt; the second produces bondage under desire. Neither is abundant life.
+
+A transformed person learns to desire what is good. A transformed society values the conditions in which people can live, learn, create, work, rest, love, worship, and flourish without being crushed by the appetites or power of others.`,
+    },
+    {
+      id: "ch-god-of-pleasure-conclusion",
+      bookId: "book-god-of-pleasure",
+      number: 12,
+      title: "Conclusion — For Thy Pleasure",
+      body: `The declaration of Revelation 4:11 remains: all things were created by God's will and in relation to His pleasure. The Creator is worthy. Creation is purposeful. Pleasure cannot be dismissed as an embarrassing subject, because the scriptural witness places divine pleasure within the account of who God is and why all things exist.
+
+This book has not argued that every desire is righteous, every gratification beneficial, or every experience called pleasure should be pursued. Scripture rejects the pleasures of sin and warns against loving pleasure more than God. Those warnings establish the need for truth, order, and moral discernment; they do not abolish pleasure.
+
+The central claim is that pleasure rightly understood belongs to the good purpose of God. The highest delight is not found in rebellion against the Creator but in the enjoyment of what is truly good. The abundant life Christ announces is consistent with the Creator's purpose and calls human beings out of destructive bondage into life.
+
+For individuals, this means refusing both shame-driven denial and appetite-driven slavery. For families, it means making room for joy, affection, safety, and mutual flourishing. For institutions, it means measuring success by the good they produce. For rulers, it means recognizing that authority is accountable to the Creator.
+
+The invitation is to recover pleasure without surrendering truth, to pursue delight without abandoning righteousness, and to understand abundant life in the light of the One who created all things.
+
+“Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.” — Revelation 4:11 (KJV)`,
+    },
+    id: "ch-death-absence-knowledge-introduction",
       bookId: "book-death-absence-of-knowledge",
       number: 1,
       title: "Introduction",
