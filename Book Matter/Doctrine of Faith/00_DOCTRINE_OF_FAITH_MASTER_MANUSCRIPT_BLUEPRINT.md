@@ -529,3 +529,10 @@ Created `11_THE_DOCTRINE_OF_FAITH_BOOK_I_CONTINUOUS_WORKING_MANUSCRIPT.md` by as
 **Control rule:** The ten individual chapter files remain the controlled chapter sources. Document 11 is the integrated reading copy for continuous-book review, repetition, transition, voice, quotation and publication editing. When a chapter is revised, refresh document 11 from the current chapter sources; do not let the continuous copy silently diverge.
 
 **Current status:** The integrated manuscript contains ten chapter headings and incorporates the owner's directions recorded in document 90. It is a continuous working manuscript, not yet a publication proof. Full line-by-line editorial review, Bible quotation proofing, lexical verification, references/glossary, and front/back matter remain.
+
+
+## 14. Publication-readiness audit — 2026-11-05
+
+Created `12_PUBLICATION_READINESS_AUDIT.md`. It records the owner directions as incorporated, the source and Scripture checks completed, the initial lexical verification, the continuous-manuscript integrity check, the TLB copyright credit requirement, and the remaining scholarly/editorial/production gates.
+
+**Current decision:** Book I is in the final editorial and production phase, but it is not yet publication-ready. The owner doctrinal questions recorded in document 90 are resolved or abandoned as directed; remaining blockers are verification, full copy edit, references/glossary, front/back matter, copyright-page completion, and final production proof.
