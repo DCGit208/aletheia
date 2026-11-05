@@ -1,14 +1,14 @@
 # Chapter 8 — The Son, the Heir, and the Representation of Design
 
 **Book:** *The Doctrine of Faith* (Book I)  
-**Status:** Coordinated working manuscript; owner's doctrinal direction incorporated.  
+**Status:** Revised working chapter; owner's doctrinal direction incorporated; final Scripture and editorial proof remains.  
 **Source basis:** *Aletheia Libraries 1* (2015), “Faith toward God”; Galatians 4:5–7; Romans 8:14–17; Hebrews 1:1–8; 2 Corinthians 5:21; Genesis 1:26–28; 1 John 4:17.
 
 ## From righteousness in Christ to sonship and heirship
 
 The preceding chapters have developed humanity's design, the Father's nature, the glory humanity came short of, and the restoration expressed through redemption and justification. This chapter brings those themes together through the Son and the inheritance of God's children.
 
-The governing direction is settled: **Jesus represents who we are by Design.** He is not merely the One who accomplished redemption for us; He is also the Son in whom our designed identity is represented and revealed. His sonship, image, glory and heirship are therefore central to understanding our own sonship and inheritance in Him.
+The governing direction is settled: **Jesus represents who we are by Design.** He is not merely the One who accomplished redemption for us; He is also the Son in whom our designed identity is represented and revealed. His sonship, image, glory and heirship are therefore central to understanding our own sonship and inheritance in Him. This is not a claim that believers replace the Son or possess His unique place as the appointed heir; the chapter's argument concerns the identity and inheritance shared with us through Him.
 
 ## The Son is the appointed heir and express image
 
@@ -72,7 +72,7 @@ Read alongside Galatians 4:5–7, Romans 8:14–17, Hebrews 1:2–3, and 2 Corin
 
 Jesus represents who we are by Design. He is the Son, the heir of all things, the brightness of God's glory and the express image of His person. He has purged our sins. Through Him we receive adoption as sons; because we are sons, the Spirit bears witness within us; and if sons, we are heirs of God and joint-heirs with Christ.
 
-The Father's purpose and pleasure is not that His sons live beneath their designed identity, but that they operate in the state of sonship and in the nature represented in Christ. The design begins in Genesis, the divine nature is named in 2 Peter 1:4, sonship and heirship are stated in Galatians 4 and Romans 8, and present correspondence is stated in 1 John 4:17.
+The owner's doctrinal conclusion is that the Father's purpose and pleasure is for His sons to operate in their designed state—as sons, heirs, and partakers of divine nature—in the identity represented in Christ. The design begins in Genesis, the divine nature is named in 2 Peter 1:4, sonship and heirship are stated in Galatians 4 and Romans 8, and present correspondence is stated in 1 John 4:17.
 
 This chapter therefore refuses to separate what Jesus represents from what He accomplished. He represents our design, and His redemptive work restores us to it.
 
