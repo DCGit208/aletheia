@@ -8,6 +8,7 @@ on:
       - "src/**"
       - "public/**"
       - "Book Matter/One Source of Truth/**"
+      - "Book Matter/Doctrine of Faith/**"
       - "package.json"
       - "package-lock.json"
       - "firebase.json"
