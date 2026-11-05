@@ -66,9 +66,9 @@
 ## C. Additional Scripture cluster
 
 ### C1. Matthew 3:17
-**Question:** How should the Father's declaration over the beloved Son be connected to Hebrews 11:5–6 without claiming Matthew 3:17 itself defines faith?
+**Owner direction (2026-11-05):** Include Matthew 3:17 as the Father's declaration over His beloved Son—“This is my beloved Son, in whom I am well pleased”—and develop it together with Hebrews 11:2, 5–6, the design identity, and the Father's pleasure in His sons operating in their state by design.
 
-**Status:** Open.
+**Status:** Resolved — integrated in Chapter 2.
 
 ### C2. Mark 11:22
 **Question:** How does Mark 11:22 (“Have faith in God”) function in the foundation-first argument, and how should its Greek construction and the owner's reading “the faith/state of God” be handled?
@@ -91,7 +91,7 @@
 ### C4. Ephesians 1:7 and Colossians 1:14
 **Question:** What specific role should these redemption passages play alongside Romans 3:23–24 and the source's *apolutrōsis* gloss?
 
-**Status:** Integrated into Chapter 6's Christ-coming / redemption-cluster discussion with Ephesians 1:7 and Colossians 1:13–14. Chapter 7 develops *apolutrōsis* and the related terminology. The owner's intended relationship between these passages, *apolutrōsis*, and restoration/design remains open for review.
+**Status:** Integrated into Chapter 6's Christ-coming / redemption-cluster discussion with Ephesians 1:7 and Colossians 1:13–14. Chapter 7 develops *apolutrōsis* and the related terminology. The owner has directed that redemption means complete ransom and restoration to original design; see B5 and Chapter 7. The relationship is resolved as the governing doctrinal direction and is implemented there.
 
 ### C5. 1 John 4:17
 **Question:** How should its “as he is, so are we in this world” statement support the wider present-reality thesis while preserving its context of love and confidence?
@@ -107,7 +107,7 @@
 
 **Required action:** Reassess the current nine-chapter architecture before treating it as validated. Preserve all current chapter drafts as working material. Do not settle lexical or doctrinal details by assumption.
 
-**Status:** Governing direction established. The initial reconstruction and revised proposal are now recorded in `94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md` and `95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md`; the chapter sequence still requires validation.
+**Status:** Governing direction established and implemented in the ten-chapter sequence. Remaining work is final architecture and continuity verification, not owner-decision approval.
 
 ## D. Source and publication decisions
 
