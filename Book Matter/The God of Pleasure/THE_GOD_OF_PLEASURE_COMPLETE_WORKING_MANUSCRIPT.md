@@ -423,6 +423,12 @@ There is a moral test here. If a person's pleasure requires the isolation, humil
 
 This is also why social justice belongs in a book about pleasure. Injustice damages relationships and deprives people of the conditions for a meaningful life. The pursuit of pleasure rightly understood cannot be indifferent to exploitation, violence, discrimination, corruption, or preventable deprivation. The good of the other is not a distraction from pleasure; it is part of the moral order in which genuine pleasure can be pursued.
 
+This is the precise sense in which the book calls the love of pleasure ethically worthy. A person who loves the delight of truth, the joy of another's flourishing, the satisfaction of justice, the beauty of creation, the fulfilment of meaningful work, and the shared happiness of a community is not morally inferior for loving pleasure. Such a person seeks pleasure in goods that can be shared and that do not require another person's degradation. To love pleasure for oneself and for others, when pleasure is understood as delight in what is truly good, is to affirm life rather than to glorify misery.
+
+This is not the same as the person described in 2 Timothy 3:4, who loves pleasures more than God. The biblical warning concerns the ordering of love: pleasure has become a rival master. The ethical person described here loves God and therefore learns to love what accords with His goodness, including the good and rightful delight of other people. The distinction is not between people who enjoy and people who do not; it is between rightly ordered love and disordered allegiance.
+
+Pain may be unavoidable, instructive, or endured for the sake of a greater good, but pain is not the moral end. The aim of justice is not to make people suffer; it is to restrain evil, repair harm, protect the vulnerable, and restore conditions in which life can flourish. The aim of discipline is not misery; it is formation. The aim of sacrifice is not pain for its own sake; it is fidelity to a good that matters more than immediate comfort. A society that treats needless suffering as a virtue has confused the means with the end.
+
 # Chapter 20 — The Final Horizon: Joy, Hope, and the Life to Come
 
 A theology of pleasure must consider more than the present moment. Human life is marked by change, loss, ageing, grief, and death. If pleasure is reduced to immediate sensation, it is fragile because circumstances can remove it. Scripture's hope reaches beyond the instability of present conditions.
