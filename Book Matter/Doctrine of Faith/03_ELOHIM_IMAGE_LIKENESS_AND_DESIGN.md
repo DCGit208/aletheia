@@ -34,7 +34,7 @@ The 2015 Aletheia leaflet places the paraphrase “So God made man like his Make
 
 > **Genesis 1:27 (The Living Bible, wording supplied for this manuscript)** — “So God made man like his Maker.\nLike God did God make man;\nMan and maid did he make them.”
 
-The quotation is retained alongside the KJV, not as a replacement for it. The source's “like his Maker” wording expresses its intended design connection. The exact edition and punctuation should be checked against the physical or licensed Living Bible text during final quotation proofing; the doctrinal argument must not be delayed or weakened by the former uncertainty over the label.
+The quotation is retained alongside the KJV, not as a replacement for it. The full wording is verified as Genesis 1:27 in The Living Bible (TLB), copyright © 1971 Tyndale House Foundation. The 2015 leaflet separately places the line “Like God did God make man” beside a parenthetical attribution to the Life Application Bible. Preserve that source note as part of the leaflet's history, but use the owner's requested TLB attribution for the full quotation reproduced here. Reference: https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=TLB.
 
 Genesis 1:28 — “And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.”
 
