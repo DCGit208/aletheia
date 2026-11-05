@@ -6,7 +6,7 @@
 
 ## Oneness follows the argument of Sonship and heirship
 
-The preceding chapters have developed the source's teaching about the state of God's children, design, divine nature, Christ's person and work, redemption, righteousness, and the open question of heirship. The leaflet's final question asks how John 17:20–23 should be likened. This chapter reads the prayer itself before drawing connections to the wider doctrine.
+The preceding chapters have developed faith as our state by design, the image and likeness of Elohim, divine nature, sonship and heirship, Christ's person and work, redemption, righteousness, and the full representation thesis. The leaflet's final question asks how John 17:20–23 should be likened. This chapter reads the prayer itself before drawing connections to the wider doctrine.
 
 The prayer must not be reduced to a slogan about unity. Its wording includes sending, sanctification through truth, the “as” comparison between Father and Son and believers, the glory given, indwelling, the world's knowledge, and the stated purpose. Each movement contributes to the argument and must remain visible.
 
