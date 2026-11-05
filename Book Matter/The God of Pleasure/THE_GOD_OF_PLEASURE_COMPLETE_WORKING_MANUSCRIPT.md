@@ -332,7 +332,69 @@ The economic implications are substantial. Wealth can enable health, shelter, ed
 
 A society awakened to the Creator's purpose will not confuse austerity with righteousness or luxury with flourishing. It will seek the just conditions under which people can develop their capacities, contribute to the common good, and enjoy the fruits of honest labour.
 
-# Chapter 17 — The Objections That Must Be Answered
+# Chapter 17 — The Body, Desire, and the Gift of Enjoyment
+
+A theology of pleasure must speak honestly about the body. Human beings do not exist as minds temporarily trapped in physical shells. Scripture presents embodied life as part of God's creative work. Genesis 1 describes the creation of male and female, the blessing of fruitfulness, and the provision of food. The body is not an accidental embarrassment to be escaped; it is part of creaturely existence.
+
+This does not mean that every bodily desire is self-authenticating. Hunger does not justify theft. Sexual desire does not justify coercion, betrayal, or the use of another person. The body is good as created, but bodily appetites can be disordered. The moral question is not whether desire is physical; it is whether desire is truthful, rightly directed, and consistent with love and righteousness.
+
+Food offers a simple example. Scripture contains feasts, shared meals, provisions, and gratitude for what God supplies. The same Scriptures warn against gluttony, drunkenness, greed, and the neglect of the poor. The gift is not condemned because it can be abused. Rather, enjoyment is joined to gratitude, self-control, hospitality, and responsibility.
+
+Sexuality requires the same seriousness. The goodness of embodied intimacy cannot be reduced to shame, nor can desire be used to erase covenant, fidelity, consent, or responsibility. The Bible celebrates marital love in the Song of Solomon and uses marriage as an image in several theological passages. It also condemns sexual exploitation, adultery, violence, and unfaithfulness. A mature theology of pleasure must neither demonize the body nor turn another human being into an instrument of gratification.
+
+Rest is also a pleasure-bearing good. The Sabbath pattern in Scripture places limits on endless labour and recognizes rest as part of ordered life. Rest is not laziness; it is a refusal to treat human beings as machines whose only value is output. A society that denies rest to workers while celebrating the luxury of its rulers has confused productivity with the good of life.
+
+The body can experience pain, fatigue, pleasure, desire, satisfaction, and delight. These experiences are not moral verdicts in themselves. They are part of embodied life and must be interpreted through wisdom. Pleasure becomes worthy when the person receives good things with gratitude, exercises restraint, honours others, and refuses to make appetite the ruler.
+
+# Chapter 18 — The Pleasure of Knowing, Creating, and Working
+
+Pleasure is not limited to consumption. One of the most overlooked forms of enjoyment is the delight of understanding. The moment when confusion gives way to insight, when a pattern becomes visible, when a difficult skill is mastered, or when a question receives a truthful answer can produce profound satisfaction.
+
+The supplied 2015 Aletheia Libraries leaflet emphasizes the scholarly impetus of Scripture. It describes diligence in study and connects knowledge with perception, learning, reasoning, and the exercise of the Word. Its concern is Christian maturity, but its emphasis reveals a wider point: intellectual formation is labour, and labour can produce the pleasure of understanding. A person who has learned to think carefully can take delight in truth rather than merely in winning an argument.
+
+Proverbs repeatedly praises wisdom and understanding. The pursuit of wisdom is not presented as a joyless burden. Proverbs 3:13 calls the person who finds wisdom and gets understanding blessed. Proverbs 8 personifies wisdom and speaks of delight in the inhabited world. These passages invite a view of intelligence and learning as goods that can be enjoyed.
+
+Creation and craftsmanship also carry pleasure. The artist delights in bringing form to an idea; the builder in completing a sound structure; the teacher in seeing a learner grasp a concept; the farmer in a harvest; the engineer in a system that works; the musician in the disciplined expression of sound. The satisfaction is not merely the reward or payment. It is also the fitting exercise of a human capacity.
+
+Work can be corrupted by exploitation, vanity, and endless accumulation. Ecclesiastes exposes the emptiness of labour when it becomes an attempt to secure ultimate meaning through possessions or achievement alone. Yet the same book recognizes enjoyment of one's work as a gift. The answer to meaningless toil is not the abolition of work; it is the recovery of work in its proper place.
+
+This matters for education, enterprise, and national development. Institutions should not treat people as replaceable units of output. They should cultivate skill, creativity, judgment, and contribution. Work becomes more humane when it is safe, fairly rewarded, purposeful, and compatible with rest and relationships.
+
+The pleasure of knowledge is also a safeguard against manipulation. People who delight in truth are less willing to repeat falsehood merely because it flatters them. They ask for evidence, distinguish what is known from what is assumed, and revise conclusions when the evidence requires it. Intellectual pleasure is therefore not ornamental; it strengthens moral agency.
+
+A society that wants flourishing must create room for discovery, craft, invention, teaching, and the honest satisfaction of doing good work. The Creator's gifts are not limited to what people consume. They include what people are able to learn, make, repair, cultivate, and contribute.
+
+# Chapter 19 — The Pleasure of Love, Friendship, and Shared Life
+
+Pleasure reaches beyond the individual because human beings are relational. Friendship, affection, family life, hospitality, mutual trust, reconciliation, and shared celebration are among the deepest sources of human delight. These goods cannot be reduced to private sensation. They arise between persons.
+
+Scripture repeatedly places human beings within relationships of responsibility. The command to love one's neighbour prevents pleasure from becoming a private kingdom in which another person's welfare is irrelevant. The joy of a household, the peace of a community, and the trust of a friendship depend upon truthfulness, fidelity, patience, forgiveness, and mutual regard.
+
+The pleasure of friendship is not merely having someone available for one's convenience. It includes being known, receiving honest counsel, sharing burdens, celebrating another's good, and remaining present when circumstances are difficult. A friend who enjoys another person's success is not diminished by it. Such pleasure expands the good rather than competing for it.
+
+Hospitality gives pleasure a public form. A meal becomes more than consumption when it is shared. A home becomes more than property when it offers welcome. A community becomes more than a collection of individuals when people protect the vulnerable and create conditions in which others can belong. These acts can be joyful precisely because the good is shared.
+
+The biblical picture of the kingdom includes a table, a feast, reconciliation, and the gathering of people. These images should not be flattened into a literal prediction about every detail of the future, but neither should their language of celebration be ignored. The kingdom is not portrayed merely as an endless lecture or a sterile existence without delight. It is associated with life, fellowship, joy, and the presence of God.
+
+There is a moral test here. If a person's pleasure requires the isolation, humiliation, or subordination of others, it is not the kind of pleasure this book defends. If a person's joy increases when another person flourishes, it reflects a different order of desire. Love does not erase personal delight; it teaches people to delight in goods that can be shared.
+
+This is also why social justice belongs in a book about pleasure. Injustice damages relationships and deprives people of the conditions for a meaningful life. The pursuit of pleasure rightly understood cannot be indifferent to exploitation, violence, discrimination, corruption, or preventable deprivation. The good of the other is not a distraction from pleasure; it is part of the moral order in which genuine pleasure can be pursued.
+
+# Chapter 20 — The Final Horizon: Joy, Hope, and the Life to Come
+
+A theology of pleasure must consider more than the present moment. Human life is marked by change, loss, ageing, grief, and death. If pleasure is reduced to immediate sensation, it is fragile because circumstances can remove it. Scripture's hope reaches beyond the instability of present conditions.
+
+The Bible speaks of joy in God's presence, the hope of resurrection, the restoration of creation, and the end of death and sorrow. Psalm 16:11 speaks of fullness of joy in God's presence. The New Testament places Christian hope in the resurrection of Christ and the resurrection of the dead. Revelation 21:1–4 portrays a renewed order in which death, sorrow, crying, and pain are no more.
+
+These promises do not make present suffering unreal. They prevent suffering from becoming the final word. Christian hope does not require a person to pretend that grief is pleasure. It declares that grief and death do not have ultimate authority over God's purpose.
+
+The future hope also corrects shallow definitions of abundance. Abundant life is not measured by continuous excitement, endless consumption, or the absence of every difficulty. It is life grounded in God, reconciled through Christ, and directed toward a future in which the good purpose of God is not finally defeated by evil and death.
+
+The book's governing claim therefore has an eschatological horizon. The Creator's purpose is not exhausted by the temporary pleasures available in a fallen world. The promise of resurrection means that the good of embodied life is not discarded; it is redeemed. The hope of a renewed creation means that God's purpose concerns the whole created order, not merely the escape of disembodied souls from it.
+
+The final horizon is not selfish gratification. It is communion with God, the restoration of what is broken, the defeat of evil, and the fullness of life. If pleasure means delight in what is truly good, then the promised end of God's work is not the triumph of misery. It is the fulfilment of His good purpose.
+
+# Chapter 21 — The Objections That Must Be Answered
 
 A book that argues for the moral importance of pleasure must answer the strongest objections rather than dismiss them.
 
