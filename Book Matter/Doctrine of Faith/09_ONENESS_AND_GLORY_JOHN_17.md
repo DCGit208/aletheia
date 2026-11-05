@@ -1,7 +1,7 @@
 # Chapter 9 — Oneness and Glory: Liken John 17:20–23
 
 **Book:** *The Doctrine of Faith* (Book I)  
-**Status:** Canonical working manuscript draft.  
+**Status:** Revised working chapter; final Scripture and editorial proof remains.  
 **Source basis:** Aletheia Libraries 1 (2015), “Faith toward God”; existing Course 2 companion, section X; John 17:1, 18–23 and the connected Scripture set.
 
 ## Oneness follows the argument of Sonship and heirship
@@ -45,7 +45,7 @@ The source's question is not “Can you produce a slogan about unity?” It is: 
 
 To liken the prayer is to set it beside the Scripture architecture already developed and reason from the relationship among the passages. The comparison must not be made by ignoring the prayer's own words.
 
-Genesis 1:26–28 speaks of humanity made in God's image and after His likeness. The Aletheia teaching places image and likeness within humanity's design. John 17 does not repeat the Genesis wording, but it introduces a related question: how do the image-and-likeness design, the Son's relation to the Father, and the oneness for which Jesus prays belong together? The relationship is a synthesis across passages and should be demonstrated, not merely asserted.
+Genesis 1:26–28 speaks of humanity made in God's image and after His likeness. The Aletheia teaching places image and likeness within humanity's design. John 17 does not repeat the Genesis wording, but it introduces a related question: how do the image-and-likeness design, the Son's relation to the Father, and the oneness for which Jesus prays belong together? The relationship is the owner's doctrinal synthesis across these passages and is developed here without treating John 17 as though it repeats Genesis word for word.
 
 Second Corinthians 5:21 says that believers are made the righteousness of God in Christ. First John 4:17 says, in its context of love and confidence, “as he is, so are we in this world.” Hebrews 1:3 calls the Son the express image of God's person. These texts contribute to the present-representation inquiry. They do not make the specific words of John 17 unnecessary; the prayer must be allowed to say what it says.
 
@@ -75,7 +75,7 @@ This belongs to the book's wider line of inquiry:
 
 **Image and likeness → sonship and righteousness in Christ → oneness and glory → present representation.**
 
-That line is a synthesis of the source's Scripture cluster. John 17 is central to it, but the full chain is not a quotation from John 17 alone.
+That line is the book's synthesis of the source's Scripture cluster. John 17 is central to it, but the full chain is not a quotation from John 17 alone.
 
 ## Study Charge
 
