@@ -266,7 +266,7 @@ export const catalog: CatalogSnapshot = {
     },
     {
       id: "book-doctrine-of-faith",
-      title: "Doctrine of Faith",
+      title: "The Doctrine of Faith",
       subtitle: "The Gospel That Restores Our True Nature",
       description:
         "Book I establishes faith as substance and underlying state, developing credence, image and likeness, divine nature, sonship, justification, heirship, oneness, and the image revealed in Christ. Ten chapters; full reading is reserved for entitled readers.",
