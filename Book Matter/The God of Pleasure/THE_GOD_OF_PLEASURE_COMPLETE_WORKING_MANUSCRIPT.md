@@ -505,10 +505,12 @@ The principal biblical text quoted in this edition is the King James Version (KJ
 - *A Concise Definition for True Christ-ian Experience*. Aletheia Libraries, 2015. User-supplied PDF, 5 pages. Used for its emphasis on diligence, study, perception, learning, reasoning, and sound judgment; not treated as a direct source on the theology of pleasure.
 
 ### Lexical and exegetical reference works consulted
-- Cambridge Greek Testament for Schools and Colleges, commentary on Revelation 4:11.
-- Mounce, William D. *Mounce's Complete Expository Dictionary of Old and New Testament Words*. Entry on ἡδονή (*hēdonē*).
-- Thayer, Joseph Henry. *A Greek-English Lexicon of the New Testament*. Entry on ἡδονή (*hēdonē*).
-- Vine, W. E. *An Expository Dictionary of New Testament Words*. Entries on “pleasure,” “good pleasure,” and “enjoyment.”
+- *Cambridge Greek Testament for Schools and Colleges*, commentary on Revelation 4:11. Online text: https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/revelation/4/11
+- Mounce, William D. *Mounce's Complete Expository Dictionary of Old and New Testament Words*. Entry on ἡδονή (*hēdonē*). Online entry: https://www.billmounce.com/greek-dictionary/hedone
+- Thayer, Joseph Henry. *A Greek-English Lexicon of the New Testament*. Entry on ἡδονή (*hēdonē*). Online entry: https://www.blueletterbible.org/lexicon/g2237/lsb/mgnt/
+- Vine, W. E. *An Expository Dictionary of New Testament Words*. Entries on “pleasure,” “good pleasure,” and “enjoyment.” Online entry: https://www.studybible.info/vines/Pleasure
+
+Online lexical and commentary entries accessed 5 November 2026. The printed bibliographic details should be checked against the exact editions selected for any print bibliography.
 
 ### Philosophical works for comparative reading
 - Aristotle. *Nicomachean Ethics*, especially Books I and X, on the good, flourishing, pleasure, and virtuous activity.
