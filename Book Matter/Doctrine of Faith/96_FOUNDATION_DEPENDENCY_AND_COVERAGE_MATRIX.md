@@ -192,3 +192,8 @@ Key KJV passages and the supplied Genesis 1:27 TLB wording have received targete
 ## 13. Scripture quotation proof register — 2026-11-05
 
 Document 13 now tracks the substantial Scripture quotations chapter by chapter, distinguishes targeted checks from final proof, and records original-language forms and Aletheia-source quotations separately. Complete this register before publication; it is the control against omitted quotation checks.
+
+
+## 14. Continuous manuscript refreshed after Chapter 7 refinement — 2026-11-05
+
+Document 11 has been refreshed after the second-pass prose refinement in Chapter 7. The individual chapter files remain the controlled sources. Complete quotation proof and final editorial review remain open.
