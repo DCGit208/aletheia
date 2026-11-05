@@ -482,15 +482,6 @@ The invitation is to recover pleasure without surrendering truth, to pursue deli
 **“Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.” — Revelation 4:11 (KJV)**
 
 
----
-
-# THE GOD OF PLEASURE
-## Expanded Scriptural and Philosophical Studies
-### Companion material for the first-edition manuscript
-### Dr. Coach Achu Gustave — Aletheia Publications
-
-> This supplement deepens the manuscript's core argument and supplies the source-critical distinctions required for a responsible publication. Its chapters are to be incorporated into the main manuscript before final typesetting.
-
 ## Author's Note on Method and Sources
 
 This manuscript is governed by a simple distinction: what the biblical text says, what a source says the biblical text means, and what the author infers must not be collapsed into one another.
