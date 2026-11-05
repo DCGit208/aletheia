@@ -276,3 +276,45 @@ This is a substantive argument pass, not a final doctrinal adjudication. The man
 - The Mark 11:22 inquiry is now integrated into Chapter 1 as a bridge from *hypostasis* / substance to underlying state and developed in Chapter 3 alongside Genesis 1:26–28. Chapter 2 supplies the source-based *pistis* / state-of-children connection.
 - Chapter 3 preserves Mark 11:20–25's sequence: the withered fig tree, faith, speech and the heart, prayer, and forgiveness.
 - The phrase *pistin theou* is identified as a genitive construction. “Faith of God” is noted as a formal rendering, while “the state of God” is retained as the owner's doctrinal interpretation rather than asserted as the phrase's uncontested literal lexical meaning. The argument remains open for further lexical study and owner review.
+
+
+## 15. Foundation-first continuity audit — 2026-11-05
+
+This review extends the earlier first-pass audit to the current ten-chapter foundation-first manuscripts. It is a focused continuity and argument audit of Chapters 1 and 8–10, not a complete line edit of all ten chapters.
+
+### Chapter 1 — *Hypostasis* / substance foundation
+
+- The chapter now opens Book I with Hebrews 11:1 and explicitly separates the *hypostasis* lexical range, the contextual question in Hebrews, the Aletheia leaflet's *pistis* / state-of-children teaching, and the owner's underlying-state thesis.
+- Its reading of Hebrews 11:1 is controlled by Hebrews 10:32–39 and the examples in Hebrews 11. The examples are treated as lived orientation, judgment, allegiance, action, and endurance—not as a shortcut to a dictionary definition or a promise of immediate outcomes.
+- Hebrews 10:34 is correctly distinguished as *hyparxis*, not *hypostasis*. Hebrews 1:3 and 3:14 are retained as internal comparisons without assuming identical nuance.
+- Mark 11:22 is used as a bridge to the later design discussion, with the genitive phrase *pistin theou* distinguished from the owner's doctrinal formulation “state of God.”
+- **Continuity finding:** The chapter's order now supports the corrected book architecture: substance foundation first, then the leaflet's *pistis* / state teaching and the wider design argument. The lexical/contextual proof remains open.
+
+### Chapter 8 — The Son, Hebrews 1:8, and the heir
+
+- The chapter accurately keeps Hebrews 1:8's direct address to the Son distinct from the Aletheia leaflet's question about what that makes the believer.
+- The inference is developed through Hebrews 1:2–4, 2 Corinthians 5:21, Genesis 1:26–28, 1 John 4:17, Galatians 4:5–7, and Romans 8:17. “In Him” and the full suffering/glory qualification in Romans 8:17 are preserved.
+- The provisional synthesis is useful as a working answer, but it does not yet state the full doctrinal force the owner intends the leaflet's question to carry.
+- **Owner decision remains open:** Confirm or revise the answer to “According to Hebrews 1:8, what does that make you?” Do not silently convert the provisional wording into an approved final doctrine.
+
+### Chapter 9 — Oneness and glory
+
+- The chapter follows John 17's own progression: Jesus' relation to the Father, sending, sanctification through truth, the extension of the prayer to future believers, oneness, glory given, indwelling, and the world's knowledge/belief.
+- It preserves the repeated “as” language without flattening the Father, Son, and believers into interchangeable identities or reducing oneness to organizational unity.
+- The connection between John 17:22's glory and the source's reading of Romans 3:23 / 1 Corinthians 11:7 as deviation from true nature is correctly marked as synthesis.
+- **Continuity finding:** Chapter 9 follows heirship with the prayer's relational and glory dimensions, and hands forward to the image/light language of 2 Corinthians 4.
+
+### Chapter 10 — The image in the face of Jesus Christ
+
+- The chapter uses 2 Corinthians 4:1–6 as a cumulative close, retaining the ministry's refusal to handle the word deceitfully, Christ as the image of God, the blinding of minds, and the light of the knowledge of God's glory in Christ's face.
+- It holds Christ's accomplishment (redemption, reconciliation, justification) together with the owner's representation thesis (“Jesus represents who we are by Design”).
+- “Christ's work restores what Christ's person reveals” is explicitly marked as synthesis, not quoted Scripture.
+- The close correctly hands the evidence inquiry to Book II without deferring the *hypostasis* foundation out of Book I.
+
+### Control-document correction identified
+
+The historical first-pass tables in this review still contain old nine-chapter labels and old chapter-number mappings. They are retained as a record of the original audit, but must not be used as the current manuscript index. The current ten-chapter sequence is the one in the master blueprint and Chapter 10's current “Book I's Argument” list. A subsequent editorial synchronization should replace or clearly supersede the stale mapping in the historical table and align the source-coverage matrix with the ten current files.
+
+### Scope and remaining gate
+
+This pass confirms the conceptual continuity of the selected chapters, not final doctrinal approval or publication readiness. Remaining work includes: the owner's Hebrews 1:8 decision; the full lexical/contextual proof of *hypostasis*; the Mark 11:22 genitive/translation question; the source's *dikaioō*, *dikaiosynē*, and *apolutrōsis* formulations; and a final quotation/proofread pass against the selected Bible edition.
