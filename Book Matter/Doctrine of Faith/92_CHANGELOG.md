@@ -352,3 +352,10 @@
 - Added original-language proof items for *hypostasis*, *pistin theou*, *dikaioumenoi*, *apolutrōseōs*, and *spoudē*.
 - Separated Aletheia leaflet quotations/glosses from Bible translations.
 - Updated documents 00, 12, and 96 to make document 13 the quotation-proof control.
+
+
+## 2026-11-05 — Second-pass prose refinement and continuous refresh
+
+- Refined Chapter 7 to remove conversational wording and clarify that free justification is not earned by works, but is God's gracious act received through faith, in relation to the Aletheia source's *pistis* / credence and “ransom in full” language.
+- Refreshed continuous manuscript 11 from the latest ten chapter files; current content length is 133,712 characters.
+- The publication audit now records this second-pass refinement. Full manuscript copy edit and complete quotation proof remain in progress.
