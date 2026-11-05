@@ -16,7 +16,7 @@ The governing question is therefore:
 
 **What does it mean for faith to be the *hypostasis* of things hoped for, and how does that statement relate to the Aletheia teaching that faith defines the state of the children of God?**
 
-That question requires more than repeating the English word “substance.” It requires reading the sentence, examining the word's established range, attending to the context of Hebrews, and then connecting the result to the Aletheia source and the owner's developing doctrinal thesis.
+That question requires more than repeating the English word “substance.” It requires reading the sentence, examining the word's established range, attending to the context of Hebrews, and then connecting the result to the Aletheia source and the owner's settled direction that faith is our state by design.
 
 ## 1. The sentence must govern the investigation
 
@@ -128,7 +128,11 @@ The source's use of “state” is decisive to the structure. The Aletheia argum
 
 ## 7. The doctrinal thesis to be developed through Book I
 
-The owner's developing formulation is:
+The owner's governing doctrinal direction is:
+
+> **Faith is our state by design.**
+
+The owner's explanatory formulation is:
 
 > **Faith is not merely what the mind believes. Faith is the state of the person who exists in the reality of God's nature in Christ.**
 
