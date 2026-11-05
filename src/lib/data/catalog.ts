@@ -705,7 +705,8 @@ The invitation is to recover pleasure without surrendering truth, to pursue deli
 
 “Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.” — Revelation 4:11 (KJV)`,
     },
-    id: "ch-death-absence-knowledge-introduction",
+    {
+      id: "ch-death-absence-knowledge-introduction",
       bookId: "book-death-absence-of-knowledge",
       number: 1,
       title: "Introduction",
