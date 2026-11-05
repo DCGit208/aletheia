@@ -1,109 +1,90 @@
-# Chapter 8 — The Son, Hebrews 1:8, and the Heir
+# Chapter 8 — The Son, the Heir, and the Representation of Design
 
 **Book:** *The Doctrine of Faith* (Book I)  
-**Status:** Canonical working manuscript draft; owner review required for the central inference in Hebrews 1:8.  
-**Source basis:** Aletheia Libraries 1 (2015), “Faith toward God”; existing Course 2 companion, sections VIII–IX; Scripture cluster below.
+**Status:** Coordinated working manuscript; owner's doctrinal direction incorporated.  
+**Source basis:** *Aletheia Libraries 1* (2015), “Faith toward God”; Galatians 4:5–7; Romans 8:14–17; Hebrews 1:1–8; 2 Corinthians 5:21; Genesis 1:26–28; 1 John 4:17.
 
-## From righteousness in Christ to the question of heirship
+## From righteousness in Christ to sonship and heirship
 
-The preceding chapters have examined the source's account of deviation from glory, Christ's person and work, redemption, free justification, and righteousness in Christ. The leaflet then asks: “According to Hebrews 1:8, what does that make you?” It also asks who is heir of God and what an heir means. These are not decorative questions. They require a careful argument connecting the Son's identity and heirship with the believer's sonship and inheritance.
+The preceding chapters have developed humanity's design, the Father's nature, the glory humanity came short of, and the restoration expressed through redemption and justification. This chapter brings those themes together through the Son and the inheritance of God's children.
 
-The answer must not be rushed. Hebrews 1:8 addresses the Son; the move from what is said to the Son to what follows for believers requires further scriptural premises and a visible inference. This chapter preserves the provisional synthesis for owner review and does not pretend that the leaflet itself prints a complete answer.
+The governing direction is settled: **Jesus represents who we are by Design.** He is not merely the One who accomplished redemption for us; He is also the Son in whom our designed identity is represented and revealed. His sonship, image, glory and heirship are therefore central to understanding our own sonship and inheritance in Him.
 
-## The Son, the Heir, and the Express Image
+## The Son is the appointed heir and express image
 
-Hebrews 1 begins by establishing who speaks and how He has spoken:
+Hebrews 1:1–2 (KJV):
 
-> **Hebrews 1:1–2 (KJV)** — “God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds.”
+> “God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds.”
 
-God has spoken by His Son. The Son is appointed heir of all things, and by Him God made the worlds. Heir language is therefore present before this chapter asks who is heir of God. The Son is first named as the heir of all things.
+The Son is appointed heir of all things. He is not an incidental figure in the argument about inheritance: He is the Son and heir through whom the worlds were made.
 
-Hebrews 1:3–4 continues:
+Hebrews 1:3–4 (KJV):
 
 > “Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high; Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.”
 
-The Son is called the brightness of God's glory and the express image of His person. He upholds all things by the word of His power, purges sins by Himself, sits at the right hand of the Majesty on high, and has by inheritance obtained a more excellent name than the angels.
+The Son is the brightness of God's glory and the express image of His person. The verse holds representation and accomplishment together: He is the express image, and He has by Himself purged our sins. The manuscript must not choose one dimension and discard the other.
 
-The wording matters. Genesis 1:26–27 speaks of humanity made in God's image and after His likeness. Hebrews 1:3 calls the Son the express image of God's person. Second Corinthians 4:4 calls Christ the image of God. These passages belong in the same inquiry, but their wording should not be flattened into the claim that they all say precisely the same thing. The connection is a Scripture-based synthesis.
+Genesis 1:26–27 describes humanity as made in God's image and likeness. Hebrews 1:3 describes the Son as the express image of God's person. Second Corinthians 4:4 calls Christ the image of God. These passages are central to the representation thesis: Jesus reveals and represents the divine nature and the identity humanity was designed to bear. Their distinct wording and contexts remain visible, while the doctrinal conclusion is developed across the full Scripture set.
 
-Hebrews 1:5–7 distinguishes the Son from the angels. The writer asks which angel was ever addressed, “Thou art my Son,” and then says that the angels are God's ministers. The passage does not treat the Son and angels as interchangeable ranks. Preserve that distinction as the argument proceeds.
+Hebrews 1:8 (KJV) says:
 
-## “Unto the Son He Saith, Thy Throne, O God”
+> “But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.”
 
-> **Hebrews 1:8 (KJV)** — “But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.”
+The verse directly addresses the Son and identifies His throne and kingdom with righteousness. It remains part of the biblical portrait of the Son. The former leaflet question, “According to Hebrews 1:8, what does that make you?”, is not retained as an unresolved doctrinal question or as a required inference for this chapter. The owner has directed that this question be abandoned. The verse itself remains available as part of the wider representation and righteousness argument.
 
-The text says that the address is **unto the Son**. The words spoken to Him include “Thy throne, O God,” and the sceptre of His kingdom is righteousness. In the wording of Hebrews 1:8, the Son is addressed as God. The kingdom's sceptre is righteousness.
+## As sons, we are heirs of God
 
-The Aletheia source places this question after its teaching on righteousness in Christ:
+Galatians 4:5–7 (KJV):
 
-**According to Hebrews 1:8, what does that make you?**
+> “To redeem them that were under the law, that we might receive the adoption of sons. And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father. Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.”
 
-The source does not print a direct answer. We must therefore reason from the Scripture set instead of pretending the source has already supplied a sentence it has not supplied.
+The sequence is explicit. Redemption makes way for the adoption of sons. “Because ye are sons,” the Spirit of the Son is sent into our hearts. The conclusion is direct: we are no more servants, but sons; and if sons, heirs of God through Christ.
 
-## Reasoning from the Scripture Set
+Romans 8:14–17 (KJV):
 
-First, 2 Corinthians 5:21 says that God made the One who knew no sin to be sin for us, “that we might be made the righteousness of God in him.” The location is explicit: **in Him**. The claim is not to be detached from Christ.
+> “For as many as are led by the Spirit of God, they are the sons of God. For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father. The Spirit itself beareth witness with our spirit, that we are the children of God: And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.”
 
-Second, Hebrews 1:3 calls the Son the brightness of God's glory and the express image of His person. The Son reveals the Father; the passage does not merely give Him a title without describing His relation to the Father.
+The passage identifies us as children of God, heirs of God and joint-heirs with Christ. It also includes suffering with Christ and being glorified together. The full statement must remain intact.
 
-Third, Hebrews 1:8 addresses the Son as God and names righteousness as the sceptre of His kingdom.
+The owner's doctrinal direction is that, as sons, we are natural heirs. Sonship and heirship are not presented as a distant possibility detached from our identity in Christ. Galatians 4 and Romans 8 describe the present relationship and inheritance given through Christ. The word “natural” in the owner's formulation expresses the consequence of being sons: heirship belongs to sonship.
 
-Fourth, Genesis 1:26–28 names humanity's design in terms of image, likeness, blessing, fruitfulness, and dominion. The Aletheia source teaches that acceptance is on the basis of humanity's true nature from creation with respect to God.
+## The righteousness of God in Him
 
-Fifth, 1 John 4:17 says, in the context of perfected love and confidence, “because as he is, so are we in this world.” The verse states a present correspondence, but its immediate context must remain visible. The broader connection to image, sonship, and representation is a synthesis across passages.
+Second Corinthians 5:17–21 develops reconciliation, the new creation, and righteousness in Christ. Verse 21 (KJV) states:
 
-Sixth, Galatians 4:5–7 says that redemption makes way for adoption as sons, that believers are no more servants but sons, and that if sons, they are heirs of God through Christ. Romans 8:17 calls them “heirs of God, and joint-heirs with Christ,” while retaining the full clause about suffering with Him and being glorified together.
+> “For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.”
 
-These passages build a connected argument: the Son is the express image and heir; believers are described as sons and heirs through Christ; the righteousness of God is theirs **in Him**; and Scripture speaks of a present relation between Christ and those who are in Him. The conclusion must preserve both the strength of those claims and the distinctions among them.
+The phrase **“in him”** must remain. Our righteousness is not detached from Christ. This is central to the representation argument: the Son represents who we are by design, and our identity as sons, heirs and the righteousness of God is located in Him.
 
-## What the Inference Does—and Does Not Yet Establish
+This does not erase the accomplishment of Christ. The same verse names what God did with the One who knew no sin. The surrounding passage speaks of reconciliation and the new creation. Representation and accomplishment are joined in the one Christ.
 
-Hebrews 1:8 explicitly addresses the Son as God. The Aletheia leaflet then asks: **“According to Hebrews 1:8, what does that make you?”** The question deliberately asks the reader to reason from what is said to the Son to what follows for the believer in Christ. It must not be avoided, but neither should the inference be passed off as though Hebrews 1:8 directly addressed the believer in its own wording.
+## As He is, so are we in this world
 
-The passages assembled above provide the basis for the inference: the Son is the express image and heir; believers are called sons and heirs through Christ; 2 Corinthians 5:21 says they are made the righteousness of God **in Him**; Genesis 1:26–28 speaks of humanity's image and likeness; and 1 John 4:17 states, in its context of love and confidence, “as he is, so are we in this world.” The relationship among these statements is the argument the chapter must make visible.
+First John 4:17 (KJV) states:
 
-A provisional synthesis for the manuscript is:
+> “Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.”
 
-**In Christ, the believer is a son and heir of God, made the righteousness of God in Him, and called to understand present identity through the Son who is the express image of God's person.**
+This is a present statement: “as he is, so are we in this world.” Its context of perfected love and confidence in the day of judgment must be retained. In the owner's doctrinal framework, it underscores that the identity represented in the Son is not merely postponed to a future age. It speaks to who we are in this world.
 
-This synthesis records the connections the draft has established so far. It does **not** settle the full doctrinal force of the leaflet's question, or decide which precise answer the owner intends the book to give. That decision remains open for owner review. The final answer should preserve the force of the source's question and the owner's design/representation thesis without claiming that Hebrews 1:8 alone contains every step of the inference.
+Read alongside Galatians 4:5–7, Romans 8:14–17, Hebrews 1:2–3, and 2 Corinthians 5:21, the passage contributes to the full representation thesis: the Son is the express image; we are sons and heirs through Him; we are made the righteousness of God in Him; and as He is, so are we in this world.
 
-## Who Is Heir of God? What Is an Heir?
+## The chapter's governing conclusion
 
-The companion teaching asks two direct questions: **Who is heir of God? What is the meaning of “heir”?** It points to Galatians 4:5–7.
+Jesus represents who we are by Design. He is the Son, the heir of all things, the brightness of God's glory and the express image of His person. He has purged our sins. Through Him we receive adoption as sons; because we are sons, the Spirit bears witness within us; and if sons, we are heirs of God and joint-heirs with Christ.
 
-> **Galatians 4:7 (KJV)** — “Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.”
+The Father's purpose and pleasure is not that His sons live beneath their designed identity, but that they operate in the state of sonship and in the nature represented in Christ. The design begins in Genesis, the divine nature is named in 2 Peter 1:4, sonship and heirship are stated in Galatians 4 and Romans 8, and present correspondence is stated in 1 John 4:17.
 
-The passage answers the first question in its own terms: the son is heir of God through Christ. The movement is from servant to son, and from son to heir. This is not a wage paid to a hired worker. It is the inheritance associated with sonship.
+This chapter therefore refuses to separate what Jesus represents from what He accomplished. He represents our design, and His redemptive work restores us to it.
 
-Galatians 4:1–3 describes a child who is an heir but, while under tutors and governors, differs nothing in practice from a servant. The child-heir's condition of immaturity does not cancel the inheritance named in the passage. The father's appointed time matters. The teaching's practical challenge is to distinguish the heir's standing from a servant's way of thinking and living.
+## Study and teaching questions
 
-Romans 8:17 adds an essential qualification:
+1. What does Hebrews 1:2 identify the Son as, and through whom were the worlds made?
+2. What do Hebrews 1:3–4 say about the Son's glory, express image, and accomplishment?
+3. How does Genesis 1:26–27 contribute to the design/representation argument?
+4. What sequence does Galatians 4:5–7 give concerning redemption, adoption, sonship and heirship?
+5. How does Romans 8:14–17 develop children, heirs, joint-heirship, suffering and glory?
+6. Why must “in Him” remain in 2 Corinthians 5:21?
+7. What does 1 John 4:17 contribute to the present-reality argument, and what is its immediate context?
+8. How do representation and accomplishment remain joined in the person and work of Jesus?
 
-> “And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.”
-
-Do not cut this verse in half. It names inheritance and joint-heirship with Christ; it also names suffering with Him and being glorified together. Heirship is not a slogan for entitlement without the whole verse's stated relationship.
-
-An heir, in this Scripture set, is not merely someone who likes church, holds a ministry position, or feels included. The text identifies the heir through sonship and through Christ. The companion's household illustration distinguishes a servant's wage from a son's inheritance. Keep that illustration subordinate to the passage rather than treating it as a complete legal definition of every use of “heir.”
-
-## The Chapter's Argument in Brief
-
-- Hebrews 1:2 names the Son heir of all things.
-- Hebrews 1:3 calls Him the brightness of God's glory and the express image of His person.
-- Hebrews 1:8 addresses the Son as God and names righteousness as the sceptre of His kingdom.
-- 2 Corinthians 5:21 says believers are made the righteousness of God **in Him**.
-- Galatians 4:7 identifies the son as heir of God through Christ.
-- Romans 8:17 names believers as heirs of God and joint-heirs with Christ, with suffering and glory held together.
-- Genesis 1:26–28 and 1 John 4:17 contribute to the wider design and present-representation inquiry; that connection is a synthesis, not the wording of Hebrews 1:8 itself.
-
-## Questions for Study and Owner Review
-
-1. According to Hebrews 1:8, what does that make you? Give the answer by reasoning from 2 Corinthians 5:21, Hebrews 1:3 and 1:8, Genesis 1:26–28, and 1 John 4:17—not by inventing a title.
-2. Who is heir of God, according to Galatians 4:5–7?
-3. What does Romans 8:17 add to the meaning of heirship?
-4. Why must “in Him” remain in the answer to 2 Corinthians 5:21?
-5. Which parts of the chapter's conclusion are explicit in individual passages, and which parts are synthesis across the Scripture set?
-
-**Owner decision still required:** Confirm or revise the provisional answer to the question generated by Hebrews 1:8. The chapter has made the question answerable without presenting an inference as a direct quotation from the source.
-
-**Transition to Chapter 9:** The next question concerns how the reader should liken Jesus' prayer in John 17:20–23. The discussion moves from Sonship and heirship to oneness and glory, while preserving the prayer's own wording and stated purpose. This transition does not resolve the Hebrews 1:8 inference; it carries the inquiry forward.
+**Transition to Chapter 9:** Having established the Son's representation and our sonship and heirship through Him, the next chapter examines Jesus' prayer in John 17:20–23—its oneness, glory, indwelling, sending and purpose.
