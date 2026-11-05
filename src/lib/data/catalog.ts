@@ -128,7 +128,7 @@ export const catalog: CatalogSnapshot = {
       status: "published",
       accessLevel: "public",
       previewChapterIds: ["ch-god-of-pleasure-introduction"],
-      chapterCount: 19,
+      chapterCount: 23,
     },
     {
       id: "book-death-absence-of-knowledge",
