@@ -551,3 +551,8 @@ Document 12 now records targeted verification of key KJV passages, Genesis 1:27 
 ## 17. Scripture quotation proof register — 2026-11-05
 
 Created document 13, SCRIPTURE_QUOTATION_PROOF_REGISTER.md, as the chapter-by-chapter control for Bible quotations, translation/source attribution, Greek forms, and final proof status. Document 12 records the targeted checks already completed. Document 13 distinguishes those targeted checks from the complete quotation proof still required before publication.
+
+
+## 18. Second-pass prose refinement — 2026-11-05
+
+Chapter 7 received a further prose refinement after the first integrated editorial pass. The continuous manuscript 11 was refreshed from the latest ten chapter files and is now 133,712 characters. The manuscript remains in editorial and quotation-proof work; no publication-readiness claim is made.
