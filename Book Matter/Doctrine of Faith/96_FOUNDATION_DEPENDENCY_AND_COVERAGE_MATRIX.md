@@ -172,3 +172,8 @@ The owner has supplied the following governing directions:
 ## 9. Continuous manuscript integration — 2026-11-05
 
 `11_THE_DOCTRINE_OF_FAITH_BOOK_I_CONTINUOUS_WORKING_MANUSCRIPT.md` now assembles the ten current chapter manuscripts in order. The chapter files remain the controlled sources; document 11 is the continuous reading copy for final book-level audit. Refresh it whenever an individual chapter changes. The current assembled copy contains ten chapter headings and the owner's settled doctrinal directions. It is not yet a publication proof.
+
+
+## 10. Publication-readiness control — 2026-11-05
+
+Document `12_PUBLICATION_READINESS_AUDIT.md` is now the current register of completed checks and remaining publication gates. It confirms owner directions are incorporated and records the continuous manuscript, quotation/lexical verification, TLB copyright credit, and production tasks. The book is not yet publication-ready; the remaining work is final scholarly verification, human copy edit, front/back matter, and final owner proof.
