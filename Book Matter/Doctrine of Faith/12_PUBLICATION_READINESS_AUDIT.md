@@ -146,3 +146,36 @@ A first editorial pass has now been completed across all ten chapter manuscripts
 The refreshed continuous manuscript is 133,672 characters and contains ten chapter headings. Automated checks confirmed the presence of the principal owner-directed content: representation, faith as designed state, natural heirship, Matthew 3:17, Ephesians 1:5, Hebrews 11:2, 5–6, 2 Peter 1:4, Mark 11:22, Matthew 5:48, 1 John 4:17, Romans 3:23–24, 1 Corinthians 15:41, Genesis 1:27 TLB, the G1344 morphology and Thayer qualification, the G629 ransom/restoration explanation, and the abandoned Hebrews 1:8 question. The check found no stale open Hebrews 1:8 decision or provisional “developing representation thesis” language in the continuous copy.
 
 **Scope limitation:** This is the first integrated editorial pass, not the final line-by-line copy edit. Automated checks confirm structure and required content, not every quotation, grammatical detail, theological nuance, footnote, or production element.
+
+
+## 8. Targeted Bible quotation and morphology checks — 2026-11-05
+
+The following targeted KJV quotations and original-language details were checked against online Bible text/interlinear references during this pass:
+
+- Genesis 1:26–28 (KJV): image, likeness, and dominion wording checked against Bible Gateway.
+- Genesis 1:27 (TLB): the complete three-line wording supplied by the owner checked against Bible Gateway; copyright line and attribution retained.
+- Galatians 4:4–7 (KJV): sending of the Son, redemption, adoption, “because ye are sons,” and heirship checked.
+- Romans 8:14–17 (KJV): Spirit-led sonship, adoption, witness, heirs, joint-heirs, suffering, and shared glory checked.
+- Matthew 5:43–48 (KJV): love/enemies context and the perfection command checked together.
+- Mark 11:20–25 (KJV): fig tree, “Have faith in God,” speech, prayer, and forgiveness context checked together.
+- John 17:20–23 (KJV): oneness, indwelling, glory given, and stated purpose checked.
+- 1 John 4:17 (KJV): perfected love, confidence in judgment, and “as he is, so are we in this world” checked.
+- 2 Corinthians 4:1–6 and 5:17–21 (KJV): the image/glory passage and reconciliation/new-creation/righteousness passage checked.
+- Romans 3:24 Greek: δικαιούμενοι (*dikaioumenoi*) verified as a present passive participle, nominative masculine plural, from δικαιόω (G1344); ἀπολυτρώσεως is identified as the G629 noun in the same verse.
+- G1344 Thayer entry: the first “make righteous” sense and Thayer's qualification were checked against the entry itself.
+- G629 Strong's and Thayer entries: “ransom in full,” “riddance,” and “release effected by payment of ransom” checked.
+
+References consulted:
+- [Genesis 1:26–28 KJV](https://www.biblegateway.com/passage/?search=Genesis+1%3A26-28&version=KJV)
+- [Genesis 1:27 TLB](https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=TLB)
+- [Galatians 4:4–7 KJV](https://www.biblegateway.com/passage/?search=Galatians+4%3A4-7&version=KJV)
+- [Romans 8:14–17 KJV](https://www.biblegateway.com/passage/?search=Romans+8%3A14-17&version=KJV)
+- [Matthew 5:43–48 KJV](https://www.biblegateway.com/passage/?search=Matthew+5%3A43-48&version=KJV)
+- [Mark 11:20–25 KJV](https://www.biblegateway.com/passage/?search=Mark+11%3A20-25&version=KJV)
+- [John 17:20–23 KJV](https://www.biblegateway.com/passage/?search=John+17%3A20-23&version=KJV)
+- [1 John 4:17 KJV](https://www.biblegateway.com/passage/?search=1+John+4%3A17&version=KJV)
+- [2 Corinthians 4:1–6 and 5:17–21 KJV](https://www.biblegateway.com/passage/?search=2+Corinthians+4-6&version=KJV)
+- [Romans 3:24 Greek text and morphology](https://www.openbible.com/text/romans/3-24.htm)
+- [Thayer G1344](https://biblehub.com/thayers/1344.htm); [Strong's G629 and Thayer G629](https://biblehub.com/strongs/greek/629.htm)
+
+**Scope limitation:** These are targeted checks of key quotations and terms, not yet a line-by-line proof of every biblical quotation and reference in all ten chapters. The full quotation audit remains open until each occurrence is checked against the selected edition and marked off in the chapter-level proof record.
