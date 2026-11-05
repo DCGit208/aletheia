@@ -184,3 +184,8 @@ References consulted:
 ## 9. Chapter-by-chapter Scripture quotation register
 
 Created document 13, SCRIPTURE_QUOTATION_PROOF_REGISTER.md, to track substantial quotations by chapter, translation/source, current verification status, and final proofing requirements. The register distinguishes targeted checks from final proof and separates Bible quotations from Aletheia source quotations. It must be completed after all quotations have been checked against the selected editions and again after page layout.
+
+
+## 10. Second-pass prose refinement — 2026-11-05
+
+Chapter 7 received an additional prose refinement to remove overly conversational phrasing and clarify the relation among the leaflet's printed gloss, free justification, grace, faith/credence, and the complete ransom. The continuous manuscript 11 was refreshed after this edit. The revised copy remains a working manuscript; the complete quotation proof and second full-manuscript copy edit remain open.
