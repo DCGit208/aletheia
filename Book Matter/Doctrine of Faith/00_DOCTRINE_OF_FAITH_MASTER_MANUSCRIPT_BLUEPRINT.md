@@ -541,3 +541,8 @@ Created `12_PUBLICATION_READINESS_AUDIT.md`. It records the owner directions as 
 ## 15. First integrated editorial pass — 2026-11-05
 
 The first editorial pass across Chapters 1–10 is recorded in document 12 and the source-fidelity review. It revised status language, transitions, owner-direction consistency, lexical attribution, the Romans 3:24 morphology, and the representation/accomplishment argument. The continuous manuscript 11 has been refreshed from the latest chapter files and passed structural/content-presence checks. This is a first integrated pass, not the final line-by-line copy edit or publication proof. Continue with quotation-by-quotation verification, second editorial pass, references, glossary, front/back matter, and final production review.
+
+
+## 16. Targeted Scripture and lexical verification — 2026-11-05
+
+Document 12 now records targeted verification of key KJV passages, Genesis 1:27 TLB, Romans 3:24 morphology, and the G1344/G629 lexical entries. This work strengthens the first editorial pass but does not close the full quotation audit: every quotation and reference in all ten chapters must still be checked against the selected edition. The Dake Study Bible introduction remains a supplementary interpretive-method reference only; the 2015 Aletheia leaflet remains the controlling doctrinal source.
