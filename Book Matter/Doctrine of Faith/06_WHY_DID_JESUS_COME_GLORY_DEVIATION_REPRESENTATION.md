@@ -1,6 +1,6 @@
 # Chapter 6 — Why Did Jesus Come? Glory, Deviation, and Representation
 
-**Manuscript status:** Coordinated working draft for the foundation-first manuscript  
+**Manuscript status:** Revised working chapter; final Scripture and editorial proof remains  
 **Book:** *The Doctrine of Faith* — Book I  
 **Source-preservation note:** This chapter follows the existing app-companion exposition of Romans 3:21–26 and 1 Corinthians 11:7. The teaching's interpretation of “come short of the glory” as deviation from true nature is preserved as the Aletheia source's gloss and connected to the owner's wider design/restoration thesis.
 
@@ -8,7 +8,7 @@
 
 The preceding chapters have developed the Aletheia source's teaching about faith as state, the design language of Genesis 1:26–28, Psalm 82 with its judgment context, and the promise of partaking of divine nature in 2 Peter 1:2–8. The next question in the source's argument is not simply what religious benefit Jesus offers, but why He came in relation to the glory from which humanity has come short.
 
-The Aletheia teaching reads “come short of the glory” as deviation from true nature. That is the source's interpretive gloss on Romans 3:23, not a verbatim dictionary definition of the Greek phrase. This chapter preserves that reading and tests its relationship to the wider Scripture set. It must also keep Christ's accomplishment—redemption and free justification—together with the owner's thesis that Jesus represents who humanity is by Design.
+The Aletheia teaching reads “come short of the glory” as deviation from true nature. That is the source's interpretive gloss on Romans 3:23, not a verbatim dictionary definition of the Greek phrase. This chapter preserves that reading and develops its relationship to the wider Scripture set. It keeps Christ's accomplishment—redemption and free justification—together with the owner's settled thesis that Jesus represents who humanity is by Design.
 
 ## Why did Jesus come?
 
@@ -62,7 +62,7 @@ These passages explicitly speak of redemption, blood, forgiveness, and—within 
 
 ## How this connects to the design thesis
 
-The owner's settled direction is that **Jesus represents who we are by Design—fully**. This is not a minor supplementary theme and must not be left as a tentative possibility. Jesus represents the human identity and nature established in the creation design: image and likeness, participation in divine nature, sonship, heirship, righteousness, perfection, and oneness. He is the Son, the express image of the Father's person, and the one in whom humanity's designed identity is revealed. The argument is cumulative across Genesis 1:26–28; 2 Peter 1:4; Galatians 4:5–7; Romans 8:16–17; Hebrews 1:2–3; Matthew 5:48; 1 John 4:17; and John 17:20–23.
+The owner's settled direction is that **Jesus represents who we are by Design**. This is a governing theme of Book I, not a minor supplementary theme or a tentative possibility. Jesus represents the human identity and nature established in the creation design: image and likeness, participation in divine nature, sonship, heirship, righteousness, perfection, and oneness. He is the Son, the express image of the Father's person, and the one in whom humanity's designed identity is revealed. The argument is cumulative across Genesis 1:26–28; 2 Peter 1:4; Galatians 4:5–7; Romans 8:16–17; Hebrews 1:2–3; Matthew 5:48; 1 John 4:17; and John 17:20–23.
 
 This representation does not cancel or minimize what Jesus accomplished. Romans 3:23–24 names sin, coming short of glory, free justification, grace, and redemption in Christ. The owner's direction is that sin is falling short of our designed state, and justification and redemption restore us to that state. The book must therefore hold both dimensions together: **Jesus represents who we are by Design, and Jesus accomplished the redemption and restoration by which we are brought back to that design.**
 
