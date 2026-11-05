@@ -6,7 +6,7 @@
 
 ## The image and glory as the cumulative close
 
-This is the final chapter in the proposed Book I sequence, not the first place where faith as *hypostasis* is introduced. Chapter 1 established that foundation; the intervening chapters have developed the Aletheia source's teaching on *pistis*, state, design, divine nature, Christ's person and work, redemption, righteousness, heirship, and oneness. The present chapter gathers the image/light/glory argument in 2 Corinthians 4:1–6 and asks how the light of the knowledge of God's glory in the face of Jesus Christ illuminates the cumulative doctrine.
+This is the final chapter in the current ten-chapter Book I sequence, not the first place where faith as *hypostasis* is introduced. Chapter 1 established that foundation; the intervening chapters have developed the Aletheia source's teaching on *pistis*, state, design, divine nature, Christ's person and work, redemption, righteousness, heirship, and oneness. The present chapter gathers the image/light/glory argument in 2 Corinthians 4:1–6 and asks how the light of the knowledge of God's glory in the face of Jesus Christ illuminates the cumulative doctrine.
 
 The close must hold accomplishment and representation together. It must not postpone the foundation to Book II. The owner's principal doctrinal directions have now been supplied and incorporated: Jesus fully represents who we are by Design; faith is our state by design; sonship and heirship belong to this identity; justification and redemption restore us to the designed state; and Matthew 5:48 with 1 John 4:17 affirms present identity. The conclusion should gather this argument and hand forward the distinct evidence inquiry of Book II.
 
@@ -79,7 +79,7 @@ The source and Scripture set lead the reader through a connected inquiry:
 
 This is a working conceptual chain, not a claim that each arrow is explicitly stated by a single verse. Its purpose is to make the book's reasoning visible and auditable.
 
-The developing thesis is that faith is not merely a statement someone agrees with while remaining detached from the reality being described. The source begins by calling *pistis* “credence” and connecting it to the state of children of God, acceptance, true nature, and adoption as sons. The broader thesis asks how that credence relates to design, righteousness, representation, and present reality in Christ. Under the corrected architecture, Book I must establish the foundational relation between Hebrews 11:1, *hypostasis*, substance, and faith as underlying state/nature; Book II then develops faith as evidence from that foundation.
+The owner's direction is that faith is our state by design, not merely a statement someone agrees with while remaining detached from the reality being described. The source begins by calling *pistis* “credence” and connecting it to the state of children of God, acceptance, true nature, and adoption as sons. The wider Book I argument connects that state with design, righteousness, representation, and present reality in Christ. Under the corrected architecture, Book I establishes the foundational relation between Hebrews 11:1, *hypostasis*, substance, and faith as underlying state/nature; Book II then develops faith as evidence from that foundation.
 
 ## What Book I Has—and Has Not—Established
 
@@ -99,4 +99,4 @@ The forward question is therefore deliberate: **Having established faith's found
 6. Which parts of “Christ's work restores what Christ's person reveals” are synthesis rather than direct quotations?
 7. How does the foundation of Hebrews 11:1 and *hypostasis* govern the doctrine of faith, and how does Book II then develop faith as evidence from that foundation?
 
-**Book I status:** Ten coordinated working chapter drafts now form the proposed reader-facing manuscript sequence. The ten-chapter sequence is the current working architecture. The principal owner doctrinal directions have been incorporated; the former Hebrews 1:8 question is abandoned. The manuscript still requires full quotation/lexical verification, line-by-line editorial integration, and final owner proof. The existing app companion remains preserved and has not been overwritten.
+**Book I status:** Ten coordinated chapters now form the current reader-facing working manuscript sequence. The principal owner doctrinal directions have been incorporated; the former Hebrews 1:8 question is abandoned. The manuscript still requires full quotation/lexical verification, line-by-line editorial integration, and final owner proof. The existing app companion remains preserved and has not been overwritten.
