@@ -1,7 +1,7 @@
 # 90 — Open Questions and Owner Decisions
 
 **Book:** *The Doctrine of Faith* (Book I)  
-**Status:** Working register. An item remains open until the owner explicitly decides it or the evidence resolves it under the project's source rules. Do not treat the presence of a question here as permission to weaken, rewrite, or replace the source.
+**Status:** Current decision register, revised 2026-11-05. Owner directions marked resolved or abandoned are not to be reopened without new owner instruction or material new evidence. The 2015 Aletheia leaflet remains the controlling doctrinal source.
 
 ## A. Architecture decisions
 
@@ -119,12 +119,3 @@ For each decision, record:
 
 When resolved, update this file, the Master Manuscript Blueprint, the coverage audit, and `92_CHANGELOG.md` as needed. Do not reopen a resolved item without new evidence or a new owner instruction.
 
-
-### F. Relationship between Hebrews 11:1 / *hypostasis* and the leaflet's *pistis* / state teaching
-**Question:** How does the foundation in Hebrews 11:1 and the lexical range of hypostasis establish the framework through which the Aletheia leaflet's explicit teaching about pistis, credence, and the state of children of God is to be understood?
-
-**Evidence distinction:** The 2015 leaflet's Faith Toward God section explicitly cites Hebrews 6:1 and discusses pistis / credence, true nature, and Sonship. It does not itself quote Hebrews 11:1 or use hypostasis. The two lines must be joined by an explicit argument, not by false attribution.
-
-**Working direction:** Compare Hebrews 11:1 with Hebrews 1:3 and 3:14; account for the word's semantic range and context; then show how the owner's thesis about faith as substance and underlying nature/state relates to the Aletheia source's pistis/state teaching. Do not treat etymology alone as proof.
-
-**Status:** Active foundation-first reconstruction; see documents 94 and 95.
