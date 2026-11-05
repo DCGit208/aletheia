@@ -17,6 +17,8 @@ on:
       - "postcss.config.mjs"
       - "tsconfig.json"
       - "scripts/check-one-source-migration.mjs"
+      - "scripts/check-doctrine-of-faith-publication.mjs"
+      - "scripts/check-protected-content-build.mjs"
   workflow_dispatch:
 
 permissions:
