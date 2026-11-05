@@ -102,6 +102,21 @@
 
 **Status:** Resolved — doctrinal direction supplied.
 
+
+## D. Supplementary source and publication decisions
+
+### D1. BIBLE INTRODUCTION.pdf — Dake Study Bible Notes
+
+**Audit finding:** The supplied introduction has been reviewed. Its preface states a literal-reading principle: take Scripture literally where possible and, where symbolic, figurative, or typical language is used, seek the literal truth intended.
+
+**Status:** Resolved — supplementary interpretive-method reference only. It does not replace or outrank the 2015 Aletheia leaflet as the controlling doctrinal source.
+
+### D2. Final reader-facing chapter titles and book apparatus
+
+**Question:** Should the current chapter titles remain final, and what title/subtitle, author line, preface, dedication, acknowledgements, and back matter should appear in the publication?
+
+**Status:** Open production/editorial decision. Resolve after the second editorial pass and before layout. No title change should erase or obscure a source-defined doctrinal movement.
+
 ### E. Foundation-first argument control
 
 The foundation-first direction is settled: Hebrews 11:1 and *hypostasis* belong at the foundation of Book I. The Aletheia leaflet's Faith Toward God section explicitly discusses Hebrews 6:1, *pistis* / credence, true nature, and Sonship; it does not itself quote Hebrews 11:1 or use *hypostasis*. The book connects these two lines by a reasoned argument without false attribution.
