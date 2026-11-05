@@ -87,25 +87,37 @@ This distinction matters. The text provides the basis for the inference; the inf
 
 Read alongside Galatians 4, Ephesians 1 holds God's purpose and Christ's action together. Adoption is “by Jesus Christ to himself,” and it is “according to the good pleasure of his will.” The Aletheia source's connection between faith, true nature, acceptance, and adoption must be read within that broader scriptural structure.
 
-## 6. Faith, good report, and the Father's pleasure
+## 6. Faith, Sonship, and the Father's pleasure
 
-The leaflet's *pistis* teaching also raises a question about Hebrews 11:2, 5–6 and Matthew 3:17. These passages are relevant to the owner's developing thesis, but their respective claims must first be distinguished.
+The owner's doctrinal direction is explicit: **faith is our state by design**. We are created in the image and likeness of Elohim; we are partakers of the divine nature; and, as sons, we are natural heirs. The Father's will and pleasure is for us to operate in this state as sons of God. This is not a passing emotional condition. It is the designed state and identity developed through the source's teaching on *pistis* / credence and the Scripture passages examined throughout Book I.
 
-Hebrews 11:2 says that by faith the elders obtained a good report. Hebrews 11:5 says that Enoch obtained testimony that he pleased God. Hebrews 11:6 states that without faith it is impossible to please God. Matthew 3:17 records the Father's declaration concerning Jesus: “This is my beloved Son, in whom I am well pleased.”
+Ephesians 1:5 (KJV) identifies adoption as part of the good pleasure of God's will:
 
-These texts explicitly connect faith with good report and pleasing God, and Matthew records the Father's declaration over the beloved Son. Together they invite an inquiry into the relationship among faith, Sonship, and the Father's pleasure.
+> “Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,”
 
-The owner's direction is now explicit: **faith is our state by design**. We are created in the image and likeness of Elohim; we are made partakers of the divine nature; and, as sons, we are natural heirs. The Father's will and pleasure is that we operate in this state as sons of God. This is the doctrinal direction governing the synthesis in this chapter.
+The Father's purpose and pleasure therefore includes adoption as His children through Jesus Christ. Galatians 4:5–7 and Romans 8:14–17 further identify us as sons, children and heirs through Christ. The owner's direction is that the Father's pleasure is for His sons to operate in the state He designed and has made available in Christ.
 
 Matthew 3:17 (KJV) records the Father's declaration over Jesus:
 
 > “And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.”
 
-This declaration must be read with the wider sonship argument, not as an isolated sentiment. Hebrews 11:2 says that the elders obtained a good report through faith; Hebrews 11:5 says Enoch had this testimony, that he pleased God; and Hebrews 11:6 states that without faith it is impossible to please Him. The Father's declaration over the Son and the faith/pleasing-God statements belong in the same doctrinal inquiry. The owner's synthesis is that the Father's pleasure is for His sons to operate in their designed state, rather than to live beneath the identity and nature given in Him.
+This declaration is read with the wider sonship argument. The Father identifies Jesus as His beloved Son and declares His pleasure in Him. The owner directs that this statement be brought into the argument about the Father's will and pleasure for His sons to operate in their designed state.
 
-The supporting passages are explicit: Genesis 1:26–27 describes humanity made in God's image and likeness; 2 Peter 1:4 speaks of becoming partakers of the divine nature; Galatians 4:5–7 says that those redeemed receive adoption as sons, are no longer servants but sons, and if sons are heirs of God through Christ; Romans 8:16–17 says the Spirit bears witness that we are children of God and, if children, heirs of God and joint-heirs with Christ. These passages together establish the design, participation, sonship and heirship framework. The statement that faith is our state by design is the owner's governing synthesis of that framework and the leaflet's explicit *pistis* / state-of-children teaching.
+Hebrews 11:2 (KJV) states:
 
-The point is not to weaken the owner's thesis by calling it “only an idea.” The point is to show the chain of reasoning by which the thesis is established, preserving the distinction between what each passage explicitly says and what the synthesis concludes.
+> “For by it the elders obtained a good report.”
+
+Hebrews 11:5 (KJV) states of Enoch:
+
+> “By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God.”
+
+Hebrews 11:6 (KJV) states:
+
+> “But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.”
+
+These verses explicitly connect faith with good report and pleasing God. Matthew 3:17 records the Father's pleasure in His beloved Son. Ephesians 1:5 identifies adoption as according to the good pleasure of His will. Galatians 4:5–7 and Romans 8:14–17 identify believers as sons and heirs. The owner's doctrinal synthesis is that faith is our state by design and that the Father's pleasure is for His sons to operate in that state—not to live beneath the identity and nature represented in the Son.
+
+The supporting passages are explicit: Genesis 1:26–27 describes humanity made in God's image and likeness; 2 Peter 1:4 speaks of becoming partakers of the divine nature; Galatians 4:5–7 says that those redeemed receive adoption as sons, are no longer servants but sons, and if sons are heirs of God through Christ; Romans 8:16–17 says the Spirit bears witness that we are children of God and, if children, heirs of God and joint-heirs with Christ. Together these passages establish the design, participation, sonship and heirship framework in which the owner's faith-as-state direction is to be understood.
 
 ## 7. Sonship, design, and the foundation of faith
 
