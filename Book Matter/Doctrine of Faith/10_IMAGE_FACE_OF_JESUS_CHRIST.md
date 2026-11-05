@@ -48,7 +48,7 @@ The preceding chapters have kept two questions together.
 
 **What does Jesus represent?** The Scripture set calls Him the Son and heir of all things (Hebrews 1:2), the express image of God's person (Hebrews 1:3), and the image of God (2 Corinthians 4:4). Genesis 1:26–28 speaks of humanity's image, likeness, blessing, fruitfulness, and dominion. First John 4:17 says, in the context of love and confidence, “as he is, so are we in this world.” John 17:20–23 records Jesus' prayer that believers be one in the Father and Son, including His words that the glory given to Him has been given to them.
 
-The owner's developing thesis is that **Jesus represents who we are by Design**, not merely what He accomplished for us. This is a cumulative synthesis. It must hold together the passages on Christ's person and the passages on His work. Christ's work does not disappear because His person represents something; His representation does not disappear because His work is essential.
+The owner's settled direction is that **Jesus represents who we are by Design**. This thesis must be developed fully, not treated as a tentative inquiry. It is cumulative across the passages on Christ's person and the passages on His work. Christ's work does not disappear because His person represents who we are; His representation does not disappear because His work is essential.
 
 A concise working formulation is: **Christ's work restores what Christ's person reveals.** This is not a sentence quoted from one of the cited passages. It is the synthesis the book has been investigating: the One who reveals the image and glory of God is also the One through whom redemption, reconciliation, and justification are spoken of.
 
@@ -69,7 +69,7 @@ The ten coordinated chapters follow the argument's dependencies, beginning with 
 9. **Oneness and glory:** John 17:20–23, preserving the prayer's language of “as,” indwelling, glory given, and its stated purpose.
 10. **The image in the face of Jesus Christ:** 2 Corinthians 4:1–6 as the cumulative close on image, light, knowledge, and glory.
 
-This sequence is a proposed reader-facing architecture, not a claim that the owner has approved every chapter boundary or resolved every doctrinal question. The existing app companion remains preserved as source material; its content is not replaced by this summary. The argument of Book I is to establish the *hypostasis* foundation and develop the connected Aletheia doctrine, while Book II develops faith as evidence from that foundation.
+This sequence is the current reader-facing working architecture. The owner has supplied the principal doctrinal directions recorded in document 90; the former Hebrews 1:8 question is abandoned. The existing app companion remains preserved as source material; its content is not replaced by this summary. The argument of Book I is to establish the *hypostasis* foundation and develop the connected Aletheia doctrine, while Book II develops faith as evidence from that foundation.
 
 ## The Book's Working Synthesis
 
