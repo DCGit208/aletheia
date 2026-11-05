@@ -1,8 +1,8 @@
 # 96 — Foundation-to-Manuscript Dependency and Coverage Matrix
 
 **Book:** *The Doctrine of Faith* — Book I  
-**Date:** 2026-10-18  
-**Status:** Working audit for the foundation-first architecture; not final doctrinal approval  
+**Date:** 2026-11-05  
+**Status:** Updated against the ten current foundation-first working manuscripts on 2026-11-05; active coverage/dependency control, not final doctrinal approval  
 **Depends on:** 94_FOUNDATIONAL_ARGUMENT_RECONSTRUCTION.md; 95_REVISED_BOOK_I_ARCHITECTURE_PROPOSAL.md; study/01_SOURCE_MAP.md; study/02_SCRIPTURE_MATRIX.md; study/06_GLOSSARY.md; study/15_ADDITIONAL_NOTES_FAITH_SONSHIP_DESIGN.md.
 
 ## 1. Why this matrix exists
@@ -34,6 +34,25 @@ The owner's notes also preserve a broader chain:
 
 This is not discarded. It is a conceptual map to investigate. Its placement of “substance” near the end describes a cumulative relationship in the developing thesis; it does not override the owner's later direction that the *hypostasis* proposition must serve as the foundational opening of Book I. The book can establish a governing foundation at the beginning and then demonstrate, deepen, and return to its implications throughout the argument.
 
+
+
+## 2.3 Current ten-chapter manuscript index — authoritative working map (2026-11-05)
+
+Use this table as the current chapter-location index when auditing coverage. The earlier tables below preserve source and first-pass migration history; where an older table uses an obsolete chapter number, this current index governs the ten coordinated manuscripts.
+
+| Current chapter | Working manuscript | Governing role and primary coverage | Dependency / handoff |
+|---|---|---|---|
+| 1 | `00_HYPOSTASIS_SUBSTANCE_FOUNDATION.md` | Hebrews 11:1; *hypostasis*; substance/underlying reality versus assurance/confidence; Hebrews 10:32–39 and 11; comparisons with Hebrews 1:3 and 3:14; bridge to Mark 11:22. | Establishes the foundation; hands to the leaflet's *pistis* / state-of-children teaching. |
+| 2 | `02_PISTIS_CREDENCE_AND_SONSHIP.md` | Leaflet's explicit *pistis* = credence and state-of-children teaching; Hebrews 6:1; acceptance, true nature, adoption, Sonship, heirship; Galatians 4; Romans 8; Ephesians 1; Hebrews 11:2, 5–6 and Matthew 3:17 inquiry. | Relates the source's *pistis* teaching to Chapter 1 without attributing *hypostasis* to the leaflet; hands to Genesis design. |
+| 3 | `03_ELOHIM_IMAGE_LIKENESS_AND_DESIGN.md` | Genesis 1:26–28; source's *’ĕlōhîm* / Trinity interpretation; image, likeness, dominion; John 14:12; 1 John 4:17; Mark 11:20–25; Matthew 5:43–48; owner thesis on representation/design. | Develops design after faith/state; hands to Psalm 82 and John 10. |
+| 4 | `04_PSALM_82_WITH_JOHN_10.md` | Psalm 82:1–8 and John 10:30–38; “Ye are gods,” judgment setting, Jesus' appeal, and the Scripture-cannot-be-broken statement. | Holds Psalm 82:6–7 together; hands to 2 Peter 1:2–8. |
+| 5 | `05_TRUE_NATURE_PARTAKERS_OF_DIVINE_NATURE.md` | 2 Peter 1:2–8; promises, partaking of divine nature, escape from corruption, diligence and fruitfulness; source's “back on course” formulation. | Develops the creation/design-to-participation synthesis; hands to Romans 3 and Christ's person/work. |
+| 6 | `06_WHY_DID_JESUS_COME_GLORY_DEVIATION_REPRESENTATION.md` | Romans 3:21–26; 1 Corinthians 11:7; coming short of glory as interpreted by the source; Christ's person/work and representation thesis. | Holds explicit text and source interpretation apart; hands to redemption/justification terminology. |
+| 7 | `07_REDEMPTION_JUSTIFICATION_RIGHTEOUSNESS.md` | *dikaioō*, *dikaiosynē*, *apolutrōsis*; free justification; redemption; righteousness in Christ; source and owner formulations kept distinct. | Develops the terms and their relations; hands to the Hebrews 1:8 / heirship question. |
+| 8 | `08_THE_SON_HEBREWS_1_8_AND_THE_HEIR.md` | Hebrews 1:1–8; the Son, heirship, express image, the leaflet's inference question; Galatians 4:5–7; Romans 8:17; 2 Corinthians 5:21. | Makes the inference visible while leaving its final doctrinal force to the owner; hands to John 17. |
+| 9 | `09_ONENESS_AND_GLORY_JOHN_17.md` | John 17:1, 18–23; sending, sanctification, oneness, “as,” glory given, indwelling, and stated purpose. | Develops the prayer in context; hands to 2 Corinthians 4. |
+| 10 | `10_IMAGE_FACE_OF_JESUS_CHRIST.md` | 2 Corinthians 4:1–6; Christ as image, blinded minds, light, knowledge, glory; cumulative accomplishment/representation synthesis and Book II handoff. | Closes Book I with *hypostasis* already established; Book II develops *elenchos* / evidence. |
+
 ## 3. Source-to-chapter coverage matrix
 
 The proposed chapter numbers below refer to the ten-chapter working proposal in document 95; coordinated working manuscripts for all ten positions now exist. They remain provisional until the complete chapter-dependency review is finished.
@@ -51,11 +70,11 @@ The proposed chapter numbers below refer to the ten-chapter working proposal in 
 | “Ye are gods” and judgment context | Psalm 82:1–8; John 10:30–39 | Ch. 4 | Gen 1:26–28; John 10:34–35; divine nature | Keep Ps 82:6–7 together and do not let one verse carry the entire later synthesis. |
 | Partakers of divine nature | 2 Peter 1:2–8, especially 1:4 | Ch. 5 | Genesis design; corruption escaped; virtues/diligence | Preserve the passage's sequence; do not detach v.4 from vv.5–8. |
 | Faith operates within design / God's nature | Owner's formulation with Gen 1:26–28, Mark 11:22, Matt 5:48 | Ch. 1 introduces Mark 11:22 as a bridge from *hypostasis* / substance to state; Ch. 2 supplies the *pistis* / state-of-children connection; Ch. 3 develops Mark 11:22 alongside Genesis design | Psalm 82; 2 Pet 1; 1 John 4:17 | Mark 11:22 is a hinge, not an isolated proof-text. Preserve Mark 11:20–25 context; treat “state of God” as the owner's doctrinal interpretation to be argued, not an uncontested literal translation. Preserve Matt 5:43–48 love/enemies context. |
-| “As he is, so are we in this world” | 1 John 4:17 | Ch. 9 and Ch. 10 | Love/confidence context; John 17; Rom 8:17 | Preserve immediate context and show the wider inference. |
+| “As he is, so are we in this world” | 1 John 4:17 | Ch. 3 (design cross-reference); Ch. 8 (heirship inference); Ch. 9–10 (oneness and cumulative representation) | Love/confidence context; John 17; Rom 8:17 | Preserve immediate context and show the wider inference; do not assign the whole thesis to this clause alone. |
 | “Come short of the glory” as deviation from true nature | Rom 3:23–24 as interpreted by the Aletheia leaflet | Ch. 7 | 1 Cor 11:7; Gen 1; Christ's person/work | Attribute “deviation from true nature” to the source's interpretation, not as a word-for-word quotation from Romans. |
 | Man as image and glory of God | 1 Cor 11:7 | Ch. 7 | Immediate 1 Cor 11 headship/covering context; 2 Cor 4:4–6 | Preserve the source's selected phrase while acknowledging context. |
-| Christ as Son, heir, and express image | Heb 1:2–3; Heb 1:8; 2 Cor 4:4,6 | Ch. 6 and Ch. 8; synthesis in Ch. 10 | Design; image; righteousness; heirship | Do not make one verse prove the full representation thesis; compare Heb 1:3 hypostasis use with Heb 11:1. |
-| Christ's accomplishment and representation | Rom 3:21–26; 2 Cor 5:17–21; Eph 1:7; Col 1:13–14; owner thesis | Ch. 6 and Ch. 7 | Sonship; nature; present reality | Hold both questions together: what Christ accomplished and what He represents. |
+| Christ as Son, heir, and express image | Heb 1:2–3; Heb 1:8; 2 Cor 4:4,6 | Ch. 1 (Heb 1:3 lexical comparison); Ch. 6 (Christ's person/work); Ch. 8 (Son and heir); Ch. 10 (cumulative image close) | Design; image; righteousness; heirship | Do not make one verse prove the full representation thesis; compare Heb 1:3 hypostasis use with Heb 11:1. |
+| Christ's accomplishment and representation | Rom 3:21–26; 2 Cor 5:17–21; Eph 1:7; Col 1:13–14; owner thesis | Ch. 6 (glory, deviation, Christ's person/work); Ch. 7 (redemption, justification, righteousness); cumulative synthesis in Ch. 10 | Sonship; nature; present reality | Hold both questions together: what Christ accomplished and what He represents. |
 | Free justification | Rom 3:23–28; leaflet's “Has man been justified? Yes, and freely!” | Ch. 7 | Redemption; righteousness in Christ | Preserve “freely” and grace; don't replace the source's emphasis with a generic formula. |
 | *Dikaioō* | Leaflet: “render just or innocent (free from evil or guilt)”; owner: “render righteous or such as he ought to be” | Ch. 7 | *Dikaiosynē*; restoration | Keep formulations distinct pending deliberate lexical decision. |
 | *Dikaiosynē* / “back on course” | Leaflet: equity, impartiality to and conformity with God's nature; “original: back on course” | Ch. 7 | 2 Pet 1:4; 2 Cor 5:21 | Separate source gloss, lexical sense, and conceptual synthesis. |
