@@ -257,3 +257,12 @@
 - Confirmed Chapter 10 holds Christ's accomplishment and representation together and labels “Christ's work restores what Christ's person reveals” as synthesis.
 - Identified a control-document issue: the historical tables in 93_FIRST_DRAFT_SOURCE_FIDELITY_REVIEW.md still carry superseded nine-chapter labels/mappings. A dated addendum now warns against using that historical table as the current index. The next editorial synchronization should update the current source-coverage matrix and clearly supersede stale mappings.
 - No owner doctrinal decision was made. The app companion remains untouched.
+
+
+## 2026-11-05 — Current chapter index synchronized; Chapters 2–5 audited
+
+- Updated `96_FOUNDATION_DEPENDENCY_AND_COVERAGE_MATRIX.md` with an authoritative working index for the ten current foundation-first manuscripts, including each chapter's governing role, coverage, dependency, and handoff.
+- Corrected matrix locations for the 1 John 4:17 representation inquiry and the Christ person/work synthesis so that the current chapter mapping reflects the actual manuscripts rather than the older first-pass structure.
+- Audited Chapters 2–5: Chapter 2's *pistis* / credence / state-of-children teaching and Sonship sequence; Chapter 3's Genesis design, Mark 11:20–25 and Matthew 5:43–48 contexts; Chapter 4's Psalm 82 / John 10 argument; and Chapter 5's 2 Peter 1:2–8 sequence.
+- Recorded the findings and remaining scope in `93_FIRST_DRAFT_SOURCE_FIDELITY_REVIEW.md`.
+- The ten-chapter index is a current working map, not final approval of chapter architecture or doctrine. The owner's Hebrews 1:8 decision, lexical questions, and final quotation proofing remain open.
