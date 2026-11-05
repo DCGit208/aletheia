@@ -8,6 +8,8 @@ const forbiddenPassages = [
   "The Living Bible (TLB) gloss, kept as a gloss beside the KJV, not as a rival Bible:",
   "Holy Writ — the graphē — is the primary authority for hearing from God and for spiritual growth. Foundation School rests on the writing, not on religious imitation.",
   "The graphē carries the unchallenged authority. Persons are under it. Organizations are under it.",
+  "The writer of Hebrews will not let you lay this stone again as a lifestyle.",
+  "The first term is foundational to this book.",
 ];
 const matches = [];
 
