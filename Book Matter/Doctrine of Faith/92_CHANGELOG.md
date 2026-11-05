@@ -333,3 +333,13 @@
 - Automated integrity checks passed for ten chapter headings and the principal owner-directed passages/formulations; no stale open Hebrews 1:8 decision or provisional representation thesis remains.
 - Updated document 12 with chapter-by-chapter revision record and scope limitation.
 - **Remaining work:** second editorial pass; full quotation-by-quotation proof against the chosen Bible editions; full source/lexical bibliography and references; footnotes/endnotes; glossary; front/back matter; final production design and owner proof. This is not yet a publication proof.
+
+
+## 2026-11-05 — Targeted Scripture and morphology checks; decision-register cleanup
+
+- Checked key KJV passages against Bible Gateway: Genesis 1:26–28; Galatians 4:4–7; Romans 8:14–17; Matthew 5:43–48; Mark 11:20–25; John 17:20–23; 1 John 4:17; and 2 Corinthians 4:1–6 / 5:17–21.
+- Reconfirmed Genesis 1:27 TLB wording against Bible Gateway.
+- Verified Romans 3:24 Greek form δικαιούμενοι and its present passive participle morphology; confirmed the G629 form in the same verse.
+- Verified Thayer G1344 and Strong's/Thayer G629 entries, including the Thayer qualification and ransom/release wording.
+- Updated document 12 with these targeted checks and the explicit limitation that full quotation-by-quotation proof remains open.
+- Reorganized document 90 to remove the duplicated foundation section, update its current status, record the Dake introduction as supplementary interpretive method only, and preserve the remaining editorial decisions.
