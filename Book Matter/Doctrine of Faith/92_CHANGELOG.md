@@ -343,3 +343,12 @@
 - Verified Thayer G1344 and Strong's/Thayer G629 entries, including the Thayer qualification and ransom/release wording.
 - Updated document 12 with these targeted checks and the explicit limitation that full quotation-by-quotation proof remains open.
 - Reorganized document 90 to remove the duplicated foundation section, update its current status, record the Dake introduction as supplementary interpretive method only, and preserve the remaining editorial decisions.
+
+
+## 2026-11-05 — Scripture quotation proof register created
+
+- Created document 13, SCRIPTURE_QUOTATION_PROOF_REGISTER.md.
+- Listed substantial Scripture quotations and source quotations by chapter, translation/source, current targeted-check status, and remaining final proof.
+- Added original-language proof items for *hypostasis*, *pistin theou*, *dikaioumenoi*, *apolutrōseōs*, and *spoudē*.
+- Separated Aletheia leaflet quotations/glosses from Bible translations.
+- Updated documents 00, 12, and 96 to make document 13 the quotation-proof control.
