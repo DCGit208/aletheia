@@ -429,3 +429,10 @@ Key source-fidelity and lexical controls added or strengthened:
 The continuous manuscript was refreshed and automated integrity checks passed for the ten-chapter structure and the principal owner-directed content. The full audit record and its limitations are in document 12.
 
 **Remaining fidelity gates:** complete quotation-by-quotation proof; full bibliographic/source verification; a second human editorial pass; and final owner review of the designed publication proof.
+
+
+## 25. Targeted Scripture and lexical verification — 2026-11-05
+
+Targeted online checks were completed for Genesis 1:26–28 (KJV), Genesis 1:27 (TLB), Galatians 4:4–7, Romans 8:14–17, Matthew 5:43–48, Mark 11:20–25, John 17:20–23, 1 John 4:17, and 2 Corinthians 4:1–6 / 5:17–21. Romans 3:24's Greek participle and morphology were checked; Thayer G1344 and Strong's/Thayer G629 were also reviewed.
+
+The results and source links are recorded in document 12. These are targeted checks of key passages, not a complete quotation audit. Each biblical quotation and reference across all ten chapters must still be checked against the selected edition and marked in the final proof record.
