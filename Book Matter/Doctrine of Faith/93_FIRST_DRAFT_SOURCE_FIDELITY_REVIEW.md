@@ -398,3 +398,12 @@ The new material has been integrated into the working manuscripts, but it is not
 
 ### Audit conclusion
 The owner's major doctrinal directions have been recorded and incorporated into the relevant chapters. The previous owner-decision blockers are resolved or, in the case of the Hebrews 1:8 question, explicitly abandoned. The remaining blockers are source/quotation verification, lexical substantiation, manuscript-wide editorial integration and production. No claim of publication readiness is made until those gates have actually passed.
+
+
+## 22. Continuous Book I manuscript assembled — 2026-11-05
+
+The ten latest coordinated chapter files have been assembled into `11_THE_DOCTRINE_OF_FAITH_BOOK_I_CONTINUOUS_WORKING_MANUSCRIPT.md` in their current order. The integrated copy contains ten chapter headings, a contents list, and an editorial control note identifying the 2015 Aletheia leaflet as the controlling doctrinal source and the individual chapter files as the controlled sources.
+
+**Initial automated integrity checks:** confirmed ten chapter headings; confirmed the full Romans 3:23–24 KJV quotation, the supplied Genesis 1:27 TLB wording, the Mark 11:22 design-state direction, the G1344 extended definitions, 1 Corinthians 15:41, the Father's pleasure material, and the abandoned Hebrews 1:8 question. No stale open Hebrews 1:8 inference or “developing representation thesis” wording was found in the assembled copy.
+
+**Scope limitation:** These checks establish assembly integrity and the presence of key owner-directed content. They do not replace a human line-by-line proofread, full Bible quotation check across all chapters, or final doctrinal/production approval.
