@@ -269,7 +269,7 @@ export const catalog: CatalogSnapshot = {
       title: "Doctrine of Faith",
       subtitle: "The Gospel That Restores Our True Nature",
       description:
-        "Eight chapters on πίστις (pistis): credence toward God, image, free justification, heirship, and the face of Christ. Companion volume for Course 2; preview Chapter 1 free.",
+        "Book I establishes faith as substance and underlying state, developing credence, image and likeness, divine nature, sonship, justification, heirship, oneness, and the image revealed in Christ. Ten chapters; full reading is reserved for entitled readers.",
       authors: [achu],
       contributors: [],
       publisher: BRAND.publications,
@@ -290,7 +290,7 @@ export const catalog: CatalogSnapshot = {
       accessLevel: "entitled",
       previewChapterIds: ["ch-faith-1"],
       productId: "product-doctrine-of-faith",
-      chapterCount: 8,
+      chapterCount: 10,
     },
     {
       id: "book-doctrine-of-baptism",
