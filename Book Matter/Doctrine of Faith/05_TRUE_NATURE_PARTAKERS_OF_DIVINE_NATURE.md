@@ -1,6 +1,6 @@
 # Chapter 5 — True Nature: Partakers of the Divine Nature
 
-**Manuscript status:** Coordinated working draft for the foundation-first manuscript  
+**Manuscript status:** Revised working chapter; final Scripture and editorial proof remains  
 **Book:** *The Doctrine of Faith* — Book I  
 **Source-preservation note:** This chapter follows the existing app-companion exposition of 2 Peter 1:2–8. It preserves the source's “back on course” formulation while distinguishing that conceptual gloss from an exhaustive lexical definition.
 
@@ -8,7 +8,7 @@
 
 The preceding chapters have established the foundation of faith as *hypostasis*, the Aletheia source's claim that *pistis* / credence defines the state of God's children, the image-and-likeness language of Genesis 1:26–28, and the need to read Psalm 82:6–7 with its judgment context. The next source passage is 2 Peter 1:2–8, especially verse 4.
 
-The source's use of “true nature from creation” and its appeal to being partakers of divine nature should be examined in the sequence Peter actually gives: knowledge, divine power, promises, participation in divine nature, escape from corruption, and diligence in the qualities that follow. This is not a licence to flatten every passage into one sentence. It is a further movement in the cumulative argument.
+The source's use of “true nature from creation” and its appeal to being partakers of divine nature are developed through the sequence Peter actually gives: knowledge, divine power, promises, participation in divine nature, escape from corruption, and diligence in the qualities that follow. This is not a licence to flatten every passage into one sentence. It is a further movement in the cumulative argument.
 
 ## True Nature — Partakers
 
@@ -34,7 +34,7 @@ Second Peter 1:4 speaks of the promises, participation in divine nature, and esc
 
 Genesis 1:26–28 explicitly describes humanity as made in God's image and likeness and records the blessing and commission given to humanity. Second Peter 1:4 explicitly speaks of becoming “partakers of the divine nature” through the precious promises and of escaping the world's corruption through lust. The two passages do not use identical wording; the source's argument places them in relation through its teaching about true nature from creation.
 
-The owner's doctrinal direction is that humanity's participation in divine nature is integral to our designed state and to the restoration accomplished through Christ. This is not left as a developing owner question. It should be explained through the source's conceptual line and the actual sequence of 2 Peter 1:2–8, not merely asserted. The steps are: identify what Genesis says about creation; identify what Peter says is given through the promises; retain Peter's stated contrast with corruption; and then explain why the source reads these together as true nature and restoration. The phrase “back on course” helps name that connection within the Aletheia teaching, but it is not a substitute for the argument.
+The owner's doctrinal direction is that humanity's participation in divine nature is integral to our designed state and to the restoration accomplished through Christ. This is a governing conclusion for the book. It is explained through the source's conceptual line and the actual sequence of 2 Peter 1:2–8, not merely asserted. The steps are: identify what Genesis says about creation; identify what Peter says is given through the promises; retain Peter's stated contrast with corruption; and then explain why the source reads these together as true nature and restoration. The phrase “back on course” helps name that connection within the Aletheia teaching, but it is not a substitute for the argument.
 
 Nor should “partakers” be used to erase the passage's practical sequence. Peter continues with diligence and qualities to be added to faith. The chapter should neither reduce divine nature to moral self-improvement nor detach participation from the conduct and fruitfulness verses 5–8 explicitly describe.
 
