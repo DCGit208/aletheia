@@ -62,13 +62,13 @@ The chapter must neither apologize for the wording of Genesis nor invent a title
 
 ## Jesus as representation of humanity's design — an owner-supplied inquiry
 
-The owner's developing thesis is:
+The owner's settled doctrinal direction is:
 
 > **Jesus represents who we are by Design.**
 
-The question is therefore not limited to “What did Jesus accomplish for us?” It must also ask, “What does Jesus represent?” The intended investigation is that Jesus reveals, in perfect manifestation, the reality toward which humanity was designed and to which redemption restores us.
+This thesis is to be developed fully. The book must ask both “What did Jesus accomplish for us?” and “What does Jesus represent?” Jesus reveals, in perfect manifestation, the reality toward which humanity was designed; redemption restores us to that design. Representation is not a secondary or tentative theme. It is a governing part of the book's argument and must be held together with Christ's accomplishment.
 
-This is a cumulative thesis to investigate through the Scripture set, not a conclusion to assign to Genesis 1:26–28 or any single verse by itself. The connected passages include:
+The argument is cumulative across the Scripture set, not assigned to Genesis 1:26–28 or any single verse by itself. The connected passages include:
 
 - **Genesis 1:26–28:** image, likeness, blessing, fruitfulness, and dominion.
 - **Romans 8:17:** children, heirs of God, and joint-heirs with Christ; the same verse also names suffering with Him and being glorified together.
