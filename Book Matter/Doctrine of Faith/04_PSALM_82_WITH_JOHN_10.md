@@ -1,6 +1,6 @@
 # Chapter 4 — Psalm 82 with John 10: “Ye Are Gods” and the Judgment Context
 
-**Manuscript status:** Coordinated working draft for the foundation-first manuscript  
+**Manuscript status:** Revised working chapter; final Scripture and editorial proof remains  
 **Book:** *The Doctrine of Faith* — Book I  
 **Source-preservation note:** This chapter preserves the existing app-companion argument and its paired reading of Psalm 82:6–7 and John 10:30–38. Its controlling instruction is not to detach the assertion “Ye are gods” from the judgment context, nor to use the judgment context to erase the assertion.
 
@@ -10,7 +10,7 @@
 
 The preceding chapters established the *hypostasis* foundation, the Aletheia source's *pistis* / credence teaching, and Genesis 1:26–28's image-and-likeness account of humanity's design. The source also brings Psalm 82:6 into this design-and-nature cluster. This chapter examines that verse alongside the psalm's full judgment setting and Jesus' use of it in John 10.
 
-The task is twofold: do not empty “Ye are gods” of its force, and do not detach it from the judgment that surrounds it. The owner's broader thesis about humanity's true nature and design must be developed across the Scripture set; Psalm 82:6 alone must not be made to prove every part of that thesis.
+The task is twofold: do not empty “Ye are gods” of its force, and do not detach it from the judgment that surrounds it. The owner's governing thesis is that humanity is God by design, created in the image and likeness of Elohim. Psalm 82:6 is a significant part of the Scripture argument, but it is read with Psalm 82:7–8 and Jesus' appeal in John 10; it is not made to carry the entire design argument by itself.
 
 ## Psalm 82 with John 10 — do not empty the verse
 
@@ -46,11 +46,11 @@ The Scripture set is Psalm 82:6 read with Psalm 82:7 and with John 10:34–35. J
 
 The chapter's claim must therefore be reasoned from the passages as presented. Psalm 82:6 cannot be reduced to an isolated slogan, and Psalm 82:7 cannot be used to pretend verse 6 was never spoken. Jesus' appeal in John 10 must be read in the exchange in which it occurs, including the accusation, the quotation, the statement that Scripture cannot be broken, and the appeal to the works that show the Father is in Him and He in the Father.
 
-### What Jesus' appeal establishes—and what remains to be argued
+### What Jesus' appeal establishes—and how it contributes to the design argument
 
 Jesus uses Psalm 82:6 in answer to the charge of blasphemy. His argument explicitly appeals to the written Scripture, calls it unbreakable, and contrasts the quoted designation given to those “unto whom the word of God came” with the accusation directed at the One whom the Father sanctified and sent into the world. He then appeals to the works of the Father and to the mutual indwelling language: the Father is in Him and He in the Father.
 
-The passage therefore does not permit the reader to dismiss “Ye are gods” as though Jesus had not invoked it. But neither does the brief quotation, by itself, explain every question about the original referents of “gods” in Psalm 82 or state the whole doctrine of humanity's design. The psalm's own rebuke and judgment remain part of the evidence. The chapter must show how the source reads these texts together rather than importing an unspoken answer to every interpretive question.
+The passage therefore does not permit the reader to dismiss “Ye are gods” as though Jesus had not invoked it. But neither does the brief quotation, by itself, explain every question about the original referents of “gods” in Psalm 82 or state the whole doctrine of humanity's design. The psalm's own rebuke and judgment remain part of the evidence. The chapter therefore keeps the source's reading of these texts together while making the reasoning visible. The owner's design conclusion is developed cumulatively; the immediate psalm and Gospel contexts remain part of that argument.
 
 The owner's broader design thesis is developed through the full Scripture set: Genesis 1:26–28 supplies image and likeness; Psalm 82 and John 10 supply the “gods” statement and Jesus' use of it; 2 Peter 1:4 speaks of partaking of divine nature; and John 17 later develops oneness and indwelling. This is a cumulative synthesis. No one of these passages should be made to do the work of all the others.
 
