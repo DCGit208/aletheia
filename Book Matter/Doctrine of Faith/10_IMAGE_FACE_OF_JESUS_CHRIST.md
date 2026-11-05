@@ -1,7 +1,7 @@
 # Chapter 10 — The Image in the Face of Jesus Christ: Glory, Knowledge, and Present Reality
 
 **Book:** *The Doctrine of Faith* (Book I)  
-**Status:** Coordinated working manuscript; conclusion subject to final editorial and quotation audit.  
+**Status:** Revised working chapter; conclusion subject to final editorial and quotation audit.  
 **Source basis:** Aletheia Libraries 1 (2015), “Faith toward God”; existing Course 2 companion, section XI and the book-level synthesis in section XII; 2 Corinthians 4:1–6.
 
 ## The image and glory as the cumulative close
@@ -85,7 +85,7 @@ The owner's direction is that faith is our state by design, not merely a stateme
 
 Book I has developed the Aletheia source's faith-toward-God architecture through the connected passages on *pistis*, sonship, image and likeness, divine nature, glory, justification, righteousness, heirship, oneness, and the image of God in Christ.
 
-Book I has placed Hebrews 11:1 and *hypostasis* at the foundation of the doctrine and has developed the owner's thesis that faith as substance relates to the person's underlying nature and state. The argument connecting the lexical range, the context of Hebrews, and the Aletheia source's explicit *pistis* / state-of-children teaching remains open to continued proofing and review; the foundation must not be deferred to Book II. Book II, *Faith Is Evidence*, develops faith as evidence from this foundation. The close of Book I therefore summarizes the foundation laid and hands forward the evidence inquiry.
+Book I has placed Hebrews 11:1 and *hypostasis* at the foundation of the doctrine and has developed the owner's thesis that faith as substance relates to the person's underlying nature and state. The argument connecting the lexical range, the context of Hebrews, and the Aletheia source's explicit *pistis* / state-of-children teaching remains subject to scholarly verification and editorial proof; the owner's doctrinal direction is established, and the foundation must not be deferred to Book II. Book II, *Faith Is Evidence*, develops faith as evidence from this foundation. The close of Book I therefore summarizes the foundation laid and hands forward the evidence inquiry.
 
 The forward question is therefore deliberate: **Having established faith's foundation in *hypostasis* / substance and its relation to the person's state, how does Scripture develop faith as evidence?** Book II takes up that question on its own terms.
 
