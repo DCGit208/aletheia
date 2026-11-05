@@ -48,8 +48,8 @@ Use this table as the current chapter-location index when auditing coverage. The
 | 4 | `04_PSALM_82_WITH_JOHN_10.md` | Psalm 82:1–8 and John 10:30–38; “Ye are gods,” judgment setting, Jesus' appeal, and the Scripture-cannot-be-broken statement. | Holds Psalm 82:6–7 together; hands to 2 Peter 1:2–8. |
 | 5 | `05_TRUE_NATURE_PARTAKERS_OF_DIVINE_NATURE.md` | 2 Peter 1:2–8; promises, partaking of divine nature, escape from corruption, diligence and fruitfulness; source's “back on course” formulation. | Develops the creation/design-to-participation synthesis; hands to Romans 3 and Christ's person/work. |
 | 6 | `06_WHY_DID_JESUS_COME_GLORY_DEVIATION_REPRESENTATION.md` | Romans 3:21–26; 1 Corinthians 11:7; coming short of glory as interpreted by the source; Christ's person/work and representation thesis. | Holds explicit text and source interpretation apart; hands to redemption/justification terminology. |
-| 7 | `07_REDEMPTION_JUSTIFICATION_RIGHTEOUSNESS.md` | *dikaioō*, *dikaiosynē*, *apolutrōsis*; free justification; redemption; righteousness in Christ; source and owner formulations kept distinct. | Develops the terms and their relations; hands to the Hebrews 1:8 / heirship question. |
-| 8 | `08_THE_SON_HEBREWS_1_8_AND_THE_HEIR.md` | Hebrews 1:1–8; the Son, heirship, express image, the leaflet's inference question; Galatians 4:5–7; Romans 8:17; 2 Corinthians 5:21. | Makes the inference visible while leaving its final doctrinal force to the owner; hands to John 17. |
+| 7 | `07_REDEMPTION_JUSTIFICATION_RIGHTEOUSNESS.md` | *dikaioō*, *dikaiosynē*, *apolutrōsis*; free justification; redemption; righteousness in Christ; source and owner formulations kept distinct. | Develops the terms and their relations; hands to the Son's representation and heirship chapter. |
+| 8 | `08_THE_SON_HEBREWS_1_8_AND_THE_HEIR.md` | Hebrews 1:1–8; the Son, heirship, express image, and representation of humanity's design; Galatians 4:5–7; Romans 8:14–17; 2 Corinthians 5:21; 1 John 4:17. | Develops the Son as representative of humanity's design and believers as sons/heirs through Him; the former Hebrews 1:8 question is abandoned; hands to John 17. |
 | 9 | `09_ONENESS_AND_GLORY_JOHN_17.md` | John 17:1, 18–23; sending, sanctification, oneness, “as,” glory given, indwelling, and stated purpose. | Develops the prayer in context; hands to 2 Corinthians 4. |
 | 10 | `10_IMAGE_FACE_OF_JESUS_CHRIST.md` | 2 Corinthians 4:1–6; Christ as image, blinded minds, light, knowledge, glory; cumulative accomplishment/representation synthesis and Book II handoff. | Closes Book I with *hypostasis* already established; Book II develops *elenchos* / evidence. |
 
@@ -76,10 +76,10 @@ The proposed chapter numbers below refer to the ten-chapter working proposal in 
 | Christ as Son, heir, and express image | Heb 1:2–3; Heb 1:8; 2 Cor 4:4,6 | Ch. 1 (Heb 1:3 lexical comparison); Ch. 6 (Christ's person/work); Ch. 8 (Son and heir); Ch. 10 (cumulative image close) | Design; image; righteousness; heirship | Do not make one verse prove the full representation thesis; compare Heb 1:3 hypostasis use with Heb 11:1. |
 | Christ's accomplishment and representation | Rom 3:21–26; 2 Cor 5:17–21; Eph 1:7; Col 1:13–14; owner thesis | Ch. 6 (glory, deviation, Christ's person/work); Ch. 7 (redemption, justification, righteousness); cumulative synthesis in Ch. 10 | Sonship; nature; present reality | Hold both questions together: what Christ accomplished and what He represents. |
 | Free justification | Rom 3:23–28; leaflet's “Has man been justified? Yes, and freely!” | Ch. 7 | Redemption; righteousness in Christ | Preserve “freely” and grace; don't replace the source's emphasis with a generic formula. |
-| *Dikaioō* | Leaflet: “render just or innocent (free from evil or guilt)”; owner: “render righteous or such as he ought to be” | Ch. 7 | *Dikaiosynē*; restoration | Keep formulations distinct pending deliberate lexical decision. |
+| *Dikaioō* | Leaflet gloss; complete Strong's G1344 definition supplied by owner; Romans 3:23–24 | Ch. 7 | *Dikaiosynē*; Genesis design; 1 Cor 15:41; restoration | Include full supplied definition and develop justification as restoration to designed state; preserve lexical wording and context. |
 | *Dikaiosynē* / “back on course” | Leaflet: equity, impartiality to and conformity with God's nature; “original: back on course” | Ch. 7 | 2 Pet 1:4; 2 Cor 5:21 | Separate source gloss, lexical sense, and conceptual synthesis. |
-| *Apolutrōsis* / ransom in full | Leaflet: redemption, ransom in full; owner: riddance, ransom in full | Ch. 7 | Eph 1:7; Col 1:13–14; Rom 3:24 | Preserve both owner/source forms; do not invent a wider ransom theory. |
-| “What does Hebrews 1:8 make you?” | Leaflet's question; Heb 1:1–8; 2 Cor 5:21; Gal 4:5–7; Rom 8:17 | Ch. 8 | Heb 1:3; sonship and heirship | Expose every inferential step; final doctrinal answer remains owner decision. |
+| *Apolutrōsis* / ransom in full | Leaflet: redemption, ransom in full; owner direction: complete ransom and restoration to original design | Ch. 7 | Eph 1:7; Col 1:13–14; Rom 3:23–24; 2 Pet 1:4 | Preserve the source gloss and develop restoration to design as the owner's doctrinal interpretation of redemption's meaning/result. |
+| Former Hebrews 1:8 question | Leaflet's question; owner direction dated 2026-11-05 | Ch. 8 retains Hebrews 1:8 in the Son's portrait | Sonship and heirship are developed from Gal 4:5–7 and Rom 8:14–17 | Question abandoned by owner; do not retain as open or require an answer. |
 | Heir / joint-heir | Gal 4:5–7; Rom 8:14–17; Heb 1:2 | Ch. 8 | Sonship; Christ; suffering and glory in Rom 8:17 | Do not reduce heirship to a future asset list; preserve whole verse context. |
 | Oneness, glory, indwelling, sending | John 17:20–23 | Ch. 9 | Gen 1; Rom 8:17; 1 John 4:17; 2 Cor 5:21 | Answer the leaflet's “how would you liken” question from the prayer's own sequence and purpose. |
 | Image, light, knowledge, glory in Christ | 2 Cor 4:1–6 | Ch. 10 | Heb 1:3; Gen 1; Rom 3; John 17 | Close Book I by gathering the cumulative argument, not by deferring its foundation. |
@@ -102,7 +102,7 @@ The proposed chapter numbers below refer to the ten-chapter working proposal in 
 
 ## 5. Dependency questions to answer during the next pass
 
-The following questions govern the ongoing substantive revision and must be answered or explicitly left open before publication approval:
+The following scholarly and editorial verification questions govern the ongoing substantive revision before publication approval. Owner doctrinal decisions are recorded separately in document 90 and must not be treated as unresolved:
 
 1. **Definition and context:** What does Hebrews 11:1 actually assert grammatically, and what are the defensible contextual senses of *hypostasis* here?
 2. **Author-internal comparison:** What does Hebrews 1:3's use of *hypostasis* contribute, and what does Hebrews 3:14 caution against?
@@ -125,7 +125,7 @@ The following gates govern the active substantive revision and must be rechecked
 - the lexical argument is contextual, not etymology-only;
 - no old draft statement contradicts the owner's corrected Book I / Book II boundary;
 - the source, Scripture, synthesis, and owner-formulation categories remain explicit;
-- the unresolved Hebrews 1:8 conclusion and lexical formulations remain visible for owner review;
+- the abandoned Hebrews 1:8 question is not reopened; owner-supplied doctrinal directions are implemented consistently;
 - the companion app content and all first-pass drafts remain preserved.
 
 **Current conclusion:** The foundation-first direction is implemented in ten coordinated working manuscripts. The present phase is substantive argument and source-fidelity revision, not merely generic prose polishing. The quality gates remain active and must be checked against the revised prose as well as the original source maps.
@@ -152,3 +152,18 @@ The current drafts were checked by chapter headings, major argument passages, an
 The ten-chapter structure is the current working recommendation, not a locked decision. The continuous-book revision has confirmed that the sequence can be followed from the foundation through *pistis* / Sonship, design, Psalm 82, divine nature, Christ's coming, redemption/righteousness, heirship, oneness, and the image in Christ. It still requires a full line-by-line continuity pass and owner review of unresolved doctrinal questions. After inspecting the first-pass drafts, the Hebrews 11:2, 5–6 / Matthew 3:17 Sonship-and-pleasing-God inquiry is best integrated into the *pistis* chapter because it directly extends the source's faith/state/Sonship argument; a standalone chapter would risk repeating that same argument after the design chapters. This remains open to revision if the full prose rewrite reveals a genuine independent movement that cannot be handled coherently in Chapter 2.
 
 **Current implementation status — 2026-10-22:** Ten coordinated foundation-first working manuscripts now exist in `Book Matter/Doctrine of Faith/`. They preserve and reorganize the existing exposition while adding the foundation chapter, transitions, source-attribution corrections, and explicit distinctions between source wording, Scripture wording, synthesis, and owner formulation. The original nine first-pass drafts remain preserved. The working manuscripts have begun substantive revision, but they are not publication-ready and do not constitute final doctrinal approval.
+
+
+## 8. Owner decisions and current manuscript implementation — 2026-11-05
+
+The owner has supplied the following governing directions:
+
+- Abandon the former Hebrews 1:8 question; retain Hebrews 1:8 only as part of the Son's scriptural portrait where relevant.
+- Develop fully the thesis **“Jesus represents who we are by Design”**, holding representation and accomplishment together.
+- State and develop faith as our designed state: image and likeness of Elohim, partakers of divine nature (2 Peter 1:4), sons and natural heirs (Galatians 4:5–7; Romans 8:16–17), with the Father's pleasure directed toward sons operating in this state (Matthew 3:17; Hebrews 11:2, 5–6).
+- Develop *dikaioō* from Romans 3:24, include the full Strong's G1344 definition supplied by the owner, quote Romans 3:23–24 in full, and develop justification as restoration to designed state. Include 1 Corinthians 15:41 and the supplied Living Bible wording with Genesis 1:26–27.
+- Present *apolutrōsis* as complete ransom and restoration to original design, retaining the source's “redemption; ransom in full” gloss.
+- Present Mark 11:22 as underscoring design identity and operating in the state of God, retaining Mark 11:20–25 context.
+- Treat Matthew 5:48 with 1 John 4:17 as affirmations of identity and likeness, retaining their immediate contexts.
+
+**Implementation check:** Chapters 2, 3, 6, 7 and 8 have received corresponding revisions. Remaining quality gates are a complete cross-chapter consistency pass, source/Scripture quotation proof, original-language and lexicon verification, full editorial revision, and publication production. These are not owner-decision gates.
