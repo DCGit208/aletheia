@@ -15,7 +15,7 @@
 
 | Chapter | Passage / text | Translation or source | Status | Proofing note |
 |---|---|---|---|---|
-| 1 | Hebrews 11:1 | KJV | Needs final proof | Verify the full KJV line and punctuation; Greek text separately checked against the interlinear text. |
+| 1 | Hebrews 11:1 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; final chapter/layout proof remains. | Verify the full KJV line and punctuation; Greek text separately checked against the interlinear text. |
 | 1 | Hebrews 11:1 Greek | Greek NT | Targeted checked | Compare with SBLGNT/Westcott-Hort text; preserve word order and accents. |
 | 1 | Mark 11:22 | KJV | Targeted checked | Verified as part of Mark 11:20–25. |
 | 2 | Hebrews 6:1 | KJV | Targeted checked | Full KJV wording compared with Bible Gateway; preserve “faith toward God.” | Check full verse and punctuation. |
@@ -61,11 +61,11 @@
 
 | Reference | Form | Check required |
 |---|---|---|
-| Hebrews 11:1 | ὑπόστασις (*hypostasis*) | Final Greek text, morphology, lexical range and contextual interpretation; preserve the substance/assurance debate accurately. |
-| Mark 11:22 | πίστιν θεοῦ (*pistin theou*) | Verify the Greek phrase and genitive; distinguish grammatical form from the owner's settled doctrinal interpretation. |
-| Romans 3:24 | δικαιούμενοι (*dikaioumenoi*) | Present passive participle, nominative masculine plural; already checked, but recheck in final typeset proof. |
-| Romans 3:24 | ἀπολυτρώσεως (*apolutrōseōs*) | G629 noun, genitive singular; already checked, but recheck in final typeset proof. |
-| 2 Peter 1:5 | σπουδή (*spoudē*) | Verify the noun and distinguish it from the related verb σπουδάζω (*spoudazō*) if retained in final text. |
+| Hebrews 11:1 | ὑπόστασις (*hypostasis*) | Targeted lexical check completed against SBLGNT interlinear and Thayer/Strong’s entries; final scholarly review remains. Preserve the range of foundation/substance/essence and confidence/assurance, and do not let etymology alone decide the contextual sense. |
+| Mark 11:22 | πίστιν θεοῦ (*pistin theou*) | Greek wording and morphology checked in the interlinear; lexical commentary records the rendering “faith in God” as an object-genitive reading. Keep the owner’s settled doctrinal interpretation distinct from what the genitive alone proves. Final specialist review remains. |
+| Romans 3:24 | δικαιούμενοι (*dikaioumenoi*) | Present passive participle, nominative masculine plural; targeted lexical/morphological check recorded; recheck in final typeset proof. |
+| Romans 3:24 | ἀπολυτρώσεως (*apolutrōseōs*) | G629 noun, genitive singular; targeted lexical check against Strong’s/Thayer completed; recheck in final typeset proof. |
+| 2 Peter 1:5 | σπουδή (*spoudē*) | Noun G4710 checked against Strong’s; distinguish it from the verb σπουδάζω (*spoudazō*, G4704) used in 2 Timothy 2:15 and cited in the 2015 leaflet. Final specialist review remains. |
 
 ## Aletheia source quotation controls
 
