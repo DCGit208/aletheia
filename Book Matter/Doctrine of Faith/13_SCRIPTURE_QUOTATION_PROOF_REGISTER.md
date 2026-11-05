@@ -18,14 +18,14 @@
 | 1 | Hebrews 11:1 | KJV | Needs final proof | Verify the full KJV line and punctuation; Greek text separately checked against the interlinear text. |
 | 1 | Hebrews 11:1 Greek | Greek NT | Targeted checked | Compare with SBLGNT/Westcott-Hort text; preserve word order and accents. |
 | 1 | Mark 11:22 | KJV | Targeted checked | Verified as part of Mark 11:20–25. |
-| 2 | Hebrews 6:1 | KJV | Needs final proof | Check full verse and punctuation. |
+| 2 | Hebrews 6:1 | KJV | Targeted checked | Full KJV wording compared with Bible Gateway; preserve “faith toward God.” | Check full verse and punctuation. |
 | 2 | Galatians 4:4–7 | KJV | Targeted checked | Sending, redemption, adoption, “because ye are sons,” and heirship checked. |
 | 2 | Romans 8:14–17 | KJV | Targeted checked | Full sequence, including suffering and shared glory, checked. |
 | 2 | Ephesians 1:5 | KJV | Needs final proof | Check exact wording: “adoption of children” and “good pleasure of his will.” |
-| 2 | Matthew 3:17 | KJV | Needs final proof | Check the Father's declaration over the Son. |
-| 2 | Hebrews 11:2 | KJV | Needs final proof | Check exact wording. |
-| 2 | Hebrews 11:5 | KJV | Needs final proof | Check Enoch's testimony and punctuation. |
-| 2 | Hebrews 11:6 | KJV | Needs final proof | Check full verse. |
+| 2 | Matthew 3:17 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check the Father's declaration over the Son. |
+| 2 | Hebrews 11:2 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check exact wording. |
+| 2 | Hebrews 11:5 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check Enoch's testimony and punctuation. |
+| 2 | Hebrews 11:6 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check full verse. |
 | 3 | Genesis 1:26–28 | KJV | Targeted checked | Image, likeness, blessing, fruitfulness, and dominion checked. |
 | 3 | Genesis 1:27 | TLB | Targeted checked | Full wording checked; required TLB copyright credit recorded in document 12. |
 | 3 | 1 John 4:17 | KJV | Targeted checked | Full verse checked; retain love/perfected-confidence context. |
