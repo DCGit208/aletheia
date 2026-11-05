@@ -3,6 +3,49 @@
 ### Dr. Coach Achu Gustave
 ### Aletheia Publications
 
+**First Edition — 2026**  
+**Published by Aletheia Publications**  
+**Copyright © 2026 Dr. Coach Achu Gustave. All rights reserved.**
+
+No part of this publication may be reproduced or distributed for commercial purposes without prior written permission of the publisher, except for brief quotations in reviews, scholarship, or other uses permitted by applicable copyright law.
+
+Unless otherwise indicated, Scripture quotations are from the King James Version (KJV).
+
+**ISBN:** To be assigned by the publisher.
+
+---
+
+## Contents
+
+- Author's Preface
+- Introduction — The Question Religion Was Afraid to Ask
+- Chapter 1 — The Throne and the Declaration of Purpose
+- Chapter 2 — Who Is the God Whose Pleasure Matters?
+- Chapter 3 — What Is Pleasure? A Full Account of the Word
+- Chapter 4 — Pleasure, Goodness, and the Highest Good
+- Chapter 5 — The Difference Between Pleasure and Indulgence
+- Chapter 6 — The Pleasure of God in the Scriptural Record
+- Chapter 7 — Human Pleasure: Gift, Responsibility, and Abundant Life
+- Chapter 8 — The Ethics of Pleasure: The Good of the Other
+- Chapter 9 — Kings, Power, and the Pleasure of a Just Society
+- Chapter 10 — The Stigma of Pleasure and the Awakening of Society
+- Chapter 11 — Creation Is Not Merely Being: The Goodness of Creaturely Life
+- Chapter 12 — The Vocabulary of Pleasure: What the Words Can and Cannot Prove
+- Chapter 13 — The Cross, Self-Denial, and the Place of Pain
+- Chapter 14 — Is Hedonism from God? Recovering the Claim Without Confusing the History
+- Chapter 15 — The Modern Stigma: Religious Suspicion and Cultural Reduction
+- Chapter 16 — The Public Measure: Economics, Work, Education, and the Flourishing of Nations
+- Chapter 17 — The Body, Desire, and the Gift of Enjoyment
+- Chapter 18 — The Pleasure of Knowing, Creating, and Working
+- Chapter 19 — The Pleasure of Love, Friendship, and Shared Life
+- Chapter 20 — The Final Horizon: Joy, Hope, and the Life to Come
+- Chapter 21 — The Objections That Must Be Answered
+- Conclusion — For Thy Pleasure
+- Author's Note on Method and Sources
+- Selected References and Further Study
+- Key Terms
+- Scripture Index
+
 ---
 
 ## Author's Preface
