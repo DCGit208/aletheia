@@ -95,7 +95,15 @@ Hebrews 11:2 says that by faith the elders obtained a good report. Hebrews 11:5 
 
 These texts explicitly connect faith with good report and pleasing God, and Matthew records the Father's declaration over the beloved Son. Together they invite an inquiry into the relationship among faith, Sonship, and the Father's pleasure.
 
-The owner's proposed synthesis is that the state of Sonship is related to the state of faith. This should be developed across the passages, not claimed as the literal definition of *pistis* in Matthew 3:17. Matthew's statement identifies Jesus as the beloved Son in whom the Father is pleased; Hebrews describes faith as indispensable to pleasing God and records the testimony concerning Enoch. The doctrinal connection requires the broader argument about the Son, the children of God, and representation.
+The owner's direction is now explicit: **faith is our state by design**. We are created in the image and likeness of Elohim; we are made partakers of the divine nature; and, as sons, we are natural heirs. The Father's will and pleasure is that we operate in this state as sons of God. This is the doctrinal direction governing the synthesis in this chapter.
+
+Matthew 3:17 (KJV) records the Father's declaration over Jesus:
+
+> “And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.”
+
+This declaration must be read with the wider sonship argument, not as an isolated sentiment. Hebrews 11:2 says that the elders obtained a good report through faith; Hebrews 11:5 says Enoch had this testimony, that he pleased God; and Hebrews 11:6 states that without faith it is impossible to please Him. The Father's declaration over the Son and the faith/pleasing-God statements belong in the same doctrinal inquiry. The owner's synthesis is that the Father's pleasure is for His sons to operate in their designed state, rather than to live beneath the identity and nature given in Him.
+
+The supporting passages are explicit: Genesis 1:26–27 describes humanity made in God's image and likeness; 2 Peter 1:4 speaks of becoming partakers of the divine nature; Galatians 4:5–7 says that those redeemed receive adoption as sons, are no longer servants but sons, and if sons are heirs of God through Christ; Romans 8:16–17 says the Spirit bears witness that we are children of God and, if children, heirs of God and joint-heirs with Christ. These passages together establish the design, participation, sonship and heirship framework. The statement that faith is our state by design is the owner's governing synthesis of that framework and the leaflet's explicit *pistis* / state-of-children teaching.
 
 The point is not to weaken the owner's thesis by calling it “only an idea.” The point is to show the chain of reasoning by which the thesis is established, preserving the distinction between what each passage explicitly says and what the synthesis concludes.
 
