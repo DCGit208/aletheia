@@ -1,6 +1,6 @@
 # Chapter 7 — Δικαιόω (*dikaioō*): Redemption, Free Justification, and Righteousness in Christ
 
-**Manuscript status:** Coordinated working draft for the foundation-first manuscript  
+**Manuscript status:** Revised working chapter; final lexical, Scripture and editorial proof remains  
 **Book:** *The Doctrine of Faith* — Book I  
 **Source-preservation note:** This chapter retains the two connected movements in the existing app companion: free justification through redemption, and the present-tense statement of 2 Corinthians 5:21. It preserves the Aletheia leaflet's printed glosses and records the owner's additional formulation separately; it does not silently substitute one for the other.
 
@@ -84,15 +84,15 @@ The source's sequence brings three Greek terms into relation, but they should no
 - *Dikaiosynē* is the related noun the source connects with righteousness/justification, equity, impartiality, and conformity with God's nature. “Original: back on course” is the source's interpretive formulation in this teaching; it should not be presented as a complete dictionary definition of the noun.
 - *Apolutrōsis* is the source's term for redemption, glossed as “ransom in full.” The owner's doctrinal direction now develops the source's “ransom in full” as complete ransom and restoration to original design. Preserve the exact source gloss while stating the owner's restoration conclusion as the intended doctrinal meaning and result.
 
-Romans 3:24 explicitly joins free justification with redemption in Christ Jesus. Second Corinthians 5:21 explicitly says believers are made the righteousness of God “in Him.” Those are the textual anchors. The owner's settled doctrinal direction is that justification restores humanity to its designed state. The source's “back on course” language, the full Strong's G1344 definition, and the Scripture set are brought together to show this restoration argument.
+Romans 3:24 explicitly joins free justification with redemption in Christ Jesus. Second Corinthians 5:21 explicitly says believers are made the righteousness of God “in Him.” Those are the textual anchors. The owner's settled doctrinal direction is that justification restores humanity to its designed state. The source's “back on course” language, the complete G1344 lexical entry, and the Scripture set are brought together to show this restoration argument.
 
 ## Charge of this chapter
 
-Begin with the source's question: **Has man been justified?** Yes, and freely. Show Romans 3:23–24 in full, the complete Strong's G1344 definition, and the owner's argument that justification restores humanity to its designed state. Then show how complete ransom and restoration belong together in the owner's understanding of *apolutrōsis*.
+Begin with the source's question: **Has man been justified?** Yes, and freely. Show Romans 3:23–24 in full, the complete G1344 entry with its Strong's and Thayer's components correctly attributed, and the owner's argument that justification restores humanity to its designed state. Then show how complete ransom and restoration belong together in the owner's understanding of *apolutrōsis*.
 
 Next, write 2 Corinthians 5:17–21 in context. What does the passage say about reconciliation, the new creature, Christ being made sin, and being made the righteousness of God in Him?
 
-Finally, preserve the complete G1344 entry with Strong's and Thayer's components attributed separately, together with the leaflet's printed gloss. Explain how Romans 3:23–24, Genesis 1:26–27, 1 Corinthians 15:41, and the redemption passages form the owner's doctrinal argument that justification restores humanity to its designed state. The owner has now supplied the governing interpretation; this is no longer an open decision awaiting formulation.
+Finally, preserve the complete G1344 entry with Strong's core definition and AV usage distinguished from Thayer's three extended definitions, together with the leaflet's printed gloss. Explain how Romans 3:23–24, Genesis 1:26–27, 1 Corinthians 15:41, and the redemption passages form the owner's doctrinal argument that justification restores humanity to its designed state. The owner has now supplied the governing interpretation; this is no longer an open decision awaiting formulation.
 
 **Transition to Chapter 8:** The next chapter examines the Son as heir of all things, the express image of the Father, and the pattern and representation of humanity's design. It then develops the believer's sonship and heirship through Galatians 4:5–7 and Romans 8:16–17. Hebrews 1:8 remains part of the Son's scriptural portrait, but the former leaflet question is not an unresolved owner decision.
 
