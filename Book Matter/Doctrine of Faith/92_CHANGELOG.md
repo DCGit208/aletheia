@@ -288,4 +288,12 @@
 - Rewrote Chapter 8 around the Son as heir and express image, believers' sonship and heirship, and the full representation thesis; removed the former unresolved Hebrews 1:8 question.
 - Updated document 90 to mark the owner decisions as resolved or abandoned, including Matthew 3:17, Mark 11:22, Matthew 5:48, 1 John 4:17, justification, and redemption/restoration.
 - Updated the master blueprint, coverage/dependency matrix and source-fidelity audit to reflect the owner's directions. Reaffirmed that the 2015 leaflet is the controlling doctrinal source; source/Scripture/synthesis distinctions preserve attribution and do not weaken its authority.
-- **Remaining work:** complete manuscript-wide consistency audit; verify all Bible quotations and translation attributions (especially the supplied Living Bible wording); verify Strong's G1344 and *apolutrōsis* against the exact lexical references; complete line-by-line editorial revision; finalize front matter, references, glossary, and publication proof. No publication-readiness claim is made at this stage.
+- **Remaining work:** complete manuscript-wide consistency audit; verify all Bible quotations and translation attributions; verify Strong's G1344 and *apolutrōsis* against the exact lexical references; complete line-by-line editorial revision; finalize front matter, references, glossary, and publication proof. No publication-readiness claim is made at this stage.
+
+
+## 2026-11-05 — Genesis 1:27 Living Bible quotation verified
+
+- Verified the complete supplied wording against Genesis 1:27 in The Living Bible (TLB), copyright © 1971 Tyndale House Foundation, using Bible Gateway's displayed TLB text.
+- Updated Chapter 3 to include the verified TLB attribution and reference.
+- Preserved the distinction that the 2015 leaflet separately attributes the line “Like God did God make man” to the Life Application Bible, while the full three-line wording supplied by the owner is verified in TLB.
+- The Living Bible edition/wording check is no longer an outstanding publication gate; the remaining Bible quotation audit across all ten chapters is still required.
