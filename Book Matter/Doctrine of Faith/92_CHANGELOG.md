@@ -297,3 +297,13 @@
 - Updated Chapter 3 to include the verified TLB attribution and reference.
 - Preserved the distinction that the 2015 leaflet separately attributes the line “Like God did God make man” to the Life Application Bible, while the full three-line wording supplied by the owner is verified in TLB.
 - The Living Bible edition/wording check is no longer an outstanding publication gate; the remaining Bible quotation audit across all ten chapters is still required.
+
+
+## 2026-11-05 — Continuous Book I working manuscript assembled
+
+- Created `11_THE_DOCTRINE_OF_FAITH_BOOK_I_CONTINUOUS_WORKING_MANUSCRIPT.md` by assembling the latest ten chapter files in sequence.
+- Added contents and editorial control notes. The ten chapter files remain the controlled chapter sources; document 11 is the integrated reading copy.
+- Refreshed the continuous manuscript after final owner-direction wording updates in Chapters 2, 3, 7 and 10.
+- Ran integrity checks confirming ten chapter headings and the presence of the principal owner-directed content: Romans 3:23–24, Genesis 1:27 TLB wording, Mark 11:22 design-state direction, the G1344 definitions, 1 Corinthians 15:41, the Father's pleasure, and abandonment of the former Hebrews 1:8 question.
+- Updated documents 00, 93 and 96 to govern the continuous copy and its refresh process.
+- **Remaining work:** human line-by-line editorial review, full Scripture quotation proof, lexical verification beyond the initial Strong's/Thayer checks, references/glossary, front/back matter, and final owner proof. The integrated copy is not yet a publication proof.
