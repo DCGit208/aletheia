@@ -46,6 +46,9 @@ jobs:
       - name: Verify canonical manuscript parity
         run: node scripts/check-one-source-migration.mjs
 
+      - name: Verify Doctrine of Faith publication integrity
+        run: node scripts/check-doctrine-of-faith-publication.mjs
+
       - name: Validate public Firebase web configuration
         env:
           NEXT_PUBLIC_FIREBASE_API_KEY: ${{ secrets.NEXT_PUBLIC_FIREBASE_API_KEY }}
