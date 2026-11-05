@@ -8,9 +8,9 @@
 ### A1. Reader-facing chapter structure
 **Question:** Does the foundation-first sequence preserve the full source and give each argument a necessary place without repetition?
 
-**Current working structure:** Ten coordinated chapters: (1) Hebrews 11:1 / hypostasis; (2) pistis, credence, state, and Sonship; (3) image, likeness, and design; (4) Psalm 82 with John 10; (5) partaking of divine nature; (6) coming short of glory and Christ's representation; (7) redemption, free justification, and righteousness; (8) Hebrews 1:8 and heirship; (9) John 17 oneness; (10) 2 Corinthians 4 and the image/glory in Christ. See documents 95 and 96 and the coordinated working files listed in document 95.
+**Current working structure:** Ten coordinated chapters: (1) Hebrews 11:1 / hypostasis; (2) pistis, credence, state, and Sonship; (3) image, likeness, and design; (4) Psalm 82 with John 10; (5) partaking of divine nature; (6) coming short of glory and Christ's representation; (7) redemption, free justification, and righteousness; (8) the Son, the heir, and representation of design; (9) oneness and glory in John 17; (10) 2 Corinthians 4 and the image/glory in Christ. See documents 95 and 96 and the coordinated working files listed in document 95.
 
-**Status:** Active working structure, implemented in manuscript drafts. Continue reviewing dependencies, repetition, source coverage, and transitions; chapter count remains provisional. The original nine drafts remain preserved. This does not constitute final doctrinal approval.
+**Status:** Active working architecture, implemented in the ten chapter files and continuous manuscript 11. Final chapter order, titles, repetition, transitions, and completeness remain subject to editorial validation. The original nine first-pass drafts remain preserved. This does not reopen the owner's doctrinal decisions recorded below.
 
 ### A2. Book I's boundary with Book II
 **Question:** How should Book I establish the foundation of faith while Book II develops faith as evidence?
@@ -24,9 +24,9 @@
 
 **Working recommendation:** Preserve the doctrinal content and source trail, but do not transfer course-specific transitions into the book without an editorial reason.
 
-**Status:** Open.
+**Status:** Open editorial decision. Resolve during the second editorial pass and preserve source provenance where needed.
 
-## B. Doctrinal reasoning requiring deliberate review
+## B. Owner doctrinal decisions
 
 ### B1. Hebrews 1:8 — former leaflet question
 **Owner decision (2026-11-05): ABANDONED.** The question “According to Hebrews 1:8, what does that make you?” is not to be pursued as an unresolved doctrinal question or used as a required inference in Book I. Hebrews 1:8 itself remains part of the Son's biblical portrait and may be discussed in context, but the former question is removed from the owner-decision queue and from Chapter 8's governing task.
@@ -52,9 +52,11 @@
 ### B4. Owner's additional lexical formulation for *dikaioō*
 **Question:** How should the owner's formulation “to render righteous or such as he ought to be” be integrated alongside the leaflet's printed gloss “render just or innocent (free from evil or guilt)”?
 
-**Owner decision (2026-11-05):** Include the full Strong's G1344 definition supplied by the owner, including “to render righteous or such he ought to be” and “to declare, pronounce, one to be just, righteous, or such as he ought to be.” Retain the leaflet's printed wording as well. Develop *dikaioō* through Romans 3:24 and quote Romans 3:23–24 in full as one continuous movement.
+**Owner decision (2026-11-05):** Include the complete G1344 entry supplied by the owner, including Strong's core gloss/AV usage and Thayer's extended definitions. Retain the leaflet's printed wording as well. Develop *dikaioō* through Romans 3:24 and quote Romans 3:23–24 in full as one continuous movement.
 
-**Status:** Resolved — owner formulation and required treatment recorded.
+**Lexical clarification:** Strong's core gloss and AV usage must be attributed separately from Thayer's definitions. Thayer qualifies the “make righteous” sense as extremely rare, if not altogether doubtful, and also gives “show/exhibit/evince” and “declare/pronounce” senses. This qualification is to be stated accurately; it does not remove the owner's required quotation or doctrinal direction.
+
+**Status:** Resolved — owner direction and required treatment recorded in Chapter 7.
 
 ### B5. *Apolutrōsis*, redemption, and restoration
 **Question:** How should “riddance, ransom in full” and “back on course” be related in the argument, and what is lexical gloss versus conceptual/theological synthesis?
@@ -100,7 +102,7 @@
 
 **Status:** Resolved — doctrinal direction supplied.
 
-### E. Foundational role of Hebrews 11:1 and *hypostasis*
+### E. Foundation-first argument control
 **Question:** What is the correct chapter sequence when Book I is built from faith as *hypostasis* / substance and the person's underlying nature and state?
 
 **Owner direction (2026-10-18):** This is the foundation and core of Book I, not a topic reserved for Book II. The manuscript must develop the source notes and etymological argument carefully, distinguish lexical evidence from Aletheia teaching and owner synthesis, and then show how the remaining doctrinal clusters relate to the foundation.
@@ -137,13 +139,6 @@ For each decision, record:
 - the date of decision.
 
 When resolved, update this file, the Master Manuscript Blueprint, the coverage audit, and `92_CHANGELOG.md` as needed. Do not reopen a resolved item without new evidence or a new owner instruction.
-
-
-## C. Manuscript implementation status — 2026-10-18
-
-The original nine-chapter first-pass drafts remain preserved. Ten foundation-first coordinated working manuscripts now exist, including the new hypostasis foundation chapter. This is active manuscript development, not final doctrinal approval. The source/Scripture categories remain distinct, and the existing app companion is preserved.
-
-**Current review priority:** Continue the continuous-book audit of the ten working manuscripts: test the foundation-to-state argument, transitions, source coverage, and the distinction among direct Scripture wording, explicit leaflet teaching, cross-passage synthesis, and owner formulation. The initial foundation-first sequence is implemented but remains provisional. Record B1 as abandoned by owner direction. B2–B5 and C2–C5 now have owner directions recorded; complete the corresponding manuscript and control-document synchronization. Remaining work is verification, integration, editorial completion and publication proof—not reopening these resolved doctrinal directions.
 
 
 ### F. Relationship between Hebrews 11:1 / *hypostasis* and the leaflet's *pistis* / state teaching
