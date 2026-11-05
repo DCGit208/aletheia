@@ -222,3 +222,29 @@ The existing app reading content is separately defined in `src/lib/content/compa
 **Required migration decision and implementation:** preserve the existing book ID, cover artwork, author/publisher identity, and live companion source. Prepare the new ten-chapter Book I as a distinct canonical content source and explicitly map it to the intended reader/catalogue release only after the manuscript is proofed. Reconcile the current eight-chapter companion relationship, product description, chapter count, preview chapter, and protected-content index together. Do not simply change `chapterCount` from 8 to 10 or overwrite `companion-faith.ts`; that would risk a catalogue/reader mismatch and loss of the existing app content.
 
 **Current verified state:** the existing Aletheia World catalogue entry is already marked published and already points to the existing cover asset. The new ten-chapter manuscript has not yet been deployed to that entry. The final manuscript and reader migration must be completed before the listing can accurately represent the new Book I edition.
+
+
+## 7. Legacy companion preservation and migration control
+
+On 2026-11-05, the complete pre-revision eight-chapter app companion was retrieved from the parent of commit `6dd76d9217bb030b2c4760f5dd11a16c591a7068` and preserved verbatim at:
+
+`15_LEGACY_EIGHT_CHAPTER_COMPANION_ARCHIVE.md`
+
+The archive is an editorial preservation copy, not a reader-facing publication. The current ten-chapter companion is substantially longer and reorganized. The existence of the expanded version does not, by itself, certify that every substantive passage from the earlier eight chapters has been retained. A chapter-by-chapter migration comparison remains required before the app companion can be certified as a lossless revision.
+
+## 8. Scripture proof progress — 2026-11-05
+
+A further targeted KJV comparison was completed against Bible Gateway for:
+- Hebrews 6:1
+- Matthew 3:17
+- Hebrews 11:2, 5–6
+- Romans 3:21–22
+- 1 Corinthians 11:7
+- Ephesians 1:7
+- Colossians 1:13–14
+- 1 Corinthians 15:41
+- Romans 3:27–28
+- Hebrews 1:1–4, 8
+- John 17:1 and 18–19
+
+The proof register records these as **targeted checked**, not final publication proof. Final proof still requires checking the actual chapter source and the designed output. Hebrews 11:1, Ephesians 1:5 and other rows still marked “Needs final proof” remain open. Original-language proof items remain open pending a complete source-by-source lexical review.
