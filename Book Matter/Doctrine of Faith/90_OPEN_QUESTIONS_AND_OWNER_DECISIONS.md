@@ -28,40 +28,40 @@
 
 ## B. Doctrinal reasoning requiring deliberate review
 
-### B1. Hebrews 1:8 — “what does that make you?”
-**Question:** What is the owner's intended answer to the leaflet's question, and what exact reasoning chain establishes it from Hebrews 1:8, 2 Corinthians 5:21, Hebrews 1:3, Genesis 1:26–28, and the other relevant texts?
+### B1. Hebrews 1:8 — former leaflet question
+**Owner decision (2026-11-05): ABANDONED.** The question “According to Hebrews 1:8, what does that make you?” is not to be pursued as an unresolved doctrinal question or used as a required inference in Book I. Hebrews 1:8 itself remains part of the Son's biblical portrait and may be discussed in context, but the former question is removed from the owner-decision queue and from Chapter 8's governing task.
 
-**Constraint:** The leaflet poses the question but does not print a direct answer. Do not turn the question into an unexamined conclusion or invent a title without showing the argument.
-
-**Status:** Open — high priority. A provisional, reasoned answer has been drafted in Chapter 8: in Christ, the believer is a son and heir of God, made the righteousness of God in Him, and called to understand present identity through the Son who is the express image of God's person. This is explicitly labeled a synthesis for owner review, not a direct answer printed in the leaflet. The owner must confirm or revise the exact doctrinal conclusion.
+**Status:** Resolved — abandoned by owner direction.
 
 ### B2. “Jesus represents who we are by Design”
 **Question:** What is the final approved formulation and scope of this thesis, and how should the book distinguish what Christ accomplished from what Christ represents?
 
 **Working note:** The thesis should be developed cumulatively through Genesis 1:26–28; Romans 8:17; 1 John 4:17; John 17:20–23; Hebrews 1:2; Romans 3:23–24; and the redemption/justification cluster. No single verse should be said to prove the entire thesis.
 
-**Status:** Open — core doctrinal direction.
+**Owner decision (2026-11-05):** Develop the representation thesis fully. Jesus represents who we are by Design; this must be held together with, not substituted for, what He accomplished through redemption and restoration.
+
+**Status:** Resolved — governing doctrinal direction.
 
 ### B3. Faith as the state of Sonship
 **Question:** How should the manuscript formulate and demonstrate the connection between *pistis*, sonship, the Father's pleasure, and Hebrews 11:2, 5–6?
 
-**Constraint:** Hebrews 11 explicitly connects faith with good report and pleasing God. The statement “the state of Sonship is Faith” is a synthesis unless the source explicitly says it.
+**Owner decision (2026-11-05):** Faith is our state by design. We are created in the image and likeness of Elohim, are partakers of the divine nature (2 Peter 1:4), and as sons are natural heirs (Galatians 4:5–7; Romans 8:16–17). The Father's will and pleasure is for His sons to operate in this state. Matthew 3:17 records the Father's declaration over Jesus; Hebrews 11:2, 5–6 connects faith with good report and pleasing God. The manuscript must provide the actual verses and develop this connected argument.
 
-**Status:** Open.
+**Status:** Resolved — doctrinal direction supplied.
 
 ### B4. Owner's additional lexical formulation for *dikaioō*
 **Question:** How should the owner's formulation “to render righteous or such as he ought to be” be integrated alongside the leaflet's printed gloss “render just or innocent (free from evil or guilt)”?
 
-**Constraint:** Preserve both as distinct recorded formulations unless an explicit owner decision changes that treatment. Do not silently substitute one for the other.
+**Owner decision (2026-11-05):** Include the full Strong's G1344 definition supplied by the owner, including “to render righteous or such he ought to be” and “to declare, pronounce, one to be just, righteous, or such as he ought to be.” Retain the leaflet's printed wording as well. Develop *dikaioō* through Romans 3:24 and quote Romans 3:23–24 in full as one continuous movement.
 
-**Status:** Open — high priority.
+**Status:** Resolved — owner formulation and required treatment recorded.
 
 ### B5. *Apolutrōsis*, redemption, and restoration
 **Question:** How should “riddance, ransom in full” and “back on course” be related in the argument, and what is lexical gloss versus conceptual/theological synthesis?
 
-**Constraint:** Preserve the source's “redemption; ransom in full” wording. Label restoration/back-on-course as the conceptual argument unless the source explicitly makes the claim in that form.
+**Owner decision (2026-11-05):** Redemption (*apolutrōsis*) means complete ransom and restoration to original design. The manuscript must join the full-ransom teaching with the restoration argument and explain the relationship to Genesis design, Romans 3:23–24, justification, and divine nature. Preserve the source's exact “redemption; ransom in full” gloss; present restoration to design as the owner's doctrinal explanation of what the complete redemption accomplishes.
 
-**Status:** Open.
+**Status:** Resolved — owner direction supplied.
 
 ## C. Additional Scripture cluster
 
@@ -77,14 +77,16 @@
 
 **Constraint:** The Greek phrase is *pistin theou*. The genitive construction can be rendered formally “faith of God,” but that alone does not prove that “state of God” is its literal lexical meaning or settle the relationship intended. Preserve the owner's doctrinal reading as the thesis to be argued; do not dismiss it or falsely present it as an uncontested grammatical fact.
 
-**Status:** Passage integrated into Chapters 1 and 3. The Greek/translation issue and the precise doctrinal conclusion remain open for careful study.
+**Owner decision (2026-11-05):** Mark 11:22 indicates that we must operate in the state of God because we are God by design; it underscores our design identity. Retain the surrounding Mark 11:20–25 context and the Greek/genitive discussion, but do not leave the doctrinal direction open.
+
+**Status:** Resolved — doctrinal direction supplied.
 
 ### C3. Matthew 5:48
 **Question:** Should this passage appear in Book I as part of the design/nature argument, or be reserved for another treatment?
 
-**Constraint:** Preserve its immediate context concerning love, including love toward enemies. The ontological/design reading is synthesis, not the verse's sole explicit statement.
+**Owner decision (2026-11-05):** Treat perfection as an affirmation of identity and design. Matthew 5:48 indicates that we are as He is and must be read with 1 John 4:17. Preserve the immediate context of love toward enemies in Matthew 5:43–48 and the love/confidence context of 1 John 4:17.
 
-**Status:** Passage integrated into Chapter 3 with Matthew 5:43–48 context, including love toward enemies. The broader design/nature conclusion remains open as synthesis.
+**Status:** Resolved — doctrinal direction supplied.
 
 ### C4. Ephesians 1:7 and Colossians 1:14
 **Question:** What specific role should these redemption passages play alongside Romans 3:23–24 and the source's *apolutrōsis* gloss?
@@ -94,9 +96,11 @@
 ### C5. 1 John 4:17
 **Question:** How should its “as he is, so are we in this world” statement support the wider present-reality thesis while preserving its context of love and confidence?
 
-**Status:** Open.
+**Owner decision (2026-11-05):** 1 John 4:17 is to be treated together with Matthew 5:48 as an affirmation of our present identity and likeness to Him, while retaining its immediate context of perfected love and confidence.
 
-### A3. Foundational role of Hebrews 11:1 and *hypostasis*
+**Status:** Resolved — doctrinal direction supplied.
+
+### E. Foundational role of Hebrews 11:1 and *hypostasis*
 **Question:** What is the correct chapter sequence when Book I is built from faith as *hypostasis* / substance and the person's underlying nature and state?
 
 **Owner direction (2026-10-18):** This is the foundation and core of Book I, not a topic reserved for Book II. The manuscript must develop the source notes and etymological argument carefully, distinguish lexical evidence from Aletheia teaching and owner synthesis, and then show how the remaining doctrinal clusters relate to the foundation.
@@ -139,10 +143,10 @@ When resolved, update this file, the Master Manuscript Blueprint, the coverage a
 
 The original nine-chapter first-pass drafts remain preserved. Ten foundation-first coordinated working manuscripts now exist, including the new hypostasis foundation chapter. This is active manuscript development, not final doctrinal approval. The source/Scripture categories remain distinct, and the existing app companion is preserved.
 
-**Current review priority:** Continue the continuous-book audit of the ten working manuscripts: test the foundation-to-state argument, transitions, source coverage, and the distinction among direct Scripture wording, explicit leaflet teaching, cross-passage synthesis, and owner formulation. The initial foundation-first sequence is implemented but remains provisional. In parallel, preserve B1 (Hebrews 1:8) as an open owner decision; do not resolve it by assumption. Lexical formulations and the scope of the design/representation thesis also remain under review.
+**Current review priority:** Continue the continuous-book audit of the ten working manuscripts: test the foundation-to-state argument, transitions, source coverage, and the distinction among direct Scripture wording, explicit leaflet teaching, cross-passage synthesis, and owner formulation. The initial foundation-first sequence is implemented but remains provisional. Record B1 as abandoned by owner direction. B2–B5 and C2–C5 now have owner directions recorded; complete the corresponding manuscript and control-document synchronization. Remaining work is verification, integration, editorial completion and publication proof—not reopening these resolved doctrinal directions.
 
 
-### A4. Relationship between Hebrews 11:1 / hypostasis and the leaflet's pistis / state teaching
+### F. Relationship between Hebrews 11:1 / *hypostasis* and the leaflet's *pistis* / state teaching
 **Question:** How does the foundation in Hebrews 11:1 and the lexical range of hypostasis establish the framework through which the Aletheia leaflet's explicit teaching about pistis, credence, and the state of children of God is to be understood?
 
 **Evidence distinction:** The 2015 leaflet's Faith Toward God section explicitly cites Hebrews 6:1 and discusses pistis / credence, true nature, and Sonship. It does not itself quote Hebrews 11:1 or use hypostasis. The two lines must be joined by an explicit argument, not by false attribution.
