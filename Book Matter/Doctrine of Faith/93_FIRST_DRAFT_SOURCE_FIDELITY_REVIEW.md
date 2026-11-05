@@ -351,3 +351,25 @@ This pass checked the transition from the new foundation chapter into the source
 
 ### Remaining scope
 This is a focused audit of Chapters 2–5, not a full line-by-line proofread. The current ten-chapter index is now inserted into document 96 so that historical first-pass tables cannot be mistaken for the authoritative chapter map. Remaining work includes the detailed Chapter 6–7 argument and terminology audit, source quotation proofing, lexical verification, and owner decisions already listed in document 90.
+
+
+## 17. Foundation-first continuity audit — Chapters 6–7 — 2026-11-05
+
+### Chapter 6 — Why Jesus came: glory, deviation, and representation
+- Romans 3:21–26 is followed in sequence: righteousness manifested, sin and coming short of glory, free justification through redemption, propitiation, and the declaration of God's righteousness.
+- The Aletheia interpretation of “come short of the glory” as deviation from true nature is explicitly identified as the source's gloss, not a verbatim translation or standalone lexical definition.
+- 1 Corinthians 11:7 is retained with its immediate headship/covering context. The source's selected image/glory clause is not detached from that setting.
+- Ephesians 1:7 and Colossians 1:13–14 are substantively included. Their explicit language of redemption, blood, forgiveness, deliverance, and translation is distinguished from the wider restoration-to-design synthesis.
+- **Continuity finding:** Chapter 6 follows the design/divine-nature chapters and hands the reader to Chapter 7's closer examination of redemption and righteousness terminology. The current owner-decision register had an outdated reference to these passages being in Chapter 5; that location has now been corrected to Chapter 6.
+
+### Chapter 7 — Redemption, free justification, and righteousness in Christ
+- The chapter preserves the leaflet's *dikaioō* gloss (“render just or innocent, free from evil or guilt”) separately from the owner's additional formulation (“to render righteous or such as he ought to be”).
+- It keeps *dikaiosynē* distinct from *dikaioō*, preserves “back on course” as the source's conceptual formulation rather than an exhaustive dictionary definition, and keeps *apolutrōsis* (“redemption; ransom in full”) distinct from the owner's “riddance, ransom in full” note.
+- Romans 3:24 remains the anchor for free justification through redemption in Christ Jesus. 2 Corinthians 5:17–21 is retained as a continuous reconciliation/new-creation/righteousness passage, with “in Him” preserved.
+- **Continuity finding:** Chapter 7 develops the terminology after Chapter 6 has established the Romans 3 movement. It then hands to Chapter 8's Hebrews 1:8 / heirship question. The lexical and doctrinal relationship among the separate glosses remains open; this audit does not settle it.
+
+### Register correction
+The owner-decision register's B1 provisional answer reference has been corrected from Chapter 7 to current Chapter 8. Its Matthew 5:48 location has been corrected from Chapter 2 to current Chapter 3. Its Ephesians 1:7 / Colossians 1:13–14 location has been corrected from Chapter 5 to current Chapter 6, with Chapter 7 identified as the terminology development. The 1 John 4:17 entry now records its current chapter locations while leaving the broader synthesis open.
+
+### Remaining scope
+The current ten-chapter sequence has now received focused continuity review across Chapters 1–10. This is not yet a complete line-by-line manuscript edit, specialist lexical verification, or final Bible quotation proof. Remaining gates include the owner's open doctrinal decisions, verification of Greek lexical claims and source editions, full quote/proofread against the selected Bible edition, and an editorial repetition/voice pass across the complete manuscript.
