@@ -266,3 +266,12 @@
 - Audited Chapters 2–5: Chapter 2's *pistis* / credence / state-of-children teaching and Sonship sequence; Chapter 3's Genesis design, Mark 11:20–25 and Matthew 5:43–48 contexts; Chapter 4's Psalm 82 / John 10 argument; and Chapter 5's 2 Peter 1:2–8 sequence.
 - Recorded the findings and remaining scope in `93_FIRST_DRAFT_SOURCE_FIDELITY_REVIEW.md`.
 - The ten-chapter index is a current working map, not final approval of chapter architecture or doctrine. The owner's Hebrews 1:8 decision, lexical questions, and final quotation proofing remain open.
+
+
+## 2026-11-05 — Chapters 6–7 audited; owner decision register corrected
+
+- Audited Chapter 6's Romans 3:21–26 sequence, the Aletheia gloss on coming short of glory, the 1 Corinthians 11:7 context, and the Ephesians 1:7 / Colossians 1:13–14 redemption material.
+- Audited Chapter 7's separate treatment of *dikaioō*, *dikaiosynē*, and *apolutrōsis*, preserving the source's glosses and the owner's additional formulations without silently merging them.
+- Corrected stale chapter references in `90_OPEN_QUESTIONS_AND_OWNER_DECISIONS.md`: Hebrews 1:8 provisional answer → Chapter 8; Matthew 5:48 → Chapter 3; Ephesians 1:7 / Colossians 1:13–14 → Chapter 6, with terminology development in Chapter 7; 1 John 4:17 → current locations in Chapters 3, 8–10.
+- Recorded the focused Chapter 6–7 audit and the remaining publication gates in `93_FIRST_DRAFT_SOURCE_FIDELITY_REVIEW.md`.
+- No owner doctrinal decision or lexical conclusion was invented. The manuscript remains a working draft.
