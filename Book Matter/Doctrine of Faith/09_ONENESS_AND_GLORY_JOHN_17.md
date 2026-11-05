@@ -1,4 +1,4 @@
-# Chapter 9 — Oneness and Glory: Liken John 17:20–23
+# Chapter 9 — Oneness and Glory: The Prayer of John 17:20–23
 
 **Book:** *The Doctrine of Faith* (Book I)  
 **Status:** Revised working chapter; final Scripture and editorial proof remains.  
