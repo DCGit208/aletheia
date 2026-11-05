@@ -189,3 +189,17 @@ Created document 13, SCRIPTURE_QUOTATION_PROOF_REGISTER.md, to track substantial
 ## 10. Second-pass prose refinement — 2026-11-05
 
 Chapter 7 received an additional prose refinement to remove overly conversational phrasing and clarify the relation among the leaflet's printed gloss, free justification, grace, faith/credence, and the complete ransom. The continuous manuscript 11 was refreshed after this edit. The revised copy remains a working manuscript; the complete quotation proof and second full-manuscript copy edit remain open.
+
+
+## 11. Aletheia World publication target — owner instruction, 2026-11-06
+
+The owner has confirmed that the eBook is to be published through **app.aletheiaworld.org**, not Amazon KDP. The owner has also confirmed that the existing *The Doctrine of Faith* artwork is already present on Aletheia World.
+
+Production controls:
+- Preserve the existing Aletheia World book record and its artwork. Do not create a duplicate title, redesign the cover, or replace the existing artwork as part of this manuscript pass.
+- Amazon KDP packaging and distribution are out of scope.
+- Prepare the manuscript as an eBook for the Aletheia World reading experience. The platform's accepted upload format, metadata fields, and publishing workflow must be confirmed from the actual admin interface before export or upload; do not assume that a generic EPUB upload is supported.
+- The app's existing companion content in `src/lib/content/companion-faith.ts` is a separate, live reading surface. Do not overwrite it with the new ten-chapter book manuscript without an explicit content-migration decision and a verified mapping to the existing book record.
+- Publication is not complete until the final manuscript is proofed, the correct content is attached to the existing book record, and the live reader is checked end-to-end.
+
+**Status after owner instruction:** publication destination and artwork are confirmed. Manuscript proofing, front/back matter, final eBook export, Aletheia World CMS upload, and live-reader verification remain open. This section records the production decision; it does not certify the manuscript as publication-ready.
