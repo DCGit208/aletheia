@@ -81,7 +81,7 @@ This is one reason the owner's formulation about faith as the person's underlyin
 
 Ephesians 1:3–5 speaks of spiritual blessing in Christ, God's choosing in Christ before the foundation of the world, and predestination unto adoption by Jesus Christ according to the good pleasure of God's will.
 
-The passage explicitly places adoption within God's purpose and speaks of that purpose in relation to “before the foundation of the world.” The chapter's inference is that adoption was not merely an afterthought introduced after human deviation. That is a theological inference drawn from the passage's wording, not a separate sentence that Ephesians 1:3–5 states in those exact terms.
+The passage explicitly places adoption within God's purpose and speaks of that purpose in relation to “before the foundation of the world.” The doctrinal reading developed here is that adoption belongs to God's purpose and was not merely an afterthought introduced after human deviation. This is an inference from Ephesians 1:3–5, not a separate sentence that the passage states in those exact terms.
 
 This distinction matters. The text provides the basis for the inference; the inference should be shown rather than passed off as a quotation. The reader should be able to see both the scriptural wording and the reasoning drawn from it.
 
@@ -101,7 +101,7 @@ Matthew 3:17 (KJV) records the Father's declaration over Jesus:
 
 > “And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.”
 
-This declaration is read with the wider sonship argument. The Father identifies Jesus as His beloved Son and declares His pleasure in Him. The owner directs that this statement be brought into the argument about the Father's will and pleasure for His sons to operate in their designed state.
+This declaration is read with the wider sonship argument. The Father identifies Jesus as His beloved Son and declares His pleasure in Him. In accordance with the owner's direction, the declaration is brought into the argument about the Father's will and pleasure for His sons to operate in their designed state. The move from the Father's declaration over Jesus to His pleasure in His sons is a doctrinal connection developed with Ephesians 1:5, Galatians 4:5–7, and Romans 8:14–17; Matthew 3:17 alone does not state the entire connection.
 
 Hebrews 11:2 (KJV) states:
 
@@ -140,7 +140,7 @@ The connection is therefore neither an invented quotation nor an arbitrary juxta
 - Hebrews 11:2, 5–6 and Matthew 3:17 open the further inquiry into faith, good report, pleasing God, and the Father's pleasure in the Son.
 - The later chapters must develop the design, divine nature, redemption, righteousness, heirship, oneness, and present-reality arguments without treating any one passage as proof of everything.
 
-The owner's doctrinal formulation is that faith is not merely what the mind believes; it is the state of the person who exists in the reality of God's nature in Christ. This chapter has established the Aletheia source's state/Sonship material as a major part of the argument. The subsequent chapters must now test and unfold that formulation through the source's complete scriptural architecture.
+The owner's doctrinal formulation is that faith is not merely what the mind believes; it is the state of the person who exists in the reality of God's nature in Christ. This chapter has established the Aletheia source's state/Sonship material as a major part of the argument. The subsequent chapters develop that formulation through the source's complete scriptural architecture.
 
 ## Study and teaching questions
 
@@ -150,6 +150,6 @@ The owner's doctrinal formulation is that faith is not merely what the mind beli
 4. How does Romans 8:14–17 connect adoption, witness, inheritance, suffering, and glory?
 5. What does Ephesians 1:3–5 explicitly state about adoption, and what inference does this chapter draw from “before the foundation of the world”?
 6. What do Hebrews 11:2, 5–6 explicitly say about faith, good report, and pleasing God?
-7. What does Matthew 3:17 explicitly say, and what further connection to faith and Sonship remains a synthesis to demonstrate?
+7. What does Matthew 3:17 explicitly say, and how does the owner's doctrinal connection between the Father's pleasure, faith, and Sonship develop through Ephesians 1:5, Galatians 4:5–7, and Romans 8:14–17?
 8. How does this chapter's *pistis* / state teaching relate to the *hypostasis* foundation in Chapter 1 without pretending the leaflet itself contains a *hypostasis* word study?
 9. Which propositions in the chapter are explicit source teaching, which are explicit Scripture claims, and which are synthesis or owner formulation?
