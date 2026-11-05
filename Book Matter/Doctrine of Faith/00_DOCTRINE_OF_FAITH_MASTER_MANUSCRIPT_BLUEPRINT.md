@@ -536,3 +536,8 @@ Created `11_THE_DOCTRINE_OF_FAITH_BOOK_I_CONTINUOUS_WORKING_MANUSCRIPT.md` by as
 Created `12_PUBLICATION_READINESS_AUDIT.md`. It records the owner directions as incorporated, the source and Scripture checks completed, the initial lexical verification, the continuous-manuscript integrity check, the TLB copyright credit requirement, and the remaining scholarly/editorial/production gates.
 
 **Current decision:** Book I is in the final editorial and production phase, but it is not yet publication-ready. The owner doctrinal questions recorded in document 90 are resolved or abandoned as directed; remaining blockers are verification, full copy edit, references/glossary, front/back matter, copyright-page completion, and final production proof.
+
+
+## 15. First integrated editorial pass — 2026-11-05
+
+The first editorial pass across Chapters 1–10 is recorded in document 12 and the source-fidelity review. It revised status language, transitions, owner-direction consistency, lexical attribution, the Romans 3:24 morphology, and the representation/accomplishment argument. The continuous manuscript 11 has been refreshed from the latest chapter files and passed structural/content-presence checks. This is a first integrated pass, not the final line-by-line copy edit or publication proof. Continue with quotation-by-quotation verification, second editorial pass, references, glossary, front/back matter, and final production review.
