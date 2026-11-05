@@ -66,9 +66,9 @@ No further owner doctrinal answer is presently required for these directions. Th
 
 | Term | Work completed | Remaining work |
 |---|---|---|
-| *Hypostasis* (G5287) | Chapter 1 develops Hebrews 11:1 and compares Hebrews 1:3 and 3:14; initial lexicon references are recorded | Complete specialist lexical/contextual verification and confirm the argument's treatment of semantic range |
+| *Hypostasis* (G5287) | Chapter 1 now records Thayer's full range and explicitly notes that Thayer places Hebrews 11:1 under confidence/assurance while associating the nature/substance sense with Hebrews 1:3; Cambridge and Expositor's commentaries are compared | Complete specialist lexical/contextual verification; retain the genuine scholarly disagreement while explaining why the owner's substance reading governs this doctrine |
 | *Pistis* (G4102) | Leaflet's gloss “credence” and state-of-children teaching integrated | Verify all lexical statements and ensure no later chapter accidentally treats *pistis* as a simple synonym for *hypostasis* |
-| *Dikaioō* (G1344) | Strong's core gloss/AV usage and Thayer's three extended definitions included and attributed separately | Final edition/citation proof and contextual study of Romans 3:24 |
+| *Dikaioō* (G1344) | Romans 3:24's form δικαιούμενοι (*dikaioumenoi*) is identified as present passive participle, nominative masculine plural; Strong's core gloss/AV usage and Thayer's three extended definitions are attributed separately, including Thayer's caution that the “make righteous” sense is extremely rare, if not altogether doubtful | Final edition/citation proof and contextual study of the participle in Romans 3:21–26 |
 | *Dikaiosynē* | Leaflet's explanation and “back on course” conceptual wording preserved | Complete lexical/contextual verification; keep source formulation distinct from any dictionary gloss |
 | *Apolutrōsis* (G629) | Strong's derivation from G575 and G3083, “ransom in full”/“riddance,” and Thayer's “release effected by payment of ransom” checked | Verify final citation details and ensure restoration to original design is presented as the owner's doctrinal interpretation from the whole Scripture framework, not as a literal gloss of every Greek component |
 
@@ -77,9 +77,13 @@ Initial references consulted:
 - Strong's G629: https://biblehub.com/strongs/greek/629.htm
 - Thayer's G629: https://biblehub.com/thayers/629.htm
 
-The lexical checks for G1344 and G629 are initial verification, not a substitute for a specialist review of every original-language claim in Book I.
+The lexical checks for G1344 and G629 are initial verification, not a substitute for a specialist review of every original-language claim in Book I. The supplied *BIBLE INTRODUCTION.pdf* (Dake Study Bible Notes) has also been reviewed: its preface states a literal-reading principle—take Scripture literally where possible and identify the intended literal truth when symbolic, figurative, or typical language is used. It is treated as a supplementary interpretive-method reference only; it does not replace or outrank the 2015 Aletheia leaflet as the controlling doctrinal source.
 
 ## 4. Continuous-manuscript and editorial audit
+
+### Editorial method reference
+
+The supplied Dake Study Bible introduction is retained as a supplementary guide to interpretive method. Its stated preference is to take Scripture literally where possible and, where symbolic, figurative, or typical language is used, seek the literal truth intended. This is a method note, not a doctrinal authority for the book; the 2015 Aletheia leaflet remains the controlling doctrinal source.
 
 **Completed:**
 - Ten coordinated chapter manuscripts exist.
