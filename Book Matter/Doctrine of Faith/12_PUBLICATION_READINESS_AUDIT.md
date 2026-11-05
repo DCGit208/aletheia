@@ -122,3 +122,27 @@ The following have not yet been completed as publication artifacts:
 The main owner doctrinal directions are now incorporated, the ten chapters are assembled, and key lexical and quotation checks have been performed. The remaining blockers are not unresolved doctrinal questions from the owner. They are the full scholarly verification, complete quotation proof, human editorial pass, front/back matter, permissions/copyright-page completion, and final production proof.
 
 The book may move into the final editorial and production phase. It should not be described as publication-ready until each remaining gate above is completed and the owner approves the final proof.
+
+
+## 7. First integrated editorial pass — 2026-11-05
+
+A first editorial pass has now been completed across all ten chapter manuscripts, and document 11 has been refreshed from the latest chapter files.
+
+### Chapter-by-chapter revision record
+
+1. **Chapter 1 — Hypostasis:** Updated the chapter status; clarified the distinction between lexical range and contextual sense; explicitly recorded that Thayer places Hebrews 11:1 under confidence/assurance while citing the substance/nature sense at Hebrews 1:3; added the Cambridge and Expositor's commentary comparison; aligned the study questions with the owner's settled faith-as-state direction.
+2. **Chapter 2 — Pistis and Sonship:** Updated the chapter status; clarified the inference from Ephesians 1:3–5; strengthened the connection among the Father's pleasure, Matthew 3:17, Ephesians 1:5, Galatians 4:5–7, Romans 8:14–17, and Hebrews 11:2, 5–6; revised the study questions so they no longer treat the owner's direction as unresolved.
+3. **Chapter 3 — Elohim, image and likeness:** Updated the chapter status; removed obsolete question framing around Mark 11:22; stated the owner's settled interpretation while preserving the Greek genitive distinction; clarified Matthew 5:48 with 1 John 4:17 and retained the immediate love/enemies and love/confidence contexts.
+4. **Chapter 4 — Psalm 82 and John 10:** Updated the chapter status; made the owner's design direction explicit; clarified that Psalm 82:6 is read with verses 7–8 and Jesus' complete John 10 exchange, without making the verse carry the entire doctrine alone.
+5. **Chapter 5 — Partakers of divine nature:** Updated the chapter status; tightened the movement through 2 Peter 1:2–8; retained the promises, escape from corruption, diligence, and qualities that follow; aligned the conclusion with the owner's settled restoration/design direction.
+6. **Chapter 6 — Why Jesus came:** Updated the chapter status; revised the opening and representation sections to state the governing thesis directly; retained the Aletheia source's “deviation from true nature” gloss and kept Christ's accomplishment joined to representation.
+7. **Chapter 7 — Justification and redemption:** Updated the chapter status; identified δικαιούμενοι (*dikaioumenoi*) in Romans 3:24 as a present passive participle, nominative masculine plural; attributed Strong's core gloss/AV usage separately from Thayer's three extended definitions; included Thayer's caution about the rarity of the “make righteous” sense; clarified the complete-ransom/restoration argument without misrepresenting the lexical gloss.
+8. **Chapter 8 — The Son and heir:** Updated the chapter status; strengthened the distinction between the Son's unique place as appointed heir and the inheritance believers share through Him; kept the former Hebrews 1:8 question abandoned.
+9. **Chapter 9 — Oneness and glory:** Updated the chapter status and title; clarified the synthesis between Genesis design and John 17 without making the prayer repeat Genesis verbatim.
+10. **Chapter 10 — Image in the face of Christ:** Clarified that the owner's doctrinal direction is established while the lexical, contextual and editorial proof remains.
+
+### Integrity checks after the editorial pass
+
+The refreshed continuous manuscript is 133,672 characters and contains ten chapter headings. Automated checks confirmed the presence of the principal owner-directed content: representation, faith as designed state, natural heirship, Matthew 3:17, Ephesians 1:5, Hebrews 11:2, 5–6, 2 Peter 1:4, Mark 11:22, Matthew 5:48, 1 John 4:17, Romans 3:23–24, 1 Corinthians 15:41, Genesis 1:27 TLB, the G1344 morphology and Thayer qualification, the G629 ransom/restoration explanation, and the abandoned Hebrews 1:8 question. The check found no stale open Hebrews 1:8 decision or provisional “developing representation thesis” language in the continuous copy.
+
+**Scope limitation:** This is the first integrated editorial pass, not the final line-by-line copy edit. Automated checks confirm structure and required content, not every quotation, grammatical detail, theological nuance, footnote, or production element.
