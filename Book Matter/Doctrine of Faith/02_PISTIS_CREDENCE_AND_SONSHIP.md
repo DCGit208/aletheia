@@ -1,7 +1,7 @@
 # Chapter 2 — Πίστις (*Pistis*): Credence, the State of God's Children, and Sonship
 
 **Book:** *The Doctrine of Faith* — Book I  
-**Manuscript status:** Coordinated working draft following the foundation chapter  
+**Manuscript status:** Revised working chapter; final Scripture and editorial proof remains  
 **Primary Aletheia source:** *Aletheia Libraries 1* (2015), “Faith toward God” section; source map S20–S27  
 **Foundational dependency:** Chapter 1, “Faith as Hypostasis: Substance, Underlying Reality, and the Foundation of the Doctrine”  
 **Interpretive discipline:** The leaflet explicitly teaches *pistis* / credence as defining the state of God's children. It does not itself cite Hebrews 11:1 or use *hypostasis*. The relation between the two is the book's reasoned doctrinal argument, not a quotation attributed to the leaflet.
