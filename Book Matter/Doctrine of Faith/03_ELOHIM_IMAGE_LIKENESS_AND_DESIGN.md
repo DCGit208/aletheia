@@ -2,7 +2,7 @@
 
 **Manuscript status:** Coordinated working draft for the foundation-first manuscript  
 **Book:** *The Doctrine of Faith* — Book I  
-**Primary dependency:** Chapters 1–2 establish the *hypostasis* foundation and the Aletheia source's teaching that *pistis* / credence defines the state of God's children. This chapter develops the design and image/likeness material that follows in the source. The source's reading of *’ĕlōhîm* is preserved as the teaching's stated interpretation; no additional grammatical claim is silently substituted for it. The owner's thesis about Jesus representing humanity's design remains a cumulative synthesis to demonstrate, not a quotation from Genesis alone.
+**Primary dependency:** Chapters 1–2 establish the *hypostasis* foundation and the Aletheia source's teaching that *pistis* / credence defines the state of God's children. This chapter develops the design and image/likeness material that follows in the source. The source's reading of *’ĕlōhîm* is preserved as the teaching's stated interpretation; no additional grammatical claim is silently substituted for it. The owner's governing thesis is that Jesus fully represents who we are by Design. Genesis 1:26–28 is the design foundation; the complete representation argument is developed cumulatively through the connected Scripture set, not attributed to Genesis alone.
 
 ---
 
@@ -90,7 +90,7 @@ The owner's doctrinal question presses beyond the familiar English rendering: is
 
 This qualification does not dismiss the owner's reading. It identifies exactly what the manuscript must demonstrate. Chapter 1 establishes the inquiry into *hypostasis* as substance or underlying reality; Chapter 2 develops the Aletheia leaflet's explicit teaching that *pistis* / credence defines the state of God's children; Genesis 1:26–28 supplies the image, likeness, and dominion language for humanity's design. Read together, these passages raise the owner's central question: **does “have faith in/of God” call the human person to operate from the state corresponding to God's nature and humanity's design, rather than treating faith as a detached mental act?** The answer must be developed from the cumulative argument, not smuggled into the Greek as though “state of God” were its uncontested literal translation.
 
-The proposed connection is therefore substantive: *hypostasis* → faith as underlying reality/state → *pistis* and the state of God's children → image, likeness, and design. Mark 11:22 is a hinge in this sequence, not an isolated proof-text. Genesis 1:26–28 does not itself use the word *pistis*, and Mark 11:22 does not itself quote Genesis. Their relationship is a cross-passage doctrinal synthesis, which the manuscript should make explicit and argue rather than conceal.
+The connection is substantive: *hypostasis* → faith as underlying reality/state → *pistis* and the state of God's children → image, likeness, and design. Mark 11:22 is a hinge in this sequence, not an isolated proof-text. Genesis 1:26–28 does not itself use the word *pistis*, and Mark 11:22 does not itself quote Genesis. Their relationship is a cross-passage doctrinal argument. The owner's direction is that Mark 11:22 underscores our design identity and calls us to operate in the state of God because we are God by design. The manuscript must explain the passage's context and grammatical construction while fully developing that settled doctrinal conclusion.
 
 The immediate context remains a test of the interpretation. Any account of faith as God's state must reckon with Jesus' words about the heart, speech, prayer, and forgiveness in Mark 11:23–25. The passage should neither be softened into generic “trust” nor made to promise that any desired result must occur through the force of belief.
 
@@ -108,7 +108,7 @@ The owner's direction is that perfection is another affirmation of our identity:
 
 **Psalm 82:6 and John 10:34–35.** The phrase “as Gods” is the owner's framing. Genesis 1:26–28 explicitly says image, likeness, and dominion; Psalm 82:6 and Jesus' appeal in John 10 form a related but distinct Scripture argument. Keep the wording and context of each passage intact.
 
-The claim that Jesus represents humanity's design must be developed by showing how these passages relate. Hebrews 1:2 alone does not establish the entire thesis, and 1 John 4:17 must not be detached from its context of love and confidence.
+The full representation thesis is to be developed by showing how these passages relate. Jesus represents who we are by Design; no single verse is made to carry the whole argument, and 1 John 4:17 remains in its context of love and confidence.
 
 ## Study and argument exercise
 
