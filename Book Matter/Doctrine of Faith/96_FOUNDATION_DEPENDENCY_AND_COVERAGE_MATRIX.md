@@ -167,3 +167,8 @@ The owner has supplied the following governing directions:
 - Treat Matthew 5:48 with 1 John 4:17 as affirmations of identity and likeness, retaining their immediate contexts.
 
 **Implementation check:** Chapters 2, 3, 6, 7 and 8 have received corresponding revisions. Remaining quality gates are a complete cross-chapter consistency pass, source/Scripture quotation proof, original-language and lexicon verification, full editorial revision, and publication production. These are not owner-decision gates.
+
+
+## 9. Continuous manuscript integration — 2026-11-05
+
+`11_THE_DOCTRINE_OF_FAITH_BOOK_I_CONTINUOUS_WORKING_MANUSCRIPT.md` now assembles the ten current chapter manuscripts in order. The chapter files remain the controlled sources; document 11 is the continuous reading copy for final book-level audit. Refresh it whenever an individual chapter changes. The current assembled copy contains ten chapter headings and the owner's settled doctrinal directions. It is not yet a publication proof.
