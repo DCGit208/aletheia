@@ -42,7 +42,14 @@ export function BookDetail({ book, context }: { book: Book; context: "learn" | "
       {book.coverArtworks && book.coverArtworks.length > 1 ? (
         <CoverArtworkPicker artworks={book.coverArtworks} defaultImage={book.coverImage} title={book.title} />
       ) : (
-        <Cover title={book.title} subtitle={book.subtitle} tone={book.coverTone} image={book.coverImage} />
+        <Cover
+          title={book.title}
+          subtitle={book.subtitle}
+          tone={book.coverTone}
+          image={book.coverImage}
+          fit={book.id === "book-god-of-pleasure" ? "cover" : "contain"}
+          badge={book.id === "book-god-of-pleasure" ? "" : undefined}
+        />
       )}
       <div>
         <p className="text-[0.7rem] tracking-[0.2em] text-muted-foreground uppercase">
