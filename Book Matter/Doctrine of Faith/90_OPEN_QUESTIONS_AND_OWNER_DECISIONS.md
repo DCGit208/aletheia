@@ -33,7 +33,7 @@
 
 **Constraint:** The leaflet poses the question but does not print a direct answer. Do not turn the question into an unexamined conclusion or invent a title without showing the argument.
 
-**Status:** Open — high priority. A provisional, reasoned answer has been drafted in Chapter 7: in Christ, the believer is a son and heir of God, made the righteousness of God in Him, and called to understand present identity through the Son who is the express image of God's person. This is explicitly labeled a synthesis for owner review, not a direct answer printed in the leaflet. The owner must confirm or revise the exact doctrinal conclusion.
+**Status:** Open — high priority. A provisional, reasoned answer has been drafted in Chapter 8: in Christ, the believer is a son and heir of God, made the righteousness of God in Him, and called to understand present identity through the Son who is the express image of God's person. This is explicitly labeled a synthesis for owner review, not a direct answer printed in the leaflet. The owner must confirm or revise the exact doctrinal conclusion.
 
 ### B2. “Jesus represents who we are by Design”
 **Question:** What is the final approved formulation and scope of this thesis, and how should the book distinguish what Christ accomplished from what Christ represents?
@@ -84,12 +84,12 @@
 
 **Constraint:** Preserve its immediate context concerning love, including love toward enemies. The ontological/design reading is synthesis, not the verse's sole explicit statement.
 
-**Status:** Passage integrated into Chapter 2 with Matthew 5:43–48 context, including love toward enemies. The broader design/nature conclusion remains open as synthesis.
+**Status:** Passage integrated into Chapter 3 with Matthew 5:43–48 context, including love toward enemies. The broader design/nature conclusion remains open as synthesis.
 
 ### C4. Ephesians 1:7 and Colossians 1:14
 **Question:** What specific role should these redemption passages play alongside Romans 3:23–24 and the source's *apolutrōsis* gloss?
 
-**Status:** Integrated into Chapter 5's redemption argument with Ephesians 1:7 and Colossians 1:13–14. The owner's intended relationship between these passages, *apolutrōsis*, and restoration/design remains open for review.
+**Status:** Integrated into Chapter 6's Christ-coming / redemption-cluster discussion with Ephesians 1:7 and Colossians 1:13–14. Chapter 7 develops *apolutrōsis* and the related terminology. The owner's intended relationship between these passages, *apolutrōsis*, and restoration/design remains open for review.
 
 ### C5. 1 John 4:17
 **Question:** How should its “as he is, so are we in this world” statement support the wider present-reality thesis while preserving its context of love and confidence?
