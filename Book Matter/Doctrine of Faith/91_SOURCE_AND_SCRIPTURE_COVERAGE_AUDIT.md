@@ -373,3 +373,18 @@ The existing nine first-pass drafts remain preserved. The new files carry forwar
 - Chapter 3's Mark 11:20–25 section now develops the owner's question about “faith in God,” “faith of God,” and “the state of God” in relation to Genesis 1:26–28. It preserves the immediate context of the fig tree, speech, the heart, prayer, and forgiveness.
 - The manuscript distinguishes the Greek phrase *pistin theou* and its genitive construction from the owner's doctrinal interpretation “the state of God.” The owner's thesis is neither dismissed nor presented as an uncontested literal translation; it is identified as a cumulative doctrinal argument requiring demonstration.
 - Updated the owner-decision register and dependency matrix. The precise Greek/translation conclusion remains open for further lexical and contextual review.
+
+
+## 2026-11-05 — Owner directions and revised publication gates
+
+The owner has now resolved the major doctrinal-direction items previously listed in this audit:
+- The former Hebrews 1:8 question is abandoned; Hebrews 1:8 remains Scripture and may remain in the Son's portrait, but it is not an open inference or required conclusion.
+- The representation thesis is to be developed fully: Jesus represents who we are by Design, and His representation is held together with His accomplishment.
+- Faith is our state by design; image and likeness, participation in divine nature, sonship, natural heirship, and the Father's pleasure are developed in Chapters 2 and 8 with the specified Scripture passages.
+- Mark 11:22 is directed to underscore our design identity and operating in the state of God; Matthew 5:48 and 1 John 4:17 are developed together as identity affirmations with their immediate contexts preserved.
+- Chapter 7 now includes Romans 3:23–24 in full, the full G1344 entry supplied by the owner with Strong's and Thayer's components attributed separately, 1 Corinthians 15:41, the supplied Living Bible wording, and the owner's justification/restoration interpretation.
+- *Apolutrōsis* is developed as complete ransom and restoration to original design. Strong's G629 supports “ransom in full” and figurative “riddance”; Thayer describes release effected by payment of ransom. The restoration-to-design conclusion is the owner's doctrinal interpretation in the full Scripture framework, not a separate literal gloss of the Greek components.
+
+**Controlling-source correction:** The 2015 Aletheia leaflet is the controlling doctrinal source. Distinguishing source wording, Scripture wording, and the owner's further formulations is a source-attribution practice, not a qualification of the leaflet's authority.
+
+**Remaining gates:** Verify the exact Living Bible edition and quotation attribution; complete Bible quotation and reference proof across all ten chapters; complete specialist lexical review, including *hypostasis*, *pistis*, *dikaioō*, *dikaiosynē*, and *apolutrōsis*; complete the continuous-manuscript editorial pass; and prepare references, glossary, front matter, back matter and final owner proof.
