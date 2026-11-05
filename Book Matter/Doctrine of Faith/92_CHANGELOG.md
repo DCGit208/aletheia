@@ -275,3 +275,17 @@
 - Corrected stale chapter references in `90_OPEN_QUESTIONS_AND_OWNER_DECISIONS.md`: Hebrews 1:8 provisional answer → Chapter 8; Matthew 5:48 → Chapter 3; Ephesians 1:7 / Colossians 1:13–14 → Chapter 6, with terminology development in Chapter 7; 1 John 4:17 → current locations in Chapters 3, 8–10.
 - Recorded the focused Chapter 6–7 audit and the remaining publication gates in `93_FIRST_DRAFT_SOURCE_FIDELITY_REVIEW.md`.
 - No owner doctrinal decision or lexical conclusion was invented. The manuscript remains a working draft.
+
+
+## 2026-11-05 — Owner doctrinal directions incorporated; final-audit phase opened
+
+- Recorded the owner's decision to abandon the former Hebrews 1:8 question. Chapter 8 now treats Hebrews 1:8 only as part of the Son's scriptural portrait and develops sonship, heirship and representation without leaving the former question open.
+- Incorporated the owner's full representation direction: Jesus represents who we are by Design, and His representation must be held together with His redemptive accomplishment.
+- Revised Chapter 2 to state faith as our state by design and develop image/likeness, partaking of divine nature (2 Peter 1:4), sonship and natural heirship (Galatians 4:5–7; Romans 8:16–17), and the Father's pleasure with Matthew 3:17 and Hebrews 11:2, 5–6.
+- Revised Chapter 3 to state the owner's Mark 11:22 direction that we must operate in the state of God because we are God by design, retaining the Greek/genitive discussion and Mark 11:20–25 context. Developed Matthew 5:48 with 1 John 4:17 as identity-affirming passages while retaining their immediate contexts. Included the Living Bible wording supplied by the owner alongside Genesis 1:27 and flagged edition-level quotation proof.
+- Revised Chapter 6 to make the full representation thesis governing, while explicitly joining it to Christ's accomplishment, redemption and restoration.
+- Revised Chapter 7 to include the complete Romans 3:23–24 KJV quotation as one movement, the complete Strong's G1344 definition supplied by the owner, 1 Corinthians 15:41, and the owner's interpretation of sin as falling short of designed glory and justification as restoration to designed state. Developed *apolutrōsis* as complete ransom and restoration to original design, while distinguishing the source's “redemption; ransom in full” gloss from the owner's doctrinal explanation.
+- Rewrote Chapter 8 around the Son as heir and express image, believers' sonship and heirship, and the full representation thesis; removed the former unresolved Hebrews 1:8 question.
+- Updated document 90 to mark the owner decisions as resolved or abandoned, including Matthew 3:17, Mark 11:22, Matthew 5:48, 1 John 4:17, justification, and redemption/restoration.
+- Updated the master blueprint, coverage/dependency matrix and source-fidelity audit to reflect the owner's directions. Reaffirmed that the 2015 leaflet is the controlling doctrinal source; source/Scripture/synthesis distinctions preserve attribution and do not weaken its authority.
+- **Remaining work:** complete manuscript-wide consistency audit; verify all Bible quotations and translation attributions (especially the supplied Living Bible wording); verify Strong's G1344 and *apolutrōsis* against the exact lexical references; complete line-by-line editorial revision; finalize front matter, references, glossary, and publication proof. No publication-readiness claim is made at this stage.
