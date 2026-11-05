@@ -63,8 +63,8 @@ The ten coordinated chapters follow the argument's dependencies, beginning with 
 3. **’Ĕlōhîm, image, likeness, and design:** Genesis 1:26–28 and the source's interpretation of humanity's design.
 4. **Psalm 82 with John 10:** “Ye are gods” read with Psalm 82:7, the psalm's judgment setting, and Jesus' appeal to Scripture.
 5. **True nature and partaking of divine nature:** 2 Peter 1:2–8, including the promises, escape from corruption, and the qualities to be pursued.
-6. **Why did Jesus come?:** the source's interpretation of coming short of glory, the image/glory argument, Christ's person and work, and the developing representation thesis.
-7. **Redemption, free justification, and righteousness:** *dikaioō*, *dikaiosynē*, and *apolutrōsis*, preserving the source's wording and the owner's additional formulations separately.
+6. **Why did Jesus come?:** the source's interpretation of coming short of glory, the image/glory argument, and Christ's person and work held together with the full representation thesis.
+7. **Redemption, free justification, and righteousness:** *dikaioō*, *dikaiosynē*, and *apolutrōsis*, including justification and complete ransom/restoration to original design.
 8. **The Son, the heir, and representation:** the Son's identity, express image, righteousness, and heirship; the former Hebrews 1:8 question is abandoned.
 9. **Oneness and glory:** John 17:20–23, preserving the prayer's language of “as,” indwelling, glory given, and its stated purpose.
 10. **The image in the face of Jesus Christ:** 2 Corinthians 4:1–6 as the cumulative close on image, light, knowledge, and glory.
