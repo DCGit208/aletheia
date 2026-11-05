@@ -10,17 +10,40 @@ Chapter 6 developed the source's reading of coming short of glory as deviation f
 
 The source's lexical glosses and the owner's additional formulations must remain distinguishable. The source glosses *dikaioō* as “render just or innocent, free from evil or guilt”; the owner has separately proposed “to render righteous or such as he ought to be.” The source's *dikaiosynē* explanation includes equity and conformity with God's nature and the conceptual phrase “original: back on course.” The glossary records *apolutrōsis* as “redemption; ransom in full”; the owner's additional note uses “riddance, ransom in full.” Preserve that distinction rather than silently merging the formulations. These statements must be evaluated and integrated without silently replacing one with another.
 
-## *Dikaioō* — justified freely
+## *Dikaioō* — justified freely and restored to our designed state
 
-Justified: Greek δικαιόω (*dikaioō*, G1344) — the Aletheia source glosses it “render just or innocent, free from evil or guilt.” It relates this term to δικαιοσύνη (*dikaiosynē*): righteousness, justification. The source describes equity as impartiality to and conformity with the nature of God, and gives the conceptual formulation “original: back on course.” The relationship between the source's glosses and the owner's additional formulation is examined below without silently merging them.
+The Greek verb δικαιόω (*dikaioō*, Strong's G1344) is the word translated “justified” in Romans 3:24. The Strong's definition supplied for this study is reproduced in full:
 
-The owner's additional working formulation for *dikaioō* is “to render righteous or such as he ought to be.” This is preserved alongside the leaflet's printed gloss as a separate owner-supplied formulation. It is not silently substituted for the source wording; the relationship between the two remains a deliberate point for review.
+> **δικαιόω — STRONG'S NUMBER: G1344**  
+> *dikaioō*; from 1342; to render (i.e. show or regard as) just or innocent: — free, justify(-ier), be righteous.  
+> **AV (40):** justify 37, be freed 1, be righteous 1, justifier 1;  
+> to render righteous or such he ought to be; to show, exhibit, evince, one to be righteous, such as he is and wishes himself to be considered; to declare, pronounce, one to be just, righteous, or such as he ought to be.
+
+The Aletheia leaflet's printed gloss is “render just or innocent (free from evil or guilt).” The owner directs that the fuller Strong's definition above be included, especially its wording “to render righteous or such he ought to be” and “to declare, pronounce, one to be just, righteous, or such as he ought to be.” The two are not contradictory statements to be artificially separated into competing doctrines: the full definition contains both the rendering/showing language and the declaring/pronouncing language. Preserve the leaflet's exact wording and the complete supplied definition.
+
+The owner's doctrinal explanation is that *dikaioō* in Romans 3:24 must be read in the full movement of Romans 3:23–24. Humanity fell short of the glory of God because that glory belongs to the identity and design from which humanity deviated. One cannot fall short of a glory that has no relation to one's designed identity. Justification is therefore not merely a change in a legal label; in the Aletheia teaching's design argument, it is God's gracious act of rendering us righteous—such as we ought to be—and restoring us to the state for which we were made.
+
+This interpretation must be presented with the Scripture and the source's teaching visible. The word *dikaioō* has the lexical range recorded above; the conclusion that justification restores humanity to its designed state is the doctrinal synthesis developed from Romans 3, Genesis 1, 1 Corinthians 15, and the Aletheia leaflet's account of true nature and glory.
 
 Has man been justified? Yes. And freely. Through Greek ἀπολύτρωσις (*apolutrōsis*, G629) — redemption; ransom in full.
 
-Romans 3:24 says we are “being justified freely by his grace through the redemption that is in Christ Jesus.” Freely. By His grace. Through the redemption. The redemption is in Christ Jesus.
+Romans 3:23–24 (KJV) must be quoted as one continuous movement:
 
-There is no unpaid remainder on that ransom. *Apolutrōsis* is glossed by the Aletheia source as “redemption; ransom in full.” Do not preach a justification you must finish by labour. Labour belongs to study. The source's claim here is that innocence before God is free in Christ.
+> “For all have sinned, and come short of the glory of God; Being justified freely by his grace through the redemption that is in Christ Jesus:”
+
+The two verses must not be separated. The first identifies sin and coming short of God's glory; the second declares that we are justified freely by His grace through the redemption in Christ Jesus. The owner's interpretation is that sin is falling short of our state as Gods—our image-and-likeness design—and justification restores us to that state. This is the Aletheia design/true-nature argument being developed through the Scripture set, not a claim that the English phrase “come short” by itself supplies the entire doctrine.
+
+The relationship between glory and identity is further illuminated by 1 Corinthians 15:41 (KJV):
+
+> “There is one glory of the sun, and another glory of the moon, and another glory of the stars: for one star differeth from another star in glory.”
+
+Paul's immediate subject in 1 Corinthians 15 is the resurrection body and the distinctions in glory among heavenly and earthly bodies. The verse explicitly says that the sun, moon, and stars have differing glories. The owner's doctrinal inference is that a thing is identified by its glory, and therefore humanity's coming short of God's glory concerns falling short of the glory belonging to humanity's designed identity. This is a cross-passage inference, and it must be explained rather than presented as the sole subject of 1 Corinthians 15:41.
+
+Genesis 1:26–27 supplies the design basis: humanity is made in God's image and likeness. The Living Bible wording supplied for this manuscript reads: “So God made man like his Maker. Like God did God make man; Man and maid did he make them.” Read with the Aletheia leaflet's image/true-nature teaching, the owner's conclusion is that sin is deviation from the designed state, and justification restores us to that state.
+
+There is no unpaid remainder on that ransom. *Apolutrōsis* is glossed by the Aletheia source as “redemption; ransom in full.” The owner's direction is that redemption means we are completely ransomed and restored to original design. The full ransom is not an incomplete transaction that leaves humanity permanently beneath its intended state. In the book's doctrinal argument, redemption and restoration belong together: the ransom is complete, and its purpose and result are our return to the state for which we were made.
+
+For lexical precision, the source's gloss “ransom in full” is the direct lexical statement to preserve. The restoration-to-original-design conclusion is the owner's doctrinal interpretation of redemption in the full Aletheia Scripture framework—Genesis 1:26–28, Romans 3:23–24, 2 Corinthians 5:17–21, Ephesians 1:7, Colossians 1:13–14, and 2 Peter 1:4. Do not claim that the component parts of the Greek word, in isolation, independently spell out every aspect of restoration; show how the full-ransom meaning and the Scripture's restoration/design movement are joined.
 
 *Dikaioō* is not a project you complete on a good week. The source's printed gloss is a rendering: God renders just; God renders innocent; free from evil or guilt. The agent is grace. The means is the ransom in full.
 
@@ -66,10 +89,6 @@ First answer: **Has man been justified?** Write “Yes, and freely,” then show
 
 Next, write 2 Corinthians 5:17–21 in context. What does the passage say about reconciliation, the new creature, Christ being made sin, and being made the righteousness of God in Him?
 
-Finally, record the two formulations of *dikaioō* separately:
-- Aletheia leaflet: “render just or innocent (free from evil or guilt).”
-- Owner's additional working formulation: “to render righteous or such as he ought to be.”
+Finally, preserve the full Strong's G1344 definition and the leaflet's printed gloss. Explain how Romans 3:23–24, Genesis 1:26–27, 1 Corinthians 15:41, and the redemption passages form the owner's doctrinal argument that justification restores humanity to its designed state. The owner has now supplied the governing interpretation; this is no longer an open decision awaiting formulation.
 
-Do not silently collapse the two. Explain the argument each formulation is intended to carry, and leave the lexical decision open for deliberate review.
-
-**Transition to Chapter 8:** The leaflet's next question asks what Hebrews 1:8 makes the reader. The next chapter examines the Son, His designation as heir, and the scriptural steps needed to reason from what is said to the Son to the believer's sonship and heirship. The central inference remains open for the owner's decision.
+**Transition to Chapter 8:** The next chapter examines the Son as heir of all things, the express image of the Father, and the pattern and representation of humanity's design. It then develops the believer's sonship and heirship through Galatians 4:5–7 and Romans 8:16–17. Hebrews 1:8 remains part of the Son's scriptural portrait, but the former leaflet question is not an unresolved owner decision.
