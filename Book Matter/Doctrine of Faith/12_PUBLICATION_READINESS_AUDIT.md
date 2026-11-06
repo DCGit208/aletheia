@@ -275,3 +275,9 @@ A deployment review found that the existing app workflow deployed Firebase Hosti
 The function export was confirmed in `functions/src/protected-content.ts`, and its generated chapter manifest is produced by `scripts/generate-protected-content.cjs`. The access-control tests explicitly cover preview-only access, verified entitlements, administrator access, and denial of unauthorized full-content access.
 
 **Verification boundary:** The workflow configuration is committed, but no successful GitHub Actions execution or live Firebase deployment has yet been verified in this audit. Production availability of all ten chapters remains unconfirmed until the workflow completes successfully and the entitled-reader route is tested with an entitled account. The publication remains **NOT YET PUBLICATION-READY** pending the editorial, Scripture/lexical, production, and owner-proof gates recorded above.
+
+## 14. Authorial-voice editorial pass — 2026-11-06
+
+A focused editorial pass was completed on the ten-chapter publication manuscript (document 14). The pass removed manuscript-internal production language that repeatedly referred to the doctrinal positions as “the owner's thesis,” “the owner's direction,” or similar formulations. Those references have been recast in the voice of the book itself—for example, as the governing doctrinal position, the thesis developed in this book, or the doctrinal synthesis developed here.
+
+A post-edit search of the complete manuscript found no remaining occurrences of “owner.” This is a limited authorial-voice and presentation correction, not a full copy edit. It does not certify argument continuity, quotation accuracy, lexical claims, bibliography, or designed-page proof. Those gates remain open, and the manuscript remains **NOT YET PUBLICATION-READY**.
