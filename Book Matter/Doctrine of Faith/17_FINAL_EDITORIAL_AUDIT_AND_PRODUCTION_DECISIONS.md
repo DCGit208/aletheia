@@ -176,3 +176,19 @@ The following reader-facing changes have now been committed to the canonical man
 The source and reader changes were committed in GitHub. The latest Hosting deployment was triggered after these commits; its final result must be checked before the live reader is described as updated.
 
 **Important:** these are the first production corrections, not a declaration that all ten chapters have passed the full developmental, theological, line-edit, copy-edit, and designed-page proof. The remaining work in this audit is still mandatory.
+
+
+## Production work log — 6 November 2026, second editorial correction pass
+
+The author confirmed that Hosting deployment run **113** completed successfully on commit `4ee5976ad4137e5e8bbecffd7ccf0b7860a02841`. The application deployment is therefore confirmed. This does not close the manuscript or final-publication gates.
+
+A further comparison of this audit against the actual controlled manuscript identified two reader-facing defects that the first correction pass had missed:
+
+1. Chapter 1 contained a section headed “Editorial proofing control — lexical sources.” Although its references were legitimate, the heading and proof-process explanation exposed the editorial workflow inside the chapter. The lexical references remain in the bibliography; the internal proofing section has been removed from the reader-facing chapter.
+2. Chapter 9 retained a “Forward link” production label. It has been replaced with a natural transition into the final chapter's inquiry into the image and glory revealed in Christ.
+
+Chapter 1's former “Foundation chapter conclusions and questions for the next chapters” section also read as an editorial dependency checklist. It has been rewritten as “What the foundation makes clear,” followed by reader-facing reflection questions. The doctrinal distinctions and the source's explicit teaching have been retained.
+
+The same Chapter 1 and Chapter 9 corrections have been synchronized into `src/lib/content/companion-faith.ts`. The next deployment and automated parity check must verify this new commit before the live reader is described as containing these second-pass corrections.
+
+**Current editorial status:** the two identified defects are corrected in the controlled manuscript and reader source. This is a targeted correction, not completion of the full developmental edit, line/copy edit, quotation proof, bibliography verification, glossary decision, designed-page production, or author proof. The book remains **NOT FINAL / NOT READY FOR PUBLICATION SIGN-OFF**.
