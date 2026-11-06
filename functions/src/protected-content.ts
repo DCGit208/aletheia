@@ -5,6 +5,7 @@ import contentData from "./protected-content-data.json";
 import {
   canReadAllProtectedContent,
   mayReadProtectedContent,
+  selectReadableBookChapters,
   type ProtectedContentKind,
   type ProtectedContentPolicy,
 } from "./protected-content-access.js";
@@ -56,12 +57,7 @@ export const getProtectedContent = onCall({ region: REGION, cors: true }, async 
   if (!allowed) throw new HttpsError(uid ? "permission-denied" : "unauthenticated", "Purchase or sign in to access this content.");
 
   if (kind === "book") {
-    const previewChapterIds = policy.previewChapterIds ?? [];
-    const chapters = contentData.chapters.filter(
-      (chapter) =>
-        chapter.bookId === contentId &&
-        (!previewOnly || previewChapterIds.includes(chapter.id)),
-    );
+    const chapters = selectReadableBookChapters(contentData.chapters, policy, access);
     if (chapters.length === 0) throw new HttpsError("not-found", "Book content not found.");
     return { chapters };
   }
