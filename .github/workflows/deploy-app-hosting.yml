@@ -102,6 +102,24 @@ jobs:
       - name: Deploy protected-content function
         run: npx -y firebase-tools@latest deploy --only functions:aletheia:getProtectedContent --project aletheia-world
 
+      - name: Verify anonymous Book I preview access
+        run: |
+          node --input-type=module <<'NODE'
+          const endpoint = "https://us-central1-aletheia-world.cloudfunctions.net/getProtectedContent";
+          const response = await fetch(endpoint, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ data: { kind: "book", contentId: "book-doctrine-of-faith" } }),
+          });
+          const payload = await response.json();
+          if (!response.ok) throw new Error(JSON.stringify(payload));
+          const chapters = payload.result?.chapters;
+          if (!Array.isArray(chapters) || chapters.length !== 1 || chapters[0]?.id !== "ch-faith-1") {
+            throw new Error("Anonymous Book I access must return Chapter 1 only.");
+          }
+          console.log("Anonymous Book I access verified: Chapter 1 only.");
+          NODE
+
       - name: Deploy only app.aletheiaworld.org
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
@@ -109,3 +127,15 @@ jobs:
           projectId: aletheia-world
           target: aletheia-world
           channelId: live
+
+      - name: Verify live Book I catalogue page and cover
+        run: |
+          node --input-type=module <<'NODE'
+          const url = "https://app.aletheiaworld.org/publications/books/book-doctrine-of-faith";
+          const response = await fetch(url, { redirect: "follow" });
+          if (!response.ok) throw new Error(`Book I page returned HTTP ${response.status}.`);
+          const html = await response.text();
+          if (!html.includes("The Doctrine of Faith")) throw new Error("Book I title is missing from the live catalogue page.");
+          if (!html.includes("doctrine-of-faith-seal.png")) throw new Error("The original Book I cover is missing from the live catalogue page.");
+          console.log("Live Book I catalogue page, title, and original cover verified.");
+          NODE
