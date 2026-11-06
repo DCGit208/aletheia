@@ -1159,7 +1159,7 @@ The principal Scripture clusters developed in this book include:
 - Psalm 82:6–7
 - Matthew 3:17; 5:43–48
 - Mark 11:20–25
-- John 10:34–36; 17:1, 18–23
+- John 10:30–38; 14:12; 17:1, 18–23
 - Romans 3:21–26; 8:14–17
 - 1 Corinthians 11:7; 15:41
 - 2 Corinthians 4:1–6; 5:17–21
