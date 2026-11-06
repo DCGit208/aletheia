@@ -109,7 +109,7 @@ No further author doctrinal answer is presently required for these directions. T
 - The 2015 leaflet separately attributes the phrase “Like God did God make man” to the Life Application Bible. The manuscript preserves this source-history distinction while attributing the complete wording supplied by the owner to TLB.
 - Tyndale's current published guidelines permit up to 500 TLB verses in print/eBook work without express written permission, provided the quoted verses do not exceed 25% of the work and a complete biblical book is not quoted. The current manuscript uses one TLB verse. The required multiple-translation credit line must appear on the copyright page:
   
-  > Scripture quotations marked (TLB) are taken from The Living Bible, copyright © 1971 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.
+  > Scripture quotations marked (TLB) are taken from The Living Bible, copyright © 1971 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, Inc., Carol Stream, Illinois 60188. All rights reserved.
 
 - The King James Version is public domain according to Tyndale's guidelines.
 - Before release, verify that the final page layout includes the required TLB credit and that the published quotation remains verbatim. Tyndale permissions guidance: https://www.tyndale.com/permissions
