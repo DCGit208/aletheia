@@ -3,7 +3,7 @@
 **Book I:** *The Doctrine of Faith*  
 **Book II:** *Faith Is Evidence*  
 **Date:** 2026-10-18  
-**Status:** Foundation-first working architecture in active manuscript implementation; chapter order and doctrinal conclusions remain subject to review.  
+**Status:** Implemented as the current ten-chapter foundation-first working architecture in controlled manuscript 14. The architecture remains subject to developmental and editorial review; manuscript 14 governs the exact reader-facing chapter titles and text.  
 **Supersedes:** The sequencing assumptions in 89_BOOK_I_ARCHITECTURE_REVIEW_PROPOSAL.md that reserved the core Hebrews 11:1 / hypostasis treatment for Book II. The older document remains as a record of the first proposal and its rationale.
 
 ## 1. Governing correction
@@ -24,7 +24,7 @@ The book's sequence must follow conceptual dependency:
 6. Develop the questions of heirship, oneness, present reality, and the image/glory revealed in Christ.
 7. Close Book I with a clear statement of the foundation established and a controlled handoff to Book II's distinctive treatment of evidence.
 
-This sequence is a proposed logic, not an automatic verdict on chapter count. The ten-chapter arrangement below is a working recommendation to test against the source material and existing prose.
+This sequence expresses the implemented working logic. The ten-chapter arrangement below is the current structure in manuscript 14; it remains open to developmental editing where the reader's understanding or the argument requires improvement. Do not treat this historical proposal document as a second manuscript or as a substitute for controlled manuscript 14.
 
 ## 3. Proposed reader-facing structure (10 working chapters)
 
