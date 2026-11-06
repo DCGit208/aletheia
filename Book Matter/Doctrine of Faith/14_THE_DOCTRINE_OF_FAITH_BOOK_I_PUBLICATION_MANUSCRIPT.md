@@ -129,7 +129,7 @@ The question is not whether the word has ever been used to mean “substance.”
 
 Hebrews 1:3 describes the Son as the brightness of God's glory and the express image of His *hypostasis* (KJV: “the express image of his person”). Some modern translations render the relevant phrase in terms of God's nature or being. This is an important comparison because the same Greek noun occurs in a statement about the Son's relation to the Father's *hypostasis*, in a context that also speaks of glory and exact representation.
 
-The Aletheia source's Faith Toward God teaching later connects faith with true nature from creation, image and likeness, the glory come short of through sin, and Christ as the image of God. The thesis developed in this book is that Jesus represents who we are by Design, not merely what He accomplished for us. Hebrews 1:3 therefore belongs in the foundational investigation, not as an isolated proof-text but as a passage whose use of *hypostasis* must be compared with Hebrews 11:1.
+The Aletheia source's Faith Toward God teaching later connects faith with true nature from creation, image and likeness, the glory come short of through sin, and Christ as the image of God. The central thesis of this book is that Jesus represents who we are by Design, not merely what He accomplished for us. Hebrews 1:3 therefore belongs in the foundational investigation, not as an isolated proof-text but as a passage whose use of *hypostasis* must be compared with Hebrews 11:1.
 
 The comparison must be made carefully. In Hebrews 1:3, the Son is described as the *charaktēr* of the Father's *hypostasis*; in Hebrews 11:1, faith is described as the *hypostasis* of things hoped for. The same noun gives a strong reason to study the passages together; it does not mean that the grammar, referent, or exact nuance is identical in both verses. Nor does Hebrews 1:3, by itself, say that *hypostasis* in Hebrews 11:1 means the believer's nature. The comparison supports a meaningful connection between the passages, while leaving their distinct grammatical and contextual functions intact.
 
@@ -169,7 +169,7 @@ The leaflet does not itself quote Hebrews 11:1 or use the word *hypostasis* in t
 - **Hebrews 11:1:** faith is the *hypostasis* of things hoped for.
 - **Aletheia's explicit source teaching:** *pistis* / credence defines the state of children of God and is connected with true nature and Sonship.
 
-This is where the thesis developed in this book enters as the governing doctrinal formulation: faith as substance is intended to explain faith as the person's underlying nature and state. That thesis must be demonstrated through the complete argument, not falsely attributed as a sentence from the leaflet or treated as a conclusion proven by the etymology alone.
+This is where the central thesis of this book enters as the governing doctrinal formulation: faith as substance is intended to explain faith as the person's underlying nature and state. That thesis must be demonstrated through the complete argument, not falsely attributed as a sentence from the leaflet or treated as a conclusion proven by the etymology alone.
 
 The source's use of “state” is decisive to the structure. The Aletheia argument is not limited to what a person thinks about God; it connects faith to the state of the children of God, acceptance, true nature, and adoption. The foundation chapter must make this explicit connection with Hebrews 11:1, and the following chapters must develop what that connection means through design, Sonship, divine nature, redemption, righteousness, heirship, oneness, and present reality.
 
@@ -185,7 +185,7 @@ The book's explanatory formulation is:
 
 This is the governing doctrinal thesis of this book. It is not to be diluted into generic language about positive thinking, nor is it to be presented as a verbatim quotation from Hebrews 11:1 or the 2015 leaflet.
 
-The argument to be developed is that faith as *hypostasis* concerns more than a mental statement detached from the person. In the Aletheia source, *pistis* / credence defines the state of children of God and is tied to acceptance, true nature, and Sonship. The thesis developed in this book brings that state-language into relation with Hebrews 11:1's substance-language.
+The argument to be developed is that faith as *hypostasis* concerns more than a mental statement detached from the person. In the Aletheia source, *pistis* / credence defines the state of children of God and is tied to acceptance, true nature, and Sonship. The central thesis of this book brings that state-language into relation with Hebrews 11:1's substance-language.
 
 **Mark 11:22 is a key bridge in this argument.** Jesus says, in the KJV, “Have faith in God.” The Greek phrase *pistin theou* can be rendered formally as “faith of God,” but the genitive construction does not by itself decide whether the relation is “faith in God,” “God's faith,” or the stronger doctrinal interpretation “the state of God.” The governing doctrinal position of this book is settled: Mark 11:22 indicates that we must operate in the state of God because we are God by design; it underscores our design identity. The Greek construction is still to be explained accurately, and “state of God” must not be falsely presented as a word-for-word lexical gloss of the genitive. The verse's doctrinal role in the book, however, is settled doctrine in this book. The Aletheia leaflet's teaching about *pistis* as the state of God's children and Genesis 1:26–28's image/likeness language are essential to the wider argument. Chapter 3 develops this bridge while preserving Mark 11:20–25's context of the fig tree, speech, the heart, prayer, and forgiveness.
 
@@ -204,7 +204,7 @@ This chapter establishes the foundation and the required direction of the argume
 
 ## 8. What Book I establishes—and what Book II develops
 
-Book I establishes the foundational relationship among Hebrews 11:1, *hypostasis*, faith as substance, and the thesis developed in this book about faith as underlying nature and state. It then relates that foundation to the Aletheia teaching that *pistis* defines the state of children of God and develops the connected doctrine of design, Sonship, divine nature, redemption, righteousness, heirship, oneness, and present reality.
+Book I establishes the foundational relationship among Hebrews 11:1, *hypostasis*, faith as substance, and the central thesis of this book about faith as underlying nature and state. It then relates that foundation to the Aletheia teaching that *pistis* defines the state of children of God and develops the connected doctrine of design, Sonship, divine nature, redemption, righteousness, heirship, oneness, and present reality.
 
 Book II, *Faith Is Evidence*, develops the evidence dimension. It may return to Hebrews 11:1 because the verse contains both *hypostasis* and *elenchos*, but it must not be the first place where the reader encounters the foundational teaching about *hypostasis* and faith as substance.
 
@@ -267,9 +267,9 @@ The leaflet's gloss is **credence**. That word should not be casually replaced w
 
 Credence concerns credit given to what is said or presented as true. In the scriptural argument, the object is not an imagined possibility generated by the believer. The question is whether God's testimony is credited and how that credence relates to the state named in the source: children of God.
 
-This distinction prevents two reductions. First, faith cannot be reduced to a temporary emotional state, because the source connects it to identity, acceptance, and Sonship. Second, “credence” cannot be reduced to mere verbal agreement that has no bearing on the person. The leaflet expressly connects faith to the state of God's children and to true nature. The book must take that connection seriously.
+This distinction prevents two reductions. First, faith cannot be reduced to a temporary emotional state, because the source connects it to identity, acceptance, and Sonship. Second, “credence” cannot be reduced to mere verbal agreement that has no bearing on the person. The leaflet expressly connects faith to the state of God's children and to true nature. That connection is central to the argument.
 
-The relationship to Chapter 1 can now be stated without collapsing the terms: Hebrews 11:1 describes faith as *hypostasis* in relation to things hoped for; the Aletheia leaflet describes *pistis* / credence as defining the state of God's children. The thesis developed in this book asks us to understand these together: faith is not merely an opinion held by a person whose state remains unrelated to the reality credited. This is the interpretive bridge to be demonstrated throughout Book I.
+The relationship to Chapter 1 can now be stated without collapsing the terms: Hebrews 11:1 describes faith as *hypostasis* in relation to things hoped for; the Aletheia leaflet describes *pistis* / credence as defining the state of God's children. The central thesis of this book asks us to understand these together: faith is not merely an opinion held by a person whose state remains unrelated to the reality credited. This is the interpretive bridge to be demonstrated throughout Book I.
 
 ## 3. Adoption and Sonship: read the sequence of Galatians 4
 
@@ -370,7 +370,7 @@ The source's sequence is now developed in accordance with the doctrinal directio
 
 ## 8. How Chapter 1 and this chapter belong together
 
-Chapter 1 examined *hypostasis* in Hebrews 11:1 and the thesis developed in this book that faith as substance relates to the person's underlying nature and state. This chapter has examined the Aletheia source's explicit teaching that *pistis* / credence defines the state of God's children and is connected with acceptance, true nature, adoption, and Sonship.
+Chapter 1 examined *hypostasis* in Hebrews 11:1 and the central thesis of this book that faith as substance relates to the person's underlying nature and state. This chapter has examined the Aletheia source's explicit teaching that *pistis* / credence defines the state of God's children and is connected with acceptance, true nature, adoption, and Sonship.
 
 The connection is therefore neither an invented quotation nor an arbitrary juxtaposition:
 
@@ -456,7 +456,7 @@ Romans 8:17 you have already heard: if children, then heirs; heirs of God, and j
 
 John 17:20–23 belongs in this Scripture set as Jesus' prayer concerning oneness and the glory given. Its full argument is developed in Chapter 9; here it functions as a cross-reference, not as a substitute for reading the prayer in context.
 
-The chapter must neither apologize for the wording of Genesis nor invent a title that the wider Scripture set does not grant. The text is to be read as written, and conclusions are to be reasoned from it. The leaflet names *The Doctrine of Man* and *Why Men Die* in its first further-reading note. It later recommends requesting *True Nature of God*, describing it with the parenthetical claim: “if you know God’s nature, then you’re as Him, unlimited, because we’re made in His image. Genesis 1:26.” That wording is the leaflet's description of the resource; it should not be silently recast as a conclusion proven by Genesis 1:26 alone. The leaflet separately names *WHO'S JESUS TO YOU?* and directs the reader to its Address page for request details. These titles and instructions are retained as source provenance, not as a new course sequence. The exact resource titles and request details should remain in the book's source notes even if the resources themselves are not reproduced here.
+Genesis requires neither apology nor an invented title beyond the wider scriptural witness. The text is to be read as written, and conclusions are to be reasoned from it. The leaflet names *The Doctrine of Man* and *Why Men Die* in its first further-reading note. It later recommends requesting *True Nature of God*, describing it with the parenthetical claim: “if you know God’s nature, then you’re as Him, unlimited, because we’re made in His image. Genesis 1:26.” That wording is the leaflet's description of the resource; it should not be silently recast as a conclusion proven by Genesis 1:26 alone. The leaflet separately names *WHO'S JESUS TO YOU?* and directs the reader to its Address page for request details. These titles and instructions are retained as source provenance, not as a new course sequence. The exact resource titles and request details should remain in the book's source notes even if the resources themselves are not reproduced here.
 
 ## Jesus as representation of humanity's design — governing doctrinal direction
 
@@ -1067,7 +1067,7 @@ The phrase “restores what Christ's person reveals” should be read in light o
 
 The ten coordinated chapters follow the argument's dependencies, beginning with the foundation of faith and then developing the Aletheia source's connected Scripture set:
 
-1. **Faith as *hypostasis*:** Hebrews 11:1, substance, the lexical alternatives, and the thesis developed in this book concerning faith as underlying nature and state.
+1. **Faith as *hypostasis*:** Hebrews 11:1, substance, the lexical alternatives, and the central thesis of this book concerning faith as underlying nature and state.
 2. ***Pistis*, credence, and Sonship:** the leaflet's explicit teaching about credence, acceptance, the state of God's children, adoption, and heirship.
 3. **’Ĕlōhîm, image, likeness, and design:** Genesis 1:26–28 and the source's interpretation of humanity's design.
 4. **Psalm 82 with John 10:** “Ye are gods” read with Psalm 82:7, the psalm's judgment setting, and Jesus' appeal to Scripture.
@@ -1094,7 +1094,7 @@ The doctrinal direction of this book is that faith is our state by design, not m
 
 Book I has developed the Aletheia source's faith-toward-God architecture through the connected passages on *pistis*, sonship, image and likeness, divine nature, glory, justification, righteousness, heirship, oneness, and the image of God in Christ.
 
-Book I has placed Hebrews 11:1 and *hypostasis* at the foundation of the doctrine and has developed the thesis developed in this book that faith as substance relates to the person's underlying nature and state. The argument connecting the lexical range, the context of Hebrews, and the Aletheia source's explicit *pistis* / state-of-children teaching remains subject to scholarly verification and editorial proof; the governing doctrinal position of this book is established, and the foundation must not be deferred to Book II. Book II, *Faith Is Evidence*, develops faith as evidence from this foundation. The close of Book I therefore summarizes the foundation laid and hands forward the evidence inquiry.
+Book I has placed Hebrews 11:1 and *hypostasis* at the foundation of the doctrine and has developed the central thesis of this book that faith as substance relates to the person's underlying nature and state. The argument connecting the lexical range, the context of Hebrews, and the Aletheia source's explicit *pistis* / state-of-children teaching remains subject to scholarly verification and editorial proof; the governing doctrinal position of this book is established, and the foundation must not be deferred to Book II. Book II, *Faith Is Evidence*, develops faith as evidence from this foundation. The close of Book I therefore summarizes the foundation laid and hands forward the evidence inquiry.
 
 The forward question is therefore deliberate: **Having established faith's foundation in *hypostasis* / substance and its relation to the person's state, how does Scripture develop faith as evidence?** Book II takes up that question on its own terms.
 
