@@ -192,3 +192,16 @@ Chapter 1's former “Foundation chapter conclusions and questions for the next 
 The same Chapter 1 and Chapter 9 corrections have been synchronized into `src/lib/content/companion-faith.ts`. The next deployment and automated parity check must verify this new commit before the live reader is described as containing these second-pass corrections.
 
 **Current editorial status:** the two identified defects are corrected in the controlled manuscript and reader source. This is a targeted correction, not completion of the full developmental edit, line/copy edit, quotation proof, bibliography verification, glossary decision, designed-page production, or author proof. The book remains **NOT FINAL / NOT READY FOR PUBLICATION SIGN-OFF**.
+
+
+## Production work log — 6 November 2026, chapter pedagogy and continuity pass
+
+A further book-wide pass addressed the uneven chapter-end presentation and the remaining labelled transitions.
+
+- The reader-facing chapter-end headings have been standardized as **“Questions for reflection and study”** (Chapter 1 retains the shorter **“Questions for reflection”** because its questions are foundational and deliberately introductory).
+- The four remaining “Transition to Chapter …” labels have been removed. Their content has been rewritten as natural prose that carries the reader from image and likeness to Psalm 82/John 10; from the glory/redemption discussion to justification; from justification to the Son and heir; and from heirship to the prayer of John 17.
+- All ten chapter bodies in `src/lib/content/companion-faith.ts` have been regenerated from the controlled manuscript 14, rather than manually patched in isolation.
+
+The manuscript and reader synchronization commits are now in GitHub. The automated publication-integrity workflow must complete successfully against the latest commit before this synchronized state is considered technically verified or live.
+
+**Remaining editorial concern:** a complete chapter-by-chapter developmental and line/copy edit is still required. Standardizing headings and transitions does not by itself resolve uneven chapter depth, repetition, the quality of examples, or the full reader journey. Scripture quotation proof, lexical/bibliographic verification, glossary treatment, designed-page production and final author proof remain open.
