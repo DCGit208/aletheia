@@ -26,7 +26,7 @@
 | 2 | Hebrews 11:2 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check exact wording. |
 | 2 | Hebrews 11:5 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check Enoch's testimony and punctuation. |
 | 2 | Hebrews 11:6 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check full verse. |
-| 3 | Genesis 1:26–28 | KJV | Targeted checked | Image, likeness, blessing, fruitfulness, and dominion checked. |
+| 3 | Genesis 1:26–28 | KJV | Targeted checked | Image, likeness, blessing, fruitfulness, and dominion checked. |\n| 3 | Genesis 1:26 | Hebrew אֱלֹהִים (*’ĕlōhîm*, H430) | Targeted checked | Strong's/BDB form and morphology checked: masculine plural noun. The Aletheia leaflet's interpretation “plural: Trinity” remains the controlling doctrinal reading. |
 | 3 | Genesis 1:27 | TLB | Targeted checked | Full wording rechecked against the Living Bible text; required TLB copyright credit appears on the manuscript copyright page. |
 | 3 | 1 John 4:17 | KJV | Targeted checked | Full verse checked; retain love/perfected-confidence context. |
 | 3 | Psalm 82:6 | KJV | Targeted checked | Full psalm checked with verses 1–8. |
@@ -61,9 +61,9 @@
 
 | Reference | Form | Check required |
 |---|---|---|
-| Hebrews 11:1 | ὑπόστασις (*hypostasis*) | Targeted lexical check completed against SBLGNT interlinear and Thayer/Strong’s entries; final scholarly review remains. Preserve the range of foundation/substance/essence and confidence/assurance, and do not let etymology alone decide the contextual sense. |
-| Mark 11:22 | πίστιν θεοῦ (*pistin theou*) | Greek wording and morphology checked in the interlinear; lexical commentary records the rendering “faith in God” as an object-genitive reading. Keep the book's settled doctrinal interpretation distinct from what the genitive alone establishes grammatically. Final specialist review remains. |
-| Romans 3:24 | δικαιούμενοι (*dikaioumenoi*) | Present passive participle, nominative masculine plural; targeted lexical/morphological check recorded; recheck in final typeset proof. |
+| Hebrews 11:1 | ὑπόστασις (*hypostasis*, G5287) | Targeted lexical check completed against Greek interlinear and Thayer/Strong's entries; the range of substructure/foundation, actual existence/substance, nature, and confidence/assurance is recorded. The book's settled doctrinal foundation remains faith as substance and underlying state. Final typeset proof remains. |\n| Hebrews 6:1 | πίστεως (*pisteōs*, G4102) | Genitive singular feminine noun; the phrase is πίστεως ἐπὶ Θεόν (“faith toward God”). Greek text and morphology checked against the interlinear. The leaflet's “faith toward God” teaching is preserved. |\n| Chapter 2 / source term | πίστις (*pistis*, G4102) | Strong's and Thayer's entries checked: feminine noun; Strong's includes “persuasion, i.e. credence.” The leaflet's definition and doctrinal use remain controlling. |
+| Mark 11:22 | πίστιν θεοῦ (*pistin theou*, G4102) | Accusative feminine singular noun + genitive masculine singular noun; wording and morphology checked in the Greek interlinear. Lexical commentary records “faith in God” as an object-genitive reading. The book's settled doctrinal interpretation is retained without presenting it as a word-for-word morphology gloss. Final typeset proof remains. |
+| Romans 3:24 | δικαιούμενοι (*dikaioumenoi*, G1344) | Present passive participle, nominative masculine plural; morphology checked against the Greek interlinear and Strong's/Thayer's G1344 entries. Final typeset proof remains. |\n| 2 Corinthians 5:21 | δικαιοσύνη (*dikaiosynē*, G1343) | Nominative singular feminine noun; morphology checked against Greek interlinear; Strong's/Thayer's G1343 entries checked. Preserve the Aletheia leaflet's additional gloss as source wording. |
 | Romans 3:24 | ἀπολυτρώσεως (*apolutrōseōs*) | G629 noun, genitive singular; targeted lexical check against Strong’s/Thayer completed; recheck in final typeset proof. |
 | 2 Peter 1:5 | σπουδή (*spoudē*) | Noun G4710 checked against Strong’s; distinguish it from the verb σπουδάζω (*spoudazō*, G4704) used in 2 Timothy 2:15 and cited in the 2015 leaflet. Final specialist review remains. |
 
@@ -86,5 +86,5 @@ The following are not Bible translations and must be checked against the 2015 Al
 2. Record the verified edition/version and exact reference.
 3. Check every quotation again after layout, including punctuation, capitalization, italics, line breaks, and quotation marks.
 4. Confirm that TLB credit appears on the copyright page and that the quoted TLB wording remains within the applicable permissions conditions.
-5. Refresh continuous manuscript 11 after any chapter-level correction.
-6. Do not mark the book publication-ready until every row has passed and the owner has reviewed the final designed proof.
+5. After any chapter-level correction, regenerate the protected reader payload and run the exact chapter-by-chapter parity check against publication manuscript 14.
+6. Do not mark the book publication-ready until every row has passed and the author has reviewed the final designed proof.
