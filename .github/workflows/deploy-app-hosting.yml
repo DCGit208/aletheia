@@ -6,6 +6,8 @@ on:
     paths:
       - ".github/workflows/deploy-app-hosting.yml"
       - "src/**"
+      - "functions/**"
+      - "scripts/generate-protected-content.cjs"
       - "public/**"
       - "Book Matter/One Source of Truth/**"
       - "Book Matter/Doctrine of Faith/**"
@@ -85,6 +87,20 @@ jobs:
           NEXT_PUBLIC_CHECKOUT_MODE: stripe
           NEXT_PUBLIC_ENABLE_LOCAL_DEMO_MODE: "false"
         run: npm run build:hosting
+
+      - name: Install Firebase Functions dependencies
+        run: npm --prefix functions ci
+
+      - name: Build and test protected-content function
+        run: npm --prefix functions test
+
+      - name: Authenticate for Firebase Functions deployment
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_ALETHEIA_WORLD }}
+
+      - name: Deploy protected-content function
+        run: npx -y firebase-tools@latest deploy --only functions:getProtectedContent --project aletheia-world
 
       - name: Deploy only app.aletheiaworld.org
         uses: FirebaseExtended/action-hosting-deploy@v0
