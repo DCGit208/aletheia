@@ -4,7 +4,7 @@
 **Audit date:** 2026-11-06  
 **Current manuscript:** `14_THE_DOCTRINE_OF_FAITH_BOOK_I_PUBLICATION_MANUSCRIPT.md`  
 **Controlling source:** *Aletheia Libraries 1* (2015), “Faith toward God”  
-**Status:** Phase 1 technical publication verified on the 2026-11-06 deployment; later manuscript and reader-sync commits are being redeployed. Phase 2 has undergone substantive editorial, Scripture, and lexical work; final proof remains open. Publication readiness is not yet certified.
+**Status:** Phase 1 technical publication verified on the successful 2026-11-06 deployment; Phase 2 manuscript audit complete. The remaining Phase 1 check is a real signed-in entitled-reader session. Phase 3 designed-page production/proof and Phase 4 final approval/publication remain.
 
 ---
 
