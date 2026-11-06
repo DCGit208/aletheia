@@ -100,7 +100,7 @@ jobs:
           credentials_json: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_ALETHEIA_WORLD }}
 
       - name: Deploy protected-content function
-        run: npx -y firebase-tools@latest deploy --only functions:getProtectedContent --project aletheia-world
+        run: npx -y firebase-tools@latest deploy --only functions:aletheia:getProtectedContent --project aletheia-world
 
       - name: Deploy only app.aletheiaworld.org
         uses: FirebaseExtended/action-hosting-deploy@v0
