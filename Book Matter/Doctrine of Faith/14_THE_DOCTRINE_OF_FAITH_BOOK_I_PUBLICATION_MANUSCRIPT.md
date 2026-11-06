@@ -430,7 +430,9 @@ Genesis 1:27 — “So God created man in his own image, in the image of God cre
 
 The 2015 Aletheia leaflet places the paraphrase “So God made man like his Maker” beside Genesis 1:27 and links it to “Man’s True Nature” (2 Peter 1:4) and the glory humanity came short of through sin. The leaflet also includes this wording, which is reproduced here as the Living Bible quotation:
 
-> **Genesis 1:27 (The Living Bible, TLB)** — “So God made man like his Maker.\nLike God did God make man;\nMan and maid did he make them.”
+> **Genesis 1:27 (The Living Bible, TLB)** — “So God made man like his Maker.
+Like God did God make man;
+Man and maid did he make them.”
 
 The quotation is retained alongside the KJV, not as a replacement for it. The full wording is verified as Genesis 1:27 in The Living Bible (TLB), copyright © 1971 Tyndale House Foundation. The 2015 leaflet separately places the line “Like God did God make man” beside a parenthetical attribution to the Life Application Bible. Preserve that source note as part of the leaflet's history, but use the required TLB attribution for the full quotation reproduced here. Reference: https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=TLB.
 
@@ -1143,7 +1145,9 @@ Dake, Finis Jennings. *Dake Study Bible Notes: Bible Introduction*. Supplied int
 - *NAS Exhaustive Concordance*, entry for ὑπόστασις, consulted through BibleHub.
 - *Cambridge Greek Testament for Schools and Colleges*, commentary on Hebrews 11:1: https://biblehub.com/commentaries/cambridge/hebrews/11-1.htm
 - *The Expositor's Greek Testament*, commentary on Hebrews 11:1: https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/hebrews/11/1
-- OpenBible Greek text and morphology, Romans 3:24: https://www.openbible.com/text/romans/3-24.htm\n- OpenBible Greek text and morphology, 2 Peter 1:5: https://www.openbible.com/text/2_peter/1-5.htm\n- Greek interlinear, 2 Corinthians 5:21: https://cnbible.com/text/2_corinthians/5-21.htm
+- OpenBible Greek text and morphology, Romans 3:24: https://www.openbible.com/text/romans/3-24.htm
+- OpenBible Greek text and morphology, 2 Peter 1:5: https://www.openbible.com/text/2_peter/1-5.htm
+- Greek interlinear, 2 Corinthians 5:21: https://cnbible.com/text/2_corinthians/5-21.htm
 
 ## Editorial note on references
 
