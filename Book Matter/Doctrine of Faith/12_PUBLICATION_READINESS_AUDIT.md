@@ -50,7 +50,7 @@ The leaflet's other First Principles—baptisms, laying on of hands, resurrectio
 - The protected-content tests now explicitly verify that an ordinary visitor receives only Chapter 1 and an entitled reader receives all ten chapter records.
 - The prose pass removed internal production notes and converted chapter charges into reader-facing study questions. The Matthew 5:48 discussion was aligned with its immediate context; Chapter 3's *’ĕlōhîm* wording and source attribution were clarified; Chapters 6–7's internal charges were converted into teaching questions.
 - The 2015 Aletheia leaflet remains the controlling doctrinal source. The supplementary Dake introduction remains a method reference only.
-- The quotation register now records 42 targeted Scripture checks and original-language entries for *hypostasis*, *pistis*, *dikaioō*, *dikaiosynē*, *apolutrōsis*, *spoudē*, and *’ĕlōhîm*. Hebrew H430 and Greek G4102, G5287, G1343, G1344, and G629 have been checked against lexical/interlinear references.
+- The quotation register now contains 40 chapter-level Scripture passage entries marked targeted checked, plus original-language entries for *hypostasis*, *pistis*, *dikaioō*, *dikaiosynē*, *apolutrōsis*, *spoudē*, and *’ĕlōhîm*. Hebrew H430 and Greek G4102, G5287, G1343, G1344, and G629 have been checked against lexical/interlinear references.
 - The complete line-by-line check of every quotation/reference/punctuation mark against the selected editions, and final typeset proof, remain open. The manuscript is not yet a final designed proof.
 
 ### Remaining gates
