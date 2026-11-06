@@ -1024,7 +1024,7 @@ That line is the book's synthesis of the source's Scripture cluster. John 17 is 
 
 This is the concluding chapter of Book I, not the first place where faith as *hypostasis* is introduced. Chapter 1 established that foundation; the intervening chapters have developed the Aletheia source's teaching on *pistis*, state, design, divine nature, Christ's person and work, redemption, righteousness, heirship, and oneness. The present chapter gathers the image/light/glory argument in 2 Corinthians 4:1–6 and asks how the light of the knowledge of God's glory in the face of Jesus Christ illuminates the cumulative doctrine.
 
-The close must hold accomplishment and representation together. It must not postpone the foundation to Book II. The book's principal doctrinal directions have now been supplied and incorporated: Jesus fully represents who we are by Design; faith is our state by design; sonship and heirship belong to this identity; justification and redemption restore us to the designed state; and Matthew 5:48 with 1 John 4:17 affirms present identity. The conclusion should gather this argument and hand forward the distinct evidence inquiry of Book II.
+The conclusion holds accomplishment and representation together and does not postpone the foundation to Book II. The principal doctrinal positions established in Book I are these: Jesus fully represents who we are by Design; faith is our state by design; sonship and heirship belong to this identity; justification and redemption restore us to the designed state; and Matthew 5:48 with 1 John 4:17 affirms present identity. Book II takes up the distinct evidence inquiry from this foundation.
 
 ## The Ministry Must Not Handle the Word Deceitfully
 
@@ -1064,7 +1064,7 @@ The preceding chapters have kept two questions together.
 
 **What does Jesus represent?** The Scripture set calls Him the Son and heir of all things (Hebrews 1:2), the express image of God's person (Hebrews 1:3), and the image of God (2 Corinthians 4:4). Genesis 1:26–28 speaks of humanity's image, likeness, blessing, fruitfulness, and dominion. First John 4:17 says, in the context of love and confidence, “as he is, so are we in this world.” John 17:20–23 records Jesus' prayer that believers be one in the Father and Son, including His words that the glory given to Him has been given to them.
 
-The settled doctrinal position of this book is that **Jesus represents who we are by Design**. This thesis must be developed fully, not treated as a tentative inquiry. It is cumulative across the passages on Christ's person and the passages on His work. Christ's work does not disappear because His person represents who we are; His representation does not disappear because His work is essential.
+The settled doctrinal position of this book is that **Jesus represents who we are by Design**. This conclusion is cumulative across the passages on Christ's person and the passages on His work. Christ's work does not disappear because His person represents who we are; His representation does not disappear because His work is essential.
 
 A concise synthesis is: **Christ's work restores what Christ's person reveals.** This is not a sentence quoted from one of the cited passages. It is the synthesis the book has been investigating: the One who reveals the image and glory of God is also the One through whom redemption, reconciliation, and justification are spoken of.
 
