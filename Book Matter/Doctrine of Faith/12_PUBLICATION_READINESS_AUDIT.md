@@ -349,3 +349,16 @@ The prior status snapshot above predates the latest front-matter and editorial c
 **Deployment boundary:** run 113 does not include these second-pass changes, which were committed after it. A new Hosting run and the exact manuscript-to-reader parity check are required. Do not report these corrections as live until that run succeeds.
 
 **Open gates remain:** full chapter-by-chapter developmental and line/copy edit; complete quotation and reference proof; bibliography and attribution verification; decision and preparation of a glossary; professional typesetting; page-by-page designed proof; real signed-in entitled-reader end-to-end test; and author approval. The book remains **NOT PUBLICATION-READY**.
+
+
+---
+
+## 2026-11-06 — Additional Chapter 4–5 development and parity correction
+
+A targeted depth review produced substantive additions to Chapters 4 and 5. Chapter 4 now explains the judgment setting of Psalm 82 more fully and follows the sequence of Jesus' appeal in John 10. Chapter 5 more clearly develops the relationship among the promises, participation in divine nature, escape from corruption, diligence, the qualities in 2 Peter 1:5–7, and fruitfulness in verse 8. The work was explanatory, not padding.
+
+All remaining production-labelled chapter transitions have been replaced with prose, and chapter-end study headings have been standardized. The controlled manuscript and all ten reader chapter bodies have been synchronized again.
+
+**Integrity-check note:** an earlier automated run failed because the reader payload retained a trailing newline that the manuscript-parity checker normalizes away. The reader source was regenerated using the checker's exact normalization. The latest parity/deployment workflow is pending; its result, not the earlier failed run, determines whether the current synchronization passes.
+
+Chapters 6 and 8 have received a focused depth review but still require the complete developmental and line/copy edit. The shorter chapter lengths have not been treated as defects in themselves.
