@@ -997,11 +997,11 @@ The prayer's vision of oneness and shared glory leads naturally to the final que
 # Chapter 10 — The Image in the Face of Jesus Christ: Glory, Knowledge, and Present Reality
 
 
-## The image and glory as the cumulative close
+## The image and glory revealed in Christ
 
-This is the concluding chapter of Book I, not the first place where faith as *hypostasis* is introduced. Chapter 1 established that foundation; the intervening chapters have developed the Aletheia source's teaching on *pistis*, state, design, divine nature, Christ's person and work, redemption, righteousness, heirship, and oneness. The present chapter gathers the image/light/glory argument in 2 Corinthians 4:1–6 and asks how the light of the knowledge of God's glory in the face of Jesus Christ illuminates the cumulative doctrine.
+Throughout the argument of Scripture, image, glory, sonship, and redemption converge in the person of Jesus Christ. Paul calls Him “the image of God” and directs the reader to the light of the knowledge of God's glory “in the face of Jesus Christ” (2 Corinthians 4:4, 6). The question is not simply what Christ teaches about God, but what His person reveals and what God has accomplished through Him.
 
-The conclusion holds accomplishment and representation together and does not postpone the foundation to Book II. The principal doctrinal positions established in Book I are these: Jesus fully represents who we are by Design; faith is our state by design; sonship and heirship belong to this identity; justification and redemption restore us to the designed state; and Matthew 5:48 with 1 John 4:17 affirms present identity. Book II takes up the distinct evidence inquiry from this foundation.
+The governing convictions remain joined: **Jesus represents who we are by Design**, and **faith is our state by design**. Humanity's image and likeness, the state of God's children, sonship and heirship, and the restoration accomplished through justification and redemption belong to one connected account. The evidence dimension of Hebrews 11:1 remains joined to its foundation and is developed further in Book II, *Faith Is Evidence*.
 
 ## The Ministry Must Not Handle the Word Deceitfully
 
