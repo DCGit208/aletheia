@@ -239,7 +239,7 @@ The next chapter must now develop the Aletheia source's *pistis* / credence / So
 
 ## Editorial proofing control — lexical sources
 
-The following online reference entries were consulted for this working pass: [Thayer's Greek Lexicon, ὑπόστασις (G5287), reproduced at BibleHub](https://biblehub.com/thayers/5287.htm); [BibleHub, Hebrews 11:1 lexicon](https://biblehub.com/lexicon/hebrews/11-1.htm); [Cambridge Greek Testament Commentary, Hebrews 11:1](https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/hebrews/11/1); and [Expositor's Greek Testament, Hebrews 11:1](https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/hebrews/11/1). These are initial research references, not a complete critical bibliography. Before final publication, verify the bibliographic editions and add any specialist sources actually consulted. Do not imply that a resource was consulted if it was not. Keep transparent which claims come from lexical references, which come from the wording and context of Hebrews, and which are the doctrinal synthesis developed here.
+The following online reference entries inform the lexical discussion: [Thayer's Greek Lexicon, ὑπόστασις (G5287), reproduced at BibleHub](https://biblehub.com/thayers/5287.htm); [BibleHub, Hebrews 11:1 lexicon](https://biblehub.com/lexicon/hebrews/11-1.htm); [Cambridge Greek Testament Commentary, Hebrews 11:1](https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/hebrews/11/1); and [Expositor's Greek Testament, Hebrews 11:1](https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/hebrews/11/1). These references are cited for their lexical and interpretive contributions. The distinction between lexical evidence, the wording and context of Hebrews, and the doctrinal synthesis developed in this book is maintained throughout.
 
 
 ---
@@ -249,7 +249,7 @@ The following online reference entries were consulted for this working pass: [Th
 
 ## 1. The question after the foundation
 
-The preceding chapter began with Hebrews 11:1 and the statement that faith is the *hypostasis* of things hoped for. It examined the lexical and contextual questions surrounding “substance,” “underlying reality,” “assurance,” and “confidence,” and stated the thesis developed in this book: faith as substance is to be understood in relation to the person's underlying nature and state.
+The preceding chapter began with Hebrews 11:1 and the statement that faith is the *hypostasis* of things hoped for. It examined the lexical and contextual questions surrounding “substance,” “underlying reality,” “assurance,” and “confidence,” establishing the foundation for understanding faith as substance in relation to the person's underlying nature and state.
 
 The next question is not whether the Aletheia leaflet uses the same Greek noun. It does not. The question is what the leaflet explicitly teaches about faith, and how that teaching relates to the foundation established from Hebrews 11:1.
 
@@ -400,7 +400,7 @@ The book's doctrinal formulation is that faith is not merely what the mind belie
 
 # Chapter 3 — ’Ĕlōhîm: Image, Likeness, and Human Design
 
-**Primary dependency:** Chapters 1–2 establish the *hypostasis* foundation and the Aletheia source's teaching that *pistis* / credence defines the state of God's children. This chapter develops the design and image/likeness material that follows in the source. The source's reading of *’ĕlōhîm* is preserved as the teaching's stated interpretation; no additional grammatical claim is silently substituted for it. The book's governing thesis is that Jesus fully represents who we are by Design. Genesis 1:26–28 is the design foundation; the complete representation argument is developed cumulatively through the connected Scripture set, not attributed to Genesis alone.
+The foundation of faith and the Aletheia teaching on *pistis* / credence now lead to the question of human design. The leaflet reads *’ĕlōhîm* in its stated interpretation and connects Genesis 1:26–28 with image, likeness, and humanity's true nature. This chapter follows that teaching and develops the design argument through the wider scriptural witness. The governing thesis remains that Jesus fully represents who we are by Design.
 
 ---
 
@@ -523,7 +523,7 @@ Finally, investigate the thesis **“Jesus represents who we are by Design”** 
 
 # Chapter 4 — Psalm 82 with John 10: “Ye Are Gods” and the Judgment Context
 
-**Source-preservation note:** This chapter preserves the existing app-companion argument and its paired reading of Psalm 82:6–7 and John 10:30–38. Its controlling instruction is not to detach the assertion “Ye are gods” from the judgment context, nor to use the judgment context to erase the assertion.
+Psalm 82:6–7 and John 10:30–38 must be read together. The declaration “Ye are gods” is considered within the psalm's judgment setting and Jesus' use of that passage. The judgment context does not erase the declaration, and the declaration must not be detached from its context.
 
 ---
 
@@ -588,7 +588,7 @@ Then read John 10:30–38 as one exchange. Record the accusation, Jesus' appeal 
 
 # Chapter 5 — True Nature: Partakers of the Divine Nature
 
-**Source-preservation note:** This chapter follows the existing app-companion exposition of 2 Peter 1:2–8. It preserves the source's “back on course” formulation while distinguishing that conceptual gloss from an exhaustive lexical definition.
+The Aletheia teaching connects true nature with 2 Peter 1:2–8. Peter's language about the promises, participation in the divine nature, escape from corruption, and the qualities to be added to faith develops that connection. The source's phrase “back on course” is retained as a doctrinal explanation, not presented as an exhaustive lexical definition.
 
 ## The state and design argument develops
 
@@ -647,7 +647,7 @@ Then connect Psalm 82:5, Romans 3:23–24, and the Aletheia source's “back on 
 
 # Chapter 6 — Why Did Jesus Come? Glory, Deviation, and Representation
 
-**Source-preservation note:** This chapter follows the existing app-companion exposition of Romans 3:21–26 and 1 Corinthians 11:7. The teaching's interpretation of “come short of the glory” as deviation from true nature is preserved as the Aletheia source's gloss and connected to the book's wider design/restoration thesis.
+Romans 3:21–26 and 1 Corinthians 11:7 bring the question of glory, righteousness, and Christ's work into the design argument. The Aletheia source interprets “come short of the glory” as deviation from true nature. This chapter develops that source teaching in relation to humanity's design and its restoration in Christ.
 
 ## From design and divine nature to the question of Christ
 
@@ -724,7 +724,7 @@ Then distinguish three things in your answer: the explicit wording of the passag
 
 # Chapter 7 — Δικαιόω (*dikaioō*): Redemption, Free Justification, and Righteousness in Christ
 
-**Source-preservation note:** This chapter retains the two connected movements in the existing app companion: free justification through redemption, and the present-tense statement of 2 Corinthians 5:21. It preserves the Aletheia leaflet's printed glosses and records the additional formulation developed here separately; it does not silently substitute one for the other.
+The Aletheia teaching brings together free justification through redemption and the present-tense declaration of 2 Corinthians 5:21. This chapter retains the leaflet's printed lexical glosses and develops their implications for righteousness and restoration to design.
 
 ## The response to deviation: redemption and righteousness
 
@@ -1015,7 +1015,7 @@ That line is the book's synthesis of the source's Scripture cluster. John 17 is 
 
 ## The image and glory as the cumulative close
 
-This is the final chapter in the current ten-chapter Book I sequence, not the first place where faith as *hypostasis* is introduced. Chapter 1 established that foundation; the intervening chapters have developed the Aletheia source's teaching on *pistis*, state, design, divine nature, Christ's person and work, redemption, righteousness, heirship, and oneness. The present chapter gathers the image/light/glory argument in 2 Corinthians 4:1–6 and asks how the light of the knowledge of God's glory in the face of Jesus Christ illuminates the cumulative doctrine.
+This is the concluding chapter of Book I, not the first place where faith as *hypostasis* is introduced. Chapter 1 established that foundation; the intervening chapters have developed the Aletheia source's teaching on *pistis*, state, design, divine nature, Christ's person and work, redemption, righteousness, heirship, and oneness. The present chapter gathers the image/light/glory argument in 2 Corinthians 4:1–6 and asks how the light of the knowledge of God's glory in the face of Jesus Christ illuminates the cumulative doctrine.
 
 The close must hold accomplishment and representation together. It must not postpone the foundation to Book II. The book's principal doctrinal directions have now been supplied and incorporated: Jesus fully represents who we are by Design; faith is our state by design; sonship and heirship belong to this identity; justification and redemption restore us to the designed state; and Matthew 5:48 with 1 John 4:17 affirms present identity. The conclusion should gather this argument and hand forward the distinct evidence inquiry of Book II.
 
