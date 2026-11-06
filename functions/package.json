@@ -7,7 +7,7 @@
     "test": "npm run build && node --test lib/protected-content-access.test.js"
   },
   "engines": {
-    "node": "20"
+    "node": "22"
   },
   "dependencies": {
     "firebase-admin": "^13.5.0",
