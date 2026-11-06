@@ -1,14 +1,45 @@
 # 12 — Book I Publication-Readiness Audit
 
 **Book:** *The Doctrine of Faith* — Book I  
-**Audit date:** 2026-11-05  
-**Current manuscript:** `11_THE_DOCTRINE_OF_FAITH_BOOK_I_CONTINUOUS_WORKING_MANUSCRIPT.md`  
+**Audit date:** 2026-11-06  
+**Current manuscript:** `14_THE_DOCTRINE_OF_FAITH_BOOK_I_PUBLICATION_MANUSCRIPT.md`  
 **Controlling source:** *Aletheia Libraries 1* (2015), “Faith toward God”  
-**Status:** Final-audit phase opened; publication readiness not yet certified.
+**Status:** Phase 1 technical publication verified on the 2026-11-06 deployment; later manuscript and reader-sync commits are being redeployed. Phase 2 has undergone substantive editorial, Scripture, and lexical work; final proof remains open. Publication readiness is not yet certified.
 
 ---
 
-## 1. Owner doctrinal decisions
+## Current verified position — 2026-11-06
+
+This section supersedes earlier status snapshots below wherever they conflict.
+
+### Phase 1 — Technical publication
+
+- The Firebase Functions runtime was upgraded from decommissioned Node.js 20 to supported Node.js 22.
+- Firebase Functions deployment completed successfully for codebase `aletheia`; the deployment log confirms `getProtectedContent(us-central1)` was updated successfully.
+- GitHub Actions run `42199497512` completed successfully. On that run, the following passed: canonical manuscript parity, Doctrine of Faith publication integrity, public Firebase configuration validation, Hosting build, protected-content function build/tests, deployment of `getProtectedContent`, anonymous preview smoke test, deployment of `app.aletheiaworld.org`, and live catalogue page/title/original-cover smoke test.
+- The anonymous callable test returned Chapter 1 only. The live catalogue smoke test confirmed the book page, title, and existing `doctrine-of-faith-seal.png` cover.
+- The repository now has a second live smoke test for the entitled reader path through the unit test suite: an ordinary visitor receives only `ch-faith-1`; an entitled reader receives all ten chapter records. A real signed-in entitled account has not yet been used for an end-to-end live test.
+- Subsequent editorial updates after run `42199497512` have triggered a new deployment. The latest run must complete before the latest manuscript revision can be called live.
+
+### Phase 2 — Manuscript
+
+- Document 14 is the controlled ten-chapter publication master. Document 11 is marked as a superseded working copy.
+- The ten chapter bodies in `src/lib/content/companion-faith.ts` have been synchronized exactly to document 14. A direct comparison confirmed exact character-for-character parity across all ten chapters; Chapter 10 excludes bibliography/back matter from the reader body.
+- `scripts/check-doctrine-of-faith-publication.mjs` now enforces exact chapter-by-chapter parity, ten chapter IDs/titles, catalogue status, entitled access, one preview chapter, and preservation of the legacy archive.
+- The protected-content tests now explicitly verify that an ordinary visitor receives only Chapter 1 and an entitled reader receives all ten chapter records.
+- The prose pass removed internal production notes and converted chapter charges into reader-facing study questions. The Matthew 5:48 discussion was aligned with its immediate context; Chapter 3's *’ĕlōhîm* wording and source attribution were clarified; Chapters 6–7's internal charges were converted into teaching questions.
+- The 2015 Aletheia leaflet remains the controlling doctrinal source. The supplementary Dake introduction remains a method reference only.
+- The quotation register now records 42 targeted Scripture checks and original-language entries for *hypostasis*, *pistis*, *dikaioō*, *dikaiosynē*, *apolutrōsis*, *spoudē*, and *’ĕlōhîm*. Hebrew H430 and Greek G4102, G5287, G1343, G1344, and G629 have been checked against lexical/interlinear references.
+- The complete line-by-line check of every quotation/reference/punctuation mark against the selected editions, and final typeset proof, remain open. The manuscript is not yet a final designed proof.
+
+### Remaining gates
+
+1. Complete the final chapter-level Scripture and lexical proof against the actual manuscript text.
+2. Complete the latest deployment and verify the updated live reader.
+3. Test a real entitled account end-to-end to confirm access to all ten chapters.
+4. Complete Phase 3 production and Phase 4 final approval/publication.
+
+## 1. Author doctrinal decisions
 
 | Direction | Audit status | Manuscript location |
 |---|---|---|
@@ -20,14 +51,14 @@
 | The Father's will and pleasure is for sons to operate in their state | Incorporated with Ephesians 1:5, Matthew 3:17 and Hebrews 11:2, 5–6 | Ch. 2 |
 | *Dikaioō* from Romans 3:24; complete supplied G1344 entry | Incorporated; Strong's and Thayer's components now distinguished | Ch. 7 |
 | Romans 3:23–24 quoted in full as one movement | Incorporated | Ch. 6 and 7 |
-| Sin as falling short of designed glory/state; justification as restoration | Incorporated as owner's doctrinal interpretation | Ch. 6–7 |
+| Sin as falling short of designed glory/state; justification as restoration | Incorporated as author's doctrinal interpretation | Ch. 6–7 |
 | 1 Corinthians 15:41 and glory/identity reasoning | Incorporated with immediate context distinguished | Ch. 7 |
 | Genesis 1:27 Living Bible quotation | Verified and incorporated | Ch. 3, 7 |
 | *Apolutrōsis*: complete ransom and restoration to original design | Incorporated; lexical gloss distinguished from full doctrinal interpretation | Ch. 7 |
 | Mark 11:22 underscores design identity and operating in the state of God | Incorporated; Mark 11:20–25 context and Greek genitive retained | Ch. 1, 3 |
 | Matthew 5:48 and 1 John 4:17 as identity affirmations | Incorporated with love/enemies and love/confidence contexts | Ch. 3, 8 |
 
-No further owner doctrinal answer is presently required for these directions. The remaining items below are scholarly, editorial, rights, or production checks.
+No further author doctrinal answer is presently required for these directions. The remaining items below are scholarly, editorial, rights, or production checks.
 
 ## 2. Source and Scripture audit
 
@@ -35,13 +66,13 @@ No further owner doctrinal answer is presently required for these directions. Th
 
 - The 2015 leaflet is the controlling doctrinal source for this book.
 - Its teaching on *pistis* / credence, state of children of God, true nature, adoption as sons, image and likeness, divine nature, glory, free justification, redemption, righteousness, heirship, oneness, and the image/glory in Christ has been mapped into the ten chapters.
-- The original leaflet's wording and questions are preserved as source evidence. The Hebrews 1:8 question is abandoned by owner direction; this does not remove Hebrews 1:8 from Scripture or from the Son's biblical portrait.
-- The distinction among leaflet wording, Scripture wording, and owner formulations is an attribution control, not a qualification of the leaflet's doctrinal authority.
+- The original leaflet's wording and questions are preserved as source evidence. The Hebrews 1:8 question is abandoned by author direction; this does not remove Hebrews 1:8 from Scripture or from the Son's biblical portrait.
+- The distinction among leaflet wording, Scripture wording, and authorial formulations is an attribution control, not a qualification of the leaflet's doctrinal authority.
 
 ### 2.2 Scripture quotation proof
 
 **Verified/checked in the current revision:**
-- Genesis 1:27 — Living Bible (TLB) full wording supplied by the owner, checked against Bible Gateway's TLB display.
+- Genesis 1:27 — Living Bible (TLB) full wording supplied by the author, checked against Bible Gateway's TLB display.
 - Romans 3:23–24 — full KJV quotation included as a continuous movement.
 - 1 Corinthians 15:41 — full KJV quotation included.
 - Matthew 3:17, Ephesians 1:5, Hebrews 11:2, 5–6 — full KJV quotations added in Chapter 2.
@@ -70,7 +101,7 @@ No further owner doctrinal answer is presently required for these directions. Th
 | *Pistis* (G4102) | Leaflet's gloss “credence” and state-of-children teaching integrated | Verify all lexical statements and ensure no later chapter accidentally treats *pistis* as a simple synonym for *hypostasis* |
 | *Dikaioō* (G1344) | Romans 3:24's form δικαιούμενοι (*dikaioumenoi*) is identified as present passive participle, nominative masculine plural; Strong's core gloss/AV usage and Thayer's three extended definitions are attributed separately, including Thayer's caution that the “make righteous” sense is extremely rare, if not altogether doubtful | Final edition/citation proof and contextual study of the participle in Romans 3:21–26 |
 | *Dikaiosynē* | Leaflet's explanation and “back on course” conceptual wording preserved | Complete lexical/contextual verification; keep source formulation distinct from any dictionary gloss |
-| *Apolutrōsis* (G629) | Strong's derivation from G575 and G3083, “ransom in full”/“riddance,” and Thayer's “release effected by payment of ransom” checked | Verify final citation details and ensure restoration to original design is presented as the owner's doctrinal interpretation from the whole Scripture framework, not as a literal gloss of every Greek component |
+| *Apolutrōsis* (G629) | Strong's derivation from G575 and G3083, “ransom in full”/“riddance,” and Thayer's “release effected by payment of ransom” checked | Verify final citation details and ensure restoration to original design is presented as the author's doctrinal interpretation from the whole Scripture framework, not as a literal gloss of every Greek component |
 
 Initial references consulted:
 - Strong's G1344 / Thayer's definitions: https://kingjamesbibledictionary.com/StrongsNo/G1344/Justified and https://www.studylight.org/lexicons/eng/greek/1344.html
@@ -88,7 +119,7 @@ The supplied Dake Study Bible introduction is retained as a supplementary guide 
 **Completed:**
 - Ten coordinated chapter manuscripts exist.
 - A continuous reading manuscript has been assembled in document 11.
-- Automated integrity checks confirmed ten chapter headings and the presence of the principal owner-directed passages and formulations.
+- Automated integrity checks confirmed ten chapter headings and the presence of the principal author-directed passages and formulations.
 - The continuous copy was refreshed after the latest edits to Chapters 1, 5 and 7.
 - The current continuous copy contains no stale open Hebrews 1:8 inference, no unresolved owner formulation for *dikaioō*, and no “developing representation thesis” wording.
 
@@ -113,7 +144,7 @@ The following have not yet been completed as publication artifacts:
 - Final page design, trim size, typography, headers/footers, pagination and print/eBook export.
 - Cover design, spine and back-cover copy.
 - ISBN/imprint/retail metadata and printer/distributor specifications, if required.
-- Final owner proof of the designed pages.
+- Final author proof of the designed pages.
 
 ## 6. Publication-readiness decision
 
@@ -143,7 +174,7 @@ A first editorial pass has now been completed across all ten chapter manuscripts
 
 ### Integrity checks after the editorial pass
 
-The refreshed continuous manuscript is 133,672 characters and contains ten chapter headings. Automated checks confirmed the presence of the principal owner-directed content: representation, faith as designed state, natural heirship, Matthew 3:17, Ephesians 1:5, Hebrews 11:2, 5–6, 2 Peter 1:4, Mark 11:22, Matthew 5:48, 1 John 4:17, Romans 3:23–24, 1 Corinthians 15:41, Genesis 1:27 TLB, the G1344 morphology and Thayer qualification, the G629 ransom/restoration explanation, and the abandoned Hebrews 1:8 question. The check found no stale open Hebrews 1:8 decision or provisional “developing representation thesis” language in the continuous copy.
+The refreshed continuous manuscript is 133,672 characters and contains ten chapter headings. Automated checks confirmed the presence of the principal author-directed content: representation, faith as designed state, natural heirship, Matthew 3:17, Ephesians 1:5, Hebrews 11:2, 5–6, 2 Peter 1:4, Mark 11:22, Matthew 5:48, 1 John 4:17, Romans 3:23–24, 1 Corinthians 15:41, Genesis 1:27 TLB, the G1344 morphology and Thayer qualification, the G629 ransom/restoration explanation, and the abandoned Hebrews 1:8 question. The check found no stale open Hebrews 1:8 decision or provisional “developing representation thesis” language in the continuous copy.
 
 **Scope limitation:** This is the first integrated editorial pass, not the final line-by-line copy edit. Automated checks confirm structure and required content, not every quotation, grammatical detail, theological nuance, footnote, or production element.
 
@@ -191,9 +222,9 @@ Created document 13, SCRIPTURE_QUOTATION_PROOF_REGISTER.md, to track substantial
 Chapter 7 received an additional prose refinement to remove overly conversational phrasing and clarify the relation among the leaflet's printed gloss, free justification, grace, faith/credence, and the complete ransom. The continuous manuscript 11 was refreshed after this edit. The revised copy remains a working manuscript; the complete quotation proof and second full-manuscript copy edit remain open.
 
 
-## 11. Aletheia World publication target — owner instruction, 2026-11-06
+## 11. Aletheia World publication target — author instruction, 2026-11-06
 
-The owner has confirmed that the eBook is to be published through **app.aletheiaworld.org**, not Amazon KDP. The owner has also confirmed that the existing *The Doctrine of Faith* artwork is already present on Aletheia World.
+The author has confirmed that the eBook is to be published through **app.aletheiaworld.org**, not Amazon KDP. The owner has also confirmed that the existing *The Doctrine of Faith* artwork is already present on Aletheia World.
 
 Production controls:
 - Preserve the existing Aletheia World book record and its artwork. Do not create a duplicate title, redesign the cover, or replace the existing artwork as part of this manuscript pass.
@@ -219,9 +250,9 @@ Repository inspection identified the existing catalogue record for `book-doctrin
 
 The existing app reading content is separately defined in `src/lib/content/companion-faith.ts` as `faithCompanionChapters`, under the same book ID. The new canonical Book I continuous manuscript contains **10 chapters**. This is a material version/content mismatch, not a cover problem.
 
-**Required migration decision and implementation:** preserve the existing book ID, cover artwork, author/publisher identity, and live companion source. Prepare the new ten-chapter Book I as a distinct canonical content source and explicitly map it to the intended reader/catalogue release only after the manuscript is proofed. Reconcile the current eight-chapter companion relationship, product description, chapter count, preview chapter, and protected-content index together. Do not simply change `chapterCount` from 8 to 10 or overwrite `companion-faith.ts`; that would risk a catalogue/reader mismatch and loss of the existing app content.
+**Required migration decision and implementation:** preserve the existing book ID, cover artwork, author/publisher identity, and live companion source. Prepare the new ten-chapter Book I as a distinct canonical content source and explicitly map it to the intended reader/catalogue release only after the manuscript is proofed. Reconcile the former eight-chapter companion relationship, product description, chapter count, preview chapter, and protected-content index together. Do not simply change `chapterCount` from 8 to 10 or overwrite `companion-faith.ts`; that would risk a catalogue/reader mismatch and loss of the existing app content.
 
-**Current verified state:** the existing Aletheia World catalogue entry is already marked published and already points to the existing cover asset. The new ten-chapter manuscript has not yet been deployed to that entry. The final manuscript and reader migration must be completed before the listing can accurately represent the new Book I edition.
+**Historical snapshot superseded:** the catalogue entry still uses the existing book ID and cover, but its chapter count and protected reader payload have since been updated to ten. A successful deployment and live smoke test were observed on 2026-11-06; later manuscript edits are being redeployed.
 
 
 ## 7. Legacy companion preservation and migration control
@@ -258,7 +289,7 @@ A repository integrity test was added at `scripts/check-doctrine-of-faith-public
 
 A further deployment gap was identified: the callable `getProtectedContent` function reads `functions/src/protected-content-data.json`, while the existing Hosting workflow deployed only Firebase Hosting. A Hosting deployment alone therefore would not update the server-side chapter payload used by the entitled reader. The workflow now also installs Functions dependencies, runs the Functions build (which regenerates protected content from the canonical source), authenticates using the existing Firebase service-account secret, and deploys only `functions:getProtectedContent`.
 
-**Important:** These workflow changes are committed, but successful GitHub Actions execution and production deployment have not yet been observed. The live book route could not be verified from this environment. Do not treat source-code commits as deployment confirmation.
+**Historical note superseded:** a successful GitHub Actions run and production deployment were subsequently observed on 2026-11-06. See the current verified position at the top of this audit.
 
 ## 9. Reader-content deployment correction — 2026-11-06
 
@@ -274,7 +305,7 @@ A deployment review found that the existing app workflow deployed Firebase Hosti
 
 The function export was confirmed in `functions/src/protected-content.ts`, and its generated chapter manifest is produced by `scripts/generate-protected-content.cjs`. The access-control tests explicitly cover preview-only access, verified entitlements, administrator access, and denial of unauthorized full-content access.
 
-**Verification boundary:** The workflow configuration is committed, but no successful GitHub Actions execution or live Firebase deployment has yet been verified in this audit. Production availability of all ten chapters remains unconfirmed until the workflow completes successfully and the entitled-reader route is tested with an entitled account. The publication remains **NOT YET PUBLICATION-READY** pending the editorial, Scripture/lexical, production, and owner-proof gates recorded above.
+**Verification boundary:** the anonymous preview and live catalogue page have passed automated production smoke tests. A real signed-in entitled-reader test remains outstanding; the latest manuscript update is also awaiting its current deployment run. The publication remains **NOT YET PUBLICATION-READY** pending the editorial, Scripture/lexical, production, and owner-proof gates recorded above.
 
 ## 14. Authorial-voice editorial pass — 2026-11-06
 
