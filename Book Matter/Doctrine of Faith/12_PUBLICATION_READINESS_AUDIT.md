@@ -332,3 +332,20 @@ The function export was confirmed in `functions/src/protected-content.ts`, and i
 A focused editorial pass was completed on the ten-chapter publication manuscript (document 14). The pass removed manuscript-internal production language that repeatedly referred to the doctrinal positions as “the owner's thesis,” “the owner's direction,” or similar formulations. Those references have been recast in the voice of the book itself—for example, as the governing doctrinal position, the thesis developed in this book, or the doctrinal synthesis developed here.
 
 A post-edit search of the complete manuscript found no remaining occurrences of “owner.” This is a limited authorial-voice and presentation correction, not a full copy edit. It does not certify argument continuity, quotation accuracy, lexical claims, bibliography, or designed-page proof. Those gates remain open, and the manuscript remains **NOT YET PUBLICATION-READY**.
+
+
+---
+
+## 2026-11-06 — Second editorial correction pass and deployment status
+
+The prior status snapshot above predates the latest front-matter and editorial corrections and must be read with this addendum.
+
+- Hosting deployment run **113** completed successfully on commit `4ee5976ad4137e5e8bbecffd7ccf0b7860a02841`. That confirms deployment of the earlier front-matter and Chapter 10 corrections.
+- A subsequent editorial pass identified two additional defects in the controlled manuscript: Chapter 1 exposed internal proofing workflow under “Editorial proofing control — lexical sources,” and Chapter 9 retained the production label “Forward link.”
+- Chapter 1 has now been rewritten to present its foundation conclusions as reader-facing exposition and reflection questions. The lexical reference links remain in the bibliography rather than appearing as an editorial proofing instruction within the chapter.
+- Chapter 9's “Forward link” label has been replaced by a natural transition into Chapter 10.
+- Both changes have been synchronized to `src/lib/content/companion-faith.ts`.
+
+**Deployment boundary:** run 113 does not include these second-pass changes, which were committed after it. A new Hosting run and the exact manuscript-to-reader parity check are required. Do not report these corrections as live until that run succeeds.
+
+**Open gates remain:** full chapter-by-chapter developmental and line/copy edit; complete quotation and reference proof; bibliography and attribution verification; decision and preparation of a glossary; professional typesetting; page-by-page designed proof; real signed-in entitled-reader end-to-end test; and author approval. The book remains **NOT PUBLICATION-READY**.
