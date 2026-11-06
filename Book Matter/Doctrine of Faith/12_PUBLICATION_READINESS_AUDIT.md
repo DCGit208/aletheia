@@ -23,6 +23,27 @@ This section supersedes earlier status snapshots below wherever they conflict.
 
 ### Phase 2 — Manuscript
 
+### Source-coverage map — 2015 “Faith toward God” teaching
+
+Book I is the treatment of the **Faith toward God** first principle; it is not intended to reproduce every other first principle in Hebrews 6:1–2 as separate subject matter. Within that scope, the leaflet's relevant teachings have substantive chapter locations:
+
+| 2015 Aletheia teaching / source passage | Book I treatment |
+|---|---|
+| *Pistis* / credence; faith defines the state of God's children | Chapters 1–2 |
+| True nature, acceptance/approval, and design from creation | Chapters 2–3 |
+| Adoption as sons, the Father's pleasure, and natural heirship (Galatians 4:5–7; Romans 8:14–17; Ephesians 1:5) | Chapters 2 and 8 |
+| *’Ĕlōhîm*, image and likeness (Genesis 1:26–27) | Chapter 3 |
+| “Ye are gods” in Psalm 82 and Jesus' use of the passage in John 10 | Chapter 4 |
+| Partakers of divine nature (2 Peter 1:4) | Chapter 5 |
+| Coming short of glory, free justification, and the restoration/design argument (Romans 3:23–24; 1 Corinthians 11:7) | Chapter 6 |
+| *Dikaioō*, *dikaiosynē*, *apolutrōsis*, and 2 Corinthians 5:21 | Chapter 7 |
+| The Son, heirship, and Hebrews 1; the former Hebrews 1:8 question remains abandoned | Chapter 8 |
+| Oneness and glory (John 17:20–23) | Chapter 9 |
+| The image of God and the glory in the face of Jesus Christ (2 Corinthians 4:4, 6) | Chapter 10 |
+
+The leaflet's other First Principles—baptisms, laying on of hands, resurrection of the dead, and eternal judgment—remain outside this book's subject scope. Their omission from Book I is a scope decision, not a claim that the leaflet does not teach them.
+
+
 - Document 14 is the controlled ten-chapter publication master. Document 11 is marked as a superseded working copy.
 - The ten chapter bodies in `src/lib/content/companion-faith.ts` have been synchronized exactly to document 14. A direct comparison confirmed exact character-for-character parity across all ten chapters; Chapter 10 excludes bibliography/back matter from the reader body.
 - `scripts/check-doctrine-of-faith-publication.mjs` now enforces exact chapter-by-chapter parity, ten chapter IDs/titles, catalogue status, entitled access, one preview chapter, and preservation of the legacy archive.
