@@ -51,7 +51,7 @@ The leaflet's other First Principles—baptisms, laying on of hands, resurrectio
 - The prose pass removed internal production notes and converted chapter charges into reader-facing study questions. The Matthew 5:48 discussion was aligned with its immediate context; Chapter 3's *’ĕlōhîm* wording and source attribution were clarified; Chapters 6–7's internal charges were converted into teaching questions.
 - The 2015 Aletheia leaflet remains the controlling doctrinal source. The supplementary Dake introduction remains a method reference only.
 - The quotation register now contains 49 chapter-level Bible passage entries and one Greek-text entry marked targeted checked, plus eight original-language entries covering *’ĕlōhîm*, *hypostasis*, *pistis*, *dikaioō*, *dikaiosynē*, *apolutrōsis*, and *spoudē*. Hebrew H430 and Greek G4102, G5287, G1343, G1344, G629, G4710, and G4704 have been checked against lexical/interlinear references.
-- The manuscript-level Scripture and original-language audit is complete for the 45 registered passage entries and eight language entries. The prose/editorial pass has removed internal production language, retained teaching questions, and checked chapter continuity and source coverage. Final proof of the designed pages remains a Phase 3 task; it must be checked against this controlled manuscript.
+- The manuscript-level Scripture and original-language audit is complete for all 49 registered Bible passage entries, the Greek-text entry, and eight language entries. The prose/editorial pass has removed internal production language, retained teaching questions, and checked chapter continuity and source coverage. Final proof of the designed pages remains a Phase 3 task; it must be checked against this controlled manuscript.
 
 ### Remaining gates
 
@@ -101,7 +101,7 @@ No further author doctrinal answer is presently required for these directions. T
 - Mark 11:22 and Matthew 5:43–48 — quoted with surrounding context developed.
 - 1 John 4:17 — quoted with its immediate context of perfected love and confidence retained.
 
-**Still required:** A line-by-line proof of every quotation, verse range, punctuation mark, translation label, and reference in all ten chapters against the chosen Bible editions. The list above is a targeted verification record, not a claim that every quotation has been proofed.
+**Manuscript-level status:** All 49 Bible passage entries and the Greek-text entry in document 13 are marked targeted checked against the selected KJV/TLB text or Greek interlinear. The eight original-language entries are also checked against the cited lexical/interlinear references. The remaining check is the final designed-page proof in Phase 3, where every quotation, verse range, punctuation mark, translation label, and reference must be compared again with this approved manuscript.
 
 ### 2.3 Translation attribution and permissions
 
