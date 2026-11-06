@@ -374,3 +374,14 @@ Chapters 6 and 8 have received a focused depth review but still require the comp
 - The ten reader chapter bodies have again been synchronized to manuscript 14. A direct comparison of the current repository files confirms ten chapters and exact body-for-body parity. The latest automated workflow remains pending and must still pass.
 
 These changes improve the reader experience and publication apparatus. They do not close the complete quotation proof, specialist lexical review, full developmental and copy edit, professional typesetting, page-by-page proof, signed-in entitled-reader test, or author approval. The book remains **NOT FINAL**.
+
+
+## Production work log — 6 November 2026, source placement and early-chapter line edit
+
+- Chapter 3's administrative/source-provenance material about the leaflet's further-reading titles and request instructions has been moved to a back-matter source note. The exact titles and the leaflet's description of *True Nature of God* have been preserved; they no longer interrupt the Genesis exposition.
+- The Genesis 1:27 TLB attribution note has also been moved to the source notes. The quotation itself remains in Chapter 3, with its translation correctly identified.
+- Chapter 3's choppy fragments and internal cross-reference wording were refined; the chapter now moves from the Genesis wording into the related Scripture passages without telling readers to “preserve” editorial notes.
+- Chapter 2 received a focused line edit to remove repeated statements, clarify the relationship between Hebrews 11:1 and the leaflet's *pistis* teaching, and keep the Galatians 4, Romans 8, and Ephesians 1 sequences readable without diluting the source's state/Sonship doctrine.
+- The reader payload was synchronized again. A direct repository comparison confirms all ten chapter bodies match manuscript 14 exactly; no “Forward link,” “Transition to Chapter,” or “Editorial proofing control” labels remain in the controlled manuscript.
+
+The current Hosting workflow for the latest synchronized commit is still pending. The current repository parity is confirmed by direct comparison, but the new live deployment must be confirmed separately. Full copy edit, complete Scripture proof, specialist lexical review, typesetting, page-by-page proof, live entitled-reader test, and final author approval remain open.
