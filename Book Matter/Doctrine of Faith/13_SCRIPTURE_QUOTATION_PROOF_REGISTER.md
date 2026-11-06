@@ -15,7 +15,8 @@
 
 | Chapter | Passage / text | Translation or source | Status | Proofing note |
 |---|---|---|---|---|
-| 1 | Hebrews 10:34 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; preserve “better and an enduring substance.” |\n| 1 | Hebrews 11:1 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; final chapter/layout proof remains. | Verify the full KJV line and punctuation; Greek text separately checked against the interlinear text. |
+| 1 | Hebrews 10:34 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; preserve “better and an enduring substance.” |
+| 1 | Hebrews 11:1 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; final chapter/layout proof remains. | Verify the full KJV line and punctuation; Greek text separately checked against the interlinear text. |
 | 1 | Hebrews 11:1 Greek | Greek NT | Targeted checked | Compare with SBLGNT/Westcott-Hort text; preserve word order and accents. |
 | 1 | Mark 11:22 | KJV | Targeted checked | Verified as part of Mark 11:20–25. |
 | 2 | Hebrews 6:1 | KJV | Targeted checked | Full KJV wording compared with Bible Gateway; preserve “faith toward God.” | Check full verse and punctuation. |
@@ -25,13 +26,16 @@
 | 2 | Matthew 3:17 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check the Father's declaration over the Son. |
 | 2 | Hebrews 11:2 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check exact wording. |
 | 2 | Hebrews 11:5 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check Enoch's testimony and punctuation. |
-| 2 | Hebrews 11:6 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check full verse. |\n| 2 | Hebrews 11:7–13 | KJV | Targeted checked | Hebrews 11:7–13 compared with Bible Gateway; preserve Noah's heirship and the faith/promise testimony in verse 13. |
-| 3 | Genesis 1:26–28 | KJV | Targeted checked | Image, likeness, blessing, fruitfulness, and dominion checked. |\n| 3 | Genesis 1:26 | Hebrew אֱלֹהִים (*’ĕlōhîm*, H430) | Targeted checked | Strong's/BDB form and morphology checked: masculine plural noun. The Aletheia leaflet's interpretation “plural: Trinity” remains the controlling doctrinal reading. |
+| 2 | Hebrews 11:6 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check full verse. |
+| 2 | Hebrews 11:7–13 | KJV | Targeted checked | Hebrews 11:7–13 compared with Bible Gateway; preserve Noah's heirship and the faith/promise testimony in verse 13. |
+| 3 | Genesis 1:26–28 | KJV | Targeted checked | Image, likeness, blessing, fruitfulness, and dominion checked. |
+| 3 | Genesis 1:26 | Hebrew אֱלֹהִים (*’ĕlōhîm*, H430) | Targeted checked | Strong's/BDB form and morphology checked: masculine plural noun. The Aletheia leaflet's interpretation “plural: Trinity” remains the controlling doctrinal reading. |
 | 3 | Genesis 1:27 | TLB | Targeted checked | Full wording rechecked against the Living Bible text; required TLB copyright credit appears on the manuscript copyright page. |
 | 3 | 1 John 4:17 | KJV | Targeted checked | Full verse checked; retain love/perfected-confidence context. |
 | 3 | Psalm 82:6 | KJV | Targeted checked | Full psalm checked with verses 1–8. |
 | 3 | Mark 11:20–25 | KJV | Targeted checked | Fig tree, faith, speech, prayer, and forgiveness context checked. |
-| 3 | Matthew 5:43–48 | KJV | Targeted checked | Love/enemies context and perfection command checked together. |\n| 3 | John 14:12 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; preserve the link among belief, Jesus' works, greater works, and His going to the Father. |
+| 3 | Matthew 5:43–48 | KJV | Targeted checked | Love/enemies context and perfection command checked together. |
+| 3 | John 14:12 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; preserve the link among belief, Jesus' works, greater works, and His going to the Father. |
 | 4 | Psalm 82:1–8 | KJV | Targeted checked | Full psalm checked; preserve verses 6–7 together with the judgment setting. |
 | 4 | John 10:30–38 | KJV | Targeted checked | Accusation, Psalm 82 quotation, “scripture cannot be broken,” and works/indwelling argument checked. |
 | 5 | 2 Peter 1:2–8 | KJV | Targeted checked | Promises, partaking, escape from corruption, diligence, qualities, and fruitfulness checked. |
@@ -61,9 +65,12 @@
 
 | Reference | Form | Check required |
 |---|---|---|
-| Hebrews 11:1 | ὑπόστασις (*hypostasis*, G5287) | Targeted lexical check completed against Greek interlinear and Thayer/Strong's entries; the range of substructure/foundation, actual existence/substance, nature, and confidence/assurance is recorded. The book's settled doctrinal foundation remains faith as substance and underlying state. Final typeset proof remains. |\n| Hebrews 6:1 | πίστεως (*pisteōs*, G4102) | Genitive singular feminine noun; the phrase is πίστεως ἐπὶ Θεόν (“faith toward God”). Greek text and morphology checked against the interlinear. The leaflet's “faith toward God” teaching is preserved. |\n| Chapter 2 / source term | πίστις (*pistis*, G4102) | Strong's and Thayer's entries checked: feminine noun; Strong's includes “persuasion, i.e. credence.” The leaflet's definition and doctrinal use remain controlling. |
+| Hebrews 11:1 | ὑπόστασις (*hypostasis*, G5287) | Targeted lexical check completed against Greek interlinear and Thayer/Strong's entries; the range of substructure/foundation, actual existence/substance, nature, and confidence/assurance is recorded. The book's settled doctrinal foundation remains faith as substance and underlying state. Final typeset proof remains. |
+| Hebrews 6:1 | πίστεως (*pisteōs*, G4102) | Genitive singular feminine noun; the phrase is πίστεως ἐπὶ Θεόν (“faith toward God”). Greek text and morphology checked against the interlinear. The leaflet's “faith toward God” teaching is preserved. |
+| Chapter 2 / source term | πίστις (*pistis*, G4102) | Strong's and Thayer's entries checked: feminine noun; Strong's includes “persuasion, i.e. credence.” The leaflet's definition and doctrinal use remain controlling. |
 | Mark 11:22 | πίστιν θεοῦ (*pistin theou*, G4102) | Accusative feminine singular noun + genitive masculine singular noun; wording and morphology checked in the Greek interlinear. Lexical commentary records “faith in God” as an object-genitive reading. The book's settled doctrinal interpretation is retained without presenting it as a word-for-word morphology gloss. Final typeset proof remains. |
-| Romans 3:24 | δικαιούμενοι (*dikaioumenoi*, G1344) | Present passive participle, nominative masculine plural; morphology checked against the Greek interlinear and Strong's/Thayer's G1344 entries. Final typeset proof remains. |\n| 2 Corinthians 5:21 | δικαιοσύνη (*dikaiosynē*, G1343) | Nominative singular feminine noun; morphology checked against Greek interlinear; Strong's/Thayer's G1343 entries checked. Preserve the Aletheia leaflet's additional gloss as source wording. |
+| Romans 3:24 | δικαιούμενοι (*dikaioumenoi*, G1344) | Present passive participle, nominative masculine plural; morphology checked against the Greek interlinear and Strong's/Thayer's G1344 entries. Final typeset proof remains. |
+| 2 Corinthians 5:21 | δικαιοσύνη (*dikaiosynē*, G1343) | Nominative singular feminine noun; morphology checked against Greek interlinear; Strong's/Thayer's G1343 entries checked. Preserve the Aletheia leaflet's additional gloss as source wording. |
 | Romans 3:24 | ἀπολυτρώσεως (*apolutrōseōs*) | G629 noun, genitive singular; targeted lexical check against Strong’s/Thayer completed; recheck in final typeset proof. |
 | 2 Peter 1:5 | σπουδή (*spoudē*) | Noun G4710 checked against Strong’s; distinguish it from the verb σπουδάζω (*spoudazō*, G4704) used in 2 Timothy 2:15 and cited in the 2015 leaflet. Final specialist review remains. |
 
