@@ -230,7 +230,7 @@ Production controls:
 - Preserve the existing Aletheia World book record and its artwork. Do not create a duplicate title, redesign the cover, or replace the existing artwork as part of this manuscript pass.
 - Amazon KDP packaging and distribution are out of scope.
 - Prepare the manuscript as an eBook for the Aletheia World reading experience. The platform's accepted upload format, metadata fields, and publishing workflow must be confirmed from the actual admin interface before export or upload; do not assume that a generic EPUB upload is supported.
-- The app's existing companion content in `src/lib/content/companion-faith.ts` is a separate, live reading surface. Do not overwrite it with the new ten-chapter book manuscript without an explicit content-migration decision and a verified mapping to the existing book record.
+- The content-migration decision has now been implemented: document 14 is the publication master, the ten reader chapter bodies in `src/lib/content/companion-faith.ts` match it exactly, and the former eight-chapter companion is preserved in document 15.
 - Publication is not complete until the final manuscript is proofed, the correct content is attached to the existing book record, and the live reader is checked end-to-end.
 
 **Status after owner instruction:** publication destination and artwork are confirmed. Manuscript proofing, front/back matter, final eBook export, Aletheia World CMS upload, and live-reader verification remain open. This section records the production decision; it does not certify the manuscript as publication-ready.
@@ -245,8 +245,8 @@ Repository inspection identified the existing catalogue record for `book-doctrin
 - Publisher: Aletheia Publications
 - Existing cover asset: `/covers/doctrine-of-faith-seal.png` (with alternate cover artwork choices already configured)
 - Catalogue status: `published`
-- Current catalogue chapter count: **8**
-- Current product description: describes an eight-chapter companion book for Course 2.
+- Chapter count at the time of this historical snapshot: **8**; subsequently updated to **10**.
+- Product description at the time of this historical snapshot described an eight-chapter companion book for Course 2; it was subsequently reconciled with the ten-chapter Book I record.
 
 The existing app reading content is separately defined in `src/lib/content/companion-faith.ts` as `faithCompanionChapters`, under the same book ID. The new canonical Book I continuous manuscript contains **10 chapters**. This is a material version/content mismatch, not a cover problem.
 
@@ -283,7 +283,7 @@ The proof register records these as **targeted checked**, not final publication 
 
 ## 13. Reader-index and protected-function deployment correction — 2026-11-06
 
-The current ten-chapter reader source was compared with the generated reader index. The index still contained the former eight chapter records. This mismatch has been corrected: the index now contains all ten canonical chapter IDs and exact titles from `src/lib/content/companion-faith.ts`.
+The ten-chapter reader source was compared with the generated reader index. The index now contains all ten canonical chapter IDs and exact titles, and the reader text itself is checked for exact parity with publication manuscript 14.
 
 A repository integrity test was added at `scripts/check-doctrine-of-faith-publication.mjs`. It checks ten chapter IDs and titles, catalogue publication status, entitled access, one preview chapter, and existence of the legacy archive. The Hosting workflow runs this test before building.
 
@@ -303,7 +303,7 @@ A deployment review found that the existing app workflow deployed Firebase Hosti
 - deploys only `functions:getProtectedContent` to project `aletheia-world`;
 - then deploys the app Hosting target `aletheia-world`.
 
-The function export was confirmed in `functions/src/protected-content.ts`, and its generated chapter manifest is produced by `scripts/generate-protected-content.cjs`. The access-control tests explicitly cover preview-only access, verified entitlements, administrator access, and denial of unauthorized full-content access.
+The function export was confirmed in `functions/src/protected-content.ts`, and its generated chapter manifest is produced by `scripts/generate-protected-content.cjs`. The access-control tests cover preview-only access, verified entitlements, administrator access, denial of unauthorized full-content access, and a specific ten-chapter Doctrine of Faith scenario (Chapter 1 only for visitors; all ten for entitled readers).
 
 **Verification boundary:** the anonymous preview and live catalogue page have passed automated production smoke tests. A real signed-in entitled-reader test remains outstanding; the latest manuscript update is also awaiting its current deployment run. The publication remains **NOT YET PUBLICATION-READY** pending the editorial, Scripture/lexical, production, and owner-proof gates recorded above.
 
