@@ -1143,7 +1143,7 @@ Dake, Finis Jennings. *Dake Study Bible Notes: Bible Introduction*. Supplied int
 - *NAS Exhaustive Concordance*, entry for ὑπόστασις, consulted through BibleHub.
 - *Cambridge Greek Testament for Schools and Colleges*, commentary on Hebrews 11:1: https://biblehub.com/commentaries/cambridge/hebrews/11-1.htm
 - *The Expositor's Greek Testament*, commentary on Hebrews 11:1: https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/hebrews/11/1
-- OpenBible Greek text and morphology, Romans 3:24: https://www.openbible.com/text/romans/3-24.htm
+- OpenBible Greek text and morphology, Romans 3:24: https://www.openbible.com/text/romans/3-24.htm\n- OpenBible Greek text and morphology, 2 Peter 1:5: https://www.openbible.com/text/2_peter/1-5.htm\n- Greek interlinear, 2 Corinthians 5:21: https://cnbible.com/text/2_corinthians/5-21.htm
 
 ## Editorial note on references
 
