@@ -259,3 +259,19 @@ A repository integrity test was added at `scripts/check-doctrine-of-faith-public
 A further deployment gap was identified: the callable `getProtectedContent` function reads `functions/src/protected-content-data.json`, while the existing Hosting workflow deployed only Firebase Hosting. A Hosting deployment alone therefore would not update the server-side chapter payload used by the entitled reader. The workflow now also installs Functions dependencies, runs the Functions build (which regenerates protected content from the canonical source), authenticates using the existing Firebase service-account secret, and deploys only `functions:getProtectedContent`.
 
 **Important:** These workflow changes are committed, but successful GitHub Actions execution and production deployment have not yet been observed. The live book route could not be verified from this environment. Do not treat source-code commits as deployment confirmation.
+
+## 9. Reader-content deployment correction — 2026-11-06
+
+A deployment review found that the existing app workflow deployed Firebase Hosting but did not deploy the callable `getProtectedContent` function used by the reader to retrieve protected chapter bodies. A Hosting deployment alone was therefore insufficient to establish that the current ten-chapter manuscript had reached the live reader.
+
+**Repository correction committed:** `.github/workflows/deploy-app-hosting.yml` now:
+- triggers when `functions/**` or the protected-content generator changes;
+- installs the Functions dependencies;
+- runs the protected-content function build and access-control tests;
+- authenticates with the existing `FIREBASE_SERVICE_ACCOUNT_ALETHEIA_WORLD` secret;
+- deploys only `functions:getProtectedContent` to project `aletheia-world`;
+- then deploys the app Hosting target `aletheia-world`.
+
+The function export was confirmed in `functions/src/protected-content.ts`, and its generated chapter manifest is produced by `scripts/generate-protected-content.cjs`. The access-control tests explicitly cover preview-only access, verified entitlements, administrator access, and denial of unauthorized full-content access.
+
+**Verification boundary:** The workflow configuration is committed, but no successful GitHub Actions execution or live Firebase deployment has yet been verified in this audit. Production availability of all ten chapters remains unconfirmed until the workflow completes successfully and the entitled-reader route is tested with an entitled account. The publication remains **NOT YET PUBLICATION-READY** pending the editorial, Scripture/lexical, production, and owner-proof gates recorded above.
