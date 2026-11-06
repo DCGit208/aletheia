@@ -1134,3 +1134,33 @@ This guide locates the principal Scripture passages by chapter. It is a chapter-
 | 9 | Oneness and glory in the prayer of Jesus | John 17:1, 18–23; Genesis 1:26–28; Romans 3:23; 1 Corinthians 11:7; Hebrews 1:3; 1 John 4:17 |
 | 10 | The image of God and the glory in the face of Jesus Christ | 2 Corinthians 4:1–6; Genesis 1:26–28; Romans 3:23–26; 2 Corinthians 5:17–21; Hebrews 1:2–3; John 17:20–23 |
 
+
+
+# Glossary of Key Terms
+
+The explanations below clarify how important terms are used in this volume. Where a term has a wider lexical range, the entry identifies the particular role it plays in the book's argument. A glossary entry does not replace the context of the passage in which the term appears.
+
+**Apolutrōsis (ἀπολύτρωσις)** — Redemption or release effected by ransom. The Aletheia leaflet gives the wording “redemption; ransom in full.” This book develops the restoration-to-Design conclusion from that source wording and the wider Scripture argument; “restoration to original Design” is not presented as a word-for-word dictionary gloss.
+
+**Charaktēr (χαρακτήρ)** — The term translated “express image” in Hebrews 1:3. It contributes to the description of the Son as the exact representation of the Father's *hypostasis*.
+
+**Credence** — The English word used by the 2015 Aletheia leaflet for *pistis*. In the leaflet's “Faith toward God” teaching, *pistis* / credence defines the state of the children of God and is connected with acceptance, true nature, and Sonship.
+
+**Dikaiosynē (δικαιοσύνη)** — Righteousness. The Aletheia leaflet explains it through equity, impartiality to and conformity with God's nature, and gives the source wording “original: back on course.” This book preserves that as the leaflet's explanation and develops its doctrinal implications in the wider Scripture set.
+
+**Dikaioō (δικαιόω)** — The Greek verb associated with justification. The leaflet's printed gloss is “render just or innocent (free from evil or guilt).” Strong's and Thayer's lexical entries are treated separately in the references; the book's full restoration argument is not reduced to a single dictionary definition.
+
+**Elenchos (ἔλεγχος)** — The term rendered “evidence” in Hebrews 11:1. It is joined to *hypostasis* in the verse. Book I concentrates on the foundation expressed by *hypostasis*; Book II, *Faith Is Evidence*, develops this evidence dimension.
+
+**’Ĕlōhîm (אֱלֹהִים)** — The Hebrew term used in Genesis 1:1 and in Genesis 1:26. The 2015 Aletheia leaflet gives the gloss “plural: Trinity.” This entry records the leaflet's stated wording; the chapter's treatment considers the term within Genesis 1:26–28 and the source's image-and-likeness teaching.
+
+**Hypostasis (ὑπόστασις)** — The Greek noun rendered “substance” in Hebrews 11:1 in the King James Version. Its documented range includes substance or underlying reality and confidence or assurance. This book gives foundational attention to the substance reading and develops its relationship to the Aletheia teaching that *pistis* defines the state of God's children. The contexts of Hebrews 1:3, 3:14, and 11:1 remain distinct.
+
+**Pistis (πίστις)** — The Greek noun translated “faith.” The 2015 Aletheia leaflet identifies it as “credence” and states that it defines the state of the children of God. In this volume, *pistis* is considered in relation to the source's teaching on acceptance, true nature, and Sonship.
+
+**Spoudē (σπουδή)** — The noun translated “diligence” in 2 Peter 1:5. It is distinct from the related verb *spoudazō* (σπουδάζω), which appears in other passages and must not be substituted for the noun in this verse.
+
+**True nature** — A central expression in the Aletheia teaching, connected with humanity's creation in the image and likeness of God, the state of God's children, and the source's interpretation of coming short of glory as deviation from true nature. The expression is developed across the Scripture cluster rather than assigned to one isolated verse.
+
+**Design** — The doctrinal framework used throughout this book for humanity's created image and likeness, true nature, and identity as revealed in Christ. The governing formulation is that **Jesus represents who we are by Design** and that **faith is our state by design**. These are the book's doctrinal conclusions developed from the controlling source and the connected Scripture argument.
+
