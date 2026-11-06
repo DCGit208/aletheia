@@ -1,8 +1,8 @@
 # 13 — Scripture Quotation Proof Register
 
 **Book:** *The Doctrine of Faith* — Book I  
-**Register date:** 2026-11-05  
-**Controlling manuscript:** 11 — Continuous Book I Working Manuscript  
+**Register date:** 2026-11-06  
+**Controlling manuscript:** 14 — The Doctrine of Faith, Book I Publication Manuscript  
 **Purpose:** Track every substantial Scripture quotation that must be checked against the selected translation before publication. A passage marked “targeted checked” has been compared against an online text/interlinear during the current audit; it has not necessarily received final typeset proof.
 
 ## Status key
@@ -62,7 +62,7 @@
 | Reference | Form | Check required |
 |---|---|---|
 | Hebrews 11:1 | ὑπόστασις (*hypostasis*) | Targeted lexical check completed against SBLGNT interlinear and Thayer/Strong’s entries; final scholarly review remains. Preserve the range of foundation/substance/essence and confidence/assurance, and do not let etymology alone decide the contextual sense. |
-| Mark 11:22 | πίστιν θεοῦ (*pistin theou*) | Greek wording and morphology checked in the interlinear; lexical commentary records the rendering “faith in God” as an object-genitive reading. Keep the owner’s settled doctrinal interpretation distinct from what the genitive alone proves. Final specialist review remains. |
+| Mark 11:22 | πίστιν θεοῦ (*pistin theou*) | Greek wording and morphology checked in the interlinear; lexical commentary records the rendering “faith in God” as an object-genitive reading. Keep the book's settled doctrinal interpretation distinct from what the genitive alone establishes grammatically. Final specialist review remains. |
 | Romans 3:24 | δικαιούμενοι (*dikaioumenoi*) | Present passive participle, nominative masculine plural; targeted lexical/morphological check recorded; recheck in final typeset proof. |
 | Romans 3:24 | ἀπολυτρώσεως (*apolutrōseōs*) | G629 noun, genitive singular; targeted lexical check against Strong’s/Thayer completed; recheck in final typeset proof. |
 | 2 Peter 1:5 | σπουδή (*spoudē*) | Noun G4710 checked against Strong’s; distinguish it from the verb σπουδάζω (*spoudazō*, G4704) used in 2 Timothy 2:15 and cited in the 2015 leaflet. Final specialist review remains. |
