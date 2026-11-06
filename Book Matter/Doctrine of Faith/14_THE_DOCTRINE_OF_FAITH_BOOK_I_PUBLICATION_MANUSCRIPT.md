@@ -121,7 +121,7 @@ The investigation must distinguish four levels:
 
 These levels are related, but they are not interchangeable. A derivation is not a complete definition. A list of possible meanings does not automatically decide the meaning in Hebrews 11:1. And a lexical conclusion does not, by itself, establish every implication of the Aletheia doctrine.
 
-The KJV renders *hypostasis* as “substance” in Hebrews 11:1. That rendering is central to the governing doctrinal position of this book and must not be dismissed or replaced casually. At the same time, Thayer's entry places Hebrews 11:1 under confidence/assurance, and major commentaries differ over the contextual force of the term. A rigorous manuscript must state this evidence accurately, engage the alternatives, and then explain why the substance/underlying-reality reading remains foundational to the Aletheia doctrine.
+The KJV renders *hypostasis* as “substance” in Hebrews 11:1. That rendering is the foundation adopted in this book and remains central to its doctrinal exposition. Thayer's entry also places Hebrews 11:1 under confidence/assurance, and major commentaries discuss the contextual force of the term. Those lexical observations belong in an honest account of the word's range; they do not displace the governing doctrinal position developed here: faith as substance relates to the person's underlying nature and state.
 
 The question is not whether the word has ever been used to mean “substance.” It has. The question is why “substance” and the related idea of underlying reality are the right foundation for this doctrinal argument, and how that sense is to be connected with the rest of the sentence and the wider Scripture set.
 
@@ -147,9 +147,9 @@ There are two broad readings that must be considered fairly.
 
 These readings should not be caricatured. “Assurance” does not automatically mean shallow mental optimism; in Hebrews, it is tied to endurance and the faithfulness of the Promiser. “Substance” does not automatically prove that the word means the believer's ontological nature in this verse; that further connection must be argued.
 
-The doctrinal direction of this book is to establish the substance / underlying-reality reading as foundational to the Aletheia argument, while engaging the assurance / confidence renderings accurately. Thayer's placement of Hebrews 11:1 under confidence and the Cambridge commentary's preference for that contextual sense must be acknowledged, not hidden. These interpretations must not be caricatured or treated as though they cancel the KJV's “substance.” The chapter therefore explains why substance is the governing foundation for this book and how the assurance dimension relates to it, without simply declaring every nuance identical.
+The governing doctrinal position of this book is that the substance / underlying-reality reading is foundational to the Aletheia argument. Thayer's placement of Hebrews 11:1 under confidence and the Cambridge commentary's preference for that contextual sense are acknowledged as lexical and interpretive observations. They do not cancel the KJV's “substance” or displace the doctrine established here. The assurance dimension is considered in relation to the substance foundation, without treating every nuance as identical.
 
-The argument must therefore proceed in order:
+The argument follows this sequence:
 
 1. Establish that Hebrews 11:1 describes faith as *hypostasis* in relation to things hoped for.
 2. Establish that “substance” is a legitimate and significant rendering within the word's semantic range.
@@ -316,7 +316,7 @@ The full sequence matters: the passage joins the Spirit's witness and the inheri
 
 The source's language of state is important here. Paul does not describe the Spirit's witness as merely a feeling that appears and disappears. He names a relationship: children of God. The text also does not make the believer independent of Christ; the inheritance is “through Christ” in Galatians and believers are “joint-heirs with Christ” in Romans.
 
-This is one reason the formulation adopted in this book about faith as the person's underlying state must be developed carefully. The source links credence to the state of God's children, and these passages describe Sonship and inheritance as relations grounded in God's action through Christ. The book should not substitute a detached psychological definition of faith for this relational and doctrinal structure.
+This is one reason the formulation adopted in this book about faith as the person's underlying state must be developed carefully. The source links credence to the state of God's children, and these passages describe Sonship and inheritance as relations grounded in God's action through Christ. A detached psychological definition of faith cannot substitute for this relational and doctrinal structure.
 
 ## 5. Adoption in God's purpose: Ephesians 1:3–5
 
@@ -981,7 +981,7 @@ Do not remove these comparisons because they are demanding. Nor should we assume
 
 Oneness here must not be reduced to an organizational merger. Institutions can merge without the reality described by “I in them, and thou in me.” It must not be reduced to a feeling of togetherness either. The prayer speaks of a relation and purpose beyond a warm sentiment.
 
-At the same time, the chapter must not use “oneness” to erase the distinct persons and relations named in the prayer. Jesus addresses the Father; the Father sends the Son; the Son sends His disciples; believers are to be one in the Father and Son. Preserve those relationships as the text gives them.
+Oneness must not be used to erase the distinct persons and relations named in the prayer. Jesus addresses the Father; the Father sends the Son; the Son sends His disciples; believers are to be one in the Father and Son. Preserve those relationships as the text gives them.
 
 ## The Glory Given
 
