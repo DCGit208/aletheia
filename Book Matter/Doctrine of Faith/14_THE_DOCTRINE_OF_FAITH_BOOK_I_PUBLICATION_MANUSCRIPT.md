@@ -58,15 +58,15 @@ The chapters are intended to be read in sequence. Each develops a part of the ar
 
 > **Hebrews 11:1 (KJV):** “Now faith is the substance of things hoped for, the evidence of things not seen.”
 
-The opening question of *The Doctrine of Faith* cannot be treated as a question about how to produce a feeling of confidence or how to persuade oneself that a desired result will occur. Hebrews 11:1 describes faith through two connected terms: *hypostasis*—rendered “substance” in the KJV—and *elenchos*—rendered “evidence.” The first term is foundational to this book. The second points toward the distinctive development of Book II, *Faith Is Evidence*.
+The opening question cannot be treated as a question about how to produce a feeling of confidence or persuade oneself that a desired result will occur. Hebrews 11:1 describes faith through two connected terms: *hypostasis*—rendered “substance” in the KJV—and *elenchos*—rendered “evidence.” The two belong together. The present inquiry gives sustained attention to the foundation expressed by *hypostasis*; Book II, *Faith Is Evidence*, develops the evidence dimension.
 
-The two clauses belong together, while the books carry distinct emphases. Book I establishes faith as substance and its relation to the person's underlying nature and state. Book II develops the evidence dimension from that foundation.
+The two clauses belong together, while the volumes carry distinct emphases. Faith as substance and its relation to the person's underlying nature and state form the foundation; the evidence dimension is developed from that foundation in Book II.
 
 The governing question is therefore:
 
 **What does it mean for faith to be the *hypostasis* of things hoped for, and how does that statement relate to the Aletheia teaching that faith defines the state of the children of God?**
 
-That question requires more than repeating the English word “substance.” It requires reading the sentence, examining the word's established range, attending to the context of Hebrews, and then connecting the result to the Aletheia source and the settled doctrinal position of this book that faith is our state by design.
+Answering that question requires more than repeating the English word “substance.” The sentence must be read carefully, the word's established range examined, and the context of Hebrews considered. The result must then be brought into relation with the Aletheia source and its teaching on the state of God's children. The governing conviction is that faith is our state by design.
 
 ## 1. The sentence and its principal terms
 
@@ -105,7 +105,7 @@ This is precisely why careful study is required: English renderings can illumina
 
 The chapter itself does not leave faith as an abstract label. Noah responds to a warning about things not yet seen and prepares an ark (Hebrews 11:7). Abraham obeys the call to go out without knowing where he is going (11:8), and later acts in relation to the promise concerning Isaac (11:17–19). Sarah receives strength because she judges the Promiser faithful (11:11). Moses refuses an identity and a life of privilege in Pharaoh's household, choosing affliction with God's people and esteeming the reproach of Christ above Egypt's treasures (11:24–27). These examples portray faith through judgment, allegiance, action, and endurance in relation to what is not yet visible or fully received.
 
-The examples therefore challenge a reduction of faith to a sentence a person agrees with while the rest of the person's life remains unrelated to it. In Hebrews 11, faith is expressed through the person's orientation and conduct. This supports the inquiry into faith as more than detached mental assent, but it does not settle the lexical meaning of *hypostasis* by itself. Nor does it independently prove that *hypostasis* means “the person's underlying nature” in Hebrews 11:1. That is the doctrinal connection developed in this book, which must be argued together with the Aletheia leaflet's explicit *pistis* / state / Sonship teaching.
+The examples therefore challenge a reduction of faith to a sentence a person agrees with while the rest of the person's life remains unrelated to it. In Hebrews 11, faith is expressed through the person's orientation and conduct. This supports the inquiry into faith as more than detached mental assent, but it does not settle the lexical meaning of *hypostasis* by itself. Nor does it independently prove that *hypostasis* means “the person's underlying nature” in Hebrews 11:1. That is the doctrinal connection developed here, and it must be argued together with the Aletheia leaflet's explicit *pistis* / state / Sonship teaching.
 
 The chapter also preserves an important limit: Hebrews 11:13 says that some died in faith without having received the promises, though they saw them afar off and embraced them. The argument is not that faith makes every hoped-for outcome immediately visible or that every faithful person receives the promised result during this life. Faith's relation to hope, unseen things, endurance, and promise must be kept together.
 
@@ -124,7 +124,7 @@ The investigation must distinguish four levels:
 
 These levels are related, but they are not interchangeable. A derivation is not a complete definition. A list of possible meanings does not automatically decide the meaning in Hebrews 11:1. And a lexical conclusion does not, by itself, establish every implication of the Aletheia doctrine.
 
-The KJV renders *hypostasis* as “substance” in Hebrews 11:1. That rendering is the foundation adopted in this book and remains central to its doctrinal exposition. Thayer's entry also places Hebrews 11:1 under confidence/assurance, and major commentaries discuss the contextual force of the term. Those lexical observations belong in an honest account of the word's range; they do not displace the governing doctrinal position developed here: faith as substance relates to the person's underlying nature and state.
+The KJV renders *hypostasis* as “substance” in Hebrews 11:1. That rendering provides the foundation for the doctrinal exposition that follows. Thayer's entry also places Hebrews 11:1 under confidence/assurance, and major commentaries discuss the contextual force of the term. Those lexical observations belong in an honest account of the word's range; they do not displace the governing doctrinal position developed here: faith as substance relates to the person's underlying nature and state.
 
 The question is not whether the word has ever been used to mean “substance.” It has. The question is why “substance” and the related idea of underlying reality are the right foundation for this doctrinal argument, and how that sense is to be connected with the rest of the sentence and the wider Scripture set.
 
@@ -132,7 +132,7 @@ The question is not whether the word has ever been used to mean “substance.”
 
 Hebrews 1:3 describes the Son as the brightness of God's glory and the express image of His *hypostasis* (KJV: “the express image of his person”). Some modern translations render the relevant phrase in terms of God's nature or being. This is an important comparison because the same Greek noun occurs in a statement about the Son's relation to the Father's *hypostasis*, in a context that also speaks of glory and exact representation.
 
-The Aletheia source's Faith Toward God teaching later connects faith with true nature from creation, image and likeness, the glory come short of through sin, and Christ as the image of God. The central thesis of this book is that Jesus represents who we are by Design, not merely what He accomplished for us. Hebrews 1:3 therefore belongs in the foundational investigation, not as an isolated proof-text but as a passage whose use of *hypostasis* must be compared with Hebrews 11:1.
+The Aletheia source's Faith Toward God teaching later connects faith with true nature from creation, image and likeness, the glory come short of through sin, and Christ as the image of God. The central thesis is that Jesus represents who we are by Design, not merely what He accomplished for us. Hebrews 1:3 therefore belongs in the foundational investigation, not as an isolated proof-text but as a passage whose use of *hypostasis* must be compared with Hebrews 11:1.
 
 The comparison must be made carefully. In Hebrews 1:3, the Son is described as the *charaktēr* of the Father's *hypostasis*; in Hebrews 11:1, faith is described as the *hypostasis* of things hoped for. The same noun gives a strong reason to study the passages together; it does not mean that the grammar, referent, or exact nuance is identical in both verses. Nor does Hebrews 1:3, by itself, say that *hypostasis* in Hebrews 11:1 means the believer's nature. The comparison supports a meaningful connection between the passages, while leaving their distinct grammatical and contextual functions intact.
 
@@ -150,7 +150,7 @@ There are two broad readings that must be considered fairly.
 
 These readings should not be caricatured. “Assurance” does not automatically mean shallow mental optimism; in Hebrews, it is tied to endurance and the faithfulness of the Promiser. “Substance” does not automatically prove that the word means the believer's ontological nature in this verse; that further connection must be argued.
 
-The governing doctrinal position of this book is that the substance / underlying-reality reading is foundational to the Aletheia argument. Thayer's placement of Hebrews 11:1 under confidence and the Cambridge commentary's preference for that contextual sense are acknowledged as lexical and interpretive observations. They do not cancel the KJV's “substance” or displace the doctrine established here. The assurance dimension is considered in relation to the substance foundation, without treating every nuance as identical.
+Here, the substance / underlying-reality reading is taken as foundational to the Aletheia argument. Thayer's placement of Hebrews 11:1 under confidence and the Cambridge commentary's preference for that contextual sense are acknowledged as lexical and interpretive observations. They do not cancel the KJV's “substance” or displace the doctrine established here. The assurance dimension is considered in relation to the substance foundation, without treating every nuance as identical.
 
 The argument follows this sequence:
 
@@ -158,7 +158,7 @@ The argument follows this sequence:
 2. Establish that “substance” is a legitimate and significant rendering within the word's semantic range.
 3. Compare the contextual evidence for substance / reality with the evidence for assurance / confidence.
 4. Use Hebrews 1:3 and 3:14 as author-internal comparisons without flattening their different contexts.
-5. State the doctrinal connection developed in this book between faith as substance and faith as the person's underlying nature and state.
+5. State the doctrinal connection between faith as substance and faith as the person's underlying nature and state.
 6. Demonstrate that bridge through the Aletheia source's explicit *pistis* / state teaching and the connected Scripture cluster.
 
 The point is to make the doctrinal reasoning visible, not to use a lexical note as a substitute for the argument.
@@ -167,12 +167,12 @@ The point is to make the doctrinal reasoning visible, not to use a lexical note 
 
 The 2015 *Aletheia Libraries 1* leaflet's Faith Toward God section begins with Hebrews 6:1: “and of faith toward God.” It explicitly states that faith defines our state as children of God; identifies Greek *pistis* as “credence”; and connects that credence to acceptance, true nature, and espousal / adoption as sons of God. It brings in Galatians 4:5–7, Romans 8:15, Ephesians 1:5, Genesis 1:26–27, 2 Peter 1:4, and Psalm 82:6.
 
-The leaflet does not itself quote Hebrews 11:1 or use the term *hypostasis* in this section. The book brings the Hebrews 11:1 foundation into relation with the leaflet's explicit teaching on *pistis*, credence, and the state of God's children. The foundational relationship is developed by bringing two lines into reasoned connection:
+The leaflet does not itself quote Hebrews 11:1 or use the term *hypostasis* in this section. The present argument brings the Hebrews 11:1 foundation into relation with the leaflet's explicit teaching on *pistis*, credence, and the state of God's children. The foundational relationship is developed by bringing two lines into reasoned connection:
 
 - **Hebrews 11:1:** faith is the *hypostasis* of things hoped for.
 - **Aletheia's explicit source teaching:** *pistis* / credence defines the state of children of God and is connected with true nature and Sonship.
 
-The governing doctrinal formulation is that faith as substance explains faith as the person's underlying nature and state. This is the book's doctrinal synthesis of Hebrews 11:1 with the leaflet's explicit *pistis* / credence / state teaching; it is not presented as a verbatim sentence from the leaflet or as a conclusion drawn from etymology alone.
+The governing doctrinal formulation is that faith as substance explains faith as the person's underlying nature and state. This is the doctrinal synthesis of Hebrews 11:1 with the leaflet's explicit *pistis* / credence / state teaching; it is not a verbatim sentence from the leaflet or a conclusion drawn from etymology alone.
 
 The source's use of “state” is decisive to the structure. The Aletheia argument is not limited to what a person thinks about God; it connects faith to the state of the children of God, acceptance, true nature, and adoption. The foundation established here connects Hebrews 11:1 with the source's explicit state teaching. The remaining chapters develop that connection through design, Sonship, divine nature, redemption, righteousness, heirship, oneness, and present reality.
 
