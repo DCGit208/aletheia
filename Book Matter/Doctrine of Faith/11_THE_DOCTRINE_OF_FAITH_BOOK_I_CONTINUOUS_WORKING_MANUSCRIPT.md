@@ -8,6 +8,8 @@
 
 ---
 
+> **Superseded working copy:** This file is retained for editorial history and continuity reference. The controlled publication master is `14_THE_DOCTRINE_OF_FAITH_BOOK_I_PUBLICATION_MANUSCRIPT.md`. Do not use this earlier working copy for reader publication or deployment.
+
 ## Contents
 
 - 1. Faith as Hypostasis: Substance, Underlying Reality, and the Foundation of the Doctrine
