@@ -33,3 +33,17 @@ export function mayReadProtectedContent(options: ProtectedContentAccess): boolea
       (options.policy.previewChapterIds?.length ?? 0) > 0)
   );
 }
+
+export function selectReadableBookChapters<T extends { id: string; bookId: string }>(
+  chapters: T[],
+  policy: ProtectedContentPolicy,
+  options: ProtectedContentAccess,
+): T[] {
+  const previewOnly = !canReadAllProtectedContent(options);
+  const previewChapterIds = policy.previewChapterIds ?? [];
+  return chapters.filter(
+    (chapter) =>
+      chapter.bookId === policy.id &&
+      (!previewOnly || previewChapterIds.includes(chapter.id)),
+  );
+}
