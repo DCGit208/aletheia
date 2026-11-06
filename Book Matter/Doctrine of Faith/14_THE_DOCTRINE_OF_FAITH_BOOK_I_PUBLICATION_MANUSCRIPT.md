@@ -1,6 +1,7 @@
 # THE DOCTRINE OF FAITH
-## Book I
-### Dr. Coach Achu Gustave
+## The Gospel That Restores Our True Nature
+### Book I
+#### Dr. Coach Achu Gustave
 
 **Aletheia Publications**
 
@@ -30,23 +31,25 @@ To those who desire to know the truth of faith, the nature of sonship, and the d
 
 ## Preface
 
-This book develops the Aletheia teaching on “Faith toward God” as presented in *Aletheia Libraries 1* (2015). That leaflet is the controlling doctrinal source for the teaching developed here. Its statements are engaged as authoritative source teaching throughout this work.
+Faith is often discussed as though it were chiefly a matter of what a person hopes to receive, how strongly a person believes, or how confidently a person speaks. The question pursued in these pages is more fundamental: what is faith, and what does it reveal about the state and identity of the children of God?
 
-The book begins with Hebrews 11:1 and the word *hypostasis*, establishing the foundation of faith before developing the connected teaching on *pistis*, image and likeness, divine nature, sonship, redemption, justification, righteousness, heirship, oneness, and the image of God revealed in Christ.
+The Aletheia teaching on “Faith toward God” places *pistis*—credence—within the reality of sonship, true nature, acceptance, and the design in which humanity was created. Hebrews 11:1 gives this inquiry its foundation through *hypostasis*, rendered “substance” in the King James Version. The relationship between these scriptural lines leads to the central conviction developed here: **faith is our state by design.**
 
-The argument holds together what Jesus accomplished and what He represents. It develops the governing conviction that faith is our state by design and that Jesus represents who we are by Design.
+That conviction cannot be separated from Jesus Christ. He reveals the image and glory of God, and His redemptive work brings into view what God has accomplished for humanity. His representation and His accomplishment belong together.
 
-Book I establishes the foundation. Book II, *Faith Is Evidence*, develops the evidence dimension from that foundation.
+This volume establishes the foundation. The companion volume, *Faith Is Evidence*, takes up the evidence dimension named in Hebrews 11:1 and develops it from that foundation.
 
 ---
 
 ## Introduction
 
-The doctrine of faith must be approached as more than a technique for obtaining desired outcomes or a mental exercise in confidence. The Aletheia source places faith within the state of God's children, connecting *pistis* with credence, true nature, acceptance, and adoption as sons. This book develops that teaching alongside Hebrews 11:1, where faith is described as *hypostasis*—“substance” in the King James Version.
+The first question is not how to use faith, but what faith is. Hebrews 11:1 describes it as the *hypostasis* of things hoped for and the *elenchos* of things not seen. The King James Version renders these terms “substance” and “evidence.” Their relationship is essential, but they are not interchangeable. This first volume gives sustained attention to the foundation expressed by *hypostasis*; the companion volume examines the evidence dimension.
 
-The chapters proceed from the foundation of faith to the identity and design of humanity, the partaking of divine nature, the purpose and work of Christ, justification and redemption, sonship and heirship, oneness, and the glory revealed in the face of Jesus Christ.
+The inquiry then turns to the Aletheia teaching on “Faith toward God.” Its use of *pistis*—credence—connects faith with the state of God's children, acceptance, true nature, and adoption as sons. From there, the argument follows the scriptural connections through the image and likeness in Genesis, the partaking of divine nature, the Son and His inheritance, redemption and justification, the oneness for which Jesus prayed, and the glory revealed in His face.
 
-The 2015 Aletheia leaflet governs the doctrinal teaching. Biblical passages are considered in their wording and context; lexical references inform the word studies; and the book's connected argument develops the governing doctrinal position of this book. The supplementary *Bible Introduction* by Finis Jennings Dake is a Bible-study reference, not a replacement for the Aletheia source.
+These themes are not separate religious topics gathered under one title. They form a connected account of humanity's Design, the deviation described as coming short of glory, and what God has accomplished in Christ. The governing conviction is that **faith is our state by design**, and that **Jesus represents who we are by Design**. The argument must therefore hold together the identity revealed in Christ and the redemptive work accomplished through Him.
+
+The chapters are intended to be read in sequence. Each develops a part of the argument while remaining connected to the whole. Biblical quotations are identified by translation; original-language terms are explained where they materially clarify the discussion. The 2015 Aletheia teaching remains the doctrinal foundation for the treatment of “Faith toward God.”
 
 # Chapter 1 — Faith as Hypostasis: Substance, Underlying Reality, and the Foundation of the Doctrine
 
