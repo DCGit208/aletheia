@@ -21,13 +21,13 @@
 | 2 | Hebrews 6:1 | KJV | Targeted checked | Full KJV wording compared with Bible Gateway; preserve “faith toward God.” | Check full verse and punctuation. |
 | 2 | Galatians 4:4–7 | KJV | Targeted checked | Sending, redemption, adoption, “because ye are sons,” and heirship checked. |
 | 2 | Romans 8:14–17 | KJV | Targeted checked | Full sequence, including suffering and shared glory, checked. |
-| 2 | Ephesians 1:5 | KJV | Needs final proof | Check exact wording: “adoption of children” and “good pleasure of his will.” |
+| 2 | Ephesians 1:5 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; final chapter/layout proof remains. |
 | 2 | Matthew 3:17 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check the Father's declaration over the Son. |
 | 2 | Hebrews 11:2 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check exact wording. |
 | 2 | Hebrews 11:5 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check Enoch's testimony and punctuation. |
 | 2 | Hebrews 11:6 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check full verse. |
 | 3 | Genesis 1:26–28 | KJV | Targeted checked | Image, likeness, blessing, fruitfulness, and dominion checked. |
-| 3 | Genesis 1:27 | TLB | Targeted checked | Full wording checked; required TLB copyright credit recorded in document 12. |
+| 3 | Genesis 1:27 | TLB | Targeted checked | Full wording rechecked against the Living Bible text; required TLB copyright credit appears on the manuscript copyright page. |
 | 3 | 1 John 4:17 | KJV | Targeted checked | Full verse checked; retain love/perfected-confidence context. |
 | 3 | Psalm 82:6 | KJV | Targeted checked | Full psalm checked with verses 1–8. |
 | 3 | Mark 11:20–25 | KJV | Targeted checked | Fig tree, faith, speech, prayer, and forgiveness context checked. |
