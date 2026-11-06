@@ -221,3 +221,15 @@ The review of the shorter chapters led to targeted additions rather than an atte
 The canonical manuscript remains document 14. Document 11 is a superseded working copy; document 15 is a preservation archive; documents 89 and 95 record earlier architecture stages, with document 89 explicitly superseded. Current architecture and source controls are in documents 90, 94 and 96, read alongside document 14 and the current audit registers.
 
 **Current decision remains unchanged:** the corrections materially improve the reading experience but do not complete the full developmental edit, specialist lexical review, complete quotation proof, bibliography/reference cleanup, glossary, professional typesetting, page-by-page proof, live entitled-account test, or final author approval. Book I is **NOT FINAL**.
+
+ 
+## Production work log — 6 November 2026, reader-facing back matter and final-opening pass
+
+- Chapter 7's lexical/morphology proof notes have been moved out of the chapter body and into the references section. The distinctions among the Aletheia leaflet's wording, Strong's, and Thayer's entries have been preserved.
+- The former general Scripture list has been replaced with a chapter-based Scripture Reference Guide. Page numbers are deliberately deferred until final pagination.
+- A reader-facing glossary has been added for the principal Greek and Hebrew terms and the book's doctrinal vocabulary. Entries distinguish the leaflet's wording, lexical descriptions, and the doctrinal synthesis developed in the volume.
+- Chapter 10's opening has been rewritten to begin with the image and glory revealed in Christ rather than narrating the book's chapter architecture.
+- Chapter 1's opening and lexical discussion have received a further authorial-voice edit to reduce repeated references to “this book” and move the reader more directly through the argument.
+- The ten reader chapter bodies have again been synchronized to manuscript 14. A direct comparison of the current repository files confirms ten chapters and exact body-for-body parity. The latest automated workflow remains pending and must still pass.
+
+These changes improve the reader experience and publication apparatus. They do not close the complete quotation proof, specialist lexical review, full developmental and copy edit, professional typesetting, page-by-page proof, signed-in entitled-reader test, or author approval. The book remains **NOT FINAL**.
