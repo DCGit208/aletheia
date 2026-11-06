@@ -16,13 +16,13 @@
 | Chapter | Passage / text | Translation or source | Status | Proofing note |
 |---|---|---|---|---|
 | 1 | Hebrews 10:34 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; preserve “better and an enduring substance.” |
-| 1 | Hebrews 11:1 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; final chapter/layout proof remains. | Verify the full KJV line and punctuation; Greek text separately checked against the interlinear text. |
+| 1 | Hebrews 1:1–8 | KJV | Targeted checked | Full Son portrait passage checked as a contextual unit; Chapter 8 quotes verses 1–4 and 8. |\n| 1 | Hebrews 3:14 | KJV | Targeted checked | Exact wording checked; original-language *hypostasis* form separately recorded. |\n| 1 | Hebrews 11:1 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; final chapter/layout proof remains. | Verify the full KJV line and punctuation; Greek text separately checked against the interlinear text. |
 | 1 | Hebrews 11:1 Greek | Greek NT | Targeted checked | Compare with SBLGNT/Westcott-Hort text; preserve word order and accents. |
 | 1 | Mark 11:22 | KJV | Targeted checked | Verified as part of Mark 11:20–25. |
 | 2 | Hebrews 6:1 | KJV | Targeted checked | Full KJV wording compared with Bible Gateway; preserve “faith toward God.” | Check full verse and punctuation. |
-| 2 | Galatians 4:4–7 | KJV | Targeted checked | Sending, redemption, adoption, “because ye are sons,” and heirship checked. |
+| 2 | Galatians 4:1–7 | KJV | Targeted checked | Full KJV passage compared with Bible Gateway; heir/child illustration and verses 4–7 adoption sequence checked together. |\n| 2 | Galatians 4:4–7 | KJV | Targeted checked | Sending, redemption, adoption, “because ye are sons,” and heirship checked. |
 | 2 | Romans 8:14–17 | KJV | Targeted checked | Full sequence, including suffering and shared glory, checked. |
-| 2 | Ephesians 1:5 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; final chapter/layout proof remains. |
+| 2 | Ephesians 1:3–7 | KJV | Targeted checked | Full KJV passage checked for blessing, choosing, adoption, good pleasure, acceptance, and redemption. |\n| 2 | Ephesians 1:5 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; final chapter/layout proof remains. |
 | 2 | Matthew 3:17 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check the Father's declaration over the Son. |
 | 2 | Hebrews 11:2 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check exact wording. |
 | 2 | Hebrews 11:5 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Check Enoch's testimony and punctuation. |
@@ -40,7 +40,7 @@
 | 4 | John 10:30–38 | KJV | Targeted checked | Accusation, Psalm 82 quotation, “scripture cannot be broken,” and works/indwelling argument checked. |
 | 5 | 2 Peter 1:2–8 | KJV | Targeted checked | Promises, partaking, escape from corruption, diligence, qualities, and fruitfulness checked. |
 | 6 | Romans 3:21–22 | KJV | Targeted checked | Full KJV wording compared with Bible Gateway; retain the “faith of Jesus Christ” wording exactly. | Verify the exact quotation and punctuation in context. |
-| 6 | Romans 3:23–24 | KJV | Targeted checked | Full continuous wording checked. |
+| 6 | Romans 3:21–26 | KJV | Targeted checked | Full KJV argument checked: righteousness manifested, faith of Jesus Christ, sin/glory, free justification, redemption, propitiation, and God's righteousness. |\n| 6 | Romans 3:23–24 | KJV | Targeted checked | Full continuous wording checked. |
 | 6 | 1 Corinthians 11:7 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; exposition still requires contextual review of 1 Corinthians 11:2–16. | Verify full quotation; retain headship/covering context in exposition. |
 | 6 | Ephesians 1:7 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway. | Verify exact wording. |
 | 6 | Colossians 1:13–14 | KJV | Targeted checked | Exact KJV wording compared with Bible Gateway; preserve “translated” and “even the forgiveness of sins.” | Verify full passage, including deliverance/translation and redemption/forgiveness. |
