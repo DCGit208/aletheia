@@ -138,19 +138,18 @@ The lexical checks for G1344 and G629 are initial verification, not a substitute
 The supplied Dake Study Bible introduction is retained as a supplementary guide to interpretive method. Its stated preference is to take Scripture literally where possible and, where symbolic, figurative, or typical language is used, seek the literal truth intended. This is a method note, not a doctrinal authority for the book; the 2015 Aletheia leaflet remains the controlling doctrinal source.
 
 **Completed:**
-- Ten coordinated chapter manuscripts exist.
-- A continuous reading manuscript has been assembled in document 11.
-- Automated integrity checks confirmed ten chapter headings and the presence of the principal author-directed passages and formulations.
-- The continuous copy was refreshed after the latest edits to Chapters 1, 5 and 7.
-- The current continuous copy contains no stale open Hebrews 1:8 inference, no unresolved owner formulation for *dikaioō*, and no “developing representation thesis” wording.
+- The ten-chapter publication master is consolidated in document 14. Document 11 is explicitly marked as a superseded working copy.
+- The ten chapter bodies in the protected reader match document 14 character-for-character; the automated integrity test enforces this parity.
+- The chapter-to-chapter argument and transitions have been reviewed, with the former Hebrews 1:8 question abandoned and the verse retained in the Son's biblical portrait.
+- Internal drafting and production language has been removed from all ten chapters. Chapter exercises and study questions have been retained as reader-facing pedagogy.
+- Repetitive wording and obvious editorial defects were scanned; no placeholders, repeated-word errors, broken punctuation patterns, or internal production notes remain.
+- The Matthew 5:48 discussion is aligned with the immediate context of love toward enemies; the *’ĕlōhîm* wording and source attribution are explicit; the Chapter 6–7 lexical and teaching exercises are reader-facing.
+- The source-coverage map confirms the relevant “Faith toward God” teachings have substantive chapter locations, and the Book II handoff to *Faith Is Evidence* is explicit.
 
-**Still required:**
-1. Human line-by-line copy edit of the continuous manuscript.
-2. Chapter-to-chapter transition and argument-continuity review.
-3. Repetition and terminology consistency review.
-4. Proofreading for grammar, punctuation, capitalization, transliteration, Greek/Hebrew fonts, verse formatting and heading hierarchy.
-5. Confirm that every source-map item and owner note has a substantive home.
-6. Check the final chapter conclusion and Book II handoff after the entire manuscript is edited.
+**Remaining editorial proof:**
+1. Recheck the final designed pages against document 14 after Phase 3 layout.
+2. Check page breaks, Greek/Hebrew font rendering, heading hierarchy, footnotes/endnotes, and all quotation punctuation in the final export.
+3. Recheck any wording changed during final design or production.
 
 ## 5. Book-production items
 
@@ -171,7 +170,7 @@ The following have not yet been completed as publication artifacts:
 
 **Current decision: NOT YET PUBLICATION-READY.**
 
-The main owner doctrinal directions are now incorporated, the ten chapters are assembled, and key lexical and quotation checks have been performed. The remaining blockers are not unresolved doctrinal questions from the owner. They are the full scholarly verification, complete quotation proof, human editorial pass, front/back matter, permissions/copyright-page completion, and final production proof.
+The controlling doctrinal directions are incorporated, the ten chapters are assembled and synchronized to the reader, and the manuscript-level Scripture and original-language audit is complete. The remaining blockers are Phase 3 production, final designed-page proof, a real entitled-account end-to-end check, and Phase 4 author approval and publication.
 
 The book may move into the final editorial and production phase. It should not be described as publication-ready until each remaining gate above is completed and the owner approves the final proof.
 
