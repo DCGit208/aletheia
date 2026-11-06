@@ -372,7 +372,7 @@ The connection is therefore neither an invented quotation nor an arbitrary juxta
 
 The book's doctrinal formulation is that faith is not merely what the mind believes; it is the state of the person who exists in the reality of God's nature in Christ. This chapter has established the Aletheia source's state/Sonship material as a major part of the argument. The subsequent chapters continue developing that formulation through the source's complete scriptural architecture.
 
-## Study and teaching questions
+## Questions for reflection and study
 
 1. According to the Aletheia leaflet, what does *pistis* mean, and what does it define?
 2. What does Hebrews 6:1 identify as foundational?
@@ -499,7 +499,7 @@ Perfection affirms our identity. Matthew 5:48 commands, “Be ye therefore perfe
 
 The full representation thesis is developed by showing how these passages relate. Jesus represents who we are by Design; no single verse is made to carry the whole argument, and 1 John 4:17 remains in its context of love and confidence.
 
-## Study and argument exercise
+## Questions for reflection and study
 
 Read Genesis 1:26–28 aloud and list the actual terms in the passage: image, likeness, blessing, fruitfulness, multiplication, replenishment, subduing, and dominion. Then distinguish those explicit terms from the book's synthesis about humanity's design.
 
@@ -507,7 +507,7 @@ Read John 14:12, Psalm 82:6, Romans 8:17, and 1 John 4:17 alongside Genesis. For
 
 Finally, investigate the thesis **“Jesus represents who we are by Design”** through the full cluster named in this chapter. Do not make a single verse carry the whole argument, and do not omit the context of any passage used.
 
-**Transition to Chapter 4:** Genesis has supplied the explicit image-and-likeness language. The next chapter examines Psalm 82:6 with verse 7 and Jesus' use of the passage in John 10, so that the design argument develops without isolating “Ye are gods” from its judgment setting.
+Genesis has supplied the explicit image-and-likeness language. The inquiry now turns to Psalm 82:6–7 and Jesus' use of the passage in John 10, where the words “Ye are gods” must be read within their judgment setting.
 
 
 ---
@@ -711,7 +711,7 @@ This representation does not cancel or minimize what Jesus accomplished. Romans 
 5. How do Ephesians 1:7 and Colossians 1:13–14 extend the discussion of redemption, blood, forgiveness, deliverance, and translation?
 6. How do Christ's representation of humanity's design and His accomplishment of redemption belong together?
 
-**Transition to Chapter 7:** Having set out the source's account of coming short of glory and Christ's response, the next chapter examines the terms for free justification, redemption, and righteousness in Christ. It keeps the leaflet's printed lexical glosses distinct from the additional formulations developed here.
+With the source's account of coming short of glory and Christ's response now in view, the inquiry turns to the language of free justification, redemption, and righteousness in Christ. The next chapter considers the relevant terms while preserving the distinction between the leaflet's printed lexical glosses and the further doctrinal formulations developed here.
 
 
 ---
@@ -810,7 +810,7 @@ Romans 3:24 explicitly joins free justification with redemption in Christ Jesus.
 6. What does 2 Corinthians 5:17–21 say about the new creature, reconciliation, Christ being made sin, and believers being made the righteousness of God in Him?
 7. How do Romans 3:23–24, Genesis 1:26–27, 1 Corinthians 15:41, and the redemption passages contribute to the book's restoration argument?
 
-**Transition to Chapter 8:** The next chapter examines the Son as heir of all things, the express image of the Father, and the pattern and representation of humanity's design. It then develops the believer's sonship and heirship through Galatians 4:5–7 and Romans 8:16–17. Hebrews 1:8 remains part of the Son's scriptural portrait, but the former leaflet question is not an unresolved doctrinal decision.
+The Son's identity and inheritance now bring the argument to the question of heirship. The next chapter considers Him as heir of all things and the express image of the Father, then develops the believer's sonship and heirship through Galatians 4:5–7 and Romans 8:16–17. Hebrews 1:8 remains part of the Son's scriptural portrait; the former leaflet question is not an unresolved doctrinal decision.
 
 
 ### Lexical references for G1344 and G629
@@ -911,7 +911,7 @@ This chapter therefore refuses to separate what Jesus represents from what He ac
 7. What does 1 John 4:17 contribute to the present-reality argument, and what is its immediate context?
 8. How do representation and accomplishment remain joined in the person and work of Jesus?
 
-**Transition to Chapter 9:** Having established the Son's representation and our sonship and heirship through Him, the next chapter examines Jesus' prayer in John 17:20–23—its oneness, glory, indwelling, sending and purpose.
+The Son's representation and the believer's sonship and heirship lead to Jesus' prayer in John 17:20–23. There we consider the oneness, glory, indwelling, sending, and purpose that He expresses.
 
 
 ---
@@ -992,7 +992,7 @@ This belongs to the book's wider line of inquiry:
 
 That line is the book's synthesis of the source's Scripture cluster. John 17 is central to it, but the full chain is not a quotation from John 17 alone.
 
-## Study Questions
+## Questions for reflection and study
 
 1. How would you liken John 17:20–23 to the teaching on image and likeness in Genesis 1:26–28?
 2. What does Jesus say about the glory given to Him and given to believers?
