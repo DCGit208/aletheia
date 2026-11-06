@@ -430,7 +430,7 @@ Genesis 1:27 — “So God created man in his own image, in the image of God cre
 
 The 2015 Aletheia leaflet places the paraphrase “So God made man like his Maker” beside Genesis 1:27 and links it to “Man’s True Nature” (2 Peter 1:4) and the glory humanity came short of through sin. The leaflet also includes this wording, which is reproduced here as the Living Bible quotation:
 
-> **Genesis 1:27 (The Living Bible, wording supplied for this manuscript)** — “So God made man like his Maker.\nLike God did God make man;\nMan and maid did he make them.”
+> **Genesis 1:27 (The Living Bible, TLB)** — “So God made man like his Maker.\nLike God did God make man;\nMan and maid did he make them.”
 
 The quotation is retained alongside the KJV, not as a replacement for it. The full wording is verified as Genesis 1:27 in The Living Bible (TLB), copyright © 1971 Tyndale House Foundation. The 2015 leaflet separately places the line “Like God did God make man” beside a parenthetical attribution to the Life Application Bible. Preserve that source note as part of the leaflet's history, but use the required TLB attribution for the full quotation reproduced here. Reference: https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=TLB.
 
@@ -730,11 +730,11 @@ The Aletheia teaching brings together free justification through redemption and 
 
 Chapter 6 developed the source's reading of coming short of glory as deviation from true nature, while preserving the explicit language of Romans 3:23–24: all have sinned and come short of the glory of God, and are justified freely by grace through the redemption that is in Christ Jesus. This chapter examines the terms through which the Aletheia source describes that response.
 
-The source's lexical glosses are preserved, and the additional direction is now incorporated. The leaflet glosses *dikaioō* as “render just or innocent, free from evil or guilt”; the complete G1344 entry supplied for this study includes Strong's core gloss and AV usage, followed by Thayer's three extended definitions, including “to render righteous or such he ought to be” and “to declare, pronounce, one to be just, righteous, or such as he ought to be.” The source's *dikaiosynē* explanation includes equity and conformity with God's nature and the conceptual phrase “original: back on course.” The leaflet glosses *apolutrōsis* as “redemption; ransom in full”; this book develops this as complete ransom and restoration to original design. These formulations are now integrated as source wording and the doctrinal explanation developed here, not left as unresolved alternatives.
+The source's lexical glosses are preserved, and the additional direction is now incorporated. The leaflet glosses *dikaioō* as “render just or innocent, free from evil or guilt”; the complete G1344 lexical entry includes Strong's core gloss and AV usage, followed by Thayer's three extended definitions, including “to render righteous or such he ought to be” and “to declare, pronounce, one to be just, righteous, or such as he ought to be.” The source's *dikaiosynē* explanation includes equity and conformity with God's nature and the conceptual phrase “original: back on course.” The leaflet glosses *apolutrōsis* as “redemption; ransom in full”; this book develops this as complete ransom and restoration to original design. These formulations are now integrated as source wording and the doctrinal explanation developed here, not left as unresolved alternatives.
 
 ## *Dikaioō* — justified freely and restored to our designed state
 
-In Romans 3:24, the Greek form is δικαιούμενοι (*dikaioumenoi*), from the lemma δικαιόω (*dikaioō*, Strong's G1344). It is a present passive participle, nominative masculine plural, rendered “being justified.” The verse therefore presents justification as the condition of those described by the participle, while the surrounding syntax and argument determine how the participle relates to verse 23. The complete G1344 entry supplied for this study is reproduced below, with its parts attributed accurately: Strong's gives the core gloss and AV usage; the three extended definitions are Thayer's Greek Lexicon definitions.
+In Romans 3:24, the Greek form is δικαιούμενοι (*dikaioumenoi*), from the lemma δικαιόω (*dikaioō*, Strong's G1344). It is a present passive participle, nominative masculine plural, rendered “being justified.” The verse therefore presents justification as the condition of those described by the participle, while the surrounding syntax and argument determine how the participle relates to verse 23. The complete G1344 lexical entry is reproduced below, with its parts attributed accurately: Strong's gives the core gloss and AV usage; the three extended definitions are Thayer's Greek Lexicon definitions.
 
 > **δικαιόω — STRONG'S NUMBER: G1344**  
 > *dikaioō*; from 1342; to render (i.e. show or regard as) just or innocent: — free, justify(-ier), be righteous.  
@@ -764,7 +764,7 @@ The relationship between glory and identity is further illuminated by 1 Corinthi
 
 Paul's immediate subject in 1 Corinthians 15 is the resurrection body and the distinctions in glory among heavenly and earthly bodies. The verse explicitly says that the sun, moon, and stars have differing glories. The book's doctrinal inference is that a thing is one by its glory: the glory identifies the nature and distinction of the thing. Therefore humanity's coming short of God's glory concerns falling short of the glory belonging to humanity's designed identity. In this argument, humanity is Gods by design, made in His image and likeness; sin is falling short of that designed state. This is a cross-passage inference, and it must be explained rather than presented as the sole subject of 1 Corinthians 15:41.
 
-Genesis 1:26–27 supplies the design basis: humanity is made in God's image and likeness. The Living Bible wording supplied for this manuscript reads: “So God made man like his Maker. Like God did God make man; Man and maid did he make them.” Read with the Aletheia leaflet's image/true-nature teaching, the conclusion developed here is that sin is deviation from the designed state, and justification restores us to that state.
+Genesis 1:26–27 supplies the design basis: humanity is made in God's image and likeness. The Living Bible (TLB) reads: “So God made man like his Maker. Like God did God make man; Man and maid did he make them.” Read with the Aletheia leaflet's image/true-nature teaching, the conclusion developed here is that sin is deviation from the designed state, and justification restores us to that state.
 
 There is no unpaid remainder on that ransom. *Apolutrōsis* is glossed by the Aletheia source as “redemption; ransom in full.” The doctrinal direction of this book is that redemption means we are completely ransomed and restored to original design. The full ransom is not an incomplete transaction that leaves humanity permanently beneath its intended state. In the book's doctrinal argument, redemption and restoration belong together: the ransom is complete, and its purpose and result are our return to the state for which we were made.
 
@@ -1059,7 +1059,7 @@ The preceding chapters have kept two questions together.
 
 The settled doctrinal position of this book is that **Jesus represents who we are by Design**. This thesis must be developed fully, not treated as a tentative inquiry. It is cumulative across the passages on Christ's person and the passages on His work. Christ's work does not disappear because His person represents who we are; His representation does not disappear because His work is essential.
 
-A concise working formulation is: **Christ's work restores what Christ's person reveals.** This is not a sentence quoted from one of the cited passages. It is the synthesis the book has been investigating: the One who reveals the image and glory of God is also the One through whom redemption, reconciliation, and justification are spoken of.
+A concise synthesis is: **Christ's work restores what Christ's person reveals.** This is not a sentence quoted from one of the cited passages. It is the synthesis the book has been investigating: the One who reveals the image and glory of God is also the One through whom redemption, reconciliation, and justification are spoken of.
 
 The phrase “restores what Christ's person reveals” should be read in light of the Aletheia source's “true nature from creation,” “come short of the glory,” and “back on course” formulations. “Back on course” is a conceptual formulation in this doctrinal architecture, not an exhaustive dictionary definition of every relevant Greek word.
 
@@ -1080,7 +1080,7 @@ The ten coordinated chapters follow the argument's dependencies, beginning with 
 
 This is the book's ten-chapter progression. The former question attached to Hebrews 1:8 is not pursued; the verse remains part of the biblical portrait of the Son where relevant. The argument of Book I is to establish the *hypostasis* foundation and develop the connected Aletheia doctrine, while Book II develops faith as evidence from that foundation.
 
-## The Book's Working Synthesis
+## The Book's Synthesis
 
 The source and Scripture set lead the reader through a connected inquiry:
 
