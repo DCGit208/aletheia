@@ -3,7 +3,6 @@ import { getFirestore } from "firebase-admin/firestore";
 import { HttpsError, onCall } from "firebase-functions/v2/https";
 import contentData from "./protected-content-data.json";
 import {
-  canReadAllProtectedContent,
   mayReadProtectedContent,
   selectReadableBookChapters,
   type ProtectedContentKind,
@@ -53,7 +52,6 @@ export const getProtectedContent = onCall({ region: REGION, cors: true }, async 
     hasEntitlement,
   };
   const allowed = mayReadProtectedContent(access);
-  const previewOnly = !canReadAllProtectedContent(access);
   if (!allowed) throw new HttpsError(uid ? "permission-denied" : "unauthenticated", "Purchase or sign in to access this content.");
 
   if (kind === "book") {
