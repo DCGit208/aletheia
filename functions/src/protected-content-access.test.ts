@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import { canReadAllProtectedContent, mayReadProtectedContent } from "./protected-content-access.js";
+import { canReadAllProtectedContent, mayReadProtectedContent, selectReadableBookChapters } from "./protected-content-access.js";
 
 const paidBook = {
   id: "book-principles-doctrine-christ",
@@ -15,8 +15,40 @@ const oneSourceBook = {
   previewChapterIds: [],
 };
 const paidCourse = { id: "course-fs-faith", accessLevel: "entitled", status: "published" };
+const doctrineOfFaithBook = {
+  id: "book-doctrine-of-faith",
+  accessLevel: "entitled",
+  status: "published",
+  previewChapterIds: ["ch-faith-1"],
+};
+const doctrineOfFaithChapters = Array.from({ length: 10 }, (_, index) => ({
+  id: "ch-faith-" + (index + 1),
+  bookId: "book-doctrine-of-faith",
+}));
 
 describe("protected content access", () => {
+  it("returns only Chapter 1 to visitors and all ten chapters to entitled readers", () => {
+    const anonymous = {
+      kind: "book" as const,
+      policy: doctrineOfFaithBook,
+      hasEntitlement: false,
+    };
+    const entitled = {
+      kind: "book" as const,
+      policy: doctrineOfFaithBook,
+      uid: "entitled-reader",
+      hasEntitlement: true,
+    };
+    assert.deepEqual(
+      selectReadableBookChapters(doctrineOfFaithChapters, doctrineOfFaithBook, anonymous).map((chapter) => chapter.id),
+      ["ch-faith-1"],
+    );
+    assert.deepEqual(
+      selectReadableBookChapters(doctrineOfFaithChapters, doctrineOfFaithBook, entitled).map((chapter) => chapter.id),
+      doctrineOfFaithChapters.map((chapter) => chapter.id),
+    );
+  });
+
   it("denies paid content without an entitlement", () => {
     assert.equal(
       mayReadProtectedContent({ kind: "course", policy: paidCourse, hasEntitlement: false }),
