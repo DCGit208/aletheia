@@ -50,15 +50,15 @@ The leaflet's other First Principles—baptisms, laying on of hands, resurrectio
 - The protected-content tests now explicitly verify that an ordinary visitor receives only Chapter 1 and an entitled reader receives all ten chapter records.
 - The prose pass removed internal production notes and converted chapter charges into reader-facing study questions. The Matthew 5:48 discussion was aligned with its immediate context; Chapter 3's *’ĕlōhîm* wording and source attribution were clarified; Chapters 6–7's internal charges were converted into teaching questions.
 - The 2015 Aletheia leaflet remains the controlling doctrinal source. The supplementary Dake introduction remains a method reference only.
-- The quotation register now contains 40 chapter-level Scripture passage entries marked targeted checked, plus original-language entries for *hypostasis*, *pistis*, *dikaioō*, *dikaiosynē*, *apolutrōsis*, *spoudē*, and *’ĕlōhîm*. Hebrew H430 and Greek G4102, G5287, G1343, G1344, and G629 have been checked against lexical/interlinear references.
-- The complete line-by-line check of every quotation/reference/punctuation mark against the selected editions, and final typeset proof, remain open. The manuscript is not yet a final designed proof.
+- The quotation register now contains 45 chapter-level Scripture passage entries marked targeted checked, plus eight original-language entries covering *’ĕlōhîm*, *hypostasis*, *pistis*, *dikaioō*, *dikaiosynē*, *apolutrōsis*, and *spoudē*. Hebrew H430 and Greek G4102, G5287, G1343, G1344, G629, G4710, and G4704 have been checked against lexical/interlinear references.
+- The manuscript-level Scripture and original-language audit is complete for the 45 registered passage entries and eight language entries. The prose/editorial pass has removed internal production language, retained teaching questions, and checked chapter continuity and source coverage. Final proof of the designed pages remains a Phase 3 task; it must be checked against this controlled manuscript.
 
 ### Remaining gates
 
-1. Complete the final chapter-level Scripture and lexical proof against the actual manuscript text.
-2. Complete the latest deployment and verify the updated live reader.
-3. Test a real entitled account end-to-end to confirm access to all ten chapters.
-4. Complete Phase 3 production and Phase 4 final approval/publication.
+1. Complete the latest deployment and verify the updated live reader after the final editorial commits.
+2. Test a real entitled account end-to-end to confirm access to all ten chapters.
+3. Complete Phase 3 production and proof the designed pages against the approved manuscript.
+4. Complete Phase 4 final approval and publication.
 
 ## 1. Author doctrinal decisions
 
