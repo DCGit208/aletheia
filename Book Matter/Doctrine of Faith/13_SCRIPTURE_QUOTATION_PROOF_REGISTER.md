@@ -101,3 +101,10 @@ The following are not Bible translations and must be checked against the 2015 Al
 4. Confirm that TLB credit appears on the copyright page and that the quoted TLB wording remains within the applicable permissions conditions.
 5. After any chapter-level correction, regenerate the protected reader payload and run the exact chapter-by-chapter parity check against publication manuscript 14.
 6. Do not mark the book publication-ready until every row has passed and the author has reviewed the final designed proof.
+
+
+---
+
+## Editorial and deployment status — 2026-11-06
+
+The second editorial correction pass changed the presentation of Chapter 1 and the Chapter 9 transition; it did not verify any additional Bible quotations or original-language forms. All existing quotation statuses in this register remain unchanged. In particular, targeted checks must not be promoted to final proof. Every quotation and reference must still be checked against the selected edition and rechecked after typesetting. The latest reader-source synchronization also requires a successful deployment and parity verification before it is treated as live.
