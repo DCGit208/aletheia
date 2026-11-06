@@ -138,4 +138,8 @@ jobs:
           if (!html.includes("The Doctrine of Faith")) throw new Error("Book I title is missing from the live catalogue page.");
           if (!html.includes("doctrine-of-faith-seal.png")) throw new Error("The original Book I cover is missing from the live catalogue page.");
           console.log("Live Book I catalogue page, title, and original cover verified.");
+          const readerUrl = "https://app.aletheiaworld.org/learn/read/book-doctrine-of-faith?chapter=ch-faith-1";
+          const readerResponse = await fetch(readerUrl, { redirect: "follow" });
+          if (!readerResponse.ok) throw new Error(`Book I reader route returned HTTP ${readerResponse.status}.`);
+          console.log("Live Book I reader route responds successfully.");
           NODE
