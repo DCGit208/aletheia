@@ -205,3 +205,19 @@ A further book-wide pass addressed the uneven chapter-end presentation and the r
 The manuscript and reader synchronization commits are now in GitHub. The automated publication-integrity workflow must complete successfully against the latest commit before this synchronized state is considered technically verified or live.
 
 **Remaining editorial concern:** a complete chapter-by-chapter developmental and line/copy edit is still required. Standardizing headings and transitions does not by itself resolve uneven chapter depth, repetition, the quality of examples, or the full reader journey. Scripture quotation proof, lexical/bibliographic verification, glossary treatment, designed-page production and final author proof remain open.
+
+
+## Production work log — 6 November 2026, substantive depth and parity correction
+
+The review of the shorter chapters led to targeted additions rather than an attempt to equalize chapter lengths.
+
+- **Chapter 4:** strengthened the reading of Psalm 82 by making the moral and judicial setting more explicit, holding the declaration “Ye are gods” together with the judgment in verses 7–8, and clarifying the sequence of Jesus' appeal in John 10. The additions preserve the source's force while refusing to detach the declaration from the psalm's rebuke and Jesus' full exchange.
+- **Chapter 5:** strengthened the explanation of 2 Peter 1:4–8 by showing how participation in divine nature, escape from corruption, diligence, the listed qualities, and fruitfulness in the knowledge of Christ belong to one continuous passage. No new lexical definition was introduced.
+- **Chapter 6 and Chapter 8:** reviewed for their role in the argument. Their existing content carries the redemption/representation and Son/heirship movements; they remain on the developmental-edit list for a full literary pass rather than being lengthened merely to match other chapters.
+- **Chapter transitions:** all remaining “Transition to Chapter” production labels have now been removed from the controlled manuscript. The transitions are reader-facing prose.
+- **Chapter-end pedagogy:** Chapters 2–9 now use the consistent heading “Questions for reflection and study”; Chapter 1 retains “Questions for reflection.” Chapter 10 closes the book without an artificial question block.
+- **Reader parity:** an initial automated check exposed a trailing-newline mismatch between the manuscript and reader payload. The reader bodies have been regenerated using the exact normalization used by the integrity check. The latest check is pending; do not call parity verified until it succeeds.
+
+The canonical manuscript remains document 14. Document 11 is a superseded working copy; document 15 is a preservation archive; documents 89 and 95 record earlier architecture stages, with document 89 explicitly superseded. Current architecture and source controls are in documents 90, 94 and 96, read alongside document 14 and the current audit registers.
+
+**Current decision remains unchanged:** the corrections materially improve the reading experience but do not complete the full developmental edit, specialist lexical review, complete quotation proof, bibliography/reference cleanup, glossary, professional typesetting, page-by-page proof, live entitled-account test, or final author approval. Book I is **NOT FINAL**.
