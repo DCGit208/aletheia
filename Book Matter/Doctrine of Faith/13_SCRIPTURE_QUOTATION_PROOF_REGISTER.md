@@ -65,6 +65,7 @@
 
 | Reference | Form | Check required |
 |---|---|---|
+| Genesis 1:26 | אֱלֹהִים (*’ĕlōhîm*, H430) | Masculine plural noun, checked against Strong's H430 and BDB. The Aletheia leaflet's “plural: Trinity” interpretation is retained as the controlling doctrinal reading. Final typeset proof remains. |
 | Hebrews 11:1 | ὑπόστασις (*hypostasis*, G5287) | Greek text and lexical range checked against the interlinear and Thayer/Strong's entries: substructure/foundation, actual existence/substance, nature, and confidence/assurance. The book's settled doctrinal foundation remains faith as substance and underlying state. Final typeset proof remains. |
 | Hebrews 6:1 | πίστεως (*pisteōs*, G4102) | Genitive singular feminine noun; the phrase is πίστεως ἐπὶ Θεόν (“faith toward God”). Greek text and morphology checked against the interlinear. The leaflet's “faith toward God” teaching is preserved. |
 | Chapter 2 / source term | πίστις (*pistis*, G4102) | Strong's and Thayer's entries checked: feminine noun; Strong's includes “persuasion, i.e. credence.” The leaflet's definition and doctrinal use remain controlling. |
