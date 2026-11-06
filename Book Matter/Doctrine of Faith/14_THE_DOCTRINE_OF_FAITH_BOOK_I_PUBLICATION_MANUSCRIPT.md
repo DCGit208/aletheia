@@ -410,7 +410,7 @@ Chapter 1 established the foundational inquiry into faith as *hypostasis*; Chapt
 
 The leaflet does not treat faith as an isolated mental technique. It places *pistis* beside the claim about true nature from creation and then brings in Genesis 1:26–28, 2 Peter 1:4, and Psalm 82:6. This chapter follows that source sequence. It does not claim that Genesis 1:26–28 itself uses the word *pistis* or explains *hypostasis*. Rather, Genesis supplies the image, likeness, blessing, fruitfulness, and dominion language through which the source's account of true nature and design is developed.
 
-The doctrinal direction of this book is that the thesis **“Jesus represents who we are by Design”** must be developed fully. Jesus is not presented merely as the One who accomplished something on our behalf; He represents who humanity is by design. His accomplishment and His representation are both essential and must be held together throughout Book I. Genesis 1:26–28 establishes the design identity; the later passages develop its relation to divine nature, sonship, perfection, present reality, and Christ.
+The governing thesis is **“Jesus represents who we are by Design.”** Jesus is not presented merely as the One who accomplished something on our behalf; He represents who humanity is by design. His accomplishment and His representation belong together throughout Book I. Genesis 1:26–28 establishes the design identity; the later passages develop its relation to divine nature, sonship, perfection, present reality, and Christ.
 
 ---
 
@@ -420,9 +420,9 @@ The source's preceding argument states that acceptance or approval is grounded i
 
 Genesis 1:26 — “And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.”
 
-God, in the Hebrew of this verse, is ’ĕlōhîm. The Aletheia leaflet interprets ’ĕlōhîm as plural: Trinity. That is the source's stated theological interpretation and must be represented faithfully. The argument should not pretend that the noun's grammatical form, by itself, completes the case for the Trinity; the source's reading is developed together with “Let us make,” “our image,” and the wider Scripture set.
+The Hebrew form is אֱלֹהִים (*’ĕlōhîm*, Strong's H430), a masculine plural noun. The Aletheia leaflet interprets *’ĕlōhîm* as plural: Trinity. This is the source's stated theological interpretation. The reading is developed together with the words “Let us make,” “our image,” and the wider Scripture set.
 
-The source's reading takes “Let us make” and “our image” as God's own speech concerning God's creative act, rather than as a committee of created beings designing a lesser thing. That is the theological inference the teaching advances; it should be shown as the source's interpretation and then reasoned from the surrounding text, not presented as a grammatical fact established by the noun alone. The thing made is humanity, described in the verse as made in God's image and after His likeness.
+The source reads “Let us make” and “our image” as God's own speech concerning His creative act, not as a committee of created beings designing a lesser thing. This is the theological reading advanced by the teaching. The thing made is humanity, described in the verse as made in God's image and after His likeness.
 
 Image. Likeness. Dominion. Those are the explicit terms and commission in Genesis 1:26–28. The further statement that humanity's identity is determined by its design and by the One who designed it is the chapter's synthesis of those terms.
 
@@ -436,15 +436,15 @@ The quotation is retained alongside the KJV, not as a replacement for it. The fu
 
 Genesis 1:28 — “And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.”
 
-He blessed them. He spoke to them. Fruitful. Multiply. Replenish. Subdue. Have dominion. The blessing and the charge are one speech. The argument will not permit “image” to remain a pious word while dominion is discarded as optional poetry.
+He blessed them. He spoke to them. Fruitful. Multiply. Replenish. Subdue. Have dominion. The blessing and the charge are one speech. Image and dominion belong together in the passage; the commission is part of the stated design, not decorative language.
 
-The exposition must not put a softer sentence in the place of Genesis 1:26–28. Teach the verses as written. The chapter's governing claim is that humanity's identity must be understood in relation to its design and to the One who designed it.
+Genesis 1:26–28 states humanity's identity in relation to its design and to the One who designed it. Its language of image, likeness, blessing, fruitfulness, and dominion remains central to the argument.
 
-The following Scripture set is to be read alongside these verses. It must neither be detached from Genesis nor used to empty Genesis of its stated terms. The passages are to be held together while their distinct contexts remain visible.
+The following passages are read alongside Genesis 1:26–28. They extend the design argument while retaining their own wording and contexts.
 
 John 14:12 — “Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.”
 
-He that believeth on Me. The works that I do shall he do also. Greater works than these shall he do. Because I go unto My Father. The existing companion's exposition reads the Son's going as the reason the believer is not left as a spectator of works he can never touch. That is an interpretive development of the verse's stated connection, not a separate quotation from the text. Do not reduce the verse to a motivational slogan or empty it because it is demanding. Read it alongside Genesis 1:26–28, while retaining John 14:12's own stated connection between the believer's works and Jesus' going to the Father.
+He that believeth on Me. The works that I do shall he do also. Greater works than these shall he do. Because I go unto My Father. Jesus connects the believer's works with His own works and with His going to the Father. The verse therefore belongs in the design discussion: the believer is not left as a spectator of the works Jesus describes. Read alongside Genesis 1:26–28, John 14:12 extends the inquiry into the expression of humanity's designed identity.
 
 1 John 4:17 — “Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.”
 
