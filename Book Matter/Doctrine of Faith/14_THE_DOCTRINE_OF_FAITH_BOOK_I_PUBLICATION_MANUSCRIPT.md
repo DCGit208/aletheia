@@ -813,18 +813,6 @@ Romans 3:24 explicitly joins free justification with redemption in Christ Jesus.
 The Son's identity and inheritance now bring the argument to the question of heirship. The next chapter considers Him as heir of all things and the express image of the Father, then develops the believer's sonship and heirship through Galatians 4:5–7 and Romans 8:16–17. Hebrews 1:8 remains part of the Son's scriptural portrait; the former leaflet question is not an unresolved doctrinal decision.
 
 
-### Lexical references for G1344 and G629
-
-- Romans 3:24 Greek form and morphology: δικαιούμενοι (*dikaioumenoi*), present passive participle, nominative masculine plural; see https://www.openbible.com/text/romans/3-24.htm and https://www.studylight.org/interlinear-study-bible/greek/romans/3-24.html.
-- Strong's Greek G1344, δικαιόω (*dikaioō*), core definition and AV usage; Thayer's extended definitions reproduced above. Reference consulted: https://biblehub.com/strongs/greek/1344.htm and https://biblehub.com/thayers/1344.htm.
-- Strong's Greek G629, ἀπολύτρωσις (*apolutrōsis*), from G575 and G3083; “ransom in full,” figuratively “riddance,” or Christian salvation. Reference consulted: https://biblehub.com/strongs/greek/629.htm.
-- Thayer's Greek Lexicon, G629: release effected by payment of ransom; redemption, deliverance, liberation procured by ransom. Reference consulted: https://biblehub.com/thayers/629.htm.
-
-These lexical references support the word-level statements. Thayer's qualification concerning the rarity of the “make righteous” sense must remain visible alongside the required quotation. They do not replace the Aletheia source or independently establish every element of the book's wider restoration-to-design doctrine.
-
-
----
-
 # Chapter 8 — The Son, the Heir, and the Representation of Design
 
 
@@ -1109,28 +1097,40 @@ Dake, Finis Jennings. *Dake Study Bible Notes: Bible Introduction*. Supplied int
 - OpenBible Greek text and morphology, 2 Peter 1:5: https://www.openbible.com/text/2_peter/1-5.htm
 - Greek interlinear, 2 Corinthians 5:21: https://cnbible.com/text/2_corinthians/5-21.htm
 
-## Editorial note on references
+## Lexical notes for Romans 3:24 and the redemption terms
 
-Lexical references are cited for the specific word entries and interpretive discussions identified in the chapters. The Aletheia leaflet remains the controlling doctrinal source. The supplementary Dake introduction is not cited as the source of Aletheia's doctrinal glosses.
+Romans 3:24 uses δικαιούμενοι (*dikaioumenoi*), a present passive participle, nominative masculine plural. The form and morphology may be checked against the Greek text and interlinear resources listed below.
 
----
+Strong's Greek G1344, δικαιόω (*dikaioō*), supplies the core definition and King James Version usage; Thayer's entry provides its extended definitions. Thayer's qualification concerning the rarity of the “make righteous” sense remains relevant and should be read alongside the Aletheia leaflet's own printed gloss. Strong's and Thayer's entries are distinct lexical sources and are not to be merged into one quotation.
+
+Strong's Greek G629, ἀπολύτρωσις (*apolutrōsis*), gives “ransom in full,” figuratively “riddance,” and Christian salvation. Thayer describes release effected by payment of ransom, including redemption, deliverance, and liberation procured by ransom. The Aletheia source's wording “redemption; ransom in full” is retained as source wording. The wider conclusion that complete ransom means restoration to original design is the doctrinal interpretation developed in this book, not a separate literal gloss of the Greek components.
+
+- Romans 3:24 Greek form and morphology: δικαιούμενοι (*dikaioumenoi*), present passive participle, nominative masculine plural; see https://www.openbible.com/text/romans/3-24.htm and https://www.studylight.org/interlinear-study-bible/greek/romans/3-24.html.
+- Strong's Greek G1344, δικαιόω (*dikaioō*), core definition and AV usage; Thayer's extended definitions reproduced above. Reference consulted: https://biblehub.com/strongs/greek/1344.htm and https://biblehub.com/thayers/1344.htm.
+- Strong's Greek G629, ἀπολύτρωσις (*apolutrōsis*), from G575 and G3083; “ransom in full,” figuratively “riddance,” or Christian salvation. Reference consulted: https://biblehub.com/strongs/greek/629.htm.
+- Thayer's Greek Lexicon, G629: release effected by payment of ransom; redemption, deliverance, liberation procured by ransom. Reference consulted: https://biblehub.com/thayers/629.htm.
+
+These lexical references support the word-level statements. Thayer's qualification concerning the rarity of the “make righteous” sense must remain visible alongside the required quotation. They do not replace the Aletheia source or independently establish every element of the book's wider restoration-to-design doctrine.
+
+
+## Note on the use of sources
+
+The 2015 Aletheia leaflet, *Aletheia Libraries 1*, is the controlling doctrinal source for the treatment of “Faith toward God.” Biblical quotations are identified by translation, and lexical works are cited for the specific language evidence they provide. The supplementary Dake introduction is included as an interpretive-method reference; it is not the source of the Aletheia leaflet's doctrinal statements or lexical glosses.
 
 # Scripture Reference Guide
 
-The principal Scripture clusters developed in this book include:
+This guide locates the principal Scripture passages by chapter. It is a chapter-based guide rather than a page-number index; page references can be added after the final designed edition has been typeset and paginated.
 
-- Genesis 1:26–28
-- Psalm 82:6–7
-- Matthew 3:17; 5:43–48
-- Mark 11:20–25
-- John 10:30–38; 14:12; 17:1, 18–23
-- Romans 3:21–26; 8:14–17
-- 1 Corinthians 11:7; 15:41
-- 2 Corinthians 4:1–6; 5:17–21
-- Galatians 4:4–7
-- Ephesians 1:5–7
-- Colossians 1:13–14
-- Hebrews 1:1–8; 3:14; 6:1; 10:32–39; 11:1–13
-- 1 John 4:17
-- 2 Peter 1:2–8
+| Chapter | Subject | Principal Scripture references |
+|---|---|---|
+| 1 | Faith as *hypostasis* and the foundation of the doctrine | Hebrews 10:32–39; 11:1–13; 1:3; 3:14; 6:1; Mark 11:20–25 |
+| 2 | *Pistis*, credence, the state of God's children, and Sonship | Hebrews 6:1; Galatians 4:4–7; Romans 8:14–17; Ephesians 1:3–5; Matthew 3:17; Hebrews 11:2, 5–6 |
+| 3 | *’Ĕlōhîm*, image, likeness, and human Design | Genesis 1:26–28; Mark 11:20–25; John 14:12; 1 John 4:17 |
+| 4 | Psalm 82 and Jesus' appeal in John 10 | Psalm 82:1–8; John 10:30–38 |
+| 5 | True nature and participation in divine nature | 2 Peter 1:2–8; Genesis 1:26–28; Psalm 82:5; Romans 3:23–24 |
+| 6 | Coming short of glory, righteousness, and why Jesus came | Romans 3:21–26; 1 Corinthians 11:7; Ephesians 1:7; Colossians 1:13–14 |
+| 7 | Redemption, free justification, and righteousness in Christ | Romans 3:23–24; 1 Corinthians 15:41; 2 Corinthians 5:17–21 |
+| 8 | The Son, the heir, and the representation of Design | Hebrews 1:1–8; Galatians 4:5–7; Romans 8:14–17; Ephesians 1:5; 2 Corinthians 5:21; 1 John 4:17 |
+| 9 | Oneness and glory in the prayer of Jesus | John 17:1, 18–23; Genesis 1:26–28; Romans 3:23; 1 Corinthians 11:7; Hebrews 1:3; 1 John 4:17 |
+| 10 | The image of God and the glory in the face of Jesus Christ | 2 Corinthians 4:1–6; Genesis 1:26–28; Romans 3:23–26; 2 Corinthians 5:17–21; Hebrews 1:2–3; John 17:20–23 |
 
