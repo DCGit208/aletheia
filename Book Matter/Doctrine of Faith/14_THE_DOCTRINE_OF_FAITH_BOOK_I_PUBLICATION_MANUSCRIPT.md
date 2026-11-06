@@ -1139,7 +1139,7 @@ Dake, Finis Jennings. *Dake Study Bible Notes: Bible Introduction*. Supplied int
 ## Lexical and language references
 
 - Thayer, Joseph Henry. *A Greek-English Lexicon of the New Testament*. Revised and enlarged edition, 1889. Entries G4102 (πίστις), G5287 (ὑπόστασις), G1343 (δικαιοσύνη), G1344 (δικαιόω), and G629 (ἀπολύτρωσις). Online text consulted through BibleHub: https://biblehub.com/thayers/4102.htm ; https://biblehub.com/thayers/5287.htm ; https://biblehub.com/thayers/1343.htm ; https://biblehub.com/thayers/1344.htm ; https://biblehub.com/thayers/629.htm
-- Strong, James. *The Exhaustive Concordance of the Bible*. 1890. Greek entries G4102, G5287, G1343, G1344, and G629. Online text consulted through BibleHub: https://biblehub.com/strongs/greek/4102.htm ; https://biblehub.com/strongs/greek/5287.htm ; https://biblehub.com/strongs/greek/1343.htm ; https://biblehub.com/strongs/greek/1344.htm ; https://biblehub.com/strongs/greek/629.htm
+- Strong, James. *The Exhaustive Concordance of the Bible*. 1890. Greek entries G4102, G5287, G1343, G1344, G629, G4710, and G4704. Online text consulted through BibleHub: https://biblehub.com/strongs/greek/4102.htm ; https://biblehub.com/strongs/greek/5287.htm ; https://biblehub.com/strongs/greek/1343.htm ; https://biblehub.com/strongs/greek/1344.htm ; https://biblehub.com/strongs/greek/629.htm
 - Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament*. 1906. Entry H430 (אֱלֹהִים). Online text consulted through BibleHub: https://biblehub.com/bdb/430.htm.
 - *Strong's Hebrew Concordance*, entry H430. BibleHub: https://biblehub.com/strongs/hebrew/430.htm.
 - *NAS Exhaustive Concordance*, entry for ὑπόστασις, consulted through BibleHub.
