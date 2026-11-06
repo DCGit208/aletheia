@@ -216,36 +216,22 @@ The books therefore have a related but distinct responsibility:
 - **Book I:** establish the nature / state / substance foundation of faith and develop its doctrinal implications.
 - **Book II:** develop faith as evidence from that established foundation.
 
-## 9. Foundation chapter conclusions and questions for the next chapters
+## What the foundation makes clear
 
-This chapter establishes the following:
+Hebrews 11:1 places *hypostasis* at the centre of the first inquiry into faith. The word has a documented range that includes substance and underlying reality, as well as confidence and assurance; its force must be considered in the sentence and in the argument of Hebrews. Hebrews 1:3 and 3:14 deepen that investigation, but their distinct contexts must remain clear.
 
-1. Hebrews 11:1 is the foundational scriptural statement for the study of faith as *hypostasis* / substance.
-2. *Hypostasis* has a documented semantic range that includes substance / actual reality / nature and confidence / assurance; the contextual sense must be argued.
-3. Hebrews 1:3 and 3:14 are necessary comparisons, but their distinct contexts must remain intact.
-4. The Aletheia leaflet explicitly teaches *pistis* / credence as defining the state of children of God, but it does not itself quote Hebrews 11:1 or use *hypostasis*.
-5. The doctrinal thesis developed in this book connects Hebrews 11:1's substance-language to the person's underlying nature and state; the remaining chapters must develop that connection through the full source and Scripture architecture.
-6. Book II develops faith as evidence from the foundation established in Book I.
+The 2015 Aletheia leaflet makes a direct statement of its own: *pistis*, rendered “credence,” defines the state of the children of God and is connected with acceptance, true nature, and Sonship. The leaflet does not use *hypostasis* in that discussion. This book brings the two scriptural lines into a reasoned doctrinal relationship: the substance language of Hebrews 11:1 is read alongside the Aletheia teaching on the state of God's children.
 
-Chapter 2 now develops the Aletheia source's *pistis* / credence / Sonship teaching in direct relation to this foundation. It explains how the source's claims about credence, acceptance, true nature, and adoption function within the doctrine established here.
+That relationship is the foundation for the chapters that follow. They develop the meaning of design, image and likeness, divine nature, redemption, righteousness, heirship, and oneness. Book I establishes this nature-and-state foundation; Book II takes up the evidence dimension of Hebrews 11:1.
 
-## Study questions
+## Questions for reflection
 
-1. What does Hebrews 11:1 explicitly say about faith, things hoped for, and things not seen?
-2. What evidence supports the “substance / underlying reality” reading of *hypostasis* in this context, and what evidence supports “assurance / confidence”?
-3. What does Hebrews 1:3 contribute to the investigation, and what cannot be inferred merely from the fact that the same noun occurs in Hebrews 11:1?
-4. How does Hebrews 3:14 control the claim that *hypostasis* has only one meaning?
-5. How does the Aletheia source's explicit teaching that *pistis* defines the state of children of God connect with Hebrews 11:1?
-6. How do lexical evidence, the Aletheia source's explicit state teaching, and the doctrinal synthesis developed here work together in the connection between *hypostasis*, substance, and the person's underlying nature/state?
-7. What must the later chapters demonstrate about design, Sonship, divine nature, redemption, righteousness, heirship, and oneness for the foundational thesis to become a coherent doctrine rather than a repeated slogan?
-
-
-## Editorial proofing control — lexical sources
-
-The following online reference entries inform the lexical discussion: [Thayer's Greek Lexicon, ὑπόστασις (G5287), reproduced at BibleHub](https://biblehub.com/thayers/5287.htm); [BibleHub, Hebrews 11:1 lexicon](https://biblehub.com/lexicon/hebrews/11-1.htm); [Cambridge Greek Testament Commentary, Hebrews 11:1](https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/hebrews/11/1); and [Expositor's Greek Testament, Hebrews 11:1](https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/hebrews/11/1). These references are cited for their lexical and interpretive contributions. The distinction between lexical evidence, the wording and context of Hebrews, and the doctrinal synthesis developed in this book is maintained throughout.
-
-
----
+1. What does Hebrews 11:1 say about faith, things hoped for, and things not seen?
+2. Why should “substance” and “assurance” be considered carefully rather than treated as interchangeable?
+3. What does Hebrews 1:3 contribute to the study of *hypostasis*, and why must its context remain distinct?
+4. What does Hebrews 3:14 add to our understanding of the word's range?
+5. What does the Aletheia leaflet explicitly teach about *pistis*, credence, and the state of God's children?
+6. How does the relationship between Hebrews 11:1 and the leaflet's teaching shape the way you understand faith—not merely as something you think, but as a state connected with sonship?
 
 # Chapter 2 — Πίστις (*Pistis*): Credence, the State of God's Children, and Sonship
 
@@ -1015,7 +1001,7 @@ That line is the book's synthesis of the source's Scripture cluster. John 17 is 
 5. Why is it inadequate to reduce this prayer to an organizational merger or a feeling of togetherness?
 6. Which links to Romans 3:23, 1 Corinthians 11:7, 2 Corinthians 5:21, Hebrews 1:3, and 1 John 4:17 are explicit statements, and which are synthesis?
 
-**Forward link:** The next chapter examines 2 Corinthians 4:1–6, where Christ is named the image of God and the knowledge of God's glory is located “in the face of Jesus Christ.”
+The prayer's vision of oneness and shared glory leads naturally to the final question of this volume: where is the image and glory of God made fully visible? Paul directs that inquiry to Christ, “who is the image of God,” and to the knowledge of God's glory “in the face of Jesus Christ” (2 Corinthians 4:4–6).
 
 
 ---
