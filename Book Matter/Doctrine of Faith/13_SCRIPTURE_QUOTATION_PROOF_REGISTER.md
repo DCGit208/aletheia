@@ -65,14 +65,14 @@
 
 | Reference | Form | Check required |
 |---|---|---|
-| Hebrews 11:1 | ὑπόστασις (*hypostasis*, G5287) | Targeted lexical check completed against Greek interlinear and Thayer/Strong's entries; the range of substructure/foundation, actual existence/substance, nature, and confidence/assurance is recorded. The book's settled doctrinal foundation remains faith as substance and underlying state. Final typeset proof remains. |
+| Hebrews 11:1 | ὑπόστασις (*hypostasis*, G5287) | Greek text and lexical range checked against the interlinear and Thayer/Strong's entries: substructure/foundation, actual existence/substance, nature, and confidence/assurance. The book's settled doctrinal foundation remains faith as substance and underlying state. Final typeset proof remains. |
 | Hebrews 6:1 | πίστεως (*pisteōs*, G4102) | Genitive singular feminine noun; the phrase is πίστεως ἐπὶ Θεόν (“faith toward God”). Greek text and morphology checked against the interlinear. The leaflet's “faith toward God” teaching is preserved. |
 | Chapter 2 / source term | πίστις (*pistis*, G4102) | Strong's and Thayer's entries checked: feminine noun; Strong's includes “persuasion, i.e. credence.” The leaflet's definition and doctrinal use remain controlling. |
 | Mark 11:22 | πίστιν θεοῦ (*pistin theou*, G4102) | Accusative feminine singular noun + genitive masculine singular noun; wording and morphology checked in the Greek interlinear. Lexical commentary records “faith in God” as an object-genitive reading. The book's settled doctrinal interpretation is retained without presenting it as a word-for-word morphology gloss. Final typeset proof remains. |
 | Romans 3:24 | δικαιούμενοι (*dikaioumenoi*, G1344) | Present passive participle, nominative masculine plural; morphology checked against the Greek interlinear and Strong's/Thayer's G1344 entries. Final typeset proof remains. |
 | 2 Corinthians 5:21 | δικαιοσύνη (*dikaiosynē*, G1343) | Nominative singular feminine noun; morphology checked against Greek interlinear; Strong's/Thayer's G1343 entries checked. Preserve the Aletheia leaflet's additional gloss as source wording. |
 | Romans 3:24 | ἀπολυτρώσεως (*apolutrōseōs*) | G629 noun, genitive singular; targeted lexical check against Strong’s/Thayer completed; recheck in final typeset proof. |
-| 2 Peter 1:5 | σπουδή (*spoudē*) | Noun G4710 checked against Strong’s; distinguish it from the verb σπουδάζω (*spoudazō*, G4704) used in 2 Timothy 2:15 and cited in the 2015 leaflet. Final specialist review remains. |
+| 2 Peter 1:5 | σπουδή (*spoudē*) | Noun G4710 checked against Strong's; distinguish it from the verb σπουδάζω (*spoudazō*, G4704) used in 2 Timothy 2:15 and cited in the 2015 leaflet. Final typeset proof remains. |
 
 ## Aletheia source quotation controls
 
