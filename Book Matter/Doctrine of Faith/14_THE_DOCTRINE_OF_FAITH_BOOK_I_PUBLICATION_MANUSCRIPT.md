@@ -413,7 +413,7 @@ The Hebrew form is אֱלֹהִים (*’ĕlōhîm*, Strong's H430), a masculine
 
 The source reads “Let us make” and “our image” as God's own speech concerning His creative act, not as a committee of created beings designing a lesser thing. This is the theological reading advanced by the teaching. The thing made is humanity, described in the verse as made in God's image and after His likeness.
 
-Image. Likeness. Dominion. Those are the explicit terms and commission in Genesis 1:26–28. The further statement that humanity's identity is determined by its design and by the One who designed it is the chapter's synthesis of those terms.
+Genesis 1:26–28 names humanity's image and likeness, then records the blessing and commission to be fruitful, multiply, replenish the earth, subdue it, and exercise dominion. Image and likeness are not detached from the purpose and responsibility stated in the same passage. The commission belongs to the design being described.
 
 Genesis 1:27 — “So God created man in his own image, in the image of God created he him; male and female created he them.”
 
@@ -423,7 +423,7 @@ The 2015 Aletheia leaflet places the paraphrase “So God made man like his Make
 Like God did God make man;
 Man and maid did he make them.”
 
-The quotation is retained alongside the KJV, not as a replacement for it. The full wording is verified as Genesis 1:27 in The Living Bible (TLB), copyright © 1971 Tyndale House Foundation. The 2015 leaflet separately places the line “Like God did God make man” beside a parenthetical attribution to the Life Application Bible. Preserve that source note as part of the leaflet's history, but use the required TLB attribution for the full quotation reproduced here. Reference: https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=TLB.
+
 
 Genesis 1:28 — “And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.”
 
@@ -443,11 +443,11 @@ The clause “as he is, so are we in this world” is a strong present-tense sta
 
 Psalm 82:6 — “I have said, Ye are gods; and all of you are children of the most High.”
 
-Romans 8:17 you have already heard: if children, then heirs; heirs of God, and joint-heirs with Christ.
+Romans 8:17 adds the inheritance language: if children, then heirs—heirs of God and joint-heirs with Christ.
 
-John 17:20–23 belongs in this Scripture set as Jesus' prayer concerning oneness and the glory given. Its full argument is developed in Chapter 9; here it functions as a cross-reference, not as a substitute for reading the prayer in context.
+Jesus' prayer in John 17:20–23 develops the themes of oneness and shared glory. Its full argument is considered in Chapter 9.
 
-Genesis requires neither apology nor an invented title beyond the wider scriptural witness. The text is to be read as written, and conclusions are to be reasoned from it. The leaflet names *The Doctrine of Man* and *Why Men Die* in its first further-reading note. It later recommends requesting *True Nature of God*, describing it with the parenthetical claim: “if you know God’s nature, then you’re as Him, unlimited, because we’re made in His image. Genesis 1:26.” That wording is the leaflet's description of the resource; it should not be silently recast as a conclusion proven by Genesis 1:26 alone. The leaflet separately names *WHO'S JESUS TO YOU?* and directs the reader to its Address page for request details. These titles and instructions are retained as source provenance, not as a new course sequence. The exact resource titles and request details should remain in the book's source notes even if the resources themselves are not reproduced here.
+
 
 ## Jesus as representation of humanity's design — governing doctrinal direction
 
@@ -1112,6 +1112,12 @@ Strong's Greek G629, ἀπολύτρωσις (*apolutrōsis*), gives “ransom i
 
 These lexical references support the word-level statements. Thayer's qualification concerning the rarity of the “make righteous” sense must remain visible alongside the required quotation. They do not replace the Aletheia source or independently establish every element of the book's wider restoration-to-design doctrine.
 
+
+## Source notes: Genesis 1:27 and resources named in the leaflet
+
+The Genesis 1:27 quotation reproduced in Chapter 3 is from *The Living Bible* (TLB), copyright © 1971 Tyndale House Foundation. It is included alongside the King James Version and does not replace the biblical text quoted from the KJV. The 2015 Aletheia leaflet places the line “Like God did God make man” beside a parenthetical attribution to the Life Application Bible; that attribution is retained here as a note about the leaflet's presentation. The full TLB wording is identified and credited according to the translation actually quoted. Reference: https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=TLB.
+
+The leaflet's further-reading notes name *The Doctrine of Man* and *Why Men Die*. It also recommends requesting *True Nature of God*, describing the resource with the statement: “if you know God’s nature, then you’re as Him, unlimited, because we’re made in His image. Genesis 1:26.” The leaflet separately names *WHO'S JESUS TO YOU?* and directs readers to its Address page for request details. These titles and descriptions are recorded as source provenance. The parenthetical description of *True Nature of God* is the leaflet's wording about that resource; it is not presented as a conclusion proven by Genesis 1:26 alone. The titles are not being introduced as a new course sequence.
 
 ## Note on the use of sources
 
