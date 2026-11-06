@@ -1136,8 +1136,10 @@ Dake, Finis Jennings. *Dake Study Bible Notes: Bible Introduction*. Supplied int
 
 ## Lexical and language references
 
-- *Thayer's Greek-English Lexicon of the New Testament*, entries G1344 (δικαιόω), G629 (ἀπολύτρωσις), and ὑπόστασις. Online text consulted through BibleHub: https://biblehub.com/thayers/1344.htm ; https://biblehub.com/thayers/629.htm ; https://biblehub.com/greek/5287.htm
-- *Strong's Greek Concordance*, entries G1344 and G629. BibleHub: https://biblehub.com/strongs/greek/1344.htm ; https://biblehub.com/strongs/greek/629.htm
+- *Thayer's Greek-English Lexicon of the New Testament*, entries G4102 (πίστις), G5287 (ὑπόστασις), G1343 (δικαιοσύνη), G1344 (δικαιόω), and G629 (ἀπολύτρωσις). Online text consulted through BibleHub: https://biblehub.com/thayers/4102.htm ; https://biblehub.com/thayers/5287.htm ; https://biblehub.com/thayers/1343.htm ; https://biblehub.com/thayers/1344.htm ; https://biblehub.com/thayers/629.htm
+- *Strong's Greek Concordance*, entries G4102, G5287, G1343, G1344, and G629. BibleHub: https://biblehub.com/strongs/greek/4102.htm ; https://biblehub.com/strongs/greek/5287.htm ; https://biblehub.com/strongs/greek/1343.htm ; https://biblehub.com/strongs/greek/1344.htm ; https://biblehub.com/strongs/greek/629.htm
+- Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament*, entry H430 (אֱלֹהִים). Online text consulted through BibleHub: https://biblehub.com/bdb/430.htm.
+- *Strong's Hebrew Concordance*, entry H430. BibleHub: https://biblehub.com/strongs/hebrew/430.htm.
 - *NAS Exhaustive Concordance*, entry for ὑπόστασις, consulted through BibleHub.
 - *Cambridge Greek Testament for Schools and Colleges*, commentary on Hebrews 11:1: https://biblehub.com/commentaries/cambridge/hebrews/11-1.htm
 - *The Expositor's Greek Testament*, commentary on Hebrews 11:1: https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/hebrews/11/1
