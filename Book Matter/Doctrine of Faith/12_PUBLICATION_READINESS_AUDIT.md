@@ -16,10 +16,10 @@ This section supersedes earlier status snapshots below wherever they conflict.
 
 - The Firebase Functions runtime was upgraded from decommissioned Node.js 20 to supported Node.js 22.
 - Firebase Functions deployment completed successfully for codebase `aletheia`; the deployment log confirms `getProtectedContent(us-central1)` was updated successfully.
-- GitHub Actions run `42199497512` completed successfully. On that run, the following passed: canonical manuscript parity, Doctrine of Faith publication integrity, public Firebase configuration validation, Hosting build, protected-content function build/tests, deployment of `getProtectedContent`, anonymous preview smoke test, deployment of `app.aletheiaworld.org`, and live catalogue page/title/original-cover smoke test.
-- The anonymous callable test returned Chapter 1 only. The live catalogue smoke test confirmed the book page, title, and existing `doctrine-of-faith-seal.png` cover.
-- The repository now has a second live smoke test for the entitled reader path through the unit test suite: an ordinary visitor receives only `ch-faith-1`; an entitled reader receives all ten chapter records. A real signed-in entitled account has not yet been used for an end-to-end live test.
-- Subsequent editorial updates after run `42199497512` have triggered a new deployment. The latest run must complete before the latest manuscript revision can be called live.
+- GitHub Actions run `42201866599` (head `f90403d`) completed successfully. On that run, canonical manuscript parity, Doctrine of Faith publication integrity, public Firebase configuration validation, Hosting build, protected-content function build/tests, deployment of `getProtectedContent`, anonymous preview smoke test, deployment of `app.aletheiaworld.org`, and live catalogue/title/original-cover/reader-route smoke tests all passed.
+- The anonymous callable test returned Chapter 1 only. The live smoke tests confirmed the book page, title, existing `doctrine-of-faith-seal.png` cover, and `/learn/read/book-doctrine-of-faith?chapter=ch-faith-1` reader route.
+- The repository now has a second live smoke test for the entitled reader path through the unit test suite: an ordinary visitor receives only `ch-faith-1`; an entitled reader receives all ten chapter records. A real signed-in entitled account has not yet been used for an end-to-end live test. The protected-content unit test verifies the actual chapter-selection function returns all ten chapter IDs for an entitled reader, while the anonymous production smoke test confirms only Chapter 1 is returned to a visitor.
+- The successful deployment includes the latest ten-chapter manuscript and reader synchronization. Subsequent commits update only the proof/readiness registers; they do not alter the deployed chapter bodies or reader code.
 
 ### Phase 2 — Manuscript
 
