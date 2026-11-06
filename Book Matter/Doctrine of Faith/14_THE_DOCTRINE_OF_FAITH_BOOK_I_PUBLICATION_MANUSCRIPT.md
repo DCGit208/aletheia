@@ -566,7 +566,7 @@ The passage therefore does not permit the reader to dismiss “Ye are gods” as
 
 The book's broader design thesis is developed through the full Scripture set: Genesis 1:26–28 supplies image and likeness; Psalm 82 and John 10 supply the “gods” statement and Jesus' use of it; 2 Peter 1:4 speaks of partaking of divine nature; and John 17 later develops oneness and indwelling. This is a cumulative synthesis. No one of these passages should be made to do the work of all the others.
 
-## Study and argument exercise
+## Questions for reflection and study
 
 Write Psalm 82:6 and 82:7 in one paragraph, then write John 10:34–35 beneath them. Do not add a slogan. Do not subtract a clause. Say what the three verses force when they are left together.
 
@@ -625,7 +625,7 @@ The passage does not stop at participation in divine nature. It proceeds to dili
 
 You are not being invited to invent another nature. You are being returned to the one Genesis named, in Christ.
 
-## Study and argument exercise
+## Questions for reflection and study
 
 Define “true nature” from Genesis 1:26–28 and 2 Peter 1:2–8. What is partaken? What is escaped? What is given through the promises? What sequence follows in verses 5–8?
 
@@ -702,7 +702,7 @@ The settled doctrinal position of this book is that **Jesus represents who we ar
 
 This representation does not cancel or minimize what Jesus accomplished. Romans 3:23–24 names sin, coming short of glory, free justification, grace, and redemption in Christ. The doctrinal direction of this book is that sin is falling short of our designed state, and justification and redemption restore us to that state. Both dimensions belong together: **Jesus represents who we are by Design, and Jesus accomplished the redemption and restoration by which we are brought back to that design.**
 
-## Study and teaching questions
+## Questions for reflection and study
 
 1. How does Romans 3:21–26 answer the question, “Why did Jesus come?”
 2. Trace the sequence in the passage: righteousness manifested, sin and coming short of glory, free justification through redemption, and Christ as propitiation in the declaration of God's righteousness.
@@ -800,7 +800,7 @@ The source's sequence brings three Greek terms into relation, but they should no
 
 Romans 3:24 explicitly joins free justification with redemption in Christ Jesus. Second Corinthians 5:21 explicitly says believers are made the righteousness of God “in Him.” Those are the textual anchors. The settled doctrinal position of this book is that justification restores humanity to its designed state. The source's “back on course” language, the complete G1344 lexical entry, and the Scripture set are brought together to show this restoration argument.
 
-## Study and teaching questions
+## Questions for reflection and study
 
 1. How does Romans 3:23–24 hold together humanity's coming short of glory and justification freely by grace through redemption in Christ?
 2. What does the form δικαιούμενοι (*dikaioumenoi*) contribute to the reading of Romans 3:24?
@@ -900,7 +900,7 @@ The book's doctrinal conclusion is that the Father's purpose and pleasure is for
 
 This chapter therefore refuses to separate what Jesus represents from what He accomplished. He represents our design, and His redemptive work restores us to it.
 
-## Study and teaching questions
+## Questions for reflection and study
 
 1. What does Hebrews 1:2 identify the Son as, and through whom were the worlds made?
 2. What do Hebrews 1:3–4 say about the Son's glory, express image, and accomplishment?
