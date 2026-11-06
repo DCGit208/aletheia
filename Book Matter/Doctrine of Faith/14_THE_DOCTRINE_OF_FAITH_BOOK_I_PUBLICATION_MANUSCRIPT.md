@@ -1070,55 +1070,26 @@ A concise synthesis is: **Christ's work restores what Christ's person reveals.**
 
 The phrase “restores what Christ's person reveals” should be read in light of the Aletheia source's “true nature from creation,” “come short of the glory,” and “back on course” formulations. “Back on course” is a conceptual formulation in this doctrinal architecture, not an exhaustive dictionary definition of every relevant Greek word.
 
-## Book I's Argument
+## The Design Revealed in Christ
 
-The ten coordinated chapters follow the argument's dependencies, beginning with the foundation of faith and then developing the Aletheia source's connected Scripture set:
+The passages considered throughout this work converge on a central truth. Humanity was made in the image and likeness of God. The Aletheia teaching on *pistis* describes faith as the credence that defines the state of God's children. The promises of divine nature, the language of sonship and heirship, the declaration of righteousness in Christ, and Jesus' prayer for oneness all belong to this connected account of humanity's design and its restoration.
 
-1. **Faith as *hypostasis*:** Hebrews 11:1, substance, the lexical alternatives, and the central thesis of this book concerning faith as underlying nature and state.
-2. ***Pistis*, credence, and Sonship:** the leaflet's explicit teaching about credence, acceptance, the state of God's children, adoption, and heirship.
-3. **’Ĕlōhîm, image, likeness, and design:** Genesis 1:26–28 and the source's interpretation of humanity's design.
-4. **Psalm 82 with John 10:** “Ye are gods” read with Psalm 82:7, the psalm's judgment setting, and Jesus' appeal to Scripture.
-5. **True nature and partaking of divine nature:** 2 Peter 1:2–8, including the promises, escape from corruption, and the qualities to be pursued.
-6. **Why did Jesus come?:** the source's interpretation of coming short of glory, the image/glory argument, and Christ's person and work held together with the full representation thesis.
-7. **Redemption, free justification, and righteousness:** *dikaioō*, *dikaiosynē*, and *apolutrōsis*, including justification and complete ransom/restoration to original design.
-8. **The Son, the heir, and representation:** the Son's identity, express image, righteousness, and heirship; the former Hebrews 1:8 question is abandoned.
-9. **Oneness and glory:** John 17:20–23, preserving the prayer's language of “as,” indwelling, glory given, and its stated purpose.
-10. **The image in the face of Jesus Christ:** 2 Corinthians 4:1–6 as the cumulative close on image, light, knowledge, and glory.
+Hebrews 11:1 places *hypostasis* at the foundation of the inquiry: faith is the substance of things hoped for. The Aletheia source gives the related teaching its explicit language of state, true nature, acceptance, and Sonship. Read together, these lines establish the governing conviction of this work: **faith is our state by design.** This is not a claim that the leaflet itself contains a word study of *hypostasis*. It is the doctrinal relationship developed here between the foundation in Hebrews and the source's teaching on *pistis*.
 
-This is the book's ten-chapter progression. The former question attached to Hebrews 1:8 is not pursued; the verse remains part of the biblical portrait of the Son where relevant. The argument of Book I is to establish the *hypostasis* foundation and develop the connected Aletheia doctrine, while Book II develops faith as evidence from that foundation.
+The design is not left as an abstract idea. It is revealed in Christ. He is the Son, the express image of the Father's person, and the image of God. His life and person disclose the identity toward which humanity was designed. His work is equally essential: through redemption, reconciliation, and justification, He accomplishes what humanity could not accomplish for itself. Neither truth should be separated from the other.
 
-## The Book's Synthesis
+**Christ's work restores what Christ's person reveals.** This statement gathers the argument; it is a doctrinal synthesis, not a quotation from a single verse. The creation account establishes image and likeness. The Aletheia source connects faith with true nature and Sonship. The passages on redemption and righteousness declare what God has accomplished in Christ. John 17 reveals the Son's prayer concerning oneness, indwelling, and the glory given to those who believe. Second Corinthians 4 brings the inquiry to its culmination in the light of the knowledge of God's glory in the face of Jesus Christ.
 
-The source and Scripture set lead the reader through a connected inquiry:
+The result is not an invitation to admire a distant ideal while remaining unrelated to it. The gospel concerns what God has done in Christ and the reality into which His children are brought. Sonship, heirship, divine nature, righteousness, and oneness are not disconnected subjects. They belong to the one design revealed in Christ and made present through His redemptive work.
 
-**God → God's nature → image and likeness → humanity's design → sonship and heirship → faith as credence → deviation and coming short of glory → Christ → redemption and justification → righteousness in Christ → oneness and glory → the image revealed in Christ.**
+## The Foundation and the Evidence
 
-This sequence summarizes the book's connected reasoning. It does not suggest that every link is stated in a single verse; each connection is developed through the relevant passages and the controlling Aletheia teaching.
+The opening verse of this work contains both *hypostasis* and *elenchos*: substance and evidence. Book I has concentrated on the foundation. It has brought the substance language of Hebrews 11:1 into relation with the Aletheia teaching that *pistis* defines the state of God's children, then followed that relationship through the scriptural account of design, Christ, redemption, righteousness, heirship, and oneness.
 
-The doctrinal direction of this book is that faith is our state by design, not merely a statement someone agrees with while remaining detached from the reality being described. The source begins by calling *pistis* “credence” and connecting it to the state of children of God, acceptance, true nature, and adoption as sons. The wider Book I argument connects that state with design, righteousness, representation, and present reality in Christ. Under the corrected architecture, Book I establishes the foundational relation between Hebrews 11:1, *hypostasis*, substance, and faith as underlying state/nature; Book II then develops faith as evidence from that foundation.
+The evidence clause has not been discarded. It remains joined to the foundation in the sentence itself. The next inquiry is how faith becomes evident in the life, action, endurance, and testimony of those who live in the reality of what God has made known. That is the subject taken up in Book II, *Faith Is Evidence*.
 
-## What Book I Has—and Has Not—Established
+The foundation, then, is not a technique for obtaining outcomes. It is not a passing mood or a verbal formula. It concerns the state of God's children as the Aletheia source describes it, understood in relation to the substance of faith in Hebrews 11:1 and the design revealed in Christ.
 
-Book I has developed the Aletheia source's faith-toward-God architecture through the connected passages on *pistis*, sonship, image and likeness, divine nature, glory, justification, righteousness, heirship, oneness, and the image of God in Christ.
-
-Book I has placed Hebrews 11:1 and *hypostasis* at the foundation of the doctrine and has developed the central thesis of this book that faith as substance relates to the person's underlying nature and state. The argument connecting the lexical range, the context of Hebrews, and the Aletheia source's explicit *pistis* / state-of-children teaching remains subject to scholarly verification and editorial proof; the governing doctrinal position of this book is established, and the foundation must not be deferred to Book II. Book II, *Faith Is Evidence*, develops faith as evidence from this foundation. The close of Book I therefore summarizes the foundation laid and hands forward the evidence inquiry.
-
-The forward question is therefore deliberate: **Having established faith's foundation in *hypostasis* / substance and its relation to the person's state, how does Scripture develop faith as evidence?** Book II takes up that question on its own terms.
-
-## Final Study and Review Questions
-
-1. According to 2 Corinthians 4:4, who is the image of God?
-2. According to 2 Corinthians 4:6, what light has God shined in our hearts, and for what purpose?
-3. What does the passage say blinds minds, and against what light does that blinding operate?
-4. How do Genesis 1:26–28, Hebrews 1:3, John 17:20–23, and 1 John 4:17 contribute to the book's design and representation inquiry?
-5. How does the book keep Christ's accomplishment and Christ's representation together?
-6. Which parts of “Christ's work restores what Christ's person reveals” are synthesis rather than direct quotations?
-7. How does the foundation of Hebrews 11:1 and *hypostasis* govern the doctrine of faith, and how does Book II then develop faith as evidence from that foundation?
-
-
-
-
----
 
 # Bibliography and Reference Works
 
