@@ -72,7 +72,7 @@
 | Romans 3:24 | δικαιούμενοι (*dikaioumenoi*, G1344) | Present passive participle, nominative masculine plural; morphology checked against the Greek interlinear and Strong's/Thayer's G1344 entries. Final typeset proof remains. |
 | 2 Corinthians 5:21 | δικαιοσύνη (*dikaiosynē*, G1343) | Nominative singular feminine noun; morphology checked against Greek interlinear; Strong's/Thayer's G1343 entries checked. Preserve the Aletheia leaflet's additional gloss as source wording. |
 | Romans 3:24 | ἀπολυτρώσεως (*apolutrōseōs*) | G629 noun, genitive singular; targeted lexical check against Strong’s/Thayer completed; recheck in final typeset proof. |
-| 2 Peter 1:5 | σπουδή (*spoudē*) | Noun G4710 checked against Strong's; distinguish it from the verb σπουδάζω (*spoudazō*, G4704) used in 2 Timothy 2:15 and cited in the 2015 leaflet. Final typeset proof remains. |
+| 2 Peter 1:5 | σπουδή (*spoudē*); inflected form σπουδήν (*spoudēn*, G4710) | Accusative singular feminine noun, confirmed against the Greek interlinear; Strong's definition includes diligence/earnestness. Distinguish it from the verb σπουδάζω (*spoudazō*, G4704) used in 2 Timothy 2:15 and cited in the 2015 leaflet. Final typeset proof remains. |
 
 ## Aletheia source quotation controls
 
