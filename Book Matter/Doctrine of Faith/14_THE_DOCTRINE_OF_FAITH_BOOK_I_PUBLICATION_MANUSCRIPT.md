@@ -393,7 +393,7 @@ The book's doctrinal formulation is that faith is not merely what the mind belie
 6. What do Hebrews 11:2, 5–6 explicitly say about faith, good report, and pleasing God?
 7. What does Matthew 3:17 explicitly say, and how does the book's doctrinal connection between the Father's pleasure, faith, and Sonship develop through Ephesians 1:5, Galatians 4:5–7, and Romans 8:14–17?
 8. How does this chapter's *pistis* / state teaching relate to the *hypostasis* foundation in Chapter 1 without pretending the leaflet itself contains a *hypostasis* word study?
-9. Which propositions in the chapter are explicit source teaching, which are explicit Scripture claims, and which are synthesis or owner formulation?
+9. Which propositions in the chapter are explicit source teaching, which are explicit Scripture claims, and which are synthesis or the book's doctrinal formulation?
 
 
 ---
@@ -428,7 +428,7 @@ Image. Likeness. Dominion. Those are the explicit terms and commission in Genesi
 
 Genesis 1:27 — “So God created man in his own image, in the image of God created he him; male and female created he them.”
 
-The 2015 Aletheia leaflet places the paraphrase “So God made man like his Maker” beside Genesis 1:27 and links it to “Man’s True Nature” (2 Peter 1:4) and the glory humanity came short of through sin. The leaflet also includes this wording, which the owner directs us to reproduce as the Living Bible quotation:
+The 2015 Aletheia leaflet places the paraphrase “So God made man like his Maker” beside Genesis 1:27 and links it to “Man’s True Nature” (2 Peter 1:4) and the glory humanity came short of through sin. The leaflet also includes this wording, which is reproduced here as the Living Bible quotation:
 
 > **Genesis 1:27 (The Living Bible, wording supplied for this manuscript)** — “So God made man like his Maker.\nLike God did God make man;\nMan and maid did he make them.”
 
@@ -730,7 +730,7 @@ Then distinguish three things in your answer: the explicit wording of the passag
 
 Chapter 6 developed the source's reading of coming short of glory as deviation from true nature, while preserving the explicit language of Romans 3:23–24: all have sinned and come short of the glory of God, and are justified freely by grace through the redemption that is in Christ Jesus. This chapter examines the terms through which the Aletheia source describes that response.
 
-The source's lexical glosses are preserved, and the additional direction is now incorporated. The leaflet glosses *dikaioō* as “render just or innocent, free from evil or guilt”; the complete G1344 entry supplied by the owner includes Strong's core gloss and AV usage, followed by Thayer's three extended definitions, including “to render righteous or such he ought to be” and “to declare, pronounce, one to be just, righteous, or such as he ought to be.” The source's *dikaiosynē* explanation includes equity and conformity with God's nature and the conceptual phrase “original: back on course.” The leaflet glosses *apolutrōsis* as “redemption; ransom in full”; the owner directs that this be developed as complete ransom and restoration to original design. These formulations are now integrated as source wording and owner-directed doctrinal explanation, not left as unresolved alternatives.
+The source's lexical glosses are preserved, and the additional direction is now incorporated. The leaflet glosses *dikaioō* as “render just or innocent, free from evil or guilt”; the complete G1344 entry supplied for this study includes Strong's core gloss and AV usage, followed by Thayer's three extended definitions, including “to render righteous or such he ought to be” and “to declare, pronounce, one to be just, righteous, or such as he ought to be.” The source's *dikaiosynē* explanation includes equity and conformity with God's nature and the conceptual phrase “original: back on course.” The leaflet glosses *apolutrōsis* as “redemption; ransom in full”; this book develops this as complete ransom and restoration to original design. These formulations are now integrated as source wording and the doctrinal explanation developed here, not left as unresolved alternatives.
 
 ## *Dikaioō* — justified freely and restored to our designed state
 
@@ -744,7 +744,7 @@ In Romans 3:24, the Greek form is δικαιούμενοι (*dikaioumenoi*), fro
 > 2. to show, exhibit, evince, one to be righteous, such as he is and wishes himself to be considered;  
 > 3. to declare, pronounce, one to be just, righteous, or such as he ought to be.
 
-The Aletheia leaflet's printed gloss is “render just or innocent (free from evil or guilt).” The owner directs that the complete supplied G1344 entry be included, especially Thayer's wording “to render righteous or such he ought to be” and “to declare, pronounce, one to be just, righteous, or such as he ought to be.” Thayer adds an important qualification: he describes the first “make righteous” sense as extremely rare, if not altogether doubtful, before distinguishing the “show/exhibit/evince” and “declare/pronounce” senses. In the Pauline technical use, Thayer specifically lists Romans 3:24 under the gracious declaration of righteousness/acceptance. The chapter preserves the full G1344 entry supplied for this study and accurately reports this lexical qualification; it does not hide it or treat the first sense as the only possible meaning.
+The Aletheia leaflet's printed gloss is “render just or innocent (free from evil or guilt).” This book includes the complete supplied G1344 entry, especially Thayer's wording “to render righteous or such he ought to be” and “to declare, pronounce, one to be just, righteous, or such as he ought to be.” Thayer adds an important qualification: he describes the first “make righteous” sense as extremely rare, if not altogether doubtful, before distinguishing the “show/exhibit/evince” and “declare/pronounce” senses. In the Pauline technical use, Thayer specifically lists Romans 3:24 under the gracious declaration of righteousness/acceptance. The chapter preserves the full G1344 entry supplied for this study and accurately reports this lexical qualification; it does not hide it or treat the first sense as the only possible meaning.
 
 The book's doctrinal explanation is that *dikaioō* in Romans 3:24 must be read in the full movement of Romans 3:23–24. Humanity fell short of the glory of God because that glory belongs to the identity and design from which humanity deviated. You cannot fall short of something you are not. To come short of a glory presupposes a real relation to that glory; the argument developed here is that the glory humanity came short of belongs to humanity's designed identity as made in the image and likeness of Elohim. Justification is therefore not merely a change in a legal label; in the Aletheia teaching's design argument, it is God's gracious act of rendering us righteous—such as we ought to be—and restoring us to the state for which we were made.
 
@@ -800,7 +800,7 @@ The teaching therefore rejects postponing the statement of 2 Corinthians 5:21 as
 
 The source's sequence brings three Greek terms into relation, but they should not be treated as interchangeable:
 
-- *Dikaioō* is the verb used in the source's question about being justified freely. The leaflet's printed gloss is “render just or innocent (free from evil or guilt).” The complete G1344 entry supplied by the owner includes Thayer's definitions “to render righteous or such he ought to be” and “to declare, pronounce, one to be just, righteous, or such as he ought to be.” The owner directs that these definitions be included and developed alongside the leaflet's printed gloss; this treatment is settled, while the lexical sources remain subject to accurate attribution and verification.
+- *Dikaioō* is the verb used in the source's question about being justified freely. The leaflet's printed gloss is “render just or innocent (free from evil or guilt).” The complete G1344 entry supplied for this study includes Thayer's definitions “to render righteous or such he ought to be” and “to declare, pronounce, one to be just, righteous, or such as he ought to be.” This book includes these definitions and developed alongside the leaflet's printed gloss; this treatment is settled, while the lexical sources remain subject to accurate attribution and verification.
 - *Dikaiosynē* is the related noun the source connects with righteousness/justification, equity, impartiality, and conformity with God's nature. “Original: back on course” is the source's interpretive formulation in this teaching; it should not be presented as a complete dictionary definition of the noun.
 - *Apolutrōsis* is the source's term for redemption, glossed as “ransom in full.” The governing doctrinal position of this book now develops the source's “ransom in full” as complete ransom and restoration to original design. Preserve the exact source gloss while stating the restoration conclusion developed here as the intended doctrinal meaning and result.
 
@@ -812,9 +812,9 @@ Begin with the source's question: **Has man been justified?** Yes, and freely. S
 
 Next, write 2 Corinthians 5:17–21 in context. What does the passage say about reconciliation, the new creature, Christ being made sin, and being made the righteousness of God in Him?
 
-Finally, preserve the complete G1344 entry with Strong's core definition and AV usage distinguished from Thayer's three extended definitions, together with the leaflet's printed gloss. Explain how Romans 3:23–24, Genesis 1:26–27, 1 Corinthians 15:41, and the redemption passages form the book's doctrinal argument that justification restores humanity to its designed state. The owner has now supplied the governing interpretation; this is no longer an open decision awaiting formulation.
+Finally, preserve the complete G1344 entry with Strong's core definition and AV usage distinguished from Thayer's three extended definitions, together with the leaflet's printed gloss. Explain how Romans 3:23–24, Genesis 1:26–27, 1 Corinthians 15:41, and the redemption passages form the book's doctrinal argument that justification restores humanity to its designed state. The governing interpretation is established in this book and is not an open decision awaiting formulation.
 
-**Transition to Chapter 8:** The next chapter examines the Son as heir of all things, the express image of the Father, and the pattern and representation of humanity's design. It then develops the believer's sonship and heirship through Galatians 4:5–7 and Romans 8:16–17. Hebrews 1:8 remains part of the Son's scriptural portrait, but the former leaflet question is not an unresolved owner decision.
+**Transition to Chapter 8:** The next chapter examines the Son as heir of all things, the express image of the Father, and the pattern and representation of humanity's design. It then develops the believer's sonship and heirship through Galatians 4:5–7 and Romans 8:16–17. Hebrews 1:8 remains part of the Son's scriptural portrait, but the former leaflet question is not an unresolved doctrinal decision.
 
 
 ### Lexical references for G1344 and G629
@@ -858,7 +858,7 @@ Hebrews 1:8 (KJV) says:
 
 > “But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.”
 
-The verse directly addresses the Son and identifies His throne and kingdom with righteousness. It remains part of the biblical portrait of the Son. The former leaflet question, “According to Hebrews 1:8, what does that make you?”, is not retained as an unresolved doctrinal question or as a required inference for this chapter. The owner has directed that this question be abandoned. The verse itself remains available as part of the wider representation and righteousness argument.
+The verse directly addresses the Son and identifies His throne and kingdom with righteousness. It remains part of the biblical portrait of the Son. The former leaflet question, “According to Hebrews 1:8, what does that make you?”, is not retained as an unresolved doctrinal question or as a required inference for this chapter. The former question is abandoned. The verse itself remains available as part of the wider representation and righteousness argument.
 
 ## As sons, we are heirs of God
 
@@ -1078,7 +1078,7 @@ The ten coordinated chapters follow the argument's dependencies, beginning with 
 9. **Oneness and glory:** John 17:20–23, preserving the prayer's language of “as,” indwelling, glory given, and its stated purpose.
 10. **The image in the face of Jesus Christ:** 2 Corinthians 4:1–6 as the cumulative close on image, light, knowledge, and glory.
 
-This sequence is the current reader-facing working architecture. The owner has supplied the principal doctrinal directions recorded in document 90; the former Hebrews 1:8 question is abandoned. The existing app companion remains preserved as source material; its content is not replaced by this summary. The argument of Book I is to establish the *hypostasis* foundation and develop the connected Aletheia doctrine, while Book II develops faith as evidence from that foundation.
+This sequence is the current reader-facing working architecture. The principal doctrinal positions are established in this manuscript; the former Hebrews 1:8 question is abandoned. The existing app companion remains preserved as source material; its content is not replaced by this summary. The argument of Book I is to establish the *hypostasis* foundation and develop the connected Aletheia doctrine, while Book II develops faith as evidence from that foundation.
 
 ## The Book's Working Synthesis
 
