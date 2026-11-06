@@ -11,21 +11,21 @@ const manuscript = readFileSync(new URL("Book Matter/Doctrine of Faith/14_THE_DO
 const ids = [...companion.matchAll(/"id":\s*"(ch-faith-\d+)"/g)].map((match) => match[1]);
 const titles = [...companion.matchAll(/"title":\s*"([^"]+)"/g)].map((match) => match[1]);
 assert.equal(ids.length, 10, "Book I must contain exactly ten reader chapters.");
-assert.deepEqual(ids, Array.from({ length: 10 }, (_, i) => `ch-faith-${i + 1}`));
+assert.deepEqual(ids, Array.from({ length: 10 }, (_, i) => \`ch-faith-\${i + 1}\`));
 assert.equal(titles.length, 10, "Every reader chapter must have a title.");
 
-const chapterHeadings = [...manuscript.matchAll(/^# Chapter (\\d+) — ([^\\n]+)\\n/gm)];
+const chapterHeadings = [...manuscript.matchAll(/^# Chapter (\d+) — ([^\n]+)\n/gm)];
 assert.equal(chapterHeadings.length, 10, "The publication manuscript must contain exactly ten chapters.");
 const manuscriptBodies = chapterHeadings.map((heading, i) => {
   const start = heading.index + heading[0].length;
-  let end = i + 1 < chapterHeadings.length ? chapterHeadings[i + 1].index : manuscript.indexOf("\\n# Bibliography and Reference Works", start);
+  let end = i + 1 < chapterHeadings.length ? chapterHeadings[i + 1].index : manuscript.indexOf("\n# Bibliography and Reference Works", start);
   if (end < 0) end = manuscript.length;
-  return manuscript.slice(start, end).replace(/\\n+---\\s*$/, "").trim();
+  return manuscript.slice(start, end).replace(/\n+---\s*$/, "").trim();
 });
-const readerBodies = [...companion.matchAll(/"body":\\s*("(?:\\\\.|[^"\\\\])*")/g)].map((match) => JSON.parse(match[1]));
+const readerBodies = [...companion.matchAll(/"body":\s*("(?:\\.|[^"\\])*")/g)].map((match) => JSON.parse(match[1]));
 assert.deepEqual(readerBodies, manuscriptBodies, "The entitled reader text must match the controlled publication manuscript chapter for chapter.");
-for (const id of ids) assert.ok(index.includes(`"id":"${id}"`), `Generated reader index is missing ${id}.`);
-for (const title of titles) assert.ok(index.includes(JSON.stringify(title)), `Generated reader index title mismatch: ${title}`);
+for (const id of ids) assert.ok(index.includes(\`"id":"\${id}"\`), \`Generated reader index is missing \${id}.\`);
+for (const title of titles) assert.ok(index.includes(JSON.stringify(title)), \`Generated reader index title mismatch: \${title}\`);
 
 const bookStart = catalog.indexOf('id: "book-doctrine-of-faith"');
 assert.notEqual(bookStart, -1, "Book I catalog entry must exist.");
