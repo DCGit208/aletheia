@@ -161,3 +161,18 @@ The book is not final until:
 The source base and doctrinal architecture are substantial. The digital deployment pipeline is functional. But the manuscript still requires a genuine book-level edit and the complete production pass described above.
 
 No one should represent the existence of ten synchronized chapters as proof that the book is world-class. The standard is the quality of the reading experience and the integrity of the finished publication.
+
+
+## Production work log — 6 November 2026
+
+The following reader-facing changes have now been committed to the canonical manuscript:
+
+1. The title page now uses the existing Aletheia World subtitle, **The Gospel That Restores Our True Nature**, so the book's title treatment is aligned with the existing catalogue record.
+2. The preface has been rewritten to introduce the central question and doctrinal purpose rather than explain internal source-control procedures.
+3. The introduction has been rewritten as a reader-facing orientation to Hebrews 11:1, the Aletheia teaching on *pistis*, the design/representation argument, and the sequence of inquiry.
+4. Chapter 10's former internal chapter-by-chapter outline and audit-style conclusion have been replaced with a doctrinal close centred on the design revealed in Christ and the relationship between *hypostasis* and *elenchos*.
+5. The app reader's Chapter 10 body has been synchronized to the revised manuscript.
+
+The source and reader changes were committed in GitHub. The latest Hosting deployment was triggered after these commits; its final result must be checked before the live reader is described as updated.
+
+**Important:** these are the first production corrections, not a declaration that all ten chapters have passed the full developmental, theological, line-edit, copy-edit, and designed-page proof. The remaining work in this audit is still mandatory.
