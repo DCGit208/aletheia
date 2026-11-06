@@ -57,7 +57,7 @@ The 2015 Aletheia leaflet governs the doctrinal teaching. Biblical passages are 
 
 The opening question of *The Doctrine of Faith* cannot be treated as a question about how to produce a feeling of confidence or how to persuade oneself that a desired result will occur. Hebrews 11:1 describes faith through two connected terms: *hypostasis*—rendered “substance” in the KJV—and *elenchos*—rendered “evidence.” The first term is foundational to this book. The second points toward the distinctive development of Book II, *Faith Is Evidence*.
 
-The division between the books must not split the sentence in half as if the two clauses had no relation. Book I must establish what the Aletheia doctrine means by faith as substance and how that relates to faith as the person's underlying nature and state. Book II then develops the evidence dimension from the foundation established here.
+The two clauses belong together, while the books carry distinct emphases. Book I establishes faith as substance and its relation to the person's underlying nature and state. Book II develops the evidence dimension from that foundation.
 
 The governing question is therefore:
 
@@ -65,7 +65,7 @@ The governing question is therefore:
 
 That question requires more than repeating the English word “substance.” It requires reading the sentence, examining the word's established range, attending to the context of Hebrews, and then connecting the result to the Aletheia source and the settled doctrinal position of this book that faith is our state by design.
 
-## 1. The sentence must govern the investigation
+## 1. The sentence and its principal terms
 
 The Greek text reads:
 
@@ -164,14 +164,14 @@ The point is to make the doctrinal reasoning visible, not to use a lexical note 
 
 The 2015 *Aletheia Libraries 1* leaflet's Faith Toward God section begins with Hebrews 6:1: “and of faith toward God.” It explicitly states that faith defines our state as children of God; identifies Greek *pistis* as “credence”; and connects that credence to acceptance, true nature, and espousal / adoption as sons of God. It brings in Galatians 4:5–7, Romans 8:15, Ephesians 1:5, Genesis 1:26–27, 2 Peter 1:4, and Psalm 82:6.
 
-The leaflet does not itself quote Hebrews 11:1 or use the word *hypostasis* in this section. That distinction matters: the leaflet does not quote Hebrews 11:1 or use the term *hypostasis* in this section. The foundational relationship is developed by bringing two lines into reasoned connection:
+The leaflet does not itself quote Hebrews 11:1 or use the term *hypostasis* in this section. The book brings the Hebrews 11:1 foundation into relation with the leaflet's explicit teaching on *pistis*, credence, and the state of God's children. The foundational relationship is developed by bringing two lines into reasoned connection:
 
 - **Hebrews 11:1:** faith is the *hypostasis* of things hoped for.
 - **Aletheia's explicit source teaching:** *pistis* / credence defines the state of children of God and is connected with true nature and Sonship.
 
-This is where the central thesis of this book enters as the governing doctrinal formulation: faith as substance is intended to explain faith as the person's underlying nature and state. That thesis must be demonstrated through the complete argument, not falsely attributed as a sentence from the leaflet or treated as a conclusion proven by the etymology alone.
+The governing doctrinal formulation is that faith as substance explains faith as the person's underlying nature and state. This is the book's doctrinal synthesis of Hebrews 11:1 with the leaflet's explicit *pistis* / credence / state teaching; it is not presented as a verbatim sentence from the leaflet or as a conclusion drawn from etymology alone.
 
-The source's use of “state” is decisive to the structure. The Aletheia argument is not limited to what a person thinks about God; it connects faith to the state of the children of God, acceptance, true nature, and adoption. The foundation chapter must make this explicit connection with Hebrews 11:1, and the following chapters must develop what that connection means through design, Sonship, divine nature, redemption, righteousness, heirship, oneness, and present reality.
+The source's use of “state” is decisive to the structure. The Aletheia argument is not limited to what a person thinks about God; it connects faith to the state of the children of God, acceptance, true nature, and adoption. The foundation established here connects Hebrews 11:1 with the source's explicit state teaching. The remaining chapters develop that connection through design, Sonship, divine nature, redemption, righteousness, heirship, oneness, and present reality.
 
 ## 7. The doctrinal thesis to be developed through Book I
 
@@ -200,7 +200,7 @@ The following chapters develop the settled doctrinal position of this book throu
 - **Christ's person and work:** Hebrews 1:2–3, 2 Corinthians 4:4–6, 2 Corinthians 5:17–21, Ephesians 1:7, and Colossians 1:13–14.
 - **Oneness and present reality:** John 17:20–23 and 1 John 4:17, each in its immediate context.
 
-This chapter establishes the foundation and the required direction of the argument. It does not claim that every implication has already been proven. The connections are developed through the scriptural argument, with the source's terminology retained and the relationship between explicit source teaching and the book's doctrinal synthesis made clear.
+This chapter establishes the foundation for the connected argument developed throughout Book I. The source's terminology is retained, and the relationship between its explicit teaching and the book's doctrinal synthesis is made clear.
 
 ## 8. What Book I establishes—and what Book II develops
 
@@ -224,7 +224,7 @@ This chapter establishes the following:
 5. The doctrinal thesis developed in this book connects Hebrews 11:1's substance-language to the person's underlying nature and state; the remaining chapters must develop that connection through the full source and Scripture architecture.
 6. Book II develops faith as evidence from the foundation established in Book I.
 
-The next chapter must now develop the Aletheia source's *pistis* / credence / Sonship teaching in direct relation to this foundation. It must not restart the discussion as though the foundation had not been laid, and it must not merely repeat the word “state.” It must explain how the source's claims about credence, acceptance, true nature, and adoption function within the doctrine established here.
+Chapter 2 now develops the Aletheia source's *pistis* / credence / Sonship teaching in direct relation to this foundation. It explains how the source's claims about credence, acceptance, true nature, and adoption function within the doctrine established here.
 
 ## Study questions
 
@@ -269,7 +269,7 @@ Credence concerns credit given to what is said or presented as true. In the scri
 
 This distinction prevents two reductions. First, faith cannot be reduced to a temporary emotional state, because the source connects it to identity, acceptance, and Sonship. Second, “credence” cannot be reduced to mere verbal agreement that has no bearing on the person. The leaflet expressly connects faith to the state of God's children and to true nature. That connection is central to the argument.
 
-The relationship to Chapter 1 can now be stated without collapsing the terms: Hebrews 11:1 describes faith as *hypostasis* in relation to things hoped for; the Aletheia leaflet describes *pistis* / credence as defining the state of God's children. The central thesis of this book asks us to understand these together: faith is not merely an opinion held by a person whose state remains unrelated to the reality credited. This is the interpretive bridge to be demonstrated throughout Book I.
+The relationship to Chapter 1 can now be stated without collapsing the terms: Hebrews 11:1 describes faith as *hypostasis* in relation to things hoped for; the Aletheia leaflet describes *pistis* / credence as defining the state of God's children. The central thesis of this book asks us to understand these together: faith is not merely an opinion held by a person whose state remains unrelated to the reality credited. This is the interpretive bridge that guides the remaining chapters of Book I.
 
 ## 3. Adoption and Sonship: read the sequence of Galatians 4
 
@@ -342,7 +342,7 @@ Matthew 3:17 (KJV) records the Father's declaration over Jesus:
 
 > “And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.”
 
-This declaration is read with the wider sonship argument. The Father identifies Jesus as His beloved Son and declares His pleasure in Him. In accordance with the doctrinal direction of this book, the declaration is brought into the argument about the Father's will and pleasure for His sons to operate in their designed state. The move from the Father's declaration over Jesus to His pleasure in His sons is a doctrinal connection developed with Ephesians 1:5, Galatians 4:5–7, and Romans 8:14–17; Matthew 3:17 alone does not state the entire connection.
+This declaration is read with the wider sonship argument. The Father identifies Jesus as His beloved Son and declares His pleasure in Him. In accordance with the doctrinal direction of this book, the declaration is brought into the argument about the Father's will and pleasure for His sons to operate in their designed state. Read alongside Ephesians 1:5, Galatians 4:5–7, and Romans 8:14–17, the Father's declaration over His beloved Son contributes to the book's teaching about the Father's pleasure in His sons and their designed state.
 
 Hebrews 11:2 (KJV) states:
 
@@ -366,7 +366,7 @@ The source connects *pistis* not only with adoption but also with true nature an
 
 These passages are not interchangeable proof-texts. Each contributes something distinct. Genesis concerns creation in image and likeness and the commission given to humanity. Second Peter speaks of promises, partaking of divine nature, escaping corruption, and the qualities that follow. Psalm 82 must be read with its judgment setting and verse 7, and John 10 with Jesus' argument in its own context. Romans 3, 1 Corinthians 11, and 2 Corinthians 4 each have their own immediate contexts.
 
-The source's sequence is now developed in accordance with the doctrinal direction of this book: faith is our state by design, and the state of God's children is joined to image and likeness, divine nature, sonship, and heirship. The governing representation thesis is also settled: **Jesus represents who we are by Design.** It is to be developed fully through the connected Scripture argument and held together with what Christ accomplished, including redemption and justification.
+The source's sequence joins faith as our state by design with image and likeness, divine nature, sonship, and heirship. The governing representation thesis is also settled: **Jesus represents who we are by Design.** It is to be developed fully through the connected Scripture argument and held together with what Christ accomplished, including redemption and justification.
 
 ## 8. How Chapter 1 and this chapter belong together
 
@@ -381,7 +381,7 @@ The connection is therefore neither an invented quotation nor an arbitrary juxta
 - Hebrews 11:2, 5–6 and Matthew 3:17 open the further inquiry into faith, good report, pleasing God, and the Father's pleasure in the Son.
 - The later chapters must develop the design, divine nature, redemption, righteousness, heirship, oneness, and present-reality arguments without treating any one passage as proof of everything.
 
-The book's doctrinal formulation is that faith is not merely what the mind believes; it is the state of the person who exists in the reality of God's nature in Christ. This chapter has established the Aletheia source's state/Sonship material as a major part of the argument. The subsequent chapters develop that formulation through the source's complete scriptural architecture.
+The book's doctrinal formulation is that faith is not merely what the mind believes; it is the state of the person who exists in the reality of God's nature in Christ. This chapter has established the Aletheia source's state/Sonship material as a major part of the argument. The subsequent chapters continue developing that formulation through the source's complete scriptural architecture.
 
 ## Study and teaching questions
 
