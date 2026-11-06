@@ -528,13 +528,13 @@ The task is twofold: do not empty “Ye are gods” of its force, and do not det
 
 Psalm 82:1–5 — “God standeth in the congregation of the mighty; he judgeth among the gods. How long will ye judge unjustly, and accept the persons of the wicked? Selah. Defend the poor and fatherless: do justice to the afflicted and needy. Deliver the poor and needy: rid them out of the hand of the wicked. They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.”
 
-The psalm is a judgment scene. God stands. He judges among the gods. The charge is unjust judgment, respect of wicked persons, failure to defend the poor and fatherless. They know not. They walk on in darkness. The foundations of the earth are out of course.
+The psalm is a judgment scene. God stands and judges among the gods. The charge is not abstract: those addressed have judged unjustly, shown partiality to the wicked, and failed to defend the poor and fatherless. They have not delivered the needy from the hand of the wicked. Their ignorance and darkness are joined to the disorder of their judgments: “all the foundations of the earth are out of course.” The setting is therefore moral and judicial. The declaration in verse 6 is spoken within a rebuke of those who have failed in the responsibility described in the preceding verses.
 
 Keep the source's sequence in view when the discussion reaches δικαιοσύνη (*dikaiosynē*). The source describes equity as conformity with the nature of God. The fuller treatment of that term appears in Chapter 7.
 
 Psalm 82:6–8 — “I have said, Ye are gods; and all of you are children of the most High. But ye shall die like men, and fall like one of the princes. Arise, O God, judge the earth: for thou shalt inherit all nations.”
 
-“I have said.” The saying is God’s. “Ye are gods. And all of you are children of the most High.” The next breath is not a cancellation invented by a frightened teacher. It is the psalm’s own next line: “But ye shall die like men, and fall like one of the princes.”
+“I have said.” The saying is God's. “Ye are gods, and all of you are children of the most High.” The designation is not erased by the next sentence; neither is the next sentence optional. “But ye shall die like men, and fall like one of the princes.” The psalm holds the designation and the judgment together. Those addressed are accountable for the injustice already named, and their status does not exempt them from God's judgment. The closing appeal, “Arise, O God, judge the earth,” returns the reader to God's authority over the whole scene and to the inheritance of all nations.
 
 Teach Psalm 82:6 with Psalm 82:7. Do not detach verse 6 from the writing to make a slogan. Do not empty verse 6 by using verse 7 as if the first sentence never stood. Both sentences are in the psalm. Both are Holy Writ.
 
@@ -562,7 +562,7 @@ The claim follows from the passages as they are presented. Psalm 82:6 cannot be 
 
 Jesus uses Psalm 82:6 in answer to the charge of blasphemy. His argument explicitly appeals to the written Scripture, calls it unbreakable, and contrasts the quoted designation given to those “unto whom the word of God came” with the accusation directed at the One whom the Father sanctified and sent into the world. He then appeals to the works of the Father and to the mutual indwelling language: the Father is in Him and He in the Father.
 
-The passage therefore does not permit the reader to dismiss “Ye are gods” as though Jesus had not invoked it. But neither does the brief quotation, by itself, explain every question about the original referents of “gods” in Psalm 82 or state the whole doctrine of humanity's design. The psalm's own rebuke and judgment remain part of the evidence. The source's reading holds these texts together. The design conclusion develops cumulatively, with the immediate psalm and Gospel contexts remaining part of the argument.
+The passage does not permit the reader to dismiss “Ye are gods” as though Jesus had not invoked it. Jesus cites the writing, insists that Scripture cannot be broken, and then directs attention to the works that testify to the Father's presence in Him. The psalm's rebuke and judgment remain part of the evidence; Jesus' appeal remains part of the evidence as well. The Aletheia reading holds these passages together rather than allowing one to silence the other. The design conclusion develops cumulatively, with the immediate psalm and Gospel contexts remaining part of the argument.
 
 The book's broader design thesis is developed through the full Scripture set: Genesis 1:26–28 supplies image and likeness; Psalm 82 and John 10 supply the “gods” statement and Jesus' use of it; 2 Peter 1:4 speaks of partaking of divine nature; and John 17 later develops oneness and indwelling. This is a cumulative synthesis. No one of these passages should be made to do the work of all the others.
 
@@ -572,7 +572,7 @@ Write Psalm 82:6 and 82:7 in one paragraph, then write John 10:34–35 beneath t
 
 Then read John 10:30–38 as one exchange. Record the accusation, Jesus' appeal to the written text, the declaration that Scripture cannot be broken, and the testimony of the works. Separate what the passages explicitly say from the conclusions you draw by reading them together.
 
-**Transition to Chapter 5:** The next movement is 2 Peter 1:2–8. It develops the source's true-nature and participation language through the promises, escape from corruption, and the qualities Peter says must be added to faith. The judgment setting of Psalm 82 remains part of the context; it is not a substitute for that next passage's own argument.
+The psalm's judgment setting remains part of the argument, but it is not the final word in the source's account of true nature. The next passage, 2 Peter 1:2–8, turns to the promises, participation in divine nature, escape from corruption, and the qualities Peter says are to be added to faith.
 
 
 ---
@@ -621,7 +621,7 @@ Nor should “partakers” be used to erase the passage's practical sequence. Pe
 
 Faith is the first named in the sequence of qualities. Virtue. Knowledge. Temperance. Patience. Godliness. Brotherly kindness. Charity. The partaker is not a person who quotes verse 4 and refuses verses 5–8. Verse 5 uses the noun σπουδή (*spoudē*) in the phrase “giving all diligence”; it should not be conflated with the related verb σπουδάζω (*spoudazō*) merely because both concern diligence or earnest effort.
 
-The passage does not stop at participation in divine nature. It proceeds to diligence and the qualities to be added, then describes the consequence of their being present and abounding: fruitfulness in the knowledge of our Lord Jesus Christ. Teach verse 4 with verses 5–8, not instead of them.
+The passage does not stop at participation in divine nature. It proceeds to diligence and the qualities to be added, then describes the consequence of their being present and abounding: fruitfulness in the knowledge of our Lord Jesus Christ. Teach verse 4 with verses 5–8, not instead of them. Peter's sequence begins with faith and moves through virtue, knowledge, temperance, patience, godliness, brotherly kindness, and charity. Each quality is named as something to be added; together they describe a life in which the knowledge of Christ is not barren or unfruitful. The passage therefore refuses two reductions: participation cannot be reduced to a bare claim with no corresponding life, and the qualities that follow are not detached moral achievements that replace the promises and divine power with which Peter began. The whole movement belongs together.
 
 You are not being invited to invent another nature. You are being returned to the one Genesis named, in Christ.
 
@@ -631,7 +631,7 @@ Define “true nature” from Genesis 1:26–28 and 2 Peter 1:2–8. What is par
 
 Then connect Psalm 82:5, Romans 3:23–24, and the Aletheia source's “back on course” formulation. Label the connection as the teaching's conceptual argument, and distinguish it from a claim that one Greek word by itself proves the whole restoration thesis.
 
-**Transition to Chapter 6:** The next chapter asks why Jesus came. It takes up Romans 3:21–26 and 1 Corinthians 11:7, where righteousness, coming short of glory, and Christ's work enter the argument. The relation between humanity's design and restoration must be shown across those passages rather than assumed from 2 Peter 1:4 alone.
+Participation in divine nature and escape from corruption therefore lead to the question of restoration: what does Scripture say has happened to humanity, and what has God done in Christ? Romans 3:21–26 and 1 Corinthians 11:7 bring righteousness, coming short of glory, and Christ's work into view. Their relationship to 2 Peter 1:4 must be demonstrated across the passages, not assumed from one verse alone.
 
 
 ---
