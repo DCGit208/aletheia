@@ -244,3 +244,22 @@ These changes improve the reader experience and publication apparatus. They do n
 - The reader payload was synchronized again. A direct repository comparison confirms all ten chapter bodies match manuscript 14 exactly; no “Forward link,” “Transition to Chapter,” or “Editorial proofing control” labels remain in the controlled manuscript.
 
 The current Hosting workflow for the latest synchronized commit is still pending. The current repository parity is confirmed by direct comparison, but the new live deployment must be confirmed separately. Full copy edit, complete Scripture proof, specialist lexical review, typesetting, page-by-page proof, live entitled-reader test, and final author approval remain open.
+
+## Production work log — Step 2 developmental edit, opening chapter
+
+**Production branch:** `book-i-doctrine-production-master`  
+**Chapter edited:** Chapter 1 — “Faith as Hypostasis: Substance, Underlying Reality, and the Foundation of the Doctrine”
+
+The first developmental edit has been committed to the production branch. The chapter has been reshaped around a clearer reader-facing progression:
+
+1. The opening question and Hebrews 11:1.
+2. The setting of Hebrews 10–11 and the lived examples of faith.
+3. The semantic range and contextual discussion of `hypostasis`.
+4. The comparison with Hebrews 1:3 and 3:14.
+5. The Aletheia leaflet's explicit teaching on `pistis`, credence, state, true nature, and Sonship.
+6. The owner's governing thesis, “Faith is our state by Design,” and its connected Scripture development.
+7. The relationship between Book I's foundation and Book II's evidence emphasis.
+
+The edit removes the former internal editorial-proofing section, reduces repeated explanations of the book's architecture and editorial method, removes the chapter's internal outline/checklist ending, and retains reader-facing reflection questions. It preserves the distinction between the leaflet's explicit teaching, biblical wording, lexical evidence, and the owner's doctrinal synthesis. The discussion of the substance/underlying-reality reading and the assurance/confidence alternatives remains, without allowing the lexical debate to displace the owner's governing doctrinal direction.
+
+**Verification required:** This is the first chapter-level developmental edit on the production branch. It is not yet integrated into canonical publication manuscript 14 or synchronized to the Aletheia World reader. That integration and parity check will follow the complete chapter pass. Chapters 2–10 remain outstanding. Step 2 is therefore **IN PROGRESS**, not complete.
