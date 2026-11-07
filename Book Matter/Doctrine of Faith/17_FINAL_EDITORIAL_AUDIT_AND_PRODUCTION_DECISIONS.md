@@ -263,3 +263,28 @@ The first developmental edit has been committed to the production branch. The ch
 The edit removes the former internal editorial-proofing section, reduces repeated explanations of the book's architecture and editorial method, removes the chapter's internal outline/checklist ending, and retains reader-facing reflection questions. It preserves the distinction between the leaflet's explicit teaching, biblical wording, lexical evidence, and the owner's doctrinal synthesis. The discussion of the substance/underlying-reality reading and the assurance/confidence alternatives remains, without allowing the lexical debate to displace the owner's governing doctrinal direction.
 
 **Verification required:** This is the first chapter-level developmental edit on the production branch. It is not yet integrated into canonical publication manuscript 14 or synchronized to the Aletheia World reader. That integration and parity check will follow the complete chapter pass. Chapters 2–10 remain outstanding. Step 2 is therefore **IN PROGRESS**, not complete.
+
+## Stage 2 — Theological and source-fidelity audit — 2026-11-07
+
+**Audit basis:** The uploaded *Aletheia Libraries 1* (2015) leaflet was read directly against the integrated canonical manuscript 14. The current owner-decision register (document 90), source/Scripture coverage audit (document 91), Scripture quotation proof register (document 13), and foundation dependency matrix (document 96) were also consulted. The supplied *BIBLE INTRODUCTION.pdf* was treated only as supplementary interpretive-method material, not as a source that can replace or outrank the leaflet.
+
+### Findings
+
+1. **Controlling source preserved.** The manuscript retains the leaflet's direct teaching that faith defines the state of God's children; *pistis* is identified as “credence”; and credence is connected with acceptance, true nature, and adoption as sons. The source's doctrinal force is not recast as a tentative hypothesis.
+2. **Creation and true-nature cluster covered.** Genesis 1:26–28, the leaflet's stated *'ĕlōhîm* interpretation, 2 Peter 1:4, and Psalm 82:6 are developed. Psalm 82:6 is kept with the judgment context in verses 1–8 and Jesus' appeal in John 10.
+3. **The Christ / glory / restoration cluster covered.** Romans 3:23–24 is quoted as a continuous movement; the leaflet's “deviation from true nature” interpretation and 1 Corinthians 11:7 are retained. Free justification, *dikaioō*, *dikaiosynē*, “back on course,” and *apolutrōsis* / “redemption; ransom in full” are present. The owner's restoration-to-original-design direction is stated as doctrinal development, not misrepresented as a literal dictionary gloss.
+4. **Owner decisions cross-checked.** Matthew 3:17 and Hebrews 11:2, 5–6; Mark 11:22 within Mark 11:20–25; Matthew 5:48 within Matthew 5:43–48; 1 John 4:17 in its love/confidence context; 1 Corinthians 15:41 in its resurrection context; the representation/accomplishment thesis; sonship/heirship; John 17:20–23; and 2 Corinthians 4:1–6 are all present in the integrated manuscript.
+5. **Abandoned Hebrews 1:8 question.** Hebrews 1:8 remains in the Son's portrait, as directed. A Chapter 8 study prompt that asked readers to explain why the former question remained abandoned has been removed, so the abandoned inference is not retained as a reader assignment.
+6. **Source provenance retained.** The four further-reading titles named by the leaflet remain recorded in the source note. The Genesis 1:27 Living Bible wording and the leaflet's separate Life Application Bible attribution are both identified in the manuscript.
+7. **Scope boundary respected.** The leaflet's other First Principles—baptisms, laying on of hands, resurrection of the dead, and eternal judgment—are outside this volume's defined “Faith toward God” subject scope. Their absence is a declared scope decision, not an omission disguised as source coverage.
+8. **Attribution discipline maintained.** The manuscript distinguishes the leaflet's wording, Bible text and context, lexical references, and the owner's doctrinal synthesis. This is an attribution safeguard and does not qualify or dilute the controlling authority of the leaflet.
+
+### Items carried forward to later production stages
+
+- Six remaining “Transition to Chapter” labels are still visible in the integrated manuscript. They are editorial presentation defects, not source/doctrinal defects; convert them into natural reader-facing transitions during the book-wide literary edit.
+- Chapter 8 retains a prose explanation that the former Hebrews 1:8 question is abandoned. This is explanatory context, not a renewed doctrinal question; the study prompt that turned it into an assignment has been removed.
+- The quotation register's “targeted checked” status is not final typeset proof. Every quotation, reference, translation label, and punctuation mark still requires final verification.
+- Specialist lexical review, complete line/copy edit, and designed-page proof remain open.
+
+**Stage 2 result:** The integrated manuscript passes this focused theological/source-fidelity audit against the controlling leaflet and settled owner directions. No doctrinal weakening or material omission was identified within Book I's defined “Faith toward God” scope. This is not final theological certification or publication approval.
+
