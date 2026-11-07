@@ -124,7 +124,7 @@ The second editorial correction pass changed the presentation of Chapter 1 and t
 - 2 Peter 1:2–8 retains the sequence from divine power and promises through participation, escape from corruption, diligence, the listed qualities, and fruitfulness.
 - The John 17:20–23 quotation retains the full prayer movement, including oneness, glory, indwelling, and the world's knowledge.
 - 2 Corinthians 5:17–21 retains the new-creation and reconciliation context around the statement about righteousness in Christ.
-- The Genesis 1:27 wording is an exact match to the supplied *The Living Bible* text. The translation and copyright credit are present on the manuscript copyright page. The leaflet's separate parenthetical “Life Application Bible” attribution remains preserved as source provenance and is not used to relabel the full TLB quotation.
+- The Genesis 1:27 wording is an exact match to the *The Living Bible* text at Bible Gateway. The translation credit is present on the manuscript copyright page. The TLB copyright line has been corrected to Tyndale's current official form: “Scripture quotations marked (TLB) are taken from The Living Bible, copyright © 1971 by Tyndale House Ministries. Used by permission. All rights reserved.” Tyndale's published print/eBook fair-use policy permits up to 500 TLB verses without express written permission, provided the quoted text is no more than 25% of the work and does not comprise a complete biblical book. Book I uses one verse, so this quotation is within the published limit; separate written permission is not required under that policy. The leaflet's separate parenthetical “Life Application Bible” attribution remains preserved as source provenance and is not used to relabel the full TLB quotation.
 - The KJV phrase “a better and an enduring substance” in Hebrews 10:34 is correctly distinguished from the Greek noun ὕπαρξις (*hyparxis*, G5223); it is not ὑπόστασις (*hypostasis*, G5287).
 
 ### Original-language findings
@@ -159,4 +159,11 @@ The second editorial correction pass changed the presentation of Chapter 1 and t
 ### Stage 3 boundary
 
 This pass verifies the source text and original-language data at manuscript level. It does **not** replace the final proof against the actual selected printed Bible edition or the second proof after typesetting. Punctuation, capitalization, line breaks, quotation marks, italics, Greek/Hebrew font rendering, and page-level accuracy must be checked again in the designed proof. The author must review the final proof. The book is not yet publication-ready.
+
+### Rights and final-proof disposition — completed for Stage 3
+
+- **KJV:** Tyndale's official permissions guidance identifies the King James Version text as public domain. No Bible-text permission is required for the KJV quotations in this manuscript. Publisher-owned notes, commentary, and typesetting are excluded; none is reproduced as KJV text here.
+- **TLB:** The book quotes Genesis 1:27 only. Tyndale's official print/eBook fair-use policy permits up to 500 verses without express written permission, subject to the 25%-of-work and no-complete-book limits. The book's one-verse use is within those limits. The copyright notice was corrected in manuscript 14 to the exact current Tyndale credit line for multiple translations.
+- **Selected reference texts for this verification pass:** Bible Gateway's KJV text for KJV quotations and Bible Gateway's TLB text for Genesis 1:27. The exact TLB text and its attribution were checked against https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=TLB. Tyndale's official permissions policy is at https://www.tyndale.com/permissions.
+- **No pending Stage 3 source-level quotation or lexical verification items remain.** The page-by-page check of punctuation, quotation marks, line breaks, italics, capitalization, and Greek/Hebrew font rendering is a post-typesetting proof task and belongs to the later designed-proof/publication-testing stage. It cannot be performed before designed pages exist; it is not a reason to leave this source-verification stage open.
 
