@@ -136,7 +136,7 @@ The same care applies to the other passages. Matthew 5:48 must remain within Jes
 
 The subsequent chapters therefore develop a connected argument: design; the state of God's children; participation in divine nature; the deviation described as coming short of glory; Christ's person and redemptive work; justification and righteousness; Sonship and heirship; oneness; and the image and glory revealed in Christ. The governing conviction remains that faith is our state by Design and that Jesus represents who we are by Design. His representation must never be used to minimize His redemptive accomplishment, and redemption must never be used to erase the representation revealed in Him.
 
-## Conclusion: the foundation for the evidence
+## The foundation and the evidence
 
 Hebrews 11:1 holds *hypostasis* and *elenchos* together. Book I establishes the foundation expressed through *hypostasis* and develops its relation to the Aletheia teaching on *pistis*, state, true nature, and Sonship. Book II, *Faith Is Evidence*, develops the evidence dimension from that foundation. It may return to Hebrews 11:1 because both terms belong to the verse, but it does not replace Book I's foundational treatment of faith as substance.
 
@@ -801,7 +801,7 @@ Why did Jesus come? In the leaflet's argument, He came in relation to humanity's
 
 ## Redemption in the wider witness
 
-The owner's wider Scripture cluster includes Ephesians 1:7 and Colossians 1:13–14. These passages add their own statements to the redemption argument.
+The wider Scripture framework includes Ephesians 1:7 and Colossians 1:13–14. These passages add their own statements to the redemption argument.
 
 > “In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace.” — Ephesians 1:7, KJV
 
@@ -1380,6 +1380,16 @@ John 17:22–23 records Jesus' declaration that the glory given to Him has been 
 To say that this is present reality is not to claim that every aspect of the believer's experience is already complete or that the passages have no future dimension. John 17 itself speaks of being made perfect in one, and Romans 8 includes suffering and shared glory. The point developed here is that the identity, righteousness, love, and oneness described in these passages are not to be treated as wholly external or postponed until some future state. They are presented in relation to Christ and what is given in Him.
 
 The light of the knowledge of God's glory in the face of Jesus Christ therefore speaks directly to the question of who humanity is by design. Christ is not merely an example placed before humanity with no connection to its intended nature. In the Aletheia doctrine, He represents that design, and through His redemptive work humanity is restored to it.
+
+## Questions for reflection and study
+
+1. What does Paul say about the ministry and the handling of God's word in 2 Corinthians 4:1–2?
+2. Why is Christ identified as “the image of God” in 2 Corinthians 4:4, and how does that statement relate to Genesis 1:26–28 and Hebrews 1:3?
+3. What does 2 Corinthians 4:6 say about the knowledge of God's glory and the face of Jesus Christ?
+4. How does Paul's reference to the creation of light contribute to his description of God's work in the heart?
+5. How does Romans 3:23–24 connect coming short of glory with justification and redemption?
+6. Explain the synthesis expressed in the sentence: “Christ's work restores what Christ's person reveals.” Which parts are explicit scriptural statements, and which part is the book's doctrinal conclusion?
+7. How does the book hold together Jesus' representation of humanity's Design and His unique redemptive accomplishment?
 
 ## Conclusion: the foundation for the evidence
 
