@@ -317,7 +317,7 @@ The 2015 leaflet places the paraphrase “So God made man like his Maker” besi
 > Like God did God make man;  
 > Man and maid did he make them.”
 
-This wording is retained alongside the KJV, not as a replacement for it. The full quotation is identified with *The Living Bible* (TLB), copyright © 1971 Tyndale House Foundation. The leaflet separately places the line “Like God did God make man” beside a parenthetical attribution to the Life Application Bible. That source note is preserved as part of the leaflet's presentation; the full quotation above is attributed to the translation actually quoted. Reference: https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=TLB.
+This wording is retained alongside the KJV, not as a replacement for it. The full quotation is identified with *The Living Bible* (TLB), copyright © 1971 by Tyndale House Ministries. The leaflet separately places the line “Like God did God make man” beside a parenthetical attribution to the Life Application Bible. That source note is preserved as part of the leaflet's presentation; the full quotation above is attributed to the translation actually quoted. Reference: https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=TLB.
 
 Genesis 1:28 continues:
 
@@ -1399,7 +1399,7 @@ Aletheia Libraries. *Aletheia Libraries 1*. “Faith toward God.” 2015. BTH Ed
 
 *The Holy Bible, King James Version.*
 
-*The Living Bible.* Scripture quotation marked TLB. Copyright © 1971 by Tyndale House Foundation.
+*The Living Bible.* Scripture quotation marked TLB. Copyright © 1971 by Tyndale House Ministries.
 
 ## Supplementary Bible-study reference
 
@@ -1436,7 +1436,7 @@ These lexical references support the word-level statements. Thayer's qualificati
 
 ## Source notes: Genesis 1:27 and resources named in the leaflet
 
-The Genesis 1:27 quotation reproduced in Chapter 3 is from *The Living Bible* (TLB), copyright © 1971 Tyndale House Foundation. It is included alongside the King James Version and does not replace the biblical text quoted from the KJV. The 2015 Aletheia leaflet places the line “Like God did God make man” beside a parenthetical attribution to the Life Application Bible; that attribution is retained here as a note about the leaflet's presentation. The full TLB wording is identified and credited according to the translation actually quoted. Reference: https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=TLB.
+The Genesis 1:27 quotation reproduced in Chapter 3 is from *The Living Bible* (TLB), copyright © 1971 by Tyndale House Ministries. It is included alongside the King James Version and does not replace the biblical text quoted from the KJV. The 2015 Aletheia leaflet places the line “Like God did God make man” beside a parenthetical attribution to the Life Application Bible; that attribution is retained here as a note about the leaflet's presentation. The full TLB wording is identified and credited according to the translation actually quoted. Reference: https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=TLB.
 
 The leaflet's further-reading notes name *The Doctrine of Man* and *Why Men Die*. It also recommends requesting *True Nature of God*, describing the resource with the statement: “if you know God’s nature, then you’re as Him, unlimited, because we’re made in His image. Genesis 1:26.” The leaflet separately names *WHO'S JESUS TO YOU?* and directs readers to its Address page for request details. These titles and descriptions are recorded as source provenance. The parenthetical description of *True Nature of God* is the leaflet's wording about that resource; it is not presented as a conclusion proven by Genesis 1:26 alone. The titles are not being introduced as a new course sequence.
 
