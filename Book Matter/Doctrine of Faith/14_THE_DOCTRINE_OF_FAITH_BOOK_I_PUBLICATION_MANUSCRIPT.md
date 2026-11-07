@@ -103,7 +103,7 @@ The distinction between lexical range and contextual interpretation remains impo
 
 Hebrews 1:3 describes the Son as the brightness of God's glory and the express image of His *hypostasis*—“the express image of his person” in the KJV. Some modern translations render the phrase in terms of God's nature or being. The same noun therefore appears in a statement about the Son's relation to the Father's *hypostasis*, in a context of glory and exact representation.
 
-This passage is important to the present inquiry. The Aletheia teaching connects faith with true nature from creation, image and likeness, the glory humanity came short of through sin, and Christ as the image of God. The owner's governing thesis is that **Jesus represents who we are by Design**. Hebrews 1:3 belongs in that investigation because it describes the Son in relation to the Father's *hypostasis* and identifies Him as the express image.
+This passage is important to the present inquiry. The Aletheia teaching connects faith with true nature from creation, image and likeness, the glory humanity came short of through sin, and Christ as the image of God. The governing thesis of this book is that **Jesus represents who we are by Design**. Hebrews 1:3 belongs in that investigation because it describes the Son in relation to the Father's *hypostasis* and identifies Him as the express image.
 
 The comparison must nevertheless be made with care. Hebrews 1:3 describes the Son as the *charaktēr* of the Father's *hypostasis*. Hebrews 11:1 describes faith as the *hypostasis* of things hoped for. The shared noun makes comparison meaningful; it does not make the grammar, referent, or precise contextual nuance identical. Hebrews 1:3 does not, by itself, establish that *hypostasis* in Hebrews 11:1 means the believer's nature. It contributes to a wider argument about substance, nature, image, and representation.
 
@@ -120,23 +120,23 @@ The leaflet does not quote Hebrews 11:1 in this section, nor does it use the wor
 - Hebrews 11:1 describes faith as the *hypostasis* of things hoped for; the KJV renders the term “substance.”
 - The Aletheia source explicitly teaches that *pistis* or credence defines the state of the children of God and connects that state with true nature and Sonship.
 
-The owner's governing formulation brings these lines into relation: **faith is our state by Design**. Faith as substance is understood in relation to the underlying nature and state of the person. This is not a sentence to be falsely attributed to the leaflet or presented as a definition supplied by the etymology of *hypostasis*. It is the doctrinal thesis to be developed through the source's explicit teaching and the connected Scripture passages.
+This book brings these lines into relation: **faith is our state by Design**. Faith as substance is understood in relation to the underlying nature and state of the person. This is not a sentence to be falsely attributed to the leaflet or presented as a definition supplied by the etymology of *hypostasis*. It is the doctrinal thesis to be developed through the source's explicit teaching and the connected Scripture passages.
 
 ## Faith as our state by Design
 
-The Aletheia source's use of “state” gives the doctrine its particular force. Faith is not merely a mental statement detached from the person. It concerns the state of the children of God: acceptance, true nature, and adoption as sons. The owner's direction is that this state is not an accidental condition or a temporary religious feeling. It belongs to humanity's Design and is to be understood through what God has made known and accomplished in Christ.
+The Aletheia source's use of “state” gives the doctrine its particular force. Faith is not merely a mental statement detached from the person. It concerns the state of the children of God: acceptance, true nature, and adoption as sons. This state is not an accidental condition or a temporary religious feeling. It belongs to humanity's Design and is to be understood through what God has made known and accomplished in Christ.
 
 This conviction must be developed through the full scriptural movement of the book. Genesis 1:26–28 supplies the language of image, likeness, blessing, fruitfulness, and dominion. Galatians 4:5–7 and Romans 8:14–17 develop adoption, the Spirit of the Son, and heirship. Second Peter 1:2–8 speaks of divine power, the promises, participation in divine nature, escape from corruption, and the qualities that are to abound. Psalm 82:1–8 must be read with its judgment setting, and Jesus' appeal in John 10:30–39 must be read as part of the exchange in which He invokes the written Scripture.
 
 The argument also includes the Father's declaration over Jesus in Matthew 3:17 and the testimony concerning faith in Hebrews 11:2, 5–6. The Father's pleasure in the Son and the testimony that faith pleases God belong in the wider account of Sonship and the state in which the children of God are called to operate. The relationship among these passages is a doctrinal synthesis to be demonstrated through their actual wording and contexts.
 
-Mark 11:22 is a key bridge in this argument. Jesus says, in the KJV, “Have faith in God.” The Greek phrase is *pistin theou*. The genitive construction may be rendered formally as “faith of God,” but grammar alone does not establish “state of God” as a literal lexical gloss. The owner's doctrinal direction is settled: Mark 11:22 indicates that we must operate in the state of God because we are God by design; it underscores our design identity. That reading must be developed with Mark 11:20–25, including the fig tree, Jesus' words about faith, the heart, prayer, and forgiveness. The wider argument draws on the Aletheia teaching about *pistis* as the state of God's children and Genesis 1:26–28's image-and-likeness language.
+Mark 11:22 is a key bridge in this argument. Jesus says, in the KJV, “Have faith in God.” The Greek phrase is *pistin theou*. The genitive construction may be rendered formally as “faith of God,” but grammar alone does not establish “state of God” as a literal lexical gloss. Within this doctrinal framework, Mark 11:22 indicates that we must operate in the state of God because we are God by design; it underscores our design identity. That reading must be developed with Mark 11:20–25, including the fig tree, Jesus' words about faith, the heart, prayer, and forgiveness. The wider argument draws on the Aletheia teaching about *pistis* as the state of God's children and Genesis 1:26–28's image-and-likeness language.
 
-The same care applies to the other passages. Matthew 5:48 must remain within Jesus' teaching about loving enemies, blessing those who curse, doing good to those who hate, and praying for persecutors (Matthew 5:43–48). The owner's direction is to read it with 1 John 4:17 as an affirmation of identity and likeness, while retaining the latter verse's context of perfected love and confidence. No one verse is asked to carry the whole representation thesis.
+The same care applies to the other passages. Matthew 5:48 must remain within Jesus' teaching about loving enemies, blessing those who curse, doing good to those who hate, and praying for persecutors (Matthew 5:43–48). Read Matthew 5:48 with 1 John 4:17 as an affirmation of identity and likeness, while retaining the latter verse's context of perfected love and confidence. No one verse is asked to carry the whole representation thesis.
 
 The subsequent chapters therefore develop a connected argument: design; the state of God's children; participation in divine nature; the deviation described as coming short of glory; Christ's person and redemptive work; justification and righteousness; Sonship and heirship; oneness; and the image and glory revealed in Christ. The governing conviction remains that faith is our state by Design and that Jesus represents who we are by Design. His representation must never be used to minimize His redemptive accomplishment, and redemption must never be used to erase the representation revealed in Him.
 
-## The foundation and the evidence
+## Conclusion: the foundation for the evidence
 
 Hebrews 11:1 holds *hypostasis* and *elenchos* together. Book I establishes the foundation expressed through *hypostasis* and develops its relation to the Aletheia teaching on *pistis*, state, true nature, and Sonship. Book II, *Faith Is Evidence*, develops the evidence dimension from that foundation. It may return to Hebrews 11:1 because both terms belong to the verse, but it does not replace Book I's foundational treatment of faith as substance.
 
@@ -223,7 +223,7 @@ Galatians 4 shows the Son sent and redemption accomplished so that adoption migh
 
 ## Faith, Sonship, and the Father's pleasure
 
-The owner's doctrinal direction is clear: **faith is our state by design**. Humanity was created in the image and likeness of Elohim; the Scriptures speak of participation in the divine nature; and those who are sons are heirs through Christ. The Father's will and pleasure is for His sons to operate in the state He designed and has made available in Christ. This is not a passing emotional condition. It concerns the state and identity of God's children.
+The governing doctrinal conviction is clear: **faith is our state by design**. Humanity was created in the image and likeness of Elohim; the Scriptures speak of participation in the divine nature; and those who are sons are heirs through Christ. The Father's will and pleasure is for His sons to operate in the state He designed and has made available in Christ. This is not a passing emotional condition. It concerns the state and identity of God's children.
 
 Ephesians 1:5 says that adoption is according to the good pleasure of God's will:
 
@@ -378,7 +378,7 @@ No single verse is asked to carry the entire doctrine. Genesis gives the creatio
 
 ## Faith, design, and the Father's nature
 
-The design inquiry also brings together passages in which Jesus speaks about faith and the Father's nature. These passages are important to the owner's settled doctrinal direction that humanity is to operate in the state corresponding to its design.
+The design inquiry also brings together passages in which Jesus speaks about faith and the Father's nature. These passages develop the doctrinal conviction that humanity is to operate in the state corresponding to its design.
 
 ### Mark 11:20–25 — “Have faith in God”
 
@@ -390,7 +390,7 @@ The setting begins with the disciples seeing that the fig tree Jesus had address
 
 The Greek phrase is *pistin theou* (πίστιν θεοῦ). *Pistin* is the accusative form of *pistis*, “faith”; *theou* is the genitive form of *theos*, “God.” The familiar English rendering “faith in God” interprets the genitive as indicating the object toward which faith is directed. “Faith of God” reflects the genitive more formally, but the grammatical form by itself does not settle the theological relationship expressed.
 
-The owner's doctrinal direction is that Mark 11:22 underscores our design identity and calls us to operate in the state of God because we are God by design. This is the doctrinal interpretation of the verse within the full Scripture framework; it is not presented as a word-for-word lexical gloss of the Greek genitive. The grammatical construction is acknowledged, while the settled doctrinal direction is developed through the connected teaching on *hypostasis*, *pistis*, the state of God's children, and humanity's image and likeness.
+Mark 11:22 underscores our design identity and calls us to operate in the state of God because we are God by design. This is the doctrinal interpretation of the verse within the full Scripture framework; it is not presented as a word-for-word lexical gloss of the Greek genitive. The grammatical construction is acknowledged, while the settled doctrinal direction is developed through the connected teaching on *hypostasis*, *pistis*, the state of God's children, and humanity's image and likeness.
 
 The relationship is therefore cumulative: Chapter 1 examines *hypostasis* as the foundation of faith as substance or underlying reality; Chapter 2 develops the leaflet's explicit teaching that *pistis* / credence defines the state of God's children; Genesis 1:26–28 gives the image, likeness, and dominion language of humanity's design. Mark 11:22 is read within this connected argument, not as an isolated proof-text.
 
@@ -408,11 +408,11 @@ He continues:
 
 The command to be perfect occurs within Jesus' teaching about loving enemies, blessing those who curse, doing good to those who hate, and praying for persecutors. The Father's generosity toward both the evil and the good is part of the stated context. Perfection is therefore not detached from the expression of the Father's nature in love.
 
-The owner's doctrinal direction is that Matthew 5:48 affirms identity and calls us to operate in the Father's own nature and perfection. It is to be read together with 1 John 4:17, which says, “as he is, so are we in this world.” These passages are treated as identity-affirming, while retaining their immediate contexts: love toward enemies in Matthew and perfected love and confidence in the day of judgment in First John.
+Matthew 5:48 affirms identity and calls us to operate in the Father's own nature and perfection. It is to be read together with 1 John 4:17, which says, “as he is, so are we in this world.” These passages are treated as identity-affirming, while retaining their immediate contexts: love toward enemies in Matthew and perfected love and confidence in the day of judgment in First John.
 
 ### Psalm 82 and John 10
 
-The phrase “as Gods” is the owner's framing of this part of the argument. Genesis 1:26–28 explicitly speaks of image, likeness, and dominion. Psalm 82:6 and Jesus' appeal in John 10:34–35 form a related but distinct scriptural argument. Chapter 4 develops the full psalm and Jesus' use of it. The relationship should be pursued through both contexts rather than by isolating the phrase “Ye are gods.”
+The phrase “as Gods” expresses the doctrinal framing of this part of the argument. Genesis 1:26–28 explicitly speaks of image, likeness, and dominion. Psalm 82:6 and Jesus' appeal in John 10:34–35 form a related but distinct scriptural argument. Chapter 4 develops the full psalm and Jesus' use of it. The relationship should be pursued through both contexts rather than by isolating the phrase “Ye are gods.”
 
 ## The design revealed and represented
 
@@ -428,7 +428,7 @@ Then read John 14:12, Psalm 82:6, Romans 8:17, and 1 John 4:17 alongside Genesis
 
 Finally, examine the thesis **“Jesus represents who we are by Design”** through the full Scripture cluster in this chapter. Explain how Christ's representation and His redemptive accomplishment belong together without allowing either to displace the other.
 
-**Transition to Chapter 4:** Genesis has supplied the explicit image-and-likeness foundation. The next chapter examines Psalm 82:6 with verse 7 and Jesus' use of the passage in John 10, developing the “Ye are gods” argument within the psalm's judgment setting.
+Genesis has supplied the explicit image-and-likeness foundation. That creation account now leads into Psalm 82:6–7 and Jesus' use of the passage in John 10, where the declaration “Ye are gods” must be read within the psalm's judgment setting.
 
 # Chapter 4 — Psalm 82 with John 10: “Ye Are Gods” and the Judgment Context
 ## The statement and the setting
@@ -543,7 +543,7 @@ John 10 records Jesus quoting the declaration in response to the charge of blasp
 
 These passages do not permit the reader to dismiss “Ye are gods” as though Jesus had not invoked it. Nor do they permit the reader to ignore the psalm's rebuke and judgment. The designation is present; accountability is present; Jesus' appeal to the written word is present. Each must remain in the interpretation.
 
-The owner's broader design thesis is developed cumulatively through the full Scripture set:
+The design thesis is developed cumulatively through the full Scripture set:
 
 - **Genesis 1:26–28** supplies the creation language of image, likeness, blessing, and dominion.
 - **Psalm 82:6–8** supplies the declaration “Ye are gods,” the identification “children of the most High,” and the surrounding judgment.
@@ -561,7 +561,7 @@ The doctrinal conclusion is not assigned to one isolated phrase. The passages ar
 4. What does Jesus explicitly say about those “unto whom the word of God came”? What does He explicitly say about the One whom the Father sanctified and sent?
 5. Distinguish the statements made directly in Psalm 82 and John 10 from the wider doctrinal conclusion developed by reading them with Genesis 1:26–28 and 2 Peter 1:4.
 
-**Transition to Chapter 5:** Psalm 82 and John 10 have been read together without separating the declaration from the judgment. The next chapter turns to 2 Peter 1:2–8, where Peter develops the language of divine power, promises, escape from corruption, participation in the divine nature, and the qualities to be supplied in faith.
+Read together, Psalm 82 and John 10 keep the declaration and its judgment setting in view. The next movement is 2 Peter 1:2–8, where Peter speaks of divine power and promises, escape from corruption, participation in the divine nature, and the qualities to be supplied in faith.
 
 # Chapter 5 — True Nature: Partakers of the Divine Nature
 ## From created image to participation in divine nature
@@ -654,7 +654,7 @@ The Aletheia source's true-nature teaching is developed through the relationship
 
 The source's “back on course” formulation connects this passage with Psalm 82:5 and Romans 3:23–24. It gives language to the movement from what is out of course and what has fallen short of glory to the restoration argument developed through righteousness and redemption in Christ. Chapter 7 will examine that teaching directly; this chapter establishes the place of 2 Peter 1:2–8 within it.
 
-The owner's doctrinal direction is that participation in divine nature belongs to humanity's designed state and to the restoration accomplished through Christ. This conclusion is developed from the source's connection between creation and true nature, together with Peter's actual sequence. It is not made to rest on verse 4 alone.
+Participation in divine nature belongs to humanity's designed state and to the restoration accomplished through Christ. This conclusion is developed from the source's connection between creation and true nature, together with Peter's actual sequence. It is not made to rest on verse 4 alone.
 
 Nor is divine nature treated as a claim that makes Peter's instructions unnecessary. The same passage that speaks of participation calls for diligence, virtue, knowledge, temperance, patience, godliness, brotherly kindness, and charity. These qualities are to be in the believer and to abound. The chapter therefore holds together what God has given, what the promises make possible, what believers have escaped, and the fruitful life Peter describes.
 
@@ -669,7 +669,7 @@ The governing argument of Book I remains that **faith is our state by design** a
 5. List the qualities in 2 Peter 1:5–7 in their stated order. What does Peter say will be true when these qualities are present and abound?
 6. Explain why participation in divine nature must be taught together with verses 5–8, rather than as an isolated declaration.
 
-**Transition to Chapter 6:** Peter has described divine provision, participation in divine nature, escape from corruption, and the qualities that lead to fruitfulness in the knowledge of Christ. The next chapter asks why Jesus came, examining the connection between humanity's coming short of glory, righteousness, and Christ's redemptive work.
+Peter's account of divine provision, participation in divine nature, escape from corruption, and growth in the knowledge of Christ raises the next question: why did Jesus come? The discussion now turns to humanity's coming short of glory, righteousness, and Christ's redemptive work.
 
 # Chapter 6 — Why Did Jesus Come? Glory, Deviation, and Representation
 ## The question follows the design
@@ -817,11 +817,11 @@ The passages explicitly speak of redemption, blood, forgiveness, deliverance, an
 
 ## Jesus represents who we are by Design
 
-The owner's settled doctrinal thesis is that **Jesus represents who we are by Design**. This is a governing teaching of Book I. It must be developed fully and held together with the redemption He accomplished.
+The governing doctrinal thesis is that **Jesus represents who we are by Design**. This is a governing teaching of Book I. It must be developed fully and held together with the redemption He accomplished.
 
 Genesis 1:26–27 establishes humanity's creation in God's image and likeness. Second Peter 1:4 speaks of participation in divine nature. Galatians 4:5–7 and Romans 8:15–17 develop adoption, sonship, and heirship. Hebrews 1:2–3 presents the Son as heir of all things and the express image of the Father's person. These passages contribute distinct parts of the cumulative argument: creation, divine nature, sonship, inheritance, and the Son's representation.
 
-The source's question about the glory humanity came short of must be read in this wider design setting. The owner's doctrinal direction is that sin is falling short of the state for which humanity was designed, and that justification and redemption restore humanity to that design. This is the doctrinal synthesis developed across the source and the connected Scripture passages.
+The source's question about the glory humanity came short of must be read in this wider design setting. Sin is understood here as falling short of the state for which humanity was designed; justification and redemption restore humanity to that design. This is the doctrinal synthesis developed across the source and the connected Scripture passages.
 
 Representation does not cancel redemption. Jesus does not merely display an ideal while leaving His redemptive work outside the argument. Nor does redemption erase the significance of what His person reveals about humanity's design. The two belong together:
 
@@ -831,7 +831,7 @@ The source's “back on course” language is part of this restoration argument.
 
 ## The wider identity witness: love, likeness, and perfection
 
-Two further passages in the owner's settled Scripture cluster help articulate the relationship between Christ and humanity's designed identity. They must be read in their own contexts.
+Two further passages in the book's Scripture framework help articulate the relationship between Christ and humanity's designed identity. They must be read in their own contexts.
 
 Jesus says in Matthew 5:48:
 
@@ -843,7 +843,7 @@ First John 4:17 says:
 
 > “Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.” — 1 John 4:17, KJV
 
-John's statement “as he is, so are we in this world” is direct and present. Its context is also explicit: love made perfect and boldness in the day of judgment. The owner's doctrinal direction brings this statement together with Matthew 5:48 in the identity-and-likeness argument. The connection does not remove either passage from its context. Matthew speaks of the Father's perfection expressed in love, including love of enemies; First John speaks of perfected love and confidence in the day of judgment.
+John's statement “as he is, so are we in this world” is direct and present. Its context is also explicit: love made perfect and boldness in the day of judgment. This statement is considered together with Matthew 5:48 in the identity-and-likeness argument. The connection does not remove either passage from its context. Matthew speaks of the Father's perfection expressed in love, including love of enemies; First John speaks of perfected love and confidence in the day of judgment.
 
 These passages contribute to the wider design thesis: Jesus represents who we are by Design. They do not replace the central argument of Romans 3. The question of why Jesus came still requires the full account of sin, coming short of glory, free justification, propitiation, and redemption.
 
@@ -873,7 +873,7 @@ This is why the chapter cannot answer the question with representation alone or 
 7. Explain how Ephesians 1:7 and Colossians 1:13–14 contribute to the redemption argument.
 8. State why Christ's representation and His redemptive accomplishment must remain together in the thesis: **Jesus represents who we are by Design.**
 
-**Transition to Chapter 7:** This chapter has established the source's question about why Jesus came and the connection between coming short of glory, free justification, and redemption in Christ. The next chapter examines *dikaioō*, *dikaiosynē*, and *apolutrōsis* in the leaflet's own lexical presentation, developing the teaching on justification, righteousness, and redemption without confusing the source's glosses with the full range of lexical evidence.
+The question of why Jesus came leads directly to the source's teaching on free justification and redemption in Christ. The next chapter examines *dikaioō*, *dikaiosynē*, and *apolutrōsis*, preserving the leaflet's own glosses while distinguishing them from the wider lexical evidence.
 
 # Chapter 7 — Δικαιόω (*dikaioō*): Redemption, Free Justification, and Righteousness in Christ
 ## The response to deviation: redemption and righteousness
@@ -1022,7 +1022,7 @@ The governing thesis of Book I remains: **Jesus represents who we are by Design.
 
 These lexical references support the word-level statements. Thayer's qualification concerning the “render righteous” sense remains visible alongside the complete entry. The references do not replace the Aletheia source or independently establish every element of the book's wider restoration-to-design doctrine.
 
-**Transition to Chapter 8:** The argument now turns to the Son as heir of all things and the express image of the Father, and to the believer's sonship and heirship through Galatians 4:5–7 and Romans 8:16–17. Hebrews 1:8 remains part of the Son's scriptural portrait; the former question associated with that verse is not reopened.
+The discussion now turns to the Son as heir of all things and the express image of the Father, alongside the sonship and heirship believers receive through Galatians 4:5–7 and Romans 8:16–17. Hebrews 1:8 remains part of the Son's scriptural portrait; the former question associated with that verse is not reopened.
 
 # Chapter 8 — The Son, the Heir, and the Representation of Design
 ## From righteousness in Christ to sonship and heirship
@@ -1112,7 +1112,7 @@ Paul's sequence is explicit:
 
 The order matters. Redemption and adoption are connected. The Spirit of the Son is sent because we are sons. The conclusion is not merely that a servant has been given a new task; the passage declares a change of status: no more a servant, but a son. Heirship follows sonship, and it is “through Christ.”
 
-The owner's doctrinal direction describes this as natural heirship: because we are sons, heirship belongs to our sonship. The passage's own wording is “if a son, then an heir of God through Christ.” The word “natural” in the author's formulation expresses this consequence of sonship; it does not mean that heirship is independent of Christ. Paul's statement explicitly says “through Christ.”
+This is described as natural heirship: because we are sons, heirship belongs to our sonship. The passage's own wording is “if a son, then an heir of God through Christ.” The word “natural” in the author's formulation expresses this consequence of sonship; it does not mean that heirship is independent of Christ. Paul's statement explicitly says “through Christ.”
 
 ## Children, heirs, and joint-heirs with Christ: Romans 8:14–17
 
@@ -1165,7 +1165,7 @@ The statements contribute distinct parts of the argument. They are not collapsed
 
 ## The Father's purpose and the representation of design
 
-The owner's settled doctrinal direction is that the Father's will and pleasure is for His sons to operate in the state corresponding to their design. This includes the identity of sons and heirs, participation in divine nature, and the reality represented in Christ.
+The Father's will and pleasure is for His sons to operate in the state corresponding to their design. This includes the identity of sons and heirs, participation in divine nature, and the reality represented in Christ.
 
 The argument has been developed across the book:
 
@@ -1199,7 +1199,7 @@ The Aletheia teaching and the author's doctrinal direction bring these passages 
 9. Explain how Jesus' unique identity as Son and appointed heir remains foundational to the inheritance believers receive through Him.
 10. Show how the chapter holds together the thesis that Jesus represents who we are by Design and the redemptive accomplishment through which we are restored.
 
-**Transition to Chapter 9:** Having established the Son's representation and the believers' sonship and heirship through Him, the next chapter examines Jesus' prayer in John 17:20–23—its oneness, glory, indwelling, sending, and stated purpose.
+The Son's representation and the believers' sonship and heirship through Him lead into Jesus' prayer in John 17:20–23. The next chapter follows its movement through oneness, glory, indwelling, sending, and the purpose Jesus states.
 
 # Chapter 9 — Oneness and Glory: The Prayer of John 17:20–23
 ## The prayer that brings sonship and glory into view
@@ -1282,7 +1282,7 @@ The Aletheia source's question—how would you liken the prayer of oneness?—in
 
 John 17 contributes its own language to this connected teaching: believers are to be one in the Father and the Son; the glory given to the Son is given to them; Christ is in them; they are to be made perfect in one; and the Father loves them as He loves the Son. The prayer does not stand apart from the book's teaching on design, nature, sonship, and righteousness. It brings the relationship and glory dimensions into view.
 
-The owner's governing thesis remains that **Jesus represents who we are by Design**. This representation is not a substitute for redemption, justification, or the work of Christ. Nor does redemption make the representation theme unnecessary. The One who reveals the Son's relation to the Father and prays for believers to share in the oneness and glory He describes is also the One through whom the book has developed redemption and restoration. Christ's person and Christ's accomplishment must remain together.
+The governing thesis remains that **Jesus represents who we are by Design**. This representation is not a substitute for redemption, justification, or the work of Christ. Nor does redemption make the representation theme unnecessary. The One who reveals the Son's relation to the Father and prays for believers to share in the oneness and glory He describes is also the One through whom the book has developed redemption and restoration. Christ's person and Christ's accomplishment must remain together.
 
 The prayer therefore presses the reader beyond a shallow definition of unity. It asks us to consider the oneness, indwelling, glory, and love Jesus names—and to recognize the purpose He attaches to them. The world is to believe that the Father sent the Son and to know that the Father loves believers as He loves the Son. The reality of this oneness has a witness beyond itself.
 
@@ -1353,7 +1353,7 @@ The book began with the foundation of faith and followed the Aletheia source's c
 
 Second Corinthians 4:4–6 brings the image and glory inquiry to Christ. Genesis 1:26–28 speaks of humanity's creation in God's image and likeness. Hebrews 1:2–3 presents the Son as heir of all things and the express image of God's person. Second Peter 1:4 speaks of partaking of the divine nature. Galatians 4:5–7 and Romans 8:16–17 develop sonship and heirship. John 17:20–23 records Jesus' prayer that believers be one in the Father and Son, and His declaration that the glory given to Him has been given to them.
 
-These passages form a connected argument, not one long quotation. Their contribution is cumulative. They direct attention to God's nature, humanity's design, the Son who reveals the image, and the relationship into which believers are brought through Him. The Aletheia source's teaching on true nature and the owner's settled doctrinal direction give this connection its governing force: **Jesus represents who we are by Design.**
+These passages form a connected argument, not one long quotation. Their contribution is cumulative. They direct attention to God's nature, humanity's design, the Son who reveals the image, and the relationship into which believers are brought through Him. The Aletheia source's teaching on true nature and the doctrinal synthesis developed in this book give this connection its governing force: **Jesus represents who we are by Design.**
 
 This statement does not mean that Christ's unique person and work can be reduced to a general description of humanity. The book has treated Him as the Son, the heir, the express image, and the One through whom redemption is accomplished. His representation is grounded in who He is; it is not a denial of His uniqueness or of His saving work.
 
@@ -1363,17 +1363,17 @@ The Aletheia source connects the words “come short of the glory of God” in R
 
 > **Romans 3:23–24 (KJV)** — “For all have sinned, and come short of the glory of God; Being justified freely by his grace through the redemption that is in Christ Jesus.”
 
-The passage joins sin and coming short of glory with justification freely by grace through redemption in Christ Jesus. The source's interpretation places this coming short in relation to deviation from true nature. The book has developed the owner's doctrinal direction that sin is a falling short of the designed state and that justification and redemption restore humanity to that state.
+The passage joins sin and coming short of glory with justification freely by grace through redemption in Christ Jesus. The source's interpretation places this coming short in relation to deviation from true nature. The book develops the conclusion that sin is a falling short of the designed state and that justification and redemption restore humanity to that state.
 
 That restoration argument must not be separated from the person of Christ revealed in 2 Corinthians 4. The One who is the image of God is also the One in whom redemption is found. Second Corinthians 5:17–21 develops reconciliation and the righteousness of God in Christ. Ephesians 1:7 and Colossians 1:13–14 belong to the wider redemption teaching. These passages speak of Christ's work; they are not displaced by the representation theme.
 
-The Aletheia leaflet's gloss for *apolutrōsis* is “redemption; ransom in full.” Its treatment of *dikaiosynē* includes the wording “equity: impartiality to and conformity with the nature of God,” together with “original: back on course.” The book has retained these source formulations and developed the owner's direction that complete ransom and justification are related to restoration to original design. “Back on course” expresses that doctrinal restoration; it is not offered as an exhaustive dictionary definition of every Greek term.
+The Aletheia leaflet's gloss for *apolutrōsis* is “redemption; ransom in full.” Its treatment of *dikaiosynē* includes the wording “equity: impartiality to and conformity with the nature of God,” together with “original: back on course.” The book retains these source formulations and develops the doctrinal conclusion that complete ransom and justification are related to restoration to original design. “Back on course” expresses that doctrinal restoration; it is not offered as an exhaustive dictionary definition of every Greek term.
 
 The relationship can be stated simply: **Christ's work restores what Christ's person reveals.** This is the book's synthesis, not a direct quotation from one verse. It holds together the image and glory disclosed in Christ with the redemption, reconciliation, and justification accomplished in Him. The work does not erase the representation; the representation does not make the work unnecessary.
 
 ## Present reality in Christ
 
-The book has also considered the present-tense force of the connected Scripture passages. Second Corinthians 5:21 speaks of being made the righteousness of God in Christ. First John 4:17 declares, in the context of perfected love and confidence, “as he is, so are we in this world.” Matthew 5:48 must be read in its immediate context of the command to love even one's enemies, and the owner's direction is to consider it together with 1 John 4:17 as an affirmation of identity and likeness.
+The book has also considered the present-tense force of the connected Scripture passages. Second Corinthians 5:21 speaks of being made the righteousness of God in Christ. First John 4:17 declares, in the context of perfected love and confidence, “as he is, so are we in this world.” Matthew 5:48 must be read in its immediate context of the command to love even one's enemies, and it is considered together with 1 John 4:17 as an affirmation of identity and likeness.
 
 John 17:22–23 records Jesus' declaration that the glory given to Him has been given to believers, and His prayer that they may be one, with the Son in them and the Father in Him. These statements are not merely about a distant future. They speak of what Christ gives and of the relationship for which He prays. The book's argument about present reality is therefore grounded in the passages themselves and in the Aletheia teaching that connects them.
 
@@ -1381,7 +1381,7 @@ To say that this is present reality is not to claim that every aspect of the bel
 
 The light of the knowledge of God's glory in the face of Jesus Christ therefore speaks directly to the question of who humanity is by design. Christ is not merely an example placed before humanity with no connection to its intended nature. In the Aletheia doctrine, He represents that design, and through His redemptive work humanity is restored to it.
 
-## The foundation and the evidence
+## Conclusion: the foundation for the evidence
 
 Book I has established its foundation through Hebrews 11:1 and the discussion of *hypostasis*, substance, and underlying reality. It has then developed the Aletheia leaflet's teaching on *pistis* as credence and its connection with the state of God's children, true nature, and Sonship. The argument has followed the connected passages concerning image and likeness, divine nature, glory, Christ's person and work, justification, heirship, and oneness. The final image is the image of God revealed in Christ, in whose face the knowledge of God's glory shines.
 
@@ -1420,7 +1420,7 @@ Dake, Finis Jennings. *Dake Study Bible Notes: Bible Introduction*. Supplied int
 
 ## Lexical notes for Romans 3:24 and the redemption terms
 
-Romans 3:24 uses δικαιούμενοι (*dikaioumenoi*), a present passive participle, nominative masculine plural. The form and morphology may be checked against the Greek text and interlinear resources listed below.
+Romans 3:24 uses δικαιούμενοι (*dikaioumenoi*), a present middle/passive participial form, nominative masculine plural; in this clause it has passive force. The form and morphology may be checked against the Greek text and interlinear resources listed below.
 
 Strong's Greek G1344, δικαιόω (*dikaioō*), supplies the core definition and King James Version usage; Thayer's entry provides its extended definitions. Thayer's qualification concerning the rarity of the “make righteous” sense remains relevant and should be read alongside the Aletheia leaflet's own printed gloss. Strong's and Thayer's entries are distinct lexical sources and are not to be merged into one quotation.
 
