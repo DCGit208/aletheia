@@ -75,7 +75,7 @@
 | Hebrews 6:1 | πίστεως (*pisteōs*, G4102) | Genitive singular feminine noun; the phrase is πίστεως ἐπὶ Θεόν (“faith toward God”). Greek text and morphology checked against the interlinear. The leaflet's “faith toward God” teaching is preserved. |
 | Chapter 2 / source term | πίστις (*pistis*, G4102) | Strong's and Thayer's entries checked: feminine noun; Strong's includes “persuasion, i.e. credence.” The leaflet's definition and doctrinal use remain controlling. |
 | Mark 11:22 | πίστιν θεοῦ (*pistin theou*, G4102) | Accusative feminine singular noun + genitive masculine singular noun; wording and morphology checked in the Greek interlinear. Lexical commentary records “faith in God” as an object-genitive reading. The book's settled doctrinal interpretation is retained without presenting it as a word-for-word morphology gloss. Final typeset proof remains. |
-| Romans 3:24 | δικαιούμενοι (*dikaioumenoi*, G1344) | Present passive participle, nominative masculine plural; morphology checked against the Greek interlinear and Strong's/Thayer's G1344 entries. Final typeset proof remains. |
+| Romans 3:24 | δικαιούμενοι (*dikaioumenoi*, G1344) | Present middle/passive participial form, nominative masculine plural; passive in sense in Romans 3:24. Confirmed against the Greek interlinear. Final typeset proof remains. |
 | 2 Corinthians 5:21 | δικαιοσύνη (*dikaiosynē*, G1343) | Nominative singular feminine noun; morphology checked against Greek interlinear; Strong's/Thayer's G1343 entries checked. Preserve the Aletheia leaflet's additional gloss as source wording. |
 | Romans 3:24 | ἀπολυτρώσεως (*apolutrōseōs*) | G629 noun, genitive singular; targeted lexical check against Strong’s/Thayer completed; recheck in final typeset proof. |
 | 2 Peter 1:5 | σπουδή (*spoudē*); inflected form σπουδήν (*spoudēn*, G4710) | Accusative singular feminine noun, confirmed against the Greek interlinear; Strong's definition includes diligence/earnestness. Distinguish it from the verb σπουδάζω (*spoudazō*, G4704) used in 2 Timothy 2:15 and cited in the 2015 leaflet. Final typeset proof remains. |
@@ -108,3 +108,55 @@ The following are not Bible translations and must be checked against the 2015 Al
 ## Editorial and deployment status — 2026-11-06
 
 The second editorial correction pass changed the presentation of Chapter 1 and the Chapter 9 transition; it did not verify any additional Bible quotations or original-language forms. All existing quotation statuses in this register remain unchanged. In particular, targeted checks must not be promoted to final proof. Every quotation and reference must still be checked against the selected edition and rechecked after typesetting. The latest reader-source synchronization also requires a successful deployment and parity verification before it is treated as live.
+
+---
+
+## Stage 3 — Scripture quotation and original-language verification — 2026-11-07
+
+**Verification scope:** The ten-chapter canonical manuscript was reviewed at source level. Its 63 block-quoted passages and quotation units were extracted and checked against the stated translation/source, with overlapping passages checked as continuous contexts rather than as isolated phrases. The KJV quotation clusters were compared against chapter text for Genesis 1; Psalms 82; Matthew 3 and 5; Mark 11; John 10, 14 and 17; Romans 3 and 8; 1 Corinthians 11 and 15; Galatians 4; Ephesians 1; Colossians 1; 2 Peter 1; Hebrews 1, 3, 6, 10 and 11; and 1 and 2 Corinthians 4–5. The Genesis 1:27 TLB quotation was checked separately against the Living Bible text and its copyright notice.
+
+### Source-level quotation findings
+
+- The quoted KJV wording reviewed is consistent with the identified KJV text. No substantive wording substitution was required in the reviewed passages.
+- Romans 3:23–24 is retained as one continuous quotation in Chapter 7, with the full wording and verse sequence intact.
+- Psalm 82:6–7 and the full Psalm 82:1–8 context are represented together; John 10:30–38 is quoted in its argumentative sequence.
+- Matthew 5:43–48 is kept in two consecutive quotation units, with the command to love enemies and the perfection statement both included.
+- 2 Peter 1:2–8 retains the sequence from divine power and promises through participation, escape from corruption, diligence, the listed qualities, and fruitfulness.
+- The John 17:20–23 quotation retains the full prayer movement, including oneness, glory, indwelling, and the world's knowledge.
+- 2 Corinthians 5:17–21 retains the new-creation and reconciliation context around the statement about righteousness in Christ.
+- The Genesis 1:27 wording is an exact match to the supplied *The Living Bible* text. The translation and copyright credit are present on the manuscript copyright page. The leaflet's separate parenthetical “Life Application Bible” attribution remains preserved as source provenance and is not used to relabel the full TLB quotation.
+- The KJV phrase “a better and an enduring substance” in Hebrews 10:34 is correctly distinguished from the Greek noun ὕπαρξις (*hyparxis*, G5223); it is not ὑπόστασις (*hypostasis*, G5287).
+
+### Original-language findings
+
+1. **Hebrews 11:1:** ὑπόστασις (*hypostasis*) is nominative feminine singular; ἔλεγχος (*elenchos*) is nominative masculine singular. The manuscript's Greek sentence and transliteration are consistent with the checked Greek text. Lexical references confirm a semantic range that includes substructure/foundation, actual existence/substance, substantial quality/nature, and firmness/confidence/assurance. Thayer associates the nature/substance sense with Hebrews 1:3 and lists Hebrews 11:1 under confidence/assurance; this distinction remains explicit.
+2. **Hebrews 1:3 and 3:14:** both use an inflected genitive form of ὑπόστασις (*hypostasis*). Their different constructions and contexts are not collapsed into one English gloss.
+3. **Hebrews 10:34:** the Greek form is ὕπαρξιν (*hyparxin*), accusative feminine singular, from ὕπαρξις (*hyparxis*, G5223), not *hypostasis*. The chapter's distinction is correct.
+4. **Hebrews 6:1:** πίστεως (*pisteōs*) is genitive singular feminine in πίστεως ἐπὶ Θεόν (“faith toward God”). Strong's G4102 includes “persuasion, i.e. credence”; the leaflet's own use of “credence” remains the controlling source wording.
+5. **Mark 11:22:** ἔχετε (*echete*) is a present active imperative, second person plural; πίστιν (*pistin*) is accusative feminine singular; θεοῦ (*theou*) is genitive masculine singular. The manuscript's explanation of the genitive construction remains appropriately cautious: it does not claim that “state of God” is a literal dictionary gloss, while fully retaining the owner's doctrinal interpretation.
+6. **Genesis 1:26:** אֱלֹהִים (*’ĕlōhîm*, H430) is morphologically masculine plural. The verse also has the singular narrative verb וַיֹּאמֶר (*wayyōmer*, “and he said”) and the first-person common plural cohortative נַעֲשֶׂה (*naʿăśeh*, “let us make”). The leaflet's doctrinal interpretation “plural: Trinity” remains faithfully recorded as the source's interpretation; the morphology is not made to carry more than it says.
+7. **Romans 3:24:** δικαιούμενοι (*dikaioumenoi*) is a present middle/passive participial form, nominative masculine plural. In context it has passive force (“being justified”). The manuscript and this register have been corrected to describe the form precisely rather than presenting the morphology label as unambiguously passive.
+8. **Romans 3:24:** ἀπολυτρώσεως (*apolutrōseōs*) is genitive singular feminine, from ἀπολύτρωσις (*apolutrōsis*, G629).
+9. **2 Corinthians 5:21:** δικαιοσύνη (*dikaiosynē*, G1343) is nominative singular feminine.
+10. **2 Peter 1:5:** σπουδήν (*spoudēn*, G4710) is accusative singular feminine; it is the noun “diligence/earnestness,” not the distinct verb σπουδάζω (*spoudazō*, G4704).
+
+### Lexical-source checks
+
+- Strong's G5287 and Thayer's entry were checked for the range and contextual references of *hypostasis*.
+- Strong's G4102 and Thayer's entry were checked for *pistis*; Strong's explicitly includes “persuasion, i.e. credence.”
+- Strong's G1344 and Thayer's entry were checked. Strong's AV usage totals 40 occurrences: “justify” 37, “be freed” 1, “be righteous” 1, and “justifier” 1. Thayer's three definitions and the qualification that the first “render righteous” sense is extremely rare, if not altogether doubtful, are retained in the manuscript.
+- Strong's G1343 and Thayer's entry were checked for *dikaiosynē*. The leaflet's additional explanation remains attributed to the leaflet, not merged into the lexicon entry.
+- Strong's G629 and Thayer's entry were checked for *apolutrōsis*. Strong's includes “ransom in full” and figurative “riddance”; Thayer describes release effected by payment of ransom. “Restoration to original design” remains the owner's doctrinal development through the connected Scripture framework, not a literal gloss of the Greek components.
+
+### References consulted for this pass
+
+- KJV chapter texts: Bible Hub KJV chapter pages for the passages listed above; Bible Gateway KJV for spot checks including Matthew 3:17 and Hebrews 6:1.
+- TLB: Bible Gateway, Genesis 1:27 (TLB): https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=TLB.
+- Greek text and morphology: OpenBible/BibleHub interlinear pages for Hebrews 11:1, Hebrews 1:3, Hebrews 3:14, Hebrews 6:1, Hebrews 10:34, Mark 11:22, Romans 3:24, 2 Corinthians 5:21, and 2 Peter 1:5.
+- Hebrew morphology: BibleHub interlinear for Genesis 1:26.
+- Lexicons: Strong's and Thayer's entries G5287, G4102, G1344, G1343, G629, and G5223.
+
+### Stage 3 boundary
+
+This pass verifies the source text and original-language data at manuscript level. It does **not** replace the final proof against the actual selected printed Bible edition or the second proof after typesetting. Punctuation, capitalization, line breaks, quotation marks, italics, Greek/Hebrew font rendering, and page-level accuracy must be checked again in the designed proof. The author must review the final proof. The book is not yet publication-ready.
+
