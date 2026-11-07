@@ -1192,7 +1192,6 @@ The Aletheia teaching and the author's doctrinal direction bring these passages 
 1. What does Hebrews 1:1–2 say about God's speech through the Son, the Son's appointment as heir of all things, and His relation to the creation of the worlds?
 2. Identify the descriptions of the Son in Hebrews 1:3–4. How does the passage hold His express image, sustaining power, purging of sins, exaltation, and inheritance together?
 3. Read Hebrews 1:5–8. How does the passage distinguish the Son from the angels and what does it declare about His throne and righteous kingdom?
-4. Why does Hebrews 1:8 remain part of the Son's portrait, while the former question “According to Hebrews 1:8, what does that make you?” remains abandoned?
 5. Read Galatians 4:1–7. Explain the sequence from the illustration of the heir and the appointed time to redemption, adoption, the Spirit of the Son, sonship, and heirship.
 6. Read Romans 8:14–17. What does Paul say about being led by the Spirit, adoption, the Spirit's witness, children, heirs, joint-heirs, suffering, and shared glory?
 7. Why does the phrase “in Him” matter in 2 Corinthians 5:21?
