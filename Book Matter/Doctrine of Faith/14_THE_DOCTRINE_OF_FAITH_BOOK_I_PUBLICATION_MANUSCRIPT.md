@@ -1015,7 +1015,7 @@ The governing thesis of Book I remains: **Jesus represents who we are by Design.
 
 ## Lexical references
 
-- Romans 3:24 Greek form and morphology: δικαιούμενοι (*dikaioumenoi*), present passive participle, nominative masculine plural. References: https://www.openbible.com/text/romans/3-24.htm and https://www.studylight.org/interlinear-study-bible/greek/romans/3-24.html.
+- Romans 3:24 Greek form and morphology: δικαιούμενοι (*dikaioumenoi*), present middle/passive participial form, nominative masculine plural (passive in sense in Romans 3:24). References: https://www.openbible.com/text/romans/3-24.htm and https://www.studylight.org/interlinear-study-bible/greek/romans/3-24.html.
 - Strong's Greek G1344, δικαιόω (*dikaioō*), core definition and AV usage; Thayer's extended definitions: https://biblehub.com/strongs/greek/1344.htm and https://biblehub.com/thayers/1344.htm.
 - Strong's Greek G629, ἀπολύτρωσις (*apolutrōsis*), derived from G575 and G3083: https://biblehub.com/strongs/greek/629.htm.
 - Thayer's Greek Lexicon, G629, release effected by payment of ransom; redemption, deliverance, and liberation procured by ransom: https://biblehub.com/thayers/629.htm.
@@ -1436,7 +1436,7 @@ Strong's Greek G1344, δικαιόω (*dikaioō*), supplies the core definition 
 
 Strong's Greek G629, ἀπολύτρωσις (*apolutrōsis*), gives “ransom in full,” figuratively “riddance,” and Christian salvation. Thayer describes release effected by payment of ransom, including redemption, deliverance, and liberation procured by ransom. The Aletheia source's wording “redemption; ransom in full” is retained as source wording. The wider conclusion that complete ransom means restoration to original design is the doctrinal interpretation developed in this book, not a separate literal gloss of the Greek components.
 
-- Romans 3:24 Greek form and morphology: δικαιούμενοι (*dikaioumenoi*), present passive participle, nominative masculine plural; see https://www.openbible.com/text/romans/3-24.htm and https://www.studylight.org/interlinear-study-bible/greek/romans/3-24.html.
+- Romans 3:24 Greek form and morphology: δικαιούμενοι (*dikaioumenoi*), present middle/passive participial form, nominative masculine plural (passive in sense in Romans 3:24); see https://www.openbible.com/text/romans/3-24.htm and https://www.studylight.org/interlinear-study-bible/greek/romans/3-24.html.
 - Strong's Greek G1344, δικαιόω (*dikaioō*), core definition and AV usage; Thayer's extended definitions reproduced above. Reference consulted: https://biblehub.com/strongs/greek/1344.htm and https://biblehub.com/thayers/1344.htm.
 - Strong's Greek G629, ἀπολύτρωσις (*apolutrōsis*), from G575 and G3083; “ransom in full,” figuratively “riddance,” or Christian salvation. Reference consulted: https://biblehub.com/strongs/greek/629.htm.
 - Thayer's Greek Lexicon, G629: release effected by payment of ransom; redemption, deliverance, liberation procured by ransom. Reference consulted: https://biblehub.com/thayers/629.htm.
