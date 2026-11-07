@@ -1,102 +1,91 @@
 # Chapter 10 — The Image in the Face of Jesus Christ: Glory, Knowledge, and Present Reality
 
 **Book:** *The Doctrine of Faith* (Book I)  
-**Status:** Revised working chapter; conclusion subject to final editorial and quotation audit.  
+**Status:** Developmentally revised working chapter; final Scripture, lexical, and editorial proof remains.  
 **Source basis:** Aletheia Libraries 1 (2015), “Faith toward God”; existing Course 2 companion, section XI and the book-level synthesis in section XII; 2 Corinthians 4:1–6.
 
-## The image and glory as the cumulative close
+## The glory of God made known in Christ
 
-This is the final chapter in the current ten-chapter Book I sequence, not the first place where faith as *hypostasis* is introduced. Chapter 1 established that foundation; the intervening chapters have developed the Aletheia source's teaching on *pistis*, state, design, divine nature, Christ's person and work, redemption, righteousness, heirship, and oneness. The present chapter gathers the image/light/glory argument in 2 Corinthians 4:1–6 and asks how the light of the knowledge of God's glory in the face of Jesus Christ illuminates the cumulative doctrine.
+The final movement of this book brings us to Paul's declaration that the light of the knowledge of the glory of God is given “in the face of Jesus Christ.” This is not an isolated statement about religious admiration. It gathers the book's inquiry into the image of God, humanity's design, the glory from which humanity has come short, the work of redemption, and the present reality of righteousness and sonship in Christ.
 
-The close must hold accomplishment and representation together. It must not postpone the foundation to Book II. The owner's principal doctrinal directions have now been supplied and incorporated: Jesus fully represents who we are by Design; faith is our state by design; sonship and heirship belong to this identity; justification and redemption restore us to the designed state; and Matthew 5:48 with 1 John 4:17 affirms present identity. The conclusion should gather this argument and hand forward the distinct evidence inquiry of Book II.
+The Aletheia teaching directs attention to Christ as the image of God and to the knowledge of God's glory in His face. The passages considered throughout this book have led us from the creation account and the image and likeness of God, through the teaching on *pistis*, sonship, divine nature, justification, heirship, and oneness, to this declaration about Christ. The closing task is to see what Paul's words contribute to that connected argument.
 
-## The Ministry Must Not Handle the Word Deceitfully
+The chapter must hold together two inseparable truths. Jesus represents who we are by Design; and Jesus has accomplished the redemption through which humanity is restored to that design. His person and His work belong together. The image revealed in Him must not be separated from the redemption accomplished through Him.
+
+## A ministry of truth, not distortion
 
 > **2 Corinthians 4:1–2 (KJV)** — “Therefore seeing we have this ministry, as we have received mercy, we faint not; But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man's conscience in the sight of God.”
 
-Paul begins with ministry received by mercy, a refusal to faint, a renunciation of hidden dishonesty, and a refusal to handle the word of God deceitfully. The truth is to be manifested in the sight of God and commended to conscience.
+Paul begins with the mercy by which the ministry has been received. That mercy gives reason not to faint. He then describes the character of the ministry: hidden dishonesty is renounced, craftiness is rejected, and the word of God is not handled deceitfully. Truth is manifested in the sight of God and commended to conscience.
 
-That opening governs the present chapter. Neither the source's claims nor the passages used to develop them should be hidden, weakened, or exaggerated to produce an easier conclusion. A source statement, a Scripture quotation, and a synthesis must remain distinguishable.
+These opening words are especially fitting for a study that brings several passages into one doctrinal argument. We must allow each passage to speak in its own wording and setting. We must not diminish what it says, but neither should we make a verse carry words or conclusions that belong to a wider synthesis. Faithful handling of the word requires both conviction and care.
 
-## Christ, the Image of God, and Blinded Minds
+Paul's statement also places the ministry under the seriousness of divine accountability. The subject is not the construction of an attractive religious idea. It is the manifestation of truth. What follows about the gospel, the image of God, light, and glory must therefore be read as Paul's connected argument.
+
+## Christ, the image of God, and the blinded mind
 
 > **2 Corinthians 4:3–4 (KJV)** — “But if our gospel be hid, it is hid to them that are lost: In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them.”
 
-The passage names three connected things: the gospel may be hidden; the minds of those who believe not are blinded by the god of this world; and the light against which that blinding operates is the glorious gospel of Christ, “who is the image of God.”
+Paul identifies the gospel as the light of the glorious gospel of Christ, and identifies Christ as “the image of God.” He also describes the opposition to that light: the minds of those who believe not are blinded, lest the light should shine to them. The blinding is not presented as a neutral lack of information. It stands against the shining of the gospel.
 
-The source's emphasis on the image is deliberate. Christ is not described here merely as a teacher who gives information about God. The text calls Him the image of God, and it speaks of the light of the glorious gospel of Christ shining to those whose minds have been blinded.
+The image is central to the verse. Christ is not described merely as someone who speaks about God or provides information concerning Him. Paul calls Him the image of God. The gospel whose light is resisted is the gospel of this Christ.
 
-Second Corinthians 4:4 also connects this chapter to the source's earlier Scripture set. The same verse can be considered alongside Genesis 1:26–28, which speaks of humanity made in God's image and after His likeness, and Hebrews 1:3, which calls the Son the express image of God's person. The relationship among these passages is a synthesis; their distinct wording remains intact.
+This statement belongs beside the earlier creation account. Genesis 1:26–28 speaks of humanity made in God's image and after His likeness. Hebrews 1:3 describes the Son as the express image of God's person. Second Corinthians 4:4 calls Christ the image of God. These passages do not use identical expressions, and each must retain its own context. Read together, however, they contribute to the book's argument about the image revealed in the Son and humanity's creation design.
 
-The source asks us to see that the blinding is not a minor inconvenience. The minds are blinded “lest the light” should shine. The object of the opposition is identified by the verse itself: the light of the glorious gospel of Christ, who is the image of God.
+The connection is significant. If humanity's creation is described in terms of God's image and likeness, and Christ is declared to be the image of God, then the person of Christ is central to understanding the design question developed throughout this book. The Aletheia thesis is not that humanity independently invents its identity. It is that the design is understood in relation to God and is represented in Christ.
 
-## The Light Shines in the Heart
+Paul also tells us why the light matters: it is the light of the glorious gospel of Christ. The image is not detached from the gospel. Christ's identity and the good news concerning Him belong together.
+
+## The light of the knowledge of God's glory
 
 > **2 Corinthians 4:5–6 (KJV)** — “For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus' sake. For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.”
 
-The preaching is not of ourselves, but of Christ Jesus the Lord. Paul describes himself and his fellow workers as servants for Jesus' sake. Then he invokes the God who commanded light to shine out of darkness. That God has shined in our hearts for a stated purpose: to give “the light of the knowledge of the glory of God in the face of Jesus Christ.”
+Paul immediately guards the focus of the ministry: “we preach not ourselves, but Christ Jesus the Lord.” The servants are not the message. Christ Jesus the Lord is the One they preach.
 
-The wording links light, knowledge, glory, and the face of Jesus Christ. The God who commanded light at creation is named as the One who shines in hearts. The result is not light without knowledge, or knowledge without glory, but the knowledge of God's glory in the face of Jesus Christ.
+Paul then recalls the God who commanded light to shine out of darkness. The same God has shined in our hearts. The stated purpose is “to give the light of the knowledge of the glory of God in the face of Jesus Christ.” The wording brings together light, knowledge, glory, and the face of Christ. It is not simply that light appears; light gives knowledge. Nor is the knowledge vague or detached from the person of Christ: it is the knowledge of God's glory in His face.
 
-The passage does not say that the face is merely an image to admire from a distance. Nor does it, by itself, spell out every implication for humanity's design. The source connects the image and glory of Christ with its earlier teaching on Genesis, true nature, justification, and righteousness in Christ. The manuscript should develop that connection across the whole Scripture set, not make one phrase carry the entire doctrine alone.
+The verse therefore brings the chapter's central subject into focus. The glory of God is made known in Christ. The One whom the preceding verse calls the image of God is the One in whose face the knowledge of God's glory is given. The passage does not ask the reader to look away from Christ in order to discover the image. It directs the reader to the glory of God made known in Him.
 
-## What Jesus Accomplished and What He Represents
+The reference to the God who commanded light to shine out of darkness also recalls the creation account. Genesis begins with God's creative command concerning light; Paul uses that act to describe God's shining in human hearts. The comparison is Paul's own. The connection to humanity's image and likeness in Genesis 1:26–28 is developed across the wider Scripture set, rather than being substituted for the particular point Paul makes in 2 Corinthians 4:6.
 
-The preceding chapters have kept two questions together.
+## The image revealed in Christ and humanity's design
 
-**What did Jesus accomplish?** The source's Scripture set speaks of redemption and free justification: Romans 3:23–26 says that all have sinned and come short of the glory of God, and that believers are justified freely by grace through the redemption in Christ Jesus. Second Corinthians 5:17–21 speaks of reconciliation and says that God made the One who knew no sin to be sin for us, “that we might be made the righteousness of God in him.” Ephesians 1:7 and Colossians 1:14 belong to the wider redemption cluster.
+The book began with the foundation of faith and followed the Aletheia source's connected teaching on credence, the state of God's children, true nature, and sonship. It then examined the creation account, the language of image and likeness, the declaration in Psalm 82 and Jesus' appeal in John 10, participation in divine nature, Christ's coming, redemption and justification, the Son and the heir, and the prayer of oneness in John 17.
 
-**What does Jesus represent?** The Scripture set calls Him the Son and heir of all things (Hebrews 1:2), the express image of God's person (Hebrews 1:3), and the image of God (2 Corinthians 4:4). Genesis 1:26–28 speaks of humanity's image, likeness, blessing, fruitfulness, and dominion. First John 4:17 says, in the context of love and confidence, “as he is, so are we in this world.” John 17:20–23 records Jesus' prayer that believers be one in the Father and Son, including His words that the glory given to Him has been given to them.
+Second Corinthians 4:4–6 brings the image and glory inquiry to Christ. Genesis 1:26–28 speaks of humanity's creation in God's image and likeness. Hebrews 1:2–3 presents the Son as heir of all things and the express image of God's person. Second Peter 1:4 speaks of partaking of the divine nature. Galatians 4:5–7 and Romans 8:16–17 develop sonship and heirship. John 17:20–23 records Jesus' prayer that believers be one in the Father and Son, and His declaration that the glory given to Him has been given to them.
 
-The owner's settled direction is that **Jesus represents who we are by Design**. This thesis must be developed fully, not treated as a tentative inquiry. It is cumulative across the passages on Christ's person and the passages on His work. Christ's work does not disappear because His person represents who we are; His representation does not disappear because His work is essential.
+These passages form a connected argument, not one long quotation. Their contribution is cumulative. They direct attention to God's nature, humanity's design, the Son who reveals the image, and the relationship into which believers are brought through Him. The Aletheia source's teaching on true nature and the owner's settled doctrinal direction give this connection its governing force: **Jesus represents who we are by Design.**
 
-A concise working formulation is: **Christ's work restores what Christ's person reveals.** This is not a sentence quoted from one of the cited passages. It is the synthesis the book has been investigating: the One who reveals the image and glory of God is also the One through whom redemption, reconciliation, and justification are spoken of.
+This statement does not mean that Christ's unique person and work can be reduced to a general description of humanity. The book has treated Him as the Son, the heir, the express image, and the One through whom redemption is accomplished. His representation is grounded in who He is; it is not a denial of His uniqueness or of His saving work.
 
-The phrase “restores what Christ's person reveals” should be read in light of the Aletheia source's “true nature from creation,” “come short of the glory,” and “back on course” formulations. “Back on course” is a conceptual formulation in this doctrinal architecture, not an exhaustive dictionary definition of every relevant Greek word.
+## Coming short of glory and the work of restoration
 
-## Book I's Argument
+The Aletheia source connects the words “come short of the glory of God” in Romans 3:23 with deviation from true nature. Romans 3:23–24 must be read as one movement:
 
-The ten coordinated chapters follow the argument's dependencies, beginning with the foundation of faith and then developing the Aletheia source's connected Scripture set:
+> **Romans 3:23–24 (KJV)** — “For all have sinned, and come short of the glory of God; Being justified freely by his grace through the redemption that is in Christ Jesus.”
 
-1. **Faith as *hypostasis*:** Hebrews 11:1, substance, the lexical alternatives, and the owner's thesis concerning faith as underlying nature and state.
-2. ***Pistis*, credence, and Sonship:** the leaflet's explicit teaching about credence, acceptance, the state of God's children, adoption, and heirship.
-3. **’Ĕlōhîm, image, likeness, and design:** Genesis 1:26–28 and the source's interpretation of humanity's design.
-4. **Psalm 82 with John 10:** “Ye are gods” read with Psalm 82:7, the psalm's judgment setting, and Jesus' appeal to Scripture.
-5. **True nature and partaking of divine nature:** 2 Peter 1:2–8, including the promises, escape from corruption, and the qualities to be pursued.
-6. **Why did Jesus come?:** the source's interpretation of coming short of glory, the image/glory argument, and Christ's person and work held together with the full representation thesis.
-7. **Redemption, free justification, and righteousness:** *dikaioō*, *dikaiosynē*, and *apolutrōsis*, including justification and complete ransom/restoration to original design.
-8. **The Son, the heir, and representation:** the Son's identity, express image, righteousness, and heirship; the former Hebrews 1:8 question is abandoned.
-9. **Oneness and glory:** John 17:20–23, preserving the prayer's language of “as,” indwelling, glory given, and its stated purpose.
-10. **The image in the face of Jesus Christ:** 2 Corinthians 4:1–6 as the cumulative close on image, light, knowledge, and glory.
+The passage joins sin and coming short of glory with justification freely by grace through redemption in Christ Jesus. The source's interpretation places this coming short in relation to deviation from true nature. The book has developed the owner's doctrinal direction that sin is a falling short of the designed state and that justification and redemption restore humanity to that state.
 
-This sequence is the current reader-facing working architecture. The owner has supplied the principal doctrinal directions recorded in document 90; the former Hebrews 1:8 question is abandoned. The existing app companion remains preserved as source material; its content is not replaced by this summary. The argument of Book I is to establish the *hypostasis* foundation and develop the connected Aletheia doctrine, while Book II develops faith as evidence from that foundation.
+That restoration argument must not be separated from the person of Christ revealed in 2 Corinthians 4. The One who is the image of God is also the One in whom redemption is found. Second Corinthians 5:17–21 develops reconciliation and the righteousness of God in Christ. Ephesians 1:7 and Colossians 1:13–14 belong to the wider redemption teaching. These passages speak of Christ's work; they are not displaced by the representation theme.
 
-## The Book's Working Synthesis
+The Aletheia leaflet's gloss for *apolutrōsis* is “redemption; ransom in full.” Its treatment of *dikaiosynē* includes the wording “equity: impartiality to and conformity with the nature of God,” together with “original: back on course.” The book has retained these source formulations and developed the owner's direction that complete ransom and justification are related to restoration to original design. “Back on course” expresses that doctrinal restoration; it is not offered as an exhaustive dictionary definition of every Greek term.
 
-The source and Scripture set lead the reader through a connected inquiry:
+The relationship can be stated simply: **Christ's work restores what Christ's person reveals.** This is the book's synthesis, not a direct quotation from one verse. It holds together the image and glory disclosed in Christ with the redemption, reconciliation, and justification accomplished in Him. The work does not erase the representation; the representation does not make the work unnecessary.
 
-**God → God's nature → image and likeness → humanity's design → sonship and heirship → faith as credence → deviation and coming short of glory → Christ → redemption and justification → righteousness in Christ → oneness and glory → the image revealed in Christ.**
+## Present reality in Christ
 
-This is a working conceptual chain, not a claim that each arrow is explicitly stated by a single verse. Its purpose is to make the book's reasoning visible and auditable.
+The book has also considered the present-tense force of the connected Scripture passages. Second Corinthians 5:21 speaks of being made the righteousness of God in Christ. First John 4:17 declares, in the context of perfected love and confidence, “as he is, so are we in this world.” Matthew 5:48 must be read in its immediate context of the command to love even one's enemies, and the owner's direction is to consider it together with 1 John 4:17 as an affirmation of identity and likeness.
 
-The owner's direction is that faith is our state by design, not merely a statement someone agrees with while remaining detached from the reality being described. The source begins by calling *pistis* “credence” and connecting it to the state of children of God, acceptance, true nature, and adoption as sons. The wider Book I argument connects that state with design, righteousness, representation, and present reality in Christ. Under the corrected architecture, Book I establishes the foundational relation between Hebrews 11:1, *hypostasis*, substance, and faith as underlying state/nature; Book II then develops faith as evidence from that foundation.
+John 17:22–23 records Jesus' declaration that the glory given to Him has been given to believers, and His prayer that they may be one, with the Son in them and the Father in Him. These statements are not merely about a distant future. They speak of what Christ gives and of the relationship for which He prays. The book's argument about present reality is therefore grounded in the passages themselves and in the Aletheia teaching that connects them.
 
-## What Book I Has—and Has Not—Established
+To say that this is present reality is not to claim that every aspect of the believer's experience is already complete or that the passages have no future dimension. John 17 itself speaks of being made perfect in one, and Romans 8 includes suffering and shared glory. The point developed here is that the identity, righteousness, love, and oneness described in these passages are not to be treated as wholly external or postponed until some future state. They are presented in relation to Christ and what is given in Him.
 
-Book I has developed the Aletheia source's faith-toward-God architecture through the connected passages on *pistis*, sonship, image and likeness, divine nature, glory, justification, righteousness, heirship, oneness, and the image of God in Christ.
+The light of the knowledge of God's glory in the face of Jesus Christ therefore speaks directly to the question of who humanity is by design. Christ is not merely an example placed before humanity with no connection to its intended nature. In the Aletheia doctrine, He represents that design, and through His redemptive work humanity is restored to it.
 
-Book I has placed Hebrews 11:1 and *hypostasis* at the foundation of the doctrine and has developed the owner's thesis that faith as substance relates to the person's underlying nature and state. The argument connecting the lexical range, the context of Hebrews, and the Aletheia source's explicit *pistis* / state-of-children teaching remains subject to scholarly verification and editorial proof; the owner's doctrinal direction is established, and the foundation must not be deferred to Book II. Book II, *Faith Is Evidence*, develops faith as evidence from this foundation. The close of Book I therefore summarizes the foundation laid and hands forward the evidence inquiry.
+## The foundation and the evidence
 
-The forward question is therefore deliberate: **Having established faith's foundation in *hypostasis* / substance and its relation to the person's state, how does Scripture develop faith as evidence?** Book II takes up that question on its own terms.
+Book I has established its foundation through Hebrews 11:1 and the discussion of *hypostasis*, substance, and underlying reality. It has then developed the Aletheia leaflet's teaching on *pistis* as credence and its connection with the state of God's children, true nature, and Sonship. The argument has followed the connected passages concerning image and likeness, divine nature, glory, Christ's person and work, justification, heirship, and oneness. The final image is the image of God revealed in Christ, in whose face the knowledge of God's glory shines.
 
-## Final Study and Review Questions
+The next inquiry is distinct but dependent on this foundation. Book II, *Faith Is Evidence*, develops the evidence dimension of faith. It does not replace or postpone the foundation established here. The question is no longer whether the foundation belongs in Book I; it does. The next question is how faith as evidence is demonstrated and operates from that foundation.
 
-1. According to 2 Corinthians 4:4, who is the image of God?
-2. According to 2 Corinthians 4:6, what light has God shined in our hearts, and for what purpose?
-3. What does the passage say blinds minds, and against what light does that blinding operate?
-4. How do Genesis 1:26–28, Hebrews 1:3, John 17:20–23, and 1 John 4:17 contribute to the book's design and representation inquiry?
-5. How does the book keep Christ's accomplishment and Christ's representation together?
-6. Which parts of “Christ's work restores what Christ's person reveals” are synthesis rather than direct quotations?
-7. How does the foundation of Hebrews 11:1 and *hypostasis* govern the doctrine of faith, and how does Book II then develop faith as evidence from that foundation?
-
-**Book I status:** Ten coordinated chapters now form the current reader-facing working manuscript sequence. The principal owner doctrinal directions have been incorporated; the former Hebrews 1:8 question is abandoned. The manuscript still requires full quotation/lexical verification, line-by-line editorial integration, and final owner proof. The existing app companion remains preserved and has not been overwritten.
+The book closes, then, with its attention fixed on Christ: the image of God, the One in whose face the knowledge of God's glory is given, and the One whose person reveals humanity's design while whose work accomplishes redemption and restoration. The foundation has been laid. The inquiry into evidence can now proceed from it.
