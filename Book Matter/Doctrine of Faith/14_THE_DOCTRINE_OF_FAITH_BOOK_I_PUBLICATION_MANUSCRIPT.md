@@ -363,7 +363,7 @@ The governing doctrinal statement is:
 
 > **Jesus represents who we are by Design.**
 
-This thesis asks two connected questions: What did Jesus accomplish for us, and what does Jesus represent? The book must answer both. Jesus reveals, in His person, the reality toward which humanity was designed. His redemptive work is not displaced by that representation; it is essential to the account of restoration.
+This thesis asks two connected questions: What did Jesus accomplish for us, and what does Jesus represent? Both questions must remain in view. Jesus reveals, in His person, the reality toward which humanity was designed. His redemptive work is not displaced by that representation; it is essential to the account of restoration.
 
 The argument is cumulative:
 
@@ -481,7 +481,7 @@ The declaration begins, “I have said.” The statement is attributed to God: �
 
 Verse 7 immediately follows with the judgment: “But ye shall die like men, and fall like one of the princes.” Verse 8 then calls upon God to arise and judge the earth, adding that He shall inherit all nations. The sequence moves from the declaration, to the sentence upon those addressed, to the appeal for God's judgment over the earth.
 
-The chapter must preserve this sequence. It is not faithful to turn verse 6 into a slogan detached from the psalm. It is equally unfaithful to quote verse 7 as though the declaration in verse 6 had never been made. The passage contains both the designation and the judgment. Its force is found by reading them together.
+The sequence is essential. Verse 6 must not become a slogan detached from the psalm, and verse 7 must not be quoted as though the declaration in verse 6 had never been made. The passage contains both the designation and the judgment; its force emerges when they are read together.
 
 The judgment setting also prevents a false conclusion: being called “gods” in the psalm does not mean those addressed are beyond God's authority or free to act unjustly. The psalm itself places them under God's judgment. The source's design reading must be developed with that fact in view, not by suppressing it.
 
@@ -570,7 +570,7 @@ The preceding chapters have established several connected parts of the book's ar
 
 The next passage in the source's true-nature argument is 2 Peter 1:2–8. Its central statement is that believers may become “partakers of the divine nature.” Peter does not leave this statement by itself. He sets it within a sequence: knowledge of God and Jesus Christ, divine power, the gift of what pertains to life and godliness, the call to glory and virtue, precious promises, participation in divine nature, escape from corruption, diligence, and the qualities that must abound.
 
-The chapter must follow that movement. Participation in divine nature is neither an isolated phrase nor a substitute for the rest of Peter's instruction. The promises, the escape from corruption, and the qualities of verses 5–8 belong to the same passage.
+The discussion follows that movement. Participation in divine nature is neither an isolated phrase nor a substitute for the rest of Peter's instruction. The promises, the escape from corruption, and the qualities of verses 5–8 belong to the same passage.
 
 ## Knowledge, divine power, and the call
 
@@ -680,7 +680,7 @@ The leaflet now asks a direct question: **Why did Jesus come?**
 
 It places that question immediately after Genesis 1:26–27 and the statement that humanity was made like its Maker. It then cites Romans 3:23–24, interpreting “come short of the glory of God” as “deviation from true nature” and identifying humanity as the image and glory of God through 1 Corinthians 11:7. This order is important. The question about Jesus' coming is placed within the source's argument about humanity's original design and the glory from which humanity has come short.
 
-The chapter must therefore hold together three connected matters:
+Three connected matters therefore remain in view:
 
 1. **The design:** humanity was made in God's image and likeness.
 2. **The condition:** humanity sinned and came short of the glory of God; the Aletheia source interprets this as deviation from true nature.
@@ -745,7 +745,7 @@ The context of 1 Corinthians 11 should not be erased in order to make this conne
 
 ## The glory language in the resurrection context
 
-The author's settled Scripture direction also includes 1 Corinthians 15:41. This verse belongs to Paul's extended answer about the resurrection of the dead, beginning with the question, “How are the dead raised up? and with what body do they come?” (1 Corinthians 15:35). Paul uses the differences between the glory of the sun, moon, and stars to explain that there are differences of glory. He then applies the comparison to the resurrection of the dead (verses 42–49).
+The Scripture discussion also includes 1 Corinthians 15:41. This verse belongs to Paul's extended answer about the resurrection of the dead, beginning with the question, “How are the dead raised up? and with what body do they come?” (1 Corinthians 15:35). Paul uses the differences between the glory of the sun, moon, and stars to explain that there are differences of glory. He then applies the comparison to the resurrection of the dead (verses 42–49).
 
 > “There is one glory of the sun, and another glory of the moon, and another glory of the stars: for one star differeth from another star in glory.” — 1 Corinthians 15:41, KJV
 
@@ -767,7 +767,7 @@ Romans 3:21–26 gives the fuller movement behind the leaflet's question. Paul d
 
 Paul says that God's righteousness has been manifested apart from the law, while being witnessed by the law and the prophets. He then speaks of the righteousness of God by faith of Jesus Christ unto all and upon all who believe, “for there is no difference.”
 
-The passage therefore sets the discussion within God's manifested righteousness. The universal need that follows is not detached from this declaration.
+The passage sets the discussion within God's manifested righteousness. The universal need addressed in the verses that follow is inseparable from this declaration.
 
 ### Sin, coming short, and free justification
 
@@ -817,7 +817,7 @@ The passages explicitly speak of redemption, blood, forgiveness, deliverance, an
 
 ## Jesus represents who we are by Design
 
-The governing doctrinal thesis is that **Jesus represents who we are by Design**. This is a governing teaching of Book I. It must be developed fully and held together with the redemption He accomplished.
+The governing doctrinal thesis is that **Jesus represents who we are by Design**. This teaching is developed alongside, and never in place of, the redemption He accomplished.
 
 Genesis 1:26–27 establishes humanity's creation in God's image and likeness. Second Peter 1:4 speaks of participation in divine nature. Galatians 4:5–7 and Romans 8:15–17 develop adoption, sonship, and heirship. Hebrews 1:2–3 presents the Son as heir of all things and the express image of the Father's person. These passages contribute distinct parts of the cumulative argument: creation, divine nature, sonship, inheritance, and the Son's representation.
 
@@ -886,7 +886,7 @@ This chapter examines the terms through which the source describes that divine r
 - *Dikaiosynē* (δικαιοσύνη): the related noun the source connects with righteousness/justification, equity, impartiality, and conformity with God's nature; it adds the phrase “original: back on course.”
 - *Apolutrōsis* (ἀπολύτρωσις): redemption, which the leaflet glosses “ransom in full.”
 
-The source's wording is preserved. The doctrinal development in this chapter follows the Aletheia teaching and the author's settled direction: justification restores humanity to its designed state, and redemption is complete ransom with restoration to original design. These are related conclusions, but they are not interchangeable lexical definitions. The distinction allows the source's teaching to be stated fully while keeping the word-level evidence and the wider doctrinal argument clear.
+The source's wording is preserved. This chapter develops the Aletheia teaching that justification restores humanity to its designed state and that redemption is complete ransom with restoration to original design. These are related conclusions, but they are not interchangeable lexical definitions. The distinction allows the source's teaching to be stated fully while keeping the word-level evidence and the wider doctrinal argument clear.
 
 ## *Dikaioō*: justified freely
 
@@ -904,7 +904,7 @@ The full G1344 entry supplied for this study is reproduced here, with Strong's a
 
 The Aletheia leaflet's own printed gloss is: “render just or innocent (free from evil or guilt).” That wording remains the source's teaching. The fuller entry expands the lexical discussion. Thayer's qualification must also be retained: he describes the first “render righteous” sense as extremely rare, if not altogether doubtful, before distinguishing the senses of showing or exhibiting someone to be righteous and declaring or pronouncing someone just. In the Pauline technical use, Thayer lists Romans 3:24 under the gracious declaration of righteousness or acceptance.
 
-The lexical entry must be presented in full, including the first definition and Thayer's qualification. Neither should be suppressed. The doctrinal argument of this book is developed through the complete Scripture framework rather than by making one lexical sense carry the entire conclusion.
+The full lexical entry matters, including the first definition and Thayer's qualification. Neither should be suppressed. The doctrinal argument develops through the complete Scripture framework rather than making one lexical sense carry the entire conclusion.
 
 ### Justification and the glory humanity came short of
 
@@ -1064,7 +1064,7 @@ The Son is described as:
 - the One who sat down at the right hand of the Majesty on high;
 - the One who by inheritance obtained a more excellent name than the angels.
 
-These are not disconnected descriptions. Hebrews places the Son's identity, sustaining power, redemptive accomplishment, exaltation, and inheritance together. The chapter must not isolate “express image” from “purged our sins,” nor discuss His redemptive accomplishment while ignoring the identity Hebrews declares.
+These are not disconnected descriptions. Hebrews places the Son's identity, sustaining power, redemptive accomplishment, exaltation, and inheritance together. “Express image” must be read alongside “purged our sins.” His redemptive accomplishment cannot be discussed while ignoring the identity Hebrews declares.
 
 The creation-and-representation argument now comes into focus. Genesis 1:26–27 describes humanity as made in God's image and likeness. Hebrews 1:3 describes the Son as the express image of God's person. Second Corinthians 4:4 calls Christ the image of God. These statements have their own wording and contexts, but together they form a central part of the book's cumulative argument: Jesus reveals and represents the divine nature and the identity humanity was designed to bear.
 
@@ -1086,7 +1086,7 @@ The passage asks which angel was ever addressed as the Son in the words “Thou 
 
 Hebrews 1:8 must remain in the chapter because it is part of this scriptural portrait of the Son. It directly addresses the Son and identifies His throne as everlasting and His kingdom as marked by righteousness. The verse contributes to the portrayal of His identity and kingdom.
 
-The former leaflet question, “According to Hebrews 1:8, what does that make you?”, is abandoned. It is not an unresolved doctrinal question, an exercise to be answered, or a required inference in this chapter. The verse itself remains in the biblical portrait of the Son. This distinction honours both the Scripture passage and the author's settled direction: retain Hebrews 1:8, but do not revive the abandoned question.
+The former leaflet question, “According to Hebrews 1:8, what does that make you?”, is abandoned. It is not an unresolved doctrinal question, an exercise to be answered, or a required inference in this chapter. Hebrews 1:8 itself remains in the biblical portrait of the Son; the abandoned question is not revived.
 
 The movement of Hebrews 1:1–8 is clear. God speaks through the Son; the Son is appointed heir of all things; the worlds are made by Him; He is the brightness of God's glory and the express image of His person; He purges sins and is exalted; the Father's declarations distinguish Him from the angels and speak directly of His Sonship, throne, and righteous kingdom. This full movement supplies the portrait through which the next question—our sonship and heirship through Him—must be considered.
 
@@ -1309,7 +1309,7 @@ The final movement of this book brings us to Paul's declaration that the light o
 
 The Aletheia teaching directs attention to Christ as the image of God and to the knowledge of God's glory in His face. The passages considered throughout this book have led us from the creation account and the image and likeness of God, through the teaching on *pistis*, sonship, divine nature, justification, heirship, and oneness, to this declaration about Christ. The closing task is to see what Paul's words contribute to that connected argument.
 
-The chapter must hold together two inseparable truths. Jesus represents who we are by Design; and Jesus has accomplished the redemption through which humanity is restored to that design. His person and His work belong together. The image revealed in Him must not be separated from the redemption accomplished through Him.
+Two inseparable truths remain together: Jesus represents who we are by Design, and He has accomplished the redemption through which humanity is restored to that design. His person and His work belong together; the image revealed in Him must not be separated from the redemption accomplished through Him.
 
 ## A ministry of truth, not distortion
 
