@@ -1,57 +1,112 @@
 # Chapter 5 — True Nature: Partakers of the Divine Nature
 
-**Manuscript status:** Revised working chapter; final Scripture and editorial proof remains  
 **Book:** *The Doctrine of Faith* — Book I  
-**Source-preservation note:** This chapter follows the existing app-companion exposition of 2 Peter 1:2–8. It preserves the source's “back on course” formulation while distinguishing that conceptual gloss from an exhaustive lexical definition.
+**Primary source:** *Aletheia Libraries 1* (2015), “Faith toward God”  
+**Foundational relation:** This chapter develops the source's teaching on true nature through 2 Peter 1:2–8, following the creation account, the state of God's children, and the Psalm 82 / John 10 argument established in the preceding chapters.
 
-## The state and design argument develops
+## From created image to participation in divine nature
 
-The preceding chapters have established the foundation of faith as *hypostasis*, the Aletheia source's claim that *pistis* / credence defines the state of God's children, the image-and-likeness language of Genesis 1:26–28, and the need to read Psalm 82:6–7 with its judgment context. The next source passage is 2 Peter 1:2–8, especially verse 4.
+The preceding chapters have established several connected parts of the book's argument. Genesis 1:26–28 describes humanity as made in God's image and likeness. The Aletheia source teaches that *pistis* / credence defines the state of God's children and connects that state with true nature and Sonship. Psalm 82:6 names those addressed as “gods” and “children of the most High,” while the surrounding psalm places them under judgment. Jesus' appeal to that writing in John 10 must also remain part of the discussion.
 
-The source's use of “true nature from creation” and its appeal to being partakers of divine nature are developed through the sequence Peter actually gives: knowledge, divine power, promises, participation in divine nature, escape from corruption, and diligence in the qualities that follow. This is not a licence to flatten every passage into one sentence. It is a further movement in the cumulative argument.
+The next passage in the source's true-nature argument is 2 Peter 1:2–8. Its central statement is that believers may become “partakers of the divine nature.” Peter does not leave this statement by itself. He sets it within a sequence: knowledge of God and Jesus Christ, divine power, the gift of what pertains to life and godliness, the call to glory and virtue, precious promises, participation in divine nature, escape from corruption, diligence, and the qualities that must abound.
 
-## True Nature — Partakers
+The chapter must follow that movement. Participation in divine nature is neither an isolated phrase nor a substitute for the rest of Peter's instruction. The promises, the escape from corruption, and the qualities of verses 5–8 belong to the same passage.
 
-### Knowledge, grace, and the call
+## Knowledge, divine power, and the call
 
-2 Peter 1:2–3 — “Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord, According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue.”
+Peter begins:
 
-Knowledge is again central. The source glossary describes knowledge as the mental result of perception, learning, and reasoning. In 2 Peter 1:2, grace and peace are multiplied through the knowledge of God and of Jesus our Lord. Divine power has given all things that pertain unto life and godliness. The call is to glory and virtue.
+> “Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord,
+>
+> According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue.” — 2 Peter 1:2–3, KJV
 
-### Partakers of the divine nature
+Grace and peace are spoken of in relation to knowledge: the knowledge of God and of Jesus our Lord. Peter then identifies the source of what has been given. It is God's divine power that has given all things pertaining to life and godliness. He also identifies the call: God has called us to glory and virtue.
 
-2 Peter 1:4 — “Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.”
+The sequence matters. Peter does not begin with human ability as the source of life and godliness. He begins with what God's divine power has given. Nor does he describe the call as directionless. It is a call to glory and virtue, and it is received through the knowledge of the One who calls.
 
-Partakers of the divine nature. The promises are the means. Escape from the corruption that is in the world through lust is named in the same sentence. The Aletheia teaching reads this promise in relation to the nature and design described in Genesis: not as an unrelated idea of nature, but as participation in divine nature understood through the source's creation-and-restoration argument. That connection is a cross-passage synthesis, developed in the next section; it is not a quotation from 2 Peter 1:4 that names Genesis directly.
+Knowledge therefore has an important place in the passage. It is not presented as the accumulation of disconnected information. It is knowledge of God and of Jesus our Lord, and Peter connects it with multiplied grace and peace and with the divine provision for life and godliness.
 
-This teaching places this verse with man's true nature and with the glory he came short of through sin. The Aletheia source presents δικαιοσύνη (*dikaiosynē*) as equity: impartiality to and conformity with the nature of God — “original: back on course.”
+## The promises and participation in divine nature
 
-Back on course. Psalm 82:5 says the foundations of the earth are out of course. Romans 3:23–24 speaks of all having sinned and come short of the glory of God, and of being justified freely through the redemption in Christ Jesus. This connection belongs to the source's wider conceptual line: what is out of course is set beside original design and the promise of participation in divine nature. “Back on course” is the source's interpretive formulation here; do not silently present it as an exhaustive dictionary definition of *dikaiosynē*.
+Peter continues:
 
-Second Peter 1:4 speaks of the promises, participation in divine nature, and escape from corruption in one sentence. The design/restoration argument must retain all three parts. The relationship to Genesis 1:26–28 is a theological connection developed across passages, not a claim that every phrase in Genesis and 2 Peter is interchangeable.
+> “Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.” — 2 Peter 1:4, KJV
 
-### The inference from creation to participation
+The verse joins three elements:
 
-Genesis 1:26–28 explicitly describes humanity as made in God's image and likeness and records the blessing and commission given to humanity. Second Peter 1:4 explicitly speaks of becoming “partakers of the divine nature” through the precious promises and of escaping the world's corruption through lust. The two passages do not use identical wording; the source's argument places them in relation through its teaching about true nature from creation.
+1. **The promises:** exceeding great and precious promises are given.
+2. **Participation:** through these promises, believers may be partakers of the divine nature.
+3. **Escape:** the same statement speaks of having escaped the corruption that is in the world through lust.
 
-The owner's doctrinal direction is that humanity's participation in divine nature is integral to our designed state and to the restoration accomplished through Christ. This is a governing conclusion for the book. It is explained through the source's conceptual line and the actual sequence of 2 Peter 1:2–8, not merely asserted. The steps are: identify what Genesis says about creation; identify what Peter says is given through the promises; retain Peter's stated contrast with corruption; and then explain why the source reads these together as true nature and restoration. The phrase “back on course” helps name that connection within the Aletheia teaching, but it is not a substitute for the argument.
+These elements must remain together. Participation in divine nature is related to the promises God has given, and Peter places it alongside escape from the world's corruption through lust. The verse does not present participation as an abstract title detached from the life from which believers have escaped.
 
-Nor should “partakers” be used to erase the passage's practical sequence. Peter continues with diligence and qualities to be added to faith. The chapter should neither reduce divine nature to moral self-improvement nor detach participation from the conduct and fruitfulness verses 5–8 explicitly describe.
+The Aletheia source places this promise within its teaching on man's true nature from creation. It connects the design described in Genesis with Peter's statement about participation in divine nature. Genesis 1:26–28 explicitly says that humanity was made in God's image and likeness; 2 Peter 1:4 explicitly speaks of becoming partakers of divine nature through the promises. The passages do not use identical wording. Their relationship is the source's doctrinal connection, developed across the Scripture argument.
 
-### Diligence and the sequence of growth
+This connection gives substance to the book's treatment of true nature. Humanity's creation in God's image and likeness is not treated as an unrelated beginning, while participation in divine nature is not treated as a disconnected promise. The source reads them together: the true nature associated with creation is brought into the argument about what God gives through His promises.
 
-2 Peter 1:5–8 — “And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge; And to knowledge temperance; and to temperance patience; and to patience godliness; And to godliness brotherly kindness; and to brotherly kindness charity. For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ.”
+## Corruption, deviation, and being brought back on course
 
-Faith is the first named in the sequence of qualities. Virtue. Knowledge. Temperance. Patience. Godliness. Brotherly kindness. Charity. The partaker is not a person who quotes verse 4 and refuses verses 5–8. Verse 5 uses the noun σπουδή (*spoudē*) in the phrase “giving all diligence”; it should not be conflated with the related verb σπουδάζω (*spoudazō*) merely because both concern diligence or earnest effort.
+The end of 2 Peter 1:4 must be read with its beginning. Peter speaks of participation in divine nature and of escape from “the corruption that is in the world through lust.” The verse therefore places divine participation and escape from corruption in the same statement.
 
-The passage does not stop at participation in divine nature. It proceeds to diligence and the qualities to be added, then describes the consequence of their being present and abounding: fruitfulness in the knowledge of our Lord Jesus Christ. Teach verse 4 with verses 5–8, not instead of them.
+The Aletheia source connects this argument with Psalm 82:5, where the foundations of the earth are described as “out of course,” and with Romans 3:23–24, which speaks of humanity coming short of the glory of God and being justified freely through the redemption in Christ Jesus. In the source's conceptual language, sin is a deviation from true nature, and the restoration argument is described as being brought “back on course.”
 
-You are not being invited to invent another nature. You are being returned to the one Genesis named, in Christ.
+The source also explains *dikaiosynē* (δικαιοσύνη) through equity: impartiality to and conformity with the nature of God, followed by the wording “original: back on course.” That formulation is retained as the Aletheia source's explanation. It is not presented here as an exhaustive dictionary definition of the Greek noun. Chapter 7 develops the source's treatment of righteousness and justification in detail.
+
+The relationship can now be followed. Psalm 82:5 describes foundations out of course. Romans 3:23–24 speaks of coming short of God's glory and of justification through redemption in Christ. Second Peter 1:4 speaks of participation in divine nature and escape from corruption. The source's “back on course” formulation brings these elements into a single conceptual line: the restoration argument concerns a return to the true nature associated with God's design.
+
+This is a doctrinal synthesis across the passages, not a claim that one Greek word independently proves every part of the restoration thesis. Each text contributes its own statement, and the source's interpretation connects them.
+
+## Participation does not end at verse 4
+
+Peter continues immediately:
+
+> “And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;
+>
+> And to knowledge temperance; and to temperance patience; and to patience godliness;
+>
+> And to godliness brotherly kindness; and to brotherly kindness charity.
+>
+> For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ.” — 2 Peter 1:5–8, KJV
+
+The passage now names the qualities that are to accompany faith:
+
+- virtue;
+- knowledge;
+- temperance;
+- patience;
+- godliness;
+- brotherly kindness;
+- charity.
+
+Peter introduces this sequence with the call to give “all diligence.” The Greek noun in verse 5 is σπουδή (*spoudē*). It is a noun in this verse and should not be replaced with the related verb σπουδάζω (*spoudazō*) simply because both words concern earnestness or diligence.
+
+The order of Peter's instruction should be preserved. He begins with faith and says to add virtue; to virtue, knowledge; to knowledge, temperance; to temperance, patience; to patience, godliness; to godliness, brotherly kindness; and to brotherly kindness, charity. He then explains the consequence when these qualities are present and abound: they prevent barrenness and unfruitfulness in the knowledge of our Lord Jesus Christ.
+
+This is not a detachable list of virtues. Peter connects the qualities to the preceding statement about divine provision and participation. The person who has received the promises is instructed to give diligence, and the qualities are to be present and increasing. The passage does not permit verse 4 to be quoted while verses 5–8 are ignored.
+
+At the same time, the sequence must not be made to reverse Peter's opening emphasis. He begins by declaring what God's divine power has given and what the promises make possible. The qualities are not presented as a human attempt to manufacture divine nature independently of God's provision. They are the diligent and fruitful expression Peter calls for in the same passage.
+
+The conclusion is explicitly relational: fruitfulness occurs “in the knowledge of our Lord Jesus Christ.” The passage begins with knowledge of God and Jesus our Lord (verses 2–3) and returns to knowledge of the Lord Jesus Christ in verse 8. Knowledge frames the movement from divine provision and promise to participation, diligence, and fruitfulness.
+
+## True nature within the argument of Book I
+
+The Aletheia source's true-nature teaching is developed through the relationship between creation, participation, corruption, and restoration. Genesis 1:26–28 supplies the image-and-likeness foundation. Second Peter 1:2–4 speaks of divine provision, precious promises, participation in divine nature, and escape from corruption. Verses 5–8 describe the diligence and qualities that are to abound in the knowledge of Christ.
+
+The source's “back on course” formulation connects this passage with Psalm 82:5 and Romans 3:23–24. It gives language to the movement from what is out of course and what has fallen short of glory to the restoration argument developed through righteousness and redemption in Christ. Chapter 7 will examine that teaching directly; this chapter establishes the place of 2 Peter 1:2–8 within it.
+
+The owner's doctrinal direction is that participation in divine nature belongs to humanity's designed state and to the restoration accomplished through Christ. This conclusion is developed from the source's connection between creation and true nature, together with Peter's actual sequence. It is not made to rest on verse 4 alone.
+
+Nor is divine nature treated as a claim that makes Peter's instructions unnecessary. The same passage that speaks of participation calls for diligence, virtue, knowledge, temperance, patience, godliness, brotherly kindness, and charity. These qualities are to be in the believer and to abound. The chapter therefore holds together what God has given, what the promises make possible, what believers have escaped, and the fruitful life Peter describes.
+
+The governing argument of Book I remains that **faith is our state by design** and that **Jesus represents who we are by Design**. The present chapter develops one essential part of that argument: the promise of participation in divine nature and the source's account of true nature and restoration. The next chapter will examine why Jesus came and how the glory humanity came short of is connected with His work.
 
 ## Study and argument exercise
 
-Define “true nature” from Genesis 1:26–28 and 2 Peter 1:2–8. What is partaken? What is escaped? What is given through the promises? What sequence follows in verses 5–8?
+1. Read 2 Peter 1:2–8 as one continuous passage. Identify the place of knowledge, divine power, the call to glory and virtue, the promises, participation in divine nature, escape from corruption, diligence, and the qualities Peter names.
+2. In verse 4, what is given? Through what are believers made partakers? What corruption has been escaped? Keep all three parts of the sentence together.
+3. Compare Genesis 1:26–28 with 2 Peter 1:4. What does each passage explicitly say, and how does the Aletheia source connect them in its teaching on true nature?
+4. Read Psalm 82:5 and Romans 3:23–24 alongside the source's “back on course” formulation. Explain the conceptual connection without treating “back on course” as an exhaustive dictionary definition of *dikaiosynē*.
+5. List the qualities in 2 Peter 1:5–7 in their stated order. What does Peter say will be true when these qualities are present and abound?
+6. Explain why participation in divine nature must be taught together with verses 5–8, rather than as an isolated declaration.
 
-Then connect Psalm 82:5, Romans 3:23–24, and the Aletheia source's “back on course” formulation. Label the connection as the teaching's conceptual argument, and distinguish it from a claim that one Greek word by itself proves the whole restoration thesis.
-
-**Transition to Chapter 6:** The next chapter asks why Jesus came. It takes up Romans 3:21–26 and 1 Corinthians 11:7, where righteousness, coming short of glory, and Christ's work enter the argument. The relation between humanity's design and restoration must be shown across those passages rather than assumed from 2 Peter 1:4 alone.
+**Transition to Chapter 6:** Peter has described divine provision, participation in divine nature, escape from corruption, and the qualities that lead to fruitfulness in the knowledge of Christ. The next chapter asks why Jesus came, examining the connection between humanity's coming short of glory, righteousness, and Christ's redemptive work.
