@@ -288,3 +288,11 @@ The edit removes the former internal editorial-proofing section, reduces repeate
 
 **Stage 2 result:** The integrated manuscript passes this focused theological/source-fidelity audit against the controlling leaflet and settled owner directions. No doctrinal weakening or material omission was identified within Book I's defined “Faith toward God” scope. This is not final theological certification or publication approval.
 
+## Stage 3 — Scripture quotation and original-language verification — 2026-11-07
+
+The source-level quotation and original-language pass is recorded in document 13. The canonical manuscript contains 63 substantial quotation blocks/units; these were extracted and checked by passage against the stated KJV or TLB source, with overlapping quotations considered in their wider context. The reviewed KJV clusters cover the ten chapters' principal quotations. Genesis 1:27 was separately checked against the Living Bible text and copyright notice.
+
+The original-language pass checked *hypostasis*, *pistis*, *dikaioō*, *dikaiosynē*, *apolutrōsis*, *hyparxis*, the Mark 11:22 genitive construction, the Genesis 1:26 Hebrew morphology, and the *spoudē* / *spoudazō* distinction. One precision correction was made in the canonical manuscript and proof register: δικαιούμενοι in Romans 3:24 is described as a present middle/passive participial form, nominative masculine plural, passive in sense in context, rather than being labelled morphologically unambiguously passive.
+
+The pass found no substantive KJV or TLB wording substitutions required in the reviewed quotation units. The source-level verification does not close the final proof gate: the selected printed Bible edition, punctuation and typography must be checked again in the designed pages; Greek/Hebrew font rendering and page-by-page proof remain outstanding. The author must approve the final proof. Book I remains **NOT PUBLICATION-READY**.
+
