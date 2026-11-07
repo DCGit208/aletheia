@@ -299,3 +299,32 @@ The pass found no substantive KJV or TLB wording substitutions required in the r
 
 
 **Stage 3 disposition: COMPLETE — 2026-11-07.** The Scripture quotation and original-language source verification, correction of the Romans 3:24 morphology description, TLB copyright-line correction, and Tyndale fair-use review are complete and recorded in document 13. The canonical manuscript and proof register have been updated. Remaining designed-page proof is assigned to the later typesetting/publication-testing stages, not carried as an open Stage 3 item.
+
+## Stage 4 — Professional literary editing — work log — 2026-11-07
+
+**Status: IN PROGRESS.** The first book-wide developmental and reader-facing edit has been applied directly to canonical manuscript 14 on the production branch.
+
+### Work completed in this pass
+
+1. **Reader-facing voice:** Removed author-workflow language such as “the owner's doctrinal direction,” “the owner's governing thesis,” and similar references from the chapters. Those statements have been recast as direct doctrinal exposition while retaining the author's settled positions.
+2. **Chapter transitions:** Reworked all six remaining “Transition to Chapter” labels into natural closing prose. The transition paragraphs now carry the argument forward without exposing editorial labels or production scaffolding.
+3. **Chapter continuity:** Checked the ten-chapter sequence and strengthened the hand-offs among creation/image and likeness (Chapter 3), Psalm 82 and John 10 (Chapter 4), participation in divine nature (Chapter 5), the question of why Jesus came (Chapter 6), justification and redemption (Chapter 7), the Son and heir (Chapter 8), oneness (Chapter 9), and the image/glory in Christ (Chapter 10).
+4. **Reader exercises:** Confirmed the Chapter 9 reflection questions are present and added a Chapter 10 reflection section so the final chapter has a reader-facing close before the book's conclusion.
+5. **Editorial meta-language:** Recast several sentences that spoke about what “the chapter must” do into direct prose that explains the actual argument. Removed repeated references to the “owner's” settled Scripture cluster and similar working-file language.
+6. **Section hierarchy:** Restored Chapter 1's section heading “The foundation and the evidence” after distinguishing it from Chapter 10's final concluding section.
+7. **Consistency:** Carried the Stage 3 Romans 3:24 morphology correction into the repeated lexical-reference notes in the canonical manuscript, so the older “present passive participle” wording no longer remains in those duplicate entries.
+
+### Verification after this pass
+
+- Ten chapter headings remain in the approved sequence.
+- No “Transition to Chapter” labels remain.
+- No author/owner workflow phrases of the audited forms remain in the reader-facing manuscript.
+- The Chapter 9 and Chapter 10 reflection sections are present.
+- The outdated Tyndale House Foundation attribution remains absent; the corrected Tyndale House Ministries credit is retained.
+- The former Hebrews 1:8 question remains abandoned and is not revived as an exercise.
+- The Romans 3:24 morphology wording is consistent with the Stage 3 correction.
+
+### Work still required before Stage 4 can be closed
+
+The first pass is not the final literary edit. A second chapter-by-chapter line and copy-edit pass is still required to assess sentence rhythm, paragraph-level repetition, transitions within chapters, consistency of capitalization and transliteration, punctuation, quotation integration, and the readability of all study questions. The editorial audit must then be reconciled with any corrections made. Stage 4 remains **IN PROGRESS**; no publication-readiness claim is made.
+
