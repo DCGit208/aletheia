@@ -890,7 +890,7 @@ The source's wording is preserved. The doctrinal development in this chapter fol
 
 ## *Dikaioō*: justified freely
 
-In Romans 3:24, the Greek form is δικαιούμενοι (*dikaioumenoi*), from the lemma δικαιόω (*dikaioō*, Strong's G1344). It is a present passive participle, nominative masculine plural, commonly rendered “being justified.” The form belongs to Paul's statement about those who are justified freely by grace through the redemption in Christ Jesus. Its force must be read within the complete movement of Romans 3:21–26, not isolated from the preceding statement about sin and coming short of glory.
+In Romans 3:24, the Greek form is δικαιούμενοι (*dikaioumenoi*), from the lemma δικαιόω (*dikaioō*, Strong's G1344). It is a present middle/passive participial form, nominative masculine plural; in this clause it has passive force and is commonly rendered “being justified.” The form belongs to Paul's statement about those who are justified freely by grace through the redemption in Christ Jesus. Its force must be read within the complete movement of Romans 3:21–26, not isolated from the preceding statement about sin and coming short of glory.
 
 The full G1344 entry supplied for this study is reproduced here, with Strong's and Thayer's material distinguished:
 
