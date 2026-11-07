@@ -15,7 +15,7 @@ Published by Aletheia Publications.
 
 No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without prior written permission of the publisher, except for brief quotations in reviews and other uses permitted by copyright law.
 
-Scripture quotations are identified by translation in the text. Scripture quotations marked (TLB) are taken from *The Living Bible*, copyright © 1971 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, Inc., Carol Stream, Illinois 60188. All rights reserved.
+Scripture quotations are identified by translation in the text. Scripture quotations marked (TLB) are taken from *The Living Bible*, copyright © 1971 by Tyndale House Ministries. Used by permission. All rights reserved.
 
 **Edition:** Book I  
 **Language:** English  
