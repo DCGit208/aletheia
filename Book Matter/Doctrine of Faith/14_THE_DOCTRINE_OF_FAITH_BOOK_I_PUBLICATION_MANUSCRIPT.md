@@ -288,13 +288,13 @@ Faith is therefore neither a passing mood nor a verbal formula. The Aletheia sou
 # Chapter 3 — ’Ĕlōhîm: Image, Likeness, and Human Design
 ## From faith as state to humanity's design
 
-The preceding chapters have brought two foundational statements into view. Hebrews 11:1 describes faith as *hypostasis* in relation to things hoped for. The Aletheia leaflet's “Faith toward God” teaching identifies *pistis* as “credence” and states that faith defines the state of God's children, connecting that state with acceptance, true nature, and Sonship.
+The preceding chapters have established two foundations. Hebrews 11:1 describes faith as *hypostasis* in relation to things hoped for. The Aletheia leaflet's “Faith toward God” teaching identifies *pistis* as “credence” and states that faith defines the state of God's children, connecting that state with acceptance, true nature, and Sonship.
 
-The leaflet then develops its account of true nature through creation and the image of God. It brings together Genesis 1:26–28, 2 Peter 1:4, and Psalm 82:6. The movement is important: the discussion is not left at the level of an inward belief or an abstract definition. It asks what humanity was made to be and how that created design relates to the state of God's children.
+The leaflet develops true nature through the account of creation, bringing Genesis 1:26–28, 2 Peter 1:4, and Psalm 82:6 into relation. The inquiry therefore moves beyond an inward belief or abstract definition to ask what humanity was made to be and how that design relates to the state of God's children.
 
-Genesis 1:26–28 does not use the word *pistis* or explain *hypostasis*. Its contribution is specific and foundational: humanity is made in God's image and likeness, blessed by God, and given a commission. The relationship between this creation account and the Aletheia teaching on faith as the state of God's children is developed across the book's Scripture argument.
+Genesis 1:26–28 contributes a distinct foundation: humanity is made in God's image and likeness, blessed, and given a commission. Although the passage does not use *pistis* or explain *hypostasis*, it supplies the creation language through which the wider argument about faith and the state of God's children is developed.
 
-The governing thesis must be stated without qualification: **Jesus represents who we are by Design.** He is not presented only as the One who accomplished something on our behalf. His person reveals the design; His redemptive accomplishment is essential to the restoration argument. Representation and accomplishment belong together.
+The governing thesis is that **Jesus represents who we are by Design.** He is not presented only as the One who accomplished something on our behalf. His person reveals the design, while His redemptive accomplishment is essential to its restoration. Representation and accomplishment belong together.
 
 ## ’Ĕlōhîm: image and likeness
 
@@ -302,9 +302,9 @@ Genesis 1:26 records God's words:
 
 > “And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.” — Genesis 1:26, KJV
 
-The Hebrew word translated “God” in this verse is *’ĕlōhîm*. The Aletheia leaflet gives the interpretation “plural: Trinity.” That is the source's stated theological reading and is retained here. In the leaflet's argument, this reading is considered with the language of the verse: “Let us make” and “our image.” The theological significance is developed from the source's reading of the whole statement and the wider scriptural witness, rather than resting on the form of the noun alone.
+The Hebrew word translated “God” here is *’ĕlōhîm*. The Aletheia leaflet gives the interpretation “plural: Trinity”; this is the source's stated theological reading. The leaflet considers it alongside the verse's language, “Let us make” and “our image.” Its theological significance is developed from the whole declaration and the wider scriptural witness, not from the noun's form in isolation.
 
-The words “image” and “likeness” identify the relationship between the Creator and the humanity He makes. The verse also joins that identity to dominion. Humanity is not merely described as bearing an image; the same creative declaration gives the human beings dominion over the living world. Genesis 1:27 then repeats and confirms the image statement, while Genesis 1:28 records God's blessing and commission.
+The words “image” and “likeness” describe humanity's relationship to the Creator, and the same declaration joins that identity to dominion. Genesis 1:27 confirms the image statement; Genesis 1:28 records God's blessing and commission.
 
 Genesis 1:27 says:
 
@@ -323,37 +323,37 @@ Genesis 1:28 continues:
 
 > “And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.” — Genesis 1:28, KJV
 
-The blessing and commission are spoken together. God blesses humanity and gives the instruction to be fruitful, multiply, replenish the earth, subdue it, and exercise dominion. Image, likeness, blessing, fruitfulness, and dominion belong to the same creation account. The design argument must retain the whole declaration rather than speaking of image while neglecting the commission that accompanies it.
+Blessing and commission are spoken together. God blesses humanity and commands fruitfulness, multiplication, replenishment, subduing, and dominion. Image and likeness must therefore be read with the commission that accompanies them; neither part should be detached from the creation account.
 
-The doctrinal synthesis developed from these verses is that humanity's identity must be understood in relation to its design and to the One who designed it. This is the starting point for the source's connection between creation, true nature, and the state of God's children.
+These verses ground the doctrinal synthesis that humanity's identity must be understood in relation to its design and to the One who designed it. They provide the creation foundation for the source's connection between true nature and the state of God's children.
 
 ## The design argument in the wider Scripture
 
-The passages that follow contribute distinct elements to the design argument. They should be read in relation to Genesis without being collapsed into one another.
+The following passages extend the design argument, each contributing a distinct element without losing its own context.
 
 **John 14:12** records Jesus' words:
 
 > “Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.” — John 14:12, KJV
 
-Jesus connects the works of the believer with His own works and with His going to the Father. The verse is not a detached motivational slogan. It makes a definite statement about what the one who believes on Him shall do and gives His going to the Father as the stated reason. The companion exposition develops the significance of the Son's going: the believer is not left merely as a spectator of works that remain forever beyond reach. This is an interpretation of the connection Jesus states, not an additional sentence quoted from the verse.
+Jesus connects the works of the believer with His own works and gives His going to the Father as the reason. The promise is not a detached motivational slogan: it concerns what the one who believes on Him shall do. The doctrinal exposition draws out the significance of this connection without confusing that interpretation with the wording of the verse.
 
 **1 John 4:17** says:
 
 > “Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.” — 1 John 4:17, KJV
 
-The words “as he is, so are we in this world” are a direct and present-tense statement. They must retain their force. The verse, however, places this statement within the context of love made perfect and boldness in the day of judgment. The design argument therefore considers both the identity statement and the love-and-confidence context in which John gives it.
+The words “as he is, so are we in this world” are direct and present-tense. Their force must be retained, together with the context John gives: perfected love and boldness in the day of judgment. The design argument considers both the identity statement and the setting in which it appears.
 
 **Psalm 82:6** declares:
 
 > “I have said, Ye are gods; and all of you are children of the most High.” — Psalm 82:6, KJV
 
-The verse joins the designation “gods” with “children of the most High.” Its place in the design argument is developed more fully in Chapter 4, where Psalm 82 is read with its judgment setting, including verse 7, and with Jesus' appeal to the passage in John 10. Here it establishes a connection to be pursued, not a reason to detach the verse from its context.
+The verse joins the designation “gods” with “children of the most High.” Chapter 4 examines it with the judgment setting of Psalm 82, including verse 7, and Jesus' appeal in John 10. Here it signals a connection that must be pursued in context.
 
 **Romans 8:17** adds the language of inheritance:
 
 > “And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.” — Romans 8:17, KJV
 
-The verse connects children with heirship and identifies believers as joint-heirs with Christ. It also includes suffering with Him and being glorified together. The inheritance language should not be separated from the rest of the statement.
+The verse identifies believers as children, heirs of God, and joint-heirs with Christ. It also places inheritance alongside suffering with Him and being glorified together; those elements belong to one statement.
 
 **John 17:20–23** belongs to this wider Scripture set through Jesus' prayer concerning the oneness of those who believe, their oneness in the Father and the Son, and the glory given to them. Chapter 9 develops the prayer in its full movement. Its presence here points to the larger design argument without substituting a reference for the exposition of the passage itself.
 
@@ -363,7 +363,7 @@ The governing doctrinal statement is:
 
 > **Jesus represents who we are by Design.**
 
-This thesis asks two connected questions: What did Jesus accomplish for us, and what does Jesus represent? Both questions must remain in view. Jesus reveals, in His person, the reality toward which humanity was designed. His redemptive work is not displaced by that representation; it is essential to the account of restoration.
+The thesis holds two questions together: What did Jesus accomplish for us, and what does He represent? In His person, Jesus reveals the reality toward which humanity was designed. His representation does not displace His redemptive work; redemption is essential to the restoration argument.
 
 The argument is cumulative:
 
@@ -374,11 +374,11 @@ The argument is cumulative:
 - **John 17:20–23** records Jesus' prayer concerning the oneness of believers with the Father and the Son.
 - **Romans 3:23–24**, **Ephesians 1:7**, and **Colossians 1:14** belong to the connected argument concerning coming short of glory, justification, and redemption through Christ.
 
-No single verse is asked to carry the entire doctrine. Genesis gives the creation foundation; the passages concerning the Son, the children and heirs, oneness, glory, justification, and redemption develop the relationship between humanity's design and its representation in Christ.
+No single verse carries the entire doctrine. Genesis supplies the creation foundation; the passages concerning the Son, children and heirs, oneness, glory, justification, and redemption develop the relationship between humanity's design and its representation in Christ.
 
 ## Faith, design, and the Father's nature
 
-The design inquiry also brings together passages in which Jesus speaks about faith and the Father's nature. These passages develop the doctrinal conviction that humanity is to operate in the state corresponding to its design.
+The design inquiry also considers Jesus' teaching about faith and the Father's nature, developing the conviction that humanity is to operate in the state corresponding to its design.
 
 ### Mark 11:20–25 — “Have faith in God”
 
@@ -386,15 +386,15 @@ Jesus' words in Mark 11:22 are:
 
 > “And Jesus answering saith unto them, Have faith in God.” — Mark 11:22, KJV
 
-The setting begins with the disciples seeing that the fig tree Jesus had addressed has withered from the roots (Mark 11:20–21). Jesus answers with the instruction in verse 22. He then speaks of saying to the mountain, not doubting in the heart, believing what is said, praying in faith, and forgiving when standing in prayer (Mark 11:23–25). Faith is thus presented in relation to speech, the heart, action, prayer, and forgiveness. The passage cannot be reduced to a detached slogan about obtaining whatever one wants.
+The setting is the withered fig tree (Mark 11:20–21). Jesus then speaks of addressing the mountain, believing without doubting in the heart, praying in faith, and forgiving when standing in prayer (Mark 11:23–25). Faith is presented in relation to speech, the heart, action, prayer, and forgiveness—not as a detached formula for obtaining whatever one wants.
 
 The Greek phrase is *pistin theou* (πίστιν θεοῦ). *Pistin* is the accusative form of *pistis*, “faith”; *theou* is the genitive form of *theos*, “God.” The familiar English rendering “faith in God” interprets the genitive as indicating the object toward which faith is directed. “Faith of God” reflects the genitive more formally, but the grammatical form by itself does not settle the theological relationship expressed.
 
 Mark 11:22 underscores our design identity and calls us to operate in the state of God because we are God by design. This is the doctrinal interpretation of the verse within the full Scripture framework; it is not presented as a word-for-word lexical gloss of the Greek genitive. The grammatical construction is acknowledged, while the settled doctrinal direction is developed through the connected teaching on *hypostasis*, *pistis*, the state of God's children, and humanity's image and likeness.
 
-The relationship is therefore cumulative: Chapter 1 examines *hypostasis* as the foundation of faith as substance or underlying reality; Chapter 2 develops the leaflet's explicit teaching that *pistis* / credence defines the state of God's children; Genesis 1:26–28 gives the image, likeness, and dominion language of humanity's design. Mark 11:22 is read within this connected argument, not as an isolated proof-text.
+The argument is cumulative. Chapter 1 examines *hypostasis* as the foundation of faith as substance or underlying reality; Chapter 2 develops the leaflet's explicit teaching that *pistis*—credence—defines the state of God's children; Genesis 1:26–28 supplies the language of image, likeness, and dominion. Mark 11:22 belongs within this connected argument, not in isolation.
 
-The immediate context also tests the interpretation. Any account of faith as God's state must reckon with Jesus' words about the heart, speech, prayer, and forgiveness in Mark 11:23–25. The passage is neither reduced to generic trust nor made to promise that every desired result must occur through the force of belief.
+The immediate context also governs the interpretation. Any account of faith as God's state must reckon with Jesus' words about the heart, speech, prayer, and forgiveness. The passage is neither reduced to generic trust nor turned into a promise that every desired result must follow from the force of belief.
 
 ### Matthew 5:43–48 — perfection expressed in love
 
@@ -406,9 +406,9 @@ He continues:
 
 > “For if ye love them which love you, what reward have ye? do not even the publicans the same? And if ye salute your brethren only, what do ye more than others? do not even the publicans so? Be ye therefore perfect, even as your Father which is in heaven is perfect.” — Matthew 5:46–48, KJV
 
-The command to be perfect occurs within Jesus' teaching about loving enemies, blessing those who curse, doing good to those who hate, and praying for persecutors. The Father's generosity toward both the evil and the good is part of the stated context. Perfection is therefore not detached from the expression of the Father's nature in love.
+Jesus gives the command to be perfect within His teaching about loving enemies, blessing those who curse, doing good to those who hate, and praying for persecutors. The Father's generosity toward both evil and good is central to the context. Perfection is therefore inseparable from expressing the Father's nature in love.
 
-Matthew 5:48 affirms identity and calls us to operate in the Father's own nature and perfection. It is to be read together with 1 John 4:17, which says, “as he is, so are we in this world.” These passages are treated as identity-affirming, while retaining their immediate contexts: love toward enemies in Matthew and perfected love and confidence in the day of judgment in First John.
+Matthew 5:48 affirms identity and calls us to operate in the Father's own nature and perfection. Read it alongside 1 John 4:17—“as he is, so are we in this world”—while retaining each passage's setting: love toward enemies in Matthew and perfected love and confidence in the day of judgment in First John.
 
 ### Psalm 82 and John 10
 
@@ -416,9 +416,9 @@ The phrase “as Gods” expresses the doctrinal framing of this part of the arg
 
 ## The design revealed and represented
 
-The passages in this chapter establish the creation foundation and introduce the wider scriptural witness through which the design argument is developed. Humanity is made in God's image and likeness; the creation account joins that identity to blessing and dominion. The Aletheia source connects faith with true nature and the state of God's children. The passages on Sonship and heirship, the words of Jesus, and the statements concerning love, oneness, and glory extend the argument.
+This chapter establishes the creation foundation and introduces the wider scriptural witness through which the design argument develops. Humanity is made in God's image and likeness, and the creation account joins that identity to blessing and dominion. The Aletheia source connects faith with true nature and the state of God's children; the passages on Sonship, heirship, love, oneness, and glory extend that argument.
 
-The central thesis remains that **Jesus represents who we are by Design**. His person reveals the design; His redemptive accomplishment remains essential to the restoration of that design. The book will continue to hold these together as it examines Psalm 82 and John 10, participation in divine nature, coming short of glory, justification, the Son and the heir, oneness, and the glory revealed in the face of Jesus Christ.
+The central thesis remains that **Jesus represents who we are by Design**. His person reveals the design, and His redemptive accomplishment remains essential to its restoration. The next chapter examines Psalm 82 and John 10, where the creation foundation meets the declaration “Ye are gods” and the judgment setting in which it appears.
 
 ## Study and argument exercise
 
@@ -437,13 +437,13 @@ The Aletheia source includes Psalm 82:6 in its teaching on true nature and the s
 
 > “I have said, Ye are gods; and all of you are children of the most High.” — Psalm 82:6, KJV
 
-The statement is direct. It must be allowed to speak with its full force. Yet the verse is not the whole psalm. The next verse says:
+The declaration must be allowed to speak with its full force, but verse 6 is not the whole psalm. The next verse says:
 
 > “But ye shall die like men, and fall like one of the princes.” — Psalm 82:7, KJV
 
 Both verses belong to the same passage. A faithful reading cannot quote verse 6 as though verse 7 were absent, nor use verse 7 to erase the declaration in verse 6. The chapter therefore holds the two together and then considers the way Jesus Himself appeals to the writing in John 10.
 
-The governing doctrinal direction is that humanity is God by design, created in the image and likeness of Elohim. Psalm 82:6 contributes to that argument, but it is not asked to establish the whole doctrine by itself. Its wording, its judgment setting, and Jesus' use of it must all remain visible.
+The governing doctrinal direction is that humanity is God by design, created in the image and likeness of Elohim. Psalm 82:6 contributes to this teaching; its wording, judgment setting, and Jesus' use of it must all remain in view.
 
 ## Psalm 82:1–5 — the judgment scene
 
@@ -459,11 +459,11 @@ The psalm opens:
 >
 > They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.” — Psalm 82:1–5, KJV
 
-The opening scene is one of judgment. God stands in the congregation and judges among the gods. The charge is not obscure: those addressed judge unjustly and show favour to the wicked. They are commanded to defend the poor and fatherless, do justice to the afflicted and needy, and deliver the poor and needy from the wicked.
+The psalm opens with God standing in the congregation and judging among the gods. The charge is explicit: those addressed judge unjustly and show favour to the wicked. They are commanded to defend the poor and fatherless, do justice to the afflicted and needy, and deliver the poor and needy from the wicked.
 
-The psalm then describes their failure. They do not know or understand; they walk in darkness; the foundations of the earth are out of course. The language of judgment is therefore tied to the conduct of those addressed and to the consequences of injustice.
+The psalm describes their failure: they do not know or understand, they walk in darkness, and the foundations of the earth are out of course. Judgment is tied to their conduct and to the consequences of injustice.
 
-This setting matters for the verses that follow. The designation “gods” is spoken within a rebuke. The psalm does not present the title as permission for injustice or as an exemption from accountability. The ones addressed are answerable to God for how they judge and how they treat the vulnerable.
+The designation “gods” is therefore spoken within a rebuke. The psalm does not present the title as permission for injustice or exemption from accountability. Those addressed answer to God for how they judge and treat the vulnerable.
 
 The source's later use of *dikaiosynē* (δικαιοσύνη) and its explanation of equity as conformity with the nature of God belongs to the wider doctrinal sequence. Chapter 7 develops righteousness and justification. Here, the immediate point is the psalm's own demand for just judgment and protection of those who are vulnerable.
 
@@ -477,13 +477,13 @@ The next lines read:
 >
 > Arise, O God, judge the earth: for thou shalt inherit all nations.” — Psalm 82:6–8, KJV
 
-The declaration begins, “I have said.” The statement is attributed to God: “Ye are gods; and all of you are children of the most High.” The verse joins the designation “gods” with the description “children of the most High.” The source includes both parts in its design-and-nature teaching; neither should be dropped from the quotation.
+The declaration begins, “I have said,” and is attributed to God: “Ye are gods; and all of you are children of the most High.” The source includes both the designation “gods” and the description “children of the most High” in its teaching; neither part should be omitted.
 
-Verse 7 immediately follows with the judgment: “But ye shall die like men, and fall like one of the princes.” Verse 8 then calls upon God to arise and judge the earth, adding that He shall inherit all nations. The sequence moves from the declaration, to the sentence upon those addressed, to the appeal for God's judgment over the earth.
+Verse 7 immediately follows: “But ye shall die like men, and fall like one of the princes.” Verse 8 calls upon God to arise and judge the earth, declaring that He shall inherit all nations. The movement is from the declaration, to judgment upon those addressed, to the appeal for God's judgment over the earth.
 
-The sequence is essential. Verse 6 must not become a slogan detached from the psalm, and verse 7 must not be quoted as though the declaration in verse 6 had never been made. The passage contains both the designation and the judgment; its force emerges when they are read together.
+Verse 6 must not become a slogan detached from the psalm, just as verse 7 must not be used as though the declaration in verse 6 had never been made. The passage contains both designation and judgment; its force emerges when they are read together.
 
-The judgment setting also prevents a false conclusion: being called “gods” in the psalm does not mean those addressed are beyond God's authority or free to act unjustly. The psalm itself places them under God's judgment. The source's design reading must be developed with that fact in view, not by suppressing it.
+The judgment setting rules out the conclusion that those called “gods” are beyond God's authority or free to act unjustly. The psalm places them under His judgment. The source's design teaching must be developed with this fact in view, not by suppressing it.
 
 ## John 10:30–33 — the charge against Jesus
 
@@ -497,9 +497,9 @@ Jesus' appeal to Psalm 82 occurs in a particular exchange. John records:
 >
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.” — John 10:30–33, KJV
 
-The immediate issue is the statement, “I and my Father are one.” The response is an attempt to stone Jesus. When He asks which of the good works shown from the Father has prompted this reaction, they answer that the charge is blasphemy: in their view, being a man, He makes Himself God.
+The exchange begins with Jesus' statement, “I and my Father are one.” His hearers take up stones. When He asks which good work from the Father has prompted their response, they answer that they accuse Him of blasphemy because, being a man, He makes Himself God.
 
-Jesus does not answer by abandoning the Scriptures. He appeals to the written text. The movement of the exchange matters: His statement of oneness, the accusation, His question about the works, and His appeal to what is written all belong to the argument.
+Jesus answers by appealing to the written Scriptures. His statement of oneness, the accusation, His question about the works, and His appeal to what is written form one continuous exchange.
 
 ## John 10:34–36 — Jesus invokes the writing
 
@@ -511,11 +511,11 @@ Jesus answers:
 >
 > Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?” — John 10:34–36, KJV
 
-Jesus quotes Psalm 82:6: “I said, Ye are gods.” He then refers to those “unto whom the word of God came” and declares that “the scripture cannot be broken.” His question follows: why do His hearers say that the One whom the Father sanctified and sent into the world blasphemes because He said, “I am the Son of God?”
+Jesus quotes Psalm 82:6—“I said, Ye are gods”—then refers to those “unto whom the word of God came” and declares that “the scripture cannot be broken.” He asks why His hearers accuse the One whom the Father sanctified and sent into the world of blasphemy for saying, “I am the Son of God.”
 
-The appeal cannot be dismissed as though Jesus had not invoked the verse. He deliberately brings the written statement into the answer to the accusation. He also affirms the authority of the Scripture He quotes: it cannot be broken.
+Jesus deliberately brings the written statement into His answer to the accusation and affirms the authority of the Scripture He quotes: it cannot be broken.
 
-The wording of Jesus' argument should be allowed to stand. He refers to the designation in the writing, to those to whom the word of God came, and to His own identity as the One sanctified and sent by the Father. The argument is not simply a detached definition of the word “gods.” It is an answer to a specific charge, built from the Scripture and from His relation to the Father.
+Jesus refers to the designation in the writing, those to whom the word of God came, and His identity as the One sanctified and sent by the Father. His argument is not a detached definition of “gods”; it answers a specific charge through Scripture and His relation to the Father.
 
 The source's design argument reads this appeal alongside Genesis 1:26–28 and the wider teaching on true nature and Sonship. In doing so, it must retain the distinction between what John explicitly records and the cumulative doctrinal conclusion drawn across the passages. Jesus' quotation is explicit; the full account of humanity's design is developed through the connected Scripture set.
 
@@ -527,21 +527,21 @@ Jesus continues:
 >
 > But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him.” — John 10:37–38, KJV
 
-The exchange does not end with the quotation from Psalm 82. Jesus appeals to the works of His Father. If He does not the works of His Father, they should not believe Him; if He does, they are to believe the works, so that they may know and believe that the Father is in Him and He in the Father.
+The exchange continues beyond the quotation from Psalm 82. Jesus appeals to His Father's works: if He does not do them, they should not believe Him; if He does, they are to believe the works and know that the Father is in Him and He in the Father.
 
-This conclusion returns to the opening statement of oneness in John 10:30. The works and the mutual-indwelling language are part of Jesus' answer. The argument therefore moves through the written Scripture, the identity of the One sent by the Father, and the testimony of the Father's works.
+This returns to Jesus' opening statement of oneness in John 10:30. His answer moves through the written Scripture, His identity as the One sent by the Father, and the testimony of the Father's works.
 
 The language of the Father in the Son and the Son in the Father also prepares the reader for John 17:20–23, where Jesus prays concerning the oneness of those who believe. Chapter 9 develops that prayer in its full context. John 10 should not be made to say everything John 17 says, but the two passages belong in the wider inquiry into oneness and glory.
 
 ## What the paired passages establish
 
-Psalm 82 and John 10 must be read together without collapsing their distinct settings.
+Psalm 82 and John 10 must be read together while retaining their distinct settings.
 
-Psalm 82 presents God judging among the gods. It rebukes unjust judgment and failure to defend the vulnerable. It declares, “Ye are gods; and all of you are children of the most High,” and immediately pronounces judgment upon those addressed. The call for God to arise and judge the earth completes the psalm's movement.
+Psalm 82 portrays God judging among the gods. It rebukes unjust judgment and failure to defend the vulnerable, declares that those addressed are “gods” and “children of the most High,” and immediately places them under judgment. The psalm closes with an appeal for God to judge the earth.
 
-John 10 records Jesus quoting the declaration in response to the charge of blasphemy. He says that Scripture cannot be broken, identifies the quoted group as those to whom the word of God came, and asks why the One sanctified and sent by the Father is accused of blasphemy for saying, “I am the Son of God.” He then appeals to the works and to the mutual indwelling of the Father and the Son.
+In John 10, Jesus quotes that declaration in response to the charge of blasphemy. He affirms that Scripture cannot be broken, refers to those to whom the word of God came, and asks why the One sanctified and sent by the Father is accused of blasphemy for saying, “I am the Son of God.” He then appeals to the Father's works and to the mutual indwelling of the Father and the Son.
 
-These passages do not permit the reader to dismiss “Ye are gods” as though Jesus had not invoked it. Nor do they permit the reader to ignore the psalm's rebuke and judgment. The designation is present; accountability is present; Jesus' appeal to the written word is present. Each must remain in the interpretation.
+The paired passages therefore do not allow “Ye are gods” to be dismissed as though Jesus had not invoked it, nor do they allow the psalm's rebuke and judgment to be ignored. The designation, accountability, and appeal to the written word all belong in the interpretation.
 
 The design thesis is developed cumulatively through the full Scripture set:
 
@@ -551,7 +551,7 @@ The design thesis is developed cumulatively through the full Scripture set:
 - **2 Peter 1:4** speaks of becoming partakers of the divine nature; Chapter 5 develops this passage in its own sequence.
 - **John 17:20–23** develops Jesus' prayer concerning oneness and glory; Chapter 9 treats that prayer in context.
 
-The doctrinal conclusion is not assigned to one isolated phrase. The passages are considered together, while each retains its own wording, argument, and setting.
+The doctrinal conclusion rests on the passages considered together, with each retaining its own wording, argument, and setting.
 
 ## Study and argument exercise
 
@@ -561,7 +561,7 @@ The doctrinal conclusion is not assigned to one isolated phrase. The passages ar
 4. What does Jesus explicitly say about those “unto whom the word of God came”? What does He explicitly say about the One whom the Father sanctified and sent?
 5. Distinguish the statements made directly in Psalm 82 and John 10 from the wider doctrinal conclusion developed by reading them with Genesis 1:26–28 and 2 Peter 1:4.
 
-Read together, Psalm 82 and John 10 keep the declaration and its judgment setting in view. The next movement is 2 Peter 1:2–8, where Peter speaks of divine power and promises, escape from corruption, participation in the divine nature, and the qualities to be supplied in faith.
+Read together, Psalm 82 and John 10 hold the declaration and its judgment setting in view. The next chapter turns to 2 Peter 1:2–8, where Peter develops divine power and promises, escape from corruption, participation in the divine nature, and the qualities to be supplied in faith.
 
 # Chapter 5 — True Nature: Partakers of the Divine Nature
 ## From created image to participation in divine nature
