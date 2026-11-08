@@ -248,6 +248,96 @@ Do not expand the chapter merely to make it longer. No amendment is authorized a
 
 ---
 
+# Chapter 3 — Assessment
+
+**Chapter:** “’Ĕlōhîm: Image, Likeness, and Human Design”  
+**Assessment status:** **ASSESSMENT COMPLETE — TARGETED STRENGTHENING**  
+**Amendment status:** **NOT STARTED — HOLD UNTIL ALL TEN CHAPTERS ARE ASSESSED**
+
+## 1. Assigned responsibility
+
+Chapter 3 develops Genesis 1:26–28 as the creation foundation: image, likeness, blessing, fruitfulness, multiplication, replenishment, subduing, and dominion. It must address *’ĕlōhîm* and preserve the 2015 leaflet's “plural: Trinity” interpretation with accurate attribution; connect the source's “like his Maker” / true-nature teaching; develop supporting passages such as John 14:12, 1 John 4:17, Mark 11:20–25, and Matthew 5:43–48 in context; introduce but not absorb later treatments of Psalm 82 / John 10, divine nature, heirship, and oneness; and hold Jesus' representation together with His redemptive accomplishment.
+
+## 2. What the current chapter already accomplishes
+
+- Connects Chapters 1 and 2's distinct foundations—*hypostasis* and *pistis*—to the creation inquiry, correctly noting that Genesis 1:26–28 itself does not use either term.
+- Quotes Genesis 1:26–28 and explains image, likeness, blessing, fruitfulness, and dominion as connected elements.
+- Identifies *’ĕlōhîm* as the Hebrew term translated “God” and accurately attributes “plural: Trinity” to the leaflet as its theological reading.
+- Does not make the noun's form alone carry the theological conclusion; it points to the full declaration and wider scriptural witness.
+- Preserves the leaflet's “like his Maker” emphasis and its connection with true nature and 2 Peter 1:4.
+- Includes the Living Bible wording of Genesis 1:27 and distinguishes the TLB attribution from the leaflet's separate Life Application Bible note.
+- Introduces John 14:12 and 1 John 4:17, retaining the latter's perfected-love and judgment-confidence context.
+- Introduces Psalm 82:6 while directing the reader to Chapter 4 for the full psalm, verse 7, and Jesus' appeal in John 10.
+- Retains Romans 8:17's children/heirs/joint-heirs language alongside suffering and shared glory; identifies John 17:20–23 as a later full treatment.
+- Treats Mark 11:22 within Mark 11:20–25, acknowledges *pistin theou* and its genitive construction, and distinguishes grammar from the chapter's doctrinal interpretation.
+- Keeps Matthew 5:48 within Jesus' teaching about loving enemies, blessing, doing good, and praying for persecutors (Matthew 5:43–48), and reads it alongside 1 John 4:17 without erasing their distinct contexts.
+- Holds representation and redemption together, states that no single verse carries the whole doctrine, and gives a clear handoff to Chapter 4.
+
+## 3. Findings requiring attention
+
+### Primary gap — deepen the explanation of Genesis 1:26–28
+
+The chapter correctly identifies Genesis 1:26–28 as its foundation, but the exposition moves quickly from quotation to summary. Develop how the passage's elements work together: image and likeness in verse 26; the repeated image statement in verse 27, including male and female; and the blessing and commission in verse 28—fruitfulness, multiplication, replenishment, subduing, and dominion. Show why identity language and commission belong to one creation account. Do not add speculative anthropology or claims not supported by the passage and source.
+
+### Secondary refinement — keep the *’ĕlōhîm* levels distinct
+
+The existing treatment is appropriately careful. Preserve the distinction between (1) the Hebrew term *’ĕlōhîm* in Genesis 1:26, (2) the leaflet's stated theological interpretation “plural: Trinity,” considered alongside “Let us make” and “our image,” and (3) the wider doctrinal conclusion about humanity's image and likeness. Do not dilute the source's interpretation, but do not imply that morphology alone proves the full doctrine.
+
+### Secondary refinement — clarify “like his Maker” and the TLB material
+
+Retain the KJV of Genesis 1:27, the source's “like his Maker” emphasis, and the TLB wording where it is genuinely a TLB quotation. Keep the leaflet's separate Life Application Bible note distinct. The current provenance explanation is accurate in intent but reads partly like editorial apparatus; make the reader-facing presentation concise and clear. If the source note is ambiguous, preserve that ambiguity in source notes rather than silently conflating or correcting its attribution.
+
+### Secondary refinement — strengthen passage-to-thesis reasoning
+
+The chapter introduces important texts but sometimes moves quickly from quotation to doctrinal conclusion. Make the cumulative reasoning clearer for:
+- John 14:12 and the works of Jesus;
+- 1 John 4:17 and the identity statement in its perfected-love / confidence context;
+- Romans 8:17 and children, heirs, joint-heirship, suffering, and shared glory;
+- John 17:20–23 and oneness/glory as a signpost to Chapter 9.
+
+No single passage should be made to prove the entire representation thesis.
+
+### Secondary refinement — preserve the force and boundaries of Mark 11:22
+
+The manuscript's distinction between *theou* as genitive and “state of God” as doctrinal interpretation is important and must remain. The strong formulation “we are God by design” is an intentional doctrinal statement in the current manuscript; do not casually dilute or remove it. Strengthen the reasoning through the connected Design argument and the source's *pistis* teaching, while continuing to state accurately that “state of God” is not a word-for-word lexical gloss established by the genitive alone. Keep Mark 11:20–25 in view; do not turn the passage into a detached formula or a guarantee that every desired result must occur.
+
+### Whole-book coordination — keep later chapters' responsibilities intact
+
+The chapter's references to Psalm 82, Romans 8:17, John 17, Romans 3:23–24, Ephesians 1:7, and Colossians 1:14 are legitimate connections. Their full development belongs in Chapters 4 (Psalm 82 / John 10), 5 (divine nature), 6 (why Jesus came, glory, deviation, Christ's person and work), 7 (justification, righteousness, redemption), 8 (Sonship and heirship), and 9 (John 17, oneness and glory). Chapter 3 should orient the reader without pre-empting those arguments. Its statement that no single verse carries the whole doctrine is a useful control.
+
+### Pedagogy — refine the final exercise
+
+Preserve the exercise's purpose: distinguish Genesis' explicit wording from doctrinal synthesis and read supporting passages in context. Its present scope is broad, asking the reader to cover many texts and the whole representation thesis at once. Consider a short sequence of progressive tasks or a narrower final synthesis question. The transition to Chapter 4 is clear and should be retained.
+
+## 4. Controlled amendment direction
+
+**Targeted strengthening only.** Preserve the current architecture and sound coverage. Later amendments should (1) deepen Genesis 1:26–28, (2) keep the lexical/source/synthesis levels of *’ĕlōhîm* distinct, (3) clarify the “like his Maker” / TLB attribution, (4) strengthen the cumulative reasoning from John 14:12, 1 John 4:17, Romans 8:17, and John 17:20–23, (5) preserve the force and grammatical caveat of Mark 11:22, (6) avoid taking over later chapters, and (7) refine the final exercise. No structural redesign or wholesale rewrite is indicated. No amendment is authorized now.
+
+## 5. Coverage matrix
+
+| Responsibility | Current assessment | Direction |
+|---|---|---|
+| Genesis 1:26–28 foundation | Present, sound, compressed | Deepen connected explanation |
+| *’Ĕlōhîm* / “plural: Trinity” | Present and attributed | Preserve; distinguish source, lexical term, synthesis |
+| Image and likeness | Present | Explain more fully from the passage |
+| Blessing and creation commission | Present | Show relation to image/likeness |
+| “Like his Maker” / TLB | Present with provenance note | Clarify reader-facing attribution |
+| John 14:12 | Present | Strengthen reasoning |
+| 1 John 4:17 | Present with context | Preserve context; clarify cumulative role |
+| Psalm 82:6 | Introduced | Full treatment in Chapter 4 |
+| Romans 8:17 | Present | Preserve whole-verse context; avoid duplicating Chapter 8 |
+| John 17:20–23 | Introduced | Full treatment in Chapter 9 |
+| Mark 11:20–25 | Context and genitive acknowledged | Preserve; deepen reasoning without overclaim |
+| Matthew 5:43–48 | Context preserved | Preserve; clarify relation to 1 John 4:17 |
+| Representation and redemption | Both retained | Make cumulative logic clearer |
+| Exercise and transition | Transition clear; exercise broad | Refine pedagogy; retain handoff |
+
+## 6. Chapter 3 decision
+
+**Targeted strengthening only.** The chapter has the right subject, structure, key passages, and chapter boundaries. Its principal need is a fuller explanation of Genesis 1:26–28 and clearer reasoning from supporting passages to the Design and representation thesis. The leaflet's *’ĕlōhîm* interpretation, Living Bible material, and Mark 11:22 doctrinal formulation require careful preservation and precise attribution—not casual alteration. No amendment is authorized at this stage.
+
+---
+
 # Chapters 3–10 — Assessment queue
 
 Each chapter will be assessed and recorded here using the same framework as Chapters 1 and 2. No chapter amendments are to begin until all ten assessments are complete and the whole-book reconciliation has been recorded.
@@ -258,7 +348,7 @@ Each chapter will be assessed and recorded here using the same framework as Chap
 
 | Chapter | Assigned subject | Assessment status | Amendment status |
 |---|---|---|---|
-| 3 | ’Ĕlōhîm: Image, Likeness, and Human Design | NOT ASSESSED | HOLD |
+| 3 | ’Ĕlōhîm: Image, Likeness, and Human Design | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
 | 4 | Psalm 82 with John 10 | NOT ASSESSED | HOLD |
 | 5 | Partakers of the Divine Nature | NOT ASSESSED | HOLD |
 | 6 | Why Jesus Came: Glory, Deviation, and Representation | NOT ASSESSED | HOLD |
