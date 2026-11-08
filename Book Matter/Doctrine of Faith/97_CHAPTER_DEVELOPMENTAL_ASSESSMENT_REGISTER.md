@@ -955,6 +955,104 @@ No structural redesign, new chapter, or wholesale rewrite is indicated. No amend
 
 ---
 
+# Chapter 9 — Assessment
+
+**Chapter:** “Oneness and Glory: The Prayer of John 17:20–23”  
+**Assessment status:** **ASSESSMENT COMPLETE — TARGETED STRENGTHENING**  
+**Amendment status:** **NOT STARTED — HOLD UNTIL ALL TEN CHAPTERS ARE ASSESSED**
+
+## 1. Assigned responsibility
+
+Chapter 9 must develop Jesus' prayer in John 17:20–23: the oneness of believers in the Father and the Son, the Son's presence in believers, the glory given to the Son and given to them, the Father's love for believers, and the world's witness that the Father sent the Son. It must allow the language of the prayer its full force without collapsing the Father, Son, and believers into one undifferentiated person or implying identity in every respect. It coordinates with Chapters 3, 6, and 8 and prepares for Chapter 10's treatment of 2 Corinthians 4:1–6.
+
+## 2. What the current chapter already accomplishes
+
+- Opens with the Aletheia source's direction to consider John 17:20–23 and develops the prayer rather than reducing it to a slogan about unity.
+- Uses John 17:1 and 17:18–19 to establish the Son's relation to the Father, His glory, and the sending and sanctification of His disciples.
+- Follows the prayer's extension beyond the original disciples to all who believe through their word.
+- Tracks the movement of John 17:20–23: oneness, mutual indwelling, the glory given, perfected unity, the world's belief that the Father sent the Son, and the Father's love for believers.
+- Emphasizes that the prayer's stated purpose includes a witness to the world.
+- Examines the word “as” and refuses both to reduce the comparison to mere cooperation and to collapse the Father, Son, and believers into one undifferentiated person.
+- Keeps the glory statement in verse 22 connected to the oneness Jesus asks for.
+- Preserves the context of 1 Corinthians 11:7 when bringing it into the wider glory discussion.
+- Distinguishes John 17's direct statements from the cumulative synthesis involving Genesis 1, Romans 3, 1 Corinthians 11, 2 Peter 1, Galatians 4, Romans 8, Hebrews 1, and 2 Corinthians 5.
+- Connects the Father's love for believers in John 17:23 with adoption and heirship in Galatians 4 and Romans 8, while retaining each passage's distinct emphasis.
+- Holds together representation and redemption rather than allowing either to displace the other.
+- Provides a clear transition to Chapter 10 and 2 Corinthians 4:1–6.
+
+## 3. Findings requiring attention
+
+### Primary gap — explain the nature and limits of the oneness comparison
+
+The chapter rightly insists that the word “as” must retain its force. It also rightly observes that the prayer preserves the relations among Father, Son, and believers. The later amendment should make the interpretive reasoning more concrete: identify what the prayer itself says is shared or correspondingly experienced (being in the Father and Son, the Son's indwelling, glory given, perfected oneness, and the Father's love), while identifying the distinctions the same prayer preserves (the Father sends the Son; the Son addresses the Father and sends disciples; believers believe through the disciples' word and are brought into this relationship).
+
+Do not weaken the comparison to mere cooperation. Equally, do not turn “as” into a claim that believers become identical with the Father or Son in every respect. Let the prayer define the correspondence.
+
+### Primary refinement — clarify the statement that the glory has been given
+
+John 17:22 explicitly says that the glory given to Jesus has been given to those for whom He prays. The chapter correctly retains the present force of the statement and links it to oneness. During amendment, clarify what the immediate context identifies about this gift and its purpose. Distinguish the direct declaration in verse 22 from the wider book synthesis connecting glory with Genesis 1, Romans 3:23, and 1 Corinthians 11:7. Avoid either reducing the gift to a merely future hope or asserting more about its precise nature than the passage and the established doctrinal argument support.
+
+### Secondary refinement — distinguish the prayer's explicit claims from the Design synthesis
+
+The chapter connects John 17 with image and likeness, participation in divine nature, sonship, heirship, righteousness, and present representation. This is appropriate to the book's cumulative argument. Keep the evidential steps visible:
+- What John 17 explicitly says about oneness, glory, indwelling, love, sending, and witness.
+- What the other cited passages explicitly contribute in their own contexts.
+- What the book concludes by bringing those passages together under the Aletheia teaching on Design and true nature.
+
+Do not make John 17 independently state the whole Design doctrine or use it as though it repeats Genesis or Hebrews verbatim.
+
+### Secondary refinement — retain the world's witness as a governing purpose
+
+The chapter notes that the oneness has a witness beyond itself. This should remain a governing thread, not merely a detail in the numbered sequence. Jesus twice connects the oneness with the world's believing or knowing that the Father sent Him; verse 23 also connects that knowledge with the Father's love for believers. Ensure the final synthesis and study questions preserve this outward purpose.
+
+### Whole-book coordination — avoid repeating the full glory argument
+
+Romans 3:23 and 1 Corinthians 11:7 are relevant to the wider glory inquiry, but Chapters 6 and 10 also carry substantial responsibility for glory and restoration. Chapter 9 should give these texts enough context to support its synthesis without repeating their full exposition. Chapter 10 owns the final treatment of the knowledge of God's glory in the face of Jesus Christ.
+
+### Whole-book coordination — keep the chapter's primary focus on John 17
+
+The chapter's cross-references to Galatians 4, Romans 8, Hebrews 1, 2 Corinthians 5, Genesis 1, and 2 Peter 1 help connect the argument. During reconciliation, distinguish brief recalls from full exposition assigned to Chapters 2, 3, 7, and 8. Preserve John 17:20–23 as this chapter's controlling passage.
+
+### Pedagogy — make the reflection questions more analytical
+
+The seven questions are relevant and concise. The later pedagogy review should ensure they lead the reader through: (1) the prayer's intended audience and movement; (2) the meaning and limits of “as” and oneness; (3) the glory given and the Father's love; and (4) the world's witness and the book's cumulative Design/representation synthesis. A question should ask the reader to distinguish what John 17 explicitly says from what is concluded through the wider Scripture set.
+
+## 4. Controlled amendment direction
+
+**Targeted strengthening only.** Preserve the chapter's structure and substantial exposition. Later amendments should:
+
+1. Explain more concretely what the oneness comparison includes and what distinctions the prayer preserves.
+2. Clarify John 17:22's gift of glory in its immediate context, distinguishing the direct statement from the wider glory synthesis.
+3. Mark the difference between John 17's explicit claims, other passages' contributions, and the book's cumulative Design conclusion.
+4. Keep the world's belief and knowledge of the Father's sending and love as a governing purpose of the prayer.
+5. Coordinate the repeated glory passages with Chapters 6 and 10 and the other cross-references with their primary chapters.
+6. Refine the reflection questions into an analytical progression.
+
+No structural redesign, new chapter, or wholesale rewrite is indicated. No amendment is authorized at this stage.
+
+## 5. Coverage matrix
+
+| Responsibility | Current assessment | Direction |
+|---|---|---|
+| John 17:1 prayer setting / Son's glory | Present | Preserve |
+| John 17:18–19 sending / sanctification | Present | Preserve as context |
+| John 17:20 prayer for later believers | Present | Preserve |
+| Oneness / mutual indwelling | Strongly developed | Clarify correspondence and distinctions |
+| “As” Father and Son are one | Directly examined | Preserve force; define limits from the prayer |
+| Glory given in verse 22 | Central and connected to oneness | Clarify immediate context and synthesis |
+| Father's love for believers | Present | Preserve connection with verse 23 |
+| World's belief and knowledge | Present | Keep as governing purpose |
+| Genesis / image / Design synthesis | Present | Distinguish explicit text from cumulative conclusion |
+| Repeated glory texts | Relevant | Coordinate with Chapters 6 and 10 |
+| Study questions | Relevant | Refine analytical progression |
+| Transition to Chapter 10 | Clear | Preserve |
+
+## 6. Chapter 9 decision
+
+**Targeted strengthening only.** The chapter is structurally sound and gives John 17:20–23 sustained attention. Its principal task is to clarify the correspondence and distinctions in Jesus' oneness comparison, explain the gift of glory with careful attention to the immediate passage, and keep the world's witness central. The wider Design synthesis should remain explicit as synthesis rather than being attributed to John 17 alone. No structural redesign or wholesale rewrite is indicated. No amendment is authorized at this stage.
+
+---
+
 # Chapters 3–10 — Assessment queue
 
 Each chapter will be assessed and recorded here using the same framework as Chapters 1 and 2. No chapter amendments are to begin until all ten assessments are complete and the whole-book reconciliation has been recorded.
@@ -971,7 +1069,7 @@ Each chapter will be assessed and recorded here using the same framework as Chap
 | 6 | Why Jesus Came: Glory, Deviation, and Representation | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
 | 7 | Redemption, Free Justification, and Righteousness | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
 | 8 | The Son, the Heir, and Representation of Design | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
-| 9 | Oneness and Glory: John 17:20–23 | NOT ASSESSED | HOLD |
+| 9 | Oneness and Glory: John 17:20–23 | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
 | 10 | The Image in the Face of Jesus Christ | NOT ASSESSED | HOLD |
 
 ---
