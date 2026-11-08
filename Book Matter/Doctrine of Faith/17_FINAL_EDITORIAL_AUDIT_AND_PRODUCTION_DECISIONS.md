@@ -534,3 +534,40 @@ A further review was made against the integrated ten-chapter manuscript, with pa
 - Consistency-correction commit: 13f6a93d78ce14c17105840e04fb31bc5d5258cb.
 
 **Stage 4.6 is closed. Stage 4 — Professional literary editing — is COMPLETE.** This closes literary editing only. Publication apparatus review, typesetting, designed-page proofing, publication testing, and author approval remain separate stages and must not be represented as complete.
+
+
+## Stage 5 — Publication apparatus — 2026-11-08
+
+**Disposition: COMPLETE, with pagination-dependent details reserved for Stage 6.**
+
+### Work completed
+
+- Reviewed the publication identity across the title page and copyright matter. The title remains *The Doctrine of Faith*; the subtitle remains *The Gospel That Restores Our True Nature*; the edition is Book I; the named author is Dr. Coach Achu Gustave; and the publisher is Aletheia Publications.
+- Confirmed the existing title treatment is aligned with the known Aletheia World catalogue title. The existing cover artwork and book record remain preserved; no duplicate title or unnecessary cover redesign was introduced.
+- Reviewed the copyright page, rights notice, translation identification, and TLB credit. The manuscript retains the Stage 3-verified credit naming Tyndale House Ministries. No unsupported ISBN, publisher address, edition number, or additional rights claim was invented.
+- Confirmed the dedication, reader-facing preface, and introduction are present and follow the title/copyright matter.
+- Added a formal **Contents** section after the dedication and before the preface. It lists the preface, introduction, all ten chapter titles in the approved sequence, the concluding section, bibliography, Scripture Reference Guide, and glossary. Entries do not carry guessed page numbers; pagination is to be inserted only after typesetting.
+- Reviewed the bibliography and reference-work groupings: controlling Aletheia source, Scripture editions, supplementary Dake reference, and lexical/language references. Existing source details and URLs were retained; incomplete publication details were not fabricated.
+- Confirmed the Scripture Reference Guide covers all ten chapters and remains a chapter-based guide. Exact page references are deferred until the designed edition has stable pagination.
+- Alphabetized the glossary entries for practical lookup while preserving their wording and doctrinal distinctions.
+- Confirmed the end-matter sequence remains bibliography and reference works, Scripture Reference Guide, and glossary of key terms.
+
+### Verification
+
+- One title/subtitle/author/publisher identity is used across the manuscript's title and copyright matter.
+- Ten approved chapter titles appear in the Contents in the same order as the canonical manuscript.
+- The preface and introduction are included in the Contents.
+- Bibliography, Scripture Reference Guide, and glossary are all present and included in the Contents.
+- The glossary contains twelve entries in alphabetical order.
+- No unsupported ISBN, edition number, publication address, author biography, or page number has been added.
+- The TLB credit remains the Stage 3-verified wording and attribution.
+- The contents and Scripture Reference Guide remain free of invented pagination.
+- The canonical manuscript remains the single publication master; no chapter body or doctrinal wording was changed in this stage.
+
+### Pagination-dependent work reserved for Stage 6
+
+- Assign final page numbers to Contents entries and Scripture Reference Guide references after typesetting.
+- Confirm front-matter Roman/Arabic numbering, chapter-opening pagination, running heads, and page furniture in the designed edition.
+- Recheck copyright and quotation credits on the actual designed copyright page.
+
+**Stage 5 — Publication Apparatus — is COMPLETE.** This closes the apparatus preparation only. Professional typesetting, page-by-page proof, platform-compatible publication artifact, entitled-reader testing, and author approval remain outstanding. The book is not yet publication-ready or approved for final release.
