@@ -433,6 +433,108 @@ No structural redesign, new chapter, or wholesale rewrite is indicated. No amend
 
 ---
 
+# Chapter 5 — Assessment
+
+**Chapter:** “True Nature: Partakers of the Divine Nature”  
+**Assessment status:** **ASSESSMENT COMPLETE — TARGETED STRENGTHENING**  
+**Amendment status:** **NOT STARTED — HOLD UNTIL ALL TEN CHAPTERS ARE ASSESSED**
+
+## 1. Assigned responsibility
+
+Chapter 5 must develop the Aletheia source's true-nature argument through 2 Peter 1:2–8, especially participation in divine nature (verse 4). It must read that declaration within Peter's full sequence: knowledge of God and Christ, divine power and provision, the call to glory and virtue, the precious promises, escape from corruption, diligence, and the qualities that must abound. It must connect this passage to the source's creation / image-and-likeness teaching and its account of deviation and restoration, while preserving the distinct responsibilities of Chapters 3, 4, 6, and 7.
+
+## 2. What the current chapter already accomplishes
+
+- Establishes 2 Peter 1:2–8 as the controlling passage and does not isolate verse 4 from its literary context.
+- Develops knowledge of God and Jesus Christ, divine power, provision for life and godliness, and the call to glory and virtue in verses 2–3.
+- Preserves the three elements in verse 4: the precious promises, participation in divine nature through those promises, and escape from corruption in the world through lust.
+- Connects Genesis 1:26–28 with 2 Peter 1:4 as the Aletheia source's doctrinal relationship, while acknowledging that the passages use different wording.
+- Retains the source's interpretation of sin as deviation from true nature and restoration as being brought “back on course.”
+- Connects Psalm 82:5, Romans 3:23–24, and 2 Peter 1:4 without making one Greek word prove the whole restoration thesis.
+- Attributes the source's explanation of *dikaiosynē* (δικαιοσύνη) through equity and “back on course” to the source rather than presenting it as an exhaustive dictionary definition.
+- Gives substantial attention to verses 5–8: diligence, virtue, knowledge, temperance, patience, godliness, brotherly kindness, and charity, followed by fruitfulness in the knowledge of Christ.
+- Notes that Peter uses the noun σπουδή (*spoudē*) in verse 5, not the related verb σπουδάζω (*spoudazō*); this lexical detail should receive specialist/source verification during the later proof stage.
+- Preserves the priority of God's provision and promises; it does not present the qualities as a human attempt to manufacture divine nature independently of God.
+- Connects the chapter to the next question—why Jesus came—while leaving the full treatment of glory, deviation, and Christ's redemptive work to Chapter 6.
+
+## 3. Findings requiring attention
+
+### Primary gap — distinguish original Design, participation, and restored life more explicitly
+
+The chapter rightly connects Genesis 1:26–28 with 2 Peter 1:4, and it accurately notes that the passages use different wording. However, the doctrinal progression needs one more explicit distinction:
+
+1. **Original Design:** Genesis 1:26–28 describes humanity's creation in God's image and likeness and the associated blessing and commission.
+2. **Participation in divine nature:** 2 Peter 1:4 speaks of becoming partakers of divine nature through God's precious promises, in the same sentence as escape from corruption.
+3. **Fruitful expression:** 2 Peter 1:5–8 describes the diligence and qualities that are to abound in the knowledge of Christ.
+
+These statements are connected in the Aletheia source's doctrinal argument, but they are not identical formulations. The later amendment should explain how the source relates them without implying that Genesis 1:26–28 uses Peter's “partakers of the divine nature” wording, or that the chapter can erase the distinction between creation language and Peter's promise.
+
+### Secondary refinement — explain the relation between participation and escape from corruption
+
+The chapter correctly keeps both parts of 2 Peter 1:4 together. It could make the relationship more explicit: participation is not presented in the verse as an isolated status or title; Peter places it alongside escape from the corruption that is in the world through lust. The exposition should clarify what the verse itself joins, without adding a speculative mechanism or claiming that the verse alone explains every dimension of sin and restoration.
+
+### Secondary refinement — make the function of verses 5–8 even clearer
+
+The chapter already gives verses 5–8 good coverage. During amendment, preserve the distinction between:
+- what God has given through divine power and the promises (verses 2–4);
+- the diligence and qualities Peter calls for (verses 5–7);
+- the stated outcome of their presence and abundance in the knowledge of Christ (verse 8).
+
+Avoid presenting the qualities as either optional additions or a self-generated route to divine nature. Retain Peter's sequence and the relational framing of knowledge at the beginning and end of the passage.
+
+### Secondary refinement — control the “back on course” and *dikaiosynē* explanation
+
+The chapter appropriately attributes “back on course” to the Aletheia source and warns that it is not an exhaustive dictionary definition of *dikaiosynē*. Preserve this distinction. The later proof should verify the exact source wording and the Greek lexical note; do not silently turn the source's conceptual explanation into a universally accepted lexical definition.
+
+### Whole-book coordination — protect the chapter boundaries
+
+- Chapter 3 owns the detailed creation / image-and-likeness argument.
+- Chapter 4 owns Psalm 82 and John 10 in their judgment context.
+- Chapter 5 owns 2 Peter 1:2–8 and participation in divine nature.
+- Chapter 6 owns the source's “come short of the glory,” deviation, and the question of why Jesus came.
+- Chapter 7 owns the detailed treatment of *dikaiosynē*, justification, and redemption.
+
+Chapter 5 may establish the connections needed for its own argument, but should not fully repeat those chapters' expositions. The current handoff to Chapter 6 is appropriate.
+
+### Pedagogy — preserve the passage-level exercise
+
+The six questions are relevant and closely tied to the passage. They ask readers to trace Peter's sequence, examine verse 4 as a whole, compare Genesis and Peter, understand the source's “back on course” formulation, identify the qualities in order, and explain why verses 5–8 matter. No major redesign is needed. During final pedagogy review, ensure that the exercise tests comprehension and interpretation rather than simply reproducing lists.
+
+## 4. Controlled amendment direction
+
+**Targeted strengthening only.** Preserve the current chapter structure and substantial exposition. Later amendments should:
+
+1. Make the distinction and relationship among original Design, participation in divine nature through the promises, and the fruitful expression described in verses 5–8 explicit.
+2. Clarify the relationship between participation and escape from corruption in verse 4.
+3. Preserve Peter's sequence from divine provision to diligence and fruitfulness, without making human effort the source of divine participation.
+4. Retain the source's “back on course” formulation with precise attribution and a clear lexical caveat.
+5. Verify the exact source wording and specialist lexical details during the proof stage.
+6. Keep the detailed treatments assigned to Chapters 3, 4, 6, and 7 in their proper places.
+
+No structural redesign, new chapter, or wholesale rewrite is indicated. No amendment is authorized at this stage.
+
+## 5. Coverage matrix
+
+| Responsibility | Current assessment | Direction |
+|---|---|---|
+| 2 Peter 1:2–3 knowledge / divine power / call | Present and contextual | Preserve |
+| 2 Peter 1:4 promises / participation / escape | Present and accurately joined | Preserve; deepen relationship |
+| Genesis 1:26–28 connection | Present and attributed as synthesis | Distinguish original Design from Peter's promise |
+| Corruption and deviation | Present | Clarify without speculative mechanism |
+| Psalm 82:5 and Romans 3:23–24 | Present as source-connected texts | Preserve; coordinate with Chapters 4 and 6 |
+| *Dikaiosynē* / “back on course” | Attributed with lexical caveat | Preserve; verify source and lexical detail |
+| 2 Peter 1:5–7 qualities | Thoroughly presented in order | Preserve |
+| 2 Peter 1:8 fruitfulness | Present | Preserve its link to knowledge of Christ |
+| Divine provision and human diligence | Properly distinguished | Preserve and make relationship clear |
+| Chapter 6 transition | Clear | Preserve |
+| Study exercise | Relevant and passage-focused | Minor final pedagogy review |
+
+## 6. Chapter 5 decision
+
+**Targeted strengthening only.** The chapter is substantially sound and gives 2 Peter 1:2–8 the contextual treatment required. Its main need is to make the relationship among original Design, participation in divine nature, escape from corruption, and the fruitful life Peter describes more explicit without collapsing those distinct statements. The source's “back on course” formulation and lexical details must remain precisely attributed. No amendment is authorized at this stage.
+
+---
+
 # Chapters 3–10 — Assessment queue
 
 Each chapter will be assessed and recorded here using the same framework as Chapters 1 and 2. No chapter amendments are to begin until all ten assessments are complete and the whole-book reconciliation has been recorded.
@@ -445,7 +547,7 @@ Each chapter will be assessed and recorded here using the same framework as Chap
 |---|---|---|---|
 | 3 | ’Ĕlōhîm: Image, Likeness, and Human Design | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
 | 4 | Psalm 82 with John 10 | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
-| 5 | Partakers of the Divine Nature | NOT ASSESSED | HOLD |
+| 5 | Partakers of the Divine Nature | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
 | 6 | Why Jesus Came: Glory, Deviation, and Representation | NOT ASSESSED | HOLD |
 | 7 | Redemption, Free Justification, and Righteousness | NOT ASSESSED | HOLD |
 | 8 | The Son, the Heir, and Representation of Design | NOT ASSESSED | HOLD |
