@@ -328,3 +328,26 @@ The pass found no substantive KJV or TLB wording substitutions required in the r
 
 The first pass is not the final literary edit. A second chapter-by-chapter line and copy-edit pass is still required to assess sentence rhythm, paragraph-level repetition, transitions within chapters, consistency of capitalization and transliteration, punctuation, quotation integration, and the readability of all study questions. The editorial audit must then be reconciled with any corrections made. Stage 4 remains **IN PROGRESS**; no publication-readiness claim is made.
 
+
+## Production work log — 8 November 2026, second-pass continuity and copy-edit checks
+
+A further review was made against the integrated ten-chapter manuscript, with particular attention to paragraph economy, repeated explanatory sentences, chapter-end exercises, and the continuity of the Sonship/heirship argument.
+
+### Corrections committed
+
+- Tightened repeated wording in the Chapter 8 discussion of Romans 8:14–17, 2 Corinthians 5:21, and 1 John 4:17, preserving the full contextual qualifications while removing duplicated explanatory sentences.
+- Corrected a numbering defect in Chapter 8's study questions. The sequence now runs consecutively from 1 to 9.
+- Corrected punctuation in the Chapter 8 question on Hebrews 1:5–8.
+- Rechecked the question sequences throughout the manuscript. All eight reader-facing question/exercise sections have consecutive numbering; no gaps or duplicated numbers were found.
+- Rechecked the ten chapter headings and their sequence. All ten remain present and in the approved order.
+
+### Verification
+
+- Canonical manuscript: document 14.
+- Current manuscript content SHA: `5457144d0e7268da8af0d5fb039a0fe9711e5a00`.
+- The question-sequence audit returned valid consecutive numbering in all eight question/exercise sections.
+- No change was made to the controlling 2015 Aletheia doctrine, the settled author positions, or the Stage 2/3 source and quotation decisions.
+
+### Stage 4 disposition
+
+**Stage 4 remains IN PROGRESS.** These are verified second-pass corrections, not grounds to certify the full professional literary edit as complete. The remaining work is a complete sentence-by-sentence line/copy edit of all ten chapters, including a final terminology and transliteration sweep, punctuation and quotation integration, paragraph rhythm, repetition across distant chapters, and a final reconciliation of the editorial decisions register. No publication-readiness claim is made.
