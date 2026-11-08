@@ -158,7 +158,7 @@ Hebrews 11:1 calls faith substance. Hebrews 1:3 reveals the Son as the express i
 Faith is our state by Design. Jesus represents who we are by Design. His person reveals the image and glory of God, and His redemptive work is the means through which redemption is accomplished. This is the foundation of the doctrine of faith.
 
 
-# Chapter 2 — Πίστις (*Pistis*): Credence, the State of God's Children, and Sonship
+# Chapter 2 — Pistis: Credence, Acceptance and Sonship
 ## Faith toward God: the state of His children
 
 Hebrews 6:1 names “faith toward God” among the foundations of the doctrine of Christ:
@@ -291,7 +291,7 @@ Faith is therefore neither a passing mood nor a verbal formula. The Aletheia sou
 8. How does the *pistis* teaching in this chapter relate to the *hypostasis* foundation in Chapter 1 while keeping the two terms and their source contexts distinct?
 9. Which statements in this chapter are explicit Aletheia source teaching, which are explicit scriptural statements, and which are doctrinal synthesis?
 
-# Chapter 3 — ’Ĕlōhîm: Image, Likeness, and Human Design
+# Chapter 3 — Elohim: Image, Likeness and Human Design
 ## From faith as state to humanity's design
 
 The preceding chapters have established two foundations. Hebrews 11:1 describes faith as *hypostasis* in relation to things hoped for. The Aletheia leaflet's “Faith toward God” teaching identifies *pistis* as “credence” and states that faith defines the state of God's children, connecting that state with acceptance, true nature, and Sonship.
@@ -436,7 +436,7 @@ Finally, examine the thesis **“Jesus represents who we are by Design”** thro
 
 Genesis has supplied the explicit image-and-likeness foundation. That creation account now leads into Psalm 82:6–7 and Jesus' use of the passage in John 10, where the declaration “Ye are gods” must be read within the psalm's judgment setting.
 
-# Chapter 4 — Psalm 82 with John 10: “Ye Are Gods” and the Judgment Context
+# Chapter 4 — Ye Are Gods: Psalm 82 and the Testimony of Jesus in John 10
 ## The statement and the setting
 
 The Aletheia source includes Psalm 82:6 in its teaching on true nature and the state of God's children:
@@ -568,7 +568,7 @@ The doctrinal conclusion rests on the passages considered together, with each re
 
 Read together, Psalm 82 and John 10 hold the declaration and its judgment setting in view. The next chapter turns to 2 Peter 1:2–8, where Peter develops divine power and promises, escape from corruption, participation in the divine nature, and the qualities to be supplied in faith.
 
-# Chapter 5 — True Nature: Partakers of the Divine Nature
+# Chapter 5 — Partakers of the Divine Nature
 ## From created image to participation in divine nature
 
 The preceding chapters have established the creation foundation in Genesis 1:26–28, the Aletheia teaching that *pistis*—credence—defines the state of God's children, and the relationship of true nature to Sonship. They have also considered Psalm 82:6–7 in its judgment setting and Jesus' appeal to that writing in John 10. Chapter 5 now follows the source's next step in the true-nature argument.
@@ -666,7 +666,7 @@ Book I's governing convictions remain that **faith is our state by design** and 
 
 Peter's account of divine provision, participation in divine nature, escape from corruption, and growth in the knowledge of Christ raises the next question: why did Jesus come? The discussion now turns to humanity's coming short of glory, righteousness, and Christ's redemptive work.
 
-# Chapter 6 — Why Did Jesus Come? Glory, Deviation, and Representation
+# Chapter 6 — Why Did Jesus Come? The Glory We Came Short Of
 ## The question follows the design
 
 The preceding chapters have established the foundation of faith, the Aletheia teaching that *pistis*—credence—defines the state of God's children, humanity's creation in God's image and likeness, Psalm 82:6–7 in its judgment context, and Peter's account of participation in divine nature.
@@ -866,7 +866,7 @@ The question cannot be answered with representation alone or with redemption det
 
 The question of why Jesus came leads directly to the source's teaching on free justification and redemption in Christ. The next chapter examines *dikaioō*, *dikaiosynē*, and *apolutrōsis*, preserving the leaflet's own glosses while distinguishing them from the wider lexical evidence.
 
-# Chapter 7 — Δικαιόω (*dikaioō*): Redemption, Free Justification, and Righteousness in Christ
+# Chapter 7 — Justification, Righteousness and Redemption in Christ
 ## The response to deviation: redemption and righteousness
 
 Chapter 6 followed the Aletheia source's question, “Why did Jesus come?” It developed the source's interpretation of coming short of God's glory as deviation from true nature and examined Romans 3:23–24: all have sinned and come short of God's glory, and are justified freely by grace through the redemption in Christ Jesus.
@@ -1014,7 +1014,7 @@ These lexical references support the word-level statements. Thayer's qualificati
 
 The discussion now turns to the Son as heir of all things and the express image of the Father, alongside the sonship and heirship believers receive through Galatians 4:5–7 and Romans 8:16–17. Hebrews 1:8 remains part of the Son's scriptural portrait; the former question associated with that verse is not reopened.
 
-# Chapter 8 — The Son, the Heir, and the Representation of Design
+# Chapter 8 — The Son and the Heir: Our Inheritance in Christ
 ## From righteousness in Christ to sonship and heirship
 
 The preceding chapters have developed humanity's design, the Father's nature, the glory humanity came short of, and restoration through redemption and justification. This chapter brings those themes together in the Son and in the inheritance given to God's children.
@@ -1184,7 +1184,7 @@ The Aletheia teaching brings these passages into the design argument: **Jesus re
 
 The Son's representation and the believers' sonship and heirship through Him lead into Jesus' prayer in John 17:20–23. The next chapter follows its movement through oneness, glory, indwelling, sending, and the purpose Jesus states.
 
-# Chapter 9 — Oneness and Glory: The Prayer of John 17:20–23
+# Chapter 9 — Our Oneness with the Father and the Glory of God
 ## The prayer that brings sonship and glory into view
 
 The discussion of the Son and the heir leads naturally to the prayer Jesus prayed for those who would believe in Him. The Aletheia source directs attention to John 17:20–23 and asks the reader to consider the prayer of oneness. That invitation deserves more than a passing reference to Christian unity. Jesus' words describe a relationship: the Father in the Son, the Son in believers, believers in the Father and the Son, and the glory given to the Son also given to them.
@@ -1285,7 +1285,7 @@ That movement brings the discussion to 2 Corinthians 4:1–6. There Paul names C
 6. How does this prayer connect with the book's earlier treatment of image and likeness, sonship, heirship, and righteousness in Christ?
 7. Why must Christ's representation of humanity's design be held together with His redemptive accomplishment?
 
-# Chapter 10 — The Image in the Face of Jesus Christ: Glory, Knowledge, and Present Reality
+# Chapter 10 — Have the Faith of God: Faith as the State of God
 ## The glory of God made known in Christ
 
 The final movement of this book brings us to Paul's declaration that the light of the knowledge of the glory of God is given “in the face of Jesus Christ.” This is not an isolated statement about religious admiration. It gathers the book's inquiry into the image of God, humanity's design, the glory from which humanity has come short, the work of redemption, and the present reality of righteousness and sonship in Christ.
