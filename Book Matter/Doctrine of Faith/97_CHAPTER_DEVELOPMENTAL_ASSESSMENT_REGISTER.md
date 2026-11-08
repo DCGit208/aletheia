@@ -1053,6 +1053,111 @@ No structural redesign, new chapter, or wholesale rewrite is indicated. No amend
 
 ---
 
+# Chapter 10 — Assessment
+
+**Chapter:** “The Image in the Face of Jesus Christ: Glory, Knowledge, and Present Reality”  
+**Assessment status:** **ASSESSMENT COMPLETE — TARGETED STRENGTHENING**  
+**Amendment status:** **NOT STARTED — HOLD UNTIL WHOLE-BOOK RECONCILIATION**
+
+## 1. Assigned responsibility
+
+Chapter 10 is the concluding chapter of Book I. Its primary responsibility is to bring the inquiry to 2 Corinthians 4:1–6: Christ as the image of God and the light of the knowledge of God's glory in His face. It must gather the book's connected argument on Design, glory, representation, redemption, righteousness, sonship, and oneness without flattening distinct passages into one claim. It must conclude Book I's foundation (*hypostasis*) and hand off coherently to Book II's evidence (*elenchos*).
+
+## 2. What the current chapter already accomplishes
+
+- Uses 2 Corinthians 4:1–6 as the controlling passage and follows Paul's movement from ministry and truth to the gospel, Christ as the image of God, and the knowledge of God's glory.
+- Preserves Paul's declaration that Christ is the image of God and that the knowledge of God's glory is given in the face of Jesus Christ.
+- Connects Paul's reference to the creation of light with God's shining in the heart, without confusing that comparison with the separate Genesis image-and-likeness account.
+- Brings Genesis 1:26–28, Hebrews 1:2–3, 2 Peter 1:4, Galatians 4:5–7, Romans 8:16–17, and John 17:20–23 into a cumulative argument while acknowledging their distinct wording and contexts.
+- Retains the Aletheia source's interpretation of coming short of glory as deviation from true nature.
+- Connects Romans 3:23–24 with justification and redemption rather than stopping at the diagnosis of sin.
+- Preserves the leaflet's *apolutrōsis* and *dikaiosynē* formulations while distinguishing the source's wording from the book's wider doctrinal conclusion.
+- States the relationship between Christ's person and work memorably: “Christ's work restores what Christ's person reveals.”
+- Retains the present-tense significance of 2 Corinthians 5:21, 1 John 4:17, and John 17:22–23, while acknowledging that the believer's experience is not described as wholly complete.
+- Concludes with a clear handoff from Book I's *hypostasis* foundation to Book II's *elenchos* / evidence inquiry.
+- Includes a reflection question that asks the reader to distinguish explicit scriptural statements from the book's doctrinal synthesis.
+
+## 3. Findings requiring attention
+
+### Primary gap — develop the immediate context of 2 Corinthians 4:1–6 more fully
+
+The chapter quotes and explains the six verses, but the movement from verses 1–2 to verses 3–4 could be more explicit. Paul moves from the character of the ministry and the refusal to handle God's word deceitfully to the gospel being veiled to those who are perishing, the blinding of unbelieving minds, and the shining of the gospel's light. The chapter should explain this contrast as Paul's argument, not merely as a sequence of observations.
+
+Also retain the distinction between Paul's “we” / ministry language in verses 1–2 and the “our gospel” and “our hearts” language in verses 3–6. Do not make the statement about God's shining in hearts a context-free generalization. The chapter's Design synthesis may extend beyond Paul's immediate wording, but the steps must be visible.
+
+### Primary refinement — qualify the scope of restoration language
+
+The chapter states that “through His redemptive work humanity is restored to it” and that justification and redemption restore humanity to its designed state. These are central to the book's doctrinal synthesis and should not be removed or weakened. However, the final wording should distinguish the redemptive accomplishment and provision in Christ from the believer's reception, participation, and lived experience of that restoration.
+
+The chapter already acknowledges that not every aspect of experience is complete. Make that qualification govern the surrounding language consistently, so that “humanity is restored” cannot be read as asserting that every human being has already personally received and experienced the full reality being described. Preserve the universal scope of the diagnosis in Romans 3:23 and the sufficiency of Christ's accomplishment, while being precise about what the cited passages say concerning those who believe, are in Christ, or participate.
+
+### Secondary refinement — clarify present reality without collapsing the future dimension
+
+The chapter rightly resists postponing identity, righteousness, love, and oneness entirely to the future. It also acknowledges John 17's “made perfect in one” and Romans 8's suffering and shared glory. During amendment, make the distinction between present gift/status, present participation and expression, and future completion easier for the reader to follow. Do not import an external theological system or dilute the source's present-tense emphasis.
+
+### Secondary refinement — make the conclusion's cumulative logic more explicit
+
+The sentence “Christ's work restores what Christ's person reveals” is a strong synthesis. It should remain. The final chapter should briefly show the reasoning that supports it:
+- Christ is declared to be the image of God (2 Corinthians 4:4).
+- The knowledge of God's glory is given in His face (2 Corinthians 4:6).
+- The Aletheia source connects humanity's coming short of glory with deviation from true nature.
+- Romans 3:23–24 connects sin and coming short with justification and redemption in Christ.
+- The wider passages develop the believer's identity and participation in Christ.
+
+Keep this as a cumulative doctrinal conclusion, not a claim that 2 Corinthians 4:4–6 itself explicitly states the whole restoration doctrine.
+
+### Whole-book coordination — reduce repeated chapter summaries
+
+The section “The image revealed in Christ and humanity's design” recapitulates nearly the entire book. A concluding synthesis is necessary, but the current chapter repeats several formulations already used in Chapters 6–9. During reconciliation, decide which concise summary is needed here and which repeated explanations can be shortened. Chapter 10 should feel like the culmination of the argument, not a second full introduction to every earlier chapter.
+
+### Whole-book coordination — align the final glory and representation language
+
+Chapter 10 draws together Romans 3:23–24, 1 Corinthians 11:7 (via the earlier chapter), John 17, Hebrews 1, and 2 Corinthians 4. Ensure the final synthesis respects the distinct contexts and assigned responsibilities of Chapters 3, 6, and 9. Keep 2 Corinthians 4:1–6 as Chapter 10's controlling passage; do not let the chapter become a second exposition of John 17 or Romans 3.
+
+### Pedagogy — make the final questions test the whole argument
+
+The seven questions are relevant. The later pedagogy review should ensure the final question sequence moves from Paul's ministry and image language, through the knowledge of glory, to the relationship between coming short, redemption, and restoration. Retain the question distinguishing explicit Scripture from doctrinal synthesis. Add or adapt a final question that asks the reader to explain how Book I's *hypostasis* foundation prepares for Book II's *elenchos* inquiry.
+
+### Book I / Book II handoff — preserve the distinction and dependency
+
+The conclusion correctly identifies Book I with the foundation expressed through *hypostasis* and Book II with the evidence dimension expressed through *elenchos*. Preserve this distinction. Book II must proceed from the foundation established in Book I, not replace it, reopen the Book I argument, or detach the two clauses of Hebrews 11:1 from one another.
+
+## 4. Controlled amendment direction
+
+**Targeted strengthening only.** Preserve the chapter's structure, controlling passage, central synthesis, and Book II handoff. Later amendments should:
+
+1. Develop the flow of 2 Corinthians 4:1–6 more fully, especially the transition from ministry integrity to the veiled gospel, blinded minds, and the shining of light.
+2. Keep the “we” / ministry context and “our hearts” context visible when interpreting verses 1–6.
+3. Clarify the distinction between redemption accomplished/provided in Christ and the reception, participation, and lived expression of restoration, without weakening the book's doctrinal thesis.
+4. Clarify present gift/status, present participation, and future completion without importing an external system or diminishing the source's present-tense emphasis.
+5. Preserve “Christ's work restores what Christ's person reveals” and show its cumulative reasoning.
+6. Reduce repetitive whole-book summaries during reconciliation so the final chapter culminates rather than restarts the argument.
+7. Refine the study questions and include the foundation-to-evidence handoff.
+8. Preserve Book I / Book II continuity: *hypostasis* foundation and *elenchos* evidence remain distinct but inseparable dimensions of Hebrews 11:1.
+
+No structural redesign, new chapter, or wholesale rewrite is indicated. No amendment is authorized before whole-book reconciliation.
+
+## 5. Coverage matrix
+
+| Responsibility | Current assessment | Direction |
+|---|---|---|
+| 2 Corinthians 4:1–2 ministry / truth | Present | Deepen link to vv3–4 |
+| 2 Corinthians 4:3–4 gospel / image of God | Present | Preserve and develop immediate flow |
+| 2 Corinthians 4:5–6 light / knowledge / glory | Strong | Preserve heart/ministry context |
+| Genesis / Hebrews image connections | Present | Keep cumulative and context-specific |
+| Romans 3:23–24 glory / justification / redemption | Present | Clarify restoration scope |
+| Representation and redemption | Strong central synthesis | Preserve and make reasoning explicit |
+| Present reality | Present with qualification | Distinguish status, participation, completion |
+| Whole-book culmination | Clear but repetitive | Condense during reconciliation |
+| Study questions | Relevant | Include Book I / Book II progression |
+| Book II handoff | Clear | Preserve *hypostasis* / *elenchos* distinction |
+
+## 6. Chapter 10 decision
+
+**Targeted strengthening only.** The chapter is a suitable conclusion to Book I and has the correct controlling passage and central synthesis. Its main work is to deepen the contextual flow of 2 Corinthians 4:1–6, qualify the scope of restoration consistently, clarify present participation and future completion, and reduce repeated summaries during whole-book reconciliation. The *hypostasis* foundation to *elenchos* evidence handoff is clear and should be preserved. No structural redesign or wholesale rewrite is indicated. No amendment is authorized before whole-book reconciliation.
+
+---
+
 # Chapters 3–10 — Assessment queue
 
 Each chapter will be assessed and recorded here using the same framework as Chapters 1 and 2. No chapter amendments are to begin until all ten assessments are complete and the whole-book reconciliation has been recorded.
@@ -1070,7 +1175,7 @@ Each chapter will be assessed and recorded here using the same framework as Chap
 | 7 | Redemption, Free Justification, and Righteousness | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
 | 8 | The Son, the Heir, and Representation of Design | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
 | 9 | Oneness and Glory: John 17:20–23 | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
-| 10 | The Image in the Face of Jesus Christ | NOT ASSESSED | HOLD |
+| 10 | The Image in the Face of Jesus Christ | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
 
 ---
 
