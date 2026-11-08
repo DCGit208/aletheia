@@ -500,3 +500,37 @@ A further review was made against the integrated ten-chapter manuscript, with pa
 - Commit: a0744ab36fc49ffd0dcea98626f99392e3f47894.
 
 **Stage 4.5 is closed.** This closes the Chapters 9–10 work package only. Stage 4 as a whole remains **IN PROGRESS**; the final whole-book consistency review (Stage 4.6) remains outstanding.
+
+
+## Stage 4.6 — Whole-book consistency review — 2026-11-08
+
+**Disposition: COMPLETE.** The complete ten-chapter canonical manuscript was reviewed as one continuous reader-facing book after completion of the six Stage 4 editing packages.
+
+### Whole-book review performed
+
+- Confirmed the ten chapters appear in the approved sequence, from the Hebrews 11:1 / *hypostasis* foundation through the Aletheia *pistis* teaching, creation and Design, Psalm 82 and John 10, participation in divine nature, coming short of glory, justification and redemption, the Son and heir, oneness in John 17, and the image and glory revealed in Christ in 2 Corinthians 4.
+- Reviewed the book's governing formulations across the preface, introduction, chapters, conclusion, and glossary: “faith is our state by design” and “Jesus represents who we are by Design.” Their relationship remains consistent; representation is not used to displace Christ's redemptive accomplishment, and redemption is not used to erase the representation thesis.
+- Checked the Book I / Book II boundary. Book I establishes the *hypostasis* foundation; Book II, *Faith Is Evidence*, develops the *elenchos* / evidence dimension from that foundation. No chapter reverses the approved division.
+- Checked source attribution and doctrinal distinctions across the book. The 2015 Aletheia leaflet remains the controlling doctrinal source for “Faith toward God”; its statements and glosses remain attributed to it. Scripture wording, lexical evidence, and the book's doctrinal synthesis remain distinguishable. The supplementary Dake introduction does not replace or outrank the leaflet.
+- Reviewed the recurring Greek and Hebrew terms and their presentation, including *hypostasis*, *pistis*, *elenchos*, *dikaioō*, *dikaiosynē*, *apolutrōsis*, *spoudē*, and *’ĕlōhîm*. The transliteration of *’ĕlōhîm* in prose was standardized to match the chapter heading and glossary form.
+- Checked the repeated explanations and cross-chapter hand-offs for unnecessary duplication and sequence errors. The chapter transitions remain aligned with the approved ten-chapter architecture; repeated doctrinal formulations retained where they serve the cumulative argument.
+- Rechecked the reader-facing study questions and chapter endings for the abandoned Hebrews 1:8 inference. Hebrews 1:8 remains in the Son's scriptural portrait; the former question is not reinstated as a required inference or reader exercise.
+- Rechecked the front matter, copyright notice, bibliography, Scripture Reference Guide, and glossary for continuity with the edited chapters. The Scripture Reference Guide remains chapter-based; page references await final typesetting and pagination.
+
+### Consistency corrections made
+
+1. Corrected a cross-reference wording error in the Chapter 9 discussion of Galatians 4:7: the verse says “an heir of God through Christ,” not “through God.”
+2. Standardized two prose occurrences of “Elohim” to the established transliterated form *’ĕlōhîm*, matching Chapter 3 and the glossary.
+
+### Verification
+
+- Ten chapters remain in the approved sequence.
+- The central representation-and-redemption thesis remains intact throughout.
+- The controlling-source hierarchy and distinctions among source wording, Scripture wording, lexical evidence, and doctrinal synthesis remain intact.
+- The Book I / Book II foundation/evidence boundary remains intact.
+- The former Hebrews 1:8 question remains abandoned; the verse itself remains in Hebrews 1's portrait of the Son.
+- No owner/editor workflow labels or production instructions have been introduced into the reader-facing chapters.
+- Canonical manuscript content SHA after the whole-book review: 8a7468f41a1b66a69535c776859fdc5a6b8db235.
+- Consistency-correction commit: 13f6a93d78ce14c17105840e04fb31bc5d5258cb.
+
+**Stage 4.6 is closed. Stage 4 — Professional literary editing — is COMPLETE.** This closes literary editing only. Publication apparatus review, typesetting, designed-page proofing, publication testing, and author approval remain separate stages and must not be represented as complete.
