@@ -1432,3 +1432,71 @@ All ten chapter assessments and whole-book reconciliation are complete. Chapter 
 # Amendment and verification log — pending
 
 No chapter amendments are authorized until the whole-book reconciliation is complete. Once authorized, record each amendment with: chapter and section, issue addressed, exact approved direction, change made, and verification result.
+
+
+---
+
+# Publication-level reassessment — reader-facing doctrine and literary authority
+
+**Status:** ACTIVE CONTROL FOR ALL TEN CHAPTERS  
+**Purpose:** Supersedes the earlier assumption that the developmental register's targeted-strengthening notes were sufficient to authorize prose amendments.
+
+The earlier chapter assessments concentrated on doctrinal coverage, source fidelity, lexical distinctions, dependencies, and transitions. They did not adequately assess whether the actual prose reads as a finished doctrinal book. That omission is corrected here.
+
+## Publication standard governing every chapter
+
+Each chapter must be assessed and rewritten, where necessary, against all of the following:
+
+1. **Doctrinal fidelity:** Preserve the author's established doctrinal direction, exact controlling source teachings, terminology, and central formulations. Do not substitute generic theological positions or introduce an unrelated doctrinal debate.
+2. **Scriptural establishment:** Let Scripture establish and develop the teaching. Read passages in their immediate literary, grammatical, historical, and subject context; compare related passages; and show the reasoning by which they contribute to the doctrine.
+3. **Faithful interpretation:** Follow the supplied Bible Introduction's stated method: take Scripture literally where possible; recognize figurative language where the text requires it; seek the truth conveyed; apply ordinary grammatical and contextual reasoning; and establish teaching from the actual wording of related passages rather than personal theories or novel interpretations.
+4. **Authoritative exposition:** Write as a teacher expounding the doctrine to the reader. Do not write as an editor reporting what the source says, explaining the manuscript's research process, defending the author's thesis against objections the author did not raise, or narrating how the chapters were assembled.
+5. **Reader-facing introduction:** Open with the actual doctrinal and scriptural subject. Establish why the passage matters and lead directly into the chapter's teaching. Do not begin with administrative descriptions of the book, a catalogue of research tasks, or a generic discussion unrelated to the chapter's assigned doctrine.
+6. **Relevant argument:** Every paragraph must advance the chapter's assigned doctrine, explain a necessary Scripture passage, establish a needed connection, or carry the reader through the argument. Remove generic theological commentary, fashionable but irrelevant contrasts, speculative asides, and defensive caveats that do not serve that work.
+7. **Proportionate scholarly detail:** Retain Greek and Hebrew study where it materially clarifies the text. Distinguish lexical range from contextual meaning, but do not let lexical debate overwhelm the doctrine. Place extended technical proof and bibliographic detail in notes or references where appropriate.
+8. **Natural source integration:** Preserve the Aletheia source's teachings fully and accurately. Do not repeatedly tell readers that a leaflet or source document contains a statement. Integrate the teaching into the exposition; use a concise attribution only where the reader genuinely needs it.
+9. **No editorial self-consciousness:** Remove recurring phrases such as “this book develops,” “the chapter examines,” “the source does not say,” “the following chapters will,” “the argument is cumulative,” and similar process commentary wherever they interrupt the teaching. A natural opening, transition, or brief orientation may remain when it genuinely helps.
+10. **No defensive dilution:** Do not repeatedly qualify, distance, or apologize for the author's established doctrinal conclusions. Preserve necessary distinctions and honest interpretive limits, but express the doctrinal position positively and establish it through Scripture.
+11. **No imported generic agenda:** Do not add corrective sermons, disclaimers, or pastoral generalities merely because they are common in generic Christian writing. For example, a discussion of Hebrews 11:13 must not be turned into an unrelated warning about private wishes or guaranteed outcomes unless that point is necessary to the author's actual argument.
+12. **Argumentative progression:** The chapter must have a clear progression from its opening question or text, through explanation and scriptural proof, to the doctrinal conclusion. Avoid circular restatement, repeated chapter summaries, and disconnected lists of references.
+13. **Accessible depth:** Use clear, natural, substantial prose. Explain difficult terms and relationships without turning every paragraph into technical commentary. Do not simplify the doctrine into slogans or inflate the chapter with padding.
+14. **Reader pedagogy:** Reflection questions must test understanding of the doctrine and Scripture, invite careful reading, and deepen the reader's grasp. They must not make the reader perform internal editorial provenance checks.
+15. **Publication finish:** Titles, subheadings, transitions, quotations, terminology, and conclusions must feel intentional and finished. No editorial labels, proofing instructions, research notes, internal architecture summaries, or production language may remain in the reader-facing chapter.
+
+## Required chapter-by-chapter workflow
+
+For each chapter, in order:
+
+1. Re-read the chapter in full against the controlling Aletheia source, the owner's notes and guides, the Bible Introduction, the chapter's assigned responsibility, and the actual surrounding chapters.
+2. Record a publication-level diagnosis: opening, doctrinal focus, source integration, Scripture use, argument progression, irrelevant material, editorial voice, repetition, accessibility, pedagogy, and conclusion.
+3. Identify all necessary corrections—not merely the defects previously listed in the developmental register.
+4. Rewrite the complete chapter as finished reader-facing prose, preserving sound doctrinal content and all necessary source/scriptural coverage.
+5. Check every significant claim against its source and Scripture context; mark any remaining verification requirement rather than inventing certainty.
+6. Read the revised chapter as a continuous chapter, not as a collection of individually polished paragraphs.
+7. Commit the chapter and its assessment only after the rewrite is complete.
+8. Verify the committed text and chapter boundary. Do not begin the next chapter until the current chapter has been completed and presented for the author's review.
+
+The ten-chapter order and approved architecture remain in force. No chapter is to be skipped, merged, or restructured without a demonstrated reason and the author's decision.
+
+## Chapter 1 — publication-level reassessment and rewrite
+
+**Prior assessment:** Inadequate for publication authorization. It focused on the *hypostasis* / *pistis* bridge and lexical qualifications but missed the chapter's failure to function as a compelling opening exposition.
+
+**Publication diagnosis:**
+
+- **Opening defect:** The former opening began with a generic question about obtaining a desired result and moved directly to Hebrews 11:1. It failed to establish why faith belongs among the first principles of Hebrews 6:1 and how the call to maturity in Hebrews 5:11–6:3 frames the doctrine. The rewritten chapter now opens with Hebrews 5:11–14 and 6:1–3 before proceeding to Hebrews 11:1.
+- **Manuscript voice:** The former prose repeatedly explained what the leaflet did not say, how the book connected sources, and which conclusions were editorial synthesis. These controls are retained in this register, not repeated as reader-facing disclaimers.
+- **Irrelevant generic commentary:** The former Hebrews 11:13 paragraph turned the mention of those who died in faith into a generalized warning about guaranteed outcomes. That excursus did not advance the chapter's assigned doctrinal foundation and has been removed.
+- **Defensive treatment of assurance:** The former extended “substance versus assurance” debate gave disproportionate space to a generic interpretive debate and introduced language about shallow optimism. The revised chapter acknowledges the contextual confidence/assurance use of *hypostasis* without allowing that discussion to displace the author's substance foundation.
+- **Lexical material:** The word's range, Hebrews 3:14, Hebrews 1:3, and the distinction from *hyparxis* in Hebrews 10:34 are retained, but the discussion now serves the exposition rather than dominating it.
+- **Christological connection:** Hebrews 1:1–3 is now introduced in its immediate movement, including the Son's appointment as heir, creation, glory, express image, sustaining word, and purging of sins. Representation and redemption are explicitly held together.
+- **Aletheia integration:** The exact 2015 statement on *pistis*, credence, the state of God's children, acceptance, true nature, and espousal/adoption is integrated into the exposition. Galatians 4:4–7, Romans 8:14–17, and Ephesians 1:3–5 develop the sonship relationship.
+- **Wider Scripture:** Genesis 1:26–28, 2 Peter 1:2–8, Psalm 82:1–8, John 10:30–39, Romans 3:23–24, 1 Corinthians 11:7, Matthew 3:17, Hebrews 11:2, 5–6, and Mark 11:20–25 remain connected to the chapter's foundational teaching, with fuller exposition assigned to their designated chapters.
+- **Conclusion and pedagogy:** The ending now states the foundation directly and provides doctrinal reflection questions rather than editorial classification questions or a repeated architecture report.
+
+**Amendment status:** AMENDED — AUTHOR REVIEW REQUIRED  
+**Verification:** The committed Chapter 1 text begins with Hebrews 5:11–6:3; preserves the Hebrews 11:1 foundation, the source's *pistis* teaching, the Design thesis, Mark 11:22, and the Book II boundary; preserves the Chapter 2 boundary; and removes the identified editorial and generic Hebrews 11:13 language.
+
+**Commit:** `14510d636ddf692e16886aa95e297f69588a62ea`
+
+**Hold point:** Chapter 2 reassessment and rewriting have not begun. Chapter 1 is presented for the author's review before proceeding.
