@@ -402,3 +402,32 @@ A further review was made against the integrated ten-chapter manuscript, with pa
 - Commit: `4b9dbe8c9ac361eb5a91d0923414e66e09a9a50a`.
 
 **Stage 4.2 is closed.** This closes the Chapters 3–4 work package only. Stage 4 as a whole remains **IN PROGRESS**; Chapters 5–10 and the final whole-book consistency review remain outstanding.
+
+
+## Stage 4.3 — Chapters 5–6 line and copy edit — 2026-11-08
+
+**Disposition: COMPLETE.** Chapters 5 and 6 have received a focused sentence-level and paragraph-level literary edit in canonical manuscript 14 on the production branch.
+
+### Work completed
+
+- Refined Chapter 5's transition from the creation and judgment material into 2 Peter 1:2–8, reducing repeated framing and clarifying the passage's sequence.
+- Tightened the exposition of knowledge, divine power, the call to glory and virtue, the promises, participation in divine nature, and escape from corruption.
+- Improved the treatment of the source's “back on course” formulation and its relationship to Psalm 82:5, Romans 3:23–24, and *dikaiosynē*, while retaining the distinction between the source's explanation and an exhaustive lexical definition.
+- Consolidated the discussion of 2 Peter 1:5–8 while preserving the full order of qualities and the distinction between σπουδή (*spoudē*) and the related verb σπουδάζω (*spoudazō*).
+- Refined Chapter 6's transition into the question “Why did Jesus come?” and clarified the sequence from creation and true nature to coming short of glory, free justification, and redemption in Christ.
+- Tightened the discussions of 1 Corinthians 11:7 and 15:41, retaining their distinct contexts and contributions.
+- Improved the exposition of Romans 3:21–26 and the supporting redemption passages in Ephesians 1:7 and Colossians 1:13–14.
+- Strengthened the conclusion holding Christ's representation and redemptive accomplishment together; reduced repeated explanations and improved sentence rhythm, paragraph flow, and transitions.
+
+### Verification
+
+- Chapters 5 and 6 remain present in the canonical manuscript and in the approved sequence.
+- Chapter 5 retains six study questions; Chapter 6 retains eight study and argument questions.
+- The source's “back on course” and “deviation from true nature” formulations remain present.
+- The complete movement of 2 Peter 1:2–8, Romans 3:21–26, and the contextual qualifications concerning 1 Corinthians 11 and 15 remain represented.
+- The thesis that Jesus represents who we are by Design remains joined to His redemptive accomplishment.
+- No author-workflow language or production transition labels were introduced.
+- Canonical manuscript content SHA after this edit: `00af803a39054de822d6d965e626a902cdf7974a`.
+- Commit: `4e7129ecfbff63b6fe35ec3081502fd877024749`.
+
+**Stage 4.3 is closed.** This closes the Chapters 5–6 work package only. Stage 4 as a whole remains **IN PROGRESS**; Chapters 7–10 and the final whole-book consistency review remain outstanding.
