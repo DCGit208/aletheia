@@ -351,3 +351,28 @@ A further review was made against the integrated ten-chapter manuscript, with pa
 ### Stage 4 disposition
 
 **Stage 4 remains IN PROGRESS.** These are verified second-pass corrections, not grounds to certify the full professional literary edit as complete. The remaining work is a complete sentence-by-sentence line/copy edit of all ten chapters, including a final terminology and transliteration sweep, punctuation and quotation integration, paragraph rhythm, repetition across distant chapters, and a final reconciliation of the editorial decisions register. No publication-readiness claim is made.
+
+
+## Stage 4.1 — Chapters 1–2 line and copy edit — 2026-11-08
+
+**Disposition: COMPLETE.** Chapters 1 and 2 have received a focused sentence-level and paragraph-level literary edit in the canonical publication manuscript (document 14) on the production branch.
+
+### Work completed
+
+- Tightened the opening exposition of Hebrews 11:1 and reduced repeated explanations of the relationship between *hypostasis* and *elenchos* while preserving the distinction between Book I's foundation and Book II's evidence emphasis.
+- Improved the flow and precision of the *hypostasis* discussion, including the presentation of lexical sources and the distinction between lexical range and contextual interpretation. The substance/underlying-reality reading remains the foundation of this volume; the assurance/confidence reading is represented fairly.
+- Reduced repetitive framing language and strengthened transitions between Hebrews 11:1, Hebrews 1:3 and 3:14, and the Aletheia leaflet's explicit *pistis* teaching.
+- Tightened Chapter 2's treatment of credence, acceptance, true nature, Sonship, redemption, adoption, the Spirit's witness, inheritance, and the Father's pleasure. Repeated explanations were consolidated without removing the relevant scriptural sequence or contextual qualifications.
+- Improved sentence rhythm, parallel construction, paragraph openings and endings, and reader-facing clarity in both chapters.
+- Retained the controlling source statement, the settled doctrinal convictions, the distinction between *pistis* and *hypostasis*, and the distinction between explicit source teaching, biblical wording, and doctrinal synthesis.
+
+### Verification
+
+- Chapters 1 and 2 remain present in the canonical manuscript and in the approved sequence.
+- Chapter 1 retains seven reflection questions; Chapter 2 retains nine reflection and study questions.
+- The controlling Aletheia statement, **“Faith essentially defines our state as children of God,”** remains intact.
+- No author-workflow or owner-instruction language was introduced.
+- Canonical manuscript content SHA after this edit: `ad051d5a95b15527149cf869a62ac8dbd675f6d7`.
+- Commit: `3632768dafcd33402c796322b4799e8e9d508ed6`.
+
+**Stage 4.1 is closed.** This closes the Chapters 1–2 work package only. Stage 4 as a whole remains **IN PROGRESS**; Chapters 3–10 and the final whole-book consistency review remain outstanding.
