@@ -338,6 +338,101 @@ Preserve the exercise's purpose: distinguish Genesis' explicit wording from doct
 
 ---
 
+# Chapter 4 — Assessment
+
+**Chapter:** “Psalm 82 with John 10: ‘Ye Are Gods’ and the Judgment Context”  
+**Assessment status:** **ASSESSMENT COMPLETE — TARGETED STRENGTHENING**  
+**Amendment status:** **NOT STARTED — HOLD UNTIL ALL TEN CHAPTERS ARE ASSESSED**
+
+## 1. Assigned responsibility
+
+Chapter 4 must examine Psalm 82:1–8 as a complete passage, especially the declaration in verse 6 and the judgment in verse 7, and then follow Jesus' appeal to Psalm 82 in John 10:30–38. It must preserve the force of “Ye are gods” without detaching it from the psalm's rebuke, judgment, and appeal to God. It should connect the passage to Chapter 3's creation foundation while retaining the distinction between the explicit wording of each passage, the 2015 Aletheia source's doctrinal use of Psalm 82:6, and the wider doctrinal synthesis. It must not take over Chapter 5's treatment of divine nature, Chapter 6's treatment of Christ's person and work, or Chapter 9's full treatment of John 17 and oneness.
+
+## 2. What the current chapter already accomplishes
+
+- Correctly identifies Psalm 82:6 as part of the 2015 source's teaching on true nature and the state of God's children.
+- Holds Psalm 82:6 and 7 together, refusing both to isolate the declaration from the judgment and to use the judgment to erase the declaration.
+- Reads Psalm 82:1–5 in context: God's judgment among the gods, the charge of unjust judgment and favouritism, the command to defend the poor and vulnerable, and the description of those addressed as walking in darkness.
+- Reads Psalm 82:6–8 as a connected movement: declaration, judgment, and appeal for God to judge the earth.
+- Explains that the designation “gods” does not place those addressed beyond God's authority or accountability.
+- Follows John 10:30–33 from Jesus' statement of oneness and the accusation of blasphemy.
+- Follows John 10:34–36 through Jesus' quotation of Psalm 82:6, His statement that Scripture cannot be broken, and His reference to those “unto whom the word of God came” and to the One sanctified and sent by the Father.
+- Continues through John 10:37–38, including the appeal to the Father's works and the mutual indwelling of the Father and the Son.
+- Distinguishes the explicit content of Psalm 82 and John 10 from the cumulative doctrinal conclusion developed with Genesis 1:26–28, 2 Peter 1:4, and John 17:20–23.
+- Preserves the chapter boundaries by signposting Chapter 5's divine-nature treatment and Chapter 9's full treatment of oneness and glory.
+- Provides study questions that ask the reader to read both passages in context and distinguish explicit statements from doctrinal synthesis.
+
+## 3. Findings requiring attention
+
+### Primary gap — make the interpretive question around “gods” explicit
+
+The chapter explains the psalm's setting and Jesus' use of it, but it does not yet sufficiently prepare readers for the interpretive question raised by the designation “gods” in Psalm 82. Interpreters have understood those addressed in different ways, including as human rulers or judges, heavenly beings, or in relation to Israel.
+
+The later amendment should acknowledge the principal interpretive possibilities in a concise, balanced way. It must not silently present one contested reading as though the wording alone settles the question. Equally, this discussion must not dilute or displace the 2015 Aletheia source's use of Psalm 82:6 in its teaching on true nature and the state of God's children.
+
+Keep five levels distinct:
+1. What Psalm 82 explicitly says in its own literary and judgment setting.
+2. The interpretive question concerning the identity of those addressed as “gods.”
+3. What Jesus explicitly says and does with the passage in John 10.
+4. How the 2015 Aletheia source uses Psalm 82:6 in its doctrinal teaching.
+5. The wider doctrinal conclusion developed by reading these texts with Genesis 1:26–28 and the other assigned passages.
+
+Do not treat the existence of interpretive debate as a reason to evade the source's doctrinal position. The purpose is to make the reasoning transparent and responsible.
+
+### Secondary refinement — deepen Jesus' reasoning in John 10:34–36
+
+The chapter accurately quotes and summarizes Jesus' appeal, but the phrase “unto whom the word of God came” deserves closer attention. Explain its role in Jesus' argument and how it relates to His question concerning the One whom the Father sanctified and sent. Do not claim more than the passage establishes, and do not turn Jesus' argument into a detached dictionary definition of “gods.”
+
+### Secondary refinement — give the judgment dimension its full interpretive weight
+
+The chapter correctly notes that Psalm 82's designation occurs in a rebuke. Preserve and slightly strengthen the point that the injustice in verses 2–5 is not incidental background: the designation in verse 6 appears within a passage holding those addressed accountable to God. The psalm's demand for justice toward the vulnerable is integral to its setting.
+
+### Whole-book coordination — distinguish the contribution of Psalm 82 from Genesis 1
+
+Chapter 3 owns the creation account's image, likeness, blessing, and dominion language. Chapter 4 should show how Psalm 82 contributes a distinct scriptural witness through its own language, judgment scene, and later use by Jesus. Do not simply repeat Chapter 3's treatment of *’ĕlōhîm* or imply that the two passages have identical wording or function.
+
+### Whole-book coordination — do not overstate what John 10 proves
+
+Jesus' quotation of Psalm 82, His affirmation that Scripture cannot be broken, His reference to the One sanctified and sent, and His appeal to the Father's works are explicit in the exchange. The full doctrine of humanity's Design is developed cumulatively across the source and the wider Scripture set; it is not a sentence Jesus explicitly formulates in John 10. Preserve the force of the chapter's doctrinal conclusion while making the steps of synthesis visible.
+
+### Pedagogy — retain the contextual exercise and add interpretive reasoning
+
+The current exercises appropriately ask readers to read Psalm 82:1–8 and John 10:30–38 as complete passages and identify their sequence. After the interpretive discussion is strengthened, ensure that at least one question asks readers to explain the main interpretive possibilities for “gods” and distinguish those readings from Jesus' explicit use of the text and the source's doctrinal application. Do not turn the exercise into an academic debate detached from the book's argument.
+
+## 4. Controlled amendment direction
+
+**Targeted strengthening only.** Preserve the current chapter structure and substantial exposition. Later amendments should:
+
+1. Add a concise and balanced account of the principal interpretations of the identity of the “gods” in Psalm 82, clearly distinguishing interpretive readings from the Aletheia source's doctrinal use.
+2. Deepen the explanation of John 10:34–36, especially “unto whom the word of God came,” without overclaiming.
+3. Strengthen the relationship between the psalm's designation and its judgment/accountability setting.
+4. Clarify the distinct contributions of Genesis 1, Psalm 82, and John 10 to the cumulative Design argument.
+5. Refine the final synthesis and study questions to test contextual and interpretive understanding.
+
+No structural redesign, new chapter, or wholesale rewrite is indicated. No amendment is authorized at this stage.
+
+## 5. Coverage matrix
+
+| Responsibility | Current assessment | Direction |
+|---|---|---|
+| Psalm 82:1–5 judgment setting | Strong and contextual | Preserve; slightly deepen accountability |
+| Psalm 82:6 declaration | Present and attributed to source | Preserve its force |
+| Psalm 82:7–8 judgment and appeal | Present and connected to verse 6 | Preserve |
+| Interpretive identity of “gods” | Not sufficiently addressed | Add balanced interpretive discussion |
+| John 10:30–33 accusation context | Present | Preserve |
+| John 10:34–36 Scripture appeal | Present, summary needs depth | Explain key reasoning, especially “word of God came” |
+| John 10:37–38 works / mutual indwelling | Present | Preserve; do not absorb Chapter 9 |
+| Relationship to Genesis 1:26–28 | Present as cumulative connection | Clarify distinct contributions |
+| Relationship to 2015 source | Accurate | Preserve explicit attribution |
+| Relationship to 2 Peter 1:4 and John 17 | Appropriate signposts | Full treatment in Chapters 5 and 9 |
+| Reader exercise | Contextual and relevant | Add interpretive reasoning |
+
+## 6. Chapter 4 decision
+
+**Targeted strengthening only.** The chapter already handles the two passages responsibly and in context. Its main gap is the absence of a concise discussion of the interpretive question surrounding the identity of the “gods,” followed by a need to deepen Jesus' reasoning in John 10:34–36. The judgment setting and source attribution must remain central. No amendment is authorized at this stage.
+
+---
+
 # Chapters 3–10 — Assessment queue
 
 Each chapter will be assessed and recorded here using the same framework as Chapters 1 and 2. No chapter amendments are to begin until all ten assessments are complete and the whole-book reconciliation has been recorded.
@@ -349,7 +444,7 @@ Each chapter will be assessed and recorded here using the same framework as Chap
 | Chapter | Assigned subject | Assessment status | Amendment status |
 |---|---|---|---|
 | 3 | ’Ĕlōhîm: Image, Likeness, and Human Design | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
-| 4 | Psalm 82 with John 10 | NOT ASSESSED | HOLD |
+| 4 | Psalm 82 with John 10 | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
 | 5 | Partakers of the Divine Nature | NOT ASSESSED | HOLD |
 | 6 | Why Jesus Came: Glory, Deviation, and Representation | NOT ASSESSED | HOLD |
 | 7 | Redemption, Free Justification, and Righteousness | NOT ASSESSED | HOLD |
