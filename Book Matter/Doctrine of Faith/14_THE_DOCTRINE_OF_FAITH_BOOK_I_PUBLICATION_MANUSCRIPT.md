@@ -566,11 +566,11 @@ Read together, Psalm 82 and John 10 hold the declaration and its judgment settin
 # Chapter 5 — True Nature: Partakers of the Divine Nature
 ## From created image to participation in divine nature
 
-The preceding chapters have established several connected parts of the book's argument. Genesis 1:26–28 describes humanity as made in God's image and likeness. The Aletheia source teaches that *pistis* / credence defines the state of God's children and connects that state with true nature and Sonship. Psalm 82:6 names those addressed as “gods” and “children of the most High,” while the surrounding psalm places them under judgment. Jesus' appeal to that writing in John 10 must also remain part of the discussion.
+The preceding chapters have established the creation foundation in Genesis 1:26–28, the Aletheia teaching that *pistis*—credence—defines the state of God's children, and the relationship of true nature to Sonship. They have also considered Psalm 82:6–7 in its judgment setting and Jesus' appeal to that writing in John 10. Chapter 5 now follows the source's next step in the true-nature argument.
 
-The next passage in the source's true-nature argument is 2 Peter 1:2–8. Its central statement is that believers may become “partakers of the divine nature.” Peter does not leave this statement by itself. He sets it within a sequence: knowledge of God and Jesus Christ, divine power, the gift of what pertains to life and godliness, the call to glory and virtue, precious promises, participation in divine nature, escape from corruption, diligence, and the qualities that must abound.
+The next passage in the source's true-nature argument is 2 Peter 1:2–8. Its central declaration is that believers may become “partakers of the divine nature.” Peter places this declaration within a larger sequence: knowledge of God and Jesus Christ; divine power and its provision for life and godliness; the call to glory and virtue; precious promises; escape from corruption; and the diligence and qualities that must abound.
 
-The discussion follows that movement. Participation in divine nature is neither an isolated phrase nor a substitute for the rest of Peter's instruction. The promises, the escape from corruption, and the qualities of verses 5–8 belong to the same passage.
+Participation in divine nature must therefore be read within Peter's full movement. The promises, escape from corruption, and qualities named in verses 5–8 are not optional additions; they belong to the same passage.
 
 ## Knowledge, divine power, and the call
 
@@ -580,11 +580,11 @@ Peter begins:
 >
 > According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue.” — 2 Peter 1:2–3, KJV
 
-Grace and peace are spoken of in relation to knowledge: the knowledge of God and of Jesus our Lord. Peter then identifies the source of what has been given. It is God's divine power that has given all things pertaining to life and godliness. He also identifies the call: God has called us to glory and virtue.
+Peter connects multiplied grace and peace with the knowledge of God and of Jesus our Lord. He then identifies the source of the provision: God's divine power has given all things pertaining to life and godliness. The call, too, is specific—God has called us to glory and virtue.
 
-The sequence matters. Peter does not begin with human ability as the source of life and godliness. He begins with what God's divine power has given. Nor does he describe the call as directionless. It is a call to glory and virtue, and it is received through the knowledge of the One who calls.
+Peter begins not with human ability but with what divine power has given. His call is equally definite: it is a call to glory and virtue, received through the knowledge of the One who calls.
 
-Knowledge therefore has an important place in the passage. It is not presented as the accumulation of disconnected information. It is knowledge of God and of Jesus our Lord, and Peter connects it with multiplied grace and peace and with the divine provision for life and godliness.
+Knowledge is central to the passage, but it is not the accumulation of disconnected information. Peter speaks of knowing God and Jesus our Lord, and connects that knowledge with grace and peace and the divine provision for life and godliness.
 
 ## The promises and participation in divine nature
 
@@ -592,29 +592,29 @@ Peter continues:
 
 > “Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.” — 2 Peter 1:4, KJV
 
-The verse joins three elements:
+The verse holds three elements together:
 
 1. **The promises:** exceeding great and precious promises are given.
-2. **Participation:** through these promises, believers may be partakers of the divine nature.
-3. **Escape:** the same statement speaks of having escaped the corruption that is in the world through lust.
+2. **Participation:** through these promises, believers may become partakers of the divine nature.
+3. **Escape:** believers have escaped the corruption that is in the world through lust.
 
-These elements must remain together. Participation in divine nature is related to the promises God has given, and Peter places it alongside escape from the world's corruption through lust. The verse does not present participation as an abstract title detached from the life from which believers have escaped.
+Participation is related to the promises God has given and is placed alongside escape from corruption. Peter does not present it as an abstract title detached from the life from which believers have escaped.
 
-The Aletheia source places this promise within its teaching on man's true nature from creation. It connects the design described in Genesis with Peter's statement about participation in divine nature. Genesis 1:26–28 explicitly says that humanity was made in God's image and likeness; 2 Peter 1:4 explicitly speaks of becoming partakers of divine nature through the promises. The passages do not use identical wording. Their relationship is the source's doctrinal connection, developed across the Scripture argument.
+The Aletheia source places this promise within its teaching on humanity's true nature from creation, connecting the design described in Genesis with Peter's statement about participation in divine nature. Genesis 1:26–28 says that humanity was made in God's image and likeness; 2 Peter 1:4 speaks of becoming partakers of divine nature through the promises. The passages use different wording, and their relationship is the source's doctrinal connection developed across the Scripture argument.
 
-This connection gives substance to the book's treatment of true nature. Humanity's creation in God's image and likeness is not treated as an unrelated beginning, while participation in divine nature is not treated as a disconnected promise. The source reads them together: the true nature associated with creation is brought into the argument about what God gives through His promises.
+This connection gives substance to the book's treatment of true nature. The source does not separate humanity's creation in God's image and likeness from Peter's promise of participation in divine nature. It reads them together in its account of what God gives through His promises.
 
 ## Corruption, deviation, and being brought back on course
 
-The end of 2 Peter 1:4 must be read with its beginning. Peter speaks of participation in divine nature and of escape from “the corruption that is in the world through lust.” The verse therefore places divine participation and escape from corruption in the same statement.
+Peter's statement about participation in divine nature must be read together with its conclusion: escape from “the corruption that is in the world through lust.” Divine participation and escape from corruption belong to the same sentence.
 
-The Aletheia source connects this argument with Psalm 82:5, where the foundations of the earth are described as “out of course,” and with Romans 3:23–24, which speaks of humanity coming short of the glory of God and being justified freely through the redemption in Christ Jesus. In the source's conceptual language, sin is a deviation from true nature, and the restoration argument is described as being brought “back on course.”
+The Aletheia source connects this argument with Psalm 82:5, which describes the foundations of the earth as “out of course,” and Romans 3:23–24, which speaks of coming short of God's glory and of free justification through redemption in Christ Jesus. In the source's conceptual language, sin is a deviation from true nature, and restoration is described as being brought “back on course.”
 
-The source also explains *dikaiosynē* (δικαιοσύνη) through equity: impartiality to and conformity with the nature of God, followed by the wording “original: back on course.” That formulation is retained as the Aletheia source's explanation. It is not presented here as an exhaustive dictionary definition of the Greek noun. Chapter 7 develops the source's treatment of righteousness and justification in detail.
+The source also explains *dikaiosynē* (δικαιοσύνη) through equity—impartiality to and conformity with the nature of God—and adds the wording “original: back on course.” This is retained as the Aletheia source's explanation, not offered as an exhaustive dictionary definition of the Greek noun. Chapter 7 examines the source's treatment of righteousness and justification in detail.
 
-The relationship can now be followed. Psalm 82:5 describes foundations out of course. Romans 3:23–24 speaks of coming short of God's glory and of justification through redemption in Christ. Second Peter 1:4 speaks of participation in divine nature and escape from corruption. The source's “back on course” formulation brings these elements into a single conceptual line: the restoration argument concerns a return to the true nature associated with God's design.
+The connection is cumulative. Psalm 82:5 describes foundations out of course; Romans 3:23–24 speaks of coming short of God's glory and justification through redemption in Christ; 2 Peter 1:4 speaks of participation in divine nature and escape from corruption. The source's “back on course” formulation brings these statements into one conceptual line: restoration concerns a return to the true nature associated with God's design.
 
-This is a doctrinal synthesis across the passages, not a claim that one Greek word independently proves every part of the restoration thesis. Each text contributes its own statement, and the source's interpretation connects them.
+This is a doctrinal synthesis across the passages. No single Greek word is made to prove the entire restoration thesis; each text contributes its own statement, and the source's interpretation connects them.
 
 ## Participation does not end at verse 4
 
@@ -628,37 +628,27 @@ Peter continues immediately:
 >
 > For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ.” — 2 Peter 1:5–8, KJV
 
-The passage now names the qualities that are to accompany faith:
+Peter names the qualities to accompany faith: virtue, knowledge, temperance, patience, godliness, brotherly kindness, and charity. He introduces the sequence with the call to give “all diligence.” The Greek noun in verse 5 is σπουδή (*spoudē*), not the related verb σπουδάζω (*spoudazō*). The distinction matters: the text uses the noun here.
 
-- virtue;
-- knowledge;
-- temperance;
-- patience;
-- godliness;
-- brotherly kindness;
-- charity.
+Peter's order is deliberate: faith, virtue, knowledge, temperance, patience, godliness, brotherly kindness, and charity. When these qualities are present and abound, he says, they prevent barrenness and unfruitfulness in the knowledge of our Lord Jesus Christ.
 
-Peter introduces this sequence with the call to give “all diligence.” The Greek noun in verse 5 is σπουδή (*spoudē*). It is a noun in this verse and should not be replaced with the related verb σπουδάζω (*spoudazō*) simply because both words concern earnestness or diligence.
+The qualities are not a detachable list. Peter connects them to divine provision and participation: those who have received the promises are called to diligence, and the qualities are to be present and increasing. Verse 4 cannot be taught while verses 5–8 are ignored.
 
-The order of Peter's instruction should be preserved. He begins with faith and says to add virtue; to virtue, knowledge; to knowledge, temperance; to temperance, patience; to patience, godliness; to godliness, brotherly kindness; and to brotherly kindness, charity. He then explains the consequence when these qualities are present and abound: they prevent barrenness and unfruitfulness in the knowledge of our Lord Jesus Christ.
+Nor should the sequence reverse Peter's opening emphasis. He begins with what divine power has given and what the promises make possible. The qualities are not a human attempt to manufacture divine nature apart from God's provision; they are the diligent and fruitful expression Peter calls for.
 
-This is not a detachable list of virtues. Peter connects the qualities to the preceding statement about divine provision and participation. The person who has received the promises is instructed to give diligence, and the qualities are to be present and increasing. The passage does not permit verse 4 to be quoted while verses 5–8 are ignored.
-
-At the same time, the sequence must not be made to reverse Peter's opening emphasis. He begins by declaring what God's divine power has given and what the promises make possible. The qualities are not presented as a human attempt to manufacture divine nature independently of God's provision. They are the diligent and fruitful expression Peter calls for in the same passage.
-
-The conclusion is explicitly relational: fruitfulness occurs “in the knowledge of our Lord Jesus Christ.” The passage begins with knowledge of God and Jesus our Lord (verses 2–3) and returns to knowledge of the Lord Jesus Christ in verse 8. Knowledge frames the movement from divine provision and promise to participation, diligence, and fruitfulness.
+Peter's conclusion is relational: fruitfulness occurs “in the knowledge of our Lord Jesus Christ.” The passage begins with knowledge of God and Jesus our Lord (verses 2–3) and returns to knowledge of Christ in verse 8. Knowledge frames the movement from divine provision and promise to participation, diligence, and fruitfulness.
 
 ## True nature within the argument of Book I
 
-The Aletheia source's true-nature teaching is developed through the relationship between creation, participation, corruption, and restoration. Genesis 1:26–28 supplies the image-and-likeness foundation. Second Peter 1:2–4 speaks of divine provision, precious promises, participation in divine nature, and escape from corruption. Verses 5–8 describe the diligence and qualities that are to abound in the knowledge of Christ.
+The Aletheia source develops true nature through the relationship between creation, participation, corruption, and restoration. Genesis 1:26–28 supplies the image-and-likeness foundation. Second Peter 1:2–4 speaks of divine provision, precious promises, participation in divine nature, and escape from corruption; verses 5–8 describe the diligence and qualities that are to abound in the knowledge of Christ.
 
-The source's “back on course” formulation connects this passage with Psalm 82:5 and Romans 3:23–24. It gives language to the movement from what is out of course and what has fallen short of glory to the restoration argument developed through righteousness and redemption in Christ. Chapter 7 will examine that teaching directly; this chapter establishes the place of 2 Peter 1:2–8 within it.
+The source's “back on course” formulation connects 2 Peter 1:2–8 with Psalm 82:5 and Romans 3:23–24. It links what is out of course and what has fallen short of glory with the restoration developed through righteousness and redemption in Christ. Chapter 7 examines that teaching directly; this chapter establishes Peter's place in the argument.
 
-Participation in divine nature belongs to humanity's designed state and to the restoration accomplished through Christ. This conclusion is developed from the source's connection between creation and true nature, together with Peter's actual sequence. It is not made to rest on verse 4 alone.
+Participation in divine nature belongs to humanity's designed state and to the restoration accomplished through Christ. This conclusion arises from the source's connection between creation and true nature and from Peter's full sequence, not from verse 4 in isolation.
 
-Nor is divine nature treated as a claim that makes Peter's instructions unnecessary. The same passage that speaks of participation calls for diligence, virtue, knowledge, temperance, patience, godliness, brotherly kindness, and charity. These qualities are to be in the believer and to abound. The chapter therefore holds together what God has given, what the promises make possible, what believers have escaped, and the fruitful life Peter describes.
+Participation in divine nature does not make Peter's instructions unnecessary. The same passage calls for diligence, virtue, knowledge, temperance, patience, godliness, brotherly kindness, and charity, all of which are to be present and abound. The chapter thus holds together God's provision, the promises, escape from corruption, and the fruitful life Peter describes.
 
-The governing argument of Book I remains that **faith is our state by design** and that **Jesus represents who we are by Design**. The present chapter develops one essential part of that argument: the promise of participation in divine nature and the source's account of true nature and restoration. The next chapter will examine why Jesus came and how the glory humanity came short of is connected with His work.
+Book I's governing convictions remain that **faith is our state by design** and **Jesus represents who we are by Design**. This chapter has developed the promise of participation in divine nature and the source's account of true nature and restoration. The next chapter asks why Jesus came and examines humanity's coming short of glory in relation to His work.
 
 ## Study and argument exercise
 
@@ -674,19 +664,19 @@ Peter's account of divine provision, participation in divine nature, escape from
 # Chapter 6 — Why Did Jesus Come? Glory, Deviation, and Representation
 ## The question follows the design
 
-The preceding chapters have established the foundation of faith, the Aletheia teaching that *pistis* / credence defines the state of God's children, humanity's creation in the image and likeness of God, Psalm 82:6–7 with its judgment context, and the promise of participation in divine nature in 2 Peter 1:2–8.
+The preceding chapters have established the foundation of faith, the Aletheia teaching that *pistis*—credence—defines the state of God's children, humanity's creation in God's image and likeness, Psalm 82:6–7 in its judgment context, and Peter's account of participation in divine nature.
 
-The leaflet now asks a direct question: **Why did Jesus come?**
+The Aletheia leaflet now asks a direct question: **Why did Jesus come?**
 
-It places that question immediately after Genesis 1:26–27 and the statement that humanity was made like its Maker. It then cites Romans 3:23–24, interpreting “come short of the glory of God” as “deviation from true nature” and identifying humanity as the image and glory of God through 1 Corinthians 11:7. This order is important. The question about Jesus' coming is placed within the source's argument about humanity's original design and the glory from which humanity has come short.
+The leaflet places the question after Genesis 1:26–27 and its statement that humanity was made like its Maker. It then cites Romans 3:23–24, interpreting “come short of the glory of God” as “deviation from true nature,” and points to 1 Corinthians 11:7 for the description of man as the image and glory of God. The sequence places Jesus' coming within the source's argument about humanity's design and the glory from which humanity has come short.
 
-Three connected matters therefore remain in view:
+The chapter follows three connected matters:
 
-1. **The design:** humanity was made in God's image and likeness.
-2. **The condition:** humanity sinned and came short of the glory of God; the Aletheia source interprets this as deviation from true nature.
-3. **The divine action in Christ:** justification is given freely by grace through redemption in Christ Jesus.
+1. **Design:** humanity was made in God's image and likeness.
+2. **The human condition:** humanity sinned and came short of God's glory; the Aletheia source interprets this as deviation from true nature.
+3. **God's action in Christ:** justification is given freely by grace through redemption in Christ Jesus.
 
-The Aletheia source's interpretation is not an optional hypothesis in this book. Its wording and doctrinal force are preserved. At the same time, accurate exposition distinguishes the biblical wording, the source's explanatory gloss, and the wider doctrinal synthesis developed from the connected passages.
+The Aletheia source's interpretation is retained with its doctrinal force. Accurate exposition also makes clear which wording belongs to Scripture, which is the source's explanatory gloss, and which is the wider synthesis developed from the passages.
 
 ## The creation statement and the glory of humanity
 
@@ -698,22 +688,18 @@ Genesis 1:27 continues:
 
 > “So God created man in his own image, in the image of God created he him; male and female created he them.” — Genesis 1:27, KJV
 
-The Aletheia leaflet places its explanatory wording beside verse 27:
-
-> “So God made man like his Maker.”
-
-It connects this with “Man's True Nature” (2 Peter 1:4) and “the glory he came short of through sin” (Psalm 82:6). The leaflet also supplies the following wording as the Living Bible quotation:
+The Aletheia leaflet places the explanatory wording “So God made man like his Maker” beside verse 27. It connects this statement with “Man's True Nature” (2 Peter 1:4) and “the glory he came short of through sin” (Psalm 82:6). The leaflet also supplies the following Living Bible quotation:
 
 > **Genesis 1:27 (The Living Bible, TLB)**  
 > “So God made man like his Maker.  
 > Like God did God make man;  
 > Man and maid did he make them.”
 
-This quotation is retained as supplied by the source. It is presented alongside, not in place of, the KJV wording. The leaflet separately includes the line “Like God did God make man” with a parenthetical Life Application Bible attribution; that note should not be confused with the full TLB quotation reproduced above.
+This quotation is retained alongside, not in place of, the KJV. The leaflet separately attributes the line “Like God did God make man” to the Life Application Bible; that note is distinct from the full TLB quotation reproduced here.
 
 Genesis 1:26–27 establishes the creation foundation: image and likeness. The passage itself also identifies male and female as included in the humanity God created. The wider creation account continues in verse 28 with God's blessing and commission to be fruitful, multiply, replenish the earth, subdue it, and have dominion. The image statement should not be detached from the creation declaration and commission in which it appears.
 
-The source's connection between this creation account and 2 Peter 1:4 is developed in Chapter 5. Here, the creation passage establishes the design setting for the leaflet's question about why Jesus came.
+Chapter 5 developed the source's connection between this creation account and 2 Peter 1:4. Here, Genesis establishes the design setting for the leaflet's question about why Jesus came.
 
 ## “Come short of the glory”: the source's interpretation
 
@@ -727,9 +713,9 @@ The source places its explanatory gloss directly after “the glory of God”:
 
 That is the Aletheia teaching's interpretation and must be taught as such. The source is not merely repeating the phrase “come short of the glory”; it is explaining that coming short in relation to humanity's true nature, and it directs the reader to 1 Corinthians 11:7.
 
-The two movements in Romans 3:23–24 must also remain together. Verse 23 states that all have sinned and come short of God's glory. Verse 24 immediately speaks of being justified freely by God's grace through the redemption in Christ Jesus. The source's argument does not end with deviation. It moves directly to justification and redemption.
+Romans 3:23–24 must be read as one movement. Verse 23 states that all have sinned and come short of God's glory; verse 24 immediately declares justification freely by grace through the redemption in Christ Jesus. The source's argument does not stop at deviation. It moves directly to justification and redemption.
 
-The phrase “deviation from true nature” is the source's doctrinal gloss on “come short of the glory of God.” The chapter retains that interpretation and develops it through the source's Scripture references. It does not misrepresent the gloss as a word-for-word lexical translation of the Greek phrase. Nor does it dilute the source's teaching by treating the interpretation as merely speculative.
+“Deviation from true nature” is the source's doctrinal gloss on “come short of the glory of God.” This chapter retains and develops that interpretation through the source's Scripture references. It neither presents the gloss as a word-for-word lexical translation of the Greek phrase nor reduces the source's teaching to speculation.
 
 ## Man: the image and glory of God
 
@@ -737,11 +723,11 @@ The leaflet's reference is 1 Corinthians 11:7:
 
 > “For a man indeed ought not to cover his head, forasmuch as he is the image and glory of God: but the woman is the glory of the man.” — 1 Corinthians 11:7, KJV
 
-This statement occurs within Paul's discussion of headship, head coverings, and conduct in the assembly in 1 Corinthians 11:2–16. Verse 7 is part of that argument. Its two clauses must be retained: the man is described as the image and glory of God, and the woman as the glory of the man. The source specifically draws attention to the first clause in relation to Romans 3:23.
+Paul makes this statement within his discussion of headship, head coverings, and conduct in the assembly (1 Corinthians 11:2–16). Verse 7 has two clauses: the man is described as the image and glory of God, and the woman as the glory of the man. The source draws particular attention to the first clause in relation to Romans 3:23.
 
-The Aletheia connection is clear: Romans speaks of coming short of God's glory; 1 Corinthians 11:7 speaks of man as the image and glory of God; Genesis 1:26–27 establishes humanity's creation in God's image and likeness. The source reads these passages together in its teaching that the glory humanity came short of is connected with humanity's true nature and created design.
+The Aletheia connection brings three statements together: Romans speaks of coming short of God's glory; 1 Corinthians 11:7 describes man as the image and glory of God; Genesis 1:26–27 establishes humanity's creation in God's image and likeness. The source reads them together in its teaching that the glory humanity came short of is connected with true nature and created design.
 
-The context of 1 Corinthians 11 should not be erased in order to make this connection. Nor should the source's use of the image-and-glory clause be ignored because the surrounding passage addresses headship and covering. The responsible exposition gives the verse its context and explains the particular clause the leaflet brings into its argument.
+The connection must not erase the context of 1 Corinthians 11, nor should the source's use of the image-and-glory clause be ignored because the surrounding passage addresses headship and covering. The exposition retains the whole setting while explaining the clause the leaflet brings into its argument.
 
 ## The glory language in the resurrection context
 
@@ -749,15 +735,15 @@ The Scripture discussion also includes 1 Corinthians 15:41. This verse belongs t
 
 > “There is one glory of the sun, and another glory of the moon, and another glory of the stars: for one star differeth from another star in glory.” — 1 Corinthians 15:41, KJV
 
-The verse explicitly speaks of differing glories in the created lights. Its immediate function is within Paul's explanation of resurrection and the differing glory of the bodies he describes. It should not be lifted out of that context and made to say, by itself, that humanity is the image and glory of God. That image-and-glory statement is made in 1 Corinthians 11:7.
+The verse speaks explicitly of differing glories among the created lights. Its immediate function is Paul's explanation of resurrection and the differing glory of the bodies he describes. It cannot, by itself, be made to say that humanity is the image and glory of God; that statement appears in 1 Corinthians 11:7.
 
-Why, then, does 1 Corinthians 15:41 belong in the wider Scripture cluster? It contributes Paul's use of “glory” in a passage that develops the resurrection body's transformation and the contrast between what is sown and what is raised. The surrounding argument proceeds from corruption to incorruption, dishonour to glory, weakness to power, and a natural body to a spiritual body (1 Corinthians 15:42–44). Later, Paul contrasts the first man, Adam, with the second man, the Lord from heaven (verses 45–49).
+First Corinthians 15:41 belongs in the wider Scripture cluster because Paul uses “glory” within his account of the resurrection body's transformation. The surrounding argument contrasts corruption with incorruption, dishonour with glory, weakness with power, and the natural body with the spiritual body (1 Corinthians 15:42–44). Paul then contrasts the first man, Adam, with the second man, the Lord from heaven (verses 45–49).
 
 This passage contributes to the book's wider examination of glory, humanity, and Christ. Its context must remain visible: Paul is explaining resurrection and the nature of the body raised. The connection to the design-and-restoration thesis is developed across the Scripture set, not extracted from verse 41 in isolation.
 
 ## Why Jesus came: righteousness manifested and redemption accomplished
 
-Romans 3:21–26 gives the fuller movement behind the leaflet's question. Paul does not begin at verse 23 and stop at verse 24. He first describes the manifestation of God's righteousness, then the universal condition of sin, then justification through redemption, and finally Christ's role in the declaration of God's righteousness.
+Romans 3:21–26 supplies the fuller movement behind the leaflet's question. Paul first describes the manifestation of God's righteousness, then the universal condition of sin, justification through redemption, and Christ's role in the declaration of God's righteousness. Verses 23–24 belong within this complete argument.
 
 ### Righteousness manifested
 
@@ -767,7 +753,7 @@ Romans 3:21–26 gives the fuller movement behind the leaflet's question. Paul d
 
 Paul says that God's righteousness has been manifested apart from the law, while being witnessed by the law and the prophets. He then speaks of the righteousness of God by faith of Jesus Christ unto all and upon all who believe, “for there is no difference.”
 
-The passage sets the discussion within God's manifested righteousness. The universal need addressed in the verses that follow is inseparable from this declaration.
+Paul sets the discussion within God's manifested righteousness. The universal need addressed in the following verses must be read in that light.
 
 ### Sin, coming short, and free justification
 
@@ -775,11 +761,11 @@ The passage sets the discussion within God's manifested righteousness. The unive
 >
 > Being justified freely by his grace through the redemption that is in Christ Jesus.” — Romans 3:23–24, KJV
 
-The statement is universal: all have sinned and come short of God's glory. The next verse announces justification freely by grace through the redemption in Christ Jesus. The Aletheia source interprets the coming short of glory as deviation from true nature and connects the glory with humanity as the image and glory of God.
+Paul's statement is universal: all have sinned and come short of God's glory. Verse 24 then announces justification freely by grace through redemption in Christ Jesus. The Aletheia source interprets this coming short as deviation from true nature and connects the glory with humanity as the image and glory of God.
 
-The word “freely” is essential to the source's question. The leaflet asks, “Has man been justified? Yes! And FREELY!” It then gives the Greek *apolutrōsis* (ἀπολύτρωσις) with the gloss “Redemption; Ransom in full.” The force of the source's declaration is that justification is not presented as a human achievement or a payment made by the recipient. Romans 3:24 says it is freely by grace through redemption in Christ Jesus.
+“Freely” is essential to the source's question. The leaflet asks, “Has man been justified? Yes! And FREELY!” It gives *apolutrōsis* (ἀπολύτρωσις) the gloss “Redemption; Ransom in full.” The declaration emphasizes that justification is not a human achievement or a payment made by the recipient: Romans 3:24 says it is freely by grace through redemption in Christ Jesus.
 
-The full doctrinal development of *dikaioō*, *dikaiosynē*, and *apolutrōsis* belongs to Chapter 7. Here, the terms remain in their place in Paul's argument: justification is freely given by grace, and redemption is in Christ Jesus.
+Chapter 7 develops *dikaioō*, *dikaiosynē*, and *apolutrōsis* in detail. Here, they remain within Paul's argument: justification is freely given by grace, and redemption is in Christ Jesus.
 
 ### Christ, propitiation, and the declaration of God's righteousness
 
@@ -787,7 +773,7 @@ The full doctrinal development of *dikaioō*, *dikaiosynē*, and *apolutrōsis* 
 >
 > To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus.” — Romans 3:25–26, KJV
 
-Paul identifies Christ as the One God set forth as a propitiation through faith in His blood. The purpose stated is the declaration of God's righteousness. The passage concludes by affirming that God is just and the justifier of the one who believes in Jesus.
+Paul identifies Christ as the One God set forth as a propitiation through faith in His blood. This declares God's righteousness. The passage concludes that God is just and the justifier of the one who believes in Jesus.
 
 This completes the movement of Romans 3:21–26:
 
@@ -797,7 +783,7 @@ This completes the movement of Romans 3:21–26:
 - Christ is set forth as propitiation through faith in His blood.
 - God's righteousness is declared, and He is shown to be just and the justifier of the one who believes in Jesus.
 
-Why did Jesus come? In the leaflet's argument, He came in relation to humanity's deviation from true nature and the glory humanity came short of; Romans 3 explains the divine provision of free justification and redemption in Him. The answer must include both the condition and God's action. It must not reduce His coming to a vague moral example or to forgiveness stated without the passage's language of righteousness, blood, propitiation, and redemption.
+Why did Jesus come? In the leaflet's argument, His coming addresses humanity's deviation from true nature and the glory humanity came short of. Romans 3 explains God's provision of free justification and redemption in Him. The answer must include both the human condition and God's action; it cannot reduce His coming to a moral example or to forgiveness detached from righteousness, blood, propitiation, and redemption.
 
 ## Redemption in the wider witness
 
@@ -805,15 +791,15 @@ The wider Scripture framework includes Ephesians 1:7 and Colossians 1:13–14. T
 
 > “In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace.” — Ephesians 1:7, KJV
 
-Ephesians locates redemption in Christ, identifies His blood, names forgiveness of sins, and relates this to the riches of His grace. It contributes explicit language about what believers have in Him.
+Ephesians locates redemption in Christ, identifies His blood and the forgiveness of sins, and relates both to the riches of His grace. It states what believers have in Him.
 
 > “Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son:
 >
 > In whom we have redemption through his blood, even the forgiveness of sins.” — Colossians 1:13–14, KJV
 
-Colossians places redemption within a larger movement: deliverance from the power of darkness and translation into the kingdom of God's dear Son. Verse 14 then identifies redemption through His blood and forgiveness of sins. These clauses should be read together.
+Colossians places redemption within a larger movement: deliverance from the power of darkness and translation into the kingdom of God's dear Son. Verse 14 identifies redemption through His blood and forgiveness of sins. The clauses belong together.
 
-The passages explicitly speak of redemption, blood, forgiveness, deliverance, and translation into the Son's kingdom. The connection between these statements and the source's wider restoration thesis is a synthesis across the passages. Neither Ephesians 1:7 nor Colossians 1:13–14 should be made to state, by itself, every element of the “back on course” formulation.
+These passages explicitly speak of redemption, blood, forgiveness, deliverance, and translation into the Son's kingdom. Their relation to the source's wider restoration thesis is a synthesis across the passages; neither Ephesians 1:7 nor Colossians 1:13–14 independently states every element of the “back on course” formulation.
 
 ## Jesus represents who we are by Design
 
@@ -821,13 +807,13 @@ The governing doctrinal thesis is that **Jesus represents who we are by Design**
 
 Genesis 1:26–27 establishes humanity's creation in God's image and likeness. Second Peter 1:4 speaks of participation in divine nature. Galatians 4:5–7 and Romans 8:15–17 develop adoption, sonship, and heirship. Hebrews 1:2–3 presents the Son as heir of all things and the express image of the Father's person. These passages contribute distinct parts of the cumulative argument: creation, divine nature, sonship, inheritance, and the Son's representation.
 
-The source's question about the glory humanity came short of must be read in this wider design setting. Sin is understood here as falling short of the state for which humanity was designed; justification and redemption restore humanity to that design. This is the doctrinal synthesis developed across the source and the connected Scripture passages.
+The source's question about the glory humanity came short of belongs within this wider design setting. Sin is understood as falling short of the state for which humanity was designed; justification and redemption restore humanity to that design. This is the doctrinal synthesis developed through the source and the connected Scriptures.
 
-Representation does not cancel redemption. Jesus does not merely display an ideal while leaving His redemptive work outside the argument. Nor does redemption erase the significance of what His person reveals about humanity's design. The two belong together:
+Representation does not cancel redemption. Jesus does not merely display an ideal while His redemptive work is set aside; nor does redemption erase what His person reveals about humanity's design. The two belong together:
 
 **Jesus represents who we are by Design, and He accomplished the redemption through which we are restored to that design.**
 
-The source's “back on course” language is part of this restoration argument. Chapter 7 will develop the leaflet's lexical treatment of justification and righteousness and its declaration that redemption is “ransom in full.” This chapter establishes why those terms matter: the question begins with humanity's created nature and the glory from which humanity came short, and it moves to God's free justification and redemption in Christ.
+The source's “back on course” language belongs to this restoration argument. Chapter 7 develops the leaflet's treatment of justification and righteousness and its declaration that redemption is “ransom in full.” This chapter has established why those terms matter: the question begins with humanity's created nature and the glory from which humanity came short, then moves to God's free justification and redemption in Christ.
 
 ## The wider identity witness: love, likeness, and perfection
 
@@ -837,7 +823,7 @@ Jesus says in Matthew 5:48:
 
 > “Be ye therefore perfect, even as your Father which is in heaven is perfect.” — Matthew 5:48, KJV
 
-This command concludes Matthew 5:43–48. Jesus has been teaching His hearers to love their enemies, bless those who curse them, do good to those who hate them, and pray for those who persecute them. He points to the Father's generosity, who makes His sun rise on the evil and the good and sends rain on the just and the unjust. The command to be perfect as the Father is perfect belongs to that teaching about love. The author's doctrinal direction reads it as an affirmation of the Father's nature as the pattern for humanity, without detaching perfection from the love Jesus commands.
+This command concludes Matthew 5:43–48. Jesus has been teaching His hearers to love their enemies, bless those who curse them, do good to those who hate them, and pray for those who persecute them. He points to the Father's generosity, who makes His sun rise on the evil and the good and sends rain on the just and the unjust. The command to be perfect as the Father is perfect belongs to that teaching about love. The doctrinal reading treats this as an affirmation of the Father's nature as the pattern for humanity, without detaching perfection from the love Jesus commands.
 
 First John 4:17 says:
 
@@ -845,13 +831,13 @@ First John 4:17 says:
 
 John's statement “as he is, so are we in this world” is direct and present. Its context is also explicit: love made perfect and boldness in the day of judgment. This statement is considered together with Matthew 5:48 in the identity-and-likeness argument. The connection does not remove either passage from its context. Matthew speaks of the Father's perfection expressed in love, including love of enemies; First John speaks of perfected love and confidence in the day of judgment.
 
-These passages contribute to the wider design thesis: Jesus represents who we are by Design. They do not replace the central argument of Romans 3. The question of why Jesus came still requires the full account of sin, coming short of glory, free justification, propitiation, and redemption.
+These passages contribute to the wider thesis that Jesus represents who we are by Design, but they do not replace the central argument of Romans 3. The question of why Jesus came still requires the full account of sin, coming short of glory, free justification, propitiation, and redemption.
 
 ## The answer held together
 
-The Aletheia source places the question “Why did Jesus come?” immediately after its account of humanity made like its Maker. It interprets coming short of God's glory as deviation from true nature and identifies man as the image and glory of God through 1 Corinthians 11:7. It then points to Romans 3:23–24: justification is free, by grace, through the redemption in Christ Jesus.
+The Aletheia source places “Why did Jesus come?” immediately after its account of humanity made like its Maker. It interprets coming short of God's glory as deviation from true nature, points to 1 Corinthians 11:7's description of man as the image and glory of God, and then turns to Romans 3:23–24: justification is free, by grace, through redemption in Christ Jesus.
 
-The answer in this chapter must not separate what the source joins:
+The answer must preserve the sequence the source joins:
 
 - **Creation:** humanity is made in God's image and likeness (Genesis 1:26–27).
 - **True nature:** the source connects this design with participation in divine nature (2 Peter 1:4).
@@ -860,7 +846,7 @@ The answer in this chapter must not separate what the source joins:
 - **Redemption:** redemption is in Christ Jesus, through His blood (Romans 3:24–26; Ephesians 1:7; Colossians 1:13–14).
 - **Representation:** Jesus represents who humanity is by Design, while His redemptive accomplishment remains essential to restoration.
 
-This is why the chapter cannot answer the question with representation alone or with redemption described without the design from which the argument begins. The person of Christ and His accomplishment belong together. The design explains what is being restored; the redemptive work explains the divine provision in Christ.
+The question cannot be answered with representation alone or with redemption detached from the design from which the argument begins. Christ's person and accomplishment belong together: the design identifies what is being restored, and His redemptive work reveals God's provision in Christ.
 
 ## Study and argument exercise
 
