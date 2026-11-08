@@ -735,6 +735,119 @@ No structural redesign, new chapter, or wholesale rewrite is indicated. No amend
 
 ---
 
+# Chapter 7 — Assessment
+
+**Chapter:** “Δικαιόω (*dikaioō*): Redemption, Free Justification, and Righteousness in Christ”  
+**Assessment status:** **ASSESSMENT COMPLETE — TARGETED STRENGTHENING**  
+**Amendment status:** **NOT STARTED — HOLD UNTIL ALL TEN CHAPTERS ARE ASSESSED**
+
+## 1. Assigned responsibility
+
+Chapter 7 must develop the Aletheia source's teaching on free justification, righteousness, and redemption in Christ. It must preserve and distinguish the source's three key terms and glosses: *dikaioō* (δικαιόω), *dikaiosynē* (δικαιοσύνη), and *apolutrōsis* (ἀπολύτρωσις). It must examine Romans 3:21–28 and 2 Corinthians 5:17–21 in context, preserve the source's emphatic “freely” and “ransom in full” formulations, and explain how the source connects justification and redemption with restoration to humanity's designed state. It must distinguish lexical evidence from the source's interpretation and the book's doctrinal synthesis, while leaving the full Son/heir development to Chapter 8 and the final image/glory synthesis to Chapter 10.
+
+## 2. What the current chapter already accomplishes
+
+- Begins from the source's question about why Jesus came and the preceding chapter's treatment of deviation from true nature.
+- Identifies the three Greek terms and explains that they belong to one doctrinal movement but are not synonyms.
+- Preserves the leaflet's printed gloss for *dikaioō*: “render just or innocent (free from evil or guilt).”
+- Gives the Greek form in Romans 3:24, *dikaioumenoi*, and identifies its grammatical form and passive force in context.
+- Reproduces the supplied Strong's G1344 entry and distinguishes it from Thayer's three definitions.
+- Preserves Thayer's qualification concerning the rarity, or possible doubt, of the “render righteous” sense rather than suppressing that lexical qualification.
+- Reads Romans 3:21–28 as a connected argument, including manifested righteousness, sin, coming short of glory, free justification, redemption, propitiation, the exclusion of boasting, and justification by faith apart from works of the law.
+- Develops the Aletheia interpretation of coming short of glory as deviation from true nature, while identifying it as the source's doctrinal gloss rather than a literal translation.
+- Retains 1 Corinthians 15:41 in its resurrection context and labels the connection between glory and identity as doctrinal inference.
+- Preserves the source's *apolutrōsis* gloss, “Redemption; Ransom in full,” while distinguishing that gloss from the wider doctrinal conclusion of restoration to original Design.
+- Develops 2 Corinthians 5:17–21 through the new creature, reconciliation, the ministry of reconciliation, Christ being made sin, and believers being made the righteousness of God in Him.
+- Preserves the present-tense emphasis of “You’re the *dikaiosynē* of God in Christ,” while retaining the essential words “in Him.”
+- Includes a useful comparison table, an eight-question study exercise, and a clear transition to Chapter 8.
+
+## 3. Findings requiring attention
+
+### Primary gap — make the distinction between lexical evidence and restoration synthesis unmistakable throughout
+
+The chapter states this distinction in its opening and closing sections, and it often handles it carefully. However, some sentences move quickly from a lexical entry to a doctrinal consequence. For example, the explanation of *dikaioō* as rendering just or righteous is followed by the claim that justification restores humanity to the state for which it was made. This is the book's doctrinal synthesis, not a result that can be established by the lexical entry alone.
+
+The later amendment should make the reasoning chain visible and consistent:
+
+1. The Greek term and its contextual form in the verse.
+2. The lexical material supplied by Strong's and Thayer's, including qualifications and differences.
+3. The exact wording and doctrinal interpretation supplied by the 2015 Aletheia source.
+4. The statements made by the surrounding Scripture passages.
+5. The book's cumulative conclusion that justification and redemption are God's provision for restoration to the designed state.
+
+Do not weaken the Aletheia conclusion. Make its scriptural and doctrinal basis visible without attributing the whole conclusion to a single Greek word.
+
+### Specialist verification — Greek morphology and lexical entries
+
+The chapter includes technical claims about δικαιούμενοι (*dikaioumenoi*) in Romans 3:24, Strong's G1344, Thayer's G1344, and *apolutrōsis* / G629. These details require a qualified Greek-language proof, including confirmation of the parsing, contextual voice, lexical wording, and the precise scope of Thayer's qualification concerning “render righteous.” The chapter already signals the distinction between the sources; retain it.
+
+The online lexical references currently listed are useful working references, but final publication should establish stable, complete bibliographic attribution and verify that the reproduced entries match the cited editions and wording. Do not silently modernize or merge Strong's and Thayer's material.
+
+### Secondary refinement — clarify *dikaiosynē* and “back on course”
+
+The source connects *dikaiosynē* with righteousness/justification, equity, impartiality to and conformity with God's nature, and “original: back on course.” Preserve the complete source formulation. Make clear that “back on course” is the Aletheia source's explanatory wording and doctrinal framework, not an uncontested literal translation or exhaustive lexical definition of the noun. The chapter already gives this caveat; ensure it remains close to every potentially ambiguous use.
+
+### Secondary refinement — distinguish “ransom in full” from the full restoration claim
+
+The chapter correctly distinguishes the source's gloss “Redemption; Ransom in full” from the wider conclusion “restoration to original design.” Preserve that distinction wherever the argument is summarized. The derivation and lexical gloss support ransom/release/deliverance language; the complete restoration-to-Design conclusion is developed through the source's wider Scripture framework. Do not present the doctrinal conclusion as a literal translation of the Greek word or its components.
+
+### Secondary refinement — develop Romans 3:27–28's relationship to *pistis* without collapsing chapters
+
+The section “Justification is not earned” correctly connects justification by faith and the exclusion of boasting with the Aletheia source's *pistis* / credence teaching. During amendment, clarify the connection briefly: faith is not a meritorious work that earns justification; the passage excludes boasting and states justification apart from deeds of the law. Preserve Chapter 2's responsibility for the fuller explanation of *pistis* as credence and the state of God's children. Avoid reopening the full Chapter 2 argument here.
+
+### Whole-book coordination — keep the glory argument in its proper proportion
+
+The chapter revisits 1 Corinthians 15:41 and the inference that glory expresses nature and distinction. This is a legitimate connection, but Chapters 6 and 10 also treat glory and identity. Retain the passage and its resurrection context, but during whole-book reconciliation decide whether the chapter needs the full explanatory section or a shorter cross-reference. Do not let 1 Corinthians 15:41 carry more than its context supports.
+
+### Whole-book coordination — keep representation and heirship with Chapter 8
+
+The chapter's final reference to Jesus representing humanity by Design is appropriate as a governing thesis. Its fuller development through the Son, heir, and believer's inheritance belongs to Chapter 8. Keep the conclusion here focused on justification, righteousness, redemption, and the fact that restoration is in Christ.
+
+### Pedagogy and scholarly apparatus — retain substance, improve the reader's task
+
+The eight questions are relevant and test lexical distinctions, Romans 3, 1 Corinthians 15, and 2 Corinthians 5. Questions 2 and 3 overlap in their examination of the G1344 entry and Thayer's qualification; they may be combined. The exercise should not require readers to resolve specialist Greek questions that the chapter itself cannot adequately teach. It should test the ability to distinguish lexical evidence, source wording, biblical context, and doctrinal synthesis. Keep the detailed lexical references as scholarly apparatus, but standardize citations and bibliography during the final proof stage.
+
+## 4. Controlled amendment direction
+
+**Targeted strengthening with specialist verification.** Preserve the chapter's structure and substantial exposition. Later amendments should:
+
+1. Make the progression from lexical evidence to Aletheia source teaching to biblical context to doctrinal synthesis consistently explicit.
+2. Obtain specialist verification of the Romans 3:24 morphology, the G1344 / Thayer entries and qualification, and the G629 lexical details.
+3. Preserve the source's complete *dikaiosynē* formulation and clearly identify “back on course” as source explanation rather than an exhaustive lexical definition.
+4. Preserve “Redemption; Ransom in full” while distinguishing the gloss from the book's wider restoration-to-Design conclusion.
+5. Clarify the brief connection between Romans 3:27–28 and the source's *pistis* teaching without duplicating Chapter 2.
+6. Coordinate the 1 Corinthians 15:41 glory section with Chapters 6 and 10.
+7. Keep the final representation statement concise and leave the Son/heir argument to Chapter 8.
+8. Consolidate overlapping study questions and standardize lexical source references and bibliography.
+
+No structural redesign, new chapter, or wholesale rewrite is indicated. No amendment is authorized at this stage.
+
+## 5. Coverage matrix
+
+| Responsibility | Current assessment | Direction |
+|---|---|---|
+| Three Greek terms and distinction | Clearly established | Preserve |
+| Source's *dikaioō* gloss | Preserved | Preserve exact wording |
+| Romans 3:24 morphology | Detailed technical claim present | Specialist verification |
+| Strong's G1344 and Thayer | Reproduced with distinction and qualification | Verify exact edition/text and attribution |
+| Romans 3:21–28 | Strong contextual exposition | Preserve |
+| “Deviation from true nature” | Correctly attributed as source gloss | Preserve distinction from translation |
+| *Dikaiosynē* / “back on course” | Present with caveat | Keep caveat close to every use |
+| *Apolutrōsis* / “ransom in full” | Present and differentiated from synthesis | Preserve distinction; verify G629 |
+| 1 Corinthians 15:41 | Contextualized; inference identified | Coordinate with Chapters 6 and 10 |
+| Romans 3:27–28 / *pistis* | Appropriate connection | Briefly clarify; do not duplicate Chapter 2 |
+| 2 Corinthians 5:17–21 | Strong contextual exposition | Preserve |
+| “Righteousness of God in Him” | Present-tense force and “in Him” retained | Preserve |
+| Representation / heirship | Signposted | Full development in Chapter 8 |
+| Study exercise | Substantive; some overlap | Consolidate and keep reader-level |
+| Lexical references / bibliography | Working links present | Standardize and verify for publication |
+
+## 6. Chapter 7 decision
+
+**Targeted strengthening with specialist verification.** The chapter has the right subject, substantial exposition, and a sound three-term framework. Its principal requirement is rigorous consistency in distinguishing lexical definitions, the 2015 source's glosses, biblical context, and the book's restoration-to-Design synthesis. Greek morphology and lexical quotations require specialist verification before publication. No structural redesign or wholesale rewrite is indicated. No amendment is authorized at this stage.
+
+---
+
 # Chapters 3–10 — Assessment queue
 
 Each chapter will be assessed and recorded here using the same framework as Chapters 1 and 2. No chapter amendments are to begin until all ten assessments are complete and the whole-book reconciliation has been recorded.
@@ -749,7 +862,7 @@ Each chapter will be assessed and recorded here using the same framework as Chap
 | 4 | Psalm 82 with John 10 | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
 | 5 | Partakers of the Divine Nature | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
 | 6 | Why Jesus Came: Glory, Deviation, and Representation | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
-| 7 | Redemption, Free Justification, and Righteousness | NOT ASSESSED | HOLD |
+| 7 | Redemption, Free Justification, and Righteousness | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
 | 8 | The Son, the Heir, and Representation of Design | NOT ASSESSED | HOLD |
 | 9 | Oneness and Glory: John 17:20–23 | NOT ASSESSED | HOLD |
 | 10 | The Image in the Face of Jesus Christ | NOT ASSESSED | HOLD |
