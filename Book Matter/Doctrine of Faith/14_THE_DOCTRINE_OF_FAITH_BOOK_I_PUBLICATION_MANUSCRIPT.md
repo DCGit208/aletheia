@@ -503,9 +503,13 @@ Jesus quotes Psalm 82:6—“I said, Ye are gods”—then refers to those “un
 
 Jesus deliberately brings the written statement into His answer to the accusation and affirms the authority of the Scripture He quotes: it cannot be broken.
 
-Jesus refers to the designation in the writing, those to whom the word of God came, and His identity as the One sanctified and sent by the Father. His argument is not a detached definition of “gods”; it answers a specific charge through Scripture and His relation to the Father.
+Jesus' wording deserves close attention. He does not quote Psalm 82 and then withdraw the declaration. He asks His hearers to reckon with what is written, identifies those addressed as people “unto whom the word of God came,” and places the unbreakable Scripture before their accusation. The phrase “the scripture cannot be broken” is not an incidental remark. It establishes that the written testimony He has invoked cannot be set aside simply because His hearers find His claim unacceptable.
 
-The source's design argument reads this appeal alongside Genesis 1:26–28 and the wider teaching on true nature and Sonship. In doing so, it must retain the distinction between what John explicitly records and the cumulative doctrinal conclusion drawn across the passages. Jesus' quotation is explicit; the full account of humanity's design is developed through the connected Scripture set.
+Jesus then places His own identity in the argument: “Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?” He identifies Himself as the One the Father sanctified and sent. The question is not whether the Scripture may be ignored, but why His hearers condemn Him for saying He is the Son of God when He has appealed to a scriptural declaration they themselves acknowledge.
+
+The wording must be kept exact. Jesus says that the word of God came to those He has just mentioned; He does not, in these verses, provide a complete account of the identity or history of every person addressed in Psalm 82. He does, however, insist that the Scripture stands and uses its language in answering the charge brought against Him. The doctrinal force of the passage cannot be reduced to a casual illustration.
+
+The source's design argument reads this appeal alongside Genesis 1:26–28 and the wider teaching on true nature and Sonship. In doing so, the distinction remains: John explicitly records Jesus' quotation, His statement about the word of God, His affirmation that Scripture cannot be broken, and His description of Himself as the One sanctified and sent by the Father. The cumulative account of humanity's Design is developed through the connected Scripture set.
 
 ## John 10:37–38 — the works and mutual indwelling
 
