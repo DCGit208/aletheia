@@ -1158,13 +1158,256 @@ No structural redesign, new chapter, or wholesale rewrite is indicated. No amend
 
 ---
 
-# Chapters 3–10 — Assessment queue
+# Whole-book reconciliation — completed
 
-Each chapter will be assessed and recorded here using the same framework as Chapters 1 and 2. No chapter amendments are to begin until all ten assessments are complete and the whole-book reconciliation has been recorded.
+**Status:** **RECONCILIATION COMPLETE — TARGETED AMENDMENT PLAN APPROVED FOR THE NEXT PHASE**  
+**Chapter assessments:** 10 of 10 complete  
+**Canonical manuscript:** unchanged by this reconciliation  
+**Amendment execution:** not yet started
 
-# Chapters 3–10 — Assessment queue
+## 1. Reconciliation decision
 
-Each chapter will be assessed and recorded here using the same framework as Chapters 1 and 2. No chapter amendments are to begin until all ten assessments are complete and the whole-book reconciliation has been recorded.
+The ten chapter assessments have been compared against the approved architecture, the controlling 2015 Aletheia source, the foundational argument reconstruction, and the foundation-to-manuscript dependency matrix.
+
+**The approved ten-chapter architecture is retained.** The assessments do not demonstrate a structural defect that requires a new chapter, deletion of a chapter, or wholesale redesign. Each chapter has a distinguishable doctrinal responsibility, and the sequence can carry the foundation-first argument.
+
+The principal book-level issue is not missing architecture. It is the need to make the relationships among the chapters more cumulative and less repetitive. The amendments must strengthen the reasoning at the points where one chapter hands a premise to the next, while keeping each chapter's assigned primary responsibility clear.
+
+All ten chapters have been assessed as requiring targeted strengthening. This is not a direction to rewrite every chapter. Sound exposition is to be preserved. Amend only where the register identifies a specific reasoning, coverage, context, coordination, or pedagogy need.
+
+## 2. Governing argument and reader journey
+
+The reader-facing progression is confirmed:
+
+1. **Chapter 1 — Foundation:** Hebrews 11:1 and *hypostasis*; substance/underlying reality and assurance/confidence; contextual and lexical investigation; the foundation of Book I.
+2. **Chapter 2 — Faith and state:** the leaflet's explicit *pistis* / credence teaching, state of God's children, acceptance, true nature, adoption, and Sonship.
+3. **Chapter 3 — Design:** Genesis 1:26–28, *’ĕlōhîm*, image, likeness, blessing, fruitfulness, and dominion.
+4. **Chapter 4 — The declaration and its judgment setting:** Psalm 82:1–8 and Jesus' appeal in John 10:30–38.
+5. **Chapter 5 — Participation:** 2 Peter 1:2–8, participation in divine nature, escape from corruption, diligence, and fruitfulness.
+6. **Chapter 6 — The problem and the Person:** coming short of glory, deviation from true nature as the source's interpretation, why Jesus came, and the union of representation and accomplishment.
+7. **Chapter 7 — The work and its terms:** free justification, *dikaioō*, *dikaiosynē*, *apolutrōsis*, righteousness in Christ, and restoration-to-Design synthesis.
+8. **Chapter 8 — The Son and inheritance:** the unique Son and appointed heir, His express image and redemptive accomplishment, and believers' adoption and joint-heirship through Him.
+9. **Chapter 9 — Oneness and shared glory:** John 17:20–23, indwelling, glory, love, sending, and the world's witness.
+10. **Chapter 10 — The concluding image and knowledge:** 2 Corinthians 4:1–6, Christ as the image of God, the knowledge of God's glory in His face, the cumulative representation/redemption conclusion, and the handoff to Book II.
+
+The governing theses remain: **faith is our state by Design** and **Jesus represents who we are by Design**. The second must never displace the first; neither may displace Christ's redemptive accomplishment. The synthesis “Christ's work restores what Christ's person reveals” is an appropriate concluding formulation, provided its cumulative reasoning is shown and it is not presented as a direct quotation from a single passage.
+
+## 3. Whole-book responsibility map
+
+The following ownership rules resolve the main overlaps. A passage may be recalled in another chapter, but its full exposition belongs primarily to the chapter assigned below.
+
+| Subject / passage cluster | Primary chapter | Permitted role elsewhere |
+|---|---|---|
+| Hebrews 11:1, *hypostasis*, *elenchos*, Hebrews 10:32–39 and 11 context | 1 | Later chapters may recall the foundation; Book II develops *elenchos* |
+| 2015 source's *pistis* = credence, state, acceptance, true nature, espousal/adoption; Galatians 4, Romans 8, Ephesians 1; Hebrews 11:2, 5–6 and Matthew 3:17 synthesis | 2 | Later chapters may recall Sonship/state without repeating the source exposition |
+| Genesis 1:26–28; *’ĕlōhîm*; image, likeness, blessing and commission; Mark 11:20–25; Matthew 5:43–48 | 3 | Chapters 4–10 may rely on the established Design premise |
+| Psalm 82:1–8 and John 10:30–38 | 4 | Other chapters may cite the conclusion, not repeat the full judgment/exchange exposition |
+| 2 Peter 1:2–8; participation in divine nature and fruitfulness | 5 | Chapters 3, 6 and 10 may recall participation as a link in the cumulative argument |
+| Romans 3:21–26; 1 Corinthians 11:7 in context; coming short of glory and why Jesus came | 6 | Chapter 7 develops the terms; Chapters 9–10 may recall the glory connection |
+| *Dikaioō*, *dikaiosynē*, *apolutrōsis*; Romans 3:23–28; 2 Corinthians 5:17–21; redemption and righteousness | 7 | Chapters 8–10 may recall “in Christ” and redemption without repeating lexical exposition |
+| Hebrews 1:1–8; the Son, heir, express image; Galatians 4 and Romans 8 inheritance implications | 8 | Chapter 1 may compare Hebrews 1:3 lexically; Chapters 9–10 may recall the Son's identity |
+| John 17:1, 18–23; oneness, indwelling, glory, love, sending and witness | 9 | Chapter 10 may briefly recall glory given and oneness |
+| 2 Corinthians 4:1–6; image, light, knowledge, glory in Christ; final synthesis | 10 | Earlier chapters may introduce the image/glory connection without pre-empting this conclusion |
+
+**Cross-reference rule:** a later chapter may use an earlier result as a premise, but should not re-teach the earlier chapter unless a short reminder is necessary for comprehension. When a passage appears in several chapters, identify its primary exposition and keep later appearances proportionate to the later chapter's own question.
+
+## 4. Cross-chapter dependencies and amendment requirements
+
+### A. Foundation: Chapter 1 → Chapter 2
+
+Chapter 1 must establish why the substance/underlying-reality reading is foundational to Book I while fairly engaging assurance/confidence. Chapter 2 must then show what the leaflet explicitly says about *pistis* / credence and the state of God's children.
+
+The relationship is a doctrinal bridge, not a claim that *hypostasis* and *pistis* are synonyms. Neither chapter may attribute Hebrews 11:1 or *hypostasis* to the leaflet. Chapter 1 owns the Hebrews 11:1 lexical/contextual inquiry; Chapter 2 owns the source's faith-as-state and Sonship exposition.
+
+**Amendment dependency:** complete Chapter 1's reasoning before finalizing Chapter 2's opening and transition. Then revise Chapter 2's explanation of credence, acceptance, true nature, and espousal/adoption without duplicating Chapter 1's lexical study.
+
+### B. Faith/state → Design: Chapter 2 → Chapter 3
+
+Chapter 2 establishes the source's faith/state and Sonship teaching. Chapter 3 should show how Genesis 1:26–28 contributes the Design foundation: image and likeness (vv.26–27) and blessing/commission (v.28) belong to one creation account.
+
+Chapter 3 owns the *’ĕlōhîm* discussion and the source's stated “plural: Trinity” interpretation. Keep the Hebrew term, the leaflet's interpretation, and the wider theological synthesis distinct. The source interpretation must be preserved; morphology alone must not be made to carry the entire theological conclusion.
+
+Mark 11:22 belongs in the Design discussion in its Mark 11:20–25 context. Its “state of God” formulation remains the owner's doctrinal interpretation, not a literal lexical gloss established by the genitive construction alone. Matthew 5:43–48 must retain the love-of-enemies context when connected with perfection and likeness.
+
+### C. Design → Psalm 82 / John 10: Chapter 3 → Chapter 4
+
+Chapter 3 establishes image, likeness, and Design. Chapter 4 examines Psalm 82:1–8 and Jesus' appeal in John 10:30–38. Chapter 4 must keep the judgment setting and the declaration in verse 6 together with verses 7–8. It must acknowledge the interpretive debate over the identity of the “gods” while clearly preserving the Aletheia source's doctrinal use.
+
+Jesus' argument in John 10:34–36 must be explained in its own sequence, especially “unto whom the word of God came” and “the scripture cannot be broken.” Chapter 4 must not claim that Psalm 82:6 by itself proves the whole Design doctrine.
+
+### D. Psalm 82 / Design → participation: Chapter 4 → Chapter 5
+
+Chapter 5 owns 2 Peter 1:2–8. It must distinguish original Design in Genesis, participation in divine nature through the promises in 2 Peter 1:4, and the fruitful expression developed in verses 5–8. These are connected but not identical statements.
+
+The sequence of divine provision, promises, escape from corruption, diligence, the listed qualities, and fruitfulness in knowledge of Christ must remain intact. Preserve the leaflet's “back on course” explanation as source wording and doctrinal interpretation, not an exhaustive dictionary definition.
+
+### E. Participation / true nature → deviation and Christ: Chapter 5 → Chapter 6
+
+Chapter 6 owns the source's interpretation of coming short of glory as deviation from true nature, together with the question “Why did Jesus come?” It must hold Romans 3:23–24 in its full movement and retain 1 Corinthians 11:7 in its immediate 1 Corinthians 11:2–16 context. 1 Corinthians 15:41 is a distinct resurrection/glory passage and must not be merged with 1 Corinthians 11:7.
+
+The chapter must distinguish Christ's redemptive accomplishment from the believer's reception and lived participation in restoration. The book's universal diagnosis and the sufficiency of Christ's accomplishment must not be turned into an unsupported claim that every person has already experientially entered the restored state.
+
+### F. Christ's person/work → justification and redemption: Chapter 6 → Chapter 7
+
+Chapter 7 owns the lexical and doctrinal development of *dikaioō*, *dikaiosynē*, and *apolutrōsis*. The amendment must keep the reasoning chain visible:
+
+1. Greek term and grammatical form where relevant.
+2. Strong's lexical material.
+3. Thayer's lexical material and its qualifications.
+4. Exact Aletheia source gloss or formulation.
+5. Biblical passage in context.
+6. Cumulative doctrinal conclusion and any owner formulation.
+
+Do not merge Strong's and Thayer's definitions. Preserve the source's “render just or innocent (free from evil or guilt)” wording and the owner's separate formulation “to render righteous or such as he ought to be.” Preserve the source's *dikaiosynē* “back on course” / conformity-with-God's-nature language and *apolutrōsis* “redemption; ransom in full.” The conclusion that redemption and justification relate to restoration to original Design is doctrinal synthesis, not a word-for-word lexical gloss.
+
+Chapter 7 owns the full treatment of 2 Corinthians 5:17–21. Later chapters should retain “in Him” when recalling 2 Corinthians 5:21, but not repeat the whole lexical argument.
+
+### G. Justification / righteousness → the Son and heir: Chapter 7 → Chapter 8
+
+Chapter 8 owns Hebrews 1:1–8 and the relationship between the unique Son and appointed heir and the adoption/joint-heirship believers receive through Him. Its amendment must sharpen the distinction between the Son's unique Sonship and believers' adopted sonship without diminishing the reality of the inheritance.
+
+Galatians 4:1–7 and Romans 8:14–17 are primary in Chapter 2 for the source's Sonship/state teaching; Chapter 8 may revisit them to develop heirship in relation to the unique Son. Preserve Romans 8:17's suffering and shared-glory dimension. Hebrews 1:3's *hypostasis* must not be assumed to have precisely the same contextual sense as Hebrews 11:1.
+
+The abandoned Hebrews 1:8 question must not be reopened. Hebrews 1:8 itself remains in the Son's scriptural portrait.
+
+### H. The Son and heirs → oneness: Chapter 8 → Chapter 9
+
+Chapter 9 owns John 17:20–23. Its “as” comparison must retain its full force while the relations named in the prayer remain distinct. Explain what the prayer itself places in correspondence—indwelling, oneness, glory, love, and perfected unity—and what distinctions it preserves: Father sends Son, Son addresses Father and sends disciples, believers come through the disciples' word.
+
+John 17:22's declaration that the glory given to the Son has been given to believers must not be reduced to a merely future hope, nor expanded beyond what the immediate passage and the book's established synthesis support. The world's belief and knowledge that the Father sent the Son and loves believers must remain a governing purpose, not a passing detail.
+
+### I. Oneness / glory → image and knowledge: Chapter 9 → Chapter 10
+
+Chapter 10 owns 2 Corinthians 4:1–6 and the final image/glory synthesis. It must develop Paul's flow from ministry integrity and the refusal to handle the word deceitfully, through the veiled gospel and blinded minds, to the shining of the light and knowledge of God's glory in Christ. The “we” / ministry context and “our hearts” language must remain visible.
+
+Chapter 10 must distinguish redemption accomplished/provided in Christ from personal reception, participation, and lived expression of restoration. It must also distinguish present gift/status, present participation, and future completion without importing an external system or diminishing the source's present-tense emphasis.
+
+The final synthesis “Christ's work restores what Christ's person reveals” should be retained and reasoned through the cumulative Scripture set, not attributed to 2 Corinthians 4:4–6 alone.
+
+## 5. Repetition and consolidation plan
+
+The following repetitions are functional only when the later chapter uses an established result briefly. Full re-exposition should remain in the primary chapter.
+
+| Repeated material | Primary exposition | Later treatment |
+|---|---|---|
+| *Hypostasis* / *pistis* distinction | Ch. 1 and Ch. 2 respectively | Brief reminders only; no repeated lexical excursus |
+| Galatians 4 and Romans 8 Sonship | Ch. 2 | Ch. 8 recalls only the adoption-to-heirship sequence needed for its argument |
+| Genesis image/likeness and Design | Ch. 3 | Later chapters cite the established premise; do not re-explain Genesis each time |
+| Mark 11:22 / Matthew 5:43–48 | Ch. 3 | Later references only if necessary |
+| Psalm 82 / John 10 | Ch. 4 | Later references should not reproduce the judgment and dialogue exposition |
+| 2 Peter 1:4–8 | Ch. 5 | Later references may recall participation and fruitfulness |
+| Romans 3:23–24 / 1 Corinthians 11:7 glory cluster | Ch. 6 | Ch. 7 develops justification terms; Ch. 9/10 use concise reminders |
+| *Dikaioō*, *dikaiosynē*, *apolutrōsis* | Ch. 7 | Do not repeat lexical definitions in Chapters 8–10 |
+| 2 Corinthians 5:17–21 | Ch. 7 | Ch. 8 may retain “in Him”; Ch. 10 may summarize the reconciliation/righteousness result |
+| Hebrews 1:1–8 | Ch. 8 | Ch. 1 may retain its limited lexical comparison; Ch. 10 may recall image/express-image |
+| John 17:20–23 | Ch. 9 | Ch. 10 may recall glory/oneness in one concise synthesis |
+| 2 Corinthians 4:1–6 | Ch. 10 | Do not pre-empt it in earlier chapters |
+
+**Specific repetition to resolve:** the book-wide summaries in Chapters 1, 2, 8, 9, and 10 should be compared. Keep a necessary opening orientation and a culminating conclusion, but do not make each chapter re-list the full sequence. Chapter 10 should culminate the argument rather than restart it.
+
+## 6. Source and Scripture coverage reconciliation
+
+The current chapter allocation covers the major source and owner propositions in the dependency matrix. The following must remain explicit in the final amendment pass:
+
+- The 2015 source's entry point is Hebrews 6:1 and its explicit *pistis* / credence / state teaching. It does not quote Hebrews 11:1 or use *hypostasis* in that section.
+- The source's connections to acceptance, true nature, espousal/adoption, oneness, *’ĕlōhîm*, Genesis 1:26–27, 2 Peter 1:4, Psalm 82:6, and coming short of glory must all remain substantively engaged across their assigned chapters.
+- Hebrews 11:1 / *hypostasis* is the foundation-first direction supplied by the owner's separate scriptural and lexical inquiry.
+- The *hypostasis* / *pistis* bridge is a doctrinal argument across distinct lines of evidence, not an identity of Greek terms.
+- The owner's representation thesis and the accomplishment of Christ must both remain present.
+- The source's “deviation from true nature,” *dikaiosynē* “back on course” and conformity language, and *apolutrōsis* “ransom in full” must retain their source attribution.
+- The owner's distinct *dikaioō* formulation must not be silently merged with the leaflet's printed gloss or Strong's/Thayer's entries.
+- The former Hebrews 1:8 question is abandoned; verse 8 remains in Chapter 8.
+- Book I establishes the *hypostasis* foundation and acknowledges the *elenchos* clause; Book II develops evidence. Neither clause of Hebrews 11:1 is detached from the verse.
+
+No source teaching is to be removed merely to reduce repetition. Repetition is to be reduced by preserving a complete primary exposition and using concise, accurate cross-references elsewhere.
+
+## 7. Pedagogy reconciliation
+
+A consistent reader-facing learning pattern is approved:
+
+- Questions should test comprehension, interpretation, contextual reading, reasoning, and application of the chapter's actual doctrinal responsibility.
+- Do not ask general readers to perform the editor's source-provenance classification as an unexplained exercise. Keep source/Scripture/synthesis controls in editorial notes and scholarly apparatus; ask readers substantive questions about the implications.
+- Avoid repetitive questions that merely ask the reader to restate the conclusion.
+- Chapter 1 may retain its shorter foundational “Questions for reflection” treatment.
+- Chapters 2–9 should use the established “Questions for reflection and study” heading and have progressive questions.
+- Chapter 10 should close Book I with its synthesis and Book II handoff; it need not add an artificial question block.
+- Study questions should be reviewed after substantive amendments, not used to compensate for missing exposition.
+
+## 8. Controlled amendment sequence
+
+Amendments are authorized only as the following finite sequence. The canonical manuscript remains unchanged until each controlled step is executed.
+
+### Pass 1 — Foundational logic and source bridge
+- Chapter 1: develop the *hypostasis* / *pistis* / state bridge; refine substance-versus-assurance reasoning; clarify Hebrews 1:3 and Mark 11:22 boundaries.
+- Chapter 2: deepen credence-to-state reasoning; responsibly preserve “espousal”; clarify the Matthew 3:17 / Hebrews 11:2, 5–6 / Sonship synthesis; remove repetitive architecture summary and revise the editorial classification question.
+
+**Exit condition:** the reader can follow the foundation-to-state argument without confusing the leaflet's teaching with Hebrews 11:1 or treating *hypostasis* and *pistis* as synonyms.
+
+### Pass 2 — Design and participation
+- Chapter 3: expand Genesis 1:26–28's integrated image/likeness and blessing/commission sequence; distinguish the three levels of *’ĕlōhîm* treatment; strengthen passage-to-thesis reasoning and refine the exercise.
+- Chapter 4: acknowledge interpretive debate on Psalm 82's “gods”; deepen John 10:34–36; retain the judgment context and the source's doctrinal use.
+- Chapter 5: clarify original Design, participation through promises, and fruitful expression; refine the provision-to-diligence sequence.
+
+**Exit condition:** Design, Psalm 82's declaration/judgment, and participation in divine nature are connected but not collapsed into one proposition.
+
+### Pass 3 — Deviation, Christ's work, and justification
+- Chapter 6: distinguish Christ's accomplished redemption from the believer's reception and lived participation; coordinate repeated glory and representation texts.
+- Chapter 7: make the lexical/source/Scripture/synthesis reasoning chain unmistakable; verify Greek morphology and separate Strong's, Thayer's, leaflet, and owner formulations; coordinate repeated material with Chapters 6, 8, and 10.
+
+**Exit condition:** the reader can distinguish the diagnosis, Christ's accomplishment, the lexical terms, the source's interpretation, and the book's restoration conclusion.
+
+### Pass 4 — Sonship, oneness, and final image
+- Chapter 8: sharpen unique Sonship versus adopted sonship; refine the express-image/representation inference; preserve suffering and shared glory.
+- Chapter 9: clarify the correspondence and distinctions in the oneness comparison; clarify the glory given and retain the world's witness.
+- Chapter 10: deepen 2 Corinthians 4:1–6 context; qualify restoration scope; distinguish present status/participation from completion; reduce repeated book summaries; preserve the Book II handoff.
+
+**Exit condition:** the final three chapters form a continuous progression from the unique Son and shared inheritance, through oneness and glory, to the image and knowledge of God's glory in Christ.
+
+### Pass 5 — Whole-manuscript continuity and pedagogy
+- Compare all chapter openings, conclusions, and transitions.
+- Remove duplicated whole-book summaries and unnecessary repeated exposition.
+- Confirm every chapter uses established premises and hands off only what the next chapter is prepared to develop.
+- Complete the coordinated reader-facing question review.
+- Recheck the Scripture Reference Guide and glossary against the amended text.
+
+**Exit condition:** the ten chapters read as one cumulative argument and the reference apparatus accurately reflects the final manuscript.
+
+No chapter should be marked amended until its approved changes are committed and checked against this reconciliation. No chapter should be marked verified until its doctrinal and continuity checks pass.
+
+## 9. Priority order and amendment controls
+
+**Priority 1 — argument integrity:** Chapter 1's foundation and Chapter 2's source bridge; no later chapter can compensate for an unclear foundation.
+
+**Priority 2 — doctrinal progression:** Chapters 3–5 must establish Design, the Psalm 82 / John 10 argument, and participation in divine nature with proper contextual distinctions.
+
+**Priority 3 — Christ's person and work:** Chapters 6–8 must preserve the distinction and unity of deviation, redemption, justification, representation, Sonship, and heirship.
+
+**Priority 4 — culmination:** Chapters 9–10 must make oneness, glory, image, knowledge, and present reality the consequence of the established argument, not a new or detached thesis.
+
+**Priority 5 — reader experience:** resolve repetition, transitions, and pedagogy after the substantive logic is stable.
+
+The following controls remain mandatory:
+- No chapter-length targets or padding.
+- No wholesale rewrite where targeted development is sufficient.
+- No silent resolution of owner decisions.
+- No external commentary elevated above the controlling Aletheia source.
+- No attribution of owner synthesis to a single biblical verse or to the 2015 leaflet where it does not appear.
+- No change to the approved ten-chapter architecture without a newly demonstrated structural defect and explicit record of the reason.
+- No Book II expansion within Book I beyond the foundation's necessary acknowledgment of *elenchos*.
+
+## 10. Whole-book reconciliation decision
+
+**RECONCILIATION COMPLETE. TARGETED AMENDMENT PLAN APPROVED.**
+
+The ten-chapter architecture is retained. All ten chapters require targeted strengthening as specified in their individual assessments and this reconciliation. The amendment sequence is finite and dependency-ordered. The next authorized work is Pass 1, Chapters 1 and 2, followed by the remaining passes in order.
+
+The canonical publication manuscript has not been amended by this reconciliation. The next phase must record each chapter's exact changes and verification in the amendment log. Publication readiness remains a separate later gate; completing these amendments does not by itself constitute final copy edit, specialist lexical approval, Scripture quotation proof, typesetting, page proof, live-reader test, or author sign-off.
+
+---
+
+# Chapter assessment status
+
+All ten chapter assessments and whole-book reconciliation are complete. Chapter amendments remain on hold until each pass is executed and recorded.
 
 | Chapter | Assigned subject | Assessment status | Amendment status |
 |---|---|---|---|
@@ -1179,18 +1422,12 @@ Each chapter will be assessed and recorded here using the same framework as Chap
 
 ---
 
-# Whole-book reconciliation — pending
+# Whole-book reconciliation — completed
 
-To be completed only after Chapter 10 has been assessed:
+**Decision:** ten-chapter architecture retained; targeted amendment plan approved. The canonical manuscript remains unchanged. Next authorized work: Pass 1, Chapters 1–2.
 
-- Resolve overlap and repetition between chapters.
-- Confirm every source teaching has a clear and adequate home.
-- Confirm every major Scripture passage is treated in its assigned context and at the required depth.
-- Check the progression from *hypostasis* to *pistis*, Design, divine nature, deviation, Christ's person and work, justification, heirship, oneness, and the image/glory revealed in Christ.
-- Confirm that no chapter assumes an argument that has not yet been established.
-- Confirm that no chapter takes over another chapter's responsibility.
-- Review opening and closing transitions across the full sequence.
-- Produce one prioritized amendment plan with precise chapter/section instructions and dependencies.
+- Reconciliation recorded above in this register.
+- Targeted amendment sequence approved; execution and verification remain pending.
 
 # Amendment and verification log — pending
 
