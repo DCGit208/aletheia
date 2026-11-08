@@ -1128,7 +1128,7 @@ Romans 8 develops the same relationship through the Spirit's witness:
 
 Paul identifies those led by the Spirit of God as sons of God. He contrasts the Spirit of adoption with the spirit of bondage again to fear. The Spirit bears witness with our spirit that we are God's children. Then comes the inheritance statement: if children, heirs; heirs of God and joint-heirs with Christ.
 
-The final clause must not be omitted. Paul connects joint-heirship with suffering with Christ and being glorified together. The inheritance statement is therefore not to be detached from the passage's account of the Spirit, adoption, suffering, and shared glory.
+Paul connects joint-heirship with suffering with Christ and being glorified together. The inheritance statement belongs to the passage's full account of the Spirit, adoption, suffering, and shared glory.
 
 Galatians 4 and Romans 8 reinforce one another while making distinct contributions. Galatians emphasizes redemption from under the law, adoption, the Spirit of the Son, and the movement from servant to son and heir. Romans emphasizes being led by the Spirit, the Spirit of adoption, the Spirit's witness, and the relationship between children, heirs, joint-heirship, suffering, and glory.
 
@@ -1140,7 +1140,7 @@ Second Corinthians 5:17–21 develops the new creature, reconciliation, and righ
 
 > “For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.” — 2 Corinthians 5:21, KJV
 
-The phrase **“in him”** must remain. Our righteousness is not detached from Christ. The verse speaks of what God has done through the One who knew no sin and of what believers are made in Him. Its context includes the new creature, reconciliation, and the ministry of reconciliation (2 Corinthians 5:17–20).
+The phrase **“in him”** is essential: our righteousness is not detached from Christ. Paul places the declaration within his account of the new creature, reconciliation, and the ministry of reconciliation (2 Corinthians 5:17–20).
 
 This is central to the representation argument. The Son represents who we are by design, and our identity as sons, heirs, and the righteousness of God is located in Him. The statement does not erase the accomplishment of Christ: the verse itself names what God did with the One who knew no sin. Nor does the accomplishment erase the identity represented in the Son. Both belong together.
 
@@ -1150,7 +1150,7 @@ First John 4:17 states:
 
 > “Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.” — 1 John 4:17, KJV
 
-The words “as he is, so are we in this world” are present and direct. The context must remain equally visible: John speaks of love made perfect and boldness in the day of judgment. The verse is not detached from the argument about love and confidence.
+The words “as he is, so are we in this world” are present and direct. John places them within his teaching about perfected love and boldness in the day of judgment; the identity statement and its context belong together.
 
 Within the author's doctrinal framework, this statement underscores that the identity represented in the Son is not merely postponed to a future age. It speaks of who we are in this world. Read with Galatians 4:5–7, Romans 8:14–17, Hebrews 1:2–3, and 2 Corinthians 5:21, it contributes to the full representation thesis:
 
@@ -1191,8 +1191,8 @@ The Aletheia teaching and the author's doctrinal direction bring these passages 
 
 1. What does Hebrews 1:1–2 say about God's speech through the Son, the Son's appointment as heir of all things, and His relation to the creation of the worlds?
 2. Identify the descriptions of the Son in Hebrews 1:3–4. How does the passage hold His express image, sustaining power, purging of sins, exaltation, and inheritance together?
-3. Read Hebrews 1:5–8. How does the passage distinguish the Son from the angels and what does it declare about His throne and righteous kingdom?
-5. Read Galatians 4:1–7. Explain the sequence from the illustration of the heir and the appointed time to redemption, adoption, the Spirit of the Son, sonship, and heirship.
+3. Read Hebrews 1:5–8. How does the passage distinguish the Son from the angels, and what does it declare about His throne and righteous kingdom?
+4. Read Galatians 4:1–7. Explain the sequence from the illustration of the heir and the appointed time to redemption, adoption, the Spirit of the Son, sonship, and heirship.
 6. Read Romans 8:14–17. What does Paul say about being led by the Spirit, adoption, the Spirit's witness, children, heirs, joint-heirs, suffering, and shared glory?
 7. Why does the phrase “in Him” matter in 2 Corinthians 5:21?
 8. What is the immediate context of “as he is, so are we in this world” in 1 John 4:17?
