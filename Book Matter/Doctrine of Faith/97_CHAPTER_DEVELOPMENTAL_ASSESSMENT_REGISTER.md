@@ -631,6 +631,110 @@ No structural redesign, new chapter, or wholesale rewrite is indicated. No amend
 
 ---
 
+# Chapter 6 — Assessment
+
+**Chapter:** “Why Did Jesus Come? Glory, Deviation, and Representation”  
+**Assessment status:** **ASSESSMENT COMPLETE — TARGETED STRENGTHENING**  
+**Amendment status:** **NOT STARTED — HOLD UNTIL ALL TEN CHAPTERS ARE ASSESSED**
+
+## 1. Assigned responsibility
+
+Chapter 6 must develop the Aletheia source's question “Why did Jesus come?” through the source's sequence: humanity made like its Maker; humanity's coming short of God's glory, interpreted by the source as deviation from true nature; and God's provision of free justification and redemption in Christ Jesus. It must engage the source's use of 1 Corinthians 11:7, the Romans 3:23–24 declaration, and the wider redemption passages. It must also establish the central thesis that Jesus represents who humanity is by Design, while holding representation and redemption together. It must not take over Chapter 7's detailed lexical and doctrinal treatment of justification and redemption, Chapter 8's full Son/heir argument, or Chapter 10's final image/glory synthesis.
+
+## 2. What the current chapter already accomplishes
+
+- Preserves the source's question, “Why did Jesus come?”, in its original doctrinal sequence after the account of humanity made like its Maker.
+- Connects Genesis 1:26–27, the source's “like his Maker” wording, and 2 Peter 1:4 with the question of humanity's true nature.
+- Retains the full Living Bible wording reproduced in the source and distinguishes it from the leaflet's separate Life Application Bible note.
+- Reproduces the source's interpretation of Romans 3:23 as “deviation from true nature,” while correctly distinguishing this doctrinal gloss from a word-for-word lexical translation.
+- Includes the leaflet's reference to 1 Corinthians 11:7 and acknowledges the immediate context of 1 Corinthians 11:2–16.
+- Explains the two clauses of 1 Corinthians 11:7 and the source's particular attention to the first clause, without pretending the wider passage is not about headship, head coverings, and conduct in the assembly.
+- Handles 1 Corinthians 15:41 responsibly by retaining its resurrection context and not using it as though it independently states that humanity is the image and glory of God.
+- Develops Romans 3:21–26 as a connected argument: manifested righteousness, sin, coming short of glory, free justification, redemption, propitiation, Christ's blood, and God as just and justifier.
+- Preserves the source's emphasis on justification being “freely” given and its gloss of *apolutrōsis* (ἀπολύτρωσις) as “Redemption; Ransom in full.”
+- Uses Ephesians 1:7 and Colossians 1:13–14 to extend the redemption argument while distinguishing their explicit statements from the wider restoration synthesis.
+- States the governing thesis, “Jesus represents who we are by Design,” without setting representation against redemption.
+- Retains Matthew 5:43–48 and 1 John 4:17 in their respective contexts when developing the identity-and-likeness argument.
+- Provides a clear transition to Chapter 7's detailed treatment of justification, righteousness, and redemption.
+
+## 3. Findings requiring attention
+
+### Primary gap — distinguish the provision of redemption from the full scope of restoration
+
+The chapter's synthesis says that justification and redemption restore humanity to its Design and that Christ accomplished the redemption through which humanity is restored. This is central to the book's thesis and should be preserved. The later amendment should, however, make the steps and scope of the claim explicit:
+
+- Romans 3:23–24 states the universal human condition and announces justification freely by grace through redemption in Christ Jesus.
+- Romans 3:25–26 identifies Christ as the One God set forth as propitiation through faith in His blood and speaks of God as just and the justifier of the one who believes in Jesus.
+- Ephesians 1:7 and Colossians 1:13–14 speak of redemption through Christ's blood and forgiveness; Colossians also speaks of deliverance from darkness and translation into the Son's kingdom.
+- The source's “back on course” / restoration-to-Design language is the doctrinal synthesis developed from these passages.
+
+Do not imply that every person is already experientially restored or that the passages erase the distinction between the provision accomplished in Christ and the believer's participation in its benefits. Do not weaken the source's universal diagnosis or its declaration of free justification. Make the relationship clear without importing a theological system not established by the source.
+
+### Secondary refinement — retain the source's 1 Corinthians 11:7 use with its context and limits
+
+The chapter appropriately recognizes the context of 1 Corinthians 11:2–16 and explains that the source draws attention to the first clause of verse 7. During amendment, preserve both facts. Do not let the source's use of “man” as image and glory be silently generalized or reinterpreted in ways the source does not state; equally, do not omit the verse's second clause or the passage's wider discussion. Keep the connection to Genesis 1 and Romans 3 as the source's doctrinal synthesis, not as though 1 Corinthians 11:7 were itself a complete exposition of Genesis or Romans.
+
+### Secondary refinement — protect the distinction between the two “glory” passages
+
+The chapter's handling of 1 Corinthians 15:41 is careful and should be preserved. Its immediate context is resurrection and the differing glory of created lights and resurrection bodies. It contributes to the wider glory inquiry, but it does not independently establish humanity as God's image and glory. Ensure the final text continues to distinguish 1 Corinthians 11:7 from 1 Corinthians 15:41 and does not make the latter carry a claim outside Paul's argument.
+
+### Whole-book coordination — reduce overlap with Chapter 3
+
+Matthew 5:43–48 and 1 John 4:17 are already introduced in Chapter 3's Design argument. Chapter 6 may legitimately recall them as supporting identity-and-likeness witnesses, but the current separate section “The wider identity witness: love, likeness, and perfection” risks repeating Chapter 3's work. During whole-book reconciliation, decide whether this material should be shortened to a concise cross-reference or whether one chapter should own the fuller treatment. Preserve the passages and their contexts; remove only unnecessary duplication.
+
+### Whole-book coordination — keep the representation sequence in its assigned chapters
+
+The chapter briefly draws on Galatians 4:5–7, Romans 8:15–17, and Hebrews 1:2–3 to support the cumulative representation argument. These are legitimate connections, but Chapters 2 and 8 carry the fuller Sonship, heirship, and representation responsibilities. Keep the references concise here and avoid re-explaining those arguments.
+
+Likewise, the final image/glory synthesis belongs in Chapter 10. Chapter 6 should establish why redemption matters to the Design argument, not pre-empt the book's final Christological conclusion.
+
+### Secondary refinement — keep Chapter 7's lexical work in its proper place
+
+The chapter introduces *apolutrōsis* and the source's gloss “Redemption; Ransom in full.” Preserve this because it belongs to the leaflet's argument. The detailed examination of *dikaioō*, *dikaiosynē*, *apolutrōsis*, and the source's explanatory glosses belongs in Chapter 7. Do not repeat or prematurely settle that chapter's lexical analysis here.
+
+### Pedagogy — streamline the eight-question exercise
+
+The exercise covers the chapter's passages thoroughly, but eight questions create some repetition, especially around Genesis, the source's “deviation” gloss, and Romans 3. During the coordinated pedagogy review, consider consolidating the questions into a progression: source sequence and creation premise; Romans 3:21–26; the contextual role of 1 Corinthians 11 and 15; redemption's wider witness; and the integrated representation/redemption conclusion. Keep the exercise substantive, not merely a checklist of quotations.
+
+## 4. Controlled amendment direction
+
+**Targeted strengthening only.** Preserve the chapter's overall structure and substantial exposition. Later amendments should:
+
+1. Clarify the relationship between Christ's accomplished provision of redemption, the believer's participation in its benefits, and the source's restoration-to-Design synthesis, without weakening the source's claim.
+2. Preserve the exact source use of 1 Corinthians 11:7 while retaining its immediate context and the distinction between the two clauses.
+3. Retain the careful contextual treatment of 1 Corinthians 15:41 and its distinct role from 1 Corinthians 11:7.
+4. Coordinate or shorten the Matthew 5:43–48 and 1 John 4:17 material to avoid repeating Chapter 3.
+5. Keep Galatians 4, Romans 8, and Hebrews 1 representation references concise here, leaving full Sonship/heirship treatment to Chapters 2 and 8.
+6. Leave detailed lexical exposition of justification and redemption to Chapter 7 and final image/glory synthesis to Chapter 10.
+7. Consolidate the study questions without losing their contextual and doctrinal coverage.
+
+No structural redesign, new chapter, or wholesale rewrite is indicated. No amendment is authorized at this stage.
+
+## 5. Coverage matrix
+
+| Responsibility | Current assessment | Direction |
+|---|---|---|
+| Source's “Why did Jesus come?” sequence | Present | Preserve |
+| Genesis / “like his Maker” / true nature | Present | Preserve; coordinate with Chapter 3 |
+| Romans 3:23 “deviation from true nature” | Accurately attributed as source gloss | Preserve distinction from lexical translation |
+| 1 Corinthians 11:7 | Present with contextual caveat | Preserve both clauses and source's focus |
+| 1 Corinthians 15:41 | Carefully contextualized | Preserve; do not overclaim |
+| Romans 3:21–26 | Strong, connected exposition | Preserve |
+| Free justification / *apolutrōsis* gloss | Present and attributed | Detailed lexical treatment in Chapter 7 |
+| Ephesians 1:7 / Colossians 1:13–14 | Present and contextual | Preserve |
+| Representation and redemption | Central thesis held together | Clarify scope and sequence of restoration |
+| Matthew 5:43–48 / 1 John 4:17 | Present; overlaps Chapter 3 | Coordinate and shorten if needed |
+| Galatians 4 / Romans 8 / Hebrews 1 | Cumulative references | Avoid duplicating Chapters 2 and 8 |
+| Final image/glory synthesis | Introduced | Reserve full conclusion for Chapter 10 |
+| Study exercise | Thorough but repetitive | Consolidate during pedagogy review |
+| Transition to Chapter 7 | Clear | Preserve |
+
+## 6. Chapter 6 decision
+
+**Targeted strengthening only.** The chapter has the correct central sequence and substantial scriptural exposition. Its main need is to clarify the scope and stages of redemption/restoration while protecting the distinction between the source's interpretation and explicit biblical wording. The chapter also requires whole-book coordination to reduce overlap with Chapter 3 and to preserve the assigned work of Chapters 7, 8, and 10. No amendment is authorized at this stage.
+
+---
+
 # Chapters 3–10 — Assessment queue
 
 Each chapter will be assessed and recorded here using the same framework as Chapters 1 and 2. No chapter amendments are to begin until all ten assessments are complete and the whole-book reconciliation has been recorded.
