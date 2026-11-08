@@ -35,25 +35,25 @@ Preface
 
 Introduction
 
-1. [Faith as Hypostasis: Substance, Underlying Reality, and the Foundation of the Doctrine](#chapter-1--faith-as-hypostasis-substance-underlying-reality-and-the-foundation-of-the-doctrine)
+1. Faith as Hypostasis: Substance, Underlying Reality, and the Foundation of the Doctrine
 
-2. [Πίστις (*Pistis*): Credence, the State of God's Children, and Sonship](#chapter-2--πίστις-pistis-credence-the-state-of-gods-children-and-sonship)
+2. Πίστις (*Pistis*): Credence, the State of God's Children, and Sonship
 
-3. [’Ĕlōhîm: Image, Likeness, and Human Design](#chapter-3--’ĕlōhîm-image-likeness-and-human-design)
+3. ’Ĕlōhîm: Image, Likeness, and Human Design
 
-4. [Psalm 82 with John 10: “Ye Are Gods” and the Judgment Context](#chapter-4--psalm-82-with-john-10-ye-are-gods-and-the-judgment-context)
+4. Psalm 82 with John 10: “Ye Are Gods” and the Judgment Context
 
-5. [True Nature: Partakers of the Divine Nature](#chapter-5--true-nature-partakers-of-the-divine-nature)
+5. True Nature: Partakers of the Divine Nature
 
-6. [Why Did Jesus Come? Glory, Deviation, and Representation](#chapter-6--why-did-jesus-come-glory-deviation-and-representation)
+6. Why Did Jesus Come? Glory, Deviation, and Representation
 
-7. [Δικαιόω (*dikaioō*): Redemption, Free Justification, and Righteousness in Christ](#chapter-7--δικαιόω-dikaioō-redemption-free-justification-and-righteousness-in-christ)
+7. Δικαιόω (*dikaioō*): Redemption, Free Justification, and Righteousness in Christ
 
-8. [The Son, the Heir, and the Representation of Design](#chapter-8--the-son-the-heir-and-the-representation-of-design)
+8. The Son, the Heir, and the Representation of Design
 
-9. [Oneness and Glory: The Prayer of John 17:20–23](#chapter-9--oneness-and-glory-the-prayer-of-john-1720–23)
+9. Oneness and Glory: The Prayer of John 17:20–23
 
-10. [The Image in the Face of Jesus Christ: Glory, Knowledge, and Present Reality](#chapter-10--the-image-in-the-face-of-jesus-christ-glory-knowledge-and-present-reality)
+10. The Image in the Face of Jesus Christ: Glory, Knowledge, and Present Reality
 
 Conclusion
 
