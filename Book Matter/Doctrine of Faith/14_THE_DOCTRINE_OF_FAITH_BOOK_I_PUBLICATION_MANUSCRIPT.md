@@ -305,7 +305,7 @@ Genesis 1:26–28 contributes a distinct foundation: humanity is made in God's i
 
 The governing thesis is that **Jesus represents who we are by Design.** He is not presented only as the One who accomplished something on our behalf. His person reveals the design, while His redemptive accomplishment is essential to its restoration. Representation and accomplishment belong together.
 
-## ’Ĕlōhîm: image and likeness
+## Elohim: image and likeness
 
 Genesis 1:26 records God's words:
 
@@ -387,23 +387,7 @@ No single verse carries the entire doctrine. Genesis supplies the creation found
 
 ## Faith, design, and the Father's nature
 
-The design inquiry also considers Jesus' teaching about faith and the Father's nature, developing the conviction that humanity is to operate in the state corresponding to its design.
-
-### Mark 11:20–25 — “Have faith in God”
-
-Jesus' words in Mark 11:22 are:
-
-> “And Jesus answering saith unto them, Have faith in God.” — Mark 11:22, KJV
-
-The setting is the withered fig tree (Mark 11:20–21). Jesus then speaks of addressing the mountain, believing without doubting in the heart, praying in faith, and forgiving when standing in prayer (Mark 11:23–25). Faith is presented in relation to speech, the heart, action, prayer, and forgiveness—not as a detached formula for obtaining whatever one wants.
-
-The Greek phrase is *pistin theou* (πίστιν θεοῦ). *Pistin* is the accusative form of *pistis*, “faith”; *theou* is the genitive form of *theos*, “God.” The familiar English rendering “faith in God” interprets the genitive as indicating the object toward which faith is directed. “Faith of God” reflects the genitive more formally, but the grammatical form by itself does not settle the theological relationship expressed.
-
-Mark 11:22 underscores our design identity and calls us to operate in the state of God because we are God by design. This is the doctrinal interpretation of the verse within the full Scripture framework; it is not presented as a word-for-word lexical gloss of the Greek genitive. The grammatical construction is acknowledged, while the settled doctrinal direction is developed through the connected teaching on *hypostasis*, *pistis*, the state of God's children, and humanity's image and likeness.
-
-The argument is cumulative. Chapter 1 examines *hypostasis* as the foundation of faith as substance or underlying reality; Chapter 2 develops the leaflet's explicit teaching that *pistis*—credence—defines the state of God's children; Genesis 1:26–28 supplies the language of image, likeness, and dominion. Mark 11:22 belongs within this connected argument, not in isolation.
-
-The immediate context also governs the interpretation. Any account of faith as God's state must reckon with Jesus' words about the heart, speech, prayer, and forgiveness. The passage is neither reduced to generic trust nor turned into a promise that every desired result must follow from the force of belief.
+The creation account establishes the image-and-likeness foundation. The wider teaching also directs attention to the Father's nature and to the life that corresponds to the design. Two passages are especially important here: Matthew 5:43–48 and 1 John 4:17. They must be read in their own settings before their relationship is drawn.
 
 ### Matthew 5:43–48 — perfection expressed in love
 
@@ -419,9 +403,9 @@ Jesus gives the command to be perfect within His teaching about loving enemies, 
 
 Matthew 5:48 affirms identity and calls us to operate in the Father's own nature and perfection. Read it alongside 1 John 4:17—“as he is, so are we in this world”—while retaining each passage's setting: love toward enemies in Matthew and perfected love and confidence in the day of judgment in First John.
 
-### Psalm 82 and John 10
+### The wider witness to image and likeness
 
-The phrase “as Gods” expresses the doctrinal framing of this part of the argument. Genesis 1:26–28 explicitly speaks of image, likeness, and dominion. Psalm 82:6 and Jesus' appeal in John 10:34–35 form a related but distinct scriptural argument. Chapter 4 develops the full psalm and Jesus' use of it. The relationship should be pursued through both contexts rather than by isolating the phrase “Ye are gods.”
+Psalm 82:6 declares, “Ye are gods; and all of you are children of the most High.” The verse belongs to the design argument, but it cannot be separated from the judgment in Psalm 82:1–8 or from Jesus' appeal to it in John 10:34–36. That full treatment belongs in Chapter 4. Likewise, Mark 11:20–25 brings the question of faith and the state of God to its culmination and is developed in Chapter 10, rather than anticipated here.
 
 ## The design revealed and represented
 
