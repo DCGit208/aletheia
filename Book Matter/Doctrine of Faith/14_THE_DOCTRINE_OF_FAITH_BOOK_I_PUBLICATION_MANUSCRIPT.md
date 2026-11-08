@@ -1496,9 +1496,11 @@ The explanations below clarify how important terms are used in this volume. Wher
 
 **Credence** — The English word used by the 2015 Aletheia leaflet for *pistis*. In the leaflet's “Faith toward God” teaching, *pistis* / credence defines the state of the children of God and is connected with acceptance, true nature, and Sonship.
 
-**Dikaiosynē (δικαιοσύνη)** — Righteousness. The Aletheia leaflet explains it through equity, impartiality to and conformity with God's nature, and gives the source wording “original: back on course.” This book preserves that as the leaflet's explanation and develops its doctrinal implications in the wider Scripture set.
+**Design** — The doctrinal framework used throughout this book for humanity's created image and likeness, true nature, and identity as revealed in Christ. The governing formulation is that **Jesus represents who we are by Design** and that **faith is our state by design**. These are the book's doctrinal conclusions developed from the controlling source and the connected Scripture argument.
 
 **Dikaioō (δικαιόω)** — The Greek verb associated with justification. The leaflet's printed gloss is “render just or innocent (free from evil or guilt).” Strong's and Thayer's lexical entries are treated separately in the references; the book's full restoration argument is not reduced to a single dictionary definition.
+
+**Dikaiosynē (δικαιοσύνη)** — Righteousness. The Aletheia leaflet explains it through equity, impartiality to and conformity with God's nature, and gives the source wording “original: back on course.” This book preserves that as the leaflet's explanation and develops its doctrinal implications in the wider Scripture set.
 
 **Elenchos (ἔλεγχος)** — The term rendered “evidence” in Hebrews 11:1. It is joined to *hypostasis* in the verse. Book I concentrates on the foundation expressed by *hypostasis*; Book II, *Faith Is Evidence*, develops this evidence dimension.
 
@@ -1511,5 +1513,3 @@ The explanations below clarify how important terms are used in this volume. Wher
 **Spoudē (σπουδή)** — The noun translated “diligence” in 2 Peter 1:5. It is distinct from the related verb *spoudazō* (σπουδάζω), which appears in other passages and must not be substituted for the noun in this verse.
 
 **True nature** — A central expression in the Aletheia teaching, connected with humanity's creation in the image and likeness of God, the state of God's children, and the source's interpretation of coming short of glory as deviation from true nature. The expression is developed across the Scripture cluster rather than assigned to one isolated verse.
-
-**Design** — The doctrinal framework used throughout this book for humanity's created image and likeness, true nature, and identity as revealed in Christ. The governing formulation is that **Jesus represents who we are by Design** and that **faith is our state by design**. These are the book's doctrinal conclusions developed from the controlling source and the connected Scripture argument.
