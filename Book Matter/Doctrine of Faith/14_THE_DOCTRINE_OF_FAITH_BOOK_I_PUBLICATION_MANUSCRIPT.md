@@ -57,13 +57,13 @@ The chapters are intended to be read in sequence. Each develops a part of the ar
 
 > **Hebrews 11:1 (KJV):** “Now faith is the substance of things hoped for, the evidence of things not seen.”
 
-The doctrine of faith begins with a question more fundamental than how a person obtains a desired result: **what is faith?** Hebrews 11:1 answers by placing faith in relation to two realities—things hoped for and things not seen. The King James Version calls faith the “substance” of the first and the “evidence” of the second. The Greek terms behind those two words are *hypostasis* and *elenchos*.
+The doctrine of faith begins with a question more fundamental than how a person obtains a desired result: **what is faith?** Hebrews 11:1 places faith in relation to two realities: things hoped for and things not seen. The King James Version calls faith the “substance” of the first and the “evidence” of the second. The Greek terms are *hypostasis* and *elenchos*.
 
-Both clauses belong to the same sentence and must be read together. This volume gives its foundational attention to *hypostasis*: faith as substance and underlying reality. The companion volume, *Faith Is Evidence*, develops the evidence dimension. That division of emphasis does not divide the verse or make either clause dispensable. The foundation established here is what allows the evidence dimension to be developed coherently.
+Both clauses belong to one sentence and must be read together. This volume concentrates on *hypostasis*: faith as substance and underlying reality. The companion volume, *Faith Is Evidence*, develops the evidence dimension. This division of emphasis does not divide the verse or make either clause dispensable; the foundation established here supports the later treatment of evidence.
 
 The wording also guards against a serious misunderstanding. Hebrews 11:1 does not say that every private wish becomes real merely because someone believes intensely. The chapter that follows describes people responding to what God had spoken, promised, or made known. Their faith is expressed through allegiance, obedience, endurance, and action, including when the promised outcome is not yet visible.
 
-The question, then, is not how to turn belief into a technique. It is what kind of reality faith names, and how that reality relates to the state of the children of God.
+The question is not how to turn belief into a technique. It is what reality faith names and how that reality relates to the state of God's children.
 
 ## The sentence and its setting
 
@@ -71,7 +71,7 @@ The Greek text reads:
 
 > Ἔστιν δὲ πίστις ἐλπιζομένων ὑπόστασις, πραγμάτων ἔλεγχος οὐ βλεπομένων.
 
-The principal terms are *pistis* (faith), *elpizomenōn* (things hoped for), *hypostasis* (substance, underlying reality, or assurance according to contextual interpretation), *pragmatōn* (things or matters), and *elenchos* (evidence, proof, or conviction). The sentence predicates *hypostasis* of *pistis* in relation to things hoped for. The KJV rendering “faith is the substance of things hoped for” is therefore not incidental; it is the wording that gives this inquiry its starting point.
+The principal terms are *pistis* (faith), *elpizomenōn* (things hoped for), *hypostasis* (substance, underlying reality, or assurance, depending on contextual interpretation), *pragmatōn* (things or matters), and *elenchos* (evidence, proof, or conviction). The sentence predicates *hypostasis* of *pistis* in relation to things hoped for. The KJV's “faith is the substance of things hoped for” therefore provides the starting point for this inquiry.
 
 Hebrews 11:1 must also be read in the movement of the preceding chapter. Hebrews 10 recalls the readers' endurance under affliction, public reproach, suffering, and the loss of possessions. They are urged not to cast away their confidence; they have need of patience; and the writer contrasts living by faith with drawing back. Faith is thus presented in a setting of promise, endurance, confidence, and perseverance.
 
@@ -85,9 +85,9 @@ One lexical distinction is important. Hebrews 10:34 uses the KJV phrase “a bet
 
 The Greek noun is **ὑπόστασις (*hypostasis*)**. Its documented range includes a substructure or foundation; that which has actual existence, substance, or real being; the substantial quality or nature of a person or thing; and steadiness of mind, firmness, confidence, or assurance.
 
-The lexical evidence must be represented accurately. Thayer records the “substantial quality, nature” sense in connection with Hebrews 1:3, while listing Hebrews 11:1 under confidence or assurance. The NAS Exhaustive Concordance summary includes support, substance, steadiness, and assurance. The Cambridge Greek Testament commentary discusses underlying essence, basis or foundation, and confidence, and favours confidence as the contextual sense in Hebrews 11:1. The Expositor's Greek Testament notes the foundation sense and its relation to assurance or confidence. These references show that the contextual force of the word is discussed; they do not all assign it the same sense in this verse.
+The lexical evidence requires careful representation. Thayer records “substantial quality, nature” in connection with Hebrews 1:3, but lists Hebrews 11:1 under confidence or assurance. The NAS Exhaustive Concordance summary includes support, substance, steadiness, and assurance. The Cambridge Greek Testament commentary discusses underlying essence, basis or foundation, and confidence, favouring confidence as the contextual sense in Hebrews 11:1. The Expositor's Greek Testament likewise notes the foundation sense and its relation to assurance or confidence. These sources do not assign the word one uniform sense in this verse; they demonstrate why its context must be considered.
 
-The word's formation is sometimes explained through the image of standing or being set under. That image can help a reader remember the word, but the parts of a compound do not, by themselves, determine the established meaning of the whole word in a particular passage. The argument must rest on actual usage, context, and the relationship of the word to the sentence.
+The word's formation is sometimes explained through the image of standing or being set under. This may serve as a memory aid, but the parts of a compound do not determine the meaning of the whole word in a particular passage. Interpretation must rest on actual usage, context, and the word's function in the sentence.
 
 Two principal readings therefore deserve attention.
 
@@ -95,9 +95,9 @@ Two principal readings therefore deserve attention.
 
 **Assurance or firm confidence.** On this reading, faith is settled confidence concerning what is hoped for and not yet seen. This interpretation draws attention to Hebrews 10's call to endurance and the faithfulness of the Promiser, and to the conduct of the witnesses in Hebrews 11.
 
-These readings should not be caricatured. Assurance in Hebrews is not shallow optimism; it is confidence expressed through endurance and allegiance to the Promiser. Equally, the word's substance sense must not be dismissed simply because some interpreters prefer assurance in Hebrews 11:1. The KJV's rendering is significant, and the substance or underlying-reality reading remains the foundation for the doctrinal development in this volume.
+Neither reading should be caricatured. Assurance in Hebrews is not shallow optimism; it is confidence expressed through endurance and allegiance to the Promiser. Nor should the substance sense be dismissed simply because some interpreters prefer assurance in Hebrews 11:1. The KJV's rendering remains significant, and the substance or underlying-reality reading provides the foundation for the doctrinal development in this volume.
 
-The distinction between lexical range and contextual interpretation remains important. The fact that *hypostasis* can refer to substance or nature does not, by itself, prove that Hebrews 11:1 is defining the believer's nature. That connection is the doctrinal argument developed here. It must be shown through the wider scriptural and Aletheia source material, not claimed as a conclusion supplied by etymology alone.
+Lexical range and contextual interpretation must remain distinct. The fact that *hypostasis* can refer to substance or nature does not, by itself, prove that Hebrews 11:1 defines the believer's nature. That connection is the doctrinal argument developed in this volume, supported by the wider Scriptures and the Aletheia source—not by etymology alone.
 
 ## Hebrews 1:3 and Hebrews 3:14
 
@@ -113,7 +113,7 @@ Hebrews 3:14 provides another necessary comparison because the same noun appears
 
 The 2015 *Aletheia Libraries 1* leaflet's “Faith toward God” section begins with Hebrews 6:1: “and of faith toward God.” It states that faith essentially defines our state as children of God; identifies Greek *pistis* as “credence”; and connects that credence with acceptance, true nature, and espousal or adoption as sons of God. The leaflet brings this teaching into relation with Galatians 4:5–7, Romans 8:15, Ephesians 1:5, Genesis 1:26–27, 2 Peter 1:4, and Psalm 82:6.
 
-The source's wording is direct: faith defines the state of God's children. Its argument is not limited to what a person thinks about God. It connects *pistis*—credence—with acceptance, true nature, and Sonship.
+The source's statement is direct: faith defines the state of God's children. It does not limit faith to what a person thinks about God; it connects *pistis*—credence—with acceptance, true nature, and Sonship.
 
 The leaflet does not quote Hebrews 11:1 in this section, nor does it use the word *hypostasis*. The connection between Hebrews 11:1 and the leaflet's teaching is the doctrinal development of this book. The two lines are brought together as follows:
 
@@ -124,7 +124,7 @@ This book brings these lines into relation: **faith is our state by Design**. Fa
 
 ## Faith as our state by Design
 
-The Aletheia source's use of “state” gives the doctrine its particular force. Faith is not merely a mental statement detached from the person. It concerns the state of the children of God: acceptance, true nature, and adoption as sons. This state is not an accidental condition or a temporary religious feeling. It belongs to humanity's Design and is to be understood through what God has made known and accomplished in Christ.
+The Aletheia source's use of “state” gives the doctrine its particular force. Faith is not a mental statement detached from the person; it concerns the state of God's children—acceptance, true nature, and adoption as sons. This is neither an accidental condition nor a temporary religious feeling. It belongs to humanity's Design and must be understood through what God has made known and accomplished in Christ.
 
 This conviction must be developed through the full scriptural movement of the book. Genesis 1:26–28 supplies the language of image, likeness, blessing, fruitfulness, and dominion. Galatians 4:5–7 and Romans 8:14–17 develop adoption, the Spirit of the Son, and heirship. Second Peter 1:2–8 speaks of divine power, the promises, participation in divine nature, escape from corruption, and the qualities that are to abound. Psalm 82:1–8 must be read with its judgment setting, and Jesus' appeal in John 10:30–39 must be read as part of the exchange in which He invokes the written Scripture.
 
@@ -165,13 +165,13 @@ The 2015 Aletheia leaflet opens its treatment of faith with this verse and gives
 
 The leaflet identifies the Greek noun πίστις (*pistis*, G4102) as **credence**. It then connects credence with acceptance, true nature, and espousal or adoption as sons of God, citing Galatians 4:5–7, Romans 8:15, and Ephesians 1:5. Faith, in this account, is not reduced to a momentary feeling or a religious opinion. The source places it in relation to who God's children are.
 
-This teaching follows the foundation considered in Chapter 1. Hebrews 11:1 describes faith as *hypostasis* in relation to things hoped for. The leaflet's “Faith toward God” exposition uses *pistis* and the word “credence” to describe the state of God's children. The two Greek terms are not interchangeable, and the leaflet does not present a *hypostasis* word study. The connection developed in this book is that the substance of faith and the credence that defines the children's state belong to one foundational inquiry: what faith is, and what it means for the person who lives in the reality God has made known.
+This teaching builds on Chapter 1. Hebrews 11:1 describes faith as *hypostasis* in relation to things hoped for; the leaflet uses *pistis*—“credence”—to describe the state of God's children. The terms are not interchangeable, and the leaflet does not offer a *hypostasis* word study. Book I brings the two teachings into one foundational inquiry: what faith is and what it means to live in the reality God has made known.
 
 ## Credence: what is credited, and the state it defines
 
-“Credence” concerns credit given to what is presented as true. In this teaching, the object is not a possibility invented by the believer. Faith toward God concerns what God has made known and the state of those who receive and credit His testimony.
+“Credence” concerns the credit given to what is presented as true. The object of faith is not a possibility invented by the believer. Faith toward God concerns what God has made known and the state of those who receive and credit His testimony.
 
-That is why the leaflet joins credence to acceptance and true nature. It does not describe faith as an isolated mental act that leaves the person's identity untouched. Its statement reaches beyond assent: faith essentially defines the state of God's children. The term must be allowed to retain that force.
+The leaflet therefore joins credence to acceptance and true nature. Faith is not an isolated mental act that leaves identity untouched. Its statement reaches beyond assent: faith essentially defines the state of God's children. That force must be retained.
 
 Nor should the word “state” be emptied of its relational meaning. The source identifies the state as that of children of God and connects it with adoption as sons. The passages it names explain the relationship: God sends His Son; redemption and adoption are joined; the Spirit bears witness to the Father–son relationship; and those who are sons are heirs through Christ.
 
@@ -189,11 +189,11 @@ The movement reaches its decisive statement in verses 4–7:
 >
 > Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.” — Galatians 4:4–7, KJV
 
-The sequence is significant. God sent His Son, who was made of a woman and made under the law. He came to redeem those under the law so that they might receive the adoption of sons. Because they are sons, God sends the Spirit of His Son into their hearts, crying, “Abba, Father.” Paul then states the consequence: no longer a servant, but a son; and if a son, an heir of God through Christ.
+Paul's sequence is deliberate. God sent His Son, made of a woman and under the law, to redeem those under the law so that they might receive adoption as sons. Because they are sons, God sends the Spirit of His Son into their hearts, crying, “Abba, Father.” Paul states the consequence plainly: no longer a servant, but a son—and, if a son, an heir of God through Christ.
 
-The words **“because ye are sons”** locate the Spirit's cry within the relationship of Sonship. The passage does not present the cry as a substitute for that relationship. The Spirit bears witness to the Father–son reality; the conclusion is not servitude but Sonship and heirship.
+The words **“because ye are sons”** place the Spirit's cry within the relationship of Sonship. The cry does not create a substitute for that relationship; it expresses the reality already named. Paul's conclusion is freedom from servitude, Sonship, and heirship.
 
-Redemption and adoption must therefore remain together. Adoption is not discussed as though the Son had not come and redeemed; redemption is not discussed as though the purpose of adoption were absent. The Aletheia source's account of faith as the state of God's children is set within this action of God through His Son.
+Redemption and adoption belong together. Adoption cannot be detached from the Son who came and redeemed; redemption cannot be separated from its stated purpose of adoption. The Aletheia source's account of faith as the state of God's children is set within this action of God through His Son.
 
 ## The Spirit's witness and the inheritance of God's children
 
@@ -207,23 +207,23 @@ Romans 8:14–17 develops the same relationship and includes the believer's life
 >
 > And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.” — Romans 8:14–17, KJV
 
-Paul connects the Spirit's leading, Sonship, adoption, the cry “Abba, Father,” the Spirit's witness, and inheritance. He also includes suffering with Christ and being glorified together. The inheritance is not detached from Christ: Galatians says “an heir of God through Christ,” and Romans says “joint-heirs with Christ.”
+Paul connects the Spirit's leading with Sonship, adoption, the cry “Abba, Father,” the Spirit's witness, and inheritance. He also includes suffering with Christ and shared glory. Inheritance is inseparable from Christ: Galatians speaks of “an heir of God through Christ,” while Romans names believers “joint-heirs with Christ.”
 
-The Spirit's witness is not presented as a passing sensation. It bears witness with our spirit that we are children of God. The passage names a relationship and then states its consequence: if children, heirs of God and joint-heirs with Christ. Its mention of suffering also belongs to the same movement and must not be removed when the promise of shared glory is considered.
+The Spirit's witness is not a passing sensation: it bears witness with our spirit that we are children of God. Paul then states the consequence—if children, heirs of God and joint-heirs with Christ. Suffering with Christ belongs to this same movement and must remain in view alongside the promise of shared glory.
 
-The source's language of state is therefore relational and substantial. It concerns the identity of God's children, their relation to the Father through the Son, the Spirit's witness, and their inheritance in Christ. Faith cannot be reduced to a psychological condition detached from this scriptural account.
+The source's language of state is relational and substantial. It concerns the identity of God's children, their relation to the Father through the Son, the Spirit's witness, and their inheritance in Christ. Faith is not a psychological condition detached from this scriptural reality.
 
 ## Adoption belongs to the Father's purpose
 
 Ephesians 1:3–5 places adoption within God's purpose in Christ. Paul speaks of spiritual blessing in Christ, God's choosing in Him before the foundation of the world, and predestination unto adoption by Jesus Christ according to the good pleasure of God's will.
 
-The passage states that adoption is by Jesus Christ and according to the good pleasure of God's will. It also places God's purpose in the language of “before the foundation of the world.” The doctrinal conclusion developed here is that adoption belongs to God's purpose; it was not merely an afterthought. That conclusion is drawn from the passage's stated sequence and language rather than presented as a separate quotation from it.
+Paul states that adoption is by Jesus Christ and according to the good pleasure of God's will, placing it within God's purpose “before the foundation of the world.” The doctrinal conclusion is that adoption belongs to God's purpose; it is not an afterthought. This conclusion follows from the passage's sequence and wording rather than being presented as a separate quotation.
 
 Galatians 4 shows the Son sent and redemption accomplished so that adoption might be received. Ephesians 1 shows adoption within the good pleasure of God's will. Together they hold God's purpose and Christ's redemptive action in one account.
 
 ## Faith, Sonship, and the Father's pleasure
 
-The governing doctrinal conviction is clear: **faith is our state by design**. Humanity was created in the image and likeness of Elohim; the Scriptures speak of participation in the divine nature; and those who are sons are heirs through Christ. The Father's will and pleasure is for His sons to operate in the state He designed and has made available in Christ. This is not a passing emotional condition. It concerns the state and identity of God's children.
+The governing doctrinal conviction is clear: **faith is our state by design**. Humanity was created in the image and likeness of Elohim; Scripture speaks of participation in the divine nature; and those who are sons are heirs through Christ. The Father's will and pleasure is for His sons to live in the state He designed and has made available in Christ. This is not a passing emotion but the state and identity of God's children.
 
 Ephesians 1:5 says that adoption is according to the good pleasure of God's will:
 
@@ -235,7 +235,7 @@ Matthew 3:17 records the Father's declaration over Jesus:
 
 > “And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.” — Matthew 3:17, KJV
 
-The Father identifies Jesus as His beloved Son and declares His pleasure in Him. This declaration belongs in the wider argument about the Father's pleasure and Sonship. The connection to the Father's pleasure in His sons is developed through Ephesians 1:5, Galatians 4:5–7, and Romans 8:14–17; Matthew 3:17 alone is not made to carry the entire conclusion.
+The Father identifies Jesus as His beloved Son and declares His pleasure in Him. The declaration contributes to the wider argument about divine pleasure and Sonship. The connection to the Father's pleasure in His sons is developed through Ephesians 1:5, Galatians 4:5–7, and Romans 8:14–17; Matthew 3:17 is not made to carry that conclusion by itself.
 
 Hebrews 11:2 says:
 
@@ -249,7 +249,7 @@ The next verse states:
 
 > “But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.” — Hebrews 11:6, KJV
 
-These verses connect faith with good report and pleasing God. Matthew 3:17 records the Father's pleasure in His beloved Son; Ephesians 1:5 identifies adoption as according to the good pleasure of His will; and Galatians 4 and Romans 8 identify believers as sons, children, and heirs through Christ. The doctrinal synthesis is that faith is our state by design and that the Father's pleasure is for His sons to operate in that state—not to live beneath the identity and nature represented in the Son.
+These verses connect faith with good report and pleasing God. Matthew 3:17 records the Father's pleasure in His beloved Son; Ephesians 1:5 places adoption within the good pleasure of His will; and Galatians 4 and Romans 8 identify believers as sons and heirs through Christ. The doctrinal synthesis is that faith is our state by design and that the Father's pleasure is for His sons to live in that state, not beneath the identity and nature represented in the Son.
 
 The wider scriptural framework gives this direction its substance. Genesis 1:26–27 describes humanity made in God's image and likeness. Second Peter 1:4 speaks of becoming partakers of the divine nature. Galatians 4:5–7 speaks of redemption, adoption, Sonship, and heirship through Christ. Romans 8:16–17 speaks of the Spirit's witness and of children who are heirs of God and joint-heirs with Christ. These passages contribute distinct parts of the design, participation, Sonship, and heirship argument.
 
@@ -257,9 +257,9 @@ The wider scriptural framework gives this direction its substance. Genesis 1:26�
 
 The Aletheia source's teaching on *pistis* belongs to a connected scriptural sequence. Genesis 1:26–28 gives the image-and-likeness account of humanity's creation and commission. Second Peter 1:4 speaks of partaking of the divine nature. Psalm 82:6 must be read with the judgment setting of the psalm, including verse 7, and John 10 must be read through the full argument in which Jesus cites it. Romans 3:23–24, 1 Corinthians 11:7, and 2 Corinthians 4:4–6 contribute to the book's treatment of glory and image.
 
-These passages are not interchangeable proof-texts. Each has its own setting and contributes a distinct part of the argument. Together, they develop the source's connection between faith, true nature, and the state of God's children. The governing doctrinal direction is that **faith is our state by design** and that **Jesus represents who we are by Design**. The latter must be developed in the full argument concerning Christ's person and His accomplishment; redemption and justification are not displaced by representation.
+These passages are not interchangeable proof-texts. Each has its own setting and contributes a distinct part of the case for faith, true nature, and the state of God's children. The governing convictions are that **faith is our state by design** and **Jesus represents who we are by Design**. That representation must be understood alongside Christ's person and accomplishment; it does not displace redemption or justification.
 
-Chapter 1 established the book's foundational inquiry through *hypostasis* in Hebrews 11:1. This chapter has developed the Aletheia leaflet's explicit teaching on *pistis* as credence defining the state of God's children, connected with acceptance, true nature, and adoption as sons. The relation between these teachings is the doctrinal argument of Book I: the substance foundation and the state of God's children are considered together, while the terms and their source attributions remain distinct.
+Chapter 1 established the book's foundational inquiry through *hypostasis* in Hebrews 11:1. This chapter has developed the Aletheia leaflet's explicit teaching on *pistis* as credence defining the state of God's children, connected with acceptance, true nature, and adoption as sons. Book I brings these teachings into relation: the substance foundation and the state of God's children are considered together, while the terms and their source attributions remain distinct.
 
 The sequence developed here can be followed plainly:
 
@@ -271,7 +271,7 @@ The sequence developed here can be followed plainly:
 - Matthew 3:17 and Hebrews 11:2, 5–6 bring the Father's pleasure, faith, good report, and pleasing God into the argument.
 - The subsequent chapters develop image and likeness, divine nature, redemption, righteousness, heirship, oneness, and the present reality in Christ.
 
-Faith, then, is not treated here as a passing mood or a verbal formula. The Aletheia source identifies it as credence that defines the state of God's children. The scriptural passages considered in this chapter describe that state through Sonship, the Father's purpose, the Spirit's witness, and inheritance through Christ. The remaining chapters will develop the wider design and restoration argument in which this foundation belongs.
+Faith is therefore neither a passing mood nor a verbal formula. The Aletheia source identifies it as credence that defines the state of God's children. The Scriptures considered here describe that state through Sonship, the Father's purpose, the Spirit's witness, and inheritance through Christ. The following chapters develop the wider argument concerning Design and restoration.
 
 ## Questions for reflection and study
 
