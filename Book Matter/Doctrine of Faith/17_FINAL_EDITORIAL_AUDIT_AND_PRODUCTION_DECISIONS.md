@@ -467,3 +467,36 @@ A further review was made against the integrated ten-chapter manuscript, with pa
 - Commit: 9a4d2590021248cbba349d50f134453fa9826300.
 
 **Stage 4.4 is closed.** This closes the Chapters 7–8 work package only. Stage 4 as a whole remains **IN PROGRESS**; Chapters 9–10 and the final whole-book consistency review remain outstanding.
+
+
+## Stage 4.5 — Chapters 9–10 line and copy edit — 2026-11-08
+
+**Disposition: COMPLETE.** Chapters 9 and 10 have received a focused sentence-level and paragraph-level literary edit in canonical manuscript 14 on the production branch.
+
+### Work completed
+
+- Refined Chapter 9's opening movement from the Son's identity and heirship into Jesus' prayer for believers in John 17, reducing repeated framing while retaining the chapter's connection to the preceding sonship and heirship argument.
+- Tightened the treatment of Jesus' sending of the disciples in John 17:18–19 and clarified the relationship between the Son's mission and the disciples' mission without collapsing their distinct relations.
+- Improved the exposition of John 17:20–23 by making the sequence of believers' oneness, the Father-and-Son relationship, the glory given, Christ's indwelling, and the world's witness easier to follow.
+- Refined the explanation of the repeated comparison “as,” retaining its full force while preserving the personal and relational distinctions present in the prayer.
+- Reduced repeated explanations of oneness as more than agreement or institutional unity, and sharpened the purpose clauses concerning the world's belief that the Father sent the Son and knowledge of the Father's love.
+- Tightened the synthesis connecting John 17 with Genesis 1:26–28, 2 Peter 1:4, Galatians 4:5–7, Romans 8:16–17, Hebrews 1:3, 2 Corinthians 5:21, and 1 John 4:17. The distinct wording and contribution of each passage remain visible.
+- Refined Chapter 10's opening and the movement through 2 Corinthians 4:1–6, improving the progression from truthful ministry, to Christ as the image of God, to the light of the knowledge of God's glory in His face.
+- Reduced repeated explanations of the image/glory connection and clarified the relationship between Paul's creation-light comparison and the wider Genesis image-and-likeness argument.
+- Tightened the synthesis concerning coming short of glory, justification, redemption, and restoration to Design, preserving the distinction between direct scriptural statements, Aletheia source wording, and the book's doctrinal conclusion.
+- Refined the present-reality discussion while retaining the passages' future dimensions and contextual qualifications. Preserved the governing synthesis: Christ's work restores what Christ's person reveals.
+- Improved sentence economy, paragraph rhythm, transitions, and reader-facing clarity without changing the approved chapter sequence or removing the study questions.
+
+### Verification
+
+- Chapters 9 and 10 remain present in the canonical manuscript and in the approved sequence.
+- Chapter 9 retains seven reflection and study questions; Chapter 10 retains seven reflection and study questions.
+- John 17:1, 18–23 remains central to Chapter 9; the prayer's purpose, relational comparisons, glory, indwelling, and witness remain represented.
+- Chapter 10 retains the full movement of 2 Corinthians 4:1–6, including the ministry's truthfulness, Christ as the image of God, and the knowledge of God's glory in His face.
+- The distinction between direct scriptural statements and the book's wider doctrinal synthesis remains explicit.
+- The thesis that Jesus represents who we are by Design remains joined to His redemptive accomplishment; neither representation nor redemption is used to displace the other.
+- No owner/editor workflow language or production transition labels were introduced.
+- Canonical manuscript content SHA after this edit: e0945c13c6e12bdf2f59cced47b387a70383d052.
+- Commit: a0744ab36fc49ffd0dcea98626f99392e3f47894.
+
+**Stage 4.5 is closed.** This closes the Chapters 9–10 work package only. Stage 4 as a whole remains **IN PROGRESS**; the final whole-book consistency review (Stage 4.6) remains outstanding.
