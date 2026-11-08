@@ -376,3 +376,29 @@ A further review was made against the integrated ten-chapter manuscript, with pa
 - Commit: `3632768dafcd33402c796322b4799e8e9d508ed6`.
 
 **Stage 4.1 is closed.** This closes the Chapters 1–2 work package only. Stage 4 as a whole remains **IN PROGRESS**; Chapters 3–10 and the final whole-book consistency review remain outstanding.
+
+
+## Stage 4.2 — Chapters 3–4 line and copy edit — 2026-11-08
+
+**Disposition: COMPLETE.** Chapters 3 and 4 have received a focused sentence-level and paragraph-level literary edit in canonical manuscript 14 on the production branch.
+
+### Work completed
+
+- Refined Chapter 3's opening hand-off from the faith/credence foundation into the creation account, reducing repeated framing and clarifying the distinct contribution of Genesis 1:26–28.
+- Tightened the exposition of *’ĕlōhîm*, image, likeness, blessing, fruitfulness, and dominion. The Aletheia leaflet's stated interpretation “plural: Trinity” remains preserved as the source's theological reading.
+- Improved the integration of John 14:12, 1 John 4:17, Psalm 82:6, Romans 8:17, and John 17:20–23, retaining the contexts and distinct contribution of each passage.
+- Strengthened the progression from humanity's design to the thesis that Jesus represents who we are by Design, while keeping His redemptive accomplishment essential to restoration.
+- Tightened the Mark 11:20–25 and Matthew 5:43–48 discussions, retaining the doctrinal reading and the contextual qualifications concerning speech, prayer, forgiveness, enemy-love, and perfected love.
+- Refined Chapter 4's movement through Psalm 82:1–8, John 10:30–38, and the paired-passage synthesis. Repeated descriptions of the judgment setting and Jesus' appeal were consolidated without omitting the declaration, the rebuke, the judgment, or Jesus' statement that Scripture cannot be broken.
+- Improved paragraph rhythm, sentence economy, transitions, and reader-facing clarity throughout both chapters.
+
+### Verification
+
+- Chapters 3 and 4 remain present in the canonical manuscript and in the approved sequence.
+- Chapter 3's study and argument exercise remains present; Chapter 4 retains five numbered study questions.
+- The source's “plural: Trinity” interpretation, the source's design doctrine, Psalm 82:6–7's paired declaration and judgment, and John 10's appeal to Scripture remain intact.
+- No author-workflow language or production transition labels were introduced.
+- Canonical manuscript content SHA after this edit: `0b5547e336aa2035ca93ea42b9cd14bca25ca887`.
+- Commit: `4b9dbe8c9ac361eb5a91d0923414e66e09a9a50a`.
+
+**Stage 4.2 is closed.** This closes the Chapters 3–4 work package only. Stage 4 as a whole remains **IN PROGRESS**; Chapters 5–10 and the final whole-book consistency review remain outstanding.
