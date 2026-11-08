@@ -431,3 +431,39 @@ A further review was made against the integrated ten-chapter manuscript, with pa
 - Commit: `4e7129ecfbff63b6fe35ec3081502fd877024749`.
 
 **Stage 4.3 is closed.** This closes the Chapters 5–6 work package only. Stage 4 as a whole remains **IN PROGRESS**; Chapters 7–10 and the final whole-book consistency review remain outstanding.
+
+
+## Stage 4.4 — Chapters 7–8 line and copy edit — 2026-11-08
+
+**Disposition: COMPLETE.** Chapters 7 and 8 have received sentence-level and paragraph-level literary editing in canonical manuscript 14 on the production branch.
+
+### Work completed
+
+- Refined Chapter 7's transition from the question of Christ's coming into the three distinct terms *dikaioō*, *dikaiosynē*, and *apolutrōsis*.
+- Tightened the presentation of δικαιούμενοι (*dikaioumenoi*) and its grammatical description, retaining the previously verified morphology and passive force in Romans 3:24.
+- Improved the presentation of the complete Strong's G1344 entry and Thayer's distinctions, preserving Thayer's qualification concerning the rarity of the “render righteous” sense.
+- Refined the argument connecting coming short of glory, designed identity, and free justification without collapsing lexical definition into doctrinal synthesis.
+- Tightened the discussion of 1 Corinthians 15:41, retaining its resurrection context and its role as a cross-passage inference.
+- Improved the explanation of *apolutrōsis*, “ransom in full,” and the distinction between lexical meaning and the source's restoration-to-original-design conclusion.
+- Refined the sequence in 2 Corinthians 5:17–21: new creation, reconciliation, ambassadors, Christ made sin, and the righteousness of God in Him.
+- Improved the comparison and synthesis of the three Greek terms while preserving their distinct functions and the source's own formulations.
+- Refined Chapter 8's opening and the exposition of Hebrews 1:1–8, improving the integration of the Son's identity, heirship, express image, redemptive accomplishment, and exaltation.
+- Preserved Hebrews 1:8 in the Son's portrait and kept the previously abandoned question out of the reader exercises and doctrinal argument.
+- Tightened the treatment of Galatians 4:1–7 and Romans 8:14–17, preserving the distinct contributions of redemption, adoption, the Spirit of the Son, sonship, heirship, joint-heirship, suffering, and shared glory.
+- Refined the integration of 2 Corinthians 5:21 and 1 John 4:17, retaining “in Him” and the context of perfected love and confidence in the day of judgment.
+- Improved the chapter's synthesis and conclusion, keeping the unique identity of the Son and His redemptive accomplishment together with believers' sonship and inheritance through Him.
+
+### Verification
+
+- Chapters 7 and 8 remain present in the canonical manuscript and approved sequence.
+- Chapter 7 retains eight study questions; Chapter 8 retains nine teaching questions.
+- The source's three glosses remain: *dikaioō* — “render just or innocent”; *dikaiosynē* — “back on course”; *apolutrōsis* — “ransom in full.”
+- Thayer's qualification, the Romans 3:21–28 argument, and the reconciliation sequence in 2 Corinthians 5:17–21 remain represented.
+- Hebrews 1:8 remains in the Son's portrait; the former question remains abandoned and is absent from the reader exercises.
+- Galatians 4 and Romans 8 retain their respective sonship and heirship sequences.
+- The representation thesis remains joined to Christ's redemptive accomplishment.
+- No author-workflow language or production transition labels were introduced.
+- Canonical manuscript content SHA after this edit: 885035719af8016129f069decd8043d4c441c000.
+- Commit: 9a4d2590021248cbba349d50f134453fa9826300.
+
+**Stage 4.4 is closed.** This closes the Chapters 7–8 work package only. Stage 4 as a whole remains **IN PROGRESS**; Chapters 9–10 and the final whole-book consistency review remain outstanding.
