@@ -352,11 +352,7 @@ Jesus connects the works of the believer with His own works and gives His going 
 
 The words “as he is, so are we in this world” are direct and present-tense. Their force must be retained, together with the context John gives: perfected love and boldness in the day of judgment. The design argument considers both the identity statement and the setting in which it appears.
 
-**Psalm 82:6** declares:
-
-> “I have said, Ye are gods; and all of you are children of the most High.” — Psalm 82:6, KJV
-
-The verse joins the designation “gods” with “children of the most High.” Chapter 4 examines it with the judgment setting of Psalm 82, including verse 7, and Jesus' appeal in John 10. Here it signals a connection that must be pursued in context.
+Psalm 82:6 belongs to the wider design argument because it joins the designation “gods” with “children of the most High.” It must be read with the judgment setting of Psalm 82:1–8 and Jesus' appeal in John 10:34–36. Chapter 4 gives that paired testimony its full treatment; the verse is not isolated here as a detached proof text.
 
 **Romans 8:17** adds the language of inheritance:
 
