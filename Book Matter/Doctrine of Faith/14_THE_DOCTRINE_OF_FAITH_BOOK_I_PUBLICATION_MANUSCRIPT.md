@@ -223,7 +223,7 @@ Galatians 4 shows the Son sent and redemption accomplished so that adoption migh
 
 ## Faith, Sonship, and the Father's pleasure
 
-The governing doctrinal conviction is clear: **faith is our state by design**. Humanity was created in the image and likeness of Elohim; Scripture speaks of participation in the divine nature; and those who are sons are heirs through Christ. The Father's will and pleasure is for His sons to live in the state He designed and has made available in Christ. This is not a passing emotion but the state and identity of God's children.
+The governing doctrinal conviction is clear: **faith is our state by design**. Humanity was created in the image and likeness of *’ĕlōhîm*; Scripture speaks of participation in the divine nature; and those who are sons are heirs through Christ. The Father's will and pleasure is for His sons to live in the state He designed and has made available in Christ. This is not a passing emotion but the state and identity of God's children.
 
 Ephesians 1:5 says that adoption is according to the good pleasure of God's will:
 
@@ -443,7 +443,7 @@ The declaration must be allowed to speak with its full force, but verse 6 is not
 
 Both verses belong to the same passage. A faithful reading cannot quote verse 6 as though verse 7 were absent, nor use verse 7 to erase the declaration in verse 6. The chapter therefore holds the two together and then considers the way Jesus Himself appeals to the writing in John 10.
 
-The governing doctrinal direction is that humanity is God by design, created in the image and likeness of Elohim. Psalm 82:6 contributes to this teaching; its wording, judgment setting, and Jesus' use of it must all remain in view.
+The governing doctrinal direction is that humanity is God by design, created in the image and likeness of *’ĕlōhîm*. Psalm 82:6 contributes to this teaching; its wording, judgment setting, and Jesus' use of it must all remain in view.
 
 ## Psalm 82:1–5 — the judgment scene
 
@@ -1249,7 +1249,7 @@ Verse 23 continues the thought: “I in them, and thou in me, that they may be m
 
 The prayer's final purpose statement is equally significant: “that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.” Jesus places the Father's love for believers alongside the Father's love for Him. The comparison is explicit.
 
-This statement belongs with the preceding chapters' treatment of sonship and heirship. Galatians 4:5–7 speaks of adoption, the Spirit of the Son in our hearts, and the believer's status as a son and heir through God. Romans 8:16–17 speaks of the Spirit bearing witness with our spirit that we are children of God, and, if children, heirs—heirs of God and joint-heirs with Christ. John 17 adds the language of the Father's love: believers are loved as the Father loves the Son.
+This statement belongs with the preceding chapters' treatment of sonship and heirship. Galatians 4:5–7 speaks of adoption, the Spirit of the Son in our hearts, and the believer's status as a son and heir through Christ. Romans 8:16–17 speaks of the Spirit bearing witness with our spirit that we are children of God, and, if children, heirs—heirs of God and joint-heirs with Christ. John 17 adds the language of the Father's love: believers are loved as the Father loves the Son.
 
 Each passage retains its own emphasis: Galatians develops redemption, adoption, and heirship; Romans develops the Spirit's witness, sonship, suffering, and shared glory; John 17 records the Son's prayer for oneness and the world's knowledge of the Father's love. Together they show that the believer's relation to God is not merely distant or external. Jesus prays for believers to participate in the oneness and love of the Father and the Son.
 
