@@ -535,6 +535,102 @@ No structural redesign, new chapter, or wholesale rewrite is indicated. No amend
 
 ---
 
+# Chapter 6 — Assessment
+
+**Chapter:** “Why Did Jesus Come? Glory, Deviation, and Representation”  
+**Assessment status:** **ASSESSMENT COMPLETE — TARGETED STRENGTHENING**  
+**Amendment status:** **NOT STARTED — HOLD UNTIL ALL TEN CHAPTERS ARE ASSESSED**
+
+## 1. Assigned responsibility
+
+Chapter 6 must follow the Aletheia source's question, “Why did Jesus come?”, from humanity's creation in the image and likeness of God, through the source's interpretation of coming short of God's glory as deviation from true nature, to God's free justification and redemption in Christ. It must explain the relationship between Christ's representation of humanity's Design and His redemptive accomplishment, holding both together. It should establish why the next chapter's detailed treatment of justification, righteousness, and redemption matters without taking over Chapter 7's lexical and doctrinal responsibility.
+
+## 2. What the current chapter already accomplishes
+
+- Preserves the source's question, “Why did Jesus come?”, in its sequence after the creation / “like his Maker” teaching.
+- Connects Genesis 1:26–27 with the source's emphasis on humanity made like its Maker and its account of true nature.
+- Accurately attributes “deviation from true nature” as the Aletheia source's explanatory gloss on Romans 3:23, rather than presenting it as a word-for-word lexical translation.
+- Includes 1 Corinthians 11:7 and acknowledges its wider setting in 1 Corinthians 11:2–16, including headship, head coverings, and conduct in the assembly.
+- Reads Romans 3:21–26 as a continuous argument: God's righteousness manifested, universal sin, coming short of glory, free justification, redemption, propitiation, Christ's blood, and God as just and justifier.
+- Preserves the source's emphatic question and answer concerning free justification.
+- Includes 1 Corinthians 15:41 within Paul's resurrection argument and distinguishes the verse's explicit subject from the wider inference about glory and identity.
+- Connects Ephesians 1:7 and Colossians 1:13–14 with redemption through Christ's blood, forgiveness, deliverance, and translation into the Son's kingdom.
+- Holds the central thesis clearly: **Jesus represents who we are by Design**, and His redemptive accomplishment remains essential to restoration.
+- Retains the source's “back on course” restoration language as part of the wider argument and directs the detailed treatment of justification and righteousness to Chapter 7.
+- Preserves the contexts of Matthew 5:43–48 and 1 John 4:17 when using them in the wider identity-and-likeness argument.
+- Includes a substantial study exercise and a clear transition to Chapter 7.
+
+## 3. Findings requiring attention
+
+### Primary issue — coordinate scope with Chapters 3, 7, 8, and 10
+
+The chapter contains legitimate connections but has a broad scope. Several passages and themes overlap with chapters assigned to develop them more fully:
+
+- Genesis 1:26–28 and “like his Maker” substantially revisit Chapter 3's creation / Design foundation.
+- The detailed treatment of justification, *dikaioō*, *dikaiosynē*, and *apolutrōsis* belongs to Chapter 7.
+- Galatians 4:5–7, Romans 8:15–17, Sonship, and heirship anticipate Chapter 8's assigned responsibility.
+- Matthew 5:48 and 1 John 4:17 overlap with the wider identity / likeness and Christ-and-glory argument, including Chapter 10.
+
+These connections must not disappear: the Aletheia source's sequence and its Scripture references must remain covered in the book. But Chapter 6 should concentrate on its own controlling question: why Jesus came in relation to humanity's Design, deviation from glory, and God's action in Christ. Detailed exposition assigned to other chapters should be concise here, with clear cross-references rather than repeated full treatment.
+
+### Secondary refinement — maintain the proper status of the 1 Corinthians 15:41 inference
+
+The chapter correctly identifies Paul's immediate subject as resurrection and the differing glory of the heavenly lights. It then develops the inference that glory expresses a thing's nature and distinction. Preserve this as the book's doctrinal inference across the connected Scripture set. Do not make 1 Corinthians 15:41 itself say that humanity came short of a particular glory or that it directly defines humanity's created nature. Genesis 1:26–27 and the Aletheia source's explicit connection supply the relevant creation / Design foundation.
+
+### Secondary refinement — make the three levels of argument consistently visible
+
+The chapter must continue to distinguish:
+1. The Aletheia leaflet's own sequence and explanatory statements.
+2. The direct wording and context of the biblical passages.
+3. The book's cumulative doctrinal conclusion that Christ's representation and redemptive accomplishment together restore humanity to Design.
+
+The distinction is already made in several places, especially around Romans 3:23 and 1 Corinthians 15:41. During line editing, ensure it remains consistent when the prose moves from coming short of glory to the conclusion that justification restores humanity to its designed state. Do not weaken the source's interpretation or misrepresent it as a lexical translation.
+
+### Core doctrinal control — keep representation and redemption together
+
+The chapter's strongest contribution is its explicit refusal to let representation cancel redemption or redemption erase what Christ represents. Preserve this central balance. Do not reduce the chapter to forgiveness detached from sin, propitiation, blood, justification, and redemption; equally, do not reduce it to an identity argument that underplays Christ's accomplishment.
+
+### Pedagogy — coordinate the exercise with Chapter 7
+
+The eight questions are relevant, but they cover a large amount of material, including the detailed redemption and lexical matters assigned to Chapter 7. During whole-book reconciliation, decide which questions should test Chapter 6's own argument and which should serve as a concise preparation for Chapter 7. Preserve the substantive question requiring readers to explain why representation and redemption must remain together.
+
+## 4. Controlled amendment direction
+
+**Targeted strengthening and coordination only.** Preserve the chapter's central argument and its substantial exposition. Later amendments should:
+
+1. Keep the source's question and sequence intact: Design, coming short of glory / deviation, free justification, and redemption in Christ.
+2. Retain accurate attribution of “deviation from true nature” and “back on course,” distinguishing source interpretation from direct biblical wording and lexical definition.
+3. Keep Romans 3:21–26 as the central scriptural movement answering the question.
+4. Preserve 1 Corinthians 11:7 and 15:41 in their respective contexts, identifying the latter's contribution as an inference within the wider argument.
+5. Coordinate overlapping exposition with Chapters 3, 7, 8, and 10 without losing the source's Scripture coverage.
+6. Preserve the governing thesis that Jesus represents humanity's Design and accomplished the redemption through which restoration is provided.
+7. Refine the exercise so it tests Chapter 6's responsibility and hands detailed lexical study to Chapter 7.
+
+No structural redesign, new chapter, or wholesale rewrite is indicated. No amendment is authorized at this stage.
+
+## 5. Coverage matrix
+
+| Responsibility | Current assessment | Direction |
+|---|---|---|
+| Source's “Why did Jesus come?” sequence | Present and followed | Preserve |
+| Genesis 1:26–27 / “like his Maker” | Present | Coordinate with Chapter 3; avoid unnecessary repetition |
+| Romans 3:23 “deviation from true nature” | Accurately attributed | Preserve distinction from lexical translation |
+| 1 Corinthians 11:7 | Context acknowledged | Preserve |
+| Romans 3:21–26 | Comprehensive and contextual | Preserve as central answer |
+| 1 Corinthians 15:41 | Context and inference distinguished | Preserve; prevent overclaim |
+| Ephesians 1:7 / Colossians 1:13–14 | Present | Preserve; coordinate with Chapter 7 |
+| Justification / redemption terminology | Substantial treatment | Keep detailed lexical responsibility in Chapter 7 |
+| Sonship / heirship references | Present as supporting connections | Coordinate with Chapter 8 |
+| Matthew 5:43–48 / 1 John 4:17 | Contexts preserved | Coordinate with Chapter 10 and avoid duplication |
+| Representation and redemption | Strong central synthesis | Preserve explicitly |
+| Study exercise | Relevant but broad | Coordinate with Chapter 7's exercise |
+
+## 6. Chapter 6 decision
+
+**Targeted strengthening and coordination only.** The chapter follows the source's sequence and gives Romans 3:21–26 substantial contextual treatment. Its principal need is to protect its central question from scope expansion and repetition, while preserving the source's interpretation of deviation, the full account of free justification and redemption, and the inseparable relationship between Christ's representation and His redemptive accomplishment. No amendment is authorized at this stage.
+
+---
+
 # Chapters 3–10 — Assessment queue
 
 Each chapter will be assessed and recorded here using the same framework as Chapters 1 and 2. No chapter amendments are to begin until all ten assessments are complete and the whole-book reconciliation has been recorded.
@@ -548,7 +644,7 @@ Each chapter will be assessed and recorded here using the same framework as Chap
 | 3 | ’Ĕlōhîm: Image, Likeness, and Human Design | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
 | 4 | Psalm 82 with John 10 | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
 | 5 | Partakers of the Divine Nature | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
-| 6 | Why Jesus Came: Glory, Deviation, and Representation | NOT ASSESSED | HOLD |
+| 6 | Why Jesus Came: Glory, Deviation, and Representation | ASSESSMENT COMPLETE — TARGETED STRENGTHENING | HOLD |
 | 7 | Redemption, Free Justification, and Righteousness | NOT ASSESSED | HOLD |
 | 8 | The Son, the Heir, and Representation of Design | NOT ASSESSED | HOLD |
 | 9 | Oneness and Glory: John 17:20–23 | NOT ASSESSED | HOLD |
