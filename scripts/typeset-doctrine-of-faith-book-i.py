@@ -100,7 +100,7 @@ common = [
 pdf = OUT / "The-Doctrine-of-Faith-Book-I-Print.pdf"
 subprocess.run(common + [
     "--to=latex", "--pdf-engine=xelatex", "--include-in-header", str(header),
-    "--top-level-division=chapter", "--number-sections=false",
+    "--top-level-division=chapter",
     "--variable", "classoption=oneside,openany",
     "--output", str(pdf)
 ], check=True)
