@@ -1,0 +1,34 @@
+name: Typeset Doctrine of Faith Book I
+
+on:
+  push:
+    branches:
+      - book-i-doctrine-production-master
+    paths:
+      - 'Book Matter/Doctrine of Faith/14_THE_DOCTRINE_OF_FAITH_BOOK_I_PUBLICATION_MANUSCRIPT.md'
+      - 'scripts/typeset-doctrine-of-faith-book-i.py'
+      - '.github/workflows/typeset-doctrine-of-faith-book-i.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  typeset:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out controlled publication branch
+        uses: actions/checkout@v4
+      - name: Install typesetting tools and Unicode fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended fonts-dejavu-core
+      - name: Build print PDF and EPUB
+        run: python3 scripts/typeset-doctrine-of-faith-book-i.py
+      - name: Upload publication proofs
+        uses: actions/upload-artifact@v4
+        with:
+          name: doctrine-of-faith-book-i-typeset-proof
+          path: dist/book-i/
+          if-no-files-found: error
+          retention-days: 30
