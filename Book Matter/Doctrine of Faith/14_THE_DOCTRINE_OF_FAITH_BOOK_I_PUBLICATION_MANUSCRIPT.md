@@ -498,7 +498,6 @@ Jesus' appeal to Psalm 82 occurs in a particular exchange. John records:
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.” — John 10:30–33, KJV
 
 The exchange begins with Jesus' statement, “I and my Father are one.” His hearers take up stones. When He asks which good work from the Father has prompted their response, they answer that they accuse Him of blasphemy because, being a man, He makes Himself God.
-
 Jesus answers by appealing to the written Scriptures. His statement of oneness, the accusation, His question about the works, and His appeal to what is written form one continuous exchange.
 
 ## John 10:34–36 — Jesus invokes the writing
@@ -998,7 +997,6 @@ Book I's governing thesis remains: **Jesus represents who we are by Design.** He
 6. Read 1 Corinthians 15:35–49. Explain the role of verse 41 in Paul's resurrection argument and how the book connects its glory language with the wider design argument.
 7. Read 2 Corinthians 5:17–21. Explain the sequence of the new creature, reconciliation, the ministry of reconciliation, Christ being made sin, and believers being made the righteousness of God in Him.
 8. Why must justification and redemption be understood within the Aletheia source's creation-and-true-nature argument, rather than separated from humanity's designed state?
-
 ## Lexical references
 
 - Romans 3:24 Greek form and morphology: δικαιούμενοι (*dikaioumenoi*), present middle/passive participial form, nominative masculine plural (passive in sense in Romans 3:24). References: https://www.openbible.com/text/romans/3-24.htm and https://www.studylight.org/interlinear-study-bible/greek/romans/3-24.html.
@@ -1201,7 +1199,7 @@ The verses that follow continue this setting. Jesus speaks of the authority give
 
 Jesus places His sending alongside the sending of His disciples: “As thou hast sent me into the world, even so have I also sent them into the world.” He then speaks of sanctifying Himself for their sakes, so that they may be sanctified through the truth.
 
-The comparison is deliberate. The disciples are not the Son in the same personal relation in which He addresses the Father; nevertheless, Jesus uses His own sending as the pattern for their sending. He does not describe them as people whose relationship with Him ends in private spiritual experience. They are sent into the world, and their sanctification through the truth belongs to that mission.
+The comparison is deliberate. The disciples do not occupy the Son's personal relation to the Father; nevertheless, Jesus makes His own sending the pattern for theirs. Their relationship with Him does not end in private spiritual experience: they are sent into the world, and their sanctification through the truth belongs to that mission.
 
 This prepares the way for the wider prayer. The movement from the Son to those sent by Him is not a claim that every distinction disappears. It is a movement of relationship, participation, purpose, and witness.
 
@@ -1233,7 +1231,7 @@ Jesus does not leave the comparison unstated. He says, “as thou, Father, art i
 
 The word “as” establishes a correspondence. It directs the reader to consider the relationship between the Father and the Son when considering the oneness Jesus desires for believers. It should not be removed simply because the comparison is demanding. At the same time, the comparison should be read with the relationships the prayer itself preserves. Jesus addresses the Father; the Father sends the Son; the Son sends His disciples; and believers are to be one in the Father and the Son. The prayer does not collapse these persons and relations into one undifferentiated person.
 
-The correspondence Jesus names includes being in the Father and the Son, the Son being in believers, the sharing of glory, and the unity that is to be made complete. We should neither weaken the comparison into mere cooperation nor make it say that every person is identical in every respect. The text gives us a real oneness and tells us the relationships in which that oneness exists.
+The correspondence includes being in the Father and the Son, the Son being in believers, the sharing of glory, and the completion of their unity. The comparison is neither mere cooperation nor a claim that every person is identical in every respect. Jesus describes a real oneness and identifies the relationships in which it exists.
 
 The Aletheia teaching on image and likeness gives this prayer a wider doctrinal setting. Genesis 1:26–28 presents humanity as made in God's image and after His likeness. Hebrews 1:3 calls the Son the express image of God's person. John 17 now directs attention to the oneness of the Father and Son and to the oneness into which believers are brought. The relationship among these passages is part of the book's doctrinal synthesis; John 17 should not be made to repeat the wording of Genesis or Hebrews when it does not.
 
@@ -1243,7 +1241,7 @@ One of the prayer's most striking declarations is: “And the glory which thou g
 
 The statement belongs within the book's wider examination of glory. Romans 3:23 says that all have sinned and come short of the glory of God. The Aletheia source interprets coming short of glory in relation to deviation from true nature. First Corinthians 11:7 calls man the image and glory of God, in a passage whose immediate context concerns headship and covering in the assembly. John 17:22, in turn, speaks of the glory given to the Son and given by Him to believers.
 
-Read together, these passages contribute to the book's argument about humanity's design, the coming short of glory, and the glory given in Christ. The connection is a synthesis across the Scripture set; the verses do not all use the same wording or independently state the whole conclusion. What John 17 says directly must remain clear: Jesus declares that the glory given to Him has been given to those for whom He prays, and He connects that gift with their oneness.
+Together, these passages contribute to the book's argument about humanity's Design, the coming short of glory, and the glory given in Christ. This is a synthesis across the Scripture set; the passages do not use identical wording or independently state the entire conclusion. John 17's direct statement remains clear: Jesus says that the glory given to Him has also been given to those for whom He prays, and He connects that gift with their oneness.
 
 Verse 23 continues the thought: “I in them, and thou in me, that they may be made perfect in one.” The prayer brings together the glory given, the Son's presence in believers, the Father's presence in the Son, and the completion of their oneness. This is not an incidental detail. It is central to the reality Jesus asks the Father to bring about.
 
@@ -1253,17 +1251,17 @@ The prayer's final purpose statement is equally significant: “that the world m
 
 This statement belongs with the preceding chapters' treatment of sonship and heirship. Galatians 4:5–7 speaks of adoption, the Spirit of the Son in our hearts, and the believer's status as a son and heir through God. Romans 8:16–17 speaks of the Spirit bearing witness with our spirit that we are children of God, and, if children, heirs—heirs of God and joint-heirs with Christ. John 17 adds the language of the Father's love: believers are loved as the Father loves the Son.
 
-The passages should be read in their own settings. Galatians develops redemption, adoption, and heirship; Romans develops the Spirit's witness, sonship, suffering, and shared glory; John 17 records the Son's prayer for oneness and the world's knowledge of the Father's love. Their combined contribution is powerful: the believer's relation to God is not presented as distant or merely external. The prayer places believers within the oneness and love of the Father and the Son.
+Each passage retains its own emphasis: Galatians develops redemption, adoption, and heirship; Romans develops the Spirit's witness, sonship, suffering, and shared glory; John 17 records the Son's prayer for oneness and the world's knowledge of the Father's love. Together they show that the believer's relation to God is not merely distant or external. Jesus prays for believers to participate in the oneness and love of the Father and the Son.
 
 ## Oneness, image, and present representation
 
-The Aletheia source's question—how would you liken the prayer of oneness?—invites us to connect John 17 with the design and nature passages already considered. Genesis 1:26–28 speaks of image and likeness. Second Peter 1:4 speaks of becoming partakers of the divine nature. Galatians 4:5–7 and Romans 8:16–17 speak of sonship and heirship. Hebrews 1:3 presents the Son as the express image of God's person. Second Corinthians 5:21 speaks of believers made the righteousness of God in Christ. First John 4:17 says, in the context of perfected love and confidence, “as he is, so are we in this world.”
+The Aletheia source's question—how would you liken the prayer of oneness?—invites the reader to connect John 17 with the design and nature passages already examined. Genesis 1:26–28 speaks of image and likeness; 2 Peter 1:4, of participation in divine nature; Galatians 4:5–7 and Romans 8:16–17, of sonship and heirship; Hebrews 1:3, of the Son as the express image of God's person; and 2 Corinthians 5:21, of the righteousness of God in Christ. First John 4:17 adds, within the context of perfected love and confidence, “as he is, so are we in this world.”
 
-John 17 contributes its own language to this connected teaching: believers are to be one in the Father and the Son; the glory given to the Son is given to them; Christ is in them; they are to be made perfect in one; and the Father loves them as He loves the Son. The prayer does not stand apart from the book's teaching on design, nature, sonship, and righteousness. It brings the relationship and glory dimensions into view.
+John 17 contributes its own language: believers are to be one in the Father and the Son; the glory given to the Son is given to them; Christ is in them; they are to be made perfect in one; and the Father loves them as He loves the Son. The prayer therefore brings the relational and glory dimensions into the book's connected teaching on Design, nature, sonship, and righteousness.
 
 The governing thesis remains that **Jesus represents who we are by Design**. This representation is not a substitute for redemption, justification, or the work of Christ. Nor does redemption make the representation theme unnecessary. The One who reveals the Son's relation to the Father and prays for believers to share in the oneness and glory He describes is also the One through whom the book has developed redemption and restoration. Christ's person and Christ's accomplishment must remain together.
 
-The prayer therefore presses the reader beyond a shallow definition of unity. It asks us to consider the oneness, indwelling, glory, and love Jesus names—and to recognize the purpose He attaches to them. The world is to believe that the Father sent the Son and to know that the Father loves believers as He loves the Son. The reality of this oneness has a witness beyond itself.
+The prayer presses beyond a shallow definition of unity. It calls the reader to consider the oneness, indwelling, glory, and love Jesus names, together with their stated purpose: that the world may believe the Father sent the Son and know that the Father loves believers as He loves the Son. This oneness has a witness beyond itself.
 
 ## The glory made known in Christ
 
@@ -1306,11 +1304,11 @@ Paul's statement also places the ministry under the seriousness of divine accoun
 
 Paul identifies the gospel as the light of the glorious gospel of Christ, and identifies Christ as “the image of God.” He also describes the opposition to that light: the minds of those who believe not are blinded, lest the light should shine to them. The blinding is not presented as a neutral lack of information. It stands against the shining of the gospel.
 
-The image is central to the verse. Christ is not described merely as someone who speaks about God or provides information concerning Him. Paul calls Him the image of God. The gospel whose light is resisted is the gospel of this Christ.
+The image is central to the verse. Christ is not merely someone who speaks about God or supplies information about Him; Paul calls Him the image of God. The light being resisted is the light of the gospel of this Christ.
 
 This statement belongs beside the earlier creation account. Genesis 1:26–28 speaks of humanity made in God's image and after His likeness. Hebrews 1:3 describes the Son as the express image of God's person. Second Corinthians 4:4 calls Christ the image of God. These passages do not use identical expressions, and each must retain its own context. Read together, however, they contribute to the book's argument about the image revealed in the Son and humanity's creation design.
 
-The connection is significant. If humanity's creation is described in terms of God's image and likeness, and Christ is declared to be the image of God, then the person of Christ is central to understanding the design question developed throughout this book. The Aletheia thesis is not that humanity independently invents its identity. It is that the design is understood in relation to God and is represented in Christ.
+This connection is significant. Humanity's creation is described in terms of God's image and likeness, while Christ is declared to be the image of God. His person is therefore central to the book's inquiry into Design. The Aletheia thesis is not that humanity invents its own identity, but that humanity's Design is understood in relation to God and represented in Christ.
 
 Paul also tells us why the light matters: it is the light of the glorious gospel of Christ. The image is not detached from the gospel. Christ's identity and the good news concerning Him belong together.
 
@@ -1322,7 +1320,7 @@ Paul immediately guards the focus of the ministry: “we preach not ourselves, b
 
 Paul then recalls the God who commanded light to shine out of darkness. The same God has shined in our hearts. The stated purpose is “to give the light of the knowledge of the glory of God in the face of Jesus Christ.” The wording brings together light, knowledge, glory, and the face of Christ. It is not simply that light appears; light gives knowledge. Nor is the knowledge vague or detached from the person of Christ: it is the knowledge of God's glory in His face.
 
-The verse therefore brings the chapter's central subject into focus. The glory of God is made known in Christ. The One whom the preceding verse calls the image of God is the One in whose face the knowledge of God's glory is given. The passage does not ask the reader to look away from Christ in order to discover the image. It directs the reader to the glory of God made known in Him.
+The verse brings the chapter's subject into focus: God's glory is made known in Christ. The One identified in verse 4 as the image of God is the One in whose face the knowledge of that glory is given. Paul directs the reader to the glory of God as it is made known in Christ.
 
 The reference to the God who commanded light to shine out of darkness also recalls the creation account. Genesis begins with God's creative command concerning light; Paul uses that act to describe God's shining in human hearts. The comparison is Paul's own. The connection to humanity's image and likeness in Genesis 1:26–28 is developed across the wider Scripture set, rather than being substituted for the particular point Paul makes in 2 Corinthians 4:6.
 
@@ -1352,13 +1350,13 @@ The relationship can be stated simply: **Christ's work restores what Christ's pe
 
 ## Present reality in Christ
 
-The book has also considered the present-tense force of the connected Scripture passages. Second Corinthians 5:21 speaks of being made the righteousness of God in Christ. First John 4:17 declares, in the context of perfected love and confidence, “as he is, so are we in this world.” Matthew 5:48 must be read in its immediate context of the command to love even one's enemies, and it is considered together with 1 John 4:17 as an affirmation of identity and likeness.
+The book has also considered the present-tense force of its connected Scripture passages. Second Corinthians 5:21 speaks of being made the righteousness of God in Christ. First John 4:17 declares, within the context of perfected love and confidence, “as he is, so are we in this world.” Matthew 5:48 remains within Jesus' command to love even one's enemies and is considered alongside 1 John 4:17 in the book's treatment of identity and likeness.
 
 John 17:22–23 records Jesus' declaration that the glory given to Him has been given to believers, and His prayer that they may be one, with the Son in them and the Father in Him. These statements are not merely about a distant future. They speak of what Christ gives and of the relationship for which He prays. The book's argument about present reality is therefore grounded in the passages themselves and in the Aletheia teaching that connects them.
 
-To say that this is present reality is not to claim that every aspect of the believer's experience is already complete or that the passages have no future dimension. John 17 itself speaks of being made perfect in one, and Romans 8 includes suffering and shared glory. The point developed here is that the identity, righteousness, love, and oneness described in these passages are not to be treated as wholly external or postponed until some future state. They are presented in relation to Christ and what is given in Him.
+Present reality does not mean that every aspect of the believer's experience is already complete or that these passages have no future dimension. John 17 speaks of being made perfect in one, and Romans 8 includes suffering and shared glory. The point is that the identity, righteousness, love, and oneness described here must not be treated as wholly external or postponed entirely to a future state. They are presented in relation to Christ and what is given in Him.
 
-The light of the knowledge of God's glory in the face of Jesus Christ therefore speaks directly to the question of who humanity is by design. Christ is not merely an example placed before humanity with no connection to its intended nature. In the Aletheia doctrine, He represents that design, and through His redemptive work humanity is restored to it.
+The light of the knowledge of God's glory in the face of Jesus Christ therefore speaks directly to the question of humanity's Design. Christ is not merely an example placed before humanity, disconnected from its intended nature. In the Aletheia doctrine, He represents that Design, and through His redemptive work humanity is restored to it.
 
 ## Questions for reflection and study
 
@@ -1479,4 +1477,3 @@ The explanations below clarify how important terms are used in this volume. Wher
 **True nature** — A central expression in the Aletheia teaching, connected with humanity's creation in the image and likeness of God, the state of God's children, and the source's interpretation of coming short of glory as deviation from true nature. The expression is developed across the Scripture cluster rather than assigned to one isolated verse.
 
 **Design** — The doctrinal framework used throughout this book for humanity's created image and likeness, true nature, and identity as revealed in Christ. The governing formulation is that **Jesus represents who we are by Design** and that **faith is our state by design**. These are the book's doctrinal conclusions developed from the controlling source and the connected Scripture argument.
-
