@@ -1193,11 +1193,11 @@ The Aletheia teaching and the author's doctrinal direction bring these passages 
 2. Identify the descriptions of the Son in Hebrews 1:3–4. How does the passage hold His express image, sustaining power, purging of sins, exaltation, and inheritance together?
 3. Read Hebrews 1:5–8. How does the passage distinguish the Son from the angels, and what does it declare about His throne and righteous kingdom?
 4. Read Galatians 4:1–7. Explain the sequence from the illustration of the heir and the appointed time to redemption, adoption, the Spirit of the Son, sonship, and heirship.
-6. Read Romans 8:14–17. What does Paul say about being led by the Spirit, adoption, the Spirit's witness, children, heirs, joint-heirs, suffering, and shared glory?
-7. Why does the phrase “in Him” matter in 2 Corinthians 5:21?
-8. What is the immediate context of “as he is, so are we in this world” in 1 John 4:17?
-9. Explain how Jesus' unique identity as Son and appointed heir remains foundational to the inheritance believers receive through Him.
-10. Show how the chapter holds together the thesis that Jesus represents who we are by Design and the redemptive accomplishment through which we are restored.
+5. Read Romans 8:14–17. What does Paul say about being led by the Spirit, adoption, the Spirit's witness, children, heirs, joint-heirs, suffering, and shared glory?
+6. Why does the phrase “in Him” matter in 2 Corinthians 5:21?
+7. What is the immediate context of “as he is, so are we in this world” in 1 John 4:17?
+8. Explain how Jesus' unique identity as Son and appointed heir remains foundational to the inheritance believers receive through Him.
+9. Show how the chapter holds together the thesis that Jesus represents who we are by Design and the redemptive accomplishment through which we are restored.
 
 The Son's representation and the believers' sonship and heirship through Him lead into Jesus' prayer in John 17:20–23. The next chapter follows its movement through oneness, glory, indwelling, sending, and the purpose Jesus states.
 
