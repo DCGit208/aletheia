@@ -864,19 +864,19 @@ The question of why Jesus came leads directly to the source's teaching on free j
 # Chapter 7 — Δικαιόω (*dikaioō*): Redemption, Free Justification, and Righteousness in Christ
 ## The response to deviation: redemption and righteousness
 
-The preceding chapter followed the Aletheia source's question, “Why did Jesus come?” It developed the source's interpretation of coming short of the glory of God as deviation from true nature, alongside the explicit declaration of Romans 3:23–24: all have sinned and come short of God's glory, and are justified freely by grace through the redemption in Christ Jesus.
+Chapter 6 followed the Aletheia source's question, “Why did Jesus come?” It developed the source's interpretation of coming short of God's glory as deviation from true nature and examined Romans 3:23–24: all have sinned and come short of God's glory, and are justified freely by grace through the redemption in Christ Jesus.
 
-This chapter examines the terms through which the source describes that divine response. Three Greek terms are central and must remain distinct:
+This chapter examines the terms through which the source describes God's response. Three Greek terms are central; their relationship matters, but they must remain distinct:
 
 - *Dikaioō* (δικαιόω): the verb associated with justification. The leaflet's printed gloss is “render just or innocent (free from evil or guilt).”
 - *Dikaiosynē* (δικαιοσύνη): the related noun the source connects with righteousness/justification, equity, impartiality, and conformity with God's nature; it adds the phrase “original: back on course.”
 - *Apolutrōsis* (ἀπολύτρωσις): redemption, which the leaflet glosses “ransom in full.”
 
-The source's wording is preserved. This chapter develops the Aletheia teaching that justification restores humanity to its designed state and that redemption is complete ransom with restoration to original design. These are related conclusions, but they are not interchangeable lexical definitions. The distinction allows the source's teaching to be stated fully while keeping the word-level evidence and the wider doctrinal argument clear.
+The source's wording is preserved throughout. The Aletheia teaching developed here is that justification restores humanity to its designed state and that redemption is complete ransom with restoration to original design. These conclusions belong together, but they are not interchangeable lexical definitions. Keeping the distinction clear allows the source's teaching to be stated fully without making a single word carry the entire doctrinal argument.
 
 ## *Dikaioō*: justified freely
 
-In Romans 3:24, the Greek form is δικαιούμενοι (*dikaioumenoi*), from the lemma δικαιόω (*dikaioō*, Strong's G1344). It is a present middle/passive participial form, nominative masculine plural; in this clause it has passive force and is commonly rendered “being justified.” The form belongs to Paul's statement about those who are justified freely by grace through the redemption in Christ Jesus. Its force must be read within the complete movement of Romans 3:21–26, not isolated from the preceding statement about sin and coming short of glory.
+In Romans 3:24, the Greek form is δικαιούμενοι (*dikaioumenoi*), from δικαιόω (*dikaioō*, Strong's G1344). It is a present middle/passive participial form, nominative masculine plural, with passive force in this clause; it is commonly rendered “being justified.” Paul places it in the declaration that justification is free, by grace, through redemption in Christ Jesus. The form must be read within Romans 3:21–26, including the preceding statement about sin and coming short of glory.
 
 The full G1344 entry supplied for this study is reproduced here, with Strong's and Thayer's material distinguished:
 
@@ -888,9 +888,9 @@ The full G1344 entry supplied for this study is reproduced here, with Strong's a
 > 2. to show, exhibit, evince, one to be righteous, such as he is and wishes himself to be considered;  
 > 3. to declare, pronounce, one to be just, righteous, or such as he ought to be.
 
-The Aletheia leaflet's own printed gloss is: “render just or innocent (free from evil or guilt).” That wording remains the source's teaching. The fuller entry expands the lexical discussion. Thayer's qualification must also be retained: he describes the first “render righteous” sense as extremely rare, if not altogether doubtful, before distinguishing the senses of showing or exhibiting someone to be righteous and declaring or pronouncing someone just. In the Pauline technical use, Thayer lists Romans 3:24 under the gracious declaration of righteousness or acceptance.
+The Aletheia leaflet's printed gloss is “render just or innocent (free from evil or guilt).” That wording remains the source's teaching; the fuller entry expands the lexical discussion. Thayer's qualification is also important: he describes the first sense, “to render righteous,” as extremely rare, if not altogether doubtful. He then distinguishes showing or exhibiting someone to be righteous from declaring or pronouncing someone just. In the Pauline technical use, he lists Romans 3:24 under the gracious declaration of righteousness or acceptance.
 
-The full lexical entry matters, including the first definition and Thayer's qualification. Neither should be suppressed. The doctrinal argument develops through the complete Scripture framework rather than making one lexical sense carry the entire conclusion.
+The complete entry must be retained, including its first definition and Thayer's qualification. The doctrinal conclusion, however, develops through the full Scripture framework; it does not rest on one lexical sense alone.
 
 ### Justification and the glory humanity came short of
 
@@ -898,13 +898,13 @@ Romans 3:23–24 (KJV) must be read and quoted as one continuous movement:
 
 > “For all have sinned, and come short of the glory of God; Being justified freely by his grace through the redemption that is in Christ Jesus:”
 
-The first verse identifies sin and humanity's coming short of God's glory. The next declares that justification is given freely by God's grace through redemption in Christ Jesus. The Aletheia source interprets coming short of the glory as “deviation from true nature.” It connects the glory with humanity's image and likeness, drawing on Genesis 1:26–27 and 1 Corinthians 11:7.
+Verse 23 identifies sin and humanity's coming short of God's glory. Verse 24 declares that justification is given freely by grace through redemption in Christ Jesus. The Aletheia source interprets coming short of glory as “deviation from true nature” and connects that glory with humanity's image and likeness in Genesis 1:26–27 and 1 Corinthians 11:7.
 
-The doctrinal argument developed here is that humanity fell short of the glory belonging to its designed identity. You cannot fall short of something with which you have no relation. To come short of a glory presupposes a real relation to that glory. The argument is that the glory humanity came short of belongs to humanity's designed identity as made in the image and likeness of Elohim. Justification, therefore, is not treated in this Aletheia design argument as merely a change in legal label. It is God's gracious act of rendering us just or righteous—such as we ought to be—and restoring us to the state for which humanity was made.
+The doctrinal argument developed here is that humanity fell short of the glory belonging to its designed identity. To come short of a glory presupposes a real relation to it. The glory humanity came short of, in this argument, belongs to humanity's designed identity as made in the image and likeness of *Elohim*. Justification is therefore not treated in this Aletheia design argument as merely a change in legal label. It is God's gracious act of rendering us just or righteous—such as we ought to be—and restoring us to the state for which humanity was made.
 
 This is the doctrinal synthesis developed from Romans 3, Genesis 1, 1 Corinthians 15, and the leaflet's teaching about true nature and glory. The lexical range of *dikaioō* remains as presented above; the restoration-to-design conclusion is developed through the connected Scripture argument.
 
-The source's question is emphatic: **Has man been justified? Yes! And FREELY!** The answer is grounded in the wording of Romans 3:24. Justification is by grace, through redemption in Christ Jesus. It is not a wage earned by successful conduct or a human achievement added to Christ's work.
+The source asks emphatically: **Has man been justified? Yes! And FREELY!** Romans 3:24 grounds the answer: justification is by grace, through redemption in Christ Jesus. It is neither a wage earned through conduct nor a human achievement added to Christ's work.
 
 ### Glory and identity: 1 Corinthians 15:41
 
@@ -914,9 +914,9 @@ Paul writes:
 
 The immediate subject of 1 Corinthians 15 is the resurrection of the dead and the nature of the resurrection body. Paul uses the differing glories of the sun, moon, and stars as part of his explanation of the difference between the body that is sown and the body that is raised. The following verses develop the contrasts between corruption and incorruption, dishonour and glory, weakness and power, and the natural body and the spiritual body (1 Corinthians 15:42–44).
 
-The verse explicitly says that the heavenly lights differ in glory. The doctrinal inference developed in this book is that a thing is identified by its glory: glory expresses the nature and distinction of the thing. Read within the wider argument about humanity's creation in God's image and likeness, this contributes to the teaching that humanity's coming short of God's glory concerns falling short of the glory belonging to its designed identity.
+The verse explicitly says that the heavenly lights differ in glory. The doctrinal inference developed in this book is that a thing is identified by its glory: glory expresses its nature and distinction. Within the wider argument about humanity's creation in God's image and likeness, this contributes to the teaching that humanity came short of the glory belonging to its designed identity.
 
-This is a cross-passage inference, not a claim that the immediate subject of 1 Corinthians 15:41 is the creation of humanity in God's image. Genesis 1:26–27 supplies that creation foundation. The Aletheia source's teaching connects the texts in its account of true nature, glory, and deviation.
+This is an inference drawn across passages, not a claim that 1 Corinthians 15:41 is directly about humanity's creation in God's image. Genesis 1:26–27 supplies that foundation. The Aletheia source connects the texts in its account of true nature, glory, and deviation.
 
 ### Redemption: *apolutrōsis*, ransom in full
 
@@ -924,11 +924,11 @@ Romans 3:24 connects justification freely by grace with redemption in Christ Jes
 
 > **“Redemption; Ransom in full.”**
 
-There is no unpaid remainder on that ransom. The source's phrase “ransom in full” is retained exactly. The doctrinal direction of this book develops it as complete ransom and restoration to original design. Redemption is not treated as an incomplete transaction that leaves humanity permanently beneath its intended state. In this book's argument, redemption and restoration belong together: the ransom is complete, and its purpose and result are humanity's return to the state for which it was made.
+The source's phrase “ransom in full” is retained exactly: there is no unpaid remainder in the ransom it describes. The book develops this as complete ransom and restoration to original design. Redemption is not an incomplete transaction that leaves humanity permanently beneath its intended state. In this argument, redemption and restoration belong together: the ransom is complete, and its purpose and result are humanity's return to the state for which it was made.
 
-For lexical precision, Strong's G629 derives *apolutrōsis* from G575 (*apo*) and G3083 (*lytron*, ransom). Strong's gloss includes the act of ransom in full, figuratively “riddance,” or Christian salvation. Thayer describes a release effected by payment of ransom and speaks of redemption, deliverance, or liberation procured by ransom.
+Lexically, Strong's G629 derives *apolutrōsis* from G575 (*apo*) and G3083 (*lytron*, ransom). Its gloss includes ransom in full, figuratively “riddance,” or Christian salvation. Thayer describes release effected by payment of ransom, including redemption, deliverance, or liberation procured by ransom.
 
-These lexical details support the ransom, release, and deliverance dimensions. The phrase “restoration to original design” is the doctrinal meaning and result developed through the Aletheia Scripture framework; it is not a claim that the Greek components literally translate into that English phrase. The framework includes Genesis 1:26–28, Romans 3:23–24, 2 Corinthians 5:17–21, Ephesians 1:7, Colossians 1:13–14, and 2 Peter 1:4.
+These details support the lexical ideas of ransom, release, and deliverance. “Restoration to original design” is the doctrinal meaning and result developed through the Aletheia Scripture framework; it is not a literal translation of the Greek components. That framework includes Genesis 1:26–28, Romans 3:23–24, 2 Corinthians 5:17–21, Ephesians 1:7, Colossians 1:13–14, and 2 Peter 1:4.
 
 ### Justification is not earned
 
@@ -936,37 +936,37 @@ Romans 3:27–28 continues:
 
 > “Where is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith. Therefore we conclude that a man is justified by faith without the deeds of the law.” — Romans 3:27–28, KJV
 
-Paul excludes boasting and states that a person is justified by faith without the deeds of the law. This belongs with the Aletheia leaflet's teaching on *pistis* / credence and the state of God's children. Justification is not a wage earned by works. It is freely given by grace and received through faith. The source's “ransom in full” wording reinforces that the recipient does not complete redemption through personal merit.
+Paul excludes boasting and concludes that a person is justified by faith without the deeds of the law. This connects with the Aletheia leaflet's teaching on *pistis*—credence—and the state of God's children. Justification is not earned as a wage: it is freely given by grace and received through faith. The source's “ransom in full” wording reinforces that personal merit does not complete redemption.
 
 ## You are the *dikaiosynē* of God in Christ
 
-The source's teaching moves from free justification through redemption to the present-tense declaration in 2 Corinthians 5:21. The passage must be followed from reconciliation through the new creature to the righteousness of God in Christ.
+The source moves from free justification and redemption to the declaration in 2 Corinthians 5:21. Paul's sequence must be followed: reconciliation, the new creature, and the righteousness of God in Christ.
 
 ### Reconciliation and the new creature
 
 > “Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new. And all things are of God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation; To wit, that God was in Christ, reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation.” — 2 Corinthians 5:17–19, KJV
 
-The passage declares that the one who is in Christ is a new creature. It then identifies God as the source of reconciliation: God reconciled us to Himself by Jesus Christ and committed to us the ministry and word of reconciliation. God was in Christ, reconciling the world to Himself, not imputing their trespasses unto them.
+Paul declares that the person in Christ is a new creature. He then identifies God as the source of reconciliation: God reconciled us to Himself through Jesus Christ and entrusted to us the ministry and word of reconciliation. God was in Christ, reconciling the world to Himself and not imputing their trespasses unto them.
 
-The new creature and reconciliation belong together in Paul's argument. The statement about righteousness in verse 21 must not be detached from the work of reconciliation described in verses 17–19.
+The new creature and reconciliation belong together. Paul's declaration about righteousness in verse 21 must remain connected to the reconciliation described in verses 17–19.
 
 ### Made the righteousness of God in Him
 
 > “Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ’s stead, be ye reconciled to God. For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.” — 2 Corinthians 5:20–21, KJV
 
-Paul speaks of the ministry of ambassadors for Christ and the appeal, “be ye reconciled to God.” He then states that God made Christ, who knew no sin, to be sin for us, so that we might be made the righteousness of God in Him.
+Paul describes the ministry of Christ's ambassadors and their appeal, “be ye reconciled to God.” He then declares that God made Christ, who knew no sin, to be sin for us, so that we might be made the righteousness of God in Him.
 
 The Aletheia teaching emphasizes the present force of this declaration:
 
 > **“So right now, You’re the *dikaiosynē* of God in Christ.”**
 
-The leaflet explains *dikaiosynē* (δικαιοσύνη) as righteousness/justification; equity; impartiality to and conformity with the nature of God; “original: back on course.” That is the source's formulation and is retained. The statement is not presented as an aspiration postponed to a future achievement. It is spoken of the believer **in Christ**. The words “in Him” are essential and must not be dropped.
+The leaflet explains *dikaiosynē* (δικαιοσύνη) as righteousness/justification; equity; impartiality to and conformity with God's nature; “original: back on course.” This source formulation is retained. The declaration is not presented as an aspiration deferred to a future achievement; it is spoken of the believer **in Christ**. The words “in Him” are essential.
 
-This teaching is connected with the Aletheia source's account of *pistis* as credence and as the state of God's children. The new creature is in Christ; the righteousness of God is in Him. The source's declaration is present, while remaining located in Christ and within Paul's passage about Christ's sin-bearing and the ministry of reconciliation.
+This connects with the Aletheia source's account of *pistis* as credence and as the state of God's children. The new creature is in Christ, and the righteousness of God is in Him. The declaration is present-tense, yet remains located in Christ and within Paul's account of Christ's sin-bearing and the ministry of reconciliation.
 
 ## The three terms and their relationship
 
-The three Greek terms belong to the same doctrinal movement, but they are not synonyms:
+The three Greek terms belong to one doctrinal movement, but they are not synonyms:
 
 | Term | Source's wording | Place in the argument |
 |---|---|---|
@@ -974,19 +974,19 @@ The three Greek terms belong to the same doctrinal movement, but they are not sy
 | *Dikaiosynē* (δικαιοσύνη) | Righteousness/justification; equity; impartiality to and conformity with God's nature; “original: back on course.” | The related noun used in the source's declaration that we are the righteousness of God in Christ (2 Corinthians 5:21). |
 | *Apolutrōsis* (ἀπολύτρωσις) | “Redemption; ransom in full.” | Redemption in Christ Jesus. The book develops complete ransom as restoration to original design through the wider Scripture argument. |
 
-Romans 3:24 explicitly joins free justification with redemption in Christ Jesus. Second Corinthians 5:21 explicitly says that believers are made the righteousness of God in Him. The source's “back on course” language and “ransom in full” gloss connect with the book's doctrinal conclusion that justification and redemption restore humanity to its designed state.
+Romans 3:24 joins free justification with redemption in Christ Jesus. Second Corinthians 5:21 says that believers are made the righteousness of God in Him. The source's “back on course” language and “ransom in full” gloss contribute to the book's doctrinal conclusion that justification and redemption restore humanity to its designed state.
 
-The lexical entries establish the meanings and usage recorded by their sources. The complete restoration-to-design doctrine is developed from the Aletheia teaching and the connected Scripture passages. Keeping these levels clear strengthens the exposition: the source's teaching is not weakened, and the doctrinal conclusion is not falsely attributed to a single Greek word.
+The lexical entries establish the meanings and usage recorded by their respective sources. The complete restoration-to-design doctrine is developed from the Aletheia teaching and the connected Scriptures. This distinction strengthens the exposition: it preserves the source's teaching without attributing the entire doctrinal conclusion to a single Greek word.
 
 ## The answer in the full Scripture movement
 
 The Aletheia source's question, “Has man been justified?” receives its emphatic answer: **Yes! And FREELY!** Romans 3:23–24 identifies the condition and the divine response. Humanity has sinned and come short of God's glory; justification is freely given by grace through the redemption in Christ Jesus.
 
-The source's gloss of *dikaioō* identifies rendering just or innocent, free from evil or guilt. The complete G1344 entry adds the lexical material from Strong's and Thayer's, including the definitions concerning rendering righteous and declaring or pronouncing one just. The source's *dikaiosynē* formulation connects righteousness with equity and conformity to God's nature, “back on course.” Its *apolutrōsis* gloss declares “ransom in full.”
+The source glosses *dikaioō* as rendering just or innocent, free from evil or guilt. The full G1344 entry adds Strong's and Thayer's material, including the definitions concerning rendering righteous and declaring or pronouncing someone just. The source connects *dikaiosynē* with equity and conformity to God's nature—“back on course”—and glosses *apolutrōsis* as “ransom in full.”
 
-The doctrinal conclusion is that justification restores humanity to its designed state and redemption is complete ransom with restoration to original design. This conclusion is developed through the connected testimony of Genesis 1:26–28, Romans 3:21–28, 1 Corinthians 11:7, 1 Corinthians 15:41, 2 Peter 1:4, Ephesians 1:7, Colossians 1:13–14, and 2 Corinthians 5:17–21.
+The doctrinal conclusion is that justification restores humanity to its designed state and redemption is complete ransom with restoration to original design. The conclusion is developed through Genesis 1:26–28, Romans 3:21–28, 1 Corinthians 11:7 and 15:41, 2 Peter 1:4, Ephesians 1:7, Colossians 1:13–14, and 2 Corinthians 5:17–21.
 
-The governing thesis of Book I remains: **Jesus represents who we are by Design.** He also accomplished the redemption through which we are restored to that design. His representation and His redemptive accomplishment must remain together. The design identifies what humanity was made to be; justification and redemption explain the gracious divine action in Christ by which the restoration is accomplished.
+Book I's governing thesis remains: **Jesus represents who we are by Design.** He also accomplished the redemption through which humanity is restored to that design. Representation and redemptive accomplishment must remain together: the design identifies what humanity was made to be, while justification and redemption describe God's gracious action in Christ to accomplish restoration.
 
 ## Study and argument exercise
 
@@ -1013,13 +1013,13 @@ The discussion now turns to the Son as heir of all things and the express image 
 # Chapter 8 — The Son, the Heir, and the Representation of Design
 ## From righteousness in Christ to sonship and heirship
 
-The preceding chapters have developed humanity's design, the Father's nature, the glory humanity came short of, and the restoration expressed through redemption and justification. This chapter brings those themes together through the Son and the inheritance of God's children.
+The preceding chapters have developed humanity's design, the Father's nature, the glory humanity came short of, and restoration through redemption and justification. This chapter brings those themes together in the Son and in the inheritance given to God's children.
 
-The governing doctrinal direction is settled: **Jesus represents who we are by Design.** He is not merely the One who accomplished redemption for us; He is also the Son in whom our designed identity is represented and revealed. His sonship, image, glory, and heirship are therefore central to understanding our own sonship and inheritance in Him.
+The governing doctrinal direction is clear: **Jesus represents who we are by Design.** He is the One who accomplished redemption for us and the Son in whom our designed identity is represented and revealed. His sonship, image, glory, and heirship are central to understanding the sonship and inheritance believers receive in Him.
 
-The relationship must be stated accurately. Jesus is the appointed Son and heir of all things. Believers do not replace the Son or take His unique place. The argument concerns what Scripture says is given to us through Him: adoption as sons, the Spirit of the Son, the status of children, and heirship with Christ. His unique identity and work are the foundation of the inheritance shared with us.
+The relationship must be stated accurately. Jesus is the appointed Son and heir of all things; believers do not replace Him or take His unique place. Scripture instead describes what is given through Him: adoption as sons, the Spirit of the Son, the status of God's children, and heirship with Christ. His unique identity and work remain the foundation of the inheritance shared with us.
 
-The chapter follows two connected movements. First, Hebrews presents the Son: His appointment as heir, His role in creation, His glory and express image, His purging of sins, and His exaltation. Second, Galatians and Romans explain the sonship and heirship believers receive through Christ. These movements converge in the governing thesis: Jesus represents who we are by Design, and His redemptive accomplishment is essential to our restoration.
+The chapter follows two movements. Hebrews presents the Son—appointed heir, agent of creation, brightness of glory and express image, the One who purged sins and was exalted. Galatians and Romans then explain the sonship and heirship believers receive through Christ. Together these passages develop the thesis that Jesus represents who we are by Design and that His redemptive accomplishment is essential to our restoration.
 
 ## The Son: appointed heir of all things
 
@@ -1029,9 +1029,9 @@ Hebrews opens by contrasting God's former speech through the prophets with His s
 >
 > Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds.” — Hebrews 1:1–2, KJV
 
-The opening identifies the Son as the One through whom God has spoken in these last days. It then makes two statements about Him: God appointed Him heir of all things, and God made the worlds by Him. Heirship is therefore not an incidental title added later to the Son's identity. It is part of the opening description of who He is and of His relation to all things.
+The opening identifies the Son as God's means of speaking in these last days and makes two declarations about Him: God appointed Him heir of all things, and through Him He made the worlds. Heirship is not an incidental title added later; it belongs to Hebrews' opening description of the Son and His relation to all things.
 
-The phrase “heir of all things” must be read with the rest of Hebrews 1. The Son is not simply one heir among others in this opening declaration. He is the appointed heir, and the worlds were made by Him. The later passages about believers becoming heirs through Christ must be read in relation to this unique Son and appointed heir.
+“Heir of all things” must be read within the whole chapter. The Son is not presented as one heir among others: He is the appointed heir, and the worlds were made by Him. The later passages about believers becoming heirs through Christ must be understood in relation to this unique Son and appointed heir.
 
 ## The brightness of glory and the express image
 
@@ -1041,20 +1041,13 @@ Hebrews 1:3–4 continues:
 >
 > Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.” — Hebrews 1:3–4, KJV
 
-The Son is described as:
+Hebrews describes the Son as the brightness of God's glory, the express image of His person, the One who upholds all things by His powerful word, the One who purged our sins, the One seated at the right hand of the Majesty on high, and the One who inherited a more excellent name than the angels.
 
-- the brightness of God's glory;
-- the express image of His person;
-- the One upholding all things by the word of His power;
-- the One who by Himself purged our sins;
-- the One who sat down at the right hand of the Majesty on high;
-- the One who by inheritance obtained a more excellent name than the angels.
+These descriptions belong together. Hebrews holds the Son's identity, sustaining power, redemptive accomplishment, exaltation, and inheritance in one portrait. “Express image” must be read alongside “purged our sins”; His accomplishment cannot be separated from the identity the passage declares.
 
-These are not disconnected descriptions. Hebrews places the Son's identity, sustaining power, redemptive accomplishment, exaltation, and inheritance together. “Express image” must be read alongside “purged our sins.” His redemptive accomplishment cannot be discussed while ignoring the identity Hebrews declares.
+The creation-and-representation argument now comes into focus. Genesis 1:26–27 says humanity was made in God's image and likeness; Hebrews 1:3 describes the Son as the express image of God's person; and 2 Corinthians 4:4 calls Christ the image of God. Each statement retains its own wording and context. Together they contribute to the book's cumulative argument that Jesus reveals and represents the divine nature and the identity humanity was designed to bear.
 
-The creation-and-representation argument now comes into focus. Genesis 1:26–27 describes humanity as made in God's image and likeness. Hebrews 1:3 describes the Son as the express image of God's person. Second Corinthians 4:4 calls Christ the image of God. These statements have their own wording and contexts, but together they form a central part of the book's cumulative argument: Jesus reveals and represents the divine nature and the identity humanity was designed to bear.
-
-This does not mean the texts are interchangeable or that the Son's unique place is erased. Hebrews identifies Him as the Son, the appointed heir of all things, the express image, and the One who purged our sins. The representation thesis is developed from what the Son is and what He has done, and from the passages that identify believers as sons and heirs through Him.
+The passages are not interchangeable, and the Son's unique place is not erased. Hebrews identifies Him as the Son, the appointed heir of all things, the express image, and the One who purged our sins. The representation thesis draws on who He is, what He has done, and the Scriptures that identify believers as sons and heirs through Him.
 
 ## The Son in the Father's declaration: Hebrews 1:5–8
 
@@ -1068,19 +1061,19 @@ Hebrews continues by distinguishing the Son from the angels and presenting the s
 >
 > But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.” — Hebrews 1:5–8, KJV
 
-The passage asks which angel was ever addressed as the Son in the words “Thou art my Son.” It then gives the Father's declaration, the instruction concerning the angels' worship of the firstbegotten, the description of angels as spirits and ministers, and finally the direct address to the Son concerning His throne and righteous sceptre.
+The passage asks which angel was ever addressed as the Son with the words “Thou art my Son.” It records the Father's declaration, the command for the angels to worship the firstbegotten, the description of angels as spirits and ministers, and finally the direct address to the Son concerning His throne and righteous sceptre.
 
-Hebrews 1:8 must remain in the chapter because it is part of this scriptural portrait of the Son. It directly addresses the Son and identifies His throne as everlasting and His kingdom as marked by righteousness. The verse contributes to the portrayal of His identity and kingdom.
+Hebrews 1:8 remains because it is part of this scriptural portrait. It directly addresses the Son, declares His throne everlasting, and describes His kingdom through the sceptre of righteousness. It contributes to the portrayal of His identity and reign.
 
-The former leaflet question, “According to Hebrews 1:8, what does that make you?”, is abandoned. It is not an unresolved doctrinal question, an exercise to be answered, or a required inference in this chapter. Hebrews 1:8 itself remains in the biblical portrait of the Son; the abandoned question is not revived.
+The former leaflet question, “According to Hebrews 1:8, what does that make you?”, remains abandoned. It is neither an unresolved doctrinal question nor an exercise for the reader, and it is not a required inference in this chapter. The verse itself remains in the biblical portrait of the Son; the abandoned question is not revived.
 
-The movement of Hebrews 1:1–8 is clear. God speaks through the Son; the Son is appointed heir of all things; the worlds are made by Him; He is the brightness of God's glory and the express image of His person; He purges sins and is exalted; the Father's declarations distinguish Him from the angels and speak directly of His Sonship, throne, and righteous kingdom. This full movement supplies the portrait through which the next question—our sonship and heirship through Him—must be considered.
+Hebrews 1:1–8 presents a continuous portrait: God speaks through the Son; appoints Him heir of all things; makes the worlds through Him; and declares Him the brightness of His glory and express image. The Son purges sins and is exalted, while the Father's declarations distinguish Him from the angels and speak of His Sonship, throne, and righteous kingdom. This is the portrait within which our sonship and heirship through Him must be understood.
 
 ## From servants to sons: Galatians 4:1–7
 
-The Aletheia source directs the reader to Galatians 4:5–7 and asks, “Who is heir of God?” The answer must be developed from Paul's sequence, not reduced to the final phrase alone.
+The Aletheia source directs the reader to Galatians 4:5–7 and asks, “Who is heir of God?” Paul's full sequence supplies the answer; it should not be reduced to the final phrase alone.
 
-Paul begins with the illustration of an heir who, while a child, does not differ from a servant even though he is lord of all; he remains under guardians and stewards until the time appointed by the father (Galatians 4:1–2). He then applies the illustration to those who were in bondage under the elements of the world (verses 3–4). The passage reaches its central declaration:
+Paul begins with an heir who, while a child, does not differ from a servant, though he is lord of all; he remains under guardians and stewards until the time appointed by the father (Galatians 4:1–2). Paul applies this illustration to those in bondage under the elements of the world (verses 3–4), before reaching the central declaration:
 
 > “To redeem them that were under the law, that we might receive the adoption of sons.
 >
@@ -1096,9 +1089,9 @@ Paul's sequence is explicit:
 4. The conclusion is that we are no more servants, but sons.
 5. If sons, then heirs of God through Christ.
 
-The order matters. Redemption and adoption are connected. The Spirit of the Son is sent because we are sons. The conclusion is not merely that a servant has been given a new task; the passage declares a change of status: no more a servant, but a son. Heirship follows sonship, and it is “through Christ.”
+The order matters: redemption and adoption are connected, and the Spirit of the Son is sent because we are sons. Paul is not merely saying that a servant has received a new task. He declares a change of status: no more a servant, but a son. Heirship follows sonship, and it is “through Christ.”
 
-This is described as natural heirship: because we are sons, heirship belongs to our sonship. The passage's own wording is “if a son, then an heir of God through Christ.” The word “natural” in the author's formulation expresses this consequence of sonship; it does not mean that heirship is independent of Christ. Paul's statement explicitly says “through Christ.”
+The author describes this as natural heirship: because we are sons, heirship follows from sonship. Paul's wording is “if a son, then an heir of God through Christ.” Here, “natural” expresses the consequence of sonship; it does not suggest that heirship is independent of Christ. Paul's statement explicitly says “through Christ.”
 
 ## Children, heirs, and joint-heirs with Christ: Romans 8:14–17
 
@@ -1112,23 +1105,23 @@ Romans 8 develops the same relationship through the Spirit's witness:
 >
 > And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.” — Romans 8:14–17, KJV
 
-Paul identifies those led by the Spirit of God as sons of God. He contrasts the Spirit of adoption with the spirit of bondage again to fear. The Spirit bears witness with our spirit that we are God's children. Then comes the inheritance statement: if children, heirs; heirs of God and joint-heirs with Christ.
+Paul identifies those led by God's Spirit as sons of God. He contrasts the Spirit of adoption with a spirit of bondage and fear, then says that the Spirit bears witness with our spirit that we are God's children. From there he draws the inheritance conclusion: if children, then heirs—heirs of God and joint-heirs with Christ.
 
-Paul connects joint-heirship with suffering with Christ and being glorified together. The inheritance statement belongs to the passage's full account of the Spirit, adoption, suffering, and shared glory.
+Paul connects joint-heirship with suffering with Christ and being glorified together. Inheritance must therefore be read within the passage's full account of the Spirit, adoption, suffering, and shared glory.
 
-Galatians 4 and Romans 8 reinforce one another while making distinct contributions. Galatians emphasizes redemption from under the law, adoption, the Spirit of the Son, and the movement from servant to son and heir. Romans emphasizes being led by the Spirit, the Spirit of adoption, the Spirit's witness, and the relationship between children, heirs, joint-heirship, suffering, and glory.
+Galatians 4 and Romans 8 reinforce one another but make distinct contributions. Galatians emphasizes redemption from under the law, adoption, the Spirit of the Son, and the change from servant to son and heir. Romans emphasizes being led by the Spirit, the Spirit's witness, and the relationship among children, heirs, joint-heirship, suffering, and glory.
 
-Together they answer the source's question: **Who is heir of God?** The passages identify the sons and children of God as heirs through Christ. This is not a claim of inheritance apart from the Son. It is inheritance through Him and joint-heirship with Him.
+Together they answer the source's question: **Who is heir of God?** The sons and children of God are heirs through Christ. This is not inheritance apart from the Son; it is inheritance through Him and joint-heirship with Him.
 
 ## The righteousness of God in Him
 
-Second Corinthians 5:17–21 develops the new creature, reconciliation, and righteousness in Christ. The central statement is:
+Second Corinthians 5:17–21 develops the themes of the new creature, reconciliation, and righteousness in Christ. Its central declaration is:
 
 > “For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.” — 2 Corinthians 5:21, KJV
 
-The phrase **“in him”** is essential: our righteousness is not detached from Christ. Paul places the declaration within his account of the new creature, reconciliation, and the ministry of reconciliation (2 Corinthians 5:17–20).
+The phrase **“in him”** is essential. Righteousness is not detached from Christ; Paul places the declaration within his account of the new creature and the ministry of reconciliation (2 Corinthians 5:17–20).
 
-This is central to the representation argument. The Son represents who we are by design, and our identity as sons, heirs, and the righteousness of God is located in Him. The statement does not erase the accomplishment of Christ: the verse itself names what God did with the One who knew no sin. Nor does the accomplishment erase the identity represented in the Son. Both belong together.
+This is central to the representation argument. The Son represents who we are by design, and our identity as sons, heirs, and the righteousness of God is located in Him. The verse itself also names Christ's accomplishment: God acted through the One who knew no sin. Neither His accomplishment nor the identity represented in Him should be separated from the other.
 
 ## As He is, so are we in this world
 
@@ -1136,9 +1129,9 @@ First John 4:17 states:
 
 > “Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.” — 1 John 4:17, KJV
 
-The words “as he is, so are we in this world” are present and direct. John places them within his teaching about perfected love and boldness in the day of judgment; the identity statement and its context belong together.
+The words “as he is, so are we in this world” are direct and present-tense. John places them within his teaching about perfected love and boldness in the day of judgment. The identity statement must be read with that context.
 
-Within the author's doctrinal framework, this statement underscores that the identity represented in the Son is not merely postponed to a future age. It speaks of who we are in this world. Read with Galatians 4:5–7, Romans 8:14–17, Hebrews 1:2–3, and 2 Corinthians 5:21, it contributes to the full representation thesis:
+Within the doctrinal framework of this book, the statement underscores that the identity represented in the Son is not postponed to a future age: it speaks of who we are in this world. Read with Galatians 4:5–7, Romans 8:14–17, Hebrews 1:2–3, and 2 Corinthians 5:21, it contributes to the representation thesis:
 
 - The Son is the express image of the Father's person.
 - Through Christ, we receive adoption as sons.
@@ -1151,9 +1144,9 @@ The statements contribute distinct parts of the argument. They are not collapsed
 
 ## The Father's purpose and the representation of design
 
-The Father's will and pleasure is for His sons to operate in the state corresponding to their design. This includes the identity of sons and heirs, participation in divine nature, and the reality represented in Christ.
+The Father's will and pleasure is for His sons to live in the state corresponding to their design. This includes sonship and heirship, participation in divine nature, and the identity represented in Christ.
 
-The argument has been developed across the book:
+The argument has been built through the book's connected passages:
 
 - **Genesis 1:26–28:** humanity is made in God's image and likeness and receives the blessing and commission.
 - **2 Peter 1:4:** believers may become partakers of divine nature through the precious promises.
@@ -1163,15 +1156,15 @@ The argument has been developed across the book:
 - **2 Corinthians 5:21:** the righteousness of God in Christ.
 - **1 John 4:17:** “as he is, so are we in this world,” within the context of perfected love and confidence in the day of judgment.
 
-The governing thesis is not that believers displace the Son. It is that Jesus represents who we are by Design, and that through Him we receive the sonship and inheritance Scripture describes. His unique place as Son and appointed heir remains the foundation. His redemptive accomplishment remains essential. The Father's purpose for His sons is developed from the identity and inheritance given through Christ.
+The governing thesis is not that believers displace the Son. Jesus represents who we are by Design, and through Him we receive the sonship and inheritance Scripture describes. His unique place as Son and appointed heir remains foundational, and His redemptive accomplishment remains essential. The Father's purpose for His sons is understood through the identity and inheritance given in Christ.
 
 ## The chapter's conclusion
 
 Jesus is the Son, the appointed heir of all things, the brightness of God's glory, and the express image of His person. He upholds all things and by Himself purged our sins. Hebrews 1 presents His identity and accomplishment together.
 
-Through Christ, we receive adoption as sons. Because we are sons, God sends the Spirit of His Son into our hearts. We are no more servants, but sons; and if sons, heirs of God through Christ. The Spirit bears witness that we are children of God; and if children, heirs of God and joint-heirs with Christ, with suffering and shared glory retained in Paul's statement.
+Through Christ, we receive adoption as sons. Because we are sons, God sends the Spirit of His Son into our hearts. We are no more servants, but sons—and if sons, heirs of God through Christ. The Spirit bears witness that we are God's children; and if children, heirs of God and joint-heirs with Christ. Paul's statement also retains suffering with Christ and shared glory.
 
-The Aletheia teaching and the author's doctrinal direction bring these passages into the design argument: **Jesus represents who we are by Design.** He represents the identity of the sons, while His redemptive work restores us and brings us into the inheritance described in Scripture. Representation and accomplishment must not be separated.
+The Aletheia teaching brings these passages into the design argument: **Jesus represents who we are by Design.** He represents the identity of the sons, while His redemptive work restores us and brings us into the inheritance described in Scripture. Representation and accomplishment must remain together.
 
 ## Study and teaching questions
 
