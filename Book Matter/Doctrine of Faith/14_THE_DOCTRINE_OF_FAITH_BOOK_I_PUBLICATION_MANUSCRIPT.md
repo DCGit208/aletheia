@@ -162,6 +162,14 @@ Taken together, they establish the foundation from which the doctrine proceeds. 
 **Faith is our state by Design. Jesus represents who we are by Design.** These are not detached slogans. They are the doctrinal conclusions toward which the connected scriptural testimony directs the inquiry. The chapters that follow develop the dimensions of that foundation without confusing their distinct responsibilities.
 
 # Chapter 2 — Pistis: Credence, Acceptance and Sonship
+## The Father's pleasure and the testimony of faith
+
+Hebrews 11:2 says that by faith the elders obtained a good report. The chapter does not describe faith as a private opinion detached from a life that bears testimony. The elders' faith is connected with the report received concerning them. Hebrews 11:5 gives the example of Enoch, who was translated so that he should not see death and had this testimony, that he pleased God. Verse 6 then states that without faith it is impossible to please Him, because the one who comes to God must believe that He is and that He is a rewarder of those who diligently seek Him.
+
+These verses place faith, testimony, and the Father's pleasure in a single movement. The good report is not a substitute definition for *pistis*, nor is pleasing God reduced to a human effort to secure approval. The question raised by the passage is the state of the person whose life bears this testimony. The Aletheia teaching answers at the level of identity: faith essentially defines our state as children of God. The examples in Hebrews 11 show that this state is not inert; it is expressed in the lives of those who respond to God and receive His testimony.
+
+Matthew 3:16–17 records the Father's declaration over Jesus after His baptism: “This is my beloved Son, in whom I am well pleased” (KJV). The declaration precedes the public ministry that follows in Matthew's account. It identifies Jesus as the beloved Son and expresses the Father's pleasure in Him. Read alongside Hebrews 11:5–6, the testimony concerning Enoch, and the Aletheia teaching on sonship, the passage brings the Father's pleasure into the discussion of the Son and those whose sonship is received through Him. Jesus' unique Sonship is not diminished; rather, the adoption developed in Galatians 4 and Romans 8 is understood in relation to the Son whom the Father sent.
+
 ## Faith toward God: the state of His children
 
 Hebrews 6:1 names “faith toward God” among the foundations of the doctrine of Christ:
@@ -295,6 +303,26 @@ Faith is therefore neither a passing mood nor a verbal formula. The Aletheia sou
 9. Which statements in this chapter are explicit Aletheia source teaching, which are explicit scriptural statements, and which are doctrinal synthesis?
 
 # Chapter 3 — Elohim: Image, Likeness and Human Design
+## The image carried through the generations
+
+Genesis 5:1–2 returns to the language of creation: God made humanity in His likeness; male and female He created them, blessed them, and called their name Adam in the day they were created. The passage is important because it does not present image and likeness as a description that disappears after Genesis 1. When the account turns from the first creation to the generations that follow, it repeats the language of likeness and blessing. The human family is traced from the Design established at creation.
+
+The repetition also guards against treating Genesis 1:26 as an isolated poetic expression. Genesis 5 places the creation statement within the continuing account of humanity. The language of likeness remains attached to the identity and origin of the human race. The blessing is likewise part of the creation account: humanity is not merely made; humanity is blessed and commissioned within the created order.
+
+## The glory of the image
+
+First Corinthians 11:7 states that man is the image and glory of God, while the woman is the glory of the man. The verse belongs to Paul's argument in 1 Corinthians 11:2–16 concerning headship, honour, and conduct in the gathered community. Its wording should not be detached from that discussion or made to answer questions it is not addressing. Within that context, however, Paul's description of man as the image and glory of God is explicit and significant. It brings the language of Genesis into the apostolic discussion and identifies glory as belonging to the creation relationship.
+
+The Aletheia teaching connects this testimony with the statement that humanity was made like its Maker. The doctrinal connection is not that 1 Corinthians 11:7 repeats every detail of Genesis 1, but that it confirms the scriptural use of image and glory in speaking about humanity's relation to God. The image is not merely an outward resemblance. It belongs to the account of what humanity is by creation.
+
+## Likeness expressed in life
+
+The command in Matthew 5:43–48 must be read as one movement. Jesus speaks of loving enemies, blessing those who curse, doing good to those who hate, and praying for those who persecute. He then points to the Father's giving of sun and rain to the evil and the good, the just and the unjust. The conclusion, “Be ye therefore perfect, even as your Father which is in heaven is perfect” (Matthew 5:48, KJV), follows this account of the Father's indiscriminate goodness.
+
+The comparison “even as your Father” matters. The conduct required of the children is related to the Father's own character. The passage therefore gives practical expression to likeness: the nature of the Father is not an abstract label but is made visible in the life of those who belong to Him. Love of enemies is not an unrelated moral demand appended to a doctrine of image; it is the very context in which Jesus describes the Father's character and calls His hearers to reflect it.
+
+First John 4:17 brings this relationship into the present life of believers: “as he is, so are we in this world” (KJV). The verse speaks within a passage about God's love being perfected in us, confidence in the day of judgment, and the removal of fear through perfected love. Its present-tense declaration is not an invitation to self-exaltation. It places the believer's life in relation to Christ and to the love of God perfected in the believer. Read with Genesis, Matthew 5, and 1 Corinthians 11:7, it contributes to the doctrine that the created image and likeness are not treated as an irrelevant past fact; they have implications for the life now lived in relation to the Father.
+
 ## From faith as state to humanity's design
 
 The preceding chapters have established two foundations. Hebrews 11:1 describes faith as *hypostasis* in relation to things hoped for. The Aletheia leaflet's “Faith toward God” teaching identifies *pistis* as “credence” and states that faith defines the state of God's children, connecting that state with acceptance, true nature, and Sonship.
@@ -556,6 +584,18 @@ The doctrinal conclusion rests on the passages considered together, with each re
 Read together, Psalm 82 and John 10 hold the declaration and its judgment setting in view. The next chapter turns to 2 Peter 1:2–8, where Peter develops divine power and promises, escape from corruption, participation in the divine nature, and the qualities to be supplied in faith.
 
 # Chapter 5 — Partakers of the Divine Nature
+## The whole movement of 2 Peter 1:2–8
+
+Peter's statement about partaking of divine nature stands within a carefully connected sequence. He begins with grace and peace multiplied through the knowledge of God and of Jesus our Lord. Divine power has given what pertains to life and godliness through the knowledge of the One who called believers to glory and virtue. Great and precious promises have been given, and through these promises believers become partakers of the divine nature, having escaped the corruption that is in the world through lust.
+
+The order is important. Participation is not presented as an achievement detached from God's provision. The passage begins with what God has given: divine power, calling, knowledge, and promises. The participation described in verse 4 is grounded in that provision. The promises are not incidental encouragements; they are the means through which the stated participation is realised. The escape from corruption belongs to the same movement. Peter does not describe participation in divine nature while leaving the corruption of the world untouched.
+
+The passage then turns from divine provision to the believer's diligence. “And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge; and to knowledge temperance; and to temperance patience; and to patience godliness; and to godliness brotherly kindness; and to brotherly kindness charity” (2 Peter 1:5–7, KJV). The qualities are not a replacement for the promises or a means of earning divine nature. They describe the active development that must accompany the provision already received. Grace does not make diligence unnecessary; divine provision establishes the ground on which diligence is exercised.
+
+Peter's sequence is cumulative. Faith is accompanied by virtue; virtue by knowledge; knowledge by temperance; temperance by patience; patience by godliness; godliness by brotherly kindness; and brotherly kindness by charity. The list is not a set of unrelated virtues from which a person may select. Each quality is to be supplied in the life of faith, and the closing command to add charity brings the movement to its relational expression.
+
+Verse 8 states the consequence: if these things are in believers and abound, they make them that they shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ. The test is not the mere ability to repeat the phrase “partakers of the divine nature.” Peter connects participation with a life in which the qualities he names are present and increasing. The passage therefore holds together what God gives, what the promises make possible, what believers escape, the diligence they exercise, and the fruitfulness that results.
+
 ## From created image to participation in divine nature
 
 The preceding chapters have established the creation foundation in Genesis 1:26–28, the Aletheia teaching that *pistis*—credence—defines the state of God's children, and the relationship of true nature to Sonship. They have also considered Psalm 82:6–7 in its judgment setting and Jesus' appeal to that writing in John 10. Chapter 5 now follows the source's next step in the true-nature argument.
@@ -654,6 +694,14 @@ Book I's governing convictions remain that **faith is our state by design** and 
 Peter's account of divine provision, participation in divine nature, escape from corruption, and growth in the knowledge of Christ raises the next question: why did Jesus come? The discussion now turns to humanity's coming short of glory, righteousness, and Christ's redemptive work.
 
 # Chapter 6 — Why Did Jesus Come? The Glory We Came Short Of
+## The image and glory in the apostolic testimony
+
+First Corinthians 11:7 describes man as the image and glory of God. This statement belongs to Paul's wider discussion of headship and honour in 1 Corinthians 11:2–16, and that context must remain visible. The verse is not a free-standing definition of every aspect of human identity. It is nevertheless a direct apostolic use of the language of image and glory in relation to humanity, and it belongs in the consideration of what it means to come short of the glory of God.
+
+First Corinthians 15:35–49 develops another dimension of the human condition: the body that is sown and the body that is raised. Paul contrasts corruption and incorruption, dishonour and glory, weakness and power, the natural body and the spiritual body. He then places the first man and the second man in relation: the first is of the earth, earthy; the second man is the Lord from heaven. Those who have borne the image of the earthy shall also bear the image of the heavenly. The passage therefore does not permit the discussion of glory to be reduced to outward appearance or present circumstance. It concerns the kind of humanity represented in the first Adam and the heavenly image disclosed in Christ.
+
+The connection with Romans 3:23–24 is substantial. The statement that all have sinned and come short of the glory of God is followed immediately by free justification through grace and redemption in Christ Jesus. The Aletheia interpretation identifies this coming short as deviation from true nature. First Corinthians 15 adds the contrast between the earthy image and the heavenly image; 2 Corinthians 4:4–6 identifies Christ as the image of God and speaks of the knowledge of God's glory in the face of Jesus Christ. Together these passages give depth to the question: the glory humanity came short of is considered in relation to the image and Design, and the glory revealed in Christ is inseparable from the redemption accomplished through Him.
+
 ## The question follows the design
 
 The preceding chapters have established the foundation of faith, the Aletheia teaching that *pistis*—credence—defines the state of God's children, humanity's creation in God's image and likeness, Psalm 82:6–7 in its judgment context, and Peter's account of participation in divine nature.
@@ -1002,6 +1050,16 @@ These lexical references support the word-level statements. Thayer's qualificati
 The discussion now turns to the Son as heir of all things and the express image of the Father, alongside the sonship and heirship believers receive through Galatians 4:5–7 and Romans 8:16–17. Hebrews 1:8 remains part of the Son's scriptural portrait; the former question associated with that verse is not reopened.
 
 # Chapter 8 — The Son and the Heir: Our Inheritance in Christ
+## The inheritance of the Son and the children
+
+Hebrews 1:1–4 establishes the Son's identity before the chapter's language of inheritance is applied to believers. God has spoken by His Son, whom He has appointed heir of all things; through Him also He made the worlds. The Son is the brightness of God's glory and the express image of His person, upholding all things by the word of His power. Having purged our sins, He sat down at the right hand of the Majesty on high. The sequence holds together creation, identity, inheritance, sustaining power, redemption, and exaltation. The Son's heirship is not a title borrowed from believers; it belongs to His unique position as the Son through whom God has spoken and acted.
+
+Galatians 4:1–7 then explains how those who were under the law receive adoption as sons through the sending and redemptive work of God's Son. The movement from servant to son and from son to heir is grounded in God's action: He sent His Son to redeem, and He sent the Spirit of His Son into the hearts of those who are sons. Romans 8:14–17 develops the same reality through the Spirit's leading and witness. Those led by the Spirit are the sons of God; they have received the Spirit of adoption, cry “Abba, Father,” and are heirs of God and joint-heirs with Christ.
+
+The words “joint-heirs with Christ” must be read without confusing the Son's identity with the inheritance of the children. Christ is the appointed heir; believers receive heirship through Him. The relationship is real, not merely an honorary label, but it does not make believers the same person as the Son or displace His unique place. The inheritance is shared through union with Him, and the Son remains the One through whom redemption and adoption have come.
+
+Second Corinthians 5:21 gives the redemptive ground of this relationship: God made the One who knew no sin to be sin for us, that we might be made the righteousness of God in Him. The phrase “in him” is essential. The inheritance of the children is not independent of Christ; neither is their righteousness. The Son who represents the Father's glory is the One through whom the children are brought into the relationship of righteousness and heirship.
+
 ## From righteousness in Christ to sonship and heirship
 
 The preceding chapters have developed humanity's design, the Father's nature, the glory humanity came short of, and restoration through redemption and justification. This chapter brings those themes together in the Son and in the inheritance given to God's children.
@@ -1172,6 +1230,16 @@ The Aletheia teaching brings these passages into the design argument: **Jesus re
 The Son's representation and the believers' sonship and heirship through Him lead into Jesus' prayer in John 17:20–23. The next chapter follows its movement through oneness, glory, indwelling, sending, and the purpose Jesus states.
 
 # Chapter 9 — Our Oneness with the Father and the Glory of God
+## The prayer in its full movement
+
+John 17 must be read as the prayer of Jesus as He speaks to the Father concerning His own work, His disciples, and those who will believe through their word. He speaks of the glory He had with the Father before the world was, of the work given Him to do, and of the name of the Father made known to those given Him. He prays for their keeping, sanctification in the truth, and unity. The prayer for oneness in verses 20–23 therefore arises from the mission and revelation already described; it is not an isolated request for social harmony.
+
+Jesus includes future believers explicitly: “Neither pray I for these alone, but for them also which shall believe on me through their word” (John 17:20, KJV). The scope of the prayer reaches beyond the first disciples. He asks “that they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us” (verse 21). The repeated “as” is part of the wording and must be allowed its force. The oneness of believers is related to the oneness of the Father and the Son; it is not described as an unrelated unity formed by common preference.
+
+Jesus then speaks of the glory given to Him and given to them, “that they may be one, even as we are one” (verse 22). Verse 23 continues: “I in them, and thou in me, that they may be made perfect in one.” The prayer joins glory, indwelling, perfected oneness, and the world's knowledge that the Father sent the Son and loved believers as He loved the Son. The world's witness is therefore connected to the reality of this relationship, not merely to an outward claim of unity.
+
+The prayer also preserves the distinction between Father and Son. Jesus addresses the Father, speaks of being sent, and asks that believers be with Him to behold His glory. Their inclusion in the oneness and glory does not erase the Son's unique mission or identity. It reveals the extent of what He asks the Father to bring about in those who believe: a real participation in the relationship, love, and glory made known in Him.
+
 ## The prayer that brings sonship and glory into view
 
 The discussion of the Son and the heir leads naturally to the prayer Jesus prayed for those who would believe in Him. The Aletheia source directs attention to John 17:20–23 and asks the reader to consider the prayer of oneness. That invitation deserves more than a passing reference to Christian unity. Jesus' words describe a relationship: the Father in the Son, the Son in believers, believers in the Father and the Son, and the glory given to the Son also given to them.
