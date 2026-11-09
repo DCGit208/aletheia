@@ -1418,6 +1418,25 @@ The next inquiry is distinct but dependent on this foundation. Book II, *Faith I
 
 The book closes, then, with its attention fixed on Christ: the image of God, the One in whose face the knowledge of God's glory is given, and the One whose person reveals humanity's design while whose work accomplishes redemption and restoration. The foundation has been laid. The inquiry into evidence can now proceed from it.
 
+# Conclusion — The Gospel That Restores Our True Nature
+
+The doctrine of faith reaches its meaning when faith is understood in relation to the nature and Design of the person, the Son who reveals the Father, and the redemption accomplished through Him. Faith is not merely the effort to believe, the strength of a religious opinion, or the language a person uses when asking God for something. Hebrews 11:1 calls faith *hypostasis*—substance. The Aletheia teaching on *pistis* identifies faith as credence and declares that it defines the state of the children of God. These testimonies bring the question of faith to the level of underlying reality and identity.
+
+Humanity's beginning is declared in Genesis: made in the image and likeness of God, male and female, blessed and commissioned. The language of image and glory appears again in the apostolic writings. The declaration of Psalm 82, read with the judgment that follows it and with Jesus' appeal in John 10, must be received in the full force of its scriptural setting. Peter's words concerning participation in divine nature show that God's promises reach into the life of those who belong to Him, bringing escape from corruption and calling for diligence and fruitfulness.
+
+The question “Why did Jesus come?” cannot be answered by separating His person from His work. He is the image of God and the express image of the Father's person; He is also the One who purged our sins. The Aletheia interpretation of coming short of glory as deviation from true nature is developed through the creation testimony, the apostolic language of image and glory, and the revelation of God's glory in the face of Jesus Christ. The same gospel that reveals what humanity was designed to be declares what God has accomplished in Christ.
+
+Justification, righteousness, and redemption therefore belong to the heart of this doctrine. The language of being justified freely by grace through redemption is not a marginal legal statement detached from the question of human nature. In Christ, God has acted. The One who knew no sin was made sin for us, that we might be made the righteousness of God in Him. The complete ransom and the restoration-to-Design conclusion are held together in the doctrinal reading developed throughout this volume. The lexical definitions serve the argument, but the doctrine is established through the connected testimony of Scripture and the Aletheia teaching.
+
+The Son is the appointed heir of all things. His identity is unique, and the inheritance of God's children is received through Him. The Spirit bears witness to sonship; those who are sons are heirs of God and joint-heirs with Christ. This inheritance does not displace the Son. It establishes the place of those brought into the Father's relationship through His redemptive work.
+
+In John 17, Jesus prays for those who believe through the word of His disciples. He asks that they may be one as the Father is in Him and He in the Father, that they may be one in them. He speaks of the glory given, of His indwelling in them, and of the world's knowledge that the Father sent Him and loved them. The oneness is not an empty declaration. It belongs to the relationship, glory, love, and witness for which Jesus prayed.
+
+The final declaration, “Have the faith of God,” brings the doctrine to its culmination. In the setting of Mark 11:20–25, faith, prayer, and forgiveness are held together. The God State is not a deficiency humanity must manufacture its way out of; it is an acknowledgement of the Design revealed in the Son and addressed throughout this doctrine. This does not erase the distinction between Creator and creature, nor does it make the believer an independent source of divine power. It recognises the state and nature God has made known and the life that follows from belonging to Him.
+
+**Faith is our state by Design. Jesus represents who we are by Design.** His representation and His redemptive accomplishment remain inseparable. The gospel does not leave the human question unanswered: it reveals the Design, identifies the deviation, and declares the work God has accomplished in Christ. The true nature of humanity is not discovered apart from Him. In the Son, the Father's image and glory are revealed, and through His work the children are brought into the inheritance, relationship, and life that the gospel declares.
+
+
 # Bibliography and Reference Works
 
 ## Controlling Aletheia source
@@ -1472,24 +1491,6 @@ The leaflet's further-reading notes name *The Doctrine of Man* and *Why Men Die*
 ## Note on the use of sources
 
 The 2015 Aletheia leaflet, *Aletheia Libraries 1*, is the controlling doctrinal source for the treatment of “Faith toward God.” Biblical quotations are identified by translation, and lexical works are cited for the specific language evidence they provide. The supplementary Dake introduction is included as an interpretive-method reference; it is not the source of the Aletheia leaflet's doctrinal statements or lexical glosses.
-
-# Conclusion — The Gospel That Restores Our True Nature
-
-The doctrine of faith reaches its meaning when faith is understood in relation to the nature and Design of the person, the Son who reveals the Father, and the redemption accomplished through Him. Faith is not merely the effort to believe, the strength of a religious opinion, or the language a person uses when asking God for something. Hebrews 11:1 calls faith *hypostasis*—substance. The Aletheia teaching on *pistis* identifies faith as credence and declares that it defines the state of the children of God. These testimonies bring the question of faith to the level of underlying reality and identity.
-
-Humanity's beginning is declared in Genesis: made in the image and likeness of God, male and female, blessed and commissioned. The language of image and glory appears again in the apostolic writings. The declaration of Psalm 82, read with the judgment that follows it and with Jesus' appeal in John 10, must be received in the full force of its scriptural setting. Peter's words concerning participation in divine nature show that God's promises reach into the life of those who belong to Him, bringing escape from corruption and calling for diligence and fruitfulness.
-
-The question “Why did Jesus come?” cannot be answered by separating His person from His work. He is the image of God and the express image of the Father's person; He is also the One who purged our sins. The Aletheia interpretation of coming short of glory as deviation from true nature is developed through the creation testimony, the apostolic language of image and glory, and the revelation of God's glory in the face of Jesus Christ. The same gospel that reveals what humanity was designed to be declares what God has accomplished in Christ.
-
-Justification, righteousness, and redemption therefore belong to the heart of this doctrine. The language of being justified freely by grace through redemption is not a marginal legal statement detached from the question of human nature. In Christ, God has acted. The One who knew no sin was made sin for us, that we might be made the righteousness of God in Him. The complete ransom and the restoration-to-Design conclusion are held together in the doctrinal reading developed throughout this volume. The lexical definitions serve the argument, but the doctrine is established through the connected testimony of Scripture and the Aletheia teaching.
-
-The Son is the appointed heir of all things. His identity is unique, and the inheritance of God's children is received through Him. The Spirit bears witness to sonship; those who are sons are heirs of God and joint-heirs with Christ. This inheritance does not displace the Son. It establishes the place of those brought into the Father's relationship through His redemptive work.
-
-In John 17, Jesus prays for those who believe through the word of His disciples. He asks that they may be one as the Father is in Him and He in the Father, that they may be one in them. He speaks of the glory given, of His indwelling in them, and of the world's knowledge that the Father sent Him and loved them. The oneness is not an empty declaration. It belongs to the relationship, glory, love, and witness for which Jesus prayed.
-
-The final declaration, “Have the faith of God,” brings the doctrine to its culmination. In the setting of Mark 11:20–25, faith, prayer, and forgiveness are held together. The God State is not a deficiency humanity must manufacture its way out of; it is an acknowledgement of the Design revealed in the Son and addressed throughout this doctrine. This does not erase the distinction between Creator and creature, nor does it make the believer an independent source of divine power. It recognises the state and nature God has made known and the life that follows from belonging to Him.
-
-**Faith is our state by Design. Jesus represents who we are by Design.** His representation and His redemptive accomplishment remain inseparable. The gospel does not leave the human question unanswered: it reveals the Design, identifies the deviation, and declares the work God has accomplished in Christ. The true nature of humanity is not discovered apart from Him. In the Son, the Father's image and glory are revealed, and through His work the children are brought into the inheritance, relationship, and life that the gospel declares.
 
 # Scripture Reference Guide
 
