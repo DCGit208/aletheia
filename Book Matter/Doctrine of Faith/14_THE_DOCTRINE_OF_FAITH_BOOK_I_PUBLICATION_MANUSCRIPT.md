@@ -1498,7 +1498,7 @@ This guide locates the principal Scripture passages by chapter. It is a chapter-
 
 | Chapter | Subject | Principal Scripture references |
 |---|---|---|
-| 1 | Faith as *hypostasis* and the foundation of the doctrine | Hebrews 10:32–39; 11:1–13; 1:3; 3:14; 6:1; Mark 11:20–25 |
+| 1 | Faith as *hypostasis* and the foundation of the doctrine | Hebrews 5:11–14; 6:1–3; 10:32–39; 11:1–13; 1:3; 3:14; Genesis 1:26–27; 2 Peter 1:2–4 |
 | 2 | *Pistis*, credence, the state of God's children, and Sonship | Hebrews 6:1; Galatians 4:4–7; Romans 8:14–17; Ephesians 1:3–5; Matthew 3:17; Hebrews 11:2, 5–6 |
 | 3 | *’Ĕlōhîm*, image, likeness, and human Design | Genesis 1:26–28; 5:1–2; 1 Corinthians 11:2–16; Matthew 5:43–48; John 14:12; 1 John 4:17; 2 Peter 1:4 |
 | 4 | Psalm 82 and Jesus' appeal in John 10 | Psalm 82:1–8; John 10:30–38 |
