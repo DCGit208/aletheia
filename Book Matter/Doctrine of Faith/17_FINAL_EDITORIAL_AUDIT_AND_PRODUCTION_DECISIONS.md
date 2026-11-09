@@ -260,3 +260,15 @@ Substantive reader-facing exposition was added to Chapters 2, 3, 5, 6, 8, and 9:
 The updated manuscript was committed as 444bc448cf2fa0f27e997c916ed686502902bc4e and refetched successfully. The ten reader chapter bodies were then regenerated from the current manuscript and committed as 5483ae5a71cd6857c6474617675b187ed32ffcd2; the reader file was refetched successfully. The direct synchronization operation mapped all ten chapter numbers exactly once.
 
 **Verification boundary:** this is a substantive developmental pass, not a completed final chapter-by-chapter line edit. The automated publication-integrity workflow, full Scripture quotation proof, specialist lexical review, bibliography/source-note reconciliation, final proof after typesetting, signed-in entitled-reader test, and author approval remain open. The manuscript is not being represented as publication-ready.
+
+## 2026-11-09 — Chapter 10 boundary and reader-parity correction
+
+A further structural check found that Chapter 10 contained an internal conclusion that turned into an editorial roadmap to Book II. That passage conflicted with the production control requiring Chapter 10 to end in the God-State doctrine rather than announce the next volume. It has been removed. The separate book-level conclusion, **“The Gospel That Restores Our True Nature,”** remains as the conclusion of Book I and is positioned before the bibliography and other back matter.
+
+The first reader synchronization pass had also carried the material after Chapter 10 into the app's Chapter 10 body because the chapter-end boundary was not detected. This was caught by a direct body-by-body comparison. The reader payload has now been regenerated using the book-level conclusion as the Chapter 10 boundary. A fresh comparison confirms ten chapter bodies and **zero parity mismatches**.
+
+- Corrected manuscript commit: `ed2d0b5c2933a9a4bc08319dbaef93a468ad645c`
+- Corrected reader commit: `55766e290f73be89c8a0725225f92cd6ff84ca58`
+- Both files were refetched after their updates.
+
+This correction closes the identified Chapter 10 boundary/parity defect only. It does not certify the full developmental edit, quotation proof, lexical review, designed proof, production deployment, or final author approval.
