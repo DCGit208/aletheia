@@ -1410,14 +1410,6 @@ Mark 11:22 now brings the question of faith and God's state to the forefront. Th
 
 Faith is our state by Design. Jesus represents who we are by Design. His person reveals the glory; His work accomplishes redemption. The state is not invented by human effort, and the restoration is not achieved independently of Him. The God State is acknowledged in the reality God has declared and in the Son through whom that reality and redemption are made known.
 
-# Conclusion: the foundation for the evidence
-
-Book I has established its foundation through Hebrews 11:1 and the discussion of *hypostasis*, substance, and underlying reality. It has then developed the Aletheia leaflet's teaching on *pistis* as credence and its connection with the state of God's children, true nature, and Sonship. The argument has followed the connected passages concerning image and likeness, divine nature, glory, Christ's person and work, justification, heirship, and oneness. The final image is the image of God revealed in Christ, in whose face the knowledge of God's glory shines.
-
-The next inquiry is distinct but dependent on this foundation. Book II, *Faith Is Evidence*, develops the evidence dimension of faith. It does not replace or postpone the foundation established here. The question is no longer whether the foundation belongs in Book I; it does. The next question is how faith as evidence is demonstrated and operates from that foundation.
-
-The book closes, then, with its attention fixed on Christ: the image of God, the One in whose face the knowledge of God's glory is given, and the One whose person reveals humanity's design while whose work accomplishes redemption and restoration. The foundation has been laid. The inquiry into evidence can now proceed from it.
-
 # Conclusion — The Gospel That Restores Our True Nature
 
 The doctrine of faith reaches its meaning when faith is understood in relation to the nature and Design of the person, the Son who reveals the Father, and the redemption accomplished through Him. Faith is not merely the effort to believe, the strength of a religious opinion, or the language a person uses when asking God for something. Hebrews 11:1 calls faith *hypostasis*—substance. The Aletheia teaching on *pistis* identifies faith as credence and declares that it defines the state of the children of God. These testimonies bring the question of faith to the level of underlying reality and identity.
