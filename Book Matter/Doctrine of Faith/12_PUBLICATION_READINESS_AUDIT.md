@@ -385,3 +385,11 @@ These changes improve the reader experience and publication apparatus. They do n
 - The reader payload was synchronized again. A direct repository comparison confirms all ten chapter bodies match manuscript 14 exactly; no “Forward link,” “Transition to Chapter,” or “Editorial proofing control” labels remain in the controlled manuscript.
 
 The current Hosting workflow for the latest synchronized commit is still pending. The current repository parity is confirmed by direct comparison, but the new live deployment must be confirmed separately. Full copy edit, complete Scripture proof, specialist lexical review, typesetting, page-by-page proof, live entitled-reader test, and final author approval remain open.
+
+## 2026-11-09 — Continued developmental work
+
+The author authorized continuation of the remaining work directly in the live repository. The current manuscript was refetched, and substantive reader-facing additions were committed to Chapters 2, 3, 5, 6, 8, and 9. These additions address the developmental gaps recorded in the chapter assessments, including Hebrews 11 testimony and the Father's pleasure; Genesis 5:1–2 and the image/glory passages; the complete 2 Peter 1:2–8 sequence; the body/image contrast in 1 Corinthians 15; the Son's unique heirship and believers' inheritance through Him; and the full movement of John 17.
+
+The canonical manuscript update is commit 444bc448cf2fa0f27e997c916ed686502902bc4e and was verified by a fresh fetch. The ten-chapter app reader content was regenerated from that manuscript in commit 5483ae5a71cd6857c6474617675b187ed32ffcd2 and was also refetched. This records a source synchronization, not a claim that the automated parity test or production deployment has passed.
+
+**Current status: NOT PUBLICATION-READY.** Outstanding work includes the complete developmental and line/copy edit of every chapter; full quotation/reference proof (targeted checks remain distinct from final proof); specialist review of all Greek/Hebrew forms and claims; final bibliography and source-note reconciliation; final designed eBook proof; a signed-in entitled-reader end-to-end test; confirmation of the latest CI/deployment run; and the author's final approval.
