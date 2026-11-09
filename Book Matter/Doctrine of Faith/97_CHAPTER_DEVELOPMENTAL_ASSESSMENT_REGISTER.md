@@ -1500,3 +1500,9 @@ The ten-chapter order and approved architecture remain in force. No chapter is t
 **Commit:** `14510d636ddf692e16886aa95e297f69588a62ea`
 
 **Hold point:** Chapter 2 reassessment and rewriting have not begun. Chapter 1 is presented for the author's review before proceeding.
+
+## 2026-11-09 — Author-authorized continuation and developmental update
+
+The author has now explicitly instructed that the remaining work proceed. This supersedes the earlier procedural hold that required presenting Chapter 1 for review before continuing; the approved ten-chapter architecture and doctrinal controls remain unchanged.
+
+A developmental pass has added substantive exposition to Chapters 2, 3, 5, 6, 8, and 9 in the canonical manuscript. The exact changes and verification commits are recorded in 17_FINAL_EDITORIAL_AUDIT_AND_PRODUCTION_DECISIONS.md and 12_PUBLICATION_READINESS_AUDIT.md. This does not close the remaining full-chapter reassessments, line/copy edit, Scripture proof, lexical proof, or author approval.
