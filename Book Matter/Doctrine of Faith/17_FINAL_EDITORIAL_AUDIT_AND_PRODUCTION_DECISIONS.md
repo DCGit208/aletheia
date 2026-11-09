@@ -244,3 +244,19 @@ These changes improve the reader experience and publication apparatus. They do n
 - The reader payload was synchronized again. A direct repository comparison confirms all ten chapter bodies match manuscript 14 exactly; no “Forward link,” “Transition to Chapter,” or “Editorial proofing control” labels remain in the controlled manuscript.
 
 The current Hosting workflow for the latest synchronized commit is still pending. The current repository parity is confirmed by direct comparison, but the new live deployment must be confirmed separately. Full copy edit, complete Scripture proof, specialist lexical review, typesetting, page-by-page proof, live entitled-reader test, and final author approval remain open.
+
+## Production work log — 9 November 2026, expanded developmental pass
+
+The author instructed that the remaining work proceed directly without another planning or approval cycle. The current canonical manuscript was fetched from main before editing.
+
+Substantive reader-facing exposition was added to Chapters 2, 3, 5, 6, 8, and 9:
+- Chapter 2 now develops the Hebrews 11 connection among good report, Enoch's testimony, pleasing God, and the Father's declaration over Jesus in Matthew 3:16–17, while keeping the Aletheia pistis / sonship formulation central.
+- Chapter 3 now includes Genesis 5:1–2, the contextual use of image and glory in 1 Corinthians 11:2–16, and the contextual relationship of Matthew 5:43–48 and 1 John 4:17 to likeness and present life.
+- Chapter 5 now develops the complete movement of 2 Peter 1:2–8, including the order of divine provision, promises, participation, escape from corruption, diligence, qualities, and fruitfulness.
+- Chapter 6 now gives fuller treatment to 1 Corinthians 11:7 and 1 Corinthians 15:35–49 in relation to the source's interpretation of coming short of glory and the image revealed in Christ.
+- Chapter 8 now makes the distinction between the Son's unique heirship and believers' inheritance through Him more explicit, connecting Hebrews 1, Galatians 4, Romans 8, and 2 Corinthians 5:21.
+- Chapter 9 now develops the full prayer context in John 17 and the relationship among the sending, sanctification, future believers, the repeated “as,” glory, indwelling, love, and the world's witness.
+
+The updated manuscript was committed as 444bc448cf2fa0f27e997c916ed686502902bc4e and refetched successfully. The ten reader chapter bodies were then regenerated from the current manuscript and committed as 5483ae5a71cd6857c6474617675b187ed32ffcd2; the reader file was refetched successfully. The direct synchronization operation mapped all ten chapter numbers exactly once.
+
+**Verification boundary:** this is a substantive developmental pass, not a completed final chapter-by-chapter line edit. The automated publication-integrity workflow, full Scripture quotation proof, specialist lexical review, bibliography/source-note reconciliation, final proof after typesetting, signed-in entitled-reader test, and author approval remain open. The manuscript is not being represented as publication-ready.
