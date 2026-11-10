@@ -469,3 +469,28 @@ The same paragraph continues through free justification in Romans 3:23–24; the
 The direct comparison found the controlling doctrinal content represented across the ten chapters. The one material reader-facing gap identified in the source-question treatment of Hebrews 1:8 has been clarified in Chapter 8. No change was made to the approved ten-chapter architecture or to the author's governing formulations. The manuscript continues to distinguish: (a) what Scripture explicitly says in context; (b) what the 2015 leaflet explicitly teaches or asks; (c) lexical/grammatical evidence; and (d) the author's doctrinal synthesis.
 
 **Boundary of this sign-off:** This is a source-representation and attribution-boundary review. It is not final proof of every Scripture quotation, translation attribution, or Greek/Hebrew lexical claim. Those remain separate publication checks and must not be represented as completed by this step.
+
+
+## Stage 2 — Step 4: chapter openings and conclusions review
+
+**Completed:** 10 November 2026  
+**Scope:** Re-read the opening movement, closing doctrinal movement, study questions, and inter-chapter handoff of all ten chapters in the canonical manuscript.
+
+### Chapter-by-chapter result
+
+1. **Chapter 1 — Hypostasis:** Opens with Hebrews' argument about endurance and the substance of hope, not a detached definition. Its ending gathers Hebrews 11:1, Hebrews 1:3, Genesis 1, and 2 Peter 1 without collapsing their claims, then states the governing doctrine and hands forward to the next dimensions. Retained.
+2. **Chapter 2 — Pistis:** Opens directly with Hebrews 6:1 and the leaflet's explicit statement about the state of God's children. Its conclusion distinguishes *pistis* from *hypostasis* and carries the argument toward image, nature, redemption, inheritance, and oneness. Retained.
+3. **Chapter 3 — Elohim:** The opening previously began with Genesis 5:1–2, making the reader encounter the confirming passage before the foundational creation declaration. Reworked the opening to begin with Genesis 1:26–27 and then bring Genesis 5:1–2 in as the continuing witness. Its doctrinal close already gathered image, likeness, blessing, commission, representation, and redemption, and points naturally to Psalm 82 / John 10. Retained.
+4. **Chapter 4 — Psalm 82 / John 10:** Opens with the declaration in Psalm 82:6 while immediately retaining verse 7 and the judgment setting. Its conclusion gathers the psalm and Jesus' appeal without flattening their contexts, then transitions to 2 Peter 1:2–8. Retained.
+5. **Chapter 5 — Divine nature:** The opening previously summarized almost the entire passage before the exposition began. Reworked it around the central claim that participation in divine nature must be read together with God's provision, escape from corruption, diligence, and fruitfulness. Its conclusion identifies Peter's distinct contribution and leads to the question of why Jesus came. Retained.
+6. **Chapter 6 — Why Jesus came:** Opens with the governing question and the relation of creation, image, glory, and redemption. Its conclusion holds representation and accomplishment together and transitions directly to justification and redemption. Retained.
+7. **Chapter 7 — Justification / righteousness / redemption:** Opens with Romans 3:23–24 and the source's three distinct lexical terms. Its closing movement gathers the terms and their scriptural work, then transitions to the Son's heirship and the children's inheritance. Replaced the earlier editorial-sounding statement that the Hebrews 1:8 question was “not reopened” with a direct doctrinal bridge into Chapter 8. Retained.
+8. **Chapter 8 — The Son and the heir:** Opens with the Son's unique identity and appointed heirship before developing adoption and inheritance through Him. Its conclusion preserves the distinction between Christ's unique Sonship and believers' received sonship, and transitions to John 17. Retained.
+9. **Chapter 9 — Oneness and glory:** Opens within the full movement of Jesus' prayer, including His mission, disciples, future believers, sanctification, and oneness. Added a closing transition after the study questions so the reader is carried from the prayer's oneness/glory/witness to Chapter 10's culmination in the state of God.
+10. **Chapter 10 — Faith as the state of God:** Opens by gathering the book's argument and bringing Mark 11:22 into focus. Its ending is a distinct chapter conclusion centred on “Have the faith of God. Have the state of God,” retaining the acknowledgement of Design, Christ's representation, and His redemptive accomplishment. The book-level conclusion remains a separate synthesis rather than a repetition of the chapter.
+
+### Step 4 decision
+
+All ten chapter openings and conclusions have been reviewed. Three targeted reader-facing changes were made: Chapter 3's opening now begins at the foundational creation declaration; Chapter 5's opening now advances the argument instead of previewing the whole passage; and Chapter 9 now has a clear handoff to the final chapter. Chapter 7's ending was also made more direct and less editorial in tone. The remaining openings and conclusions were judged to be coherent, substantive, and properly connected to their chapter responsibilities.
+
+The ten-chapter architecture and order remain unchanged. The review did not certify final quotation accuracy, lexical scholarship, or designed-page quality; those remain separate production controls.
