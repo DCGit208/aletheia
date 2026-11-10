@@ -162,11 +162,7 @@ The relationship between the two lines can now be stated carefully. *Hypostasis*
 This foundation also keeps the person and work of Christ together. The Son reveals the Father's person and glory, and Hebrews 1:3 declares that He purged our sins. His representation shows the reality toward which the Design argument points; His redemptive accomplishment is not optional or secondary. The state of the children is understood through the Son and the work through which redemption and adoption are given.
 
 
-This does not mean that Genesis 1:26–27 and Hebrews 11:1 are saying the same thing in different words. Genesis declares the image and likeness in which humanity was created. Hebrews declares that faith is the *hypostasis* of things hoped for. The connection is doctrinal: the substance of faith is to be understood in the light of the Design of the person, the reality of God's promise, and the Son who is the express image of the Father's person.
 
-Nor does this make redemption unnecessary. Hebrews 1:3 identifies the Son both as the express image of the Father's person and as the One who purged our sins. The same passage that reveals His identity also declares His redemptive accomplishment. The Son's representation and His work cannot be separated. The One who reveals the glory and being of the Father is the One through whom the purging of sins is accomplished.
-
-This is the foundation for the governing conviction of this work: **faith is our state by Design.** It is not a deficiency to be disguised by religious language, nor an identity to be manufactured through effort. Its substance must be understood in relation to what God designed, what He has promised, and what is revealed in His Son.
 
 ## The foundation established
 
@@ -405,16 +401,7 @@ The governing doctrinal statement is:
 
 The thesis holds two questions together: What did Jesus accomplish for us, and what does He represent? In His person, Jesus reveals the reality toward which humanity was designed. His representation does not displace His redemptive work; redemption is essential to the restoration argument.
 
-The argument is cumulative:
-
-- **Genesis 1:26–28** establishes image, likeness, blessing, fruitfulness, and dominion.
-- **Hebrews 1:2–3** presents the Son as heir of all things and the express image of the Father's person.
-- **Romans 8:17** identifies believers as children, heirs of God, and joint-heirs with Christ, while retaining the verse's reference to suffering and shared glory.
-- **1 John 4:17** declares, in the context of perfected love and confidence in the day of judgment, “as he is, so are we in this world.”
-- **John 17:20–23** records Jesus' prayer concerning the oneness of believers with the Father and the Son.
-- **Romans 3:23–24**, **Ephesians 1:7**, and **Colossians 1:14** belong to the connected argument concerning coming short of glory, justification, and redemption through Christ.
-
-No single verse carries the entire doctrine. Genesis supplies the creation foundation; the passages concerning the Son, children and heirs, oneness, glory, justification, and redemption develop the relationship between humanity's design and its representation in Christ.
+The creation testimony, the Son's identity, the inheritance of God's children, the prayer of oneness, and the passages on glory and redemption contribute distinct parts of this teaching. Read together, they show why the representation revealed in Jesus must remain joined to what He accomplished for humanity. No single verse states the whole conclusion; the doctrine arises from the connected testimony.
 
 ## Faith, design, and the Father's nature
 
@@ -440,9 +427,7 @@ Psalm 82:6 declares, “Ye are gods; and all of you are children of the most Hig
 
 ## The design revealed and represented
 
-This chapter establishes the creation foundation and introduces the wider scriptural witness through which the design argument develops. Humanity is made in God's image and likeness, and the creation account joins that identity to blessing and dominion. The Aletheia source connects faith with true nature and the state of God's children; the passages on Sonship, heirship, love, oneness, and glory extend that argument.
-
-The central thesis remains that **Jesus represents who we are by Design**. His person reveals the design, and His redemptive accomplishment remains essential to its restoration. The next chapter examines Psalm 82 and John 10, where the creation foundation meets the declaration “Ye are gods” and the judgment setting in which it appears.
+Humanity was created in God's image and likeness and received blessing and commission together. The Aletheia teaching on faith and true nature belongs within this creation foundation, while the testimony concerning the Son, sonship, heirship, love, oneness, and glory develops its implications. **Jesus represents who we are by Design**, and His redemptive accomplishment remains essential to restoration. Psalm 82 and Jesus' appeal to it in John 10 now bring the declaration “Ye are gods” into view within its setting of divine judgment.
 
 ## Study and argument exercise
 
@@ -679,15 +664,9 @@ Peter's conclusion is relational: fruitfulness occurs “in the knowledge of our
 
 ## True nature, participation, and restoration
 
-The Aletheia teaching develops true nature through the relationship between creation, participation, corruption, and restoration. Genesis 1:26–28 supplies the image-and-likeness foundation. Second Peter 1:2–4 speaks of divine provision, precious promises, participation in divine nature, and escape from corruption; verses 5–8 describe the diligence and qualities that are to abound in the knowledge of Christ.
+Genesis 1:26–28 establishes humanity's created image and likeness; 2 Peter 1:2–8 describes what God's provision and promises make possible in the life of believers. Through the promises, they become partakers of divine nature and escape the corruption in the world through lust. Peter then calls them to diligence and to the qualities that must abound, concluding with fruitfulness in the knowledge of Jesus Christ. Participation is therefore neither an isolated title nor a substitute for transformed life: divine provision, escape, diligence, and fruitfulness belong to one movement.
 
-The source's “back on course” formulation connects 2 Peter 1:2–8 with Psalm 82:5 and Romans 3:23–24. It links what is out of course and what has fallen short of glory with the restoration developed through righteousness and redemption in Christ. Chapter 7 examines the righteousness and redemption language directly; this chapter establishes Peter's distinct contribution through participation, escape, diligence, and fruitfulness.
-
-Participation in divine nature belongs to humanity's designed state and to the restoration accomplished through Christ. This conclusion arises from the source's connection between creation and true nature and from Peter's full sequence, not from verse 4 in isolation.
-
-Participation in divine nature does not make Peter's instructions unnecessary. The same passage calls for diligence, virtue, knowledge, temperance, patience, godliness, brotherly kindness, and charity, all of which are to be present and abound. The chapter thus holds together God's provision, the promises, escape from corruption, and the fruitful life Peter describes.
-
-Book I's governing convictions remain that **faith is our state by design** and **Jesus represents who we are by Design**. This chapter has developed the promise of participation in divine nature and the source's account of true nature and restoration. The next chapter asks why Jesus came and examines humanity's coming short of glory in relation to His work.
+The Aletheia source connects this testimony with Psalm 82:5 and Romans 3:23–24 through its “back on course” formulation. That expression describes the source's restoration teaching; it is not an exhaustive lexical definition of *dikaiosynē*. The restoration argument is developed further through justification and redemption in Christ. Peter's distinct contribution is clear: God's promises enable participation in divine nature, and that participation is to be expressed in the diligent, fruitful life described in verses 5–8.
 
 ## Study and argument exercise
 
@@ -1060,15 +1039,11 @@ Second Corinthians 5:21 gives the redemptive ground of this relationship: God ma
 
 ## From righteousness in Christ to sonship and heirship
 
-The preceding chapters have developed humanity's design, the Father's nature, the glory humanity came short of, and restoration through redemption and justification. This chapter brings those themes together in the Son and in the inheritance given to God's children.
-
-The governing doctrinal direction is clear: **Jesus represents who we are by Design.** He is the One who accomplished redemption for us and the Son in whom our designed identity is represented and revealed. His sonship, image, glory, and heirship are central to understanding the sonship and inheritance believers receive in Him.
+The inheritance of God's children is understood through the Son. **Jesus represents who we are by Design**: His person reveals the identity toward which the creation and sonship passages point, while His redemptive work brings believers into the inheritance described in Scripture. His unique Sonship and heirship remain His own; the adoption and inheritance of believers are received through Him.
 
 The relationship must be stated accurately. Jesus is the Son whom the Father sent, the appointed heir of all things, the One through whom the worlds were made, and the One who purged our sins. Believers do not acquire this unique identity or appointment. Scripture instead describes what is given through Him: redemption, adoption as sons, the Spirit of the Son, the status of God's children, and heirship with Christ. Our heirship is genuinely shared with Christ, but it is received through Him; His unique identity and work remain the foundation of the inheritance.
 
-The chapter follows two movements. Hebrews presents the Son—appointed heir, agent of creation, brightness of glory and express image, the One who purged sins and was exalted. Galatians and Romans then explain the sonship and heirship believers receive through Christ. Together these passages develop the thesis that Jesus represents who we are by Design and that His redemptive accomplishment is essential to our restoration.
-
-## The Son: appointed heir of all things
+ ## The Son: appointed heir of all things
 
 Hebrews opens by contrasting God's former speech through the prophets with His speech in these last days through the Son:
 
@@ -1326,7 +1301,7 @@ The prayer presses beyond a shallow definition of unity. It calls the reader to 
 
 The prayer of John 17 does not end the inquiry into glory. It leads to Paul's account in 2 Corinthians 4:1–6, where the character of apostolic ministry, the veiling of the gospel, the blindness of unbelieving minds, and God's shining in hearts culminate in the knowledge of God's glory in the face of Jesus Christ. John 17 and 2 Corinthians 4 contribute distinct testimony: the former speaks of oneness, glory given, indwelling, and the world's witness; the latter speaks of the gospel's light and the image of God in Christ.
 
-That movement brings the discussion to 2 Corinthians 4:1–6. There Paul names Christ as the image of God and describes the light that shines in the heart. The prayer and that passage belong together in the book's cumulative argument: the Son reveals the Father's glory, and the oneness for which He prays is connected to the world's knowledge of His sending and the Father's love.
+
 
 ## Questions for reflection and study
 
