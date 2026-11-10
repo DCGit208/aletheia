@@ -270,25 +270,17 @@ These verses connect faith with good report and pleasing God. Matthew 3:17 recor
 
 The wider scriptural framework gives this direction its substance. Genesis 1:26–27 describes humanity made in God's image and likeness. Second Peter 1:4 speaks of becoming partakers of the divine nature. Galatians 4:5–7 speaks of redemption, adoption, Sonship, and heirship through Christ. Romans 8:16–17 speaks of the Spirit's witness and of children who are heirs of God and joint-heirs with Christ. These passages contribute distinct parts of the design, participation, Sonship, and heirship argument.
 
-## The state of God's children within the book's argument
+## Faith, credence, and the state of God's children
 
-The Aletheia source's teaching on *pistis* belongs to a connected scriptural sequence. Genesis 1:26–28 gives the image-and-likeness account of humanity's creation and commission. Second Peter 1:4 speaks of partaking of the divine nature. Psalm 82:6 must be read with the judgment setting of the psalm, including verse 7, and John 10 must be read through the full argument in which Jesus cites it. Romans 3:23–24, 1 Corinthians 11:7, and 2 Corinthians 4:4–6 contribute to the book's treatment of glory and image.
+Faith as *pistis* is not presented here as a passing mood or a momentary opinion. The teaching is that faith defines the state of God's children. The word “credence” is therefore read in the sentence in which the source places it: credence defines acceptance, true nature, and espousal or adoption as sons. The emphasis falls not on an isolated act of agreeing with a statement, but on the state and standing of those who belong to God.
 
-These passages are not interchangeable proof-texts. Each has its own setting and contributes a distinct part of the case for faith, true nature, and the state of God's children. The governing convictions are that **faith is our state by design** and **Jesus represents who we are by Design**. That representation must be understood alongside Christ's person and accomplishment; it does not displace redemption or justification.
+The Scriptures give this state its substance. Galatians 4:4–7 shows the Son sent to redeem those under the law so that they might receive adoption; it then declares, “because ye are sons,” God has sent the Spirit of His Son into their hearts, crying, “Abba, Father.” The movement is from the sending and redemption accomplished by the Son, to adoption, to the Spirit's witness, and to the declaration that the son is also an heir of God through Christ.
 
-Chapter 1 established the book's foundational inquiry through *hypostasis* in Hebrews 11:1. This chapter has developed the Aletheia leaflet's explicit teaching on *pistis* as credence defining the state of God's children, connected with acceptance, true nature, and adoption as sons. Book I brings these teachings into relation: the substance foundation and the state of God's children are considered together, while the terms and their source attributions remain distinct.
+Romans 8:14–17 gives the same sonship its inward witness and inheritance: those led by the Spirit of God are the sons of God; they have received the Spirit of adoption, not bondage again to fear; the Spirit bears witness with their spirit that they are children of God; and if children, then heirs—heirs of God and joint-heirs with Christ. Ephesians 1:3–5 places this adoption within the Father's purpose and good pleasure, through Jesus Christ.
 
-The sequence developed here can be followed plainly:
+The Father's pleasure is also seen in His declaration over Jesus: “This is my beloved Son, in whom I am well pleased” (Matthew 3:17). Hebrews 11:2 says the elders obtained a good report through faith; verses 5–6 connect Enoch's testimony with pleasing God and declare that without faith it is impossible to please Him. Read together, these passages establish the relationship among faith, the Father's pleasure, and the life of His children. The conclusion that the Father's pleasure is expressed in His sons living in the state He designed is the doctrinal synthesis of these connected witnesses.
 
-- Hebrews 11:1 supplies the foundational *hypostasis* statement.
-- The Aletheia leaflet explicitly identifies *pistis* as “credence” and says that faith defines the state of God's children.
-- Galatians 4:4–7 develops the sending of the Son, redemption, adoption, the Spirit's cry, Sonship, and heirship.
-- Romans 8:14–17 develops the Spirit's witness, the children's inheritance, suffering with Christ, and shared glory.
-- Ephesians 1:3–5 places adoption within God's purpose and the good pleasure of His will.
-- Matthew 3:17 and Hebrews 11:2, 5–6 bring the Father's pleasure, faith, good report, and pleasing God into the argument.
-- The subsequent chapters develop image and likeness, divine nature, redemption, righteousness, heirship, oneness, and the present reality in Christ.
-
-Faith is therefore neither a passing mood nor a verbal formula. The Aletheia source identifies it as credence that defines the state of God's children. The Scriptures considered here describe that state through Sonship, the Father's purpose, the Spirit's witness, and inheritance through Christ. The following chapters develop the wider argument concerning Design and restoration.
+The foundation of *hypostasis* in Hebrews 11:1 and the teaching on *pistis* in Hebrews 6:1 are related, but the words are not interchangeable. Hebrews 11:1 supplies the substance foundation; the teaching on *pistis* identifies faith as credence defining the state of God's children. Together they establish why faith is not merely an attempt to obtain something: it concerns the state of the person in relation to God's Design. The image and likeness, divine nature, glory, redemption, inheritance, and oneness that follow are dimensions of this same scriptural testimony.
 
 ## Questions for reflection and study
 
@@ -875,18 +867,11 @@ These passages contribute to the wider thesis that Jesus represents who we are b
 
 ## The answer held together
 
-The Aletheia source places “Why did Jesus come?” immediately after its account of humanity made like its Maker. It interprets coming short of God's glory as deviation from true nature, points to 1 Corinthians 11:7's description of man as the image and glory of God, and then turns to Romans 3:23–24: justification is free, by grace, through redemption in Christ Jesus.
+Humanity's creation in God's image and likeness establishes the Design from which the question of glory must be understood (Genesis 1:26–27). The Aletheia teaching connects that Design with participation in divine nature (2 Peter 1:4), and reads the statement that all have sinned and come short of God's glory as a deviation from true nature (Romans 3:23; 1 Corinthians 11:7). The same passage does not leave humanity at the point of deviation: it declares that people are justified freely by God's grace through the redemption that is in Christ Jesus (Romans 3:24).
 
-The answer must preserve the sequence the source joins:
+The sequence is decisive. Creation establishes the Design; sin marks the departure; justification is freely given; redemption is in Christ. Ephesians 1:7 speaks of redemption through His blood, and Colossians 1:13–14 speaks of deliverance from the power of darkness and redemption through His blood, even the forgiveness of sins. These are not separate remedies detached from humanity's original purpose. They belong to God's action in Christ.
 
-- **Creation:** humanity is made in God's image and likeness (Genesis 1:26–27).
-- **True nature:** the source connects this design with participation in divine nature (2 Peter 1:4).
-- **Deviation:** the source interprets coming short of God's glory as deviation from true nature (Romans 3:23; 1 Corinthians 11:7).
-- **Justification:** humanity is justified freely by God's grace (Romans 3:24).
-- **Redemption:** redemption is in Christ Jesus, through His blood (Romans 3:24–26; Ephesians 1:7; Colossians 1:13–14).
-- **Representation:** Jesus represents who humanity is by Design, while His redemptive accomplishment remains essential to restoration.
-
-The question cannot be answered with representation alone or with redemption detached from the design from which the argument begins. Christ's person and accomplishment belong together: the design identifies what is being restored, and His redemptive work reveals God's provision in Christ.
+Jesus represents who we are by Design, and He has accomplished the redemption through which restoration is made possible. Representation without His redemptive accomplishment would leave the problem of sin unanswered. Redemption detached from Design would leave unexplained what is being restored. Christ's person and work must therefore be held together.
 
 ## Study and argument exercise
 
@@ -1006,27 +991,25 @@ This connects with the Aletheia source's account of *pistis* as credence and as 
 
 ## The three terms and their relationship
 
-The three Greek terms belong to one doctrinal movement, but they are not synonyms:
+The three terms belong to one connected work of God in Christ, but each has its own grammatical function and meaning.
 
-| Term | Source's wording | Place in the argument |
-|---|---|---|
-| *Dikaioō* (δικαιόω) | “Render just or innocent (free from evil or guilt).” | The verb associated with being justified freely. The complete G1344 entry includes Strong's core gloss and AV usage, together with Thayer's three definitions and qualification. |
-| *Dikaiosynē* (δικαιοσύνη) | Righteousness/justification; equity; impartiality to and conformity with God's nature; “original: back on course.” | The related noun used in the source's declaration that we are the righteousness of God in Christ (2 Corinthians 5:21). |
-| *Apolutrōsis* (ἀπολύτρωσις) | “Redemption; ransom in full.” | Redemption in Christ Jesus. The book develops complete ransom as restoration to original design through the wider Scripture argument. |
+*Dikaioō* (δικαιόω) is the verb associated with justification. The 2015 teaching gives its gloss as “render just or innocent (free from evil or guilt).” *Dikaiosynē* (δικαιοσύνη) is the related noun translated “righteousness.” The leaflet connects it with equity, impartiality, and conformity with the nature of God, and gives the explanatory phrase “back on course.” *Apolutrōsis* (ἀπολύτρωσις) is the word for redemption; the leaflet expresses its force as “ransom in full.”
 
-Romans 3:24 joins free justification with redemption in Christ Jesus. Second Corinthians 5:21 says that believers are made the righteousness of God in Him. The source's “back on course” language and “ransom in full” gloss contribute to the book's doctrinal conclusion that justification and redemption restore humanity to its designed state.
+Romans 3:24 joins justification freely given by grace with redemption in Christ Jesus. Second Corinthians 5:21 declares that we are made the righteousness of God in Him. The terms therefore belong in one doctrinal account, but no single lexical gloss carries the whole weight of that account. The verb names the justifying action; the noun names righteousness; redemption names the ransom accomplished in Christ. Their relationship is established by the passages in which they occur and by the teaching that connects them.
 
-The lexical entries establish the meanings and usage recorded by their respective sources. The complete restoration-to-design doctrine is developed from the Aletheia teaching and the connected Scriptures. This distinction strengthens the exposition: it preserves the source's teaching without attributing the entire doctrinal conclusion to a single Greek word.
+The phrase “back on course” gives the source's own interpretive force to righteousness: conformity with God's nature, in relation to the Design from which humanity departed. “Ransom in full” gives the source's stated force to redemption. The doctrine of restoration is not extracted from a dictionary entry; it is developed through the source's connected Scriptures and the work of Christ.
 
 ## The answer in the full Scripture movement
 
-The Aletheia source's question, “Has man been justified?” receives its emphatic answer: **Yes! And FREELY!** Romans 3:23–24 identifies the condition and the divine response. Humanity has sinned and come short of God's glory; justification is freely given by grace through the redemption in Christ Jesus.
+“Has man been justified?” The answer is emphatic: **Yes—and freely.** Romans 3:21–28 explains that righteousness is manifested apart from the law, witnessed by the law and prophets, and received through faith in Jesus Christ. All have sinned and come short of God's glory, yet justification is freely given by grace through the redemption in Christ Jesus. Paul continues by identifying Christ as the propitiation through faith in His blood and by showing that God is just and the justifier of the one who believes in Jesus.
 
-The source glosses *dikaioō* as rendering just or innocent, free from evil or guilt. The full G1344 entry adds Strong's and Thayer's material, including the definitions concerning rendering righteous and declaring or pronouncing someone just. The source connects *dikaiosynē* with equity and conformity to God's nature—“back on course”—and glosses *apolutrōsis* as “ransom in full.”
+The declaration in 2 Corinthians 5:21 carries the matter further: God made Him who knew no sin to be sin for us, “that we might be made the righteousness of God in him.” The words “in him” are essential. The righteousness named here is not an independent human possession detached from Christ. It is ours in Him. The same chapter has already declared that if any man be in Christ, he is a new creature; the ministry of reconciliation and the making of the righteousness of God belong to this same passage (2 Corinthians 5:17–21).
 
-The doctrinal conclusion is that justification restores humanity to its designed state and redemption is complete ransom with restoration to original design. The conclusion is developed through Genesis 1:26–28, Romans 3:21–28, 1 Corinthians 11:7 and 15:41, 2 Peter 1:4, Ephesians 1:7, Colossians 1:13–14, and 2 Corinthians 5:17–21.
+Ephesians 1:7 identifies redemption through Christ's blood with the forgiveness of sins, according to the riches of God's grace. Colossians 1:13–14 speaks of deliverance from the power of darkness, translation into the kingdom of God's dear Son, and redemption through His blood. These passages show the accomplishment and present standing associated with redemption in Christ.
 
-Book I's governing thesis remains: **Jesus represents who we are by Design.** He also accomplished the redemption through which humanity is restored to that design. Representation and redemptive accomplishment must remain together: the design identifies what humanity was made to be, while justification and redemption describe God's gracious action in Christ to accomplish restoration.
+The doctrinal conclusion follows from the whole testimony: humanity's deviation does not define its Design; justification is freely given; redemption is accomplished in Christ; and the righteousness of God is ours **in Him**. The source's language of being “back on course” expresses the restoration dimension of this teaching. It must remain joined to the explicit scriptural declaration that this righteousness is in Christ, not an achievement independent of Him.
+
+**Jesus represents who we are by Design, and His redemptive work restores us to that Design.**
 
 ## Study and argument exercise
 
