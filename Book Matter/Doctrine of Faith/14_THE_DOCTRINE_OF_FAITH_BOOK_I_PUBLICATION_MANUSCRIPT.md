@@ -1015,7 +1015,7 @@ The passage asks which angel was ever addressed as the Son with the words “Tho
 
 Hebrews 1:8 remains because it is part of this scriptural portrait. It directly addresses the Son, declares His throne everlasting, and describes His kingdom through the sceptre of righteousness. It contributes to the portrayal of His identity and reign.
 
-
+The Aletheia leaflet asks, “according to Hebrews 1:8, what does that make you?” The question directs the reader to consider the identity disclosed in the passage alongside the source's teaching about humanity's true nature and the believer's standing in Christ. Hebrews 1:8 itself is addressed to the Son; it does not directly rename believers or erase the distinction between His unique Sonship and the adoption received through Him. The believer's identity and inheritance are developed through the connected testimony of Galatians 4:5–7 and Romans 8:14–17. The question is therefore engaged through the whole scriptural argument, not answered by transferring the Son's direct title in Hebrews 1:8 to believers as though the passage addressed them.
 
 Hebrews 1:1–8 presents a continuous portrait: God speaks through the Son; appoints Him heir of all things; makes the worlds through Him; and declares Him the brightness of His glory and express image. The Son purges sins and is exalted, while the Father's declarations distinguish Him from the angels and speak of His Sonship, throne, and righteous kingdom. This is the portrait within which our sonship and heirship through Him must be understood.
 
