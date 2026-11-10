@@ -108,3 +108,37 @@ The following are not Bible translations and must be checked against the 2015 Al
 ## Editorial and deployment status — 2026-11-06
 
 The second editorial correction pass changed the presentation of Chapter 1 and the Chapter 9 transition; it did not verify any additional Bible quotations or original-language forms. All existing quotation statuses in this register remain unchanged. In particular, targeted checks must not be promoted to final proof. Every quotation and reference must still be checked against the selected edition and rechecked after typesetting. The latest reader-source synchronization also requires a successful deployment and parity verification before it is treated as live.
+
+
+## Stage 3 — Step 1: manuscript Scripture quotation proof
+
+**Review date:** 2026-11-10  
+**Manuscript reviewed:** 14_THE_DOCTRINE_OF_FAITH_BOOK_I_PUBLICATION_MANUSCRIPT.md, blob SHA ce851576ab6cb6b8a8315ee240cb6951c55088ae.
+
+### Inventory and checks performed
+
+- Re-inventoried the canonical manuscript's quotation blocks: 62 blockquote blocks in total, including 55 KJV-labelled blocks and two appearances of the Genesis 1:27 TLB quotation; the remaining blocks are source/Greek or other non-KJV quotation material.
+- Compared the full TLB Genesis 1:27 wording in both chapter locations against the current Bible Gateway TLB display. The wording is verbatim: “So God made man like his Maker. Like God did God make man; Man and maid did he make them.” The text is retained without alteration.
+- Checked the KJV quotation inventory against the existing passage-by-passage targeted-check records and rechecked the continuous 2 Corinthians 5:17–21 passage against the KJV display. The manuscript wording matches the KJV passage, including the sequence from new creature, reconciliation, ambassadors, and Christ made sin to righteousness in Him.
+- Confirmed that the manuscript consistently identifies the TLB quotation and does not mislabel it as KJV. The separate KJV rendering of Genesis 1:27 remains alongside it.
+- Confirmed that the manuscript copyright page already carries the current Tyndale multiple-translation credit line for TLB: “Scripture quotations marked (TLB) are taken from The Living Bible, copyright © 1971 by Tyndale House Ministries. Used by permission. All rights reserved.” This matches the current official Tyndale permissions guidance. The current guidance permits up to 500 TLB verses in print/eBook work subject to the 25% and no-complete-biblical-book conditions; this manuscript quotes one verse, repeated in two locations.
+- Confirmed that the KJV quotations are identified and the KJV is public domain.
+
+### Corrections to production records
+
+The prior publication-readiness audit described the TLB copyright holder as Tyndale House Foundation and gave an older, longer credit line. The canonical manuscript already used the current Tyndale House Ministries credit line. The readiness audit has now been corrected to reflect the current official Tyndale permissions page and the manuscript's actual credit.
+
+### Discrepancy and risk disposition
+
+No Scripture wording change was necessary in the manuscript during this step. The Genesis 1:27 TLB quotation matched the published TLB display, and the continuous 2 Corinthians 5:17–21 KJV quotation matched the KJV display. Existing KJV proof entries remain marked “Targeted checked” rather than being promoted to final designed-page proof: this review does not certify the later typeset output.
+
+The source leaflet's Genesis 1:27 presentation includes a separate parenthetical attribution to the Life Application Bible. The manuscript retains that as a note about the leaflet's source presentation and does not claim that this parenthetical note independently establishes a specific edition's text. The full wording reproduced in the manuscript is identified as TLB.
+
+### Remaining proof requirements
+
+1. Compare all 55 KJV-labelled quotation blocks and both TLB appearances against the final selected source editions during the final copy-edit/typeset pass, including capitalization, punctuation, italics, and quotation marks.
+2. Verify every reference label, verse range, and any ellipsis against the selected edition.
+3. Recheck the TLB credit on the actual copyright page after layout.
+4. Recheck every quotation in the designed pages; no manuscript-level proof can substitute for page proof.
+
+**Step 1 status:** Manuscript quotation inventory and targeted verification completed; final designed-page proof remains open.
