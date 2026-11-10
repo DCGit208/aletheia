@@ -370,3 +370,32 @@ The ten-chapter manuscript was read as a continuous sequence after the Stage 1 a
 ### Remaining Stage 2 work
 
 This is the first integrated pass, not the final sign-off. The next read must focus on the continuity and balance of the entire argument, especially the distinction between the source's doctrinal formulations and the manuscript's scriptural synthesis; remove any remaining process-language that does not serve the reader; and check the conclusion against the final chapter. Scripture quotation proof, original-language specialist verification, back-matter reconciliation, and reader-payload parity remain separate required controls. The manuscript remains **NOT FINAL**.
+
+
+### Stage 2 continuation — additional continuity corrections
+
+A second pass within the integrated review made further reductions where the same argument was being restated without adding a new step:
+
+- **Chapter 5:** Removed repeated explanation of the Genesis/Peter relationship and a repeated doctrinal-synthesis sentence. The chapter now moves from its detailed exposition of 2 Peter 1:2–8 to a concise statement of the source's restoration connection and Peter's distinct contribution.
+- **Chapter 7:** Replaced the process-oriented opening recap with a direct reader-facing opening from Romans 3:23–24 and the three distinct terms through which the source develops justification, righteousness, and redemption.
+- **Chapter 1:** The redundant underlying-state subsection was removed; the more developed *hypostasis*–*pistis* bridge now carries that reasoning.
+- **Chapters 2, 3 and 6:** The study questions and chapter transitions were refined to test doctrinal understanding and preserve natural progression rather than ask readers to perform editorial provenance checks or receive repeated architecture summaries.
+
+Additional commits:
+- `ec399786f60927250eb263f617b027876814fef3` — first integrated consolidation.
+- `b3f813b1a9b6a207fcd94bc28e596f666970fa12` — reader-facing prose and study pedagogy.
+- `188fd6f9899bdf4ebb7367c7caab31ec55937e13` — further source-exposition and chapter-opening consolidation.
+
+The latest canonical manuscript was refetched at content SHA `42021ab47821e508e7599fe4bb7b612a2fde7ef7`. It retains the ten approved chapter headings in the same order:
+1. # Chapter 1 — Faith as Hypostasis: Substance and Underlying Reality — line 90
+2. # Chapter 2 — Pistis: Credence, Acceptance and Sonship — line 167
+3. # Chapter 3 — Elohim: Image, Likeness and Human Design — line 300
+4. # Chapter 4 — Ye Are Gods: Psalm 82 and the Testimony of Jesus in John 10 — line 432
+5. # Chapter 5 — Partakers of the Divine Nature — line 568
+6. # Chapter 6 — Why Did Jesus Come? The Glory We Came Short Of — line 670
+7. # Chapter 7 — Justification, Righteousness and Redemption in Christ — line 861
+8. # Chapter 8 — The Son and the Heir: Our Inheritance in Christ — line 1005
+9. # Chapter 9 — Our Oneness with the Father and the Glory of God — line 1181
+10. # Chapter 10 — Have the Faith of God: Faith as the State of God — line 1292
+
+**Stage 2 remains in progress.** The integrated pass has not yet certified that all ten chapters are free of repeated arguments or that every transition and the book-level conclusion are fully reconciled. The separate quotation, lexical, reference, and reader-payload checks remain open.
