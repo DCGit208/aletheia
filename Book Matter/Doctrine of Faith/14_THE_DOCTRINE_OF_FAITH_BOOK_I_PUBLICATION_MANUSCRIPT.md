@@ -1356,7 +1356,7 @@ Dake, Finis Jennings. *Dake Study Bible Notes: Bible Introduction*. Supplied int
 - Louw, Johannes P., and Eugene A. Nida, eds. *Greek-English Lexicon of the New Testament Based on Semantic Domains*. 2nd ed. United Bible Societies, 1989. Relevant semantic domains for ὑπόστασις include nature/essence and confidence/assurance; see the UBS Semantic Dictionary of Biblical Greek, domain 58.1 and 31.84: https://hiperbiblia.com/lexicons/G5287?dict=louw_nida.
 - Suchard, Benjamin D. “Semitic *ʾilāh-* and Hebrew אלהים: From plural ‘gods’ to singular ‘God’.” *Journal for the Study of the Old Testament* (published online 29 May 2025). https://doi.org/10.1177/03090892251332286.
 - NET Bible, translator's notes on Genesis 1:26: https://classic.net.bible.org/passage.php?passage=Gen+1%3A26. The note records the plural morphology of אֱלֹהִים and the singular agreement when it refers to the one God.
-- SBL Greek New Testament / MorphGNT lexical and morphological data for δικαιοσύνη, δικαιόω, ἀπολύτρωσις, and σπουδή; compare the passage-level analyses cited in the manuscript.
+- Tauber, J. K., ed. *MorphGNT: SBLGNT Edition*. Version 6.12. 2017. Morphological tagging and lemmatization dataset for the SBL Greek New Testament. https://github.com/morphgnt/sblgnt ; DOI: https://doi.org/10.5281/zenodo.376200. Used as a passage-level morphology cross-check; the Greek text itself remains subject to its separately stated SBLGNT terms.
 - OpenBible Greek text and morphology, Romans 3:24: https://www.openbible.com/text/romans/3-24.htm
 - OpenBible Greek text and morphology, 2 Peter 1:5: https://www.openbible.com/text/2_peter/1-5.htm
 - Greek interlinear, 2 Corinthians 5:21: https://cnbible.com/text/2_corinthians/5-21.htm
@@ -1393,16 +1393,16 @@ This guide locates the principal Scripture passages by chapter. It is a chapter-
 
 | Chapter | Subject | Principal Scripture references |
 |---|---|---|
-| 1 | Faith as *hypostasis* and the foundation of the doctrine | Hebrews 5:11–14; 6:1–3; 10:32–39; 11:1–13; 1:3; 3:14; Genesis 1:26–27; 2 Peter 1:2–4 |
-| 2 | *Pistis*, credence, the state of God's children, and Sonship | Hebrews 6:1; Galatians 4:4–7; Romans 8:14–17; Ephesians 1:3–5; Matthew 3:17; Hebrews 11:2, 5–6 |
-| 3 | *’Ĕlōhîm*, image, likeness, and human Design | Genesis 1:26–28; 5:1–2; 1 Corinthians 11:2–16; Matthew 5:43–48; John 14:12; 1 John 4:17; 2 Peter 1:4 |
-| 4 | Psalm 82 and Jesus' appeal in John 10 | Psalm 82:1–8; John 10:30–38 |
+| 1 | Faith as *hypostasis* and the foundation of the doctrine | Genesis 1:26–28; Mark 11:20–25; Galatians 4:5–7; Romans 8:15; Ephesians 1:5; 2 Peter 1:2–4; Hebrews 1:1–3; 3:14; 5:11–14; 6:1–3; 10:32–39; 11:1–13 |
+| 2 | *Pistis*, credence, the state of God's children, and Sonship | Matthew 3:17; Galatians 4:1–7; Romans 8:14–17; Ephesians 1:3–5; Hebrews 6:1; 11:1–6 |
+| 3 | *’Ĕlōhîm*, image, likeness, and human Design | Genesis 1:26–28; 5:1–2; 1 Corinthians 11:2–16; Matthew 5:43–48; John 14:12; 1 John 4:17; 2 Peter 1:4; Psalm 82:1–8; John 10:34–36; John 17:20–23; Mark 11:20–25 |
+| 4 | Psalm 82 and Jesus' appeal in John 10 | Psalm 82:1–8; Genesis 1:26–28; John 10:30–38; John 17:20–23; 2 Peter 1:2–8 |
 | 5 | True nature and participation in divine nature | 2 Peter 1:2–8; Genesis 1:26–28; Psalm 82:5; Romans 3:23–24 |
-| 6 | Coming short of glory, righteousness, and why Jesus came | Genesis 1:26–27; Romans 3:21–26; 1 Corinthians 11:2–16; 1 Corinthians 15:35–49; 2 Corinthians 4:4–6; Ephesians 1:7; Colossians 1:13–14 |
-| 7 | Redemption, free justification, and righteousness in Christ | Romans 3:23–24; 1 Corinthians 15:41; 2 Corinthians 5:17–21 |
-| 8 | The Son, the heir, and the representation of Design | Hebrews 1:1–8; Galatians 4:5–7; Romans 8:14–17; Ephesians 1:5; 2 Corinthians 5:21; 1 John 4:17 |
-| 9 | Oneness and glory in the prayer of Jesus | John 17:1–26; 2 Corinthians 4:4–6; Romans 8:17; 1 John 4:17 |
-| 10 | Have the faith of God; faith as the state of God | Mark 11:20–25; Genesis 1:26–28; Matthew 5:43–48; 2 Corinthians 4:4–6; Hebrews 1:3; Hebrews 11:1; John 17:20–23 |
+| 6 | Coming short of glory, righteousness, and why Jesus came | Genesis 1:26–27; Psalm 82:6–7; 1 Corinthians 11:2–16; 1 Corinthians 15:35–49; Romans 3:21–26; 2 Corinthians 4:4–6; Ephesians 1:7; Colossians 1:13–14; Galatians 4:5–7; Romans 8:15–17; Hebrews 1:2–3; Matthew 5:43–48; Matthew 5:48; 1 John 4:17 |
+| 7 | Redemption, free justification, and righteousness in Christ | Romans 3:21–28; Genesis 1:26–28; 1 Corinthians 15:35–49; 2 Corinthians 5:17–21; Ephesians 1:7; Colossians 1:13–14; 2 Peter 1:4; Galatians 4:5–7; Romans 8:14–17 |
+| 8 | The Son, the heir, and the representation of Design | Hebrews 1:1–8; Genesis 1:26–28; Galatians 4:1–7; Romans 8:14–17; Ephesians 1:5; 2 Corinthians 5:17–21; 2 Corinthians 4:4; 1 John 4:17; 2 Peter 1:4; John 17:20–23 |
+| 9 | Oneness and glory in the prayer of Jesus | John 17:1–26; Genesis 1:26–28; Hebrews 1:3; 2 Corinthians 4:1–6; Galatians 4:5–7; Romans 8:14–17; 2 Peter 1:4; 2 Corinthians 5:21; 1 John 4:17 |
+| 10 | Have the faith of God; faith as the state of God | Mark 11:20–25; Genesis 1:26–28; Psalm 82:6–7; John 10:34–36; Matthew 5:43–48; Matthew 5:48; 2 Corinthians 4:4–6; Hebrews 1:1–3; Hebrews 11:1; John 17:20–23; 1 John 4:17 |
 
 
 
@@ -1424,12 +1424,12 @@ The explanations below clarify how important terms are used in this volume. Wher
 
 **Elenchos (ἔλεγχος)** — The term rendered “evidence” in Hebrews 11:1. It is joined to *hypostasis* in the verse. Book I concentrates on the foundation expressed by *hypostasis*; Book II, *Faith Is Evidence*, develops this evidence dimension.
 
-**’Ĕlōhîm (אֱלֹהִים)** — The Hebrew term used in Genesis 1:1 and in Genesis 1:26. The 2015 Aletheia leaflet gives the gloss “plural: Trinity.” This entry records the leaflet's stated wording; the chapter's treatment considers the term within Genesis 1:26–28 and the source's image-and-likeness teaching.
+**’Ĕlōhîm (אֱלֹהִים)** — The Hebrew term used in Genesis 1:1 and Genesis 1:26. It is plural in form; Genesis 1:26–27 uses singular verbal agreement when speaking of the one God. The 2015 Aletheia leaflet gives the theological interpretation “plural: Trinity.” The grammatical observation and the source's theological interpretation are both retained without treating the noun's form alone as a complete grammatical proof of the interpretation.
 
 **Hypostasis (ὑπόστασις)** — The Greek noun rendered “substance” in Hebrews 11:1 in the King James Version. Its documented range includes substance or underlying reality and confidence or assurance. This book gives foundational attention to the substance reading and develops its relationship to the Aletheia teaching that *pistis* defines the state of God's children. The contexts of Hebrews 1:3, 3:14, and 11:1 remain distinct.
 
 **Pistis (πίστις)** — The Greek noun translated “faith.” The 2015 Aletheia leaflet identifies it as “credence” and states that it defines the state of the children of God. In this volume, *pistis* is considered in relation to the source's teaching on acceptance, true nature, and Sonship.
 
-**Spoudē (σπουδή)** — The noun translated “diligence” in 2 Peter 1:5. It is distinct from the related verb *spoudazō* (σπουδάζω), which appears in other passages and must not be substituted for the noun in this verse.
+**Spoudē (σπουδή)** — The noun translated “diligence” in 2 Peter 1:5. The form in the verse is σπουδήν (*spoudēn*), accusative singular feminine. It is distinct from the related verb *spoudazō* (σπουδάζω), which appears in other passages and must not be substituted for the noun in this verse.
 
 **True nature** — A central expression in the Aletheia teaching, connected with humanity's creation in the image and likeness of God, the state of God's children, and the source's interpretation of coming short of glory as deviation from true nature. The expression is developed across the Scripture cluster rather than assigned to one isolated verse.
