@@ -624,9 +624,9 @@ The Aletheia source connects this testimony with Psalm 82:5 and Romans 3:23–24
 Peter's account of divine provision, participation in divine nature, escape from corruption, and growth in the knowledge of Christ raises the next question: why did Jesus come? The discussion now turns to humanity's coming short of glory, righteousness, and Christ's redemptive work.
 
 # Chapter 6 — Why Did Jesus Come? The Glory We Came Short Of
-## The image and glory in the apostolic testimony
+## The question and the testimony of glory
 
-First Corinthians 11:7 describes man as the image and glory of God. This statement belongs to Paul's wider discussion of headship and honour in 1 Corinthians 11:2–16, and that context must remain visible. The verse is not a free-standing definition of every aspect of human identity. It is nevertheless a direct apostolic use of the language of image and glory in relation to humanity, and it belongs in the consideration of what it means to come short of the glory of God.
+The question of why Jesus came must be considered against the creation testimony and the scriptural language of image and glory. The chapter follows that language through the Aletheia interpretation of coming short of glory, the apostolic passages on humanity and resurrection, and the redemption accomplished in Christ.
 
 First Corinthians 15:35–49 develops another dimension of the human condition: the body that is sown and the body that is raised. Paul contrasts corruption and incorruption, dishonour and glory, weakness and power, the natural body and the spiritual body. He then places the first man and the second man in relation: the first is of the earth, earthy; the second man is the Lord from heaven. Those who have borne the image of the earthy shall also bear the image of the heavenly. The passage therefore does not permit the discussion of glory to be reduced to outward appearance or present circumstance. It concerns the kind of humanity represented in the first Adam and the heavenly image disclosed in Christ.
 
@@ -969,10 +969,6 @@ The words “joint-heirs with Christ” must be read without confusing the Son's
 
 Second Corinthians 5:21 gives the redemptive ground of this relationship: God made the One who knew no sin to be sin for us, that we might be made the righteousness of God in Him. The phrase “in him” is essential. The inheritance of the children is not independent of Christ; neither is their righteousness. The Son who represents the Father's glory is the One through whom the children are brought into the relationship of righteousness and heirship.
 
-## From righteousness in Christ to sonship and heirship
-
-The inheritance of God's children is understood through the Son. **Jesus represents who we are by Design**: His person reveals the identity toward which the creation and sonship passages point, while His redemptive work brings believers into the inheritance described in Scripture. His unique Sonship and heirship remain His own; the adoption and inheritance of believers are received through Him.
-
 The relationship must be stated accurately. Jesus is the Son whom the Father sent, the appointed heir of all things, the One through whom the worlds were made, and the One who purged our sins. Believers do not acquire this unique identity or appointment. Scripture instead describes what is given through Him: redemption, adoption as sons, the Spirit of the Son, the status of God's children, and heirship with Christ. Our heirship is genuinely shared with Christ, but it is received through Him; His unique identity and work remain the foundation of the inheritance.
 
  ## The Son: appointed heir of all things
@@ -1144,10 +1140,6 @@ Jesus includes future believers explicitly: “Neither pray I for these alone, b
 Jesus then speaks of the glory given to Him and given to them, “that they may be one, even as we are one” (verse 22). Verse 23 continues: “I in them, and thou in me, that they may be made perfect in one.” The prayer joins glory, indwelling, perfected oneness, and the world's knowledge that the Father sent the Son and loved believers as He loved the Son. The world's witness is therefore connected to the reality of this relationship, not merely to an outward claim of unity.
 
 The prayer also preserves the distinction between Father and Son. Jesus addresses the Father, speaks of being sent, and asks that believers be with Him to behold His glory. Their inclusion in the oneness and glory does not erase the Son's unique mission or identity. It reveals the extent of what He asks the Father to bring about in those who believe: a real participation in the relationship, love, and glory made known in Him.
-
-## The prayer that brings sonship and glory into view
-
-The discussion of the Son and the heir leads naturally to the prayer Jesus prayed for those who would believe in Him. John 17:20–23 brings the prayer of oneness into direct view. Jesus is not asking merely for outward agreement or social harmony. Jesus' words describe a relationship: the Father in the Son, the Son in believers, believers in the Father and the Son, and the glory given to the Son also given to them.
 
 The prayer also tells us why this oneness matters. Jesus connects it with the world's believing that the Father sent Him and knowing that the Father loves believers as He loves the Son. Oneness, glory, indwelling, love, and witness belong together in the passage. To understand the prayer, we must follow its movement rather than isolate one phrase.
 
