@@ -1039,7 +1039,7 @@ Hebrews 1:1–4 establishes the Son's identity before the chapter's language of 
 
 Galatians 4:1–7 then explains how those who were under the law receive adoption as sons through the sending and redemptive work of God's Son. The movement from servant to son and from son to heir is grounded in God's action: He sent His Son to redeem, and He sent the Spirit of His Son into the hearts of those who are sons. Romans 8:14–17 develops the same reality through the Spirit's leading and witness. Those led by the Spirit are the sons of God; they have received the Spirit of adoption, cry “Abba, Father,” and are heirs of God and joint-heirs with Christ.
 
-The words “joint-heirs with Christ” must be read without confusing the Son's identity with the inheritance of the children. Christ is the appointed heir; believers receive heirship through Him. The relationship is real, not merely an honorary label, but it does not make believers the same person as the Son or displace His unique place. The inheritance is shared through union with Him, and the Son remains the One through whom redemption and adoption have come.
+The words “joint-heirs with Christ” must be read without confusing the Son's identity with the inheritance of the children. Hebrews 1 presents the Son as the unique Son and appointed heir through whom God made the worlds; Galatians 4 and Romans 8 describe the adoption and heirship believers receive through Him. The Son's Sonship is not conferred on Him by adoption, nor does He become Son by receiving the status described for believers. Our sonship is received through His redemptive mission and the Spirit of the Son; His identity and appointment are prior and unique. The relationship is real, not merely an honorary label, but it does not make believers the same person as the Son or displace His unique place. The inheritance is shared through Him, and He remains the One through whom redemption and adoption have come.
 
 Second Corinthians 5:21 gives the redemptive ground of this relationship: God made the One who knew no sin to be sin for us, that we might be made the righteousness of God in Him. The phrase “in him” is essential. The inheritance of the children is not independent of Christ; neither is their righteousness. The Son who represents the Father's glory is the One through whom the children are brought into the relationship of righteousness and heirship.
 
@@ -1049,7 +1049,7 @@ The preceding chapters have developed humanity's design, the Father's nature, th
 
 The governing doctrinal direction is clear: **Jesus represents who we are by Design.** He is the One who accomplished redemption for us and the Son in whom our designed identity is represented and revealed. His sonship, image, glory, and heirship are central to understanding the sonship and inheritance believers receive in Him.
 
-The relationship must be stated accurately. Jesus is the appointed Son and heir of all things; believers do not replace Him or take His unique place. Scripture instead describes what is given through Him: adoption as sons, the Spirit of the Son, the status of God's children, and heirship with Christ. His unique identity and work remain the foundation of the inheritance shared with us.
+The relationship must be stated accurately. Jesus is the Son whom the Father sent, the appointed heir of all things, the One through whom the worlds were made, and the One who purged our sins. Believers do not acquire this unique identity or appointment. Scripture instead describes what is given through Him: redemption, adoption as sons, the Spirit of the Son, the status of God's children, and heirship with Christ. Our heirship is genuinely shared with Christ, but it is received through Him; His unique identity and work remain the foundation of the inheritance.
 
 The chapter follows two movements. Hebrews presents the Son—appointed heir, agent of creation, brightness of glory and express image, the One who purged sins and was exalted. Galatians and Romans then explain the sonship and heirship believers receive through Christ. Together these passages develop the thesis that Jesus represents who we are by Design and that His redemptive accomplishment is essential to our restoration.
 
@@ -1315,13 +1315,13 @@ That movement brings the discussion to 2 Corinthians 4:1–6. There Paul names C
 
 ## Questions for reflection and study
 
-1. Why does Jesus extend His prayer beyond the disciples who were with Him?
-2. What relationships does Jesus name when He prays that believers may be one?
-3. What does the repeated word “as” contribute to the prayer?
-4. What does Jesus say about the glory given to Him and given to believers?
-5. How are oneness, indwelling, the Father's love, and the world's knowledge connected in John 17:20–23?
-6. How does this prayer connect with the book's earlier treatment of image and likeness, sonship, heirship, and righteousness in Christ?
-7. Why must Christ's representation of humanity's design be held together with His redemptive accomplishment?
+1. Whom does Jesus include in the prayer of John 17:20, and through whose word do they believe?
+2. Identify the relationships expressed by “as,” “in,” and “one” in verses 20–23. What correspondence does Jesus establish, and what distinctions does the prayer preserve?
+3. What does verse 22 explicitly say has been given, and what purpose does Jesus attach to that gift?
+4. How do verses 21 and 23 connect the believers' oneness with the world's belief and knowledge that the Father sent the Son?
+5. Which claims about oneness, glory, indwelling, and love are explicit in John 17:20–23? Which parts of the wider Design and restoration thesis arise from reading this prayer with Genesis, Romans, and the other passages in Book I?
+6. How do Galatians 4:5–7 and Romans 8:14–17 contribute to the prayer's language of sonship and the Father's love without replacing John 17's own emphasis?
+7. Explain why the representation revealed in Christ must remain joined to His redemptive accomplishment.
 
 # Chapter 10 — Have the Faith of God: Faith as the State of God
 
@@ -1367,7 +1367,7 @@ The author's formulation, **“Have the faith of God; have the state of God,”*
 
 This God-State reading cannot be separated from Jesus Christ. Hebrews 1:1–3 declares that the Son is the brightness of God's glory and the express image of His person. The Son is appointed heir of all things, through Him the worlds were made, and He upholds all things by the word of His power. He also purged our sins. The passage holds His identity and His accomplishment together.
 
-Second Corinthians 4:4 calls Christ “the image of God,” and verse 6 speaks of the light of the knowledge of God's glory in the face of Jesus Christ. Paul places this declaration within a passage about the gospel, the blindness of those who do not believe, and the light that God shines in the heart. Christ is not merely an illustration added to an abstract theory of human potential. He is the image in whom God's glory is made known.
+Second Corinthians 4:4 calls Christ “the image of God,” and verse 6 speaks of the light of the knowledge of God's glory in the face of Jesus Christ. Paul's movement begins in verses 1–2 with the ministry received by mercy: he refuses to faint, to handle God's word deceitfully, or to practise craftiness, and instead commends the truth to every conscience before God. Verses 3–4 then explain that the gospel is veiled to those who are perishing, whose minds have been blinded by the god of this world so that the light of the gospel of the glory of Christ, who is the image of God, does not shine to them. Verse 5 turns the focus away from self-promotion: the ministers preach Christ Jesus the Lord and themselves as servants for Jesus' sake. Verse 6 then recalls God's command that light shine out of darkness and speaks of God shining in our hearts to give the light of the knowledge of His glory in the face of Jesus Christ. The “we” who minister, the “our gospel” that is veiled, and the “our hearts” in which God shines belong to Paul's connected account; verse 6 is not a context-free slogan about human potential. Christ is the image in whom God's glory is made known.
 
 This is why the thesis that **Jesus represents who we are by Design** must be held together with the truth of His unique identity and redemptive work. He is the Son, the express image, and the One who accomplished the purging of sins. His representation does not make His work unnecessary; His work does not make His representation irrelevant. **Christ's work restores what Christ's person reveals.**
 
@@ -1379,11 +1379,11 @@ First John 4:17 says, in the context of perfected love and confidence, “becaus
 
 The distinction between acknowledgement and deficiency is essential. If faith is treated only as an attempt to obtain something the person fundamentally is not, the inquiry remains trapped in lack. The doctrine developed here begins instead with what God declared in creation, follows the reality revealed in His Son, and considers what redemption accomplishes.
 
-Sin, corruption, and the need for redemption are real. Humanity has come short of glory, and justification and redemption are in Christ Jesus. Yet sin and redemption must be understood in relation to Design. The fact that humanity has come short does not mean that deficiency is the original Design. The redemptive work of Christ addresses the human condition and restores what has been lost or departed from; it does not reveal that God's original intention was deficiency.
+Sin, corruption, and the need for redemption are real. Humanity has come short of glory, and justification and redemption are in Christ Jesus. Yet sin and redemption must be understood in relation to Design. The fact that humanity has come short does not mean that deficiency is the original Design. Christ's redemptive accomplishment is the sufficient ground and provision of restoration; the passages concerning those who are justified, reconciled, adopted, or made partakers also speak of the reception and participation of those who are in Him. The book's restoration thesis must hold these together: what God has accomplished in Christ is not identical to the extent to which each person has received and lived in that reality. The gospel announces the accomplishment and calls people into its life; it does not warrant saying that every person has already personally experienced the full restoration described.
 
 Nor does acknowledgement of the God State authorise self-exaltation. Mark 11:20–25 begins with faith directed toward God and concludes with forgiveness. The surrounding scriptural witness presents the Son as the express image of the Father, believers as recipients of divine promises and inheritance through Him, and the life of faith as one that must be expressed in the qualities Peter names. The God State is not an excuse to disregard the character and conduct that Scripture requires. It is the state of Design being acknowledged and lived from, not a claim of autonomous power detached from God.
 
-The distinction is therefore clear: faith is not a performance by which a deficient identity attempts to become divine; faith is the state of the person understood in relation to God's Design and the reality revealed in Christ. The call to live from that state must be read alongside the whole scriptural testimony, including redemption, love, forgiveness, and the qualities that are to abound.
+The distinction is therefore clear: faith is not a performance by which a deficient identity attempts to become divine; faith is the state of the person understood in relation to God's Design and the reality revealed in Christ. The state is declared in the design testimony; redemption is accomplished in Christ; and the life of those who receive and participate in that provision is to be expressed in love, forgiveness, and the qualities Peter names. The call to live from that state must be read alongside the whole scriptural testimony.
 
 ## The doctrine brought to its conclusion
 
