@@ -284,11 +284,11 @@ The chapter's conclusion is that faith concerns the state and standing of those 
 9. How do the Aletheia teaching on credence and the passages about sonship, adoption, and the Father's pleasure together explain the state of God's children?
 
 # Chapter 3 — Elohim: Image, Likeness and Human Design
-## The image carried through the generations
+## The image and likeness in humanity's creation
 
-Genesis 5:1–2 returns to the language of creation: God made humanity in His likeness; male and female He created them, blessed them, and called their name Adam in the day they were created. The passage is important because it does not present image and likeness as a description that disappears after Genesis 1. When the account turns from the first creation to the generations that follow, it repeats the language of likeness and blessing. The human family is traced from the Design established at creation.
+The account of humanity begins with God's declaration: “Let us make man in our image, after our likeness” (Genesis 1:26). Image and likeness are not descriptions humanity gives itself; they belong to the Creator's declaration and to the account of what God made. The same passage joins this identity to dominion, and verse 27 records that God created humanity in His image, male and female.
 
-The repetition also guards against treating Genesis 1:26 as an isolated poetic expression. Genesis 5 places the creation statement within the continuing account of humanity. The language of likeness remains attached to the identity and origin of the human race. The blessing is likewise part of the creation account: humanity is not merely made; humanity is blessed and commissioned within the created order.
+Genesis 5:1–2 returns to this language when the account turns from the first creation to the generations that follow. God made humanity in His likeness; male and female He created them, blessed them, and called their name Adam in the day they were created. The repetition confirms that image, likeness, and blessing remain attached to the identity and origin of the human race. Humanity is not merely made; humanity is blessed and commissioned within the created order.
 
 ## The glory of the image
 
@@ -534,7 +534,7 @@ Read together, Psalm 82 and John 10 hold the declaration and its judgment settin
 # Chapter 5 — Partakers of the Divine Nature
 ## The whole movement of 2 Peter 1:2–8
 
-Peter's statement about partaking of divine nature stands within a connected sequence. The passage moves from grace and peace through the knowledge of God and Jesus our Lord, to divine provision for life and godliness, the promises through which believers become partakers of divine nature, escape from corruption, the diligence and qualities named in verses 5–7, and the fruitfulness described in verse 8. The order matters: participation is grounded in what God gives, and it is accompanied by a life in which Peter's stated qualities are present and increasing. The sections that follow examine this movement in its own words and sequence.
+Peter's declaration that believers may become “partakers of the divine nature” is inseparable from what precedes and follows it. The promise is given through God's provision; participation is joined to escape from the corruption in the world; and Peter immediately calls for diligence and the growth of specific qualities. Divine nature is therefore not presented as a detached phrase. It stands within the movement from God's gift to a fruitful life shaped by the knowledge of Jesus Christ.
 
 ## From created image to participation in divine nature
 
@@ -956,7 +956,7 @@ The doctrinal conclusion follows from the whole testimony: humanity's deviation 
 
 These lexical references support the word-level statements. Thayer's qualification concerning the “render righteous” sense remains visible alongside the complete entry. The references do not replace the Aletheia source or independently establish every element of the book's wider restoration-to-design doctrine.
 
-The discussion now turns to the Son as heir of all things and the express image of the Father, alongside the sonship and heirship believers receive through Galatians 4:5–7 and Romans 8:16–17. Hebrews 1:8 remains part of the Son's scriptural portrait; the former question associated with that verse is not reopened.
+The movement from justification and redemption leads to the inheritance made available through Christ. Hebrews presents the Son as heir of all things and the express image of the Father; Galatians 4:5–7 and Romans 8:14–17 explain the adoption, sonship, and heirship believers receive through Him. The next chapter considers the Son's unique inheritance alongside the inheritance of God's children.
 
 # Chapter 8 — The Son and the Heir: Our Inheritance in Christ
 ## The inheritance of the Son and the children
@@ -1236,6 +1236,8 @@ The prayer of John 17 leads to Paul's account in 2 Corinthians 4:1–6. There th
 5. Which claims about oneness, glory, indwelling, and love are explicit in John 17:20–23? Which parts of the wider Design and restoration thesis arise from reading this prayer with Genesis, Romans, and the other passages in Book I?
 6. How do Galatians 4:5–7 and Romans 8:14–17 contribute to the prayer's language of sonship and the Father's love without replacing John 17's own emphasis?
 7. Explain why the representation revealed in Christ must remain joined to His redemptive accomplishment.
+
+John 17 has shown the oneness, glory, indwelling, and love for which Jesus prayed, and how this relationship bears witness to the world that the Father sent Him. The final chapter now brings the book's central question to its culmination: what does it mean to have the faith of God—to acknowledge the state of God's Design in the light of Christ?
 
 # Chapter 10 — Have the Faith of God: Faith as the State of God
 
