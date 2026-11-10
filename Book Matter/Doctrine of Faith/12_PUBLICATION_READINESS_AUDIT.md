@@ -105,14 +105,15 @@ No further author doctrinal answer is presently required for these directions. T
 
 ### 2.3 Translation attribution and permissions
 
-- The supplied Genesis 1:27 wording is confirmed as The Living Bible (TLB), copyright © 1971 by Tyndale House Foundation.
-- The 2015 leaflet separately attributes the phrase “Like God did God make man” to the Life Application Bible. The manuscript preserves this source-history distinction while attributing the complete wording supplied by the owner to TLB.
-- Tyndale's current published guidelines permit up to 500 TLB verses in print/eBook work without express written permission, provided the quoted verses do not exceed 25% of the work and a complete biblical book is not quoted. The current manuscript uses one TLB verse. The required multiple-translation credit line must appear on the copyright page:
-  
-  > Scripture quotations marked (TLB) are taken from The Living Bible, copyright © 1971 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, Inc., Carol Stream, Illinois 60188. All rights reserved.
+- The supplied Genesis 1:27 wording is confirmed as The Living Bible (TLB). The current official Tyndale permissions page identifies The Living Bible copyright © 1971 by Tyndale House Ministries.
+- The 2015 leaflet separately attributes the phrase “Like God did God make man” to the Life Application Bible. The manuscript preserves this source-history distinction while attributing the complete wording reproduced in the chapter to TLB.
+- Tyndale's current published guidelines permit up to 500 TLB verses in print/eBook work without express written permission, provided the quoted verses do not exceed 25% of the work and a complete biblical book is not quoted. The manuscript reproduces Genesis 1:27 twice. The applicable current multiple-translation credit line, already present on the manuscript copyright page, is:
 
-- The King James Version is public domain according to Tyndale's guidelines.
-- Before release, verify that the final page layout includes the required TLB credit and that the published quotation remains verbatim. Tyndale permissions guidance: https://www.tyndale.com/permissions
+  > Scripture quotations marked (TLB) are taken from The Living Bible, copyright © 1971 by Tyndale House Ministries. Used by permission. All rights reserved.
+
+- The copyright page's existing TLB line matches the current official wording for a project using multiple translations. The earlier wording in this audit naming Tyndale House Foundation and the publisher's street address reflected older published credit language and is superseded by the current Tyndale permissions page.
+- The King James Version is public domain. Tyndale's current TLB fair-use limits and credit requirements are published at https://www.tyndale.com/permissions.
+- Before release, verify that the final designed page includes the required TLB credit and that both appearances of Genesis 1:27 remain verbatim.
 
 ## 3. Lexical and original-language audit
 
