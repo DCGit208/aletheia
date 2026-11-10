@@ -314,6 +314,8 @@ Genesis 1:26 records God's words:
 
 The Hebrew word translated “God” here is *’ĕlōhîm*. The Aletheia leaflet gives the interpretation “plural: Trinity”; this is the source's stated theological reading. The leaflet considers it alongside the verse's language, “Let us make” and “our image.” Its theological significance is developed from the whole declaration and the wider scriptural witness, not from the noun's form in isolation.
 
+The noun *’ĕlōhîm* is plural in form. In Genesis 1:26, however, the verb introducing God's speech (“said”) is singular; in verse 27, the verb “created” is also singular. The grammatical distinction between plural morphology and singular verbal agreement must be kept clear. This observation identifies the form of the Hebrew clause; it does not by itself decide the theological interpretation given by the Aletheia leaflet, which is retained and considered alongside the complete declaration and the wider scriptural witness.
+
 The words “image” and “likeness” describe humanity's relationship to the Creator, and the same declaration joins that identity to dominion. Genesis 1:27 confirms the image statement; Genesis 1:28 records God's blessing and commission.
 
 Genesis 1:27 says:
@@ -596,7 +598,7 @@ Peter continues immediately:
 >
 > For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ.” — 2 Peter 1:5–8, KJV
 
-Peter names the qualities to accompany faith: virtue, knowledge, temperance, patience, godliness, brotherly kindness, and charity. He introduces the sequence with the call to give “all diligence.” The Greek noun in verse 5 is σπουδή (*spoudē*), not the related verb σπουδάζω (*spoudazō*). The distinction matters: the text uses the noun here.
+Peter names the qualities to accompany faith: virtue, knowledge, temperance, patience, godliness, brotherly kindness, and charity. He introduces the sequence with the call to give “all diligence.” The Greek form in verse 5 is σπουδήν (*spoudēn*), the accusative singular feminine form of the noun σπουδή (*spoudē*), not the related verb σπουδάζω (*spoudazō*). The distinction matters: Peter uses the noun here, in the phrase “all diligence.”
 
 Peter's order is deliberate: faith, virtue, knowledge, temperance, patience, godliness, brotherly kindness, and charity. When these qualities are present and abound, he says, they prevent barrenness and unfruitfulness in the knowledge of our Lord Jesus Christ.
 
@@ -877,9 +879,9 @@ Romans 3:24 connects justification freely by grace with redemption in Christ Jes
 
 The source's phrase “ransom in full” is retained exactly: there is no unpaid remainder in the ransom it describes. The book develops this as complete ransom and restoration to original design. Redemption is not an incomplete transaction that leaves humanity permanently beneath its intended state. In this argument, redemption and restoration belong together: the ransom is complete, and its purpose and result are humanity's return to the state for which it was made.
 
-Lexically, Strong's G629 derives *apolutrōsis* from G575 (*apo*) and G3083 (*lytron*, ransom). Its gloss includes ransom in full, figuratively “riddance,” or Christian salvation. Thayer describes release effected by payment of ransom, including redemption, deliverance, or liberation procured by ransom.
+Lexically, Strong's G629 presents *apolutrōsis* as derived from G575 (*apo*) and G3083 (*lytron*, ransom), and gives the gloss “ransom in full,” with “riddance” and Christian salvation also included. Thayer describes release effected by payment of ransom, including redemption and deliverance. The broader lexicon evidence therefore supports the semantic field of ransom, release, and deliverance.
 
-These details support the lexical ideas of ransom, release, and deliverance. “Restoration to original design” is the doctrinal meaning and result developed through the Aletheia Scripture framework; it is not a literal translation of the Greek components. That framework includes Genesis 1:26–28, Romans 3:23–24, 2 Corinthians 5:17–21, Ephesians 1:7, Colossians 1:13–14, and 2 Peter 1:4.
+“Ransom in full” is preserved as the Aletheia leaflet's stated gloss and as Strong's wording. The phrase is not a grammatical feature of the noun's inflection, nor should the compound's components alone be made to prove every element of the book's restoration doctrine. “Restoration to original design” is the doctrinal meaning and result developed through the Aletheia Scripture framework; it is not a literal translation of the Greek components. That framework includes Genesis 1:26–28, Romans 3:23–24, 2 Corinthians 5:17–21, Ephesians 1:7, Colossians 1:13–14, and 2 Peter 1:4.
 
 ### Justification is not earned
 
