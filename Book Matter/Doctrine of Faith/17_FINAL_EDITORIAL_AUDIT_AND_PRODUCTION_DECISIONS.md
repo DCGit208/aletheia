@@ -306,3 +306,30 @@ This is not a declaration that the intellectual phase is complete. The following
 5. Recheck the conclusion and back matter against the finished chapter text.
 
 No unchecked quotation or lexical item is marked passed by this entry. The existing Scripture Quotation Proof Register remains the controlling proof checklist.
+
+
+## 2026-11-10 — Stage 1 execution: ten-chapter substantive development
+
+At the author's instruction, Stage 1 proceeded from the developmental register into the canonical publication manuscript. The work is substantive editing, not merely a revised checklist.
+
+### Changes made in this execution
+
+- Chapter 1 gained the missing *hypostasis*–*pistis*–state bridge. It now explains why the two terms must remain distinct, how the 2015 source's credence/state teaching relates to Hebrews 11:1, and why “faith is our state by Design” is the doctrinal synthesis rather than a direct quotation from either source.
+- Chapter 3's Genesis 1:26–28 exposition now explains the relation of image and likeness to the blessing and commission; John 14:12 is read within the farewell discourse; the Mark 11:20–25 connection is signposted without pre-empting its assigned treatment; and the exercise tests contextual reasoning.
+- Chapter 4 now acknowledges principal interpretations of Psalm 82's “gods,” maintains the Aletheia source's doctrinal use, and deepens Jesus' appeal to those “unto whom the word of God came.”
+- Chapter 5 distinguishes original creation, participation in divine nature through the promises, and the fruitful expression of verses 5–8; “back on course” remains source-derived doctrinal language rather than a lexical definition.
+- Chapter 8 distinguishes the unique Sonship and heirship of Christ from believers' adopted sonship and heirship through Him.
+- Chapter 9 clarifies the gift and purpose of glory in John 17:22, marks the distinction between the prayer's explicit wording and the wider doctrinal synthesis, and refines the study questions.
+- Chapter 10 develops 2 Corinthians 4:1–6 as a connected Pauline argument and clarifies redemption accomplished in Christ versus reception, participation, and lived expression.
+- Chapter 2, 6 and 7 retain the targeted substantive corrections recorded in the earlier 10 November entry.
+
+### Commit sequence
+
+- `a121b0a841f1a10b78c3e5bd91972f9378b558f1`
+- `941b5b90431486fdb9ea636430163075bc8e99fe`
+- `98ab52ae44be7c52aa55abfec6cc67c717c9ae0e`
+- `f231217343239fb257b45053bbd6d8759a7b4c1b`
+
+### Verification boundary
+
+These commits record actual manuscript changes. They do not certify the complete integrated read-through, quotation proof, specialist lexical proof, reader-payload parity, designed proof, or final author approval. The manuscript remains **NOT FINAL**.
