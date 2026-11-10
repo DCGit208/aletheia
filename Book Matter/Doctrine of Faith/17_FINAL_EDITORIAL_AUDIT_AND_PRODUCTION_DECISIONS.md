@@ -399,3 +399,25 @@ The latest canonical manuscript was refetched at content SHA `42021ab47821e508e7
 10. # Chapter 10 — Have the Faith of God: Faith as the State of God — line 1292
 
 **Stage 2 remains in progress.** The integrated pass has not yet certified that all ten chapters are free of repeated arguments or that every transition and the book-level conclusion are fully reconciled. The separate quotation, lexical, reference, and reader-payload checks remain open.
+
+
+## 2026-11-10 — Stage 2, Step 1: argument continuity and repetition review
+
+The canonical ten-chapter manuscript was fetched from `main` and reviewed again as a connected argument, with attention to repeated exposition, chapter openings and endings, and the transitions between assigned subjects. The ten approved chapter headings and their order remain unchanged.
+
+### Manuscript corrections committed
+
+- **Chapter 2:** Removed the opening subsection that pre-empted and repeated the later treatment of Hebrews 11 and the Father's pleasure. Consolidated the closing *pistis* synthesis so that Galatians 4, Romans 8, Ephesians 1, Matthew 3, and Hebrews 11 are not re-explained after their full treatment. The source's explicit credence/state/Sonship teaching and the distinction from *hypostasis* remain.
+- **Chapter 3:** Removed the duplicate early exposition of Matthew 5:43–48 and 1 John 4:17, retaining their fuller treatment in the later design-and-Father's-nature section. Tightened the separate representation section to avoid repeating its conclusion.
+- **Chapter 4:** Consolidated repeated explanation of Jesus' appeal to Psalm 82 in John 10:34–36 while retaining the exact wording of Jesus' appeal, the statement that Scripture cannot be broken, and the distinction between what John explicitly says and the wider design synthesis.
+- **Chapter 5:** Shortened the opening overview of 2 Peter 1:2–8 because the subsequent sections examine the passage element by element. Condensed the Genesis/Peter bridge while preserving the distinction between creation and participation in divine nature.
+- **Chapter 6:** Replaced the repeated opening treatment of 1 Corinthians 11:7 with a chapter-opening bridge; the full verse and its immediate context remain in the dedicated section on humanity as image and glory.
+- **Chapter 8:** Removed a repeated introductory section that restated the unique Sonship/heirship and the believers' adoption/inheritance already established in the opening and developed in the body.
+- **Chapter 9:** Removed a repeated introductory subsection on John 17:20–23; the full prayer exposition remains in the following sections.
+
+### Verification and boundary
+
+- Manuscript commits: `8b272265e09d72d9894c04a12fedbe0c32d4b91c`, `b297fefbd8177ba783d412e4c8c94961c7c18a6d`, and `67cf305eb0aab6fab2ba7f660fd230074384aee9`.
+- Fresh fetch confirms all ten approved chapter headings remain in order.
+- This completes **Step 1 only** of the current Stage 2 task list. It does not complete Stage 2. The reconciliation of Chapter 10 with the book-level conclusion, the full source-doctrine/Scripture/synthesis audit, and the opening-and-conclusion review remain to be carried out as separate steps. Quotation proof, specialist lexical verification, references, reader-payload parity, designed proof, and final approval remain separate controls.
+
