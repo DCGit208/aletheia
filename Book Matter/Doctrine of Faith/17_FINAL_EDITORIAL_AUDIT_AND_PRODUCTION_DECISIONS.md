@@ -441,3 +441,31 @@ The final chapter and the separate book conclusion were compared directly in the
 - The ten approved chapter headings remain in their original order. Chapter 10 retains the Mark 11:20–25 culmination; the book-level conclusion now synthesizes the full argument without duplicating the chapter's detailed exposition.
 - This completes **Step 2 only**. The next Stage 2 steps remain: the source-doctrine/Scripture/ editorial-synthesis audit and the chapter-opening/conclusion review. Scripture quotation proof, specialist lexical verification, back-matter reconciliation, reader-payload parity, designed proof, and final author approval remain separate controls. The manuscript remains **NOT FINAL**.
 
+
+
+## Stage 2 — Step 3: source teaching, Scripture, and synthesis boundary review
+
+**Completed:** 10 November 2026  
+**Scope:** Canonical Book I publication manuscript checked against the supplied 2015 *Aletheia Libraries 1* PDF, the source-fidelity review, the source/Scripture matrix, the writing and production controls, and the standing doctrinal decisions.
+
+### Controlling source checked directly
+
+The 2015 leaflet's “Faith toward God” paragraph begins with Hebrews 6:1. It states that faith essentially defines the state of God's children; identifies Greek *pistis* as “credence”; and connects this with acceptance (true nature), espousal/adoption as sons, and oneness with God. It identifies *Elohim* as “plural: Trinity”; relates Genesis 1:26–27 to true nature, 2 Peter 1:4, and Psalm 82:6; interprets coming short of glory as deviation from true nature; and includes the image-and-glory clause from 1 Corinthians 11:7.
+
+The same paragraph continues through free justification in Romans 3:23–24; the leaflet's glosses for *dikaioō* (“render just or innocent (free from evil or guilt)”), *dikaiosynē* (equity, impartiality to and conformity with the nature of God; “original: back on course”), and *apolutrōsis* (“redemption; ransom in full”); the declaration of 2 Corinthians 5:21; its question referring to Hebrews 1:8; the heir question with Galatians 4:5–7; the question concerning John 17:20–23; and 2 Corinthians 4:4, 6. The source's questions and compressed parenthetical interpretations have been treated as source material, not silently converted into direct Scripture quotations.
+
+### Findings and manuscript treatment
+
+1. **Pistis / credence / state / Sonship:** Chapters 1–2 correctly distinguish the leaflet's Hebrews 6:1 and *pistis* teaching from the separate Hebrews 11:1 / *hypostasis* foundation. Acceptance, true nature, espousal/adoption as sons, and the state of God's children are represented.
+2. **Image, likeness, and Elohim:** Chapter 3 preserves the leaflet's “plural: Trinity” as its stated theological reading, rather than claiming that the morphology alone proves the conclusion. Genesis 1:26–28, the source's true-nature connection, and 1 Corinthians 11:7 are developed in their own contexts.
+3. **Psalm 82 and divine nature:** Chapters 4–5 retain Psalm 82's judgment setting and Jesus' appeal in John 10; 2 Peter 1:2–8 is developed beyond verse 4, including the promises, participation, escape from corruption, diligence, and fruitfulness.
+4. **Coming short, justification, righteousness, and redemption:** Chapters 6–7 identify “deviation from true nature” and “back on course” as the leaflet's interpretive language. The three Greek terms and their source glosses are preserved and distinguished from wider lexical evidence and the book's restoration synthesis. The present declaration of 2 Corinthians 5:21 remains located “in Christ.”
+5. **Hebrews 1:8 and heirship:** Chapter 8 already treated Hebrews 1:8 within the continuous portrait of the Son. A clarifying paragraph has now engaged the leaflet's question explicitly: Hebrews 1:8 directly addresses the Son; believers' sonship and heirship are established through the connected adoption texts, not by transferring the Son's unique title to believers. This preserves the force of the source's question while maintaining the distinction required by the chapter's argument.
+6. **Oneness and Christ's image:** Chapters 9–10 and the conclusion retain the source's John 17:20–23 question and its use of 2 Corinthians 4:4, 6, while keeping the passages' own wording and contexts distinct.
+7. **Translation/provenance boundary:** The leaflet's Genesis 1:27 presentation contains both the “So God made man like his Maker” wording and a separate parenthetical attribution of “Like God did God make man” to the Life Application Bible. The manuscript records the leaflet's presentation and does not silently treat the leaflet's attribution as verified edition-level bibliographic proof. Final translation/edition and quotation proof remain open production controls.
+
+### Step 3 decision
+
+The direct comparison found the controlling doctrinal content represented across the ten chapters. The one material reader-facing gap identified in the source-question treatment of Hebrews 1:8 has been clarified in Chapter 8. No change was made to the approved ten-chapter architecture or to the author's governing formulations. The manuscript continues to distinguish: (a) what Scripture explicitly says in context; (b) what the 2015 leaflet explicitly teaches or asks; (c) lexical/grammatical evidence; and (d) the author's doctrinal synthesis.
+
+**Boundary of this sign-off:** This is a source-representation and attribution-boundary review. It is not final proof of every Scripture quotation, translation attribution, or Greek/Hebrew lexical claim. Those remain separate publication checks and must not be represented as completed by this step.
