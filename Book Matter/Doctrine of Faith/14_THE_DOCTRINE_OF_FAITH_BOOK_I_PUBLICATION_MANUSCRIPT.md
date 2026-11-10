@@ -446,11 +446,11 @@ The central thesis remains that **Jesus represents who we are by Design**. His p
 
 ## Study and argument exercise
 
-Read Genesis 1:26–28 and identify the terms the passage itself uses: image, likeness, blessing, fruitfulness, multiplication, replenishment, subduing, and dominion. Distinguish these explicit statements from the doctrinal synthesis developed from them.
-
-Then read John 14:12, Psalm 82:6, Romans 8:17, and 1 John 4:17 alongside Genesis. For each passage, identify what it explicitly says and how it contributes to the wider argument. Retain the immediate context of each passage.
-
-Finally, examine the thesis **“Jesus represents who we are by Design”** through the full Scripture cluster in this chapter. Explain how Christ's representation and His redemptive accomplishment belong together without allowing either to displace the other.
+1. Read Genesis 1:26–28. Trace the movement from image and likeness in verses 26–27 to blessing and commission in verse 28. Explain why the creation account joins identity with fruitfulness, multiplication, replenishment, subduing, and dominion.
+2. Read John 14:12, 1 John 4:17, and Romans 8:17 in their immediate contexts. State what each passage explicitly contributes—works in relation to Jesus' going to the Father, likeness in the context of perfected love, and heirship with suffering and shared glory.
+3. Read Mark 11:20–25 as one sequence. Explain how the fig tree, Jesus' instruction about faith, the mountain saying, prayer, and forgiveness belong together. Distinguish the author's “state of God” interpretation from a claim that the Greek genitive alone proves that wording.
+4. Explain how Genesis 1:26–28, Psalm 82:6–8, and John 17:20–23 contribute distinct parts of the Design argument, and why their full treatments belong in their respective chapters.
+5. State the thesis **“Jesus represents who we are by Design”** as a conclusion from the connected Scripture testimony. Show why Christ's representation and His redemptive accomplishment must remain together.
 
 Genesis has supplied the explicit image-and-likeness foundation. That creation account now leads into Psalm 82:6–7 and Jesus' use of the passage in John 10, where the declaration “Ye are gods” must be read within the psalm's judgment setting.
 
@@ -586,7 +586,7 @@ The doctrinal conclusion rests on the passages considered together, with each re
 2. Write Psalm 82:6–7 together. Explain why neither verse should be removed when the passage is taught.
 3. Read John 10:30–38 as one exchange. Identify the statement of oneness, the accusation, Jesus' quotation of Psalm 82, His declaration that Scripture cannot be broken, and His appeal to the Father's works.
 4. What does Jesus explicitly say about those “unto whom the word of God came”? What does He explicitly say about the One whom the Father sanctified and sent?
-5. Distinguish the statements made directly in Psalm 82 and John 10 from the wider doctrinal conclusion developed by reading them with Genesis 1:26–28 and 2 Peter 1:4.
+5. What are the principal interpretive possibilities for the identity of those called “gods” in Psalm 82? Distinguish those readings from (a) the psalm's explicit judgment and justice setting, (b) Jesus' explicit use of the passage in John 10, and (c) the Aletheia source's doctrinal application.
 
 Read together, Psalm 82 and John 10 hold the declaration and its judgment setting in view. The next chapter turns to 2 Peter 1:2–8, where Peter develops divine power and promises, escape from corruption, participation in the divine nature, and the qualities to be supplied in faith.
 
@@ -677,11 +677,11 @@ Nor should the sequence reverse Peter's opening emphasis. He begins with what di
 
 Peter's conclusion is relational: fruitfulness occurs “in the knowledge of our Lord Jesus Christ.” The passage begins with knowledge of God and Jesus our Lord (verses 2–3) and returns to knowledge of Christ in verse 8. Knowledge frames the movement from divine provision and promise to participation, diligence, and fruitfulness.
 
-## True nature within the argument of Book I
+## True nature, participation, and restoration
 
-The Aletheia source develops true nature through the relationship between creation, participation, corruption, and restoration. Genesis 1:26–28 supplies the image-and-likeness foundation. Second Peter 1:2–4 speaks of divine provision, precious promises, participation in divine nature, and escape from corruption; verses 5–8 describe the diligence and qualities that are to abound in the knowledge of Christ.
+The Aletheia teaching develops true nature through the relationship between creation, participation, corruption, and restoration. Genesis 1:26–28 supplies the image-and-likeness foundation. Second Peter 1:2–4 speaks of divine provision, precious promises, participation in divine nature, and escape from corruption; verses 5–8 describe the diligence and qualities that are to abound in the knowledge of Christ.
 
-The source's “back on course” formulation connects 2 Peter 1:2–8 with Psalm 82:5 and Romans 3:23–24. It links what is out of course and what has fallen short of glory with the restoration developed through righteousness and redemption in Christ. Chapter 7 examines that teaching directly; this chapter establishes Peter's place in the argument.
+The source's “back on course” formulation connects 2 Peter 1:2–8 with Psalm 82:5 and Romans 3:23–24. It links what is out of course and what has fallen short of glory with the restoration developed through righteousness and redemption in Christ. Chapter 7 examines the righteousness and redemption language directly; this chapter establishes Peter's distinct contribution through participation, escape, diligence, and fruitfulness.
 
 Participation in divine nature belongs to humanity's designed state and to the restoration accomplished through Christ. This conclusion arises from the source's connection between creation and true nature and from Peter's full sequence, not from verse 4 in isolation.
 
@@ -1118,7 +1118,7 @@ Hebrews 1:1–8 presents a continuous portrait: God speaks through the Son; appo
 
 ## From servants to sons: Galatians 4:1–7
 
-The Aletheia source directs the reader to Galatians 4:5–7 and asks, “Who is heir of God?” Paul's full sequence supplies the answer; it should not be reduced to the final phrase alone.
+The Aletheia teaching directs attention to Galatians 4:5–7 and asks, “Who is heir of God?” Paul's full sequence supplies the answer; it should not be reduced to the final phrase alone.
 
 Paul begins with an heir who, while a child, does not differ from a servant, though he is lord of all; he remains under guardians and stewards until the time appointed by the father (Galatians 4:1–2). Paul applies this illustration to those in bondage under the elements of the world (verses 3–4), before reaching the central declaration:
 
