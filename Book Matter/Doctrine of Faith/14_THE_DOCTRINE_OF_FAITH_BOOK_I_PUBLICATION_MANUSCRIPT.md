@@ -614,7 +614,7 @@ Participation is related to the promises God has given and is placed alongside e
 
 The Aletheia source places this promise within its teaching on humanity's true nature from creation, connecting the design described in Genesis with Peter's statement about participation in divine nature. Genesis 1:26–28 says that humanity was made in God's image and likeness; 2 Peter 1:4 speaks of becoming partakers of divine nature through the promises. The passages use different wording, and their relationship is the source's doctrinal connection developed across the Scripture argument.
 
-This connection gives substance to the book's treatment of true nature. The source does not separate humanity's creation in God's image and likeness from Peter's promise of participation in divine nature. It reads them together in its account of what God gives through His promises.
+
 
 ## Corruption, deviation, and being brought back on course
 
@@ -626,7 +626,7 @@ The source also explains *dikaiosynē* (δικαιοσύνη) through equity—i
 
 The connection is cumulative. Psalm 82:5 describes foundations out of course; Romans 3:23–24 speaks of coming short of God's glory and justification through redemption in Christ; 2 Peter 1:4 speaks of participation in divine nature and escape from corruption. The Aletheia source's “back on course” formulation brings these statements into one conceptual line: restoration concerns a return to the true nature associated with God's design. This is a doctrinal explanation of restoration, not a claim that the phrase is the exhaustive lexical meaning of *dikaiosynē*.
 
-This is a doctrinal synthesis across the passages. No single Greek word is made to prove the entire restoration thesis; each text contributes its own statement, and the source's interpretation connects them.
+
 
 ## Participation does not end at verse 4
 
@@ -861,9 +861,7 @@ The question of why Jesus came leads directly to the source's teaching on free j
 # Chapter 7 — Justification, Righteousness and Redemption in Christ
 ## The response to deviation: redemption and righteousness
 
-Chapter 6 followed the Aletheia source's question, “Why did Jesus come?” It developed the source's interpretation of coming short of God's glory as deviation from true nature and examined Romans 3:23–24: all have sinned and come short of God's glory, and are justified freely by grace through the redemption in Christ Jesus.
-
-This chapter examines the terms through which the source describes God's response. Three Greek terms are central; their relationship matters, but they must remain distinct:
+Romans 3:23–24 places the human condition and God's response in one movement: all have sinned and come short of God's glory, yet are justified freely by grace through the redemption in Christ Jesus. The Aletheia teaching interprets coming short of glory as “deviation from true nature” and connects justification and redemption with restoration to original Design. Three Greek terms are central to the source's explanation; their relationship matters, but they must remain distinct:
 
 - *Dikaioō* (δικαιόω): the verb associated with justification. The leaflet's printed gloss is “render just or innocent (free from evil or guilt).”
 - *Dikaiosynē* (δικαιοσύνη): the related noun the source connects with righteousness/justification, equity, impartiality, and conformity with God's nature; it adds the phrase “original: back on course.”
