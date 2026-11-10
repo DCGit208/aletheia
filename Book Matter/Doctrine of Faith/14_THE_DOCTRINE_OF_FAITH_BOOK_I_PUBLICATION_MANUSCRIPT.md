@@ -1355,7 +1355,7 @@ Dake, Finis Jennings. *Dake Study Bible Notes: Bible Introduction*. Supplied int
 - *The Expositor's Greek Testament*, commentary on Hebrews 11:1: https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/hebrews/11/1
 - Louw, Johannes P., and Eugene A. Nida, eds. *Greek-English Lexicon of the New Testament Based on Semantic Domains*. 2nd ed. United Bible Societies, 1989. Relevant semantic domains for ὑπόστασις include nature/essence and confidence/assurance; see the UBS Semantic Dictionary of Biblical Greek, domain 58.1 and 31.84: https://hiperbiblia.com/lexicons/G5287?dict=louw_nida.
 - Suchard, Benjamin D. “Semitic *ʾilāh-* and Hebrew אלהים: From plural ‘gods’ to singular ‘God’.” *Journal for the Study of the Old Testament* (published online 29 May 2025). https://doi.org/10.1177/03090892251332286.
-- NET Bible, translator's notes on Genesis 1:26: https://netbible.org/bible/Genesis+1. The note records the plural morphology of אֱלֹהִים and the singular agreement when it refers to the one God.
+- NET Bible, translator's notes on Genesis 1:26: https://classic.net.bible.org/passage.php?passage=Gen+1%3A26. The note records the plural morphology of אֱלֹהִים and the singular agreement when it refers to the one God.
 - SBL Greek New Testament / MorphGNT lexical and morphological data for δικαιοσύνη, δικαιόω, ἀπολύτρωσις, and σπουδή; compare the passage-level analyses cited in the manuscript.
 - OpenBible Greek text and morphology, Romans 3:24: https://www.openbible.com/text/romans/3-24.htm
 - OpenBible Greek text and morphology, 2 Peter 1:5: https://www.openbible.com/text/2_peter/1-5.htm
