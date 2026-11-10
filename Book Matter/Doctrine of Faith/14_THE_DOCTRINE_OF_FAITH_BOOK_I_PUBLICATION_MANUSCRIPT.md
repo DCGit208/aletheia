@@ -352,7 +352,7 @@ Genesis 1:28 continues:
 
 > “And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.” — Genesis 1:28, KJV
 
-Blessing and commission are spoken together. God blesses humanity and commands fruitfulness, multiplication, replenishment, subduing, and dominion. Image and likeness must therefore be read with the commission that accompanies them; neither part should be detached from the creation account.
+Blessing and commission are spoken together. God blesses humanity and commands fruitfulness, multiplication, replenishment, subduing, and dominion. The sequence matters: the humanity God has made in His image and likeness is the humanity He blesses and addresses with this commission. The passage does not describe image as an isolated title while placing the commission outside human identity. Nor does it say that the commission creates the image; image and likeness are declared before the blessing and charge are stated. Identity and vocation belong to one creation account. The text names the commission and its sphere; it does not provide a warrant for every later claim about how dominion is to be exercised. Those claims must be governed by the wider scriptural witness, including the psalm's demand for justice and care for the vulnerable.
 
 These verses ground the doctrinal synthesis that humanity's identity must be understood in relation to its design and to the One who designed it. They provide the creation foundation for the source's connection between true nature and the state of God's children.
 
@@ -364,7 +364,7 @@ The following passages extend the design argument, each contributing a distinct 
 
 > “Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.” — John 14:12, KJV
 
-Jesus connects the works of the believer with His own works and gives His going to the Father as the reason. The promise is not a detached motivational slogan: it concerns what the one who believes on Him shall do. The doctrinal exposition draws out the significance of this connection without confusing that interpretation with the wording of the verse.
+Jesus connects the works of the believer with His own works and gives His going to the Father as the reason. The saying belongs to the farewell discourse, where Jesus speaks to disciples troubled by His departure, promises that they will not be left without help, and directs them to the Father through Him. The promise of works is therefore tied to His going to the Father and to the continuing work of those who believe in Him; it is not a detached motivational slogan or an unrestricted guarantee that any desired act will occur. The doctrinal question is what the works of Jesus reveal about the life and representation of those who believe. The verse contributes to that inquiry, while the full thesis is established cumulatively rather than by this statement alone.
 
 **1 John 4:17** says:
 
@@ -372,7 +372,7 @@ Jesus connects the works of the believer with His own works and gives His going 
 
 The words “as he is, so are we in this world” are direct and present-tense. Their force must be retained, together with the context John gives: perfected love and boldness in the day of judgment. The design argument considers both the identity statement and the setting in which it appears.
 
-Psalm 82:6 belongs to the wider design argument because it joins the designation “gods” with “children of the most High.” It must be read with the judgment setting of Psalm 82:1–8 and Jesus' appeal in John 10:34–36. Chapter 4 gives that paired testimony its full treatment; the verse is not isolated here as a detached proof text.
+Psalm 82:6 belongs to the wider design argument because it joins the designation “gods” with “children of the most High.” It must be read with the judgment setting of Psalm 82:1–8 and Jesus' appeal in John 10:34–36. Chapter 4 gives that paired testimony its full treatment; the verse is not isolated here as a detached proof text. Mark 11:20–25 also belongs to the inquiry into faith and the state of God. Jesus' statement follows the withering of the fig tree and is developed with the teaching on the mountain, prayer, belief, and forgiveness. Chapter 10 examines that sequence. The phrase “state of God” is the doctrinal reading developed in this book, not a lexical definition proved by the Greek genitive alone.
 
 **Romans 8:17** adds the language of inheritance:
 
@@ -468,11 +468,11 @@ The psalm opens:
 >
 > They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.” — Psalm 82:1–5, KJV
 
-The psalm opens with God standing in the congregation and judging among the gods. The charge is explicit: those addressed judge unjustly and show favour to the wicked. They are commanded to defend the poor and fatherless, do justice to the afflicted and needy, and deliver the poor and needy from the wicked.
+The psalm opens with God standing in the congregation and judging among the gods. The identity of those addressed has been interpreted in more than one way. Some readers understand them as human rulers or judges entrusted with authority; others understand them as heavenly beings; still others relate the language to Israel or its covenant leadership. The passage itself does not pause to give a biographical identification of each addressee. What it makes unmistakable is that they stand under God's judgment. The charge is explicit: those addressed judge unjustly and show favour to the wicked. They are commanded to defend the poor and fatherless, do justice to the afflicted and needy, and deliver the poor and needy from the wicked.
 
 The psalm describes their failure: they do not know or understand, they walk in darkness, and the foundations of the earth are out of course. Judgment is tied to their conduct and to the consequences of injustice.
 
-The designation “gods” is therefore spoken within a rebuke. The psalm does not present the title as permission for injustice or exemption from accountability. Those addressed answer to God for how they judge and treat the vulnerable.
+The designation “gods” is therefore spoken within a rebuke. The psalm does not present the title as permission for injustice or exemption from accountability. Those addressed answer to God for how they judge and treat the vulnerable. This judgment setting is relevant to the interpretive question, but it does not by itself settle whether the addressees are human rulers, heavenly beings, or another group. The Aletheia source's doctrinal use of verse 6 must be stated faithfully; the interpretive discussion clarifies the passage's setting rather than replacing that source teaching with an unacknowledged alternative.
 
 The psalm's demand is for just judgment and protection of those who are vulnerable. The call to judge righteously belongs to the same passage as the declaration in verse 6; the designation “gods” never places those addressed beyond the requirement of justice.
 
@@ -519,7 +519,7 @@ Jesus answers:
 >
 > Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?” — John 10:34–36, KJV
 
-Jesus quotes Psalm 82:6—“I said, Ye are gods”—then refers to those “unto whom the word of God came” and declares that “the scripture cannot be broken.” He asks why His hearers accuse the One whom the Father sanctified and sent into the world of blasphemy for saying, “I am the Son of God.”
+Jesus quotes Psalm 82:6—“I said, Ye are gods”—then refers to those “unto whom the word of God came” and declares that “the scripture cannot be broken.” The phrase “unto whom the word of God came” identifies the group in the argument by their relation to God's word; it is not, by itself, a complete explanation of their identity or office. Jesus' reasoning depends on the written testimony being acknowledged rather than dismissed. He then asks why His hearers accuse the One whom the Father sanctified and sent into the world of blasphemy for saying, “I am the Son of God.”
 
 Jesus deliberately brings the written statement into His answer to the accusation and affirms the authority of the Scripture He quotes: it cannot be broken.
 
@@ -529,7 +529,7 @@ Jesus then places His own identity in the argument: “Say ye of him, whom the F
 
 The wording must be kept exact. Jesus says that the word of God came to those He has just mentioned; He does not, in these verses, provide a complete account of the identity or history of every person addressed in Psalm 82. He does, however, insist that the Scripture stands and uses its language in answering the charge brought against Him. The doctrinal force of the passage cannot be reduced to a casual illustration.
 
-The source's design argument reads this appeal alongside Genesis 1:26–28 and the wider teaching on true nature and Sonship. In doing so, the distinction remains: John explicitly records Jesus' quotation, His statement about the word of God, His affirmation that Scripture cannot be broken, and His description of Himself as the One sanctified and sent by the Father. The cumulative account of humanity's Design is developed through the connected Scripture set.
+The Aletheia design teaching reads this appeal alongside Genesis 1:26–28 and the wider teaching on true nature and Sonship. John explicitly records Jesus' quotation, His statement about the word of God, His affirmation that Scripture cannot be broken, and His description of Himself as the One sanctified and sent by the Father. The wider conclusion about humanity's Design is developed through this testimony together with the connected Scripture set; John 10 should not be made to state every part of that conclusion in one sentence.
 
 ## John 10:37–38 — the works and mutual indwelling
 
@@ -592,7 +592,7 @@ Verse 8 states the consequence: if these things are in believers and abound, the
 
 Genesis 1:26–28 declares humanity's creation in God's image and likeness. The teaching on *pistis* connects faith with the state of God's children, and Psalm 82:6–7 with John 10 brings the declaration “Ye are gods” into view alongside its judgment setting. The question now is how the promise of participation in divine nature is stated and developed in 2 Peter 1:2–8.
 
-The next passage in the source's true-nature argument is 2 Peter 1:2–8. Its central declaration is that believers may become “partakers of the divine nature.” Peter places this declaration within a larger sequence: knowledge of God and Jesus Christ; divine power and its provision for life and godliness; the call to glory and virtue; precious promises; escape from corruption; and the diligence and qualities that must abound.
+In 2 Peter 1:2–8, the central declaration is that believers may become “partakers of the divine nature.” Peter places this declaration within a larger sequence: knowledge of God and Jesus Christ; divine power and its provision for life and godliness; the call to glory and virtue; precious promises; escape from corruption; and the diligence and qualities that must abound. This is not a second creation account. Genesis states humanity's original image and likeness; Peter describes participation through promises given by divine power. The Aletheia teaching connects these testimonies in its account of true nature, while preserving what each passage actually says.
 
 Participation in divine nature must therefore be read within Peter's full movement. The promises, escape from corruption, and qualities named in verses 5–8 are not optional additions; they belong to the same passage.
 
@@ -636,7 +636,7 @@ The Aletheia source connects this argument with Psalm 82:5, which describes the 
 
 The source also explains *dikaiosynē* (δικαιοσύνη) through equity—impartiality to and conformity with the nature of God—and adds the wording “original: back on course.” This is retained as the Aletheia source's explanation, not offered as an exhaustive dictionary definition of the Greek noun. Chapter 7 examines the source's treatment of righteousness and justification in detail.
 
-The connection is cumulative. Psalm 82:5 describes foundations out of course; Romans 3:23–24 speaks of coming short of God's glory and justification through redemption in Christ; 2 Peter 1:4 speaks of participation in divine nature and escape from corruption. The source's “back on course” formulation brings these statements into one conceptual line: restoration concerns a return to the true nature associated with God's design.
+The connection is cumulative. Psalm 82:5 describes foundations out of course; Romans 3:23–24 speaks of coming short of God's glory and justification through redemption in Christ; 2 Peter 1:4 speaks of participation in divine nature and escape from corruption. The Aletheia source's “back on course” formulation brings these statements into one conceptual line: restoration concerns a return to the true nature associated with God's design. This is a doctrinal explanation of restoration, not a claim that the phrase is the exhaustive lexical meaning of *dikaiosynē*.
 
 This is a doctrinal synthesis across the passages. No single Greek word is made to prove the entire restoration thesis; each text contributes its own statement, and the source's interpretation connects them.
 
@@ -1176,7 +1176,7 @@ The statements contribute distinct parts of the argument. They are not collapsed
 
 ## The Father's purpose and the representation of design
 
-The Father's will and pleasure is for His sons to live in the state corresponding to their design. This includes sonship and heirship, participation in divine nature, and the identity represented in Christ.
+The Father's will and pleasure for His sons is understood through the connected testimony of Scripture. Hebrews 1 presents the unique Son; Galatians 4 describes adoption through redemption and the Spirit of the Son sent into believers' hearts; Romans 8 identifies those led by the Spirit as children and heirs, including joint-heirship with Christ. The conclusion that the Father desires His sons to live in the state corresponding to their Design is the book's synthesis of these passages with Genesis 1 and 2 Peter 1. It should not be mistaken for a sentence stated verbatim by any one of these passages.
 
 The inheritance of God's children is understood through the connected testimony of these passages:
 
@@ -1281,7 +1281,7 @@ The Aletheia teaching on image and likeness gives this prayer a wider doctrinal 
 
 ## The glory given
 
-One of the prayer's most striking declarations is: “And the glory which thou gavest me I have given them.” Jesus does not merely pray that believers may one day hear about glory. He says that the glory given to Him has been given to them, and He connects that gift with their being one.
+One of the prayer's most striking declarations is: “And the glory which thou gavest me I have given them.” Jesus states the gift in the past tense and connects it directly with the purpose “that they may be one, even as we are one.” The chapter must not move the gift entirely into a future hope. At the same time, the immediate passage identifies its purpose through oneness, indwelling, perfected unity, and the world's knowledge of the Father's sending and love; it does not provide a separate technical definition of the glory's precise nature. The wider connection with image, righteousness, and restoration is a doctrinal synthesis across the Scripture set.
 
 The statement belongs within the book's wider examination of glory. Romans 3:23 says that all have sinned and come short of the glory of God. The Aletheia source interprets coming short of glory in relation to deviation from true nature. First Corinthians 11:7 calls man the image and glory of God, in a passage whose immediate context concerns headship and covering in the assembly. John 17:22, in turn, speaks of the glory given to the Son and given by Him to believers.
 
@@ -1309,7 +1309,7 @@ The prayer presses beyond a shallow definition of unity. It calls the reader to 
 
 ## The glory made known in Christ
 
-The prayer of John 17 does not end the book's inquiry into glory. It prepares the reader to consider how the knowledge of God's glory is made visible in Christ. Jesus speaks of the glory given to Him and given to believers; the next passage under examination declares that the light of the knowledge of God's glory is given “in the face of Jesus Christ.”
+The prayer of John 17 does not end the inquiry into glory. It leads to Paul's account in 2 Corinthians 4:1–6, where the character of apostolic ministry, the veiling of the gospel, the blindness of unbelieving minds, and God's shining in hearts culminate in the knowledge of God's glory in the face of Jesus Christ. John 17 and 2 Corinthians 4 contribute distinct testimony: the former speaks of oneness, glory given, indwelling, and the world's witness; the latter speaks of the gospel's light and the image of God in Christ.
 
 That movement brings the discussion to 2 Corinthians 4:1–6. There Paul names Christ as the image of God and describes the light that shines in the heart. The prayer and that passage belong together in the book's cumulative argument: the Son reveals the Father's glory, and the oneness for which He prays is connected to the world's knowledge of His sending and the Father's love.
 
