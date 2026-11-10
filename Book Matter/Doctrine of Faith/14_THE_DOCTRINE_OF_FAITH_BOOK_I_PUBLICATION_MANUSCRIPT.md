@@ -141,15 +141,7 @@ Mark 11:22 will later bring the language of faith and the state of God into dire
 
 Genesis and Peter therefore establish an important part of the doctrinal setting: humanity's creation in God's image and likeness, and the scriptural declaration concerning participation in divine nature. They do not, by themselves, supply a complete definition of *hypostasis*. The definition in this chapter remains anchored in Hebrews 11:1, read in its context. The wider passages show why the question of faith's substance must be considered in relation to the nature and Design of the person.
 
-## Faith as the underlying state, not a performance
-
-The declaration of Hebrews 11:1 brings us to a question more fundamental than the performance of a religious act: what is the state from which the life of faith proceeds?
-
-Faith is commonly reduced to the moment in which a person decides to believe something, or to the strength with which a person attempts to hold a thought. But the writer of Hebrews places faith within the enduring life of the just and then calls it *hypostasis*. The word “substance” does not describe a performance staged for an occasion. It directs attention to the underlying reality.
-
-This is where the creation account becomes essential to the inquiry. If God created humanity in His image and likeness, then human identity must be understood in relation to that Design. Faith cannot be approached as though the only question were how a deficient person might persuade himself to become something entirely foreign to the nature God gave. The doctrine being developed concerns the state of the person in relation to God's Design and the reality revealed in the Son.
-
-## From substance to state: *hypostasis*, *pistis*, and true nature
+ ## From substance to state: *hypostasis*, *pistis*, and true nature
 
 The distinction between *hypostasis* and *pistis* is essential to the foundation of this book. Hebrews 11:1 uses *hypostasis* for the substance of things hoped for. The Aletheia teaching on “Faith toward God,” by contrast, takes up *pistis* and identifies it as “credence,” stating that faith essentially defines the state of God's children. The leaflet does not use *hypostasis* to make this statement, and Hebrews 11:1 does not itself give a grammatical definition of human nature. The two lines must therefore be brought together by interpretation, not by pretending that they are the same word or that one source says what the other says.
 
@@ -157,7 +149,7 @@ The substance reading gives the inquiry its foundation. In Hebrews 10:35–39, c
 
 The leaflet's use of *pistis* brings a different but related question into focus: what does faith define about the person? Its answer is explicit—faith defines the state of God's children. It connects credence with acceptance, true nature, and adoption as sons, drawing on Galatians 4:5–7, Romans 8:15, and Ephesians 1:5. The source is not merely describing a person's mental agreement with a proposition. It places faith in the identity and state of those who belong to God. Chapter 2 develops that teaching through the cited passages and the Father's testimony concerning the Son.
 
-The relationship between the two lines can now be stated carefully. *Hypostasis* names the substance associated with what is hoped for; the leaflet's *pistis* teaching identifies faith with the state of God's children. The first establishes the foundation expressed in Hebrews 11:1; the second supplies the source's explicit doctrinal account of faith toward God and the state of sonship. Read with the creation testimony of Genesis 1:26–28, the promise of participation in divine nature in 2 Peter 1:2–4, and the Son who is the express image of the Father's person, these passages support the book's synthesis: **faith is our state by Design**. That conclusion is not a direct quotation from Hebrews 11:1, nor a claim that the leaflet defines *hypostasis*. It is the doctrinal relationship argued from their distinct testimonies.
+The relationship between the two lines is now clear. *Hypostasis* names the substance associated with what is hoped for; the leaflet's *pistis* teaching identifies faith with the state of God's children. Hebrews 11:1 supplies the foundation, while the source's teaching on credence, acceptance, true nature, and Sonship gives the state its explicit doctrinal expression. Read with Genesis 1:26–28, 2 Peter 1:2–4, and the Son who is the express image of the Father's person, these distinct testimonies support the book's synthesis: **faith is our state by Design**.
 
 This foundation also keeps the person and work of Christ together. The Son reveals the Father's person and glory, and Hebrews 1:3 declares that He purged our sins. His representation shows the reality toward which the Design argument points; His redemptive accomplishment is not optional or secondary. The state of the children is understood through the Son and the work through which redemption and adoption are given.
 
@@ -303,7 +295,7 @@ The foundation of *hypostasis* in Hebrews 11:1 and the teaching on *pistis* in H
 6. What do Hebrews 11:2, 5–6 say about faith, good report, and pleasing God?
 7. What does Matthew 3:17 declare about Jesus, and how is that declaration brought into the wider argument about the Father's pleasure and His sons?
 8. How does the *pistis* teaching in this chapter relate to the *hypostasis* foundation in Chapter 1 while keeping the two terms and their source contexts distinct?
-9. Which statements in this chapter are explicit Aletheia source teaching, which are explicit scriptural statements, and which are doctrinal synthesis?
+9. How do the Aletheia teaching on credence and the passages about sonship, adoption, and the Father's pleasure together explain the state of God's children?
 
 # Chapter 3 — Elohim: Image, Likeness and Human Design
 ## The image carried through the generations
@@ -436,8 +428,6 @@ Humanity was created in God's image and likeness and received blessing and commi
 3. Read Mark 11:20–25 as one sequence. Explain how the fig tree, Jesus' instruction about faith, the mountain saying, prayer, and forgiveness belong together. Distinguish the author's “state of God” interpretation from a claim that the Greek genitive alone proves that wording.
 4. Explain how Genesis 1:26–28, Psalm 82:6–8, and John 17:20–23 contribute distinct parts of the Design argument, and why their full treatments belong in their respective chapters.
 5. State the thesis **“Jesus represents who we are by Design”** as a conclusion from the connected Scripture testimony. Show why Christ's representation and His redemptive accomplishment must remain together.
-
-Genesis has supplied the explicit image-and-likeness foundation. That creation account now leads into Psalm 82:6–7 and Jesus' use of the passage in John 10, where the declaration “Ye are gods” must be read within the psalm's judgment setting.
 
 # Chapter 4 — Ye Are Gods: Psalm 82 and the Testimony of Jesus in John 10
 ## The statement and the setting
@@ -590,9 +580,7 @@ Verse 8 states the consequence: if these things are in believers and abound, the
 
 ## From created image to participation in divine nature
 
-Genesis 1:26–28 declares humanity's creation in God's image and likeness. The teaching on *pistis* connects faith with the state of God's children, and Psalm 82:6–7 with John 10 brings the declaration “Ye are gods” into view alongside its judgment setting. The question now is how the promise of participation in divine nature is stated and developed in 2 Peter 1:2–8.
-
-In 2 Peter 1:2–8, the central declaration is that believers may become “partakers of the divine nature.” Peter places this declaration within a larger sequence: knowledge of God and Jesus Christ; divine power and its provision for life and godliness; the call to glory and virtue; precious promises; escape from corruption; and the diligence and qualities that must abound. This is not a second creation account. Genesis states humanity's original image and likeness; Peter describes participation through promises given by divine power. The Aletheia teaching connects these testimonies in its account of true nature, while preserving what each passage actually says.
+Genesis 1:26–28 declares humanity's creation in God's image and likeness; 2 Peter 1:2–8 describes participation in divine nature through the promises given by God's power. The Aletheia teaching connects these passages in its account of true nature. Their wording remains distinct: Genesis records the original creation, while Peter describes the provision, participation, escape from corruption, and fruitful life given through Christ.
 
 Participation in divine nature must therefore be read within Peter's full movement. The promises, escape from corruption, and qualities named in verses 5–8 are not optional additions; they belong to the same passage.
 
