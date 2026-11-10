@@ -165,14 +165,6 @@ Taken together, they establish the foundation from which the doctrine proceeds. 
 **Faith is our state by Design. Jesus represents who we are by Design.** These are not detached slogans. They are the doctrinal conclusions toward which the connected scriptural testimony directs the inquiry. The chapters that follow develop the dimensions of that foundation without confusing their distinct responsibilities.
 
 # Chapter 2 — Pistis: Credence, Acceptance and Sonship
-## The Father's pleasure and the testimony of faith
-
-Hebrews 11:2 says that by faith the elders obtained a good report. The chapter does not describe faith as a private opinion detached from a life that bears testimony. The elders' faith is connected with the report received concerning them. Hebrews 11:5 gives the example of Enoch, who was translated so that he should not see death and had this testimony, that he pleased God. Verse 6 then states that without faith it is impossible to please Him, because the one who comes to God must believe that He is and that He is a rewarder of those who diligently seek Him.
-
-These verses place faith, testimony, and the Father's pleasure in a single movement. The good report is not a substitute definition for *pistis*, nor is pleasing God reduced to a human effort to secure approval. The question raised by the passage is the state of the person whose life bears this testimony. The Aletheia teaching answers at the level of identity: faith essentially defines our state as children of God. The examples in Hebrews 11 show that this state is not inert; it is expressed in the lives of those who respond to God and receive His testimony.
-
-Matthew 3:16–17 records the Father's declaration over Jesus after His baptism: “This is my beloved Son, in whom I am well pleased” (KJV). The declaration precedes the public ministry that follows in Matthew's account. It identifies Jesus as the beloved Son and expresses the Father's pleasure in Him. Read alongside Hebrews 11:5–6, the testimony concerning Enoch, and the Aletheia teaching on sonship, the passage brings the Father's pleasure into the discussion of the Son and those whose sonship is received through Him. Jesus' unique Sonship is not diminished; rather, the adoption developed in Galatians 4 and Romans 8 is understood in relation to the Son whom the Father sent.
-
 ## Faith toward God: the state of His children
 
 Hebrews 6:1 names “faith toward God” among the foundations of the doctrine of Christ:
@@ -275,15 +267,9 @@ The wider scriptural framework gives this direction its substance. Genesis 1:26�
 
 ## Faith, credence, and the state of God's children
 
-Faith as *pistis* is not presented here as a passing mood or a momentary opinion. The teaching is that faith defines the state of God's children. The word “credence” is therefore read in the sentence in which the source places it: credence defines acceptance, true nature, and espousal or adoption as sons. The emphasis falls not on an isolated act of agreeing with a statement, but on the state and standing of those who belong to God.
+The teaching of this chapter is that *pistis*—credence—defines the state of God's children. Galatians 4:4–7 describes the Son sent to redeem, the adoption received, the Spirit of the Son crying “Abba, Father,” and the heirship that follows. Romans 8:14–17 adds the Spirit's witness, suffering with Christ, and shared glory; Ephesians 1:3–5 places adoption within the Father's purpose and good pleasure. Hebrews 11:2, 5–6 and Matthew 3:17 bring faith and the Father's pleasure into the same discussion, while preserving the distinct settings of the elders' testimony and the Father's declaration over Jesus.
 
-The Scriptures give this state its substance. Galatians 4:4–7 shows the Son sent to redeem those under the law so that they might receive adoption; it then declares, “because ye are sons,” God has sent the Spirit of His Son into their hearts, crying, “Abba, Father.” The movement is from the sending and redemption accomplished by the Son, to adoption, to the Spirit's witness, and to the declaration that the son is also an heir of God through Christ.
-
-Romans 8:14–17 gives the same sonship its inward witness and inheritance: those led by the Spirit of God are the sons of God; they have received the Spirit of adoption, not bondage again to fear; the Spirit bears witness with their spirit that they are children of God; and if children, then heirs—heirs of God and joint-heirs with Christ. Ephesians 1:3–5 places this adoption within the Father's purpose and good pleasure, through Jesus Christ.
-
-The Father's pleasure is also seen in His declaration over Jesus: “This is my beloved Son, in whom I am well pleased” (Matthew 3:17). Hebrews 11:2 says the elders obtained a good report through faith; verses 5–6 connect Enoch's testimony with pleasing God and declare that without faith it is impossible to please Him. Read together, these passages establish the relationship among faith, the Father's pleasure, and the life of His children. The conclusion that the Father's pleasure is expressed in His sons living in the state He designed is the doctrinal synthesis of these connected witnesses.
-
-The foundation of *hypostasis* in Hebrews 11:1 and the teaching on *pistis* in Hebrews 6:1 are related, but the words are not interchangeable. Hebrews 11:1 supplies the substance foundation; the teaching on *pistis* identifies faith as credence defining the state of God's children. Together they establish why faith is not merely an attempt to obtain something: it concerns the state of the person in relation to God's Design. The image and likeness, divine nature, glory, redemption, inheritance, and oneness that follow are dimensions of this same scriptural testimony.
+The chapter's conclusion is that faith concerns the state and standing of those who belong to God, not merely an attempt to obtain something. This *pistis* teaching remains distinct from the *hypostasis* foundation of Hebrews 11:1: the terms and their source contexts are not interchangeable. Together, they establish the foundation for the connected themes of image and likeness, divine nature, glory, redemption, inheritance, and oneness developed in the chapters that follow.
 
 ## Questions for reflection and study
 
@@ -309,14 +295,6 @@ The repetition also guards against treating Genesis 1:26 as an isolated poetic e
 First Corinthians 11:7 states that man is the image and glory of God, while the woman is the glory of the man. The verse belongs to Paul's argument in 1 Corinthians 11:2–16 concerning headship, honour, and conduct in the gathered community. Its wording should not be detached from that discussion or made to answer questions it is not addressing. Within that context, however, Paul's description of man as the image and glory of God is explicit and significant. It brings the language of Genesis into the apostolic discussion and identifies glory as belonging to the creation relationship.
 
 The Aletheia teaching connects this testimony with the statement that humanity was made like its Maker. The doctrinal connection is not that 1 Corinthians 11:7 repeats every detail of Genesis 1, but that it confirms the scriptural use of image and glory in speaking about humanity's relation to God. The image is not merely an outward resemblance. It belongs to the account of what humanity is by creation.
-
-## Likeness expressed in life
-
-The command in Matthew 5:43–48 must be read as one movement. Jesus speaks of loving enemies, blessing those who curse, doing good to those who hate, and praying for those who persecute. He then points to the Father's giving of sun and rain to the evil and the good, the just and the unjust. The conclusion, “Be ye therefore perfect, even as your Father which is in heaven is perfect” (Matthew 5:48, KJV), follows this account of the Father's indiscriminate goodness.
-
-The comparison “even as your Father” matters. The conduct required of the children is related to the Father's own character. The passage therefore gives practical expression to likeness: the nature of the Father is not an abstract label but is made visible in the life of those who belong to Him. Love of enemies is not an unrelated moral demand appended to a doctrine of image; it is the very context in which Jesus describes the Father's character and calls His hearers to reflect it.
-
-First John 4:17 brings this relationship into the present life of believers: “as he is, so are we in this world” (KJV). The verse speaks within a passage about God's love being perfected in us, confidence in the day of judgment, and the removal of fear through perfected love. Its present-tense declaration is not an invitation to self-exaltation. It places the believer's life in relation to Christ and to the love of God perfected in the believer. Read with Genesis, Matthew 5, and 1 Corinthians 11:7, it contributes to the doctrine that the created image and likeness are not treated as an irrelevant past fact; they have implications for the life now lived in relation to the Father.
 
 ## From faith as state to humanity's design
 
@@ -387,13 +365,7 @@ The verse identifies believers as children, heirs of God, and joint-heirs with C
 
 ## Jesus represents humanity's design
 
-The governing doctrinal statement is:
-
-> **Jesus represents who we are by Design.**
-
-The thesis holds two questions together: What did Jesus accomplish for us, and what does He represent? In His person, Jesus reveals the reality toward which humanity was designed. His representation does not displace His redemptive work; redemption is essential to the restoration argument.
-
-The creation testimony, the Son's identity, the inheritance of God's children, the prayer of oneness, and the passages on glory and redemption contribute distinct parts of this teaching. Read together, they show why the representation revealed in Jesus must remain joined to what He accomplished for humanity. No single verse states the whole conclusion; the doctrine arises from the connected testimony.
+Jesus represents who humanity is by Design. His person reveals the reality toward which humanity was created; His redemptive work is essential to restoration. The creation testimony and the wider passages on sonship, inheritance, oneness, glory, and redemption contribute distinct parts of this conclusion. No single verse states the whole doctrine; it arises from their connected testimony.
 
 ## Faith, design, and the Father's nature
 
