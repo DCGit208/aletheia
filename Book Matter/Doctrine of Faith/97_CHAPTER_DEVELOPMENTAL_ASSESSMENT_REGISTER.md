@@ -1506,3 +1506,34 @@ The ten-chapter order and approved architecture remain in force. No chapter is t
 The author has now explicitly instructed that the remaining work proceed. This supersedes the earlier procedural hold that required presenting Chapter 1 for review before continuing; the approved ten-chapter architecture and doctrinal controls remain unchanged.
 
 A developmental pass has added substantive exposition to Chapters 2, 3, 5, 6, 8, and 9 in the canonical manuscript. The exact changes and verification commits are recorded in 17_FINAL_EDITORIAL_AUDIT_AND_PRODUCTION_DECISIONS.md and 12_PUBLICATION_READINESS_AUDIT.md. This does not close the remaining full-chapter reassessments, line/copy edit, Scripture proof, lexical proof, or author approval.
+
+
+---
+
+## 2026-11-10 — Stage 1 execution: substantive chapter development
+
+The author explicitly directed execution of Stage 1. This instruction authorizes the targeted amendments previously held pending whole-book reconciliation. The ten-chapter architecture and all resolved owner decisions remain controlling.
+
+### Canonical manuscript amendments
+
+- **Chapter 1:** Added a substantial reader-facing development of the relationship between *hypostasis*, the 2015 source's *pistis* / credence teaching, and the thesis that faith is the state of God's children by Design. The addition distinguishes the terms and their sources, explains the contextual role of assurance/confidence, and keeps the conclusion identified as doctrinal synthesis. Mark 11:22 is retained only as a bridge here.
+- **Chapter 3:** Deepened the Genesis 1:26–28 relationship between image, likeness, blessing, and commission; strengthened John 14:12 in its farewell-discourse setting; retained the Mark 11:20–25 boundary; and refined the reader exercise.
+- **Chapter 4:** Added a concise account of principal interpretive possibilities for the identity of the “gods” in Psalm 82, without replacing the Aletheia source's doctrinal application. Clarified the phrase “unto whom the word of God came” in Jesus' John 10 argument and strengthened the distinction between explicit text and cumulative Design synthesis. The exercise now tests the interpretive distinction.
+- **Chapter 5:** Clarified the distinction between original Design in Genesis, participation through the promises in 2 Peter 1:4, and the diligent, fruitful expression in verses 5–8. Retained the source's “back on course” formulation as doctrinal explanation, not exhaustive lexical definition.
+- **Chapter 8:** Made the distinction between the Son's unique identity and appointed heirship and believers' adopted sonship and heirship through Him more explicit.
+- **Chapter 9:** Clarified the present-tense gift of glory in John 17:22, its stated purpose in the prayer, and the boundary between the prayer's explicit claims and the wider Design synthesis. Reworked the study questions into an analytical progression.
+- **Chapter 10:** Developed the full movement of 2 Corinthians 4:1–6 in context, including ministry integrity, the veiled gospel, blinded minds, preaching Christ, and God's shining in hearts. Clarified the distinction between redemption accomplished/provided in Christ and personal reception, participation, and lived expression.
+- **Chapters 2, 6 and 7:** Their targeted amendments from the preceding 10 November execution record remain in force; they were not re-written in this Stage 1 batch.
+
+### Commits
+
+- `a121b0a841f1a10b78c3e5bd91972f9378b558f1` — Chapters 3–5 and 9.
+- `941b5b90431486fdb9ea636430163075bc8e99fe` — Chapters 8 and 10.
+- `98ab52ae44be7c52aa55abfec6cc67c717c9ae0e` — Chapter 1.
+- `f231217343239fb257b45053bbd6d8759a7b4c1b` — reader pedagogy and source-integration refinements in Chapters 3, 4, 5 and 8.
+
+Each commit was created against the current main-branch file SHA. A fresh fetch is required before treating the integrated chapter set as verified.
+
+### Status and remaining work
+
+Stage 1's targeted substantive amendments have been applied across the ten-chapter manuscript. This does **not** certify that every paragraph has passed the complete publication-level line edit, nor that every quotation or lexical claim has been independently re-proved. The next integrated pass must read all ten chapters continuously, check their transitions and repeated claims, and then proceed to the separate Scripture and original-language verification stages. Reader-payload synchronization and parity must also be rerun after manuscript changes. Author review remains required.
