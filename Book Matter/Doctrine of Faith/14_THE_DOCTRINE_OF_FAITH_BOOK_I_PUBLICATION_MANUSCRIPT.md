@@ -424,8 +424,8 @@ Humanity was created in God's image and likeness and received blessing and commi
 ## Study and argument exercise
 
 1. Read Genesis 1:26–28. Trace the movement from image and likeness in verses 26–27 to blessing and commission in verse 28. Explain why the creation account joins identity with fruitfulness, multiplication, replenishment, subduing, and dominion.
-2. Read John 14:12, 1 John 4:17, and Romans 8:17 in their immediate contexts. State what each passage explicitly contributes—works in relation to Jesus' going to the Father, likeness in the context of perfected love, and heirship with suffering and shared glory.
-3. Read Mark 11:20–25 as one sequence. Explain how the fig tree, Jesus' instruction about faith, the mountain saying, prayer, and forgiveness belong together. Distinguish the author's “state of God” interpretation from a claim that the Greek genitive alone proves that wording.
+2. Read John 14:12, 1 John 4:17, and Romans 8:17 in their immediate contexts. State what each passage contributes to the teaching on works, likeness, and heirship.
+3. Read Mark 11:20–25 as one sequence. Explain how the fig tree, Jesus' instruction about faith, the mountain saying, prayer, and forgiveness support the chapter's teaching about faith and the state of God.
 4. Explain how Genesis 1:26–28, Psalm 82:6–8, and John 17:20–23 contribute distinct parts of the Design argument, and why their full treatments belong in their respective chapters.
 5. State the thesis **“Jesus represents who we are by Design”** as a conclusion from the connected Scripture testimony. Show why Christ's representation and His redemptive accomplishment must remain together.
 
@@ -680,17 +680,7 @@ The connection with Romans 3:23–24 is substantial. The statement that all have
 
 The preceding chapters have established the foundation of faith, the Aletheia teaching that *pistis*—credence—defines the state of God's children, humanity's creation in God's image and likeness, Psalm 82:6–7 in its judgment context, and Peter's account of participation in divine nature.
 
-The Aletheia leaflet now asks a direct question: **Why did Jesus come?**
-
-The leaflet places the question after Genesis 1:26–27 and its statement that humanity was made like its Maker. It then cites Romans 3:23–24, interpreting “come short of the glory of God” as “deviation from true nature,” and points to 1 Corinthians 11:7 for the description of man as the image and glory of God. The sequence places Jesus' coming within the source's argument about humanity's design and the glory from which humanity has come short.
-
-The chapter follows three connected matters:
-
-1. **Design:** humanity was made in God's image and likeness.
-2. **The human condition:** humanity sinned and came short of God's glory; the Aletheia source interprets this as deviation from true nature.
-3. **God's action in Christ:** justification is given freely by grace through redemption in Christ Jesus.
-
-The Aletheia source's interpretation is retained with its doctrinal force. Accurate exposition also makes clear which wording belongs to Scripture, which is the source's explanatory gloss, and which is the wider synthesis developed from the passages.
+The question “Why did Jesus come?” follows the creation testimony and the statement that humanity came short of God's glory. Romans 3:23–24 gives the movement its central form: all have sinned and come short of God's glory, and justification is given freely by grace through redemption in Christ Jesus. The Aletheia interpretation identifies the coming short as “deviation from true nature” and connects Romans with 1 Corinthians 11:7, where Paul speaks of man as the image and glory of God. The doctrine therefore moves from created Design, through the human condition, to God's redemptive action in Christ.
 
 ## The creation statement and the glory of humanity
 
@@ -860,7 +850,7 @@ Jesus represents who we are by Design, and He has accomplished the redemption th
 1. Read Genesis 1:26–28. Identify what the passage explicitly says about image, likeness, blessing, fruitfulness, multiplication, replenishment, subduing, and dominion.
 2. Compare Genesis 1:27 in the KJV with the full Living Bible wording reproduced in this chapter. Explain how the Aletheia leaflet connects “like his Maker” with true nature and the glory humanity came short of.
 3. Read Romans 3:21–26 as one continuous argument. Identify the manifestation of righteousness, the universal condition of sin, coming short of glory, free justification, redemption, propitiation, Christ's blood, and God's declaration of righteousness.
-4. Explain the Aletheia source's gloss “deviation from true nature.” Distinguish it from the direct wording of Romans 3:23 without weakening or treating the source's interpretation as optional.
+4. How does the Aletheia interpretation of “come short of the glory of God” as “deviation from true nature” connect Romans 3:23 with the creation testimony and 1 Corinthians 11:7?
 5. Read 1 Corinthians 11:2–16. Explain the immediate context of verse 7 and identify the clause the leaflet connects with Romans 3:23.
 6. Read 1 Corinthians 15:35–49. Explain the role of verse 41 in Paul's resurrection argument and distinguish it from the image-and-glory statement in 1 Corinthians 11:7.
 7. Explain how Ephesians 1:7 and Colossians 1:13–14 contribute to the redemption argument.
@@ -1075,7 +1065,7 @@ The passage asks which angel was ever addressed as the Son with the words “Tho
 
 Hebrews 1:8 remains because it is part of this scriptural portrait. It directly addresses the Son, declares His throne everlasting, and describes His kingdom through the sceptre of righteousness. It contributes to the portrayal of His identity and reign.
 
-Hebrews 1:8 remains part of the Son's scriptural portrait. The question once attached to the verse is not repeated here; the exposition follows what the passage itself declares about the Son and what the other passages state about the inheritance believers receive through Him.
+
 
 Hebrews 1:1–8 presents a continuous portrait: God speaks through the Son; appoints Him heir of all things; makes the worlds through Him; and declares Him the brightness of His glory and express image. The Son purges sins and is exalted, while the Father's declarations distinguish Him from the angels and speak of His Sonship, throne, and righteous kingdom. This is the portrait within which our sonship and heirship through Him must be understood.
 
@@ -1287,7 +1277,7 @@ The prayer presses beyond a shallow definition of unity. It calls the reader to 
 
 ## The glory made known in Christ
 
-The prayer of John 17 does not end the inquiry into glory. It leads to Paul's account in 2 Corinthians 4:1–6, where the character of apostolic ministry, the veiling of the gospel, the blindness of unbelieving minds, and God's shining in hearts culminate in the knowledge of God's glory in the face of Jesus Christ. John 17 and 2 Corinthians 4 contribute distinct testimony: the former speaks of oneness, glory given, indwelling, and the world's witness; the latter speaks of the gospel's light and the image of God in Christ.
+The prayer of John 17 leads to Paul's account in 2 Corinthians 4:1–6. There the character of apostolic ministry, the veiling of the gospel, the blindness of unbelieving minds, and God's shining in hearts culminate in the knowledge of God's glory in the face of Jesus Christ. John 17 speaks of oneness, glory given, indwelling, and the world's witness; Paul speaks of the gospel's light and the image of God in Christ. The two passages bring the prayer's relational witness and the revelation of God's glory in Christ into a final scriptural connection.
 
 
 
