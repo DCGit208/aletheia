@@ -442,7 +442,7 @@ Genesis has supplied the explicit image-and-likeness foundation. That creation a
 # Chapter 4 — Ye Are Gods: Psalm 82 and the Testimony of Jesus in John 10
 ## The statement and the setting
 
-The Aletheia source includes Psalm 82:6 in its teaching on true nature and the state of God's children:
+Psalm 82:6 declares that God has said, “Ye are gods; and all of you are children of the most High.” This declaration belongs to the teaching on true nature and the state of God's children:
 
 > “I have said, Ye are gods; and all of you are children of the most High.” — Psalm 82:6, KJV
 
@@ -474,7 +474,7 @@ The psalm describes their failure: they do not know or understand, they walk in 
 
 The designation “gods” is therefore spoken within a rebuke. The psalm does not present the title as permission for injustice or exemption from accountability. Those addressed answer to God for how they judge and treat the vulnerable.
 
-The source's later use of *dikaiosynē* (δικαιοσύνη) and its explanation of equity as conformity with the nature of God belongs to the wider doctrinal sequence. Chapter 7 develops righteousness and justification. Here, the immediate point is the psalm's own demand for just judgment and protection of those who are vulnerable.
+The psalm's demand is for just judgment and protection of those who are vulnerable. The call to judge righteously belongs to the same passage as the declaration in verse 6; the designation “gods” never places those addressed beyond the requirement of justice.
 
 ## Psalm 82:6–8 — the declaration and the judgment
 
@@ -590,7 +590,7 @@ Verse 8 states the consequence: if these things are in believers and abound, the
 
 ## From created image to participation in divine nature
 
-The preceding chapters have established the creation foundation in Genesis 1:26–28, the Aletheia teaching that *pistis*—credence—defines the state of God's children, and the relationship of true nature to Sonship. They have also considered Psalm 82:6–7 in its judgment setting and Jesus' appeal to that writing in John 10. Chapter 5 now follows the source's next step in the true-nature argument.
+Genesis 1:26–28 declares humanity's creation in God's image and likeness. The teaching on *pistis* connects faith with the state of God's children, and Psalm 82:6–7 with John 10 brings the declaration “Ye are gods” into view alongside its judgment setting. The question now is how the promise of participation in divine nature is stated and developed in 2 Peter 1:2–8.
 
 The next passage in the source's true-nature argument is 2 Peter 1:2–8. Its central declaration is that believers may become “partakers of the divine nature.” Peter places this declaration within a larger sequence: knowledge of God and Jesus Christ; divine power and its provision for life and godliness; the call to glory and virtue; precious promises; escape from corruption; and the diligence and qualities that must abound.
 
@@ -1097,7 +1097,7 @@ The passage asks which angel was ever addressed as the Son with the words “Tho
 
 Hebrews 1:8 remains because it is part of this scriptural portrait. It directly addresses the Son, declares His throne everlasting, and describes His kingdom through the sceptre of righteousness. It contributes to the portrayal of His identity and reign.
 
-The former leaflet question, “According to Hebrews 1:8, what does that make you?”, remains abandoned. It is neither an unresolved doctrinal question nor an exercise for the reader, and it is not a required inference in this chapter. The verse itself remains in the biblical portrait of the Son; the abandoned question is not revived.
+Hebrews 1:8 remains part of the Son's scriptural portrait. The question once attached to the verse is not repeated here; the exposition follows what the passage itself declares about the Son and what the other passages state about the inheritance believers receive through Him.
 
 Hebrews 1:1–8 presents a continuous portrait: God speaks through the Son; appoints Him heir of all things; makes the worlds through Him; and declares Him the brightness of His glory and express image. The Son purges sins and is exalted, while the Father's declarations distinguish Him from the angels and speak of His Sonship, throne, and righteous kingdom. This is the portrait within which our sonship and heirship through Him must be understood.
 
@@ -1178,7 +1178,7 @@ The statements contribute distinct parts of the argument. They are not collapsed
 
 The Father's will and pleasure is for His sons to live in the state corresponding to their design. This includes sonship and heirship, participation in divine nature, and the identity represented in Christ.
 
-The argument has been built through the book's connected passages:
+The inheritance of God's children is understood through the connected testimony of these passages:
 
 - **Genesis 1:26–28:** humanity is made in God's image and likeness and receives the blessing and commission.
 - **2 Peter 1:4:** believers may become partakers of divine nature through the precious promises.
@@ -1225,7 +1225,7 @@ The prayer also preserves the distinction between Father and Son. Jesus addresse
 
 ## The prayer that brings sonship and glory into view
 
-The discussion of the Son and the heir leads naturally to the prayer Jesus prayed for those who would believe in Him. The Aletheia source directs attention to John 17:20–23 and asks the reader to consider the prayer of oneness. That invitation deserves more than a passing reference to Christian unity. Jesus' words describe a relationship: the Father in the Son, the Son in believers, believers in the Father and the Son, and the glory given to the Son also given to them.
+The discussion of the Son and the heir leads naturally to the prayer Jesus prayed for those who would believe in Him. John 17:20–23 brings the prayer of oneness into direct view. Jesus is not asking merely for outward agreement or social harmony. Jesus' words describe a relationship: the Father in the Son, the Son in believers, believers in the Father and the Son, and the glory given to the Son also given to them.
 
 The prayer also tells us why this oneness matters. Jesus connects it with the world's believing that the Father sent Him and knowing that the Father loves believers as He loves the Son. Oneness, glory, indwelling, love, and witness belong together in the passage. To understand the prayer, we must follow its movement rather than isolate one phrase.
 
@@ -1299,7 +1299,7 @@ Each passage retains its own emphasis: Galatians develops redemption, adoption, 
 
 ## Oneness, image, and present representation
 
-The Aletheia source's question—how would you liken the prayer of oneness?—invites the reader to connect John 17 with the design and nature passages already examined. Genesis 1:26–28 speaks of image and likeness; 2 Peter 1:4, of participation in divine nature; Galatians 4:5–7 and Romans 8:16–17, of sonship and heirship; Hebrews 1:3, of the Son as the express image of God's person; and 2 Corinthians 5:21, of the righteousness of God in Christ. First John 4:17 adds, within the context of perfected love and confidence, “as he is, so are we in this world.”
+The prayer must be considered alongside the design and nature passages: Genesis 1:26–28 speaks of image and likeness; 2 Peter 1:4, of participation in divine nature; Galatians 4:5–7 and Romans 8:16–17, of sonship and heirship; Hebrews 1:3, of the Son as the express image of God's person; and 2 Corinthians 5:21, of the righteousness of God in Christ. First John 4:17 adds, within the context of perfected love and confidence, “as he is, so are we in this world.”
 
 John 17 contributes its own language: believers are to be one in the Father and the Son; the glory given to the Son is given to them; Christ is in them; they are to be made perfect in one; and the Father loves them as He loves the Son. The prayer therefore brings the relational and glory dimensions into the book's connected teaching on Design, nature, sonship, and righteousness.
 
@@ -1327,7 +1327,7 @@ That movement brings the discussion to 2 Corinthians 4:1–6. There Paul names C
 
 ## The culmination: faith and the state of God
 
-The question with which this book began was not how to perform an act of faith, but what faith is. Hebrews 11:1 calls faith *hypostasis*—substance. The Aletheia teaching on *pistis* identifies faith as credence and connects it with the state of God's children, acceptance, true nature, and Sonship. The argument has followed the creation of humanity in God's image and likeness, the declaration in Psalm 82, Jesus' appeal to that Scripture, participation in divine nature, the glory humanity came short of, redemption and justification in Christ, the inheritance of the Son, and the oneness for which Jesus prayed.
+The question is not how to perform an act of faith, but what faith is. Hebrews 11:1 calls faith *hypostasis*—substance. The Aletheia teaching on *pistis* identifies faith as credence and connects it with the state of God's children, acceptance, true nature, and Sonship. The argument has followed the creation of humanity in God's image and likeness, the declaration in Psalm 82, Jesus' appeal to that Scripture, participation in divine nature, the glory humanity came short of, redemption and justification in Christ, the inheritance of the Son, and the oneness for which Jesus prayed.
 
 These are not unrelated subjects. They converge on the question of the state in which humanity was designed to exist and the reality revealed in Jesus Christ. The governing conviction has been stated throughout: **faith is our state by Design; Jesus represents who we are by Design.**
 
@@ -1379,7 +1379,7 @@ First John 4:17 says, in the context of perfected love and confidence, “becaus
 
 The distinction between acknowledgement and deficiency is essential. If faith is treated only as an attempt to obtain something the person fundamentally is not, the inquiry remains trapped in lack. The doctrine developed here begins instead with what God declared in creation, follows the reality revealed in His Son, and considers what redemption accomplishes.
 
-This does not deny the reality of sin, corruption, or the need for redemption. The book has dealt directly with humanity's coming short of glory and with the justification and redemption that are in Christ Jesus. The point is that sin and redemption must be understood in relation to Design. The fact that humanity has come short does not mean that deficiency is the original Design. The redemptive work of Christ addresses the human condition and restores what has been lost or departed from; it does not reveal that God's original intention was deficiency.
+Sin, corruption, and the need for redemption are real. Humanity has come short of glory, and justification and redemption are in Christ Jesus. Yet sin and redemption must be understood in relation to Design. The fact that humanity has come short does not mean that deficiency is the original Design. The redemptive work of Christ addresses the human condition and restores what has been lost or departed from; it does not reveal that God's original intention was deficiency.
 
 Nor does acknowledgement of the God State authorise self-exaltation. Mark 11:20–25 begins with faith directed toward God and concludes with forgiveness. The surrounding scriptural witness presents the Son as the express image of the Father, believers as recipients of divine promises and inheritance through Him, and the life of faith as one that must be expressed in the qualities Peter names. The God State is not an excuse to disregard the character and conduct that Scripture requires. It is the state of Design being acknowledged and lived from, not a claim of autonomous power detached from God.
 
