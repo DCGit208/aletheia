@@ -469,3 +469,29 @@ The complete back-matter sequence was reviewed against the ten-chapter manuscrip
 - This reconciliation does not complete the remaining KJV quotation checks, reader-payload synchronization/deployment, designed-page proof, or author approval.
 
 **Step 3 status:** Back matter and reference reconciliation completed at manuscript level. Pagination-dependent and final designed-edition checks remain open.
+
+
+## Stage 3 — Step 4: reader synchronization, deployment, and live verification
+
+**Verification date:** 2026-11-10  
+**Deployed commit:** `b0929ea257f01476681827d372649480db72e2eb`
+
+### Repository and automated integrity
+
+- The ten chapter bodies in `src/lib/content/companion-faith.ts` were regenerated from the canonical document 14 manuscript using the exact extraction and normalization rules enforced by `scripts/check-doctrine-of-faith-publication.mjs`.
+- The chapter IDs and titles were preserved. The protected-content index, publication catalogue, entitled access setting, single Chapter 1 preview, and legacy eight-chapter archive were preserved.
+- The automated publication-integrity check passed: ten chapters, exact manuscript/reader parity, matching index, entitled access, one preview chapter, and legacy archive preserved.
+
+### Production deployment and live smoke tests
+
+- GitHub Actions Hosting run [42895098739](https://github.com/DCGit208/aletheia/actions/runs/42895098739) completed successfully on the deployed commit. It built the app, built and tested the protected-content function, deployed `getProtectedContent`, and deployed the live Hosting site `app.aletheiaworld.org`.
+- The anonymous production request to the protected-content endpoint passed and returned exactly one chapter, `ch-faith-1`, as required for public preview access.
+- The live catalogue URL `/publications/books/book-doctrine-of-faith` returned a successful HTTP response and contained the title “The Doctrine of Faith” and the original `doctrine-of-faith-seal.png` cover asset.
+- The live reader URL `/learn/read/book-doctrine-of-faith?chapter=ch-faith-1` returned a successful HTTP response.
+- GitHub Actions Cloud Functions run [42895098838](https://github.com/DCGit208/aletheia/actions/runs/42895098838) also completed successfully.
+
+### Verification boundary and remaining gates
+
+The live reader-route smoke test verifies that the route responds successfully; it does not establish that a signed-in entitled user has completed a full end-to-end reading session. Protected-content unit tests verify that entitled access returns all ten chapter records, while the anonymous production test verifies Chapter 1 only. A real signed-in entitled-account test remains open.
+
+**Step 4 status:** Reader payload synchronization, exact automated manuscript parity, successful function and Hosting deployments, anonymous preview verification, and live catalogue/cover/reader-route smoke tests completed. A real signed-in entitled-reader end-to-end test, designed-page proof, and author approval remain open. The book is **NOT YET PUBLICATION-READY**.
