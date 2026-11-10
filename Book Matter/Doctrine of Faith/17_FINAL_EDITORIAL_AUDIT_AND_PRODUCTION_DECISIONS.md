@@ -421,3 +421,23 @@ The canonical ten-chapter manuscript was fetched from `main` and reviewed again 
 - Fresh fetch confirms all ten approved chapter headings remain in order.
 - This completes **Step 1 only** of the current Stage 2 task list. It does not complete Stage 2. The reconciliation of Chapter 10 with the book-level conclusion, the full source-doctrine/Scripture/synthesis audit, and the opening-and-conclusion review remain to be carried out as separate steps. Quotation proof, specialist lexical verification, references, reader-payload parity, designed proof, and final approval remain separate controls.
 
+
+
+## 2026-11-10 — Stage 2, Step 2: Chapter 10 and book-level conclusion reconciled
+
+The final chapter and the separate book conclusion were compared directly in the canonical manuscript. The former conclusion repeated much of Chapter 10's chapter-level recap, including its catalogue of the book's passages and its extended restatement of the Mark 11 culmination. This blurred the distinction between the final chapter's doctrinal climax and the book's concluding synthesis.
+
+### Manuscript corrections committed
+
+- Renamed Chapter 10's final section from **“The doctrine brought to its conclusion”** to **“The state acknowledged in Christ”** so it reads as the chapter's own culminating exposition, not as a competing book conclusion.
+- Rewrote that section to focus on the author's formulation, **“Have the faith of God. Have the state of God,”** in Mark 11:20–25; it preserves the author's interpretive formulation, the immediate passage setting, prayer and forgiveness, and the necessary relation to Christ's person and redemptive work.
+- Rewrote the book-level conclusion to perform a distinct task: synthesize the whole book's movement from *hypostasis* and the source's *pistis* teaching, through creation, Psalm 82, participation in divine nature, deviation and redemption, Sonship and inheritance, and the oneness and glory of John 17.
+- The conclusion now refers to the Mark 11 formulation as the culmination already examined in Chapter 10 rather than repeating the chapter's exegesis. It ends with the two governing formulations and the inseparability of Christ's representation and redemptive accomplishment.
+
+### Verification and boundary
+
+- Manuscript commit: `c17d35d1d7f9fea0d56dbb14c6586a19709560a5`.
+- Fresh fetch returned manuscript content SHA `3cf6ff47d0a7283361aa8bc3b841db95ccbf8c8c`.
+- The ten approved chapter headings remain in their original order. Chapter 10 retains the Mark 11:20–25 culmination; the book-level conclusion now synthesizes the full argument without duplicating the chapter's detailed exposition.
+- This completes **Step 2 only**. The next Stage 2 steps remain: the source-doctrine/Scripture/ editorial-synthesis audit and the chapter-opening/conclusion review. Scripture quotation proof, specialist lexical verification, back-matter reconciliation, reader-payload parity, designed proof, and final author approval remain separate controls. The manuscript remains **NOT FINAL**.
+
