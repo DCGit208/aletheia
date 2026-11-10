@@ -272,3 +272,37 @@ The first reader synchronization pass had also carried the material after Chapte
 - Both files were refetched after their updates.
 
 This correction closes the identified Chapter 10 boundary/parity defect only. It does not certify the full developmental edit, quotation proof, lexical review, designed proof, production deployment, or final author approval.
+
+
+## 2026-11-10 — Intellectual editorial pass: current execution record
+
+The canonical manuscript received a further reader-facing doctrinal and literary refinement. This work was checked against the binding Writing and Production Control Document, the 2015 “Faith toward God” paragraph, the source-coverage map, the Scripture matrix, and the chapter-developmental register.
+
+### Changes committed
+
+- **Chapter 2:** Recast the closing section so that credence, the state of God's children, acceptance, true nature, adoption, the Spirit's witness, heirship, and the Father's pleasure are developed as a connected doctrinal exposition rather than a report on the source or a roadmap of later chapters.
+- **Chapter 3:** Removed premature exposition of Mark 11:22 and Psalm 82 from the earlier boundary correction; refined the source presentation and removed a redundant meta-level introduction to the chapter's design argument.
+- **Chapter 4:** Refined the opening and judgment-context discussion so Psalm 82's declaration and its demand for justice remain together; strengthened the direct account of Jesus' appeal in John 10.
+- **Chapter 5:** Reworked the opening to begin from the scriptural progression already established and 2 Peter 1:2–8; removed an administrative question about the former Hebrews 1:8 prompt from Chapter 8. Additional line-level work remains in Chapter 5.
+- **Chapter 6:** Recast the conclusion as direct doctrinal exposition, preserving the sequence of creation, true nature, deviation, justification, redemption, and representation.
+- **Chapter 7:** Rewrote the treatment of dikaioō, dikaiosynē, and apolutrōsis to distinguish the source's own glosses from their grammatical functions and from the wider restoration synthesis; strengthened Romans 3:21–28 and 2 Corinthians 5:17–21.
+- **Chapter 8:** Removed the abandoned Hebrews 1:8 question from the reader-facing exposition and clarified the inheritance transition.
+- **Chapter 9:** Refined the opening and prayer exposition to foreground the actual relationships Jesus names rather than commentary about the source's invitation.
+- **Chapter 10:** Tightened the opening and the section on sin and redemption so the God-State direction is stated positively while preserving the need for redemption.
+
+### Commits and verification
+
+- f7aeea1b4ef7e8fc9bd7a828d3dc0fa3e192b637 — Chapters 2, 6 and 7.
+- 31098a1a2e5863eaf72fea1b0b4e9d44bbb019a4 — targeted refinements in Chapters 3–5 and 8–10.
+- Both commits were followed by a fresh fetch of the canonical manuscript; the returned file was verified on main.
+
+### What this execution record does not certify
+
+This is not a declaration that the intellectual phase is complete. The following remain open:
+1. Complete line-by-line publication-level review of every paragraph in all ten chapters, including Chapter 1 and the remaining meta-language still visible in Chapters 3, 5, 8 and 9.
+2. Verify each Scripture quotation against the selected Bible text and then against the final reader-facing content.
+3. Verify every Hebrew and Greek spelling, transliteration, grammatical statement, and lexical claim against identified reference works.
+4. Reconcile every chapter's references, reflection questions, and cross-chapter transitions after the final edits.
+5. Recheck the conclusion and back matter against the finished chapter text.
+
+No unchecked quotation or lexical item is marked passed by this entry. The existing Scripture Quotation Proof Register remains the controlling proof checklist.
