@@ -429,3 +429,43 @@ The 2015 *Aletheia Libraries 1* leaflet remains the controlling source for its o
 The review found no basis to remove the author's controlling interpretations. The manuscript now states more precisely where lexical range, grammatical form, source gloss, and doctrinal synthesis differ. The *hypostasis* reading remains a deliberate authorial/doctrinal interpretation in the presence of a genuine scholarly range of readings; the source's *pistis* / credence teaching remains intact; the source's glosses for justification, righteousness, and redemption remain fully represented.
 
 This is a documented desk-based lexical and grammatical verification, not a signed specialist peer review or a fresh critical-edition collation of every Greek/Hebrew occurrence. Before publication, a qualified biblical-language specialist should review the final language notes and typeset forms, especially the interpretive treatment of Hebrews 11:1 and the source's theological reading of *’ĕlōhîm*. No claim of specialist certification is made here.
+
+
+## Stage 3 — Step 3: back matter and reference reconciliation
+
+**Review date:** 2026-11-10  
+**Canonical manuscript reviewed:** document 14, current version after Stage 3 Step 2.
+
+### Scope checked
+
+The complete back-matter sequence was reviewed against the ten-chapter manuscript and the existing source-control files:
+
+- Scripture Reference Guide;
+- Glossary of Key Terms;
+- Bibliography and Reference Works;
+- lexical notes for Romans 3:24 and redemption;
+- source notes for Genesis 1:27 and the leaflet's further-reading references;
+- note on source hierarchy and use;
+- front-matter translation/copyright statement;
+- internal chapter sequence and cross-reference language.
+
+### Reconciliation completed
+
+1. **Scripture Reference Guide:** All ten chapter rows were checked against the actual chapter content. The guide was revised so its principal references better reflect the argument in each chapter, including the Mark 11 and Sonship foundation in Chapter 1; the wider image/likeness, Psalm 82, John 10 and oneness connections in Chapter 3; the full glory/redemption cluster in Chapter 6; Romans 3:21–28 in Chapter 7; and the Sonship, inheritance, divine-nature and oneness connections in Chapters 8–10. The guide remains a principal-reference guide, not an exhaustive index of every cross-reference. Page numbers are intentionally deferred until pagination is fixed.
+2. **Chapter ordering and reference presentation:** The Chapter 1 guide entry now presents Hebrews references in canonical order rather than listing Hebrews 11 before Hebrews 1 and 3. The ten approved chapter headings and their sequence remain unchanged.
+3. **Glossary:** The *’ĕlōhîm* entry now reflects the verified distinction between plural noun form and singular verbal agreement in Genesis 1:26–27, while retaining the leaflet's “plural: Trinity” theological interpretation. The *spoudē* entry now identifies the actual form σπουδήν (*spoudēn*) and its accusative singular feminine parsing, matching the chapter's revised treatment.
+4. **Bibliography:** The MorphGNT entry has been replaced with a complete dataset citation: J. K. Tauber, editor, *MorphGNT: SBLGNT Edition*, version 6.12 (2017), repository and DOI. The manuscript now distinguishes the morphology dataset from the separately governed SBLGNT Greek text.
+5. **Lexical notes:** The explanation of *dikaioō* continues to distinguish Strong's and Thayer's entries and preserves Thayer's qualification. The *apolutrōsis* note distinguishes the source/Strong's “ransom in full” gloss from the wider restoration-to-Design synthesis. These notes are consistent with the glossary and Chapter 7.
+6. **Source hierarchy and attribution:** The 2015 Aletheia leaflet remains identified as the controlling source for its “Faith toward God” teaching and supplied glosses. The Dake *Bible Introduction* remains supplementary interpretive-method context. Neither is misrepresented as the authority for the other's content.
+7. **Genesis 1:27 source note and copyright:** The manuscript retains the TLB attribution and current Tyndale House Ministries credit. The leaflet's separate Life Application Bible parenthetical is recorded as part of its presentation, not elevated into verified edition-level provenance.
+8. **Internal structure:** The canonical manuscript still contains the approved ten chapters and a separate book-level conclusion. No page-number references have been invented before typesetting.
+
+### Outstanding matters not closed by this step
+
+- The Scripture Reference Guide is not a verse-by-verse exhaustive index; final page numbers must be inserted only after layout.
+- The precise edition/printing details of the supplied Dake introductory extract should be added only if they can be established from the source PDF or owner-supplied publication data; they have not been guessed.
+- The Life Application Bible parenthetical in the 2015 leaflet remains a source-provenance note, not an independently verified quotation attribution.
+- The bibliography and lexical notes still require final typeset proof for punctuation, italics, Greek/Hebrew glyph rendering, live URLs, and consistency with the final designed edition.
+- This reconciliation does not complete the remaining KJV quotation checks, reader-payload synchronization/deployment, designed-page proof, or author approval.
+
+**Step 3 status:** Back matter and reference reconciliation completed at manuscript level. Pagination-dependent and final designed-edition checks remain open.
