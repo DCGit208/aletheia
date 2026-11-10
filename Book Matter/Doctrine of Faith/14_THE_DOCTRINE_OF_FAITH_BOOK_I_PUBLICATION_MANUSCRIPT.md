@@ -483,15 +483,9 @@ Jesus answers:
 
 Jesus quotes Psalm 82:6—“I said, Ye are gods”—then refers to those “unto whom the word of God came” and declares that “the scripture cannot be broken.” The phrase “unto whom the word of God came” identifies the group in the argument by their relation to God's word; it is not, by itself, a complete explanation of their identity or office. Jesus' reasoning depends on the written testimony being acknowledged rather than dismissed. He then asks why His hearers accuse the One whom the Father sanctified and sent into the world of blasphemy for saying, “I am the Son of God.”
 
-Jesus deliberately brings the written statement into His answer to the accusation and affirms the authority of the Scripture He quotes: it cannot be broken.
+Jesus deliberately brings the written statement into His answer to the accusation. He identifies those addressed as people “unto whom the word of God came” and affirms that “the scripture cannot be broken.” He then asks why His hearers accuse the One whom the Father sanctified and sent into the world of blasphemy for saying, “I am the Son of God.”
 
-Jesus' wording deserves close attention. He does not quote Psalm 82 and then withdraw the declaration. He asks His hearers to reckon with what is written, identifies those addressed as people “unto whom the word of God came,” and places the unbreakable Scripture before their accusation. The phrase “the scripture cannot be broken” is not an incidental remark. It establishes that the written testimony He has invoked cannot be set aside simply because His hearers find His claim unacceptable.
-
-Jesus then places His own identity in the argument: “Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?” He identifies Himself as the One the Father sanctified and sent. The question is not whether the Scripture may be ignored, but why His hearers condemn Him for saying He is the Son of God when He has appealed to a scriptural declaration they themselves acknowledge.
-
-The wording must be kept exact. Jesus says that the word of God came to those He has just mentioned; He does not, in these verses, provide a complete account of the identity or history of every person addressed in Psalm 82. He does, however, insist that the Scripture stands and uses its language in answering the charge brought against Him. The doctrinal force of the passage cannot be reduced to a casual illustration.
-
-The Aletheia design teaching reads this appeal alongside Genesis 1:26–28 and the wider teaching on true nature and Sonship. John explicitly records Jesus' quotation, His statement about the word of God, His affirmation that Scripture cannot be broken, and His description of Himself as the One sanctified and sent by the Father. The wider conclusion about humanity's Design is developed through this testimony together with the connected Scripture set; John 10 should not be made to state every part of that conclusion in one sentence.
+The wording must remain exact. Jesus does not, in these verses, provide a complete account of the identity or history of every person addressed in Psalm 82. He does insist that the Scripture stands and uses its language in answering the charge brought against Him. The Aletheia design teaching reads this appeal alongside Genesis 1:26–28 and the wider teaching on true nature and Sonship. The wider conclusion about humanity's Design is developed through the connected Scripture set; John 10 should not be made to state every part of that conclusion in one sentence.
 
 ## John 10:37–38 — the works and mutual indwelling
 
@@ -540,21 +534,11 @@ Read together, Psalm 82 and John 10 hold the declaration and its judgment settin
 # Chapter 5 — Partakers of the Divine Nature
 ## The whole movement of 2 Peter 1:2–8
 
-Peter's statement about partaking of divine nature stands within a carefully connected sequence. He begins with grace and peace multiplied through the knowledge of God and of Jesus our Lord. Divine power has given what pertains to life and godliness through the knowledge of the One who called believers to glory and virtue. Great and precious promises have been given, and through these promises believers become partakers of the divine nature, having escaped the corruption that is in the world through lust.
-
-The order is important. Participation is not presented as an achievement detached from God's provision. The passage begins with what God has given: divine power, calling, knowledge, and promises. The participation described in verse 4 is grounded in that provision. The promises are not incidental encouragements; they are the means through which the stated participation is realised. The escape from corruption belongs to the same movement. Peter does not describe participation in divine nature while leaving the corruption of the world untouched.
-
-The passage then turns from divine provision to the believer's diligence. “And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge; and to knowledge temperance; and to temperance patience; and to patience godliness; and to godliness brotherly kindness; and to brotherly kindness charity” (2 Peter 1:5–7, KJV). The qualities are not a replacement for the promises or a means of earning divine nature. They describe the active development that must accompany the provision already received. Grace does not make diligence unnecessary; divine provision establishes the ground on which diligence is exercised.
-
-Peter's sequence is cumulative. Faith is accompanied by virtue; virtue by knowledge; knowledge by temperance; temperance by patience; patience by godliness; godliness by brotherly kindness; and brotherly kindness by charity. The list is not a set of unrelated virtues from which a person may select. Each quality is to be supplied in the life of faith, and the closing command to add charity brings the movement to its relational expression.
-
-Verse 8 states the consequence: if these things are in believers and abound, they make them that they shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ. The test is not the mere ability to repeat the phrase “partakers of the divine nature.” Peter connects participation with a life in which the qualities he names are present and increasing. The passage therefore holds together what God gives, what the promises make possible, what believers escape, the diligence they exercise, and the fruitfulness that results.
+Peter's statement about partaking of divine nature stands within a connected sequence. The passage moves from grace and peace through the knowledge of God and Jesus our Lord, to divine provision for life and godliness, the promises through which believers become partakers of divine nature, escape from corruption, the diligence and qualities named in verses 5–7, and the fruitfulness described in verse 8. The order matters: participation is grounded in what God gives, and it is accompanied by a life in which Peter's stated qualities are present and increasing. The sections that follow examine this movement in its own words and sequence.
 
 ## From created image to participation in divine nature
 
-Genesis 1:26–28 declares humanity's creation in God's image and likeness; 2 Peter 1:2–8 describes participation in divine nature through the promises given by God's power. The Aletheia teaching connects these passages in its account of true nature. Their wording remains distinct: Genesis records the original creation, while Peter describes the provision, participation, escape from corruption, and fruitful life given through Christ.
-
-Participation in divine nature must therefore be read within Peter's full movement. The promises, escape from corruption, and qualities named in verses 5–8 are not optional additions; they belong to the same passage.
+Genesis 1:26–28 declares humanity's creation in God's image and likeness; 2 Peter 1:2–8 describes participation in divine nature through God's promises. The Aletheia teaching connects these passages in its account of true nature, while their distinct wording and contexts remain intact: Genesis records creation, and Peter describes participation and the life that follows from God's provision.
 
 ## Knowledge, divine power, and the call
 
