@@ -333,3 +333,40 @@ At the author's instruction, Stage 1 proceeded from the developmental register i
 ### Verification boundary
 
 These commits record actual manuscript changes. They do not certify the complete integrated read-through, quotation proof, specialist lexical proof, reader-payload parity, designed proof, or final author approval. The manuscript remains **NOT FINAL**.
+
+
+## 2026-11-10 — Stage 2 integrated editorial review: first execution
+
+The ten-chapter manuscript was read as a continuous sequence after the Stage 1 amendments. This first integrated pass addressed concrete repetition, transitions, and reader pedagogy defects revealed by reading across chapter boundaries.
+
+### Corrections made
+
+- **Chapter 1:** Removed the redundant “Faith as the underlying state, not a performance” subsection after its central reasoning had been developed more fully in “From substance to state.” Tightened the synthesis paragraph so that the distinct roles of *hypostasis* and *pistis* are stated once, clearly.
+- **Chapter 2:** Replaced the final reflection question that asked readers to conduct an editorial provenance audit with a question testing the relationship among credence, sonship, adoption, and the Father's pleasure.
+- **Chapter 3:** Removed the repeated architecture-summary list and condensed the conclusion into a direct synthesis and a natural bridge to Psalm 82 and John 10. Removed a duplicate post-exercise transition.
+- **Chapter 5:** Reduced repeated explanation of the Genesis/Peter relationship and consolidated the chapter's closing argument around the actual movement of 2 Peter 1:2–8: divine provision, promises, participation, escape, diligence, and fruitfulness.
+- **Chapter 6:** Replaced an editorial roadmap with a reader-facing explanation of why the question “Why did Jesus come?” follows the creation and glory testimony. Reframed the reflection question so it tests the doctrinal connection rather than source-provenance procedure.
+- **Chapter 8:** Removed a repeated roadmap paragraph that restated the chapter's two movements.
+- **Chapter 9:** Removed a repeated closing explanation of the transition from John 17 to 2 Corinthians 4 and kept the transition once.
+
+### Commit and verification
+
+- Integrated editorial commit: `d40108c0dd5bf4b331f3a3162ac19368d707ddb4`.
+- Further chapter-flow and pedagogy commit: `ec399786f60927250eb263f617b027876814fef3`.
+- Reader-facing prose and reflection-question commit: `b3f813b1a9b6a207fcd94bc28e596f666970fa12`.
+- Fresh fetch of the canonical manuscript returned content SHA `cc4f3d4ef33b39e183019cedbcafc725e4a5554f`.
+- Chapter boundary scan confirms ten chapter headings in the approved order:
+1. # Chapter 1 — Faith as Hypostasis: Substance and Underlying Reality (line 90)
+2. # Chapter 2 — Pistis: Credence, Acceptance and Sonship (line 167)
+3. # Chapter 3 — Elohim: Image, Likeness and Human Design (line 300)
+4. # Chapter 4 — Ye Are Gods: Psalm 82 and the Testimony of Jesus in John 10 (line 432)
+5. # Chapter 5 — Partakers of the Divine Nature (line 568)
+6. # Chapter 6 — Why Did Jesus Come? The Glory We Came Short Of (line 670)
+7. # Chapter 7 — Justification, Righteousness and Redemption in Christ (line 861)
+8. # Chapter 8 — The Son and the Heir: Our Inheritance in Christ (line 1007)
+9. # Chapter 9 — Our Oneness with the Father and the Glory of God (line 1183)
+10. # Chapter 10 — Have the Faith of God: Faith as the State of God (line 1294)
+
+### Remaining Stage 2 work
+
+This is the first integrated pass, not the final sign-off. The next read must focus on the continuity and balance of the entire argument, especially the distinction between the source's doctrinal formulations and the manuscript's scriptural synthesis; remove any remaining process-language that does not serve the reader; and check the conclusion against the final chapter. Scripture quotation proof, original-language specialist verification, back-matter reconciliation, and reader-payload parity remain separate required controls. The manuscript remains **NOT FINAL**.
