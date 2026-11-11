@@ -89,80 +89,163 @@ The chapters are intended to be read in sequence. Each develops a part of the ar
 
 # Chapter 1 — Faith as Hypostasis: Substance and Underlying Reality
 
-## The foundation named by the writer of Hebrews
+## The question Hebrews places before us
 
-The declaration that faith is substance must be read where Scripture places it: within an argument about endurance, confidence, and the life of those who belong to God. Hebrews does not introduce faith as a technique for obtaining desired outcomes. It brings faith into view as the foundation by which the people of God continue in the reality of what He has spoken.
+The writer of Hebrews does not introduce faith as a method for obtaining things, nor does he begin by describing a person's ability to persuade himself that an outcome will occur. He is addressing people who have heard the word of God, endured hardship, and are being urged not to abandon their confidence. His concern is the life that continues in fidelity to God when the promise has not yet appeared in its fullness.
 
-Hebrews 10:32–39 recalls the readers' earlier experience. They had endured a great struggle, public reproach and affliction; they had stood with others who suffered; they had accepted the seizure of their possessions, knowing that they had a better and enduring substance. They are therefore urged not to cast away their confidence, which has great recompense of reward. They have need of patience, so that after doing the will of God they may receive the promise. The writer then declares that the just shall live by faith and warns against drawing back.
+The argument leading to the familiar declaration in Hebrews 11 begins earlier. In Hebrews 5:11–14, the writer interrupts his discussion of Christ because his readers have become dull of hearing. They ought by this time to be teachers, yet they need to be taught again the first principles of the oracles of God. They are still taking milk when they should be able to receive strong meat. The distinction is not between simple people and clever people. It is between immaturity and maturity: the mature have their faculties exercised through use to discern both good and evil.
 
-This movement matters. The statement about faith in Hebrews 11 does not appear in isolation. It follows an appeal to remain steadfast in the face of pressure. The readers are not being told to manufacture confidence for a moment. They are being directed to continue in the reality to which they have already committed themselves, because the promise of God is not made void by what is presently seen.
+This rebuke establishes the seriousness of what follows. The difficulty is not that the truth is inaccessible or that the subject is reserved for a special class. The readers have failed to advance in their grasp and use of what they have already received. The writer therefore calls them beyond the elementary instruction and toward maturity.
 
-Hebrews 6:1 had earlier named “faith toward God” among the foundations from which believers are to go on to maturity. Hebrews 10:38–39 then places the life of the just in relation to faith. At the opening of chapter 11, the writer gives the defining statement:
+Hebrews 6:1–3 continues that movement. The writer names the foundation of repentance from dead works and faith toward God, together with the other first principles, and calls the readers to go on unto perfection. Faith toward God is therefore not introduced as an isolated technique. It belongs among the foundations of the doctrine of Christ, and the instruction is meant to lead to maturity rather than leave the hearer perpetually at the beginning.
+
+Later, Hebrews 10:32–39 returns to the practical condition of these readers. They had endured a great struggle, public reproach and affliction; they had stood with others who suffered; and they had accepted the loss of their possessions, knowing that they had a better and enduring possession. The writer tells them not to cast away their confidence, because it has great recompense of reward. They need patience so that, after doing the will of God, they may receive the promise. The just shall live by faith; the one who draws back does not please God.
+
+The sequence is deliberate. Hebrews 5 exposes arrested maturity. Hebrews 6 names faith toward God among the foundations from which believers must advance. Hebrews 10 calls the readers to endurance in the face of suffering and delay. Hebrews 11 then opens by stating what faith is in relation to hope and the unseen. The definition belongs to this argument about the life of God's people; it is not detached from the promise, the endurance, or the maturity to which they are called.
 
 > “Now faith is the substance of things hoped for, the evidence of things not seen.” — Hebrews 11:1 (KJV)
 
-The sentence identifies two dimensions: *hypostasis* in relation to things hoped for, and *elenchos* in relation to things not seen. They belong together in the verse. This chapter gives its sustained attention to the first expression, without separating it from the second or pretending that the second is absent. The evidence dimension will receive its fuller treatment in the companion volume, *Faith Is Evidence*.
+The verse gives two expressions that must be held together: *hypostasis*, rendered “substance,” and *elenchos*, rendered “evidence.” This first book concentrates on the foundation expressed by *hypostasis*. It does not erase the second clause. The evidence dimension is developed in the companion volume, *Faith Is Evidence*. Here we must understand the first expression well enough to see why the writer calls faith substance.
 
-## What Hebrews 11:1 calls substance
+## What the word substance contributes
 
-The Greek noun translated “substance” is **ὑπόστασις (*hypostasis*)**. The King James rendering is significant because it directs attention to substance, that which stands beneath or constitutes the underlying reality of a thing. The word has a range of uses; its meaning cannot be settled by breaking it into parts or importing every possible dictionary gloss into one verse. It must be read in its sentence and in the argument in which the sentence occurs.
+The Greek noun translated “substance” is **ὑπόστασις (*hypostasis*)**. Its established usage includes such ideas as substance, actual reality, underlying being, foundation, and—according to context—firmness, confidence, or assurance. The word must be understood in its sentence, not by assigning every possible dictionary gloss to one occurrence. Its parts or etymological formation may provide a memory aid, but they cannot determine the meaning by themselves.
 
-In Hebrews 11:1, the writer does not say merely that faith produces a feeling of certainty about something hoped for. Nor does he define faith as the act of wishing that something unseen might become real. He calls faith the *hypostasis* of what is hoped for. The wording places faith in the category of substance and underlying reality.
+The King James Version's “substance” is not an empty or accidental rendering. It directs the reader to the reality that stands beneath what is hoped for. The writer does not say that faith is merely a strong feeling about a future possibility. He calls it the *hypostasis* of things hoped for. The object of hope is not made real by the intensity of a person's imagination; rather, faith is described in substantial terms in relation to what God has promised.
 
-The phrase “of things hoped for” must remain attached to the statement. The writer is not offering an abstract definition detached from the hope of which he has been speaking. Hebrews 10 has already directed the readers toward the promise, the reward, and the enduring possession that they are not to abandon. Faith is named in relation to that hope. The reality of what God has promised is not measured by the visibility of its present fulfilment.
+The phrase “things hoped for” is essential. Hebrews has already spoken of the promise, the recompense of reward, and the enduring possession. The readers are being asked to remain steadfast even though their present circumstances do not display the fullness of what has been promised. Their possessions may be taken; their bodies may suffer; the promise may not yet be visible in its completed form. Yet the unseen or not-yet-received character of the promise does not make God's word unreal.
 
-This is why “substance” must not be reduced to a synonym for confidence as a passing psychological condition. Confidence is part of the surrounding exhortation, but the declaration in Hebrews 11:1 is more specific: faith is *hypostasis*. It concerns the underlying reality associated with what is hoped for. The verse therefore directs our attention beyond the act of saying that we believe and toward the nature of the reality in which faith stands.
+The word *hypostasis* therefore brings the inquiry to the underlying reality of faith. It does not invite us to confuse hope with wishful thinking, or substance with the material appearance of an outcome. Nor does it teach that a person can create whatever he desires by declaring it. The passage is about God's promise and the life that remains aligned with it. Faith is named in relation to that reality, while the surrounding exhortation shows the endurance through which that relation is lived.
 
-That distinction is foundational. A person may speak about faith, repeat the language of faith, or attempt to display confidence. None of those actions, considered by themselves, explains the substance named in Hebrews 11:1. The question is not simply what a person says about an unseen promise. The question is what reality faith is.
+There is a genuine interpretive question here. Some lexical treatments and commentators understand *hypostasis* in Hebrews 11:1 as firm confidence or assurance. That reading has a place in the passage: Hebrews 10 has just urged the readers not to cast away their confidence, and Hebrews 11 describes people who act in reliance on what God has spoken before they see its fulfilment. “Assurance” must not be caricatured as a passing emotion or shallow optimism. In this context it is steadfast reliance upon the Promiser.
 
-## The word in Hebrews 1:3
+But the confidence reading does not require us to discard the KJV's “substance,” nor does it exhaust the doctrinal question raised by the word. Confidence in Hebrews is not confidence in one's own ability to produce an outcome. It is confidence grounded in the reality and faithfulness of God. The substance language directs attention to what underlies that confidence: the reality of the promise and the foundation on which the faithful life stands. This book takes that substance and underlying-reality emphasis as its governing foundation, while recognising that the exhortation to assurance and endurance remains part of the same argument.
 
-The same Greek noun appears in Hebrews 1:3, where the Son is described as “the express image of his person” (KJV). The expression translated “express image” is **χαρακτὴρ (*charaktēr*)**, and the word translated “person” is **ὑποστάσεως (*hypostaseōs*)**, a form of *hypostasis*.
+The distinction matters because the doctrine under consideration is not simply that a person should feel certain. It asks what faith is, what kind of reality it concerns, and what that reality reveals about the person who lives in relation to God. The answer cannot be supplied by a dictionary entry alone. It must be developed through the scriptural use of the word and through the connected teaching that Scripture gives concerning the Son, humanity's Design, and the state of God's children.
 
-Hebrews 1:1–3 sets out the supremacy and identity of the Son. God, who spoke in times past through the prophets, has spoken in these last days by His Son. The Son is appointed heir of all things; through Him the worlds were made. He is the brightness of God's glory and the express image of His person. He upholds all things by the word of His power and, having purged our sins, sits at the right hand of the Majesty on high.
+## The same word in the revelation of the Son
 
-The statement in verse 3 is not a dictionary definition of *hypostasis*. Its grammatical and theological work is specific: the Son is the express image of the Father's *hypostasis*. The Son reveals the Father's being and glory. The text does not use the word in precisely the same grammatical construction as Hebrews 11:1, and the two verses must not be collapsed into one another. Yet their shared use of the noun is important. Hebrews uses *hypostasis* in speaking both of the Father's person, whose express image is the Son, and of faith as the substance of things hoped for.
+Hebrews itself provides an important comparison. Hebrews 1:1–3 declares that God, having spoken in times past through the prophets, has spoken in these last days by His Son. The Son is appointed heir of all things; through Him God made the worlds; He is the brightness of God's glory and the express image of His person; He upholds all things by the word of His power; and, having purged our sins, He sat down at the right hand of the Majesty on high.
 
-The relationship invites careful attention to substance and reality. In Hebrews 1, the Son is not presented as an uncertain representation of God. He is the express image of the Father's person. In Hebrews 11, faith is not presented as a mere mental exercise concerning hope. It is called the substance of what is hoped for. The shared term places both passages within a scriptural consideration of underlying reality, while each passage retains its own meaning and force.
+The phrase “express image” translates **χαρακτήρ (*charaktēr*)**, while “person” translates a form of **ὑπόστασις (*hypostasis*)**. The Son is presented as the exact expression of the Father's being. He does not give an uncertain or partial picture of the Father. The passage places the Son's identity, glory, heirship, creative relation, sustaining power, and redemptive accomplishment together.
 
-## The Design in which humanity was created
+This occurrence is significant for our study because Hebrews uses the same noun in speaking of the Father's person and in describing faith as the substance of things hoped for. The comparison does not make the two verses grammatically identical. In Hebrews 1:3, the Son is the *charaktēr* of the Father's *hypostasis*. In Hebrews 11:1, faith is the *hypostasis* of things hoped for. The referents and constructions differ. We must not claim that Hebrews 1:3, by itself, defines the meaning of Hebrews 11:1 or says that the believer is the Father's *hypostasis*.
 
-The question of faith as underlying reality cannot be developed without recognising the account of humanity's creation. Genesis 1:26 records God's declaration:
+What the comparison does establish is that *hypostasis* is used in Hebrews in a context of real being and personal reality, not merely as a label for a passing mental impression. In chapter 1, the Son reveals the Father's being. In chapter 11, faith is described in substantial terms in relation to what is hoped for. The shared word warrants careful comparison, and the distinct contexts tell us how far the comparison may be taken.
+
+Hebrews 3:14 provides a further control: “For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end” (KJV). The noun translated “confidence” is again *hypostasis*. Here the writer plainly connects it with a firm holding that continues to the end. This occurrence prevents us from insisting that the word can carry only one English gloss. It also confirms that the writer's concern is not an isolated moment of certainty but a persevering participation and allegiance.
+
+Read together, Hebrews 1:3, 3:14, and 11:1 give us a richer foundation. The Son is the express image of the Father's being; believers are called to hold their *hypostasis* firmly; and faith is named as the *hypostasis* of things hoped for. These statements are not interchangeable definitions. They do, however, place the word within a scriptural field of reality, personal being, and steadfast relation to what God has made known. The foundation of this book begins there.
+
+## Faith and the state of God's children
+
+The relationship between Hebrews 11:1 and the teaching on “Faith toward God” in the 2015 Aletheia leaflet must now be made clear. The leaflet begins its treatment with Hebrews 6:1: “and of faith toward God.” It identifies the Greek word **πίστις (*pistis*)** as “credence” and states:
+
+> “Faith essentially defines our state as children of God.”
+
+It then connects credence with acceptance, true nature, and “espousal - adoption as Sons of God,” citing Galatians 4:5–7, Romans 8:15, and Ephesians 1:5. It proceeds to connect this acceptance or approval with humanity's true nature from creation, referring to Genesis 1:26–27, 2 Peter 1:4, and Psalm 82:6. The leaflet then asks why Jesus came, places Romans 3:23–24 before the reader, and connects justification and redemption with the glory from which humanity came short.
+
+The source's statement is direct and important. It does not define faith merely as a person's agreement with a religious proposition. It says that faith defines the state of God's children. It uses *pistis*, not *hypostasis*, and it does not quote Hebrews 11:1 in this section. We must preserve that distinction. The leaflet supplies the explicit teaching about *pistis*, credence, state, acceptance, true nature, and adoption. Hebrews 11:1 supplies the substance statement through *hypostasis*. The connection between them is the doctrinal reasoning developed in this book; it must not be misrepresented as though the leaflet itself had made the lexical comparison.
+
+Why does this connection matter? Because the question raised by Hebrews 11:1 is not exhausted by asking whether a person feels assured about something not yet seen. The Aletheia source directs us to ask what faith defines about the person. If *pistis* defines the state of God's children, and Hebrews names faith as *hypostasis* in relation to what is hoped for, then the study must consider faith not merely as an act performed by the mind but in relation to the underlying reality and state of the person who belongs to God.
+
+This is the author's governing synthesis: **faith is our state by Design.** It is not a claim that *pistis* and *hypostasis* are synonyms. It is not a claim that Hebrews 11:1, standing alone, contains every element of the doctrine. It is the conclusion reached by bringing the substance language of Hebrews into relation with the Aletheia source's explicit teaching about credence and the state of God's children, and then following the scriptural account of the nature for which humanity was created and the restoration accomplished in Christ.
+
+The following chapters will give the source's teaching on *pistis*, acceptance, adoption, and Sonship its full development. This chapter establishes why that teaching belongs in a study of *hypostasis*: the substance of faith cannot be treated as an abstraction detached from the person whose state the source says faith defines.
+
+## The Design revealed in the creation of humanity
+
+The leaflet grounds its account of true nature in Genesis 1:26–27. The passage records God's declaration:
 
 > “And God said, Let us make man in our image, after our likeness...” — Genesis 1:26 (KJV)
 
-Verse 27 then states that God created man in His own image, and that male and female He created them. This is not a description of an identity humanity later invented or acquired through human achievement. It is the account of what God created. Image and likeness belong to the original declaration of human Design.
+It then states:
 
-The passage must be allowed to say what it says. It establishes humanity's creation in the image and likeness of God. The fuller implications of the Hebrew term *Elohim*, the language of Psalm 82, and Jesus' use of that Psalm belong to their respective chapters, where those texts can be examined in context. Here, Genesis establishes the created Design to which the doctrine of faith must be related.
+> “So God created man in his own image, in the image of God created he him; male and female created he them.” — Genesis 1:27 (KJV)
 
-The New Testament also speaks of participation in divine nature. Second Peter 1:2–4 connects the knowledge of God and Jesus our Lord with divine power, life and godliness, the promises given, and becoming “partakers of the divine nature” (KJV). Peter also speaks of escape from the corruption that is in the world through lust. The statement is not an invitation to invent a nature for ourselves. It places participation in divine nature within the provision and promises of God. The passage's further development, including the qualities that must abound in the believer, requires its own full treatment.
+The movement from verse 26 to verse 27 is important. Verse 26 records God's declared intention; verse 27 records the act of creation in accordance with that declaration. Humanity's image and likeness are not achievements that human beings devised for themselves. They belong to the Design expressed in the Creator's own words and enacted in creation.
 
-Mark 11:22 will later bring the language of faith and the state of God into direct focus. Here it serves only as a bridge from the foundation of faith to the Design inquiry. Its wording must be read with the fig-tree incident, the mountain saying, prayer, and forgiveness in Mark 11:20–25; the fuller doctrinal treatment belongs to the later chapters.
+The leaflet describes this as man's “true nature” and connects it with 2 Peter 1:4 and Psalm 82:6. The precise development of *Elohim*, the language of Psalm 82, and Jesus' treatment of that Psalm belongs in the chapters devoted to those passages. Here, the point is foundational: the Aletheia teaching does not introduce the state of God's children as an arbitrary status unrelated to creation. It places acceptance and true nature in relation to the image and likeness in which humanity was made.
 
-Genesis and Peter therefore establish an important part of the doctrinal setting: humanity's creation in God's image and likeness, and the scriptural declaration concerning participation in divine nature. They do not, by themselves, supply a complete definition of *hypostasis*. The definition in this chapter remains anchored in Hebrews 11:1, read in its context. The wider passages show why the question of faith's substance must be considered in relation to the nature and Design of the person.
+This does not mean that Genesis 1:26–27 uses the later doctrinal phrase “faith is our state.” It does not. Genesis establishes the created Design; the leaflet connects that Design with true nature and the state of God's children; Hebrews 11:1 supplies the language of substance. The synthesis becomes intelligible when each text is allowed to contribute its own part.
 
- ## From substance to state: *hypostasis*, *pistis*, and true nature
+The scope of the creation declaration is also wider than a private spiritual feeling. Genesis 1:26–28 continues with blessing, fruitfulness, multiplication, filling the earth, subduing it, and dominion. The image and likeness are spoken over humanity in a context of purpose and operation. The human being is created with a place in God's ordered world and with a commission. Design therefore concerns what humanity is and the purpose for which humanity exists.
 
-The distinction between *hypostasis* and *pistis* is essential to the foundation of this book. Hebrews 11:1 uses *hypostasis* for the substance of things hoped for. The Aletheia teaching on “Faith toward God,” by contrast, takes up *pistis* and identifies it as “credence,” stating that faith essentially defines the state of God's children. The leaflet does not use *hypostasis* to make this statement, and Hebrews 11:1 does not itself give a grammatical definition of human nature. The two lines must therefore be brought together by interpretation, not by pretending that they are the same word or that one source says what the other says.
+This is why the inquiry into faith cannot be reduced to a technique for receiving desired things. The foundation is not the human desire; it is God's Design and the reality of the relationship He established. To understand faith as the state of God's children is to ask how the person stands in relation to that Design and to the God whose image and likeness are named in the creation account.
 
-The substance reading gives the inquiry its foundation. In Hebrews 10:35–39, confidence is something the readers must not cast away; they need patience as they continue toward the promise. Hebrews 11:1 then names faith as *hypostasis* in relation to what is hoped for. The language of assurance or confidence is relevant to the passage's exhortation, and it must not be ignored. Yet the verse's “substance” wording directs attention beyond the psychological strength of a person's confidence to the underlying reality associated with God's promise. Faith is not merely the intensity with which a person expects an outcome. It concerns the reality in which hope stands.
+## The testimony of faith: good report and the pleasure of God
 
-The leaflet's use of *pistis* brings a different but related question into focus: what does faith define about the person? Its answer is explicit—faith defines the state of God's children. It connects credence with acceptance, true nature, and adoption as sons, drawing on Galatians 4:5–7, Romans 8:15, and Ephesians 1:5. The source is not merely describing a person's mental agreement with a proposition. It places faith in the identity and state of those who belong to God. Chapter 2 develops that teaching through the cited passages and the Father's testimony concerning the Son.
+Hebrews 11 does not leave its opening statement as an abstract definition. Verse 2 says that by faith the elders obtained a good report. The chapter then gives examples of people whose lives bore witness to their relation to God and His word. Abel's offering testified to his standing; Enoch obtained testimony that he pleased God; Noah acted upon a warning concerning things not yet seen; Abraham obeyed the call to go out without knowing where he was going.
 
-The relationship between the two lines is now clear. *Hypostasis* names the substance associated with what is hoped for; the leaflet's *pistis* teaching identifies faith with the state of God's children. Hebrews 11:1 supplies the foundation, while the source's teaching on credence, acceptance, true nature, and Sonship gives the state its explicit doctrinal expression. Read with Genesis 1:26–28, 2 Peter 1:2–4, and the Son who is the express image of the Father's person, these distinct testimonies support the book's synthesis: **faith is our state by Design**.
+The sequence concerning Enoch is especially important. Hebrews 11:5 says that before his translation he had the testimony that he pleased God. Verse 6 immediately states:
 
-This foundation also keeps the person and work of Christ together. The Son reveals the Father's person and glory, and Hebrews 1:3 declares that He purged our sins. His representation shows the reality toward which the Design argument points; His redemptive accomplishment is not optional or secondary. The state of the children is understood through the Son and the work through which redemption and adoption are given.
+> “But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.” — Hebrews 11:6 (KJV)
 
+The writer links faith with the life that pleases God. The person who comes to God acknowledges that He is and that He rewards those who diligently seek Him. Faith is not presented as an ornament added to an otherwise unrelated life. It is inseparable from the person's approach to God and the testimony that such a life bears.
 
+The author's additional inquiry brings this passage into relation with the Father's declaration over Jesus. At the baptism of Jesus, the Father says:
 
+> “This is my beloved Son, in whom I am well pleased.” — Matthew 3:17 (KJV)
 
-## The foundation established
+Matthew 3:17 explicitly declares Jesus to be the beloved Son in whom the Father is well pleased. Hebrews 11:5–6 explicitly connects Enoch's testimony of pleasing God with faith. Neither passage by itself states the formula “Sonship is faith.” The doctrinal question arises from bringing these testimonies together: what is the relation between the state of the Son, the Father's pleasure, and the faith by which a person pleases God?
 
-Hebrews 11:1 calls faith *hypostasis*—substance. Hebrews 1:3 describes the Son as the express image of the Father's *hypostasis*. Genesis 1:26–27 declares that humanity was created in God's image and likeness. Second Peter 1:2–4 speaks of the promises through which believers become partakers of the divine nature. Each passage contributes its own testimony; none should be made to say what belongs to another.
+That question must be pursued carefully. Jesus' Sonship is unique; He is the Son through whom God has spoken, the appointed heir of all things, and the express image of the Father's person (Hebrews 1:1–3). Enoch's testimony does not make him equal to Christ, nor does Matthew's declaration erase the distinction between the Son and those who are adopted through Him. The comparison concerns the relation of Sonship, the Father's pleasure, and the state in which a life corresponds to God. The later chapter on *pistis* and Sonship will develop adoption through the passages the leaflet itself cites.
 
-Taken together, they establish the foundation from which the doctrine proceeds. Faith is not merely a mental act directed toward an object outside the person. It is named as substance, and its meaning must be considered in relation to the reality of God's promise and the Design in which humanity was created. The Son reveals the Father's person and glory, and His redemptive work remains central to the restoration developed throughout this doctrine.
+For this foundation chapter, Hebrews 11 establishes that faith is recognised through testimony and a life that pleases God. The examples that follow show this faith at work in obedience, judgment, allegiance, and endurance. Noah acts because he takes God's warning seriously. Abraham responds to the call of God. Moses chooses identification with God's people rather than the temporary treasures of Egypt. These are not examples of people merely repeating a statement of belief. Their actions reveal the orientation of their lives toward the reality and word of God.
 
-**Faith is our state by Design. Jesus represents who we are by Design.** These are not detached slogans. They are the doctrinal conclusions toward which the connected scriptural testimony directs the inquiry. The chapters that follow develop the dimensions of that foundation without confusing their distinct responsibilities.
+Yet Hebrews also prevents a simplistic conclusion that faith always means receiving the visible outcome immediately. Hebrews 11:13 says that these all died in faith, not having received the promises, but seeing them afar off and embracing them. Their faith did not depend on possessing the completed promise in their lifetime. They continued in relation to what God had spoken. Substance and endurance therefore belong together: the reality of God's promise is not cancelled by the fact that its fulfilment remains unseen.
+
+## Christ: the revelation of Design and the accomplishment of redemption
+
+The foundation established so far leads to Christ, but two questions about Him must remain together. What does He reveal, and what has He accomplished?
+
+Hebrews 1:2–3 presents the Son as the one through whom God made the worlds, the appointed heir of all things, the brightness of God's glory, and the express image of the Father's person. The Son reveals the Father. His representation is not detached from His work: the same passage declares that He purged our sins. The one who reveals the Father's glory is also the one through whom cleansing has been accomplished.
+
+The Aletheia leaflet connects humanity's true nature and the glory from which humanity came short with Romans 3:23–24:
+
+> “For all have sinned, and come short of the glory of God; Being justified freely by his grace through the redemption that is in Christ Jesus.” — Romans 3:23–24 (KJV)
+
+The movement in these verses is not from an insignificant mistake to a merely external label. Humanity has sinned and come short of the glory of God; justification is given freely by grace through the redemption in Christ Jesus. The leaflet's explanation connects this coming short with deviation from true nature and identifies Christ as the image and glory of God, drawing also on 1 Corinthians 11:7 and 2 Corinthians 4:4,6.
+
+The source's treatment of justification and redemption will receive its full exposition later. At this point, their place in the foundation must be recognised. If the question is the state for which humanity was designed, then the account cannot stop at creation as though the human story had never been disrupted. Scripture speaks of sin and coming short; it also speaks of justification and redemption in Christ. The Design revealed in creation and the restoration accomplished through Christ belong in the same doctrinal account.
+
+The owner's formulation captures the relationship: **Jesus represents who we are by Design.** This does not mean that Jesus is merely an example or that His unique identity is transferred without distinction to every human being. Hebrews presents Him as the Son and heir; the leaflet's cited adoption texts describe the state given to God's children through Him. Christ's person reveals the glory of the Father, while His redemptive accomplishment addresses the human condition described as sin and coming short. His representation and His work must not be separated.
+
+Second Corinthians 4:4 calls Christ “the image of God,” and verse 6 speaks of the knowledge of the glory of God in the face of Jesus Christ. These statements belong to the same broad line of thought as Hebrews 1:3: the glory of God is made known in the Son. They help explain why the source turns from humanity's coming short of glory to Christ. The answer to the human deviation is not a self-created identity. The answer is found in Christ, in whom God's glory is revealed and redemption is accomplished.
+
+The complete implications of this restoration—justification, righteousness, adoption, heirship, participation in divine nature, and oneness with the Father—will be unfolded in their proper chapters. Chapter 1 does not need to exhaust those teachings to establish why they belong to the doctrine of faith. It must show that faith as substance is being considered in relation to the reality of God's Design and the restoration that is in Christ.
+
+## The foundation and the direction of the book
+
+The argument of this chapter has moved through a connected sequence. Hebrews addresses readers who must grow from immaturity into maturity. It names faith toward God among the foundations of the doctrine of Christ, calls the readers to endure in relation to the promise, and then declares faith to be the *hypostasis* of things hoped for. The word carries a range that includes substance and underlying reality, while its use elsewhere in Hebrews also illuminates confidence and steadfastness. The Son is the express image of the Father's *hypostasis*. The Aletheia leaflet then gives the explicit teaching that *pistis*, credence, defines the state of God's children and connects that state with acceptance, true nature, and adoption. Genesis supplies the creation account to which the source relates true nature; Hebrews 11 connects faith with good report and pleasing God; and Christ is presented as both the revelation of divine glory and the one who has purged sins.
+
+These are not identical statements, and the doctrine does not depend on pretending that they are. *Hypostasis* and *pistis* are distinct words. Hebrews 11:1 does not quote the leaflet's statement about the state of God's children. Genesis does not use the later formulation “faith is our state.” Matthew 3:17 does not define faith as Sonship. Rather, the passages contribute distinct parts of a connected scriptural argument, and the Aletheia source makes the state of God's children explicit within its teaching on faith toward God.
+
+The conclusion governing this book is therefore not a dictionary definition or an isolated proof-text. It is the doctrinal synthesis that emerges from the foundation and its scriptural connections:
+
+**Faith is our state by Design.**
+
+And Christ must remain central to the meaning of that statement:
+
+**Jesus represents who we are by Design.**
+
+The chapters that follow will develop the source's teaching on *pistis*, credence, acceptance, and adoption; the image and likeness in which humanity was created; the divine nature; the testimony of Psalm 82 and Jesus' use of it; the glory from which humanity came short; justification and redemption; the Son and the heirs; and the oneness for which Jesus prayed. Each must contribute to the argument rather than merely repeat its conclusion. The foundation laid here is the substance inquiry of Book I. The evidence dimension of Hebrews 11:1 remains joined to it and will be developed in Book II.
+
+## Questions for reflection and study
+
+1. Why does the writer of Hebrews move from the rebuke in Hebrews 5:11–14 to the call to maturity in Hebrews 6:1–3?
+2. How does Hebrews 10:32–39 prepare the reader for the declaration about faith in Hebrews 11:1?
+3. What does *hypostasis* contribute when faith is called the substance of things hoped for?
+4. How should the substance and assurance dimensions be considered together without confusing their distinct emphases?
+5. What does the use of *hypostasis* in Hebrews 1:3 contribute to the inquiry, and where must the comparison stop?
+6. How does Hebrews 3:14 help us understand the relationship between *hypostasis*, confidence, and steadfastness?
+7. What does the Aletheia leaflet explicitly teach about *pistis*, credence, and the state of God's children?
+8. How does Genesis 1:26–28 establish the Design to which the source connects true nature?
+9. What is the relationship in Hebrews 11 between faith, good report, endurance, and pleasing God?
+10. How do Hebrews 11:5–6 and Matthew 3:17 raise the question of Sonship and the Father's pleasure, while preserving the uniqueness of Christ?
+11. Why must Christ's representation of divine glory be considered together with His redemptive accomplishment?
+12. What does the synthesis “faith is our state by Design” draw from these distinct scriptural and source testimonies?
+13. Why does the chapter establish the foundation without attempting to exhaust the later teachings on adoption, righteousness, redemption, heirship, divine nature, and oneness?
 
 # Chapter 2 — Pistis: Credence, Acceptance and Sonship
 ## Faith toward God: the state of His children
