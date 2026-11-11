@@ -15,7 +15,7 @@ import { useUserLibrary } from "@/lib/state/user-library";
 import { cn } from "@/lib/utils";
 import { ReaderMarkdown } from "@/components/books/reader-markdown";
 import { loadProtectedBookChapters } from "@/lib/data/protected-content";
-import { faithCompanionIntroduction } from "@/lib/content/companion-faith";
+import { faithCompanionPreface } from "@/lib/content/companion-faith";
 import type { BookChapter } from "@/lib/data/types";
 
 type ReaderTheme = "light" | "sepia" | "gray" | "dark" | "deep-dark";
@@ -355,8 +355,8 @@ function ReaderContent() {
       <article ref={articleRef} className="mx-auto px-4 py-6" style={{ color: theme.foreground }}>
         {book.id === "book-doctrine-of-faith" && index === 0 ? (
           <section className="mx-auto mb-14 max-w-[38rem] border-b pb-10" style={{ borderColor: theme.border }}>
-            <h1 className="mb-6 font-heading text-3xl tracking-wide">Introduction</h1>
-            <ReaderMarkdown content={faithCompanionIntroduction} className="reader-prose" fontSize={fontSize} />
+            <h1 className="mb-6 font-heading text-3xl tracking-wide">Preface</h1>
+            <ReaderMarkdown content={faithCompanionPreface} className="reader-prose" fontSize={fontSize} />
           </section>
         ) : null}
         <h1 className="mx-auto mb-4 max-w-[38rem] font-heading text-3xl tracking-wide">{chapter.title}</h1>
