@@ -33,8 +33,6 @@ To those who desire to know the truth of faith, the nature of sonship, and the d
 
 Preface
 
-Introduction
-
 1. Faith as Hypostasis: Substance and Underlying Reality
 
 2. Pistis: Credence, Acceptance and Sonship
@@ -65,19 +63,9 @@ Glossary of Key Terms
 
 ---
 
+
+
 ## Preface
-
-Faith is often discussed as though it were chiefly a matter of what a person hopes to receive, how strongly a person believes, or how confidently a person speaks. The question pursued in these pages is more fundamental: what is faith, and what does it reveal about the state and identity of the children of God?
-
-The Aletheia teaching on “Faith toward God” places *pistis*—credence—within the reality of sonship, true nature, acceptance, and the design in which humanity was created. Hebrews 11:1 gives this inquiry its foundation through *hypostasis*, rendered “substance” in the King James Version. The relationship between these scriptural lines leads to the central conviction developed here: **faith is our state by design.**
-
-That conviction cannot be separated from Jesus Christ. He reveals the image and glory of God, and His redemptive work brings into view what God has accomplished for humanity. His representation and His accomplishment belong together.
-
-This volume establishes the foundation. The companion volume, *Faith Is Evidence*, takes up the evidence dimension named in Hebrews 11:1 and develops it from that foundation.
-
----
-
-## Introduction
 
 Few subjects reach as deeply into human existence as faith. Across generations and civilizations, faith has occupied a significant place in the way people understand life, interpret their experiences, form convictions, confront uncertainty and determine the course of their actions. It has been understood and expressed in different ways across cultures, philosophical traditions, religious communities and individual worldviews. These varied understandings have influenced humanity in profound ways, shaping personal lives, relationships, communities and the development of societies. Their consequences have been both constructive and destructive, inspiring hope, courage and purpose in some circumstances, while contributing to division, intolerance and conflict in others.
 
