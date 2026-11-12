@@ -29,6 +29,19 @@ To those who desire to know the truth of faith, the nature of sonship, and the d
 
 ---
 
+---
+
+
+
+## Preface
+
+Few subjects reach as deeply into human existence as faith. Across generations and civilizations, faith has occupied a significant place in the way people understand life, interpret their experiences, form convictions, confront uncertainty and determine the course of their actions. It has been understood and expressed in different ways across cultures, philosophical traditions, religious communities and individual worldviews. These varied understandings have influenced humanity in profound ways, shaping personal lives, relationships, communities and the development of societies. Their consequences have been both constructive and destructive, inspiring hope, courage and purpose in some circumstances, while contributing to division, intolerance and conflict in others.
+
+Yet, for all its influence and the many ways in which it is understood and practised, a fundamental question remains: what is faith? The familiarity of the word, the diversity of its expressions and the importance attached to it have not necessarily settled the question of its essential meaning. Faith is often considered in relation to what people believe, what they expect, what they accept or what they do. While these considerations reveal aspects of its expression, they do not necessarily establish its fundamental nature. There is a distinction between examining the effects and expressions of faith and understanding what faith itself is.
+
+**The Doctrine of Faith** takes up this fundamental question. Its purpose is not simply to discuss faith as a familiar concept, catalogue its applications or offer another collection of reflections on believing. It seeks a sustained examination of the meaning and significance of faith within the testimony of Scripture. This requires close attention to the language of Scripture, the relationships established throughout its testimony and the full implications of what is revealed.
+
+
 ## Contents
 
 Preface
@@ -61,17 +74,6 @@ Scripture Reference Guide
 
 Glossary of Key Terms
 
----
-
-
-
-## Preface
-
-Few subjects reach as deeply into human existence as faith. Across generations and civilizations, faith has occupied a significant place in the way people understand life, interpret their experiences, form convictions, confront uncertainty and determine the course of their actions. It has been understood and expressed in different ways across cultures, philosophical traditions, religious communities and individual worldviews. These varied understandings have influenced humanity in profound ways, shaping personal lives, relationships, communities and the development of societies. Their consequences have been both constructive and destructive, inspiring hope, courage and purpose in some circumstances, while contributing to division, intolerance and conflict in others.
-
-Yet, for all its influence and the many ways in which it is understood and practised, a fundamental question remains: what is faith? The familiarity of the word, the diversity of its expressions and the importance attached to it have not necessarily settled the question of its essential meaning. Faith is often considered in relation to what people believe, what they expect, what they accept or what they do. While these considerations reveal aspects of its expression, they do not necessarily establish its fundamental nature. There is a distinction between examining the effects and expressions of faith and understanding what faith itself is.
-
-**The Doctrine of Faith** takes up this fundamental question. Its purpose is not simply to discuss faith as a familiar concept, catalogue its applications or offer another collection of reflections on believing. It seeks a sustained examination of the meaning and significance of faith within the testimony of Scripture. This requires close attention to the language of Scripture, the relationships established throughout its testimony and the full implications of what is revealed.
 
 # Chapter 1 — Faith as Hypostasis: Substance and Underlying Reality
 
