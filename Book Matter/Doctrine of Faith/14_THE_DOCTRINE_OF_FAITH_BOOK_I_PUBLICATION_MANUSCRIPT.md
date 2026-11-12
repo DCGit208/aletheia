@@ -44,36 +44,37 @@ Yet, for all its influence and the many ways in which it is understood and pract
 
 ## Contents
 
-Preface
+**THE DOCTRINE OF FAITH**  
+*Book I — The Gospel That Restores Our True Nature*  
+Dr. Coach Achu Gustave  
+Aletheia Publications
 
-1. Faith as Hypostasis: Substance and Underlying Reality
+### PART I — FAITH AS HYPOSTASIS; FAITH AS PISTIS
+*The Epistemological Foundation of the Doctrine of Faith*
 
-2. Pistis: Credence, Acceptance and Sonship
+**Chapter 1 — Faith as Hypostasis**
 
-3. Elohim: Image, Likeness and Human Design
+**Chapter 2 — Faith as Pistis**
 
-4. Ye Are Gods: Psalm 82 and the Testimony of Jesus in John 10
+### PART II — HYPOSTASIS II
+*The Investigation of Our Essential Nature*
 
-5. Partakers of the Divine Nature
+**Premise One — Creation: The Original Design**
 
-6. Why Did Jesus Come? The Glory We Came Short Of
+**Premise Two — Participation in Divine Nature**
 
-7. Justification, Righteousness and Redemption in Christ
+**Premise Three — The Faith of God**
 
-8. The Son and the Heir: Our Inheritance in Christ
+### PART III — JUSTIFIED
+*Justification and Redemption as Restoration to Our True Nature*
 
-9. Our Oneness with the Father and the Glory of God
+**Chapter 1 — The Glory We Came Short Of**
 
-10. Have the Faith of God: Faith as the State of God
+**Chapter 2 — Dikaioō: What It Means to Be Justified**
 
-Conclusion
+**Chapter 3 — Apolytrōsis: Redemption**
 
-Bibliography and Reference Works
-
-Scripture Reference Guide
-
-Glossary of Key Terms
-
+**Chapter 4 — One in Glory: Perfect in One**
 
 # Chapter 1 — Faith as Hypostasis: Substance and Underlying Reality
 
