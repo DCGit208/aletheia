@@ -354,10 +354,28 @@ function ReaderContent() {
 
       <article ref={articleRef} className="mx-auto px-4 py-6" style={{ color: theme.foreground }}>
         {book.id === "book-doctrine-of-faith" && index === 0 ? (
-          <section className="mx-auto mb-14 max-w-[38rem] border-b pb-10" style={{ borderColor: theme.border }}>
-            <h1 className="mb-6 font-heading text-3xl tracking-wide">Preface</h1>
-            <ReaderMarkdown content={faithCompanionPreface} className="reader-prose" fontSize={fontSize} />
-          </section>
+          <div className="mx-auto max-w-[38rem]">
+            <section className="flex min-h-[70vh] flex-col items-center justify-center border-b px-4 py-16 text-center" style={{ borderColor: theme.border }}>
+              <p className="mb-8 text-xs tracking-[0.24em] uppercase" style={{ color: theme.muted }}>Aletheia Publications</p>
+              <h1 className="mb-5 font-heading text-4xl tracking-wide">THE DOCTRINE OF FAITH</h1>
+              <p className="mb-8 text-lg italic">The Gospel That Restores Our True Nature</p>
+              <p className="mb-2 text-sm tracking-[0.18em] uppercase">Book I</p>
+              <p className="mt-12 font-medium">Dr. Coach Achu Gustave</p>
+            </section>
+            <section className="border-b py-12" style={{ borderColor: theme.border }}>
+              <h2 className="mb-6 font-heading text-xl">Copyright</h2>
+              <ReaderMarkdown content={"Copyright © 2026 Dr. Coach Achu Gustave. All rights reserved.\n\nPublished by Aletheia Publications.\n\nNo part of this publication may be reproduced, distributed, or transmitted in any form or by any means without prior written permission of the publisher, except for brief quotations in reviews and other uses permitted by copyright law.\n\nScripture quotations are identified by translation in the text. Scripture quotations marked (TLB) are taken from *The Living Bible*, copyright © 1971 by Tyndale House Ministries. Used by permission. All rights reserved.\n\n**Edition:** Book I  \n**Language:** English  \n**Publisher:** Aletheia Publications"} className="reader-prose" fontSize={fontSize} />
+            </section>
+            <section className="flex min-h-[42vh] items-center justify-center border-b px-6 py-16 text-center" style={{ borderColor: theme.border }}>
+              <div>
+                <h2 className="mb-8 font-heading text-xl">Dedication</h2>
+                <p className="text-lg italic">To those who desire to know the truth of faith, the nature of sonship, and the design revealed in Christ.</p>
+              </div>
+            </section>
+            <section className="border-b py-12" style={{ borderColor: theme.border }}>
+              <ReaderMarkdown content={faithCompanionPreface} className="reader-prose" fontSize={fontSize} />
+            </section>
+          </div>
         ) : null}
         <h1 className="mx-auto mb-4 max-w-[38rem] font-heading text-3xl tracking-wide">{chapter.title}</h1>
           {chapter.verses?.length ? (
