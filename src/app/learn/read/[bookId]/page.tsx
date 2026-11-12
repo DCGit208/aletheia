@@ -15,7 +15,7 @@ import { useUserLibrary } from "@/lib/state/user-library";
 import { cn } from "@/lib/utils";
 import { ReaderMarkdown } from "@/components/books/reader-markdown";
 import { loadProtectedBookChapters } from "@/lib/data/protected-content";
-import { faithCompanionPreface } from "@/lib/content/companion-faith";
+import { faithCompanionContents, faithCompanionPreface } from "@/lib/content/companion-faith";
 import type { BookChapter } from "@/lib/data/types";
 
 type ReaderTheme = "light" | "sepia" | "gray" | "dark" | "deep-dark";
@@ -373,6 +373,10 @@ function ReaderContent() {
               </div>
             </section>
             <section className="border-b py-12" style={{ borderColor: theme.border }}>
+              <section className="mb-12">
+                <h2 className="mb-6 font-heading text-xl">Contents</h2>
+                <ReaderMarkdown content={faithCompanionContents} className="reader-prose" fontSize={fontSize} />
+              </section>
               <ReaderMarkdown content={faithCompanionPreface} className="reader-prose" fontSize={fontSize} />
             </section>
           </div>
