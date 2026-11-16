@@ -445,7 +445,7 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
     "Understanding Our Identity, Authority and Function in Christ. An examination of the believer's present identity in Revelation 1:5–6 and the operation of the priestly ministry of reconciliation and kingly authority, with Jesus Christ as the model.",
     "book-kings-and-priests",
     5000,
-    { shopGroup: "publications", badge: "Book", kicker: "Digital book · $50", coverTone: "earth" },
+    { shopGroup: "publications", badge: "Book", kicker: "Digital book · $50", coverTone: "earth", coverImage: "/covers/kings-priests.jpeg" },
   ),
   "product-aspazontai-italias": bookOffer(
     "product-aspazontai-italias",
@@ -453,7 +453,7 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
     "Mid-60s AD. An examination of the existence, plans, purposes, and commitments of the early churches, and the challenge their historical witness presents to contemporary Christianity and society.",
     "book-aspazontai-italias",
     5000,
-    { shopGroup: "publications", badge: "Book", kicker: "Digital book · $50", coverTone: "earth" },
+    { shopGroup: "publications", badge: "Book", kicker: "Digital book · $50", coverTone: "earth", coverImage: "/covers/aspazontai-italias.jpeg" },
   ),
   "product-course-dominion": courseOffer(
     "product-course-dominion",
