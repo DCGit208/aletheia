@@ -439,6 +439,22 @@ export const STRIPE_OFFERS: Record<string, StripeOffer> = {
       coverImage: "/covers/great-deception.jpg",
     },
   ),
+  "product-kings-and-priests": bookOffer(
+    "product-kings-and-priests",
+    "Kings & Priests",
+    "Understanding Our Identity, Authority and Function in Christ. An examination of the believer's present identity in Revelation 1:5–6 and the operation of the priestly ministry of reconciliation and kingly authority, with Jesus Christ as the model.",
+    "book-kings-and-priests",
+    5000,
+    { shopGroup: "publications", badge: "Book", kicker: "Digital book · $50", coverTone: "earth" },
+  ),
+  "product-aspazontai-italias": bookOffer(
+    "product-aspazontai-italias",
+    "Aspazontai hymas hoi apo tēs Italias",
+    "Mid-60s AD. An examination of the existence, plans, purposes, and commitments of the early churches, and the challenge their historical witness presents to contemporary Christianity and society.",
+    "book-aspazontai-italias",
+    5000,
+    { shopGroup: "publications", badge: "Book", kicker: "Digital book · $50", coverTone: "earth" },
+  ),
   "product-course-dominion": courseOffer(
     "product-course-dominion",
     "Dominion as Stewardship — course access",
