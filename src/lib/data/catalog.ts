@@ -43,6 +43,7 @@ export const catalog: CatalogSnapshot = {
         "book-principles-doctrine-christ",
         "book-kings-and-priests",
         "book-aspazontai-italias",
+        "book-crisis-of-common-sense",
         "article-unveiled-speech",
         "article-steward-city",
       ],
@@ -65,6 +66,7 @@ export const catalog: CatalogSnapshot = {
         "book-principles-doctrine-christ",
         "book-kings-and-priests",
         "book-aspazontai-italias",
+        "book-crisis-of-common-sense",
       ],
       articleIds: ["article-unveiled-speech", "article-steward-city"],
       courseIds: [
@@ -464,6 +466,25 @@ export const catalog: CatalogSnapshot = {
       productId: "product-aspazontai-italias",
       chapterCount: 1,
     },
+    {
+      id: "book-crisis-of-common-sense",
+      title: "The Crisis of Common Sense",
+      description: "A work by Dr. Coach Achu Gustave examining how human-created complications and disconnection from practical judgment affect the self, relationships, family, community, nations, and the wider world. The book considers the recovery of sound judgment and wise living. This catalogue entry provides a public introduction; the complete author-approved manuscript is not yet connected to the reader.",
+      authors: [achu],
+      contributors: [],
+      publisher: BRAND.publications,
+      publishedAt: "2026-11-17",
+      language: "en",
+      edition: "First",
+      categories: ["Human Development", "Relationships", "Society", "Practical Wisdom"],
+      tags: ["common-sense", "judgment", "wisdom", "human-development", "relationships", "society"],
+      coverTone: "ink",
+      coverImage: "/covers/crisis-of-common-sense.jpeg",
+      status: "published",
+      accessLevel: "public",
+      previewChapterIds: ["ch-crisis-common-sense-introduction"],
+      chapterCount: 1,
+    },
     ...foundationBooks,
   ],
   chapters: [
@@ -609,6 +630,17 @@ The cover is published. The full study will enter this reader next.`,
       number: 1,
       title: "Introduction",
       body: "Hebrews 13:24 preserves the greeting of those from Italy. This historical reference opens an examination of the existence, plans, purposes, and commitments of early Christian assemblies and the challenge their witness presents to contemporary churches and societies. The full manuscript is being prepared; this introduction is the public reading preview.",
+    },
+    {
+      id: "ch-crisis-common-sense-introduction",
+      bookId: "book-crisis-of-common-sense",
+      number: 1,
+      title: "Introduction",
+      body: `The Crisis of Common Sense begins with a simple but consequential concern: human beings have become capable of creating complications that disconnect them from themselves, from one another, and from the communities and societies they inhabit.
+
+This work examines that crisis across the personal, interpersonal, familial, communal, national, and global dimensions of human life. Its concern is not merely the absence of information, but the loss or neglect of practical judgment—the capacity to recognize what is reasonable, weigh consequences, and act wisely in the circumstances of ordinary life.
+
+The book's larger inquiry is how sound judgment and wise living can be recovered. This is a public introductory reading, not the complete manuscript.`,
     },
     ...godOfPleasureChapters,
     {
