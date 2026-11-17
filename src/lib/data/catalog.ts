@@ -44,6 +44,7 @@ export const catalog: CatalogSnapshot = {
         "book-kings-and-priests",
         "book-aspazontai-italias",
         "book-crisis-of-common-sense",
+        "book-two-mile-rule",
         "article-unveiled-speech",
         "article-steward-city",
       ],
@@ -67,6 +68,7 @@ export const catalog: CatalogSnapshot = {
         "book-kings-and-priests",
         "book-aspazontai-italias",
         "book-crisis-of-common-sense",
+        "book-two-mile-rule",
       ],
       articleIds: ["article-unveiled-speech", "article-steward-city"],
       courseIds: [
@@ -485,6 +487,26 @@ export const catalog: CatalogSnapshot = {
       previewChapterIds: ["ch-crisis-common-sense-introduction"],
       chapterCount: 1,
     },
+    {
+      id: "book-two-mile-rule",
+      title: "The Two Mile Rule",
+      subtitle: "From Ordinary Effort to Leverage, Abundance, and Extraordinary Value",
+      description: "A study of Jesus' teaching in Matthew 5:41 and the distinction between the first mile of expected obligation and the second mile of chosen initiative. The second mile is not simply twice the work; it is purposeful action beyond what is required—creating additional value through initiative, learning, service, innovation, and capacity-building. This catalogue entry provides a public introduction; the complete author-approved manuscript is not yet connected to the reader.",
+      authors: [achu],
+      contributors: [],
+      publisher: BRAND.publications,
+      publishedAt: "2026-11-17",
+      language: "en",
+      edition: "First",
+      categories: ["Christian Living", "Personal Development", "Leadership", "Practical Wisdom"],
+      tags: ["two-mile-rule", "matthew-5-41", "initiative", "value-creation", "abundance", "service", "leverage"],
+      coverTone: "earth",
+      coverImage: "/covers/two-mile-rule.jpeg",
+      status: "published",
+      accessLevel: "public",
+      previewChapterIds: ["ch-two-mile-rule-introduction"],
+      chapterCount: 1,
+    },
     ...foundationBooks,
   ],
   chapters: [
@@ -641,6 +663,19 @@ The cover is published. The full study will enter this reader next.`,
 This work examines that crisis across the personal, interpersonal, familial, communal, national, and global dimensions of human life. Its concern is not merely the absence of information, but the loss or neglect of practical judgment—the capacity to recognize what is reasonable, weigh consequences, and act wisely in the circumstances of ordinary life.
 
 The book's larger inquiry is how sound judgment and wise living can be recovered. This is a public introductory reading, not the complete manuscript.`,
+    },
+    {
+      id: "ch-two-mile-rule-introduction",
+      bookId: "book-two-mile-rule",
+      number: 1,
+      title: "Introduction",
+      body: `In Matthew 5:41, Jesus speaks of going beyond the mile that is imposed: if someone compels you to go one mile, go with him two. The instruction opens a way of thinking about effort, responsibility, initiative, and value.
+
+The first mile represents what is expected—the obligation, the requirement, the ordinary measure of compliance. The second mile begins where compulsion ends. It is chosen. It is the decision to contribute beyond the minimum, not merely to multiply effort, but to bring initiative, learning, service, innovation, and capacity to the work at hand.
+
+The Two Mile Rule explores how this distinction can change the way we approach our responsibilities and opportunities. The second mile is not a promise of automatic wealth, nor a command to work without wisdom. It is a principle of purposeful action: moving beyond what is demanded toward what can be meaningfully created.
+
+This is a public introductory reading, not the complete manuscript.`,
     },
     ...godOfPleasureChapters,
     {
