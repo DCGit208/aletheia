@@ -492,7 +492,15 @@ export const catalog: CatalogSnapshot = {
     {
       id: "book-pantokrator",
       title: "THE PANTOKRATŌR",
-      description: "An investigation of the declaration in Revelation 1:8 and the Greek designation Pantokratōr (Παντοκράτωρ), translated “the Almighty.” The governing inquiry is what it means to be the One who holds sway over all things. The work is centred on the name itself—not a general treatment of divine attributes or an extended commentary on Revelation—and follows the progression from declaration and language to meaning, reality, and encounter. This catalogue entry provides a public introductory reading; the complete author-approved manuscript is not yet connected to the reader.",
+      description: "THE PANTOKRATŌR
+
+All things. Every realm. Every dominion. Every throne. Every power.
+
+What does it mean for all things to be under the sway of One?
+
+The declaration is profound. Its implications reach into the very order of existence, the affairs of nations, the exercise of authority and the reality of sovereignty itself.
+
+THE PANTOKRATŌR",
       authors: [achu],
       contributors: [],
       publisher: BRAND.publications,
@@ -690,17 +698,15 @@ The book's larger inquiry is how sound judgment and wise living can be recovered
       bookId: "book-pantokrator",
       number: 1,
       title: "Introduction",
-      body: `Revelation 1:8 presents a declaration of extraordinary magnitude: “I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.” At the centre of this book is the designation translated “the Almighty”: Pantokratōr (Παντοκράτωρ).
+      body: `THE PANTOKRATŌR
 
-The working meaning that guides this investigation is “He who holds sway over all things.” The central inquiry is therefore not simply what power God possesses, but what it means to be the One whose sway extends over all things.
+All things. Every realm. Every dominion. Every throne. Every power.
 
-The name itself remains the controlling centre of the work. This is not intended as a general book about the attributes of God, a conventional study of divine power, or an extended commentary on Revelation. It is an investigation of the declaration in Revelation 1:8 and the meaning, scope, implications, and absolute sovereignty expressed in the designation Pantokratōr.
+What does it mean for all things to be under the sway of One?
 
-The inquiry proceeds through the declaration, the Greek designation and its biblical usage, the scope of the reality it expresses, and the implications of that reality for human understanding and existence. Related ideas such as sovereignty, dominion, and authority are to be distinguished from the actual Greek term rather than treated as interchangeable words.
+The declaration is profound. Its implications reach into the very order of existence, the affairs of nations, the exercise of authority and the reality of sovereignty itself.
 
-The governing expression is: Reverence. Reflection. A Deeper Encounter.
-
-This is a public introductory reading, not the complete manuscript. The full author-approved text is not yet connected to the reader.`,
+THE PANTOKRATŌR`,
     },
     {
       id: "ch-two-mile-rule-introduction",
