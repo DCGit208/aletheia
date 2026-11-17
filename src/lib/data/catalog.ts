@@ -45,6 +45,7 @@ export const catalog: CatalogSnapshot = {
         "book-aspazontai-italias",
         "book-crisis-of-common-sense",
         "book-two-mile-rule",
+        "book-pantokrator",
         "article-unveiled-speech",
         "article-steward-city",
       ],
@@ -69,6 +70,7 @@ export const catalog: CatalogSnapshot = {
         "book-aspazontai-italias",
         "book-crisis-of-common-sense",
         "book-two-mile-rule",
+        "book-pantokrator",
       ],
       articleIds: ["article-unveiled-speech", "article-steward-city"],
       courseIds: [
@@ -488,6 +490,25 @@ export const catalog: CatalogSnapshot = {
       chapterCount: 1,
     },
     {
+      id: "book-pantokrator",
+      title: "THE PANTOKRATŌR",
+      description: "An investigation of the declaration in Revelation 1:8 and the Greek designation Pantokratōr (Παντοκράτωρ), translated “the Almighty.” The governing inquiry is what it means to be the One who holds sway over all things. The work is centred on the name itself—not a general treatment of divine attributes or an extended commentary on Revelation—and follows the progression from declaration and language to meaning, reality, and encounter. This catalogue entry provides a public introductory reading; the complete author-approved manuscript is not yet connected to the reader.",
+      authors: [achu],
+      contributors: [],
+      publisher: BRAND.publications,
+      publishedAt: "2026-11-17",
+      language: "en",
+      edition: "First",
+      categories: ["Theology", "Biblical Studies", "Nature of God", "Scripture"],
+      tags: ["pantokrator", "pantokratōr", "revelation-1-8", "almighty", "sovereignty", "greek-word-study"],
+      coverTone: "ink",
+      coverImage: "/covers/the-pantokrator.jpeg",
+      status: "published",
+      accessLevel: "public",
+      previewChapterIds: ["ch-pantokrator-introduction"],
+      chapterCount: 1,
+    },
+    {
       id: "book-two-mile-rule",
       title: "The Two Mile Rule",
       subtitle: "From Ordinary Effort to Leverage, Abundance, and Extraordinary Value",
@@ -663,6 +684,23 @@ The cover is published. The full study will enter this reader next.`,
 This work examines that crisis across the personal, interpersonal, familial, communal, national, and global dimensions of human life. Its concern is not merely the absence of information, but the loss or neglect of practical judgment—the capacity to recognize what is reasonable, weigh consequences, and act wisely in the circumstances of ordinary life.
 
 The book's larger inquiry is how sound judgment and wise living can be recovered. This is a public introductory reading, not the complete manuscript.`,
+    },
+    {
+      id: "ch-pantokrator-introduction",
+      bookId: "book-pantokrator",
+      number: 1,
+      title: "Introduction",
+      body: `Revelation 1:8 presents a declaration of extraordinary magnitude: “I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.” At the centre of this book is the designation translated “the Almighty”: Pantokratōr (Παντοκράτωρ).
+
+The working meaning that guides this investigation is “He who holds sway over all things.” The central inquiry is therefore not simply what power God possesses, but what it means to be the One whose sway extends over all things.
+
+The name itself remains the controlling centre of the work. This is not intended as a general book about the attributes of God, a conventional study of divine power, or an extended commentary on Revelation. It is an investigation of the declaration in Revelation 1:8 and the meaning, scope, implications, and absolute sovereignty expressed in the designation Pantokratōr.
+
+The inquiry proceeds through the declaration, the Greek designation and its biblical usage, the scope of the reality it expresses, and the implications of that reality for human understanding and existence. Related ideas such as sovereignty, dominion, and authority are to be distinguished from the actual Greek term rather than treated as interchangeable words.
+
+The governing expression is: Reverence. Reflection. A Deeper Encounter.
+
+This is a public introductory reading, not the complete manuscript. The full author-approved text is not yet connected to the reader.`,
     },
     {
       id: "ch-two-mile-rule-introduction",
