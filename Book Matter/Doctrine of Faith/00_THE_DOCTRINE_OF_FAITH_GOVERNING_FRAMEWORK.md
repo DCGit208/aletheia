@@ -206,7 +206,7 @@ The KJV wording must be quoted accurately:
 
 > “And Jesus answering saith unto them, Have faith in God.” — Mark 11:22, KJV
 
-The author's governing interpretation is that this expression is to be understood as **“Have the faith of God”**—not merely as an instruction to believe in God, trust that God exists, or exercise confidence that God will perform a particular act.
+The governing rendering of the Greek expression is **“Have the faith of God”**—not merely an instruction to believe in God, trust that God exists, or exercise confidence that God will perform a particular act. This is to be treated as the literal meaning conveyed by the expression, not as a personal interpretation or theological preference of the author.
 
 This interpretation is central to the doctrine and must be developed fully and responsibly. The question is what Jesus meant by directing his hearers to have the faith of God.
 
@@ -221,11 +221,11 @@ Why? Because this is who humanity is by Design, and redemption and justification
 The exposition must examine Jesus' teaching in Mark 11 in its immediate context, including the fig tree and the subsequent teaching. It must accurately distinguish:
 
 1. The wording of the KJV translation: “Have faith in God.”
-2. The author's interpretive rendering and doctrinal reading: “Have the faith of God.”
+2. The literal rendering of the Greek expression: “Have the faith of God.”
 3. The scriptural and linguistic reasoning offered to establish that reading.
 4. The doctrinal implication: the state and nature of God as humanity's Design and the reality to which redemption restores us.
 
-Do not present the author's interpretive rendering as though it were the literal wording of the KJV. Equally, do not evade, dilute or replace the author's intended interpretation with the conventional explanation that Jesus was simply telling people to have confidence in God. The linguistic and contextual case must be made transparently and with precision.
+Do not confuse the KJV's English rendering, “Have faith in God,” with the literal rendering of the Greek expression, “Have the faith of God.” The latter is not to be labelled the author's interpretation. The linguistic and contextual case must be established transparently and precisely, without replacing the literal sense with the conventional confidence-based explanation.
 
 #### 1 John 4:17 — “As he is, so are we in this world”
 
@@ -401,7 +401,7 @@ The following approaches are prohibited as substitutes for the governing doctrin
 - Treating the believer's nature as something wholly foreign that must be acquired through effort.
 - Explaining justification only as a favourable verdict while leaving the restoration of nature unexamined.
 - Treating redemption as an isolated transaction unrelated to the original Design.
-- Replacing the author's reading of Mark 11:22 with a conventional confidence-based explanation.
+- Replacing the literal rendering of Mark 11:22, “Have the faith of God,” with a conventional confidence-based explanation.
 - Making Hebrews 10:35–39 a standalone or organizing argument in Chapter 1.
 - Replacing the Aletheia source's distinctive teaching with generic theological summaries.
 
@@ -427,7 +427,7 @@ Mandatory controls:
 - Verify every quotation against its original source before publication.
 - Where the 2015 leaflet uses a different translation, preserve and identify that translation accurately.
 - The Living Bible wording associated with Genesis 1:27 must be checked against the edition and credited correctly.
-- The KJV wording of Mark 11:22 must remain distinguishable from the author's interpretive rendering, “Have the faith of God.”
+- The KJV wording of Mark 11:22 must remain distinguishable from the literal rendering of the Greek expression, “Have the faith of God.”
 
 **Reference correction:** Romans 3:23–24 is the intended passage. Any occurrence of “Romans 3:23–34” in earlier notes is a typographical error and must be corrected to Romans 3:23–24.
 
