@@ -216,6 +216,8 @@ The doctrinal meaning being advanced is:
 
 Why? Because this is who humanity is by Design, and redemption and justification restore the person to that Design. The instruction is therefore examined as a summons to live with an awareness of the divine nature and state that belong to humanity's Design and are restored in Christ—not as an instruction to manufacture a foreign nature through religious effort.
 
+**Additional authorial clarification:** The question behind Jesus' words is, “What did he mean?” The intended interpretation, “Have the faith of God,” is to be understood as **have the state of God; have the nature of God**. This is not the acquisition of an identity foreign to humanity: it points back to who humanity is by God's Design. Redemption and justification restore us to that Design. This clarification reinforces the connection between Mark 11:22, the original nature established in creation, and the restoration developed in Part III.
+
 The exposition must examine Jesus' teaching in Mark 11 in its immediate context, including the fig tree and the subsequent teaching. It must accurately distinguish:
 
 1. The wording of the KJV translation: “Have faith in God.”
