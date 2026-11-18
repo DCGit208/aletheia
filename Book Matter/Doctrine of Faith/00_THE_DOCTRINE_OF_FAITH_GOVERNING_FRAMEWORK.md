@@ -99,7 +99,7 @@ The chapter must conclude by establishing the epistemological foundation for the
 
 This chapter investigates **pistis** as the Greek term rendered faith.
 
-The lexical foundation begins with the definition of pistis as **credence**. The investigation must go beyond conventional treatments of faith as belief, trust, confidence, religious conviction or fidelity. Those expressions may describe aspects or applications of faith, but they do not exhaust the doctrinal significance developed by the Aletheia source.
+The lexical foundation begins with the definition of pistis as **credence**. The investigation must go beyond conventional treatments of faith as belief, trust, confidence, religious conviction or fidelity. Those expressions may describe aspects or applications of faith, but they do not exhaust the doctrinal significance established by this framework.
 
 The central relationship to establish is:
 
@@ -358,7 +358,7 @@ Particular terms include:
 - Dikaiosynē.
 - Apolytrōsis.
 
-Lexical definitions supplied by the author or Aletheia source must be engaged fully. Their wording must not be silently replaced with conventional theological explanations.
+Lexical definitions and doctrinal explanations incorporated into this framework must be engaged fully. Their wording and intended significance must not be silently replaced with conventional theological explanations.
 
 Where a lexical definition is presented as a direct dictionary or lexicon quotation, its precise source and wording must be verified. The semantic range of a word must be distinguished from the meaning established by its particular context. A lexical possibility is not automatically the contextual meaning of every occurrence.
 
