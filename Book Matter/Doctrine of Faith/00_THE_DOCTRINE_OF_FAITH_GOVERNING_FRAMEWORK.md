@@ -27,7 +27,7 @@ Every chapter, subsection, scriptural exposition, lexical investigation, doctrin
 6. What justification and redemption accomplish through Christ.
 7. What restoration to the nature, glory and oneness intended by God means.
 
-No older working file, outline, manuscript draft, editorial reconstruction or assistant-generated interpretation may silently displace this framework. Where an older document conflicts with it, this framework governs. Relevant material may be recovered only after it has been assessed for consistency with this authority and with the controlling Aletheia doctrinal source.
+No older working file, outline, manuscript draft, editorial reconstruction or assistant-generated interpretation may silently displace this framework. Where an older document conflicts with it, this framework governs. Relevant material from earlier documents may be consulted as historical or research material only where useful. It has no governing authority and must be assessed against this framework before it is used.
 
 ## 2. THE GOVERNING DOCTRINAL THESIS
 
@@ -107,11 +107,11 @@ The central relationship to establish is:
 
 Credence must be examined in relation to acceptance, especially the idea of the state of being acceptable. The argument must not casually treat a dictionary's list of possible glosses as though every gloss were the meaning of pistis in every context. The semantic range, the immediate scriptural usage and the author's doctrinal synthesis must be distinguished.
 
-The chapter must engage the Aletheia Libraries 1 leaflet's explicit teaching:
+The chapter must develop the following explicit doctrinal statement established by this governing framework:
 
 > “Faith essentially defines our state as children of God.”
 
-The leaflet's connection between pistis, credence, acceptance, true nature, adoption and Sonship is foundational. Its teaching must be engaged fully, accurately and in its own terms. It must not be diluted into the conventional claim that faith is merely a person's belief about God.
+The connection between pistis, credence, acceptance, true nature, adoption and Sonship is foundational to this book. It must be developed fully and accurately, without dilution into the conventional claim that faith is merely a person's belief about God.
 
 The investigation must establish the relationship with:
 
@@ -126,7 +126,7 @@ An essential lexical and doctrinal connection must be developed between **pistis
 
 Romans 3:24 introduces justification through Christ. The lexical investigation of dikaioō must examine the supplied rendering: **to render just or righteous; to render a person as he ought to be**. The precise lexical source and semantic range must be verified. This supplied rendering must not be silently replaced by a conventional explanation that narrows justification to a favourable verdict and leaves the restoration question unanswered.
 
-The argument must investigate the relationship with **dikaiosynē**, righteousness, and the Aletheia source's explanation of equity as conformity with the nature of God.
+The argument must investigate the relationship with **dikaiosynē**, righteousness, and the governing framework's explanation of equity as conformity with the nature of God.
 
 The question is not merely whether a person has received a favourable verdict. The larger doctrinal inquiry is what it means to be rendered as one ought to be in relation to God's Design.
 
@@ -286,7 +286,7 @@ The glory of God must not be treated as an incidental reference to splendour or 
 
 The lexical investigation must examine **dikaioō** in Romans 3:24 and its relationship with **dikaiosynē**.
 
-The supplied Aletheia explanation of righteousness as equity, impartiality and conformity with the nature of God must be engaged fully.
+The governing doctrinal framework's explanation of righteousness as equity, impartiality and conformity with the nature of God must be developed fully.
 
 The chapter must examine the expression **“render just or righteous, as one ought to be”** in relation to the restoration argument.
 
@@ -364,22 +364,22 @@ Where a lexical definition is presented as a direct dictionary or lexicon quotat
 
 The book must not use etymology as a substitute for exegesis. Compound analysis can contribute to an investigation, but a word's meaning must also be established through its documented usage and the context of the passage.
 
-### 4.3 Preserve the Aletheia source's doctrinal authority
+### 4.3 Preserve the governing doctrine of this framework
 
-The **2015 Aletheia Libraries 1 leaflet** is the controlling Aletheia doctrinal source for the teaching developed in this book.
+**This Markdown framework is the single official and controlling doctrinal and editorial source for *The Doctrine of Faith — Book I*.** It governs the book's doctrine, terminology, scriptural foundations, doctrinal relationships, structure and development.
 
-The book must exhaustively engage its relevant teaching, terminology, scriptural references and doctrinal relationships. It must not omit difficult or distinctive source positions merely because they differ from conventional theological presentations.
+No leaflet, earlier Aletheia document, historical publication, working note, manuscript draft, conventional theological presentation or assistant-generated material is a parallel or superior authority for this book. Such materials may be consulted only as subordinate historical or research references when specifically useful; they must never override, redefine, dilute or silently replace what this framework establishes.
 
-Editorial development must improve clarity, organization, reasoning and literary quality without silently replacing the source's doctrine.
+The book must develop the doctrine, terminology, scriptural references and doctrinal relationships established in this framework fully and faithfully. Difficult or distinctive positions must not be omitted merely because they differ from conventional theological presentations.
 
-The leaflet is not to be treated as a casual suggestion or a source whose central teaching can be discarded whenever a conventional interpretation is more familiar. Its relevant teaching must be faithfully and thoroughly represented. The task is to articulate and develop the doctrine, not to neutralize it.
+Editorial development must improve clarity, organization, reasoning and literary quality without silently replacing the doctrine established here. The task is to articulate and develop the governing doctrine, not to neutralize it.
 
 ### 4.4 Distinguish the levels of argument
 
 The writing must maintain clear distinctions between:
 
 1. Direct statements of Scripture.
-2. Explicit teachings of the Aletheia source.
+2. Explicit doctrinal teachings established by this governing framework.
 3. Lexical evidence from original-language resources.
 4. The author's doctrinal synthesis and conclusions.
 
@@ -403,7 +403,7 @@ The following approaches are prohibited as substitutes for the governing doctrin
 - Treating redemption as an isolated transaction unrelated to the original Design.
 - Replacing the literal rendering of Mark 11:22, “Have the faith of God,” with a conventional confidence-based explanation.
 - Making Hebrews 10:35–39 a standalone or organizing argument in Chapter 1.
-- Replacing the Aletheia source's distinctive teaching with generic theological summaries.
+- Replacing the doctrine established by this framework with generic theological summaries.
 
 These prohibitions do not prevent accurate discussion of belief, trust, confidence, conduct, judgment or other biblical themes where they are genuinely relevant. They prevent those themes from displacing or redefining the doctrine.
 
@@ -425,7 +425,7 @@ Mandatory controls:
 - Check punctuation and verse boundaries.
 - Distinguish a quotation from an explanation placed in parentheses.
 - Verify every quotation against its original source before publication.
-- Where the 2015 leaflet uses a different translation, preserve and identify that translation accurately.
+- Where an earlier source document supplies a translation, verify the wording against the actual edition and identify that translation accurately; the earlier document itself does not govern the doctrine.
 - The Living Bible wording associated with Genesis 1:27 must be checked against the edition and credited correctly.
 - The KJV wording of Mark 11:22 must remain distinguishable from the literal rendering of the Greek expression, “Have the faith of God.”
 
@@ -446,7 +446,7 @@ A chapter will ordinarily include:
 3. **Opening argument:** Establish the question the chapter answers.
 4. **Lexical foundation:** Explain relevant original-language terminology where applicable.
 5. **Scriptural exposition:** Examine the principal passages in context.
-6. **Aletheia source engagement:** Develop the corresponding source teaching.
+6. **Governing-framework engagement:** Develop the corresponding doctrine and scriptural relationships established here.
 7. **Doctrinal reasoning:** Demonstrate how the evidence connects.
 8. **Implications:** Explain what the established teaching means.
 9. **Chapter conclusion:** State what has been established and prepare the reader for the next stage.
@@ -536,11 +536,11 @@ The governing movement is:
 The following standards govern implementation:
 
 1. This framework is the single governing authorial and editorial framework for the future development of Book I.
-2. The 2015 Aletheia Libraries 1 leaflet remains the controlling Aletheia doctrinal source.
+2. This Markdown framework is the single official and controlling doctrinal and editorial source for Book I.
 3. The Bible remains the primary scriptural authority.
 4. This framework supersedes earlier competing outlines, chapter plans, reconstructions and editorial frameworks in the Doctrine of Faith working folder.
 5. Existing manuscript material must not be assumed to be authoritative merely because it exists in an earlier draft.
-6. Any material retained from an earlier manuscript or research file must be reviewed and mapped against this framework and the controlling Aletheia source before it is reused.
+6. Any material retained from an earlier manuscript, leaflet or research file is subordinate historical or research material only. It must be reviewed and mapped against this framework before it is reused.
 7. No doctrinal material may be discarded merely to accommodate a Contents structure. Equally, no old material may be retained merely because work has already been invested in it.
 8. All Scripture quotations and lexical quotations must undergo verification.
 9. The proposed Contents must be derived from this framework and validated by the author before major manuscript restructuring.
